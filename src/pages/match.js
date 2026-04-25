@@ -58,22 +58,28 @@ function runMatch(host, router, wordlistId, words) {
 
   const status = el("span", { class: "pill" }, "");
   const board = el("div", { class: "match-board" });
+  const lines = svgEl("svg", { class: "match-lines", viewBox: "0 0 100 100", preserveAspectRatio: "none" });
   const resultHost = el("div");
+  const leftNodes = new Map();
+  const rightNodes = new Map();
 
   host.appendChild(el("div", { class: "card" }, [
     el("div", { class: "row between", style: "margin-bottom:14px" }, [
       status,
       el("button", { class: "ghost", onClick: () => router.go("/match") }, "换一组"),
     ]),
-    board,
+    el("div", { class: "match-wrap" }, [lines, board]),
   ]));
   host.appendChild(resultHost);
 
   const refresh = () => {
     status.textContent = `已配对 ${state.done.size}/${words.length} · 尝试 ${state.attempts}`;
     board.innerHTML = "";
+    leftNodes.clear();
+    rightNodes.clear();
     board.appendChild(renderColumn(left, "left"));
     board.appendChild(renderColumn(right, "right"));
+    requestAnimationFrame(drawLines);
   };
 
   const choose = async (side, id) => {
@@ -104,12 +110,37 @@ function runMatch(host, router, wordlistId, words) {
     return el("div", { class: "match-column" }, items.map((item) => {
       const active = side === "left" ? state.leftId === item.id : state.rightId === item.id;
       const done = state.done.has(item.id);
-      return el("button", {
+      const tile = el("button", {
         class: "match-tile" + (active ? " active" : "") + (done ? " done" : ""),
         disabled: done,
         onClick: () => choose(side, item.id),
       }, item.text);
+      if (side === "left") leftNodes.set(item.id, tile);
+      else rightNodes.set(item.id, tile);
+      return tile;
     }));
+  }
+
+  function drawLines() {
+    lines.innerHTML = "";
+    const wrapRect = board.getBoundingClientRect();
+    if (!wrapRect.width || !wrapRect.height) return;
+
+    for (const id of state.done) {
+      const from = leftNodes.get(id);
+      const to = rightNodes.get(id);
+      if (!from || !to) continue;
+      const a = from.getBoundingClientRect();
+      const b = to.getBoundingClientRect();
+      const x1 = ((a.right - wrapRect.left) / wrapRect.width) * 100;
+      const y1 = ((a.top + a.height / 2 - wrapRect.top) / wrapRect.height) * 100;
+      const x2 = ((b.left - wrapRect.left) / wrapRect.width) * 100;
+      const y2 = ((b.top + b.height / 2 - wrapRect.top) / wrapRect.height) * 100;
+      lines.appendChild(svgEl("line", {
+        x1, y1, x2, y2,
+        class: "match-line",
+      }));
+    }
   }
 
   refresh();
@@ -222,4 +253,10 @@ function formatDuration(ms) {
   const s = Math.round(ms / 1000);
   if (s < 60) return `${s}s`;
   return `${Math.floor(s / 60)}m${s % 60}s`;
+}
+
+function svgEl(tag, attrs = {}) {
+  const node = document.createElementNS("http://www.w3.org/2000/svg", tag);
+  for (const [key, value] of Object.entries(attrs)) node.setAttribute(key, value);
+  return node;
 }
