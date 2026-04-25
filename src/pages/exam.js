@@ -326,6 +326,7 @@ async function submit(host, exam, answers, router, startedAt) {
   // 统计客观题作答
   const endedAt = Date.now();
   let totalObj = 0, answered = 0;
+  let scorableObj = 0, correctObj = 0;
   let writingChars = 0, translationChars = 0;
   for (const s of exam.sections || []) {
     if (s.type === "writing") writingChars = (answers.writing || "").length;
@@ -335,9 +336,15 @@ async function submit(host, exam, answers, router, startedAt) {
       for (const q of allQ) {
         totalObj += 1;
         if (answers[q.number]) answered += 1;
+        if (q.answer) {
+          scorableObj += 1;
+          if (answers[q.number] === q.answer) correctObj += 1;
+        }
       }
     }
   }
+  const totalScore = scorableObj ? Math.round((correctObj / scorableObj) * 100) : null;
+  const answerReady = scorableObj > 0;
 
   const attempt = {
     examId: exam.id,
@@ -347,13 +354,21 @@ async function submit(host, exam, answers, router, startedAt) {
     answers: JSON.parse(JSON.stringify(answers)),
     totalObjective: totalObj,
     answeredObjective: answered,
+    scorableObjective: scorableObj,
+    correctObjective: correctObj,
     writingChars,
     translationChars,
     scoredSections: [],
-    totalScore: null,
-    answerReady: hasAnyAnswer(exam),
+    totalScore,
+    answerReady,
   };
   await store.put("examAttempts", attempt);
+
+  const feedback = answerReady
+    ? el("div", { class: "feedback ok", style: "max-width:600px; margin:0 auto 16px" },
+        `客观题已自动判分: ${correctObj}/${scorableObj} · ${totalScore}%`)
+    : el("div", { class: "feedback warn", style: "max-width:600px; margin:0 auto 16px" },
+        "⚠️ 答案库还在抽取中(Step 2.5)。结构化的题目和你的作答都已就位,等答案灌进 JSON 后这里会自动显示对错和解析。");
 
   host.innerHTML = "";
   host.appendChild(el("div", { class: "card", style: "text-align:center; padding:32px" }, [
@@ -366,8 +381,7 @@ async function submit(host, exam, answers, router, startedAt) {
       stat("作文字符", String(writingChars), writingChars ? `约 ${Math.round(writingChars / 5)} 词` : "未作答"),
       stat("翻译字符", String(translationChars), translationChars ? `约 ${Math.round(translationChars / 5)} 词` : "未作答"),
     ]),
-    el("div", { class: "feedback warn", style: "max-width:600px; margin:0 auto 16px" },
-      "⚠️ 答案库还在抽取中(Step 2.5)。结构化的题目和你的作答都已就位,等答案灌进 JSON 后这里会自动显示对错和解析。"),
+    feedback,
     el("div", { class: "feedback ok", style: "max-width:600px; margin:0 auto 16px" },
       `✓ 本次提交已记录 · ${formatDateTime(endedAt)}`),
     el("div", { class: "row", style: "justify-content:center; gap:8px" }, [
@@ -383,17 +397,6 @@ function stat(label, value, sub) {
     el("div", { class: "value" }, value),
     sub ? el("div", { class: "sub" }, sub) : null,
   ]);
-}
-
-function hasAnyAnswer(exam) {
-  for (const s of exam.sections || []) {
-    const groups = [
-      ...(s.questions || []),
-      ...((s.passages || []).flatMap((p) => p.questions || [])),
-    ];
-    if (groups.some((q) => q.answer)) return true;
-  }
-  return false;
 }
 
 function formatDateTime(ts) {

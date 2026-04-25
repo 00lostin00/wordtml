@@ -30,8 +30,8 @@
             "C": "A project with a troublesome client.",
             "D": "Gift wrapping for the colleagues."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "C)符合3段对话信息“我们（我／凯西和布伦达）上周刚结束了一个难缠客户的项 目“。其中a troublesome client 同义替换a difficult client, 且囊括随后The client sounded like a real nightmare以及he was especially particular。A)利用3段last six months干扰，但这是 指“凯茜和布伦达的共事时间”，并非“谈判时长”。B)利用wedding preparations设置干扰， 但这是” 两人上周完成任务之后，布伦达一人做的事飞D)将碎片信息colleague 、wrapped up、wedding gift杂鞣干扰，对话中实际并未提及包装礼品，且wrapped up意为“结束，圆满 完成”。"
         },
         {
           "id": "q2",
@@ -43,8 +43,8 @@
             "C": "Start a small business.",
             "D": "Throw a celebration party."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A)是男士所言I'll actually be taking photos during the big event as a wedding gift的 同义表述（联系上下文可推知the big event 指wedding)。B)利用6段advertising干扰，但 对话中该词指“ 男士过去曾在广告业工作“。C)利用6段a small business干扰，但男士创办 生意是出千自身兴趣，而非为了布伦达。D)由复现词party脆测得出，但对话中指” 布伦 达的婚礼”，并未提及“ 男士为布兰达举办庆祝派对“。"
         },
         {
           "id": "q3",
@@ -56,8 +56,8 @@
             "C": "Flattered.",
             "D": "Surprised."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "B)复现7段女士所言I was a bit nervous saying yes (由上文可知saying yes意为“答 应烤制蛋糕')。A)、C)均是对女士感受的主观腌测（人们被托付一件重要事情时，可能会 感到犹豫或荣幸），对话中并未提及。D)源自3段I was a little surprised, 但这是女士”收到婚 礼邀请时” 的心情。"
         },
         {
           "id": "q4",
@@ -69,8 +69,8 @@
             "C": "Share her cooking experience.",
             "D": "Prepare for the wedding."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A) 是对12段男士所言“ 如果你不告诉我，我还以为饼干是餐厅烤的，你完全可 以自已开店( you could very well open your own shop) \"的正确解读，其中bakery明确shop 所指。B)由第7、13 段女士自谦far from a professional、I'll see how ... goes 主观脆测得 出。C)将12 段event planning experience窜改为cooking experience» 且捏造对话中未提及 的share... experience。D)利用3 段focus on wedding preparations 捏造干扰，但这是两 人共同的朋友布伦达已经完成之事，并非男士建议女士所做之事。 【听力原文】 Conversation Two （大学生活与高中生活的区别） - 3 - M: You are heading for a completely different world now that you are about to graduate from high school. W: I know it's the end of high school, but many of my classmates are going on to the same university and we are still required to study hard, so what's the difference? M: Many aspects are different here at university. The most important one is that you have to take more individual responsibility for your actions. It's up to your own self-discipline how much effort you put into study. Living in college dor"
         },
         {
           "id": "q5",
@@ -82,8 +82,8 @@
             "C": "They have to be more responsible for what they do.",
             "D": "They have to choose a specific academic discipline."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "C) 与第3 段切＠句男士介绍大学与高中的一项区别“你必须为自己的行为独立承 担更多责任\" (you have to take more individual responsibility for your actions) 相符。A) 从第 3 段＠句study harder、stop wasting time 断章取义，但此处实为“大学生不再受到父母管教， 可以自主决定是否努力学习(It's up to your own self-discipline. . . ) \"。B) 由第9 段＠旬\" （大学）有许多很棒的社团(there are a lot of wonderful clubs) \"过度推出“大学生必须参加 社团”。D) 借助常识”大学生分专业进行学习“干扰，男士并未谈及该内容。"
         },
         {
           "id": "q6",
@@ -95,8 +95,8 @@
             "C": "Set a long-term goal.",
             "D": "Behave like adults."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "D) 复现第5 段＠句人们对大学生的期待 ”在大学，你被期待像成年人那样处事(at university you are expected to behave like an adult) \"。A) 将第7 段＠句男士说明大学生应专 注学业表现时所举的例子”为考试做好准备\" (prepare well for examinations) 窜改为 ”为职业 生涯做好准备“。B) 与第9 段＠句男士对女士的期待／建议”只和那些尊凰你学生义务的朋友 保待交往(you need only keep the friends who…，即：有选择性地结交朋友，注凰交友的质 而非箭） ” 相悖。C) 源千第5 段＠句男士所说 “要专注自己人生的总体方向，特别是学业' ( that means concentrating on the direction of your life in general and your own academic performance specifically), 但此处作者意在强调“要像成人一样有目标（有无目标的问题）＂， 而非“树立长远目标／避免急功近利（目标长远与否的问题）”。"
         },
         {
           "id": "q7",
@@ -108,8 +108,8 @@
             "C": "Those who can help her when she is in need.",
             "D": "Those who go to the same clubs as she does."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "B)与第9 段＠句男士建议“你只需与尊重你学生义务的朋友保待交往(you need only keep the friends who respect your student commitments) \"相符。 A) 由第9 段个别词汇 interesting、related to your study 杂鞣而成，但前者为“朋友的性格特点（有趣）\"' 后者描述 社团活动（与学习相关）。C) 由常识捏造而来，在对话中并无依据。D) 在第9 段＠句“选 择朋友的建议”与＠旬“参加社团的建议”之间强加联系。"
         },
         {
           "id": "q8",
@@ -121,8 +121,8 @@
             "C": "Those helpful for cultivating individual interests.",
             "D": "Those conducive to their academic studies."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "D) 正确解读第9 段＠句建议 ”不应花太多时间在社团活动上，除非它们与你的学 习直接相关(shouldn't…, unless…) ” 暗含之意 “ 可以多参加与学习直接相关I对学习有利的 社团活动 ”。A) 由常识捏造而来，在文中无根据。B) 同7 题D) 项，在 “选择朋友 ” 与 “参 加社团 ” 之间强加联系，将 “多结交顾及你学生身份的朋友 ” 窜改为 “要优先加入能培养择 友能力／提升社交技巧的社团”。C) 杂鞣第3 段individual (修饰responsibility) 及第9 段 interesting (修饰friends) 制造干扰。 Section B 【听力原文】 Passage One (技能创新成就传奇滑雪冠军） Most successful people are unorthodox persons whose minds wander outside traditional ways - 5 - of thinking. Instead of trying to refine old formulas, they invent new ones. When Jean-Claude Killy made the French national ski team in the early 1960s, he was prepared to work harder than anyone else to be the best. At the crack of dawn he would run up the slopes with his skis on, an unbelievably backbreaking activity. In the evening he would do weight lifting and running. But the other team members were working as hard and long as he was. He realized instinctively tha"
         },
         {
           "id": "q9",
@@ -134,8 +134,8 @@
             "C": "They are good at refining old formulas.",
             "D": "They bring their potential into full play."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A) 符合1 段＠句对大多数成功人士的描述”在思维上偏离传统思维方式的非正统人 士“。B) 将II 段首句he was prepared to work harder than anyone else 所述的具体人物(he/ 让－克劳德．基利）泛化为\"They/大多数成功人士”。C) 与I 段＠句“他们不是设法去改进旧模 式（而是创造全新模式）“完全相悖。D) 源千常识经验干扰，但文中并无提及该信息。"
         },
         {
           "id": "q10",
@@ -147,8 +147,8 @@
             "C": "They promoted the scientific use of skiing poles.",
             "D": "They made explosive news in the sports world."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "B) 正确概括了III 段＠旬“他通过多次试验找到了一种几乎与当时的常规（滑雪） 技术完全相反的新方式／新技术叉A) 从III 段”试验出的创新方式让下坡更快更好”过度推出 “推动了滑雪运动的普及度飞C) 将基利对滑雪杆使用方法的创新”由正统方式变为非正统方 式“ 曲解为“ 由非科学方式变为科学方式”。D) 由III 段explosive 捏造而来，但原文中explosive 修饰的是new style (经多次试验而成的新技术），强调其极富争议（新技术反常规而行）且 - 6 - 威力巨大（助其斩获许多滑雪大奖），原文并未提及爆炸性新闻。"
         },
         {
           "id": "q11",
@@ -160,8 +160,8 @@
             "C": "He won three gold medals in one Winter Olympics.",
             "D": "He broke three world skiing records in three years."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "C) 正确复现III 段末句“第二年他在冬奥会上获得了三枚金牌”。A) 利用末段多义 词genius 设置干扰，但原句是指”创新不需要天赋／非凡才能”。B) 将III 段＠旬“他几乎新 获了所有滑雪大奖”窜改为“参加了全球所有凰大滑雪赛事\"' \"参赛”本身并非讲话人所说的 荣誉。D) 曲解III 段＠＠句所述“基利在1966-1968 三年间的滑雪成就“，但打破世界滑雪记 录仅产生千1968 年，与前两年无关，且文中只提及一个记录。 【听力原文】 Passage Two (负面情绪危害大） Scientific experiments have demonstrated incredible ways to kill a guinea pig, a small furry animal. Emotional upsets generate powerful and deadly toxic substances. Blood samples taken from persons experiencing intense fear or anger when injected into guinea pigs have killed them in less than two minutes. Imagine what these poisonous substances can do to your own body. Every thought that you have affects your body chemistry within a split second. Remember how you feel when you're speeding down the highway and a big truck suddenly brakes twenty meters in front of you. A shockwave shoots through your whole system. Your mind produces instant react"
         },
         {
           "id": "q12",
@@ -173,8 +173,8 @@
             "C": "They become upset.",
             "D": "They die almost instantly."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "D) 同义复现给豚鼠注射恐惧愤怒者的血样时发生的事：have killed them in less than two minutes。 A)、C) 借首段碎片信息Emotional upsets、fear or anger 干扰，但文中均指人 类的负面情绪而非豚鼠的反应。B) 将首段＠句“注射血样后豚鼠在两分钟内毙命”窜改为“豚 鼠失去了知觉”"
         },
         {
           "id": "q13",
@@ -186,8 +186,8 @@
             "C": "It leaves you with a long lasting impression.",
             "D": "It contributes to the shaping of you mind."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "题干+A) 直接对应2 段首句Every thought that you have affects your body chemistry within a split second。 B)、C)、D) 均利用常识”想法会复现千脑海中、会挥之不去、能塑 造思维“设置干扰，但录音材料中并无信息支待。"
         },
         {
           "id": "q14",
@@ -199,8 +199,8 @@
             "C": "To be free from frustration and failure.",
             "D": "To enjoy good health while in dark moods."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "题干+D) 正确概括3 段＠句It is impossible to be fearful, anxious, irritated, and healthy at the same time。 A) 将该句不可能之事由”在恐惧、焦虑、愤怒等消极情绪中保持 健康“偷换为“在烦躁时取得成功飞B)则将其颠倒为“在健康不佳时感受快乐（等积极情绪）“， C) 则将其单向窄化为“摆脱挫折和失败（等消极情绪） “。"
         },
         {
           "id": "q15",
@@ -212,8 +212,8 @@
             "C": "They are too complex to understand.",
             "D": "They reinforce each other constantly."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "末两段借由”不想上学时身体就生病，恐惧时就脑袋疼”说明“潜意识对健康的影响\"' 继而提出“身心关联”这一概念并例证说明。可见身、心两者是紧密相连的，故A) 正确。文 中仅提及潜意识对身体健康的影响(/作用），但并未提及身体健康对潜意识的影响(/作用）， 故排除B)、D)。C) \"过于复杂而无法理解“在录音材料中无信息支持。 Section C 【听力原文】 Recording One (初学者与行家的关注点不同） Teachers and students alike have experienced the curious paradox that beginners, as a rule, tend to think too little about what they are doing because they think too much about what they are doing, lake, for example, people who are learning to play basketball or the piano. They have to give so much thought and attention to the low-level mechanics of handling the ball or fingering the keys or reading the music, that they are unable to give any thought to the thing that matters— —the game, or the music, respectively. With experts, it's just the other way around. They're open to the tactical possibilities and the musical challenges precisely because they're freed, through skill, from t"
         },
         {
           "id": "q16",
@@ -225,8 +225,8 @@
             "C": "They finger the piano keys in different ways.",
             "D": "They choose different pieces of music to play."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "B) 准确概括文章首两段的核心信息：初学者会过于注重初级技巧性细节信息，忽 略对音乐本身的感知，而行家在演奏时不会拘泥千这些细节。A) 根据首段reading the music （识谱）捏造出“音乐鉴赏力“，并将其视为对比内容。C)、D)分别利用首段碎片信息fingering the keys 和music设置干扰，但指法及弹奏音乐并非对比内容。 Ql 7: What do smart basketball players do according to the speaker? 【答案】D 【解析】D) 同义改写4 段首旬Smart basketball players ... pay close attention to the demands of high performance, 故正确。A)、B)、C) 三项均利用常识（打篮球讲究团队配合、战略战 术，力争达到观众期望）设置干扰，文中并未提及。 - 9 -"
         },
         {
           "id": "q17",
@@ -251,8 +251,8 @@
             "C": "It supports a piece of conventional wisdom.",
             "D": "It gives rise to controversy among experts."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "C) 同义改写7 段＠句It supports what we might almost think of as conventional wisdom. 故正确。A) 与呱段首句“这一发现并不令人惊讶”相悖，且将段末提及的”认知科学' 偷换为“行为科学飞B) 将7 段”证实的观点传统”窜改为“采用的方法传统兀D) 将9 段引发 争论的原因由”技能的本质及初学者和行家的区别这一话题本身”窜改为“这项新研究。 【听力原文】 Recording Two （瘦身热潮） Every summer when I top up my selection of summer outfits from the department stores, my eyes would nearly pop out of my head. I'm overwhelmed with a wide range of different slimming products each year. And more shockingly, these products are often advocated by very slim models. Having lived in Asia for almost 10 years now, I've seen various dieting tips come and go. I remember in Japan, people heading directly to the fruit section in the supermarket, when the banana diet was at its peak. Then there was the black tea and oolong tea diet, followed by the soybean diet and the tomato juice diet. The list goes on and on. Apart from what people eat, I've also see"
         },
         {
           "id": "q19",
@@ -264,8 +264,8 @@
             "C": "The increasing range of fancy products.",
             "D": "The great variety of slimming products."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "D) \"题干+ D) \"复现首段＠＠句“每年去百货商店购置夏装时，五花八门的瘦身产 品都会让我惊讶万分\", the great variety of 同义替换a wide range of。A) 复现首段slim models, 但文中只提及“瘦身产品的推广模特往往极瘦\"'并未指出“人们羡慕瘦模特飞B) 将原文人们 狂热追求的对象”瘦身“偷换为“健康\".C)将首段“ 五花八门的瘦身产品(a wide range of different slimming products)\"偷换为“五花八门的高端产品(increasing range of fancy products)\"。"
         },
         {
           "id": "q20",
@@ -277,8 +277,8 @@
             "C": "They look charming.",
             "D": "They look unhealthy."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "B) 讲话人在III 段介绍香港女孩的瘦身方法”用瘦身带包裹全身或双腿(girls wrapping…)，并结合自身经历对其进行评价”就像妈妈端上桌的一道圣诞节大餐烤火腿”，推 理可知讲话人认为这种瘦身方法十分奇怪／不可思议，B) 正确。A)、C) 利用年轻女孩的典 型特点”充满活力、非常迷人“设置干扰，但文中并未提及“用瘦身带裹腿的女孩”有此特征。 D) 利用IV、VI 段讲话人对各种瘦身工具不以为然的态度(I do not believe in any of these slimming gadgets, no magic trick) 设置干扰，但答非所问，题目问的是说话人对“用瘦身带裹 腿的女孩(girls…) ”的看法。"
         },
         {
           "id": "q21",
@@ -290,8 +290,8 @@
             "C": "Peer pressure.",
             "D": "Media influence."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A) 题干变被动为主动，指向IV 段＠句It is most certainly shaped by. . . Cit 指代首 句the definition of what is beautiful) , A) 契合by 引领内容受所处文化与儿时接受的教育影 响“、正确说明影响人们“对于美的理解”的因素。其中upbringing 概括how they were raised in their childhood. C)复现V 段＠句pressure,但文中指“维持良好外形的压力“，而非“同侨压力“。 B)、D) 借常识干扰，均未在文中出现。 【听力原文】 Recording Three （皮肤与毛发） Skin may seem like a superficial human attribute, but it's the first thing we notice about anyone we meet. As a zoologist focusing on the studies of apes and monkeys?I've been studying why humans evolved to become the naked ape, and why skin comes in so many different shades around the world. We can make a very good estimate from the fossil record that humans probably evolved naked skin around a million and a half years ago, and meanwhile they mostly lost their coat of fur. Today we have a few patches of hair remaining on various parts of our bodies, but compared with apes and monkeys»we"
         },
         {
           "id": "q22",
@@ -303,8 +303,8 @@
             "C": "The color of human skin.",
             "D": "The need of skin protection."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "I段指出谈话人的研究领域：人类进化成裸猿的原因以及人类拥有多种肤色的原 因（暗示两者之间存在关联）；其余段落谈话人详细介绍了人类脱落毛发（变成裸猿）的原 因及各种肤色产生的原因：为了凉快而脱落毛发，为了防晒又将肤色变深，人类走出非洲又 进化出各种肤色。可见，谈话人主要讨论的话题是关乎 “ 毛发（脱落）及（多种）皮肤（颜 色）之间的关联 ”，故A)正确。B)利用I段作者的研究I've been studying ... why skin干扰， 但“兴趣日增＇并无根据，且这并非本文主要内容。C) 仅涵盖说话者谈论内容的一部分，忽 视了谈话人对 “ 毛发（脱落及由此带来的肤色变深以防晒） ” 的大篇幅讨论。D)利用skin... natural sun protector捏造而来，但此处是为了介绍皮肤变深的原因——防晒，“ 皮肤保护 “ 脱 离讨论重点。"
         },
         {
           "id": "q23",
@@ -316,8 +316,8 @@
             "C": "The need to breathe with ease.",
             "D": "Dramatic climate changes on earth."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "B)正确概括3段内容 “ 人类脱落毛发的原因是，需要在炎热的环境中保持身体 凉爽，为此，人类进化出了大最排汗的能力，并脱掉了大部分皮毛“ 。A)由3段moving around vigorously捏造出原因 “ 需要节约能量”。C)利用人类与狗的不同 “ 无法通过大口急促呼吸 来散热 ” 逆向推导出 ” 人类必须要轻松呼吸＇，但原文实指人无法通过这种呼吸方式来散热， 故而需要脱去毛发来散热。D) 对in a hot environment断章取义，原文仅提及环境炎热，并 未涉及气候变化。"
         },
         {
           "id": "q24",
@@ -329,8 +329,8 @@
             "C": "Their skin coloring.",
             "D": "Hair on their skin."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "C)正确概括II段末句“我们把皮肤变深来吩晒 ”、IV段 “我们祖先免受日晒的方 式是在皮肤细胞中生成更待久的天然色素（即利用肤色防晒） ”。A)、B)均利用常识 “树叶 和草、居所可以防晒 ”捏造而来，但原文并未提及。D)张冠李戴， “ 皮毛 ” 是动物防晒方 式，而非人类防晒方式。"
         },
         {
           "id": "q25",
@@ -342,8 +342,8 @@
             "C": "Their children began to mix with each other.",
             "D": "Their pace of evolution began to quicken."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A)正确概括7段信息”少数人群离开非洲后，分散到了世界上季节性日照更多、 太阳辐射强度更低的地域。正是在这些种群中，我们开始看到天然色素的基因构成的真正变 化。\"B)利用8段＇几乎每座大城市都可以看到混血儿联姻生子、新的混合肤色基因出现这 类现象捏造出“社区稳步发展”，但录音材料中并未提及人类社区发展变化状况。C)利用8 段having children with new mixtures…捏造而来，但这里指孩子有新的混合肤色基因，而非孩 子互相交往。D)利用VIII段首旬evolving捏造而来，但录音材料中并未提及进化的速度。 Part III Reading Comprehension (40 minutes) Section A - 13 - 【原文译文】 意大利面有助于减肥 意大利面食不再被弃千菜单之外。一项新的研究综述表明，碳水化合物可以成为健康饮 食的一部分，甚至能够帮助人们减肥。多年来，营养学家一直在建议人们将面食摄入最保持 在最低限度，以降低卡路里，防止脂肪堆积，避免血糖飘升。 这种低糖饮食运动催生了阿特金斯饮食、原始人饮食、生酮饮食等，它们都建议将面包、 意面、士豆等食物换为蔬菜、鱼、肉。最近，这种用蔬菜换掉意面的风尚得到了净食专家 的捍卫。 但现在，加拿大的研究者们对30项研究所进行的系统性回顾和分析发现，意面不仅不 会导致体重增加，每周吃三次还能帮助人们在四个月内甩掉超过0.5千克的体凰。研究者们 发现意面过去被不公平地妖魔化了，因为人们将它与其他更能生成脂肪的碳水化合物混为一 谈。 ”研究发现，意面不会造成体重的增加或体脂的增多 ”，文章的主要作者约翰·斯温比伯 说道。“通过权衡证据，我们现在可以有一定把握地说，意面若作为健康饮食模式的一部分 被食用，则对体凰值没有负面效应。 ” 实际上，分析的确显示出了少最的体重减轻，这与人 们的担忧恰恰相反。或许意面可以成为健康饮食的一部分。 那些临床试验参与者们平均每周吃3.3份意面，而非其他碳水化合物食物，每份大约半 杯的最。在平均12周的后期随访中，他们的体重降低了大约0. 5千克。 【答案解析】 由"
         }
       ]
     },
@@ -385,8 +385,8 @@
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "】空格前为has been, 后为by... experts, 空格词应为ed 分词（构成现在完成 时被动式）。 【答案解析】空格所在旬指出，“以蔬菜换意面的风尚”得到了“净食专家”的，空格词搭 - 14 - 建“一种风尚“和”一群专家的关系，应表示“支持、赞同” 或“反对、抵制“ 。第三段以But now 转折指出，（但）新研究证明意面有助千减凰。可推知净食专家认为意面会导致增重，支待 以蔬菜换意面的风尚。B)符合文意。 H) magnified ( 意为“放大（声音等）\"' 可喻指 ”放大（现象、观点等）“既符合词性要 求，也符合” 净食专家与低糖倡导者观点一致、与最近研究发现相反”的逻辑，因此干扰性极 强。但可从两个角度排除： 一、该词往往指 ”被某种设备放大“ ，而不是“被某人放大“ ，而这 里的施动者是”专家(experts) \"; 二、该词指 “ 将较弱的I小的事物放大“ ，而这里无论句句描 述，还是＠句trend (时尚）一词均表明低糖饮食运动”已经如火如荼“ 。 由第三段得："
         },
         {
           "id": "q29",
@@ -415,20 +415,20 @@
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "】In—the evidence位于主句前作状语，空32只能为ing分词。An effect在 that宾语从句中作宾语，空33应为元音音素开头的名词、形容词、ing分词或ed分词。 【答案解析】空格句以In _the evidence , we can now say .. 体现”研究方法——研究发 现”的关系。其中，the evidence回指30studies ; pasta does not have an effect on body weight outcomes回应pasta didn't contribute to weight gain or increase in body fat 。所以，空 32 应与review 、analysis 近义，表示“回顾／分析／考虑／权衡”等，0)正确；空33应表示“ 增加 的、促进的或“负面的I 不良的', A)正确。"
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "】空格旬己主谓宾完整，_to concerns 只能作weight loss的后置定语，空 格词可能为形容词、ing分词、ed分词，且能与to搭配。 【答案解析】空格旬指出，研究分析实际上显示了小幅度的减赋，这一减重与人们的担 - 15 - 忧一。Weight loss与前文人们一直以来排斥意面的原因“ 担心造成增重、不利健康(fat build-up、weight gain、in crease in body fat 等）”恰恰相反，空格词应表”相反的I对立的\", D) 正确con trary to为固定用法，意为”与…．．相反“。 由第五段得："
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "】In volved in the_trials作Those后置定语，空格词为trials的修饰成分， 可能为名词、形容词、in g分词、ed分词。 【答案解析】末段指出，那些参与＿试验的人平均每周吃3 . 3 份意面，每份约半杯的 量，平均12周后体凰下降0.5千克。可见试验涉及对参与试验者的控制处理、密切观察， 备选项中只有C)适合。 Section B 【原文译文】 最佳零售商是实体与线上的结合 [A]零售利润在急剧下滑。商店关了。商场空了。令人沮丧的新闻不断出现。读梅西百 货、诺德斯特罗姆以及塔吉特等大型零售商店的盈利公告就像参观重症监护病房一样（难以） 令人振奋。互联网看来正在击垮又一个行业。实体店似乎在走黄页的老路。的确，美国人口 普查局刚刚发布的数据显示，2015年第一季度至2016年第一季度，线上零售额猛增15.2%。 [B]但在抛售所有零售股票之前，你应该对更多事实加以考虑。只看15.2%的＂激增“会造 成误导。这一增幅是基千6.9%的份额。一个微小数字即使以很大的比例增长，它往往还是 很小。 [C]互联网对商业开放20多年后，人口普查局告诉我们，2016年第一季度．实体销售额 占到零售总额的92 .3%。其数据显示，2015年初至2016年间，只有0. 8%的零售额从线下转 至线上。 [D]因此，尽管人们常常谈论无人机会送货到家门口，尽管寒售高管们都在表达对消费 者线上购物的焦虑，甚至一位总统候选人也感叹亚马逊存在“极大的反垄断问题”，但人口普 查数据显示实体零售正在蓬勃发展。当然，关闭的商店、忧愁的高管和不断下挫的股票又表 明情况并非如此。那么真实情况究竟如何？ [E]许多经营实体店的公司都遇到了麻烦。零售业正在进行彻底改造，正如我们在新书 《牵线者》中描述的那样。它站在熊彼特所说的创造性破坏的风道上。这场风暴已酝酿了一 些时日，而随着它达到强风等级，多数大型零售商都开始寻求应对措施。正如梅西百货的首 席财务官最近所说，”坦率地说，我们正在绞尽脑汁（想办法） “。 [F]但这场风暴并没有如专家预测般发生。在互联网泡沫的晶盛期，实体零售曾是互联 网要"
         }
       ]
     },
@@ -529,8 +529,8 @@
                 "C": "It might present challenges as well as opportunities.",
                 "D": "It would be a significant expansion of human intelligence."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "A将第一段霍金观点“创建未来智能研究机构对人类文明至关單要“偷换为“人 工智能对人类文明至关重要“。C将第一段霍金眼中AI的“非此即彼（要么是人类最大的幸 事，要么是最大的灾难）“偷换为”并列关系（机遇与挑战并存）\"' 且”带来机遇和挑战”无 法体现霍金认为的严重性“关乎人类存亡“。D将第三段＠旬霍金口中的不确定情形：无法 预知当我们的大脑被AI放大时可能会取得何种成就“ 曲解为“确定情形：AI会显着提升人类 的智力“。首段指出霍金警告\"AI将会是人类历史最好的事，抑或是最糟的事\",B符合此意， - 19 - in the making (在发展中，在形成中）对应文中will be (尚未出现），a blessing or a disaster 对应文中either the best, or the worst thing。"
             },
             {
               "id": "q47",
@@ -542,8 +542,8 @@
                 "C": "It was extremely important to the destiny of humankind.",
                 "D": "It was an achievement of multi-disciplinary collaboration."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "A将第二段句句LCFI的宗旨“解决AI研究飞快发展中出现的开放性问题（不 排除控制AI 发展的可能）“ 曲解为“加快AI研究进展”。B关注\"AI产业“层面，而文中并未 提及。D将第二段句句所述事实\"LCFI是跨学科机构／开展跨学科研究”窜改为霍金观点\"LCFI 是多个学科合作的成果”。首段霍金赞扬”创建一个致力千研究未来智能的学术机构（即 LCFI) \"道：这对人类文明和人类物种的未来至关重要。第二段进一步指出.LCFI致力千研 究智能的未来，这是一个可喜的变化，可见C正确体现霍金观点。"
             },
             {
               "id": "q48",
@@ -555,8 +555,8 @@
                 "C": "The greater emphasis on the negative impact of AI.",
                 "D": "The increasing awareness of mankind’s past stupidity."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "B由常识”强AI尚处千理论阶段”捏造出原文未论及的信息\"AI研究应该从理 论转向实践飞C由第一段事实“霍金警告人们关注AI威胁”主观推知”他认为更加关注AI负 面性是可喜变化”，但这一变化是第五段博登言论暗示信息，不属千霍金言论。D将第二段 末两句逻辑”霍金认为人类历史是愚蠢的，所以现在开始研究未来是一个可喜的转变”曲解为 \"AI研究（者）认识到人类历史是愚蠢的（所以开始研究未来），霍金认为这是可喜的转变”。 第二段末两句中霍金指出，我们花了大最时间研究历史，但大部分历史是愚蠢的。所以人们 现在转而研究智能的未来是一个可喜的转变，可见A是对霍金观点昭正确概括。"
             },
             {
               "id": "q49",
@@ -568,8 +568,8 @@
                 "C": "Super-intelligence may cause its own destruction.",
                 "D": "Super-intelligence may eventually ruin mankind."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "A由第三段＠句信息“人类可能会创造出超级智能“推出\"AI可能会超越人类智 力“，但霍金担忧的不是\"AI到底有多强＇，而是\"AI对人类的影响（是否会超出人类控制， 毁灭人类）“。B利用第三段＠旬干扰，但“我们无法预知当我们的大脑被AI放大时会取得 何种成就”表明的是\"AI放大人类大脑”带来的益处，并非担忧。C将第三段句句the architect of its own destruction 的含义“人类（创造出超级智能）可能会自取灭亡“ 曲解为“超级智能可 能会自取灭亡“。第三段＠句说明霍金的担忧”人类倘若创造出具有自身意志的超级智能，很 可能会缔造自己的毁灭\", D 符合此信息，ruin mankind 对应humanity... its own destruction。"
             },
             {
               "id": "q50",
@@ -581,8 +581,8 @@
                 "C": "They share the same concerns about AI as academics.",
                 "D": "They believe they can keep AI under human control."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "A由末段信息科技界的一些企业家与学术界有同样的担忧”脆断出“这些企业 家深受学术界的影响“，而文中并未提及二者之间的影响。B利用常识\"AI发展给科技公司 带来了巨大商业利益“干扰．文中并未提及。D由末段信息科技界企业家担忧AI失控会损害 人类髓断出原文未提及的信息”这些企业家可以让AI不脱离人类控制。末段指出：并非只 有学术界在告诫人们AI的潜在威胁及益处，科技行业的一些先驱人物（包括知名企业家埃 隆·马斯克）也已对超级智能AI的潜在风险表达了担忧。C符合此意。 【原文译文】 Passage Two 老年用品初创公司入住老年社区 老年人专用产品市场明年有望达300亿美元，为此初创公司也想参与其中分杯羹。（但） - 20 - 他们有时欠缺自己所期待顾客的产品反馈。千是，美国退休社区的最大所有权人Brookdale 一直在（不间断）邀请一些精心挑选出的创业家前往小住几天，向社区居民们展示自己的产 品并聆听他们的看法。 这就是28岁的戴勒·罗德里格斯从英格兰一路前往加利福尼亚州托伦斯市Brookdale南 湾社区餐厅的原因。罗德里格斯是一家名为Sentab的公司的社区营销经理。这家初创公司 生产的SentabTV可以让那些电脑用得可能别扭的老年人仅仅借助电视机和遥控器就能收发 电邮、视频聊天和访问社交媒体。 “这不新奇、不太复杂，也很自然，因为很多人都有电视遥控器，＇＇罗德里格斯说道。 但这都不是罗德里格斯在Brookdale南湾社区餐厅里谈论的话题。恰恰相反，他向住户 征求意见，他应该在芝士汉堡上加什么，又应该如何消磨下午时光。日常活动通常是打打牌， 还有学打麻将。 罗德里格斯说，血要的是这里的住户不觉着他在向他们售卖东西。“我通过隐蔽的方式 获得的反馈更多，“他说，“打桌球、玩纸牌、吃晚饭和吃中饭”统统好过“问卷调查，他们开 始了解我、信任我之后，确定我不是在向他们推销－他们就能给出更多诚实中肯的反馈意 见。” 罗德里格斯只是入住Brookdale旗下1100家（参与活动项目的）老年生活社区之一的 第七位创业家。活动中其他新产品还包括一款全身吹风机以及专为残障人士设计、能"
             }
           ]
         },
@@ -600,8 +600,8 @@
                 "C": "They invite seniors to their companies to try their products.",
                 "D": "They try to profit from promoting digital products to seniors."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "A与＠＠句“初创公司想进军老年人用品市场分杯羹，但有时欠缺目标顾客对 产品的反馈”所隐藏的愿为老年人对产品升级换代”相悖。C将＠句“受邀入住退休社区展示 产品”歪曲为“邀请老年人去公司体验产品”。D将句句“想进军老年人用品市场分杯羹”与＠ 句“向老年人展示产品从而获取反馈信息(show off意指“展示”而非“炫耀\")\"结合捏造出“试 图推销数字产品以获利”，且“数字产晶“过千窄化。文首句指出，老年人用品市场价值巨大， 初创公司也想参与其中分杯羹(want in on the action) , 故B正确。"
             },
             {
               "id": "q52",
@@ -613,8 +613,8 @@
                 "C": "collect residents’ feedback on their products",
                 "D": "show senior residents how to use IT products"
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "A 中potential customers**潜在顾客”虽然义同＠旬the people who they hope will use their products, 即指“老年人“，但interview\"*采访”与旬尾show off ... and hear .. 等举动所展 示出的“随意性”相悖，且与下文例子中Sentab公司社区营销经理罗德里格斯“以隐蔽方式获 - 21 - 取反馈”的做法不符。B将创业者的调查对象老年人（对产品的反馈） ＂窜改为“老年社区”。 D将“展示产品”的目的”获取产品反馈”歪曲为“教会老年人使用”，且将＇产品”窄化为\"IT产 品“。定位句指出，Brookdale邀请少数创业家入住老年社区，向住户展示产品并聆听他们的 意见，亦即收集产品反馈，C正确。"
             },
             {
               "id": "q53",
@@ -626,8 +626,8 @@
                 "C": "It is a TV specially designed for seniors to view programs.",
                 "D": "It is a communication system via TV instead of a computer."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": ")A将SentabTV的属性“电视设备”窜改为“电视节目“，且捏造”迎合老年人兴趣“。 B中”受老年人欢迎”纯属捏造，由第一段“创业家获邀进入老年社区收集潜在用户反馈”可知， 该产品是否深受老年人喜爱尚不可知。C将SentabTV的主要功能“网络通信”歪曲为“观看电 视节目“。定位句指出，SentabTV让不习惯用电脑的老年人用电视和遥控器就能收发电邮、 视频聊天、访问社交媒体，意即通过电视而非电脑来与别人交流／通信，故D正确。"
             },
             {
               "id": "q54",
@@ -639,8 +639,8 @@
                 "C": "Demonstrating their superiority on the spot.",
                 "D": "Responding promptly to customer feedback."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "B、C均根据常识捏造，原文缺乏相关信息支撑。D将罗德里格斯关注点”获得 反馈”歪曲为“ 回应反馈”。定位句指出，罗德里格斯认为“不让住户觉得自己在推销很重要“。 本段接着援引他的说法指出，通过打桌球、玩纸牌等方式接触老年住户，让他们了解并相信 自己、知道自己不是在推销，这样就能获得更多中肯的意见。因此要点在千取得顾客信任， A正确。"
             },
             {
               "id": "q55",
@@ -652,8 +652,8 @@
                 "C": "They have much in common with seniors elsewhere.",
                 "D": "Most of them enjoy a longer life than average people."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "A将第七段个例\"93岁的玛丽同意尝试Sentab设备歪曲为普遍现象”大多数老 年住户都有意使用Sentab设备飞C与＠＠句“罗德里格斯入住错了Brookdale的社区，这个 社区……”所隐含文意”这个社区与其他地区与众不同（老人们更懂技术）”相悖。D利用第七 段人物\"93岁高龄的玛丽”过度推断出该社区老年住户的寿命大多超过平均水平。第九段＠ 句首先指出，罗德里格斯来到的Brookdale 南湾社区的老年住户并不害怕技术(technophobic)\" ＠＠句进而解释：南湾社区坐落于南加州航空航天密集区中心地带，住户大多有工程界、商 界、学术界背景。意即，他们懂高科技技术，对高科技产品运用自如。B正确。 Part IV Translation (30 minutes) 【参考译文】 Chinese idioms are a unique type of Chinese expression, most of which consist of four characters. Though highly compact and structurally fixed, they usually can express profound meanings vividly. Chinese idioms are mostly derived from ancient literature, and often linked with certain myths, stories or historical facts. The precise meaning of an idiom can be difficult to understand without the knowledge of its origin. Therefore, learning Chinese idioms helps people better understand traditional Chinese culture. Chinese idioms are widely used in daily "
             }
           ]
         }
