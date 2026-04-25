@@ -1,0 +1,331 @@
+{
+  "id": "cet6-2016-12-3",
+  "type": "cet6",
+  "year": 2016,
+  "month": 12,
+  "set": 3,
+  "title": "2016年12月大学英语六级真题(第3套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write a short essay on invention. Your essay should include the importance of invention and measures to be taken to encourage invention. You are required to write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions：In this section , there is a passage with ten blanks. You are required to\nselect one word for each blank from a List of choices given in a word\nbank following the passage. Read the passage through carefully before\nmaking your choices. Each choice in the bank is identified by a letter.\nPlease mark the corresponding letter for each item on Answer Sheet 2\nwith a single line through the. centre. You may not use any of the words\nin the bank more than once.\nThe tree people in the Lord of the Rings — the Ents — can get around by\nwalking. But for real trees, it's harder to uproot. Because they're literally rooted into\nthe ground, they are unable to leave and go 26 .\nWhen a tree first starts growing in a certain area, it's likely that the 27 envelope\n— the temperature, humidity, rainfall patterns and so on — suits it. Otherwise, it\nwould be unable to grow from a seedling. But as it 28, these conditions may change\nand the area around it may no longer be suitable for its 29 .\nWhen that happens, many trees like walnuts, oaks and pines, rely 30 on so-called\n\"scatter hoarders,\" such as birds, to move their seeds to new localities. Many birds\nlike to store food for the winter, which they 31 retrieve.\nWhen the birds forget to retrieve their food — and they do sometimes — a\nseedling has a chance to grow. The bird Clark's nutcracker, for example, hides up to\n100,000 seeds per year, up to 30 kilometers away from the seed source, and has a very\nclose symbiotic (共生的) relationship with several pine species, most 32 the white\nbark pine.\nAs trees outgrow their ideal 33 in the face of climate change, these flying\necosystem engineers could be a big help in 34 trees. It's a solution for us — getting\nbirds to do the work is cheap and effective — and it could give 35 oaks and pines the\noption to truly \"make like a tree and leave.",
+      "wordBank": {
+        "A": "Ages",
+        "B": "Breathing",
+        "C": "Climatic",
+        "D": "Elsewhere",
+        "E": "Exclusively",
+        "F": "Forever"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Workplace norms pressure employees to overwork, deterring them from\ntaking paid time off.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "The overwhelming majority of employees attribute their stress mainly to low\npay and an excessive workload.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "According to Moen, flexibility gives employees better control over their\nwork and time.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Flexibility resulting from the use of digital devices benefits employers\ninstead of employees.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Research finds that if employees suffer from high stress, they will be less\nmotivated, less productive and more likely to quit.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "In-of£ice wellness programs may help reduce stress levels, but they are\nhardly an ultimate solution to the problem.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Health problems caused by stress in the workplace result in huge public\nhealth expenses.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "If employees respond quickly to their job assignments, the employer is likely\nto demand more from them.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "With technology everywhere in our life, it has become virtually impossible\nfor most workers to keep a balance between work and life.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "In America today, even teenagers suffer from stress, and their problem is\neven more serious than grown-ups'.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nDr. Donald Sadoway at MIT started his own battery company with the hope of\nchanging the world's energy future. It's a dramatic endorsement for a technology most\npeople think about only when their smartphone goes dark. But Sadoway isn't alone in\ntrumpeting energy storage as a missing link to a cleaner, more efficient, and more\nequitable energy future.\nScientists and engineers have long believed in the promise of batteries to change\nthe world. Advanced batteries are moving out of specialized markets and creeping\ninto the mainstream, signaling a tipping point for forward-looking technolpgies such\nas electric cars and rooftop solar panels.\nThe ubiquitous (无所不在的)battery has already come a long way, of course. For\nbetter or worse, batteries make possible our mobile-first lifestyles, our screen culture,\nour increasingly globalized world. Still, as impressive as all this is, it may be trivial\ncompared with what comes next. Having already enabled a communications\nrevolution, the battery is now poised to transform just about everything else.\nThe wireless age is expanding to include not just our phones, tablets, and laptops,\nbut also our cars, homes, and even whole communities. In emerging economies, rural\ncommunities are bypassing the wires and wooden poles that spread power. Instead,\nsome in Africa and Asia are seeing their first lightbulbs illuminated by the power of\nsunlight stored in batteries.\nToday, energy storage is a $ 33 billion global industry that generates nearly 100\ngigawatt-hours of electricity per year. By the end of the decade, it's expected to be\nworth over $ 50 billion and generate 160 gigawatt-hours, enough to attract the\nattention of major companies that might not otherwise be interested in a decidedly\npedestrian technology. Even utility companies, which have long viewed batteries and\nalternative forms of energy as a threat, are learning to embrace the technologies as\nenabling rather than disrupting.\nToday's battery breakthroughs come as the world looks to expand modern energy\naccess to the billion or so people without it, while also cutting back on fuels that\n\nwarm the planet. Those simultaneous challenges appear less overwhelming with\nincreasingly better answers to a centuries-old question：how to make power portable.\nTo be sure, the battery still has a long way to go before the nightly recharge\ncompletely replaces the weekly trip to the gas station. A battery-powered world comes\nwith its own risks, too. What happens to the centralized electric grid, which took\ndecades and billions of dollars to build, as more and more people become\n\"prosumers,\" who produce and consume their own energy onsite?\nNo one knows which — if any — battery technology will ultimately dominate,\nbut one thing remains clear. The future of energy is in how we store it.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What does Dr. Sadoway think of energy storage?",
+              "options": {
+                "A": "It involves the application of sophisticated technology.",
+                "B": "It is the direction energy development should follow.",
+                "C": "It will prove to be a profitable business.",
+                "D": "It is a technology benefiting everyone."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What is most likely to happen when advanced batteries become widely used?",
+              "options": {
+                "A": "Mobile-first lifestyles will become popular.",
+                "B": "The globalization process will be accelerated.",
+                "C": "Communications will take more diverse forms.",
+                "D": "The world will undergo revolutionary changes."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "In some rural communities of emerging economies, people have begun to .",
+              "options": {
+                "A": "find digital devices simply indispensable.",
+                "B": "communicate primarily by mobile phone.",
+                "C": "light their homes with stored solar energy.",
+                "D": "distribute power with wires and wooden poles."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "Utility companies have begun to realize that battery technologies .",
+              "options": {
+                "A": "benefit their business.",
+                "B": "transmit power faster.",
+                "C": "promote innovation.",
+                "D": "encourage competition."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What does the author imply about the centralized electric grid?",
+              "options": {
+                "A": "It might become a thing of the past.",
+                "B": "It might turn out to be a \"prosumer\".",
+                "C": "It will be easier to operate and maintain.",
+                "D": "It will have to be completely transformed."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nMore than 100 years ago, American sociologist W. E. B. Du Bois was concerned\nthat race was being used as a biological explanation for what he understood to be\nsocial and cultural differences between different populations of people. He spoke out\nagainst the idea of \"white\" and \"black\" as distinct groups, claiming that these\ndistinctions ignored the scope of human diversity.\nScience would favor Du Bois. Today, the mainstream belief among scientists is\nthat race is a social construct without biological meaning. In an article published in\n\nthe journal Science, four scholars say racial categories need to be phased out.\nEssentially, I could not agree more with the authors,n said Svante Paabo, a\nbiologist and director of the Max Planck Institute for Evolutionary Anthropology in\nGermany. In one example that demonstrated genetic differences were not fixed along\nracial lines, the full genomes（基因组）of James Watson and Craig Venter, two famous\nAmerican scientists of European ancestry, were compared to that of a Korean scientist,\nSeong-Jin Kim. It turned out that Watson and Venter shared fewer variations in their\ngenetic sequences than they each shared with Kim.\nMichael Yudell, a professor of public health at Drexel University in Philadelphia,\nsaid that modern genetics research is operating in a paradox：on the one hand, race is\nunderstood to be a useful tool to illuminate human genetic diversity, but on the other\nhand, race is also understood to be a poorly defined marker of that diversity.\nAssumptions about genetic differences between people of different races could\nbe particularly dangerous in a medical setting. “ I£ you make clinical predictions\nbased on somebody's race, you're going to be wrong a good chunk of the time,\" Yudell\ntold Live Science. In the paper, he and his colleagues used the example o£ cystic\nfibrosis, which is under diagnosed in people of African ancestry because it is thought\nof as a \"white\" disease.\nSo what other variables could be used if the racial concept is thrown out? Yudell\nsaid scientists need to get more specific with their language, perhaps using terms like\n\"ancestry\" or “population\" that might more precisely reflect the relationship between\nhumans and their genes, on both the individual and population level. The researchers\nalso acknowledged that there are a few areas where race as a construct might still be\nuseful in scientific research：as a political and social, but not biological, variable.\nWhile we argue phasing out racial terminology（术语）in the biological sciences,\nwe also acknowledge that using race as a political or social category to study racism,\nalthough filled with lots of challenges, remains necessary given our need to\nunderstand how structural inequities and discrimination produce health disparities\n（差异）between groups.\" Yudell said.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "Du Bois was opposed to the use of race as .",
+              "options": {
+                "A": "a basis for explaining human genetic diversity.",
+                "B": "an aid to understanding different populations.",
+                "C": "an explanation for social and cultural differences.",
+                "D": "a term to describe individual human characteristics."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "The study by Svante Paabo served as an example to show .",
+              "options": {
+                "A": "modern genetics research is likely to fuel racial conflicts.",
+                "B": "race is a poorly defined marker of human genetic diversity.",
+                "C": "race as a biological term can explain human genetic diversity.",
+                "D": "genetics research should consider social and cultural variables."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "The example of the disease cystic fibrosis underdiagnosed in people of African ancestry demonstrates that .",
+              "options": {
+                "A": "it is absolutely necessary to put race aside in making diagnosis.",
+                "B": "it is important to include social variables in genetics research.",
+                "C": "racial categories for genetic diversity could lead to wrong clinical predictions.",
+                "D": "discrimination against black people may cause negligence in clinical treatment."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What is Yudell's suggestion to scientists?",
+              "options": {
+                "A": "They be more precise with the language they use.",
+                "B": "They refrain from using politically sensitive terms.",
+                "C": "They throw out irrelevant concepts in their research.",
+                "D": "They examine all possible variables in their research."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What can be inferred from Yudell's remark in the last paragraph?",
+              "options": {
+                "A": "Clinging to racism prolongs inequity and discrimination.",
+                "B": "Physiological disparities are quite striking among races.",
+                "C": "Doing away with racial discrimination is challenging.",
+                "D": "Racial terms are still useful in certain fields of study."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "农业是中国的一个重要产业，从业者超过3 亿。中国农业产量全球第一，主要生产水稻、小麦和豆类。虽然中国的农业用地仅占世界的百分之十，但为世界百分之二十的人提供了粮食。中国7700 年开始种植水稻。早在使用机械和化肥之前，勤劳和富有创造性的中国农民就已经采用各种各样的方法来增加农作物产量。中国农业最新的发展是推进有机农业。有机农业可以同时服务于多种目的，包括食品安全，大众健康和可持续发展。【参考答案】【参考范文】【翻译参考译文】",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

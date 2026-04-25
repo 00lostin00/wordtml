@@ -83,6 +83,14 @@ https://00lostin00.github.io/wordtml/
 - 错题数优先排序
 - 单词详情侧栏
 
+### 真题中心
+
+- `/exams` 真题入口,当前分为六级和考研英语一
+- 六级已接入 53 卷结构化数据,完整/近完整卷可进入做题页
+- `/exam?id=...` 支持写作、听力选项、选词填空、段落匹配、仔细阅读、翻译的 PoC 做题
+- 交卷会写入 `examAttempts`,列表页展示最近提交记录
+- 答案与解析抽取仍在 Step 2.5,当前暂不批改
+
 ## 目录结构
 
 ```text
@@ -173,6 +181,7 @@ IndexedDB 数据库名: `wordtml`。
 - `economy`
 - `rankHistory`
 - `achievements`
+- `examAttempts`
 
 ## 开发约定
 

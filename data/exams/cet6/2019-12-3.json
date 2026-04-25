@@ -1,0 +1,28 @@
+{
+  "id": "cet6-2019-12-3",
+  "type": "cet6",
+  "year": 2019,
+  "month": 12,
+  "set": 3,
+  "title": "2019年12月大学英语六级真题(第3套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "Answer the questions 1 to 4 based on the following conversation. 1. A.Magazine reporter B.Fashion designer C.Website designer D.Features editor 2. A.Designing sports clothing B.Consulting fashion experts C.Answering daily emails D.Interviewing job-seekers 3. A.It is challenging. B.It is fascinating. C.It is tiresome. D.It is fashionable. 4. A.Her persistence B.Her experience C.Her competence D.Her confidence Directions: Answer the questions 5 to 8 based on the following conversation. 5. A.It is enjoyable. B.It is educational. C.It is divorced from real life. D.It is adapted from a drama. 6. A.All the roles are played by famous actors and actresses. B.It is based on the real-life experiences of some celebrities. C.Its plots and events reveal a lot about Frankie&#39;s actual life. D.It is written, directed, edite d and produced by Frankie himself. 7. A.Go to the theater and enjoy it. B.Recommend it to her friends. C.Watch it with the man. D.Download and watch it. 8. A.It has drawn criticisms from scientists. B.It has been showing for over a decade. C.It is a ridiculous piece of satire. D.It is against common sense. Directions: Answer the questions 9 to 11 based on the following passage. 9. A.They are likely to get injured when moving too fast. B.They believe in team spirit for good performance. C.They need to keep moving to avoid getting hurt.",
+      "prompt": ""
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "梅花位居中国十大名花之首，源于中国南方，已有三千多年的栽培历史和种植历史。隆冬时节，五颜六色的梅花不畏严寒，迎着风雪傲然绽放。在中国传统文化中，梅花象征着坚强、纯洁、高雅，激励人们不畏艰难、砥砺前行。自古以来，许多诗人和画家从梅花中获取灵感，创作了无数不朽的作品。普通大众也都喜爱梅花，春节期间常用于家庭装饰。南京市已将梅花定为市花，每年举办梅花节，成千上万的人冒着严寒到梅花山踏雪赏梅。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

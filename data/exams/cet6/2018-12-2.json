@@ -1,0 +1,312 @@
+{
+  "id": "cet6-2018-12-2",
+  "type": "cet6",
+  "year": 2018,
+  "month": 12,
+  "set": 2,
+  "title": "2018年12月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list \nof choices given in a word bank following the passage. Read the passage through carefully before making your choices. \nEach choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 \nwith a single line through the centre. You may not use any of the words in the bank more than once. \nQuestions 26 to 35 are based on the following passage. \nSurfing the Internet during class doesn't just steal focus from the educator; it also hurts students who're already \nstruggling to    26    the material. A new study from Michigan State University, though, argues that all \nstudents—including high achievers—see a decline in performance when they browse the Internet during class for \nnon-academic purposes. \nTo measure the effects of Internet-based distractions during class, researchers    27    500 students taking an \nintroductory psychology class at Michigan State University. Researchers used ACT scores as a measure of intellectual    \n28   . Because previous research has shown that people with high intellectual abilities are better at    29    \nout \ndistractions, researchers believed students with high ACT scores would not show a    30   \ndecrease in performance due \nto their use of digital devices. But students who surfed the web during class did worse on their exams regardless of their \nACT scores, suggesting that even the academically smartest students are harmed when they're distracted in class. \nCollege professors are increasingly    31    \nalarm bells about the effects smartphones, laptops, and tablets have on \nacademic performance. One 2013 study of college students found that 80% of students use their phones or laptops during \nclass, with the average student checking their digital device 11 times in a    32   \nclass. A quarter of students report that \ntheir use of digital devices during class causes their grades to    \n33   . \n- 3 -\n\nProfessors sometimes implement policies designed to    34    \nstudents' use of digital devices, and some instructors \neven confiscate (没收) tablets and phones. In a world where people are increasingly dependent on their phones, though, \nsuch strategies often fail. One international study found that 84% of people say they couldn't go a day without their \nsmartphones. Until students are able to    35    \nthe pull of social networking, texting, and endlessly surfing the web, \nthey may continue to struggle in their classes. \nA)aptitude\nI）obscure",
+      "wordBank": {
+        "B": "eradication",
+        "J": "obsess",
+        "C": "evaluated",
+        "K": "raising",
+        "D": "evaporated"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Merian was the first scientist to study a type of American ant.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "The European audience was more interested in Merian's drawings than her gender.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Merian's masterpiece came under attack a century after its publication.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Merian’s mistakes in her drawings may be attributed to her shortened stay in South America.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Merian often sat up the whole night through to observe and draw insects.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Merian acknowledged the help she got from natives of South America.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Merian contributed greatly to people's better understanding of medicine and science.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Merian occasionally made mistakes in her drawings of insects and birds.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Now, Merian's role as a female forerunner in sciences has been re-established.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Merian made a long voyage to South America to study jungle insects over three centuries ago.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage. \nWhile human achievements in mathematics continue to reach new levels of complexity, many of us who aren't \nmathematicians at heart (or engineers by trade) may struggle to remember the last time we used calculus (微积分). \nIt’s a fact not lost on American educators, who amid rising math failure rates are debating how math can better meet \nthe real-life needs of students. Should we change the way math is taught in schools, or eliminate some courses entirely? \nAndrew Hacker, Queens College political science professor, thinks that advanced algebra and other higher-level math \nshould be cut from curricula in favor of courses with more routine usefulness, like statistics. \n“We hear on all sides that we're not teaching enough mathematics, and the Chinese are running rings around us,” \nHacker says. “I'm suggesting we're teaching too much mathematics to too many people…not everybody has to know \ncalculus. If you're going to become an aeronautical (航空的) engineer, fine. But most of us aren't.” \nInstead, Hacker is pushing for more courses like the one he teaches at Queens College： Numeracy 101. There, his \nstudents of “citizen statistics” learn to analyze public information like the federal budget and corporate reports. Such \ncourses, Hacker argues, are a remedy for the numerical illiteracy of adults who have completed high-level math like algebra \nbut are unable to calculate the price of, say, a carpet by area. \nHacker's argument has met with opposition from other math educators who say what's needed is to help students \ndevelop a better relationship with math earlier, rather than teaching them less math altogether. \nMaria Droujkova is a founder of Natural Math, and has taught basic calculus concepts to 5-year-olds. For Droujkova, \nhigh-level math is important, and what it could use in American classrooms is an injection of childlike wonder. \n   “Make mathematics more available,” Droujkova says. “Redesign it so it's more accessible to more kinds of people: \nyoung children, adults who worry about it, adults who may have had bad experiences.” \nPamela Harris, a lecturer at the University of Texas at Austin, has a similar perspective. Harris says that American \neducation is suffering from an epidemic of “fake math”—an emphasis on rote memorization (死记硬背) of formulas and \nsteps, rather than an understanding of how math can influence the ways we see the world. \n- 6 -\n\nAndrew Hacker, for the record, remains skeptical. \n“I'm going to leave it to those who are in mathematics to work out the ways to make their subject interesting and \nexciting so students want to take it,” Hacker says. “All that I ask is that alternatives be offered instead of putting all of us on \nthe road to calculus.”",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What does the author say about ordinary Americans?",
+              "options": {
+                "A": "They struggle to solve math problems.",
+                "B": "They think math is a complex subject.",
+                "C": "They find high-level math of little use.",
+                "D": "They work hard to learn high-level math."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What is the general complaint about America's math education according to Hacker?",
+              "options": {
+                "A": "America is not doing as well as China.",
+                "B": "Math professors are not doing a good job.",
+                "C": "It doesn't help students develop their literacy.",
+                "D": "There has hardly been any innovation for years."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What does Andrew Hacker's Numeracy 101 aim to do?",
+              "options": {
+                "A": "Allow students to learn high-level math step by step.",
+                "B": "Enable students to make practical use of basic math.",
+                "C": "Lay a solid foundation for advanced math studies.",
+                "D": "Help students to develop their analytical abilities."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What does Maria Droujkova suggest math teachers do in class?",
+              "options": {
+                "A": "Make complex concepts easy to understand.",
+                "B": "Start teaching children math at an early age.",
+                "C": "Help children work wonders with calculus.",
+                "D": "Try to arouse students' curiosity in math."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What does Pamela Harris think should be the goal of math education?",
+              "options": {
+                "A": "To enable learners to understand the world better.",
+                "B": "To help learners to tell fake math from real math.",
+                "C": "To broaden Americans' perspectives on math.",
+                "D": "To exert influence on world development."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage \nFor years, the U.S. has experienced a shortage of registered nurses. The Bureau of Labor Statistics projects that while \nthe number of nurses will increase by 19 percent by 2022, demand will grow faster than supply, and that there will be over \none million unfilled nursing jobs by then. \nSo what's the solution? Robots. \nJapan is ahead of the curve when it comes to this trend. Toyohashi University of Technology has developed Terapio, a \nrobotic medical cart that can make hospital rounds, deliver medications and other items, and retrieve records. It follows a \nspecific individual, such as a doctor or nurse, who can use it to record and access patient data. This type of robot will likely \nbe one of the first to be implemented in hospitals because it has fairly minimal patient contact. \nRobots capable of social engagement help with loneliness as well as cognitive functioning, but the robot itself doesn't \nhave to engage directly—it can serve as an intermediary for human communication. Telepresence robots such as \nMantaroBot, Vgo, and Giraff can be controlled through a computer, smartphone, or tablet, allowing family members or \ndoctors to remotely monitor patients or Skype them, often via a screen where the robot's ‘face’ would be. If you can't get to \nthe nursing home to visit grandma, you can use a telepresence robot to hang out with her. A 2016 study found that users had \na “consistently positive attitude” about the Giraff robot's ability to enhance communication and decrease feelings of \nloneliness. \nA robot's appearance affects its ability to successfully interact with humans, which is why the RIKEN-TRI \n- 7 -\n\nCollaboration Center for Human-Interactive Robot Research decided to develop a robotic nurse that looks like a huge teddy \nbear. RIBA (Robot for Interactive Body  \nOn the less cute and more scary side there is Actroid F, which is so human-like that some patients may not know the \ndifference. This conversational robot companion has cameras in its eyes, which allow it to track patients and use appropriate \nfacial expressions and body language in its interactions. During a month-long hospital trial, researchers asked 70 patients \nhow they felt being around the robot and “only three or four said they didn't like having it around.” \nIt's important to note that robotic nurses don't decide courses of treatment or make diagnoses (though robot doctors and \nsurgeons may not be far off). Instead, they perform routine and laborious tasks, freeing nurses up to attend to patients with \nimmediate needs. This is one industry where it seems the integration of robots will lead to collaboration, not replacement.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What does the author say about Japan?",
+              "options": {
+                "A": "It delivers the best medications for the elderly.",
+                "B": "It takes the lead in providing robotic care.",
+                "C": "It provides retraining for registered nurses.",
+                "D": "It sets the trend in future robotics technology."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What do we learn about the robot Terapio?",
+              "options": {
+                "A": "It has been put to use in many Japanese hospitals.",
+                "B": "It provides specific individualized care to patients.",
+                "C": "It does not have much direct contact with patients.",
+                "D": "It has not revolutionized medical service in Japan."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What are telepresence robots designed to do?",
+              "options": {
+                "A": "Directly interact with patients to prevent them from feeling lonely.",
+                "B": "Cater to the needs of patients for recovering their cognitive capacity.",
+                "C": "Closely monitor the patients' movements and conditions around the clock.",
+                "D": "Facilitate communication between patients and doctors or family members."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What is one special feature of the robot Actroid F?",
+              "options": {
+                "A": "It interacts with patients just like a human companion.",
+                "B": "It operates quietly without patients realizing its presence.",
+                "C": "It likes to engage in everyday conversations with patients.",
+                "D": "It uses body language even more effectively than words."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What can we infer from the last paragraph?",
+              "options": {
+                "A": "Doctors and surgeons will soon be laid off.",
+                "B": "The robotics industry will soon take off.",
+                "C": "Robots will not make nurses redundant.",
+                "D": "Collaboration will not replace competition. Part IV                          Translation                            (30 minutes)  Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write  your answer on Answer Sheet 2.  中国越来越重视公共图书馆，并鼓励人们充分加以利用。新近公布的统计数字表明，中国的公共图书馆数量在 逐年增长。许多图书馆通过翻新和扩建，为读者创造了更为安静、舒适的环境。大型公共图书馆不仅提供种类繁多 的参考资料，而且定期举办讲座、展览等活动。近年来，也出现了许多数字图书馆，从而节省了存放图书所需的空 间。一些图书馆还推出了自助服务系统，使读者借书还书更加方便，进一步满足了读者的需求。  - 8 -"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

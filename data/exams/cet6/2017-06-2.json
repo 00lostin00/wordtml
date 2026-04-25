@@ -1,0 +1,673 @@
+{
+  "id": "cet6-2017-06-2",
+  "type": "cet6",
+  "year": 2017,
+  "month": 6,
+  "set": 2,
+  "title": "2017年6月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "Suppose you are asked to give advice on whether to major in science or humanities at college ，write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "Doing enjoyable work.",
+            "B": "Earning a competitive salary.",
+            "C": "Having friendly colleagues.",
+            "D": "Working for supportive bosses."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "20%.",
+            "B": "25%.",
+            "C": "31%.",
+            "D": "73%."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "Those full of skilled workers.",
+            "B": "Those that are well managed.",
+            "C": "Those run by women.",
+            "D": "Those of a small size."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "They can win recognition of their work.",
+            "B": "They can better balance work and life.",
+            "C": "They can hop from job to job easily.",
+            "D": "They can take on more than one job."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "It is a collection of photos.",
+            "B": "It is an introduction to music.",
+            "C": "It is about the city of Bruges.",
+            "D": "It is a book of European history."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "When writing about Belgium’s coastal regions.",
+            "B": "When taking pictures for a concert catalogue.",
+            "C": "When vacationing in an Italian coastal city.",
+            "D": "When painting the concert hall of Bruges."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "The rich heritage of Europe will be lost completely.",
+            "B": "The seawater of Europe will be seriously polluted.",
+            "C": "The entire European coastline will be submerged.",
+            "D": "The major European scenic spots will disappear."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "Tourists use wooden paths to reach their hotels in the morning.",
+            "B": "It attracts large numbers of tourists from home and abroad.",
+            "C": "People cannot get around without using boats.",
+            "D": "Its waterways are being increasingly polluted."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "They try hard to avoid getting off on the wrong foot.",
+            "B": "They spend too much time anticipating their defeat.",
+            "C": "They take too many irrelevant factors into account.",
+            "D": "They make careful preparations beforehand."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "Mental images often interfere with athletes’ performance.",
+            "B": "Golfers usually have positive mental images of themselves.",
+            "C": "Thinking has the same effect on the nervous system as doing.",
+            "D": "A person’s nervous system is more complicated than imagined."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Anticipate possible problems.",
+            "B": "Make a list of do’s and dont’s.",
+            "C": "Try to appear more professional.",
+            "D": "Picture themselves succeeding."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "She won her first jury trial.",
+            "B": "She wore a designer dress.",
+            "C": "She presented moving pictures.",
+            "D": "She did not speak loud enough."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "It enables patients with diabetes to recover sooner.",
+            "B": "Its health benefits have been overestimated.",
+            "C": "Its long-term effects are yet to be proved.",
+            "D": "It helps people to avoid developing breast cancer."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "It tracked their eating habits since their adolescence.",
+            "B": "It focused on their difference from men in fiber intake.",
+            "C": "It tracked their change in food preferences for 20 years.",
+            "D": "It focused on their ways of life during young adulthood."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Fiber may bring more benefits to women than men.",
+            "B": "Fiber may improve the function of heart muscles.",
+            "C": "Fiber may make blood circulation more smooth.",
+            "D": "Fiber may help to reduce hormones in the body."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "Investigating the impact of media on government.",
+            "B": "Studying the hazards of young people drinking.",
+            "C": "Conducting research on consumer behaviour.",
+            "D": "Observing the changes in marketing."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "It is a chief concern of parents.",
+            "B": "It is an act of socialising.",
+            "C": "It is the cause of many street riots.",
+            "D": "It is getting worse year by year."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "They researched the impact of mobile phones on young people.",
+            "B": "They spent a week studying their own purchasing behaviour.",
+            "C": "They conducted a thorough research on advertising.",
+            "D": "They analysed their family budgets over the years."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "It is likely to give up paper money in the near future.",
+            "B": "It is the first country to use credit cards in the world.",
+            "C": "It is trying hard to do away with dirty money.",
+            "D": "It is helping its banks to improve efficiency."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Whether it is possible to travel without carrying any physical",
+            "B": "Whether it is possible to predict how much money one is going to spend.",
+            "C": "Whether the absence of physical currency is going to affect everyday",
+            "D": "Whether the absence of physical currency causes a person to spend"
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "The cash in her handbag was missing.",
+            "B": "The service on the train was not good.",
+            "C": "The restaurant car accepted cash only.",
+            "D": "There was no food service on the train."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "By drawing money week by week.",
+            "B": "By putting money into envelopes.",
+            "C": "By limiting their day-to-day spending.",
+            "D": "By refusing to buy anything on credit."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "Population explosion.",
+            "B": "Extinction of rare species.",
+            "C": "Chronic hunger.",
+            "D": "Environmental deterioration."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "About half of them are unintended.",
+            "B": "They contribute to overpopulation.",
+            "C": "They have been brought under control.",
+            "D": "The majority of them tend to end halfway."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "It is beginning to attract postgraduates’ attention.",
+            "B": "It is neglected in many of the developing countries.",
+            "C": "It is becoming a subject of interdisciplinary research.",
+            "D": "It is essential to the well being of all species on earth."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required\nto select one word for each blank from a list of choices given in a\nword bank following the passage. Read the passage through\ncarefully before making your choices, Each choice in the bank is\nidentified by a letter. Please mark the corresponding letter for each\nitem on Answer Sheet 2 with a single line through the centre. You\nmay not use any of the words in the bank more than once.\nQuestions 26 to 35 are based on the following passage.\nLet’s all stop judging people who talk to themselves. New research says\nthat those who can’t seem to keep their inner monologues (独白）in are actually\nmore likely to stay on task, remain (26)_______better and show improved\nperception capabilities. Not bad, really, for some extra muttering.\nAccording to a series of experiments published in the Quarterly Journal of\nExperimental Psychology by professors Gary Lupyan and Daniel Swignley, the\nact of using verbal clues to (27)_______mental pictures helps people function\nquicker.\nIn one experiment, they showed pictures of various objects to twenty\n(28)_______; and asked them to find just one of those, a banana. Half were\n(29)_______to repeat out loud what they were looking for and the other half\nkept their lips (30)_______Those who talked to themselves found the banana\nslightly faster than those who didn’t, the researchers say. In other experiments,\nLupyan and Swignley found that(31)_______the name of a common product\nwhen on the hunt for it helped quicken someone’s pace ，but talking about\n\nuncommon items showed no advantage and slowed you down.\nCommon research has long held that talking themselves through a task\nhelps children learn, although doing so when you’ve (32)_______matured is not\na great sign of (33)_______. The two professors hope to refute that idea,\n(34)_______that just as when kids walk themselves through a process, adults\ncan benefit from using language not just to communicate, but also to help\n“augment thinking”.\nOf course, you are still encouraged to keep the talking at library tones and,\nwhatever you do, keep the information you share simple, like a grocery list. At\nany (35)_______，there’s still such a thing as too much information.",
+      "wordBank": {
+        "A": "Apparently",
+        "B": "Arrogance",
+        "C": "Brilliance",
+        "D": "Claiming",
+        "E": "Dedicated",
+        "F": "Focused",
+        "G": "Incur",
+        "H": "Instructed",
+        "I": "Obscurely",
+        "J": "Sealed",
+        "K": "Spectators",
+        "L": "Trigger",
+        "M": "Uttering",
+        "N": "Volume",
+        "O": "Volunteers"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Working-class parents teach their children to be obedient and show\nrespect to adults.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "American parents, whether rich or poor, have similar expectations of\ntheir children despite different\nways of parenting.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "While\nrich\nparents\nare\nmore\nconcerned\nwith\ntheir\nchildren’s\npsychological well-being, poor parents\nare more worried about their children’s\nsafety.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "The increasing differences in child rearing between rich and poor\nfamilies reflect growing social\ninequality.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Parenting approaches of working-class and affluent families both have\nadvantages.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Higher-income families and working-class families now tend to live in\ndifferent neighborhoods.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Physical punishment is used much less by well-educated parents.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Ms. Lareau doesn’t believe participating in fewer after-class activities\nwill negatively affect children’s development.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Wealthy parents are concerned about their children’s mental health and\nbusy schedules.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Some socioeconomic differences in child rearing have shrunk in the\npast ten years.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nTennessee’s technical and community colleges will not outsource (夕卜包）\nmanagement of their facilities to a private company, a decision one leader said\nwas bolstered by an analysis of spending at each campus.\nIn an email sent Monday to college presidents in the Tennessee Board of\n\nRegents system, outgoing Chancellor John Morgan said an internal analysis\nshowed that each campus’ spending on facilities management fell well below the\nindustry standards identified by the state. Morgan said those findings — which\nincluded data from the system’s 13 community colleges, 27 technical colleges\nand six universities — were part of the decision not to move forward with\nGovernor Bill Haslam’s proposal to privatize management of state buildings in\nan effort to save money.\n“While these numbers are still being validated by the state, we feel any\nadjustments they might suggest will be immaterial,” Morgan wrote to the\npresidents. “System institutions are operating very efficiently based on this\nanalysis, raising the question of the value of pursuing a broad scale outsourcing\ninitiative.”\nWorkers，advocates have criticized Haslam’s plan, saying it would mean\nsome campus workers would lose their jobs or benefits. Haslam has said\ncolleges would be free to opt in or out of the outsourcing plan, which has not\nbeen finalized.\nMorgan notified the Haslam administration of his decision to opt out in a\nletter sent last week. That letter, which includes several concerns Morgan has\nwith the plan, was originally obtained by The Commercial Appeal in Memphis.\nIn an email statement from the state’s Office of Customer Focused\nGovernment, which is examining the possibility of outsourcing, spokeswoman\nMichelle R. Martin said officials were still working to analyze the data from the\nBoard of Regents. Data on management expenses at the college system and in\nother state departments will be part of a “business justification” the state will\nuse as officials deliberate the specifics of an outsourcing plan.\n“The state’s facilities management project team is still in the process of\ndeveloping its business justification and expects to have that completed and\navailable to the public at the end of February,Martin said. “At this time there is\nnothing to take action on since the analysis has yet to be completed.”\nMorgan’s comments on outsourcing mark the second time this month that\nhe has come out against one of Haslam’s plans for higher education in Tennessee.\nMorgan said last week that he would retire at the end of January because of the\ngovernor’s proposal to split off six universities of the Board of Regents system\nand create separate governing boards for each of them. In his resignation letter,\nMorgan called the reorganization “unworkable.”",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What do we learn about the decision of technical and community colleges in Tennessee?",
+              "options": {
+                "A": "It is backed by a campus spending analysis.",
+                "B": "It has been flatly rejected by the governor.",
+                "C": "It has neglected their faculty’s demands.",
+                "D": "It will improve their financial situation."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What does the campus spending analysis reveal?",
+              "options": {
+                "A": "Private companies play a big role in campus management.",
+                "B": "Facilities management by colleges is more cost-effective.",
+                "C": "Facilities management has greatly improved in recent years.",
+                "D": "Colleges exercise full control over their own financial affairs."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "Worker’ supporters argue that Bill Haslam’s proposal would_______.",
+              "options": {
+                "A": "deprive colleges of the right to manage their facilities",
+                "B": "make workers less motivated in performing duties",
+                "C": "render a number of campus workers jobless",
+                "D": "lead to the privatization of campus facilities"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What do we learn from the state spokeswoman’s response to John Morgan’s decision?",
+              "options": {
+                "A": "The outsourcing plan is not yet finalized.",
+                "B": "The outsourcing plan will be implemented.",
+                "C": "The state officials are confident about the outsourcing plan.",
+                "D": "The college spending analysis justifies the outsourcing plan."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "Why did John Morgan decide to resign?",
+              "options": {
+                "A": "He had lost confidence in the Tennessee state government.",
+                "B": "He disagreed with the governor on higher education policies.",
+                "C": "He thought the state’s outsourcing proposal was simply unworkable.",
+                "D": "He opposed the governor’s plan to reconstruct the college board system."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nBeginning in the late sixteenth century, it became fashionable for young\naristocrats to visit Paris, Venice, Florence, and above all, Rome, as the\nculmination (终极）of their classical education. Thus was born the idea of the\nGrand Tour, a practice which introduced Englishmen, Germans, Scandinavians,\nand also Americans to the art and culture of France and Italy for the next 300\nyears. Travel was arduous and costly throughout the period, possible only for a\nprivileged class — the same that produced gentlemen scientists, authors, antique\nexperts, and patrons of the arts.\nThe Grand Tourist was typically a young man with a thorough grounding in\nGreek and Latin literature as well as some leisure time, some means, and some\ninterest in art. The German traveler Johann Winckelmann pioneered the field of\nart history with his comprehensive study of Greek and Roman sculpture; he was\nportrayed by his friend Anton Raphael Mengs at the beginning of his long\nresidence in Rome. Most Grand Tourists, however, stayed for briefer periods and\nset out with less scholarly intentions, accompanied by a teacher or guardian, and\nexpected to return home with souvenirs of their travels as well as an\nunderstanding of art and architecture formed by exposure to great masterpieces.\nLondon was a frequent staring point for Grand Tourists, and Paris a\ncompulsory destination; many traveled to the Netherlands, some to Switzerland\nand Germany, and a very few adventurers to Spain, Greece, or Turkey. The\n\nessential place to visit, however, was Italy. The British traveler Charles\nThompson spoke for many Grand Tourists when in 1744 he described himself as\n“being impatiently desirous of viewing a country so famous in history, a country\nwhich once gave laws to the world, and which is at present the greatest school of\nmusic\nand\npainting,\ncontains\nthe\nnoblest\nproductions\nof\nsculpture\nand\narchitecture, and is filled with cabinets of rarities, and collections of all kinds of\nhistorical relics.” Within Italy, the great focus was Rome, whose ancient ruins\nand more recent achievements were shown to every Grand Tourist. Panini’s\nAncient Rome and Modem Rome represent the sights most prized, including\ncelebrated Greco-Roman statues and views of famous ruins, fountains, and\nchurches. Since there were few museums anywhere in Europe before the close of\nthe eighteenth century, Grand Tourists often saw paintings and sculptures by\ngaining admission to private collections, and many were eager to acquire\nexamples of Greco-Roman and Italian art for their own collections. In England,\nwhere architecture was increasingly seen as an aristocratic pursuit, noblemen\noften applied what they learned from the villas of Palladio in the Veneto and the\nevocative (唤起回忆的）ruins of Rome to their own country houses and gardens.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What is said about the Grand Tour?",
+              "options": {
+                "A": "It was fashionable among young people of the time.",
+                "B": "It was unaffordable for ordinary people.",
+                "C": "It produced some famous European artists.",
+                "D": "It made a compulsory part of college education."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What did Grand Tourists have in common?",
+              "options": {
+                "A": "They had much geographic knowledge.",
+                "B": "They were courageous and venturesome.",
+                "C": "They were versed in literature and interested in art.",
+                "D": "They had enough travel and outdoor-life experience."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "How did Grand Tourists benefit from their travel?",
+              "options": {
+                "A": "They found inspiration in the world’s greatest masterpieces.",
+                "B": "They got a better understanding of early human civilization.",
+                "C": "They developed an interest in the origin of modem art forms.",
+                "D": "They gained some knowledge of classical art and architecture."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "Why did many Grand Tourists visit the private collections?",
+              "options": {
+                "A": "They could buy unique souvenirs there to take back home.",
+                "B": "Europe hardly had any museums before the 19th century.",
+                "C": "They found the antiques there more valuable.",
+                "D": "Private collections were of greater variety."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "How did the Grand Tour influence the architecture in England?",
+              "options": {
+                "A": "There appeared more and more Roman-style buildings.",
+                "B": "Many aristocrats began to move into Roman-style villas.",
+                "C": "Aristocrats’ country houses all had Roman-style gardens.",
+                "D": "Italian architects were hired to design houses and gardens."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "宋朝始于960 年，一直延续到1279 年。这一时期，中国经济大幅增长，成为世界上最先进的经济体，科学、技术、哲学和数学蓬勃发展。宋代中国是世界历史上首先发行纸币的国家, 宋朝还最早使用火药并发明了适室（movable-type)印刷。人口增长迅速，越来越多的人住进城市，那里有热闹的娱乐场所, 社会生活多种多样, 人们聚集在一起观看和交易珍贵艺术品。宋朝的政府体制在当时也是先进的, 政府官员均通过竞争性考试选拔作用。【参考答案】【参考范文】【翻译参考译文】",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

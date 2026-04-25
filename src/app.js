@@ -16,6 +16,8 @@ const routes = {
   "/match":    (ctx) => page("match", ctx),
   "/rapid":    (ctx) => page("rapid", ctx),
   "/stats":    (ctx) => page("stats", ctx),
+  "/exams":    (ctx) => page("exams", ctx),
+  "/exam":     (ctx) => page("exam", ctx),
   "/settings": (ctx) => page("settings", ctx),
 };
 

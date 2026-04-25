@@ -1,0 +1,673 @@
+{
+  "id": "cet6-2019-06-2",
+  "type": "cet6",
+  "year": 2019,
+  "month": 6,
+  "set": 2,
+  "title": "2019年6月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of mutual understanding and respect in interpersonal relationships. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "Why Roman Holiday was more famous than Breakfast at Tiffany’s.",
+            "B": "Why Audrey Hepburn had more female fans than male ones.",
+            "C": "Why the woman wanted to be like Audrey Hepburn.",
+            "D": "Why so many girls adored Audrey Hepburn."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "Her unique personality.",
+            "B": "Her physical condition.",
+            "C": "Her shift of interest to performing arts.",
+            "D": "Her family’s suspension of financial aid."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "She was not an outgoing person.",
+            "B": "She was modest and hardworking",
+            "C": "She was easy-going on the whole.",
+            "D": "She was usually not very optimistic."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "She was influenced by the roles she played in the films.",
+            "B": "Her parents taught her to symbolize with the needy.",
+            "C": "She learned to volunteer when she was a child.",
+            "D": "Her family benifited from other people’s help."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "Give a presentation.",
+            "B": "Rise some questions.",
+            "C": "Start a new company.",
+            "D": "Atteed a board meeting."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "It will cut production costs.",
+            "B": "It will raise productivity.",
+            "C": "No staff will be dismissed.",
+            "D": "No new staff will be hired."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "The timeline of restructuring.",
+            "B": "The reasons for restructuring.",
+            "C": "The communication channels.",
+            "D": "The company’s new missions."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "By consulting their own department managers.",
+            "B": "By emailing questions to the man or the woman.",
+            "C": "By exploring various channels of communication.",
+            "D": "By visiting the company’s own computer network."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "It helps passengers to take care of their pet animals.",
+            "B": "It has animals to help passengers carry their language.",
+            "C": "It uses therapy animals to soothe nervous passengers.",
+            "D": "It allows passengers to have animal travel with them."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "Avoiding possible dangers.",
+            "B": "Finding their way around.",
+            "C": "Identifying drug smugglers.",
+            "D": "Looking after sick passengers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Schedule their flights around the animal visits.",
+            "B": "Photograph the therapy animals at the airport.",
+            "C": "Keep some animals for therapeutic purposes.",
+            "D": "Bring their animals on board their plane."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "Beside a beautifully painted wall in Arles.",
+            "B": "Beside the gate of an ancient Roman city.",
+            "C": "At the site of an ancient Roman mansion.",
+            "D": "At the entrance to a reception hall in Rome."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "A number of different images.",
+            "B": "A number of mythological heroes.",
+            "C": "Various musical instruments.",
+            "D": "Paintings by famous French artists."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "The originality and expertise shown.",
+            "B": "The worldly sophistication displayed.",
+            "C": "The stunning images vividly depicted.",
+            "D": "The impressive skills and costly dyes."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "His artistic taste is superb.",
+            "B": "His identity remains unclear.",
+            "C": "He was a collector of antiques.",
+            "D": "He was a rich Italian merchant."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "They encourage international cooperation.",
+            "B": "They lay stress on basic scientific research.",
+            "C": "They place great emphasis on empirical studies.",
+            "D": "They favour scientists from its member countries."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "Many of them wish to win international recognition.",
+            "B": "They believe that more hands will make light work.",
+            "C": "They want to follow closely the international trend.",
+            "D": "Many of their projects have become complicated."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "It requires mathematicians to work independently.",
+            "B": "It is faced with many unprecedented challenges.",
+            "C": "It lags behind other disciplines in collaboration.",
+            "D": "It calls for more research funding to catch up."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "Scientists tried to send a balloon to Venus.",
+            "B": "Scientists discovered water on Venus.",
+            "C": "Scientists found Venus had atmosphere.",
+            "D": "Scientists observed Venus from a space vehicle."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "It resembles Earth in many aspects.",
+            "B": "It is the same as fiction has portrayed.",
+            "C": "It is a paradise of romance for alien life.",
+            "D": "It undergoes geological changes like Earth."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "It might have been hotter than it is today.",
+            "B": "It might have been a cozy habitat for life.",
+            "C": "It used to have more water than Earth.",
+            "D": "It used to be covered with rainforests."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Causes of sleeplessness.",
+            "B": "Cross-cultural communication.",
+            "C": "Cultural psychology.",
+            "D": "Motivation and positive feelings."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "They attach great importance to sleep.",
+            "B": "They often have trouble falling asleep.",
+            "C": "They pay more attention to sleep efficiency.",
+            "D": "They generally sleep longer than East Asians."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "By asking people to report their sleep habits.",
+            "B": "By observing people’s sleep patterns in labs.",
+            "C": "By having people wear motion-detecting watches.",
+            "D": "By videotaping people’s daily sleeping processes."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "It has made remarkable progress in the past few decades.",
+            "B": "It has not yet explored the cross-cultural aspect of sleep.",
+            "C": "It has not yet produced anything conclusive.",
+            "D": "It has attached attention all over the world."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word\nfor each blank from a list of choices given in a word bank following the passage. Read the passage\nthrough carefully before making your choices. Each choice in the bank is identified by a letter.\nPlease mark the corresponding letter for each item on Answer Sheet 2 with a single line\nthrough the centre. You may not use any of the words in the bank more than once.\nQuestions 26 to 35 are based on the following passage.\nThe dream of personalised flight is still vivid in the minds of many inventors, some\ndeveloping cycle-powered craft, others\n\nmoney into jetpacks (喷气飞行背包). However, the\nflying car has always remained the\n\nsymbol of personal transport freedom.\nSeveral companies around the world have produced\n\nthat can drive on roads and fly.\nAirbus has a futuristic modular (组件式的) concept involving a passenger capsule that can be\n\nfrom the road-going chassis (底盘) and picked up by a helicopter-type machine.\nBut all these concepts are massively expensive, require safety certification standards for road\nand air, need\n\ncontrols, involve complex folding wings and propellers, and have to be flown\nfrom air-strips. So they are likely to remain rich people’s playthings rather than practical transport\nsolutions for the masses.\n“A car that takes off from some London street and lands in another\n\nstreet is unlikely to\nhappen,” says Prof. Gray, a leading aeronautical engineer. “Sky taxis are much more likely.” But\nthat won’t stop inventors from dreaming up new ways to fly and trying to persuade investors to\nback their sometimes\n\nschemes.\nCivilian aviation is being disrupted, not by the age-old desires for speed, romanticism and\n\n, but by the pressing need to respond to a changing climate. New electric engines coupled\nwith artificial intelligence and\n\nsystems will contribute to a more efficient, integrated\ntransport system that is less polluting and less noisy. That may sound simple, but as Prof. Gray\nsays, “When I travel somewhere I like this notion that when I finish my journey I feel better than\nwhen I started it. That’s completely at\n\nwith how I feel today.” Now that would be progress.",
+      "wordBank": {
+        "A": "autonomous",
+        "I": "pouring",
+        "B": "detached",
+        "J": "prototypes",
+        "C": "dual",
+        "K": "random",
+        "D": "glamour",
+        "L": "repressing",
+        "E": "imminent",
+        "M": "segmented",
+        "F": "odds",
+        "N": "spectrum",
+        "G": "opposites",
+        "O": "ultimate",
+        "H": "outrageous"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Some companies believe that products’ prolonged lifespan benefits both the environment\nand customers.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "A survey shows shoppers today are getting more concerned about energy conservation\nand environmental protection when deciding what to buy.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Companies can build customer loyalty by creating a positive culture of environmental\nawareness.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "When companies launch environmental programs, they will have their brand reputation\nenhanced.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "One multinational company offers discounts to customers who bring in old footwear to be\nused as fuel.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Recycling used products can help manufacturers reduce production costs.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Electronic products contain valuable metals that could be recovered.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "It seems commonly believed that companies are not motivated to prolong their products’\nlifespan.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "It is advisable for companies to partner with each other in product recycling.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Some businesses have begun to realize it may not be effective to let consumers take full\nresponsibility for recycling.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nEffective Friday, Screen Actors Guild-American Federation of Television and Radio Artists\n(SAG-AFTRA) has declared a strike against 11 video game publishers over games that went into\nproduction after Feb. 17, 2015. The companies include some of the heavyweights of the industry,\nlike Electronic Arts Productions, Insomniac Games, Activision and Disney.\nThe strike comes in light of an unsuccessful 19 months of negotiations after the existing labor\ncontract known as the Interactive Media Agreement expired in late 2014. overall, the strike is an\neffort to provide more secondary compensation along with other concerns, such as transparency\nupon hiring talent and on-set (制作中) safety precautions.\nThe video gaming industry has ballooned in recent years. The Los Angeles Times reports that\n- 7 -\n\nthe industry is in the midst of an intense increase in cash flow. In 2015, gaming produced $23.5\nbillion in domestic revenue.\nBut SAG-AFTRA says voice actors don’t receive residuals (追加酬金) for their gaming work.\nInstead, they receive a fixed rate, which is typically about $825 for a standard four-hour vocal\nsession. So the voice actors are pushing for the idea of secondary compensation—a performance\nbonus every time a game sells 2 million copies or downloads, or reaches 2 million subscribers,\nwith a cap at 8 million.\n“It’s a very small number of games that would trigger this secondary compensation issue,”\nsaid voice actor Crispin Freeman, who’s a member of the union’s negotiating committee. “This is\nan important aspect of what it means to be a freelance (从事自由职业的) performer, who isn’t\nregularly employed every single day working on projects.”\nAnother major complaint from the actors is the secrecy of the industry. “I can’t imagine if\nthere’s any other acting job in the world where you don’t know what show you’re in, when you’re\nhired,” says voice actor Keythe Farley, who chairs the SAG-AFTRA negotiating committee.\n“And yet that happens every day in the video game world,” Farley told reporters during a\npress conference Friday. “I was a main character in Fallout 4, a character by the name of Kellogg,\nand I never knew that I was doing vocal recording for that game throughout the year and a half.”\nScott Witlin, the lawyer representing the video game companies, says voice actors “represent\nless than one tenth of 1 percent of the work that goes into making a video game.” So “even though\nthey’re the top craftsmen in their field,” Witlin says, “if we pay them under a vastly different\nsystem than the people who do the 99.9 percent of the work, that’s going to create far more\nproblems for the video game companies.”",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "Why did SAG-AFTRA declare a strike against some video game publishers?",
+              "options": {
+                "A": "The labor contract between them had been violated.",
+                "B": "Its appeal to renegotiate the contract had been rejected.",
+                "C": "It had been cheated repeatedly in the 19 months of talks.",
+                "D": "The negotiations between them had broken down."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What do we learn from the passage about the video gaming industry?",
+              "options": {
+                "A": "It has reaped huge profits in recent years.",
+                "B": "It has become more open and transparent.",
+                "C": "It has attracted many famous voice actors.",
+                "D": "It has invested a lot in its domestic market."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What are the voice actors demanding?",
+              "options": {
+                "A": "More regular employment.",
+                "B": "A non-discriminatory contract.",
+                "C": "Extra pay based on sales revenues.",
+                "D": "A limit on the maximum work hours."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What does Keythe Farley say about voice actors?",
+              "options": {
+                "A": "They are kept in the dark about many details of their job.",
+                "B": "They are discriminated against in the gaming industry.",
+                "C": "They are not paid on a regular basis.",
+                "D": "They are not employed full-time."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What is the argument of lawyer Scott Witlin?",
+              "options": {
+                "A": "Voice actors should have a pay raise if they prove to be top craftsmen.",
+                "B": "Changing the pay system would cause the industry more problems. - 8 -",
+                "C": "Voice actors are mere craftsmen, not professional performers.",
+                "D": "Paying voice actors on an hourly basis is in line with the law."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nOfficials at the White House announced a new space policy focused on managing the\nincreasing number of satellites that companies and governments are launching into space. Space\nPolicy Directive-3 lays out general guidelines for the United States to mitigate (缓解) the effects\nof space debris and track and manage traffic in space.\nThis policy sets the stage for the Department of Commerce to take over the management of\ntraffic in space. The department will make sure that newly launched satellites don’t use radio\nfrequencies that would interfere with existing satellites, and schedule when such new satellites can\nbe launched. This only applies to American space activities, but the hope is that it will help\nstandardize a set of norms in the dawning commercial spaceflight industry throughout the world.\nSpace, especially the space directly around our planet, is getting more crowded as more\ngovernments and companies launch satellites. One impetus for the policy is that companies are\nalready starting to build massive constellations ( 星座), comprising hundreds or thousands of\nsatellites with many moving parts among them. With so much stuff in space, and a limited area\naround our planet, the government wants to reduce the chances of a collision. Two or more\nsatellites slamming into each other could create many more out-of-control bits that would pose\neven more hazards to the growing collection of satellites in space.\nAnd it’s not like this hasn’t happened before. In 2009 an old Russian craft slammed into a\ncommunications satellite, creating a cloud of hundreds of pieces of debris and putting other\nhardware at risk. Journalist Sarah Scoles reports that NASA currently tracks about 24,000 objects\nin space, and in 2016 the Air Force had to issue 3,995,874 warnings to satellite owners alerting\nthem to a potential nearby threat from another satellite or bit of debris.\nThat’s why this new policy also includes directions to update the current U.S. Government\nOrbital Debris Mitigation Standard Practices, which already require any entity that launches a\nsatellite or spacecraft to vigorously analyze the likelihood that any of their actions, from an\nunexpected failure or normal operations, will create more space debris. It includes accounting for\nany piece of debris they plan to release over 5mm that might stay in orbit for 25 years or more. It\nmight seem surprising to think about an item staying in space for that long, but the oldest satellite\nstill in orbit-Vanguard 1-turned 60 in 2018.\nAgencies and companies throughout the world are working on developing technology that\nwould dispose of or capture space debris before it causes serious damage. But for now, the U.S.\ngovernment is more focused on preventing new debris from forming than taking the trash out of\norbit.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What is the purpose of the new U.S. space policy?",
+              "options": {
+                "A": "To lay out general guidelines for space exploration.",
+                "B": "To encourage companies to join in space programs.",
+                "C": "To make the best use of satellites in space.",
+                "D": "To improve traffic conditions in space."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What is the Department of Commerce expected to do under the new policy?",
+              "options": {
+                "A": "Reduce debris in space. - 9 -",
+                "B": "Monitor satellite operations.",
+                "C": "Regulate the launching of new satellites.",
+                "D": "Update satellite communications technology."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does the U.S. government hope to do with the new space policy?",
+              "options": {
+                "A": "Set international standards for the space flight industry.",
+                "B": "Monopolize space industry by developing a set of norms.",
+                "C": "Facilitate commercial space flights throughout the world.",
+                "D": "Promote international collaboration in space exploration."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What is a space vehicle launching entity required to do according to the current U.S. Government Orbital Debris Mitigation Standard Practices?",
+              "options": {
+                "A": "Give an estimate of how long its debris will stay in space.",
+                "B": "Account for the debris it has released into space at any time.",
+                "C": "Provide a detailed plan for managing the space debris it creates.",
+                "D": "Make a thorough analysis of any possible addition to space debris."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What are space agencies and companies aiming to do at present?",
+              "options": {
+                "A": "Recycle used space vehicles before they turn into debris.",
+                "B": "Develop technology to address the space debris problem.",
+                "C": "Limit the amount of debris entering space.",
+                "D": "Cooperate closely to retrieve space debris."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into \nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "中国幅员辽阔，人口众多，很多地方人们都说自己的方言。方言在发音上差别很大，词汇和语法差别较小。有些方言，特别是北方和南方的方言，差异很大，以致于说不同方言的人常常很难听懂彼此的讲话。方言被认为是当地文化的一个组成部分，但近年来能说方言的人数不断减少。为了鼓励人们更多说本地语言，一些地方政府已经采取措施，如在学校开设方言课，在广播和电视上播放方言节目，以期保存本地的文化遗产。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

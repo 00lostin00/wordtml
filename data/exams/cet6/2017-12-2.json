@@ -1,0 +1,340 @@
+{
+  "id": "cet6-2017-12-2",
+  "type": "cet6",
+  "year": 2017,
+  "month": 12,
+  "set": 2,
+  "title": "2017年12月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay commenting on the saying \"Seek to understand others, and you will be understood \" You can cite examples to illustrate your views. You should write at least 150 words but no more than 200.",
+      "prompt": ""
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to\nselect one word for each blank from a list of choices given in a word\nbank following the passage. Read the passage through carefully before\nmaking your choices. Each choice in the bank is identified by a letter.\nPlease mark the corresponding letter for each item on Answer Sheet 2\nwith a single line through the centre. You may not use any of the words\nin the bank more than once.\nQuestions 26 to 35 are based on the following passage.\nThe Pacific island nation of Palau has become home to the sixth largest marine\nworld. The new marine reserve, now the largest in the Pacific, will 26 no fishing or\nmining. Palau also established the world’s first shark sanctuary in 2009.\nThe tiny island nation has set aside 500,000 square kilometres-80 percent -of its\nmaritime 27 , for full protection, That’s the highest percentage of an 28 economic\nzone devoted to marine conservation by any country in the world. The remaining 20\npercent of the Palau seas will be reserved for local fishing by individuals and small-\nscale 29 fishing businesses with limited exports.\n“Island 30 have been among the hardest hit by the threats facing the ocean,”\nsaid President. Tommy Remengesau Jr. in a statement. “Creating this sanctuary is a\nbold move that the people of Palau recognise as 31 to our survival. We want to lead\nthe way in restoring the health of the ocean for future generation.”\nPalau has only been an 32 nation for twenty years and has a strong history of\nenvironmental protection. It is home to one of the world’s finest marine ecosystems,\nwith more than 1,300 species of fish and 700 species of coral.\nSenator Hokkons Baules, lead 33 of the Palau National Marine Sanctuary Act,\nsaid the sanctuary will “help build a 34 future for the Palauan people by honoring the\nconservation traditions of our past”. These include the centuries-old custom of “bul”,\nwhere leaders would call a temporary stop to fishing for key species in order to give\n\nfish 35 an opportunity to replenish(补充).",
+      "wordBank": {
+        "A": "Allocate",
+        "B": "Celebrities",
+        "C": "Commercial",
+        "D": "Communities",
+        "E": "Essential",
+        "F": "Exclusive",
+        "G": "Independent",
+        "H": "Indulge",
+        "I": "Permit",
+        "J": "Secure",
+        "K": "Solitary",
+        "L": "Spectacle",
+        "M": "Sponsor",
+        "N": "Stocks",
+        "O": "Territory"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Astronomer David Hogg doesn't think scooping is as serious a problem as\ngenerally thought.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Some researchers are hesitant to make their data public for fear that others\nmight publish something similar before them.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Some psychology journals have offered incentives to encourage authors to\nshare their data.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "There is a growing demand in the science community that research data be\nopen to the public.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Sharing data offers early-career researchers the chance to build a certain level\nof reputation.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Data sharing enables scientists to publish each step of their research work,\nthus leading to more citations.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Scientists hold different opinions about the extent and timing of data sharing.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Potential problems related to data sharing should be made known to and\ndiscussed by all participants at the beginning of a joint research project.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Sharing data and handling data-related issues can be time-consuming.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Junior researchers may have no say when it comes to sharing data.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nIn the beginning of the movie l, Robot, a robot has to decide whom to save after\ntwo cars plunge into the water-Del Spooner or a child. Even though Spooner screams\n“Save her Save her!” the robot rescues him because it calculates that he has a 45\npercent chance of survival compared to Sarah's 11 percent. The robot's decision and\nits calculated approach raise an important question: would humans make the same\nchoice? And which choice would we want our robotic counterparts to make?\nIsaac Asimov evaded the whole notion of morality in devising his three laws of\nrobotics, which hold that 1. Robots cannot harm humans or allow humans to come to\nharm; 2. Robots must obey humans, except where the order would conflict with law 1;\nand 3. Robots must act in self-preservation, unless doing so conflicts with laws 1 or 2.\nThese laws are programmed into Asimov's robots-they don' t have to think, judge, or\nvalue. They don't have to like humans or believe that hurting them is wrong or bad.\nThey simply don't do it.\nThe robot who rescues Spooner’s life in I, Robot follows Asimov's zeroth law:\nrobots cannot harm humanity(as opposed to individual humans)or allow humanity to\ncome to harm--an expansion of the first law that allows robots to determine what's in\nthe greater good. Under the first law, a robot could not harm a dangerous gunman, but\nunder the zeroth law, a robot could kill the gunman to save others.\nWhether it's possible to program a robot with safeguards such as Asimov's laws\nis debatable A word such as \"harm\" is vague (what about emotional harm? Is\nreplacing a human employ harm?) , and abstract concepts present coding problems.\nThe robots in Asimov's fiction expose complications and loopholes in the three laws,\nand even when the laws work, robots still have to assess situation.\n\nAssessing situations can be complicated. A robot has to identify the players,\nconditions, and possible outcomes for various scenarios, It’s doubtful that a computer\nprogram can do that-at least, not without some undesirable results. A roboticist at the\nBristol Robotics Laboratory programmed a robot to save human proxies(替身) called\n\"H-bots\" from danger.\nWhen one H-bot headed for danger, the robot successfully pushed it out of the\nway. But when two H-bots became imperiled, the robot choked 42 percent of the time,\nunable to decide which to save and letting them both \"die. \"The experiment highlights\nthe importance of morality: without it, how can a robot decide whom to save or what's\nbest for humanity, especially if it can't calculate survival odds?",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What question does the example in the movie raise?",
+              "options": {
+                "A": "Whether robots can reach better decisions.",
+                "B": "Whether robots follow Asimov's zero\" law.",
+                "C": "How robots may make bad judgments.",
+                "D": "How robots should be programmed."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What does the author think of Asimov’s three laws of robotics?",
+              "options": {
+                "A": "They are apparently divorced from reality.",
+                "B": "They did not follow the coding system of robotics.",
+                "C": "They laid a solid foundation for robotics.",
+                "D": "They did not take moral issues into consideration."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What does the author say about Asimov's robots?",
+              "options": {
+                "A": "They know what is good or bad for human beings.",
+                "B": "They are programmed not to hurt human beings.",
+                "C": "They perform duties in their owners' best interest.",
+                "D": "They stop working when a moral issue is involved."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What does the author want to say by mentioning the word \"harm\" in Asimov's laws?",
+              "options": {
+                "A": "Abstract concepts are hard to program.",
+                "B": "It is hard for robots to make decisions.",
+                "C": "Robots may do harm in certain situations.",
+                "D": "Asimov's laws use too many vague terms."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What has the roboticist at the Bristol Robotics Laboratory found in his experiment?",
+              "options": {
+                "A": "Robots can be made as intelligent as human beings some day.",
+                "B": "Robots can have moral issues encoded into their program.",
+                "C": "Robots can have trouble making decisions in complex scenarios.",
+                "D": "Robots can be programmed to perceive potential perils."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51to 55 are based on the following passage.\nOur world now moves so fast that we seldom stop to see just how far we have\ncome in just a few years. The latest iPhone 6s,for example, has a dual-core processor\nand fits nicely into your pocket. By comparison, you would expect to find a\ntechnological specification like this on your standard laptop in an office anywhere in\n\nthe world.\nIt’s no wonder shat new applications for the Internet of Things are moving ahead\nfast when almost every new device we buy has a plug on the end of it or a wireless\nconnection to the internet. Soon, our current smartphone lifestyle will expand to\ncreate our own smart home lifestyle too.\nAll researches agree that close to 25 billion devices, things and sensors will be\nconnected by 2020 which incidentally is also the moment that Millennials(千禧一代)\nare expected to make up 75 percent of our overall workforce, and the fully connected\nhome. become a reality for large numbers of people worldwide.\nHowever, this is just the tip of the proverbial iceberg as smart buildings and even\ncities increasingly become the norm as leaders and business owners begin to wake up\nto the massive savings that technology can deliver through connected sensors and new\nforms of automation coupled with intelligent energy and facilities management.\nOnline security cameras, intelligent lighting and a wealth of sensors that control\nboth temperature and air quality are offering an unprecedented level of control,\nefficiency, and improvements to what were once classed necessary costs when\nrunning a business or managing a large building.\nWe can expect that the ever-growing list of devices, systems and environments\nremain connected, always online and talking to each other. The big benefit will not\nonly be in the housing of this enormous and rapidly growing amount of data, but will\nalso be in the ability to run real time data analytics to extract actionable and ongoing\nknowledge.\nThe biggest and most exciting challenge of this technology is how to creatively\nleverage this ever-growing amount of data to deliver cost savings, improvements and\ntangible benefits to both businesses and citizens of these smart cities.\nThe good news is that most of this technology is already invented. Let's face it, it\nwasn't too long ago that the idea of working from anywhere and at anytime was some\nform of a distant utopian(乌托邦式的) dream, and yet now we can perform almost\nany office-based task from any location in the world as long as we have access to the\ninternet.\nIt's time to wake up to the fact that making smart buildings, cities and homes will\ndramatically improve our qua lity of life in the years ahead.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What does the example of iPhone 6s serve to show?",
+              "options": {
+                "A": "The huge capacity of the smartphones people now use.",
+                "B": "The widespread use of smartphones all over the world.",
+                "C": "The huge impact of new technology on people's everyday life.",
+                "D": "The rapid technological progress in a very short period of time."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What can we expect to see by the year 2020?",
+              "options": {
+                "A": "Apps for the internet of Things.",
+                "B": "The popularization of smart homes.",
+                "C": "The emergence of Millennials.",
+                "D": "Total globalization of the world."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What will business owners do when they become aware of the benefits of the internet of Things?",
+              "options": {
+                "A": "Employ fewer workers in their operations.",
+                "B": "Gain automatic control of their businesses.",
+                "C": "Invest in more smart buildings and cities.",
+                "D": "Embrace whatever new technology there is."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What is the most exciting challenge when we possess more and more data?",
+              "options": {
+                "A": "How to turn it to profitable use.",
+                "B": "How to do real time data analysis.",
+                "C": "How to link the actionable systems.",
+                "D": "How to devise new ways to store it."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What does the author think about working from anywhere and at anytime?",
+              "options": {
+                "A": "It is feasible with a connection to the internet.",
+                "B": "It will thrive in smart buildings, cities and homes.",
+                "C": "It is still a distant utopian dream for ordinary workers.",
+                "D": "It will deliver tangible benefits to both boss and worker."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from\nChinese into English. You should write your answer on Answer Sheet 2.",
+      "source": "青海湖位于海拔3,205 米、青海省省会西宁以西约100 公里处,是中国最大的咸水湖,面积4,317 平方公里,最深处25.5 米,有23 条河注入湖中,其中大部分是季节性的。百分之八十的湖水源于五条主要河流。青海湖位于跨越亚洲的几条候鸟迁徙路线的交叉处。许多鸟类把青海湖作为迁徙过程中的暂息地。湖的西侧是著名的“鸟岛”,吸引着来自世界各地的观鸟者。每年夏天，游客们也来这里观看国际自行车比赛。【参考答案】【参考范文】【翻译参考译文】",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

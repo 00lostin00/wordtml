@@ -1,0 +1,25 @@
+{
+  "id": "cet6-2022-12-3",
+  "type": "cet6",
+  "year": 2022,
+  "month": 12,
+  "set": 3,
+  "title": "2022年12月大学英语六级真题(第3套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    }
+  ]
+}

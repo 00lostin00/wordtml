@@ -11,9 +11,10 @@
  *   - economy      key: "main"     value: { coins, items: { hint, skip, extend, xray } }
  *   - rankHistory  key: autoInc    value: { at, tierKey, points, highest, delta, win, isDaily }
  *   - achievements key: id         value: { id, unlockedAt, event }
+ *   - examAttempts key: autoInc    value: { examId, startedAt, endedAt, answers, scoredSections, totalScore }
  */
 const DB_NAME = "wordtml";
-const DB_VERSION = 4;
+const DB_VERSION = 5;
 const DEFAULT_ITEMS = { hint: 0, skip: 0, extend: 0, xray: 0 };
 
 const STORES = {
@@ -26,6 +27,7 @@ const STORES = {
   economy: { keyPath: "key" },
   rankHistory: { keyPath: "id", autoIncrement: true, indexes: [["at", "at"]] },
   achievements: { keyPath: "id", indexes: [["unlockedAt", "unlockedAt"]] },
+  examAttempts: { keyPath: "id", autoIncrement: true, indexes: [["examId", "examId"], ["endedAt", "endedAt"]] },
 };
 
 let dbPromise = null;

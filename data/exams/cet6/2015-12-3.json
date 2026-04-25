@@ -1,0 +1,602 @@
+{
+  "id": "cet6-2015-12-3",
+  "type": "cet6",
+  "year": 2015,
+  "month": 12,
+  "set": 3,
+  "title": "2015年12月大学英语六级真题(第3套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write a short essay based on the picture below.You should focus on the harm caused by misleading information online.You are required to write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "She has completely recovered.",
+            "B": "She went into shock after an operation.",
+            "C": "She is still in a critical condition.",
+            "D": "She is getting much better."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "Ordering a breakfast.",
+            "B": "Booking a hotel room.",
+            "C": "Buying a train ticket.",
+            "D": "Fixing a compartment."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "Most borrowers never returned the books to her.",
+            "B": "The man is the only one who brought her book back.",
+            "C": "She never expected anyone to return the books to her.",
+            "D": "Most of the books she lent out came back without jackets."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "She left her work early to get some bargains last Saturday.",
+            "B": "She attended the supermarket's grand opening ceremony.",
+            "C": "She drove a full hour before finding a parking space.",
+            "D": "She failed to get into the supermarket last Saturday."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "He is bothered by the pain in his neck.",
+            "B": "He cannot do his report without a computer.",
+            "C": "He cannot afford to have a coffee break.",
+            "D": "He feels sorry to have missed the report."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Only top art students can show their works in the gallery.",
+            "B": "The gallery space is big enough for the man's paintings.",
+            "C": "The woman would like to help with the exhibition layout.",
+            "D": "The man is uncertain how his art works will be received."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "The woman needs a temporary replacement for her assistant.",
+            "B": "The man works in the same department as the woman does.",
+            "C": "The woman will have to stay in hospital for a few days.",
+            "D": "The man is capable of dealing with difficult people."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "It was better than the previous one.",
+            "B": "It distorted the mayor's speech.",
+            "C": "It exaggerated the city's economic problems.",
+            "D": "It reflected the opinions of most economists."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "To inform him of a problem they face.",
+            "B": "To request him to purchase control desks.",
+            "C": "To discuss the content of a project report.",
+            "D": "To ask him to flX the dictating machine."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "They quote the best price in the market.",
+            "B": "They manufacture and sell office furniture.",
+            "C": "They cannot deliver the steel sheets on time.",
+            "D": "They cannot produce the steel sheets needed."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "By marking down the trait price.",
+            "B": "By accepting the penalty clauses.",
+            "C": "By allowing more time for delivery.",
+            "D": "By promising better after-sales service."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "Give the customer a ten percent discount.",
+            "B": "Claim compensation from the steel suppliers.",
+            "C": "Ask the Buying Department to change suppliers.",
+            "D": "Cancel the contract with the customer."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "Stockbroker.",
+            "B": "Physicist.",
+            "C": "Mathematician.",
+            "D": "Economist."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "Improve computer programming.",
+            "B": "Explain certain natural phenomena.",
+            "C": "Predict global population growth.",
+            "D": "Promote national financial health."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Their different educational backgrounds.",
+            "B": "Changing attitudes toward nature.",
+            "C": "Chaos theory and its applications.",
+            "D": "The current global economic crisis."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "They lay great emphasis on hard work.",
+            "B": "They name 150 star engineers each year.",
+            "C": "They require high academic degrees.",
+            "D": "They have people with a very high IQ."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "Long years of job training.",
+            "B": "High emotional intelligence.",
+            "C": "Distinctive academic qualifications.",
+            "D": "Devotion to the advance of science."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "Good interpersonal relationships.",
+            "B": "Rich working experience.",
+            "C": "Sophisticated equipment.",
+            "D": "High motivation."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "A diary.",
+            "B": "A fairy tale.",
+            "C": "A history textbook.",
+            "D": "A biography."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "He was a sports fan.",
+            "B": "He loved adventures.",
+            "C": "He disliked school.",
+            "D": "He liked hair-raising stories."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Encourage people to undertake adventures.",
+            "B": "Publicize his colorful and unique life stories.",
+            "C": "Raise people's environmental awareness.",
+            "D": "Attract people to America's national parks."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "The first infected victim.",
+            "B": "A coastal village in Africa.",
+            "C": "The doctor who lust identified it.",
+            "D": "A river running through the Congo."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "They exhibit similar symptoms.",
+            "B": "They can be treated with the same drug.",
+            "C": "They have almost the same mortality rate.",
+            "D": "They have both disappeared for good."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "By inhaling air polluted with the virus.",
+            "B": "By contacting contaminated body fluids.",
+            "C": "By drinking water from the Congo River.",
+            "D": "By eating food grown in Sudan and Zalre."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "More strains will evolve from the Ebola virus.",
+            "B": "Scientists will eventually fred cures for Ebola.",
+            "C": "Another Ebola epidemic may erupt sooner or later.",
+            "D": "Once infected, one will become immune to Ebola."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks.You are required to\nselect one word for each blank from a list of choices given in a word bank\nfollowing the passage.Read the passage through carefully before making\n\nyour choices. Each choice in the bank is identified by a letter.Please mark\nthe corresponding letter for each item on Answer Sheet 2 with a single\nline through the centre.You may not use any of the words in the bank\nmore than once.\nQuestions 36 to 45 are based on the following passage.\nAs it is, sleep is so undervalued that getting by on fewer hours has become a\nbadge of honor.Plus, we live in a culture that 36 to the late-nighter, from 24-hour\ngrocery stores to online shopping sites that never close.It's no surprise, then, that more\nthan half of American adults don't get the 7 to 9 hours of shut-eye every night as 37\nby sleep experts.\nWhether or not we can catch up on sleep--on the weekend, say--is a hotly 38\ntopic among sleep researchers.The latest evidence suggests that while it isn't 39 , it\nmight help.When Liu, the UCLA sleep researcher and professor of medicine, brought\n40 sleep-restricted people into the lab for a weekend of sleep during which they\nlogged about 10 hours per night, they showed 41 in the ability of insulin (胰岛素) to\nprocess blood sugar.That suggests that catch-up sleep may undo some\nbut not all of the damage that sleep 42 causes, which is encouraging, given how\nmany adults don't get the hours they need each night.Still, Liu isn't 43 to endorse the\nhabit of sleeping less and making up for it later.\nSleeping pills, while helpful for some, are not 44 an effective remedy either.\"A\nsleeping pill will 45 one area of the brain, but there's never going to be a perfect\nsleeping pill, because you couldn't really replicate ( 复制) the different chemicals\nmoving in and out of different parts of the brain to go through the different stages of\nsleep,\" says Dr.Nancy Coll op, director of the Emory University Sleep Center.",
+      "wordBank": {
+        "A": "Alternatively",
+        "B": "Caters",
+        "C": "Chronically",
+        "D": "Debated",
+        "E": "Deprivation",
+        "F": "Ideal",
+        "G": "Improvements",
+        "H": "Necessarily",
+        "I": "Negotiated",
+        "J": "Pierce",
+        "K": "Presumption",
+        "L": "Ready",
+        "M": "Recommended",
+        "N": "Surpasses",
+        "O": "Target"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": []
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 56 to 60 are based on the following passage.\nMore than a decade ago, cognitive scientists John Bransford and Daniel\nSchwartz, both then at Vanderbilt University, found that what distinguished young\nadults from children was not the ability to retain facts or apply prior knowledge to a\nnew situation but a quality they called \"preparation for future learning.\" The\nresearchers asked fifth graders and college students to create a recovery plan to\nprotect bald eagles from extinction. Shockingly, the two groups came up with plans of\nsimilar quality(although the college students had better spelling skills ). From the\nstandpoint of a traditional educator, this outcome indicated that schooling had failed\nto help students think about ecosystems and extinction, major scientific ideas.\nThe researchers decided to go deeper, however.They asked both groups to\ngenerate questions about important issues needed to create recovery plans.On this task,\nthey\nfound\nlarge\ndifferences.College\nstudents\nfocused\non\ncritical\nissues\nof\ninterdependence between eagles and their hab/tats (栖息地).Fifth graders tended to\nfocus on features of individual eagles ( \"How big are they?\" and \"What do they\neat?\").The college students had cultivated the ability to ask questions, the cornerstone\nof critical thinking.They had learned how to learn.\nMuseums and other institutions of informal learning may be better suited to teach\nthis skill than elementary and secondary schools.At the Exploratorium in San\nFrancisco, we recently studied how learning to ask good questions can affect the\nquality of people's scientific inquiry.We found that when we taught participants to ask\n\"What if?\" and \"How can?\" questions that nobody present would know the answer to\nand that would spark exploration, they engaged in better inquiry at the next\nexhibit--asking more questions, performing more experiments and making better\ninterpretations\nof\ntheir\nresults.Specifically,\ntheir\nquestions\nbecame\nmore\ncomprehensive at the new exhibit.Rather than merely asking about something they\nwanted to try, they tended to include both cause and effect in their question.Asking\njuicy questions appears to be a transferable skill for deepening collaborative inquiry\ninto the science content found in exhibits.\nThis\ntype\nof\nlearning\nis\nnot\nconfined\nto\nmuseums\nor\ninstitutional\nsettings.Informal learning environments tolerate failure better than schools.Perhaps\nmany teachers have too little time to allow students to form and pursue their own\nquestions and too much ground to cover in the curriculum.But people must acquire\nthis skill somewhere.Our society depends on them being able to make critical\ndecisions about their own medical treatment, say, or what we must do about global\nenergy needs and demands.For that, we have a robust informal learning system that\ngives no grades, takes all comers,and is available even on holidays and weekends.",
+          "questions": [
+            {
+              "id": "q56",
+              "number": 56,
+              "stem": "What is traditional educators' interpretation of the research outcome mentioned in the first paragraph ?",
+              "options": {
+                "A": "Students are not able to apply prior knowledge to new problems.",
+                "B": "College students are no better than fifth graders in memorizing facts.",
+                "C": "Education has not paid enough attention to major environmental issues.",
+                "D": "Education has failed to lead students to think about major scientific ideas."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q57",
+              "number": 57,
+              "stem": "In what way are college students different from children?",
+              "options": {
+                "A": "They have learned to think critically.",
+                "B": "They are concerned about social issues.",
+                "C": "They are curious about specific features.",
+                "D": "They have learned to work independently."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q58",
+              "number": 58,
+              "stem": "What is the benefit of asking questions with no ready answers?",
+              "options": {
+                "A": "It arouses students' interest in things around them.",
+                "B": "It cultivates students' ability to make scientific inquiries.",
+                "C": "It trains students' ability to design scientific experiments.",
+                "D": "It helps students realize not every question has an answer."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q59",
+              "number": 59,
+              "stem": "What is said to be the advantage of informal learning?",
+              "options": {
+                "A": "It allows for failures.",
+                "B": "It is entertaining.",
+                "C": "It charges no tuition.",
+                "D": "It meets practical needs."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q60",
+              "number": 60,
+              "stem": "What does the author seem to encourage educators to do at the end of the passage?",
+              "options": {
+                "A": "Train students to think about global issues.",
+                "B": "Design more interactive classroom activities.",
+                "C": "Make full use of informal learning resources.",
+                "D": "Include collaborative inquiry in the curriculum."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 61 to 65 are based on the following passage.\n\"There's an old saying in the space world: amateurs talk about technology,\nprofessionals talk about insurance.\" In an interview last year with The Economist,\nGeorge White sides, chief executive of space-tourism fu'm Virgin Galactic, was\nplacing his company in the latter category.But insurance will be cold comfort\nfollowing the failure on October 31st of VSS Enterprise, resulting in the death of one\npilot and the severe injury to another.\nOn top of the tragic loss of life, the accident in California will cast a long shadow\nover the future of space tourism, even before it has properly begun.\nThe notion of space tourism took hold in 2001 with a $ 20 million flight aboard a\nRussian spacecraft by Dennis Tito, a millionaire engineer with an adventurous\nstreak.Just haft a dozen holiday-makers have reached orbit since then, for similarly\nastronomical price tags. But more recently,companies have begun to plan more\naffordable \"suborbital\" flights--briefer ventures just to the edge of space's vast\ndarkness.Virgin Galactic had, prior to this week's accident, seemed closest to starting\nregular flights.The company has already taken deposits from around 800 would-be\nspace tourists,including Stephen Hawking.\nAfter being dogged by technical delays for years, Sir Richard Branson, Virgin\nGalactic's founder,had recently suggested that a Space Ship Two craft would carry its\nfirst paying customers as soon as February 2015. That now seems an impossible\ntimeline. In July, a sister craft of the crashed space plane was reported to be about\n\nhalf-finished.The other half will have to walt, as authorities of America's Federal\nAviation Administration (FAA.and National Transportation Safety Board work\nout:what went wrong.\nIn the meantime, the entire space tourism industry will be on tenterhooks (坐立\n不安).The 2004 Commercial Space Launch Amendments Act, intended to encourage\nprivate space vehicles and services, prohibits the transportation secretary (and thereby\nthe FAA.from regulating the design or operation of private spacecraft, unless they\nhave resulted in a serious or fatal injury to crew or.passengers.That means that the\nFAA could suspend Virgin Galactic's licence to fly.It could also insist on checking\nprivate manned spacecraft as thoroughly as it does commercial aircraft.While that\nmay:make suborbital travel safer, it would add significant cost and complexity to an\nemerging industry that has until now operated largely as the playground of billionaires\nand dreamy engineers.\nHow Virgin Galactic, regulators and the public respond to this most recent\ntragedy will determine whether and how soon private space travel can transcend that\nplayground.There is no doubt that space flight entails risks, and to pioneer a new\nmode of travel is to face those risks, and to reduce them.with the benefit of hard-won\nexperience.",
+          "questions": [
+            {
+              "id": "q61",
+              "number": 61,
+              "stem": "What is said about the failure of VSS Enterprise?",
+              "options": {
+                "A": "It may lead to the bankruptcy of Virgin Galactic.",
+                "B": "It has a strong negative impact on space tourism.",
+                "C": "It may discourage rich people from space travel.",
+                "D": "It has aroused public attention to safety issues."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q62",
+              "number": 62,
+              "stem": "What do we learn about the space-tourism firm Virgin Galactic?",
+              "options": {
+                "A": "It has just built a craft for commercial flights.",
+                "B": "It has sent half a dozen passengers into space.",
+                "C": "It was about ready to start regular business.",
+                "D": "It is the first to launch \"suborbital\" flights."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q63",
+              "number": 63,
+              "stem": "What is the purpose of the 2004 Commercial Space Launch Amendments Act?",
+              "options": {
+                "A": "To ensure space travel safety.",
+                "B": "To limit the FAA's functions.",
+                "C": "To legalize private space explorations.",
+                "D": "To promote the space tourism industry."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q64",
+              "number": 64,
+              "stem": "What might the FAA do after the recent accident in California?",
+              "options": {
+                "A": "Impose more rigid safety standards.",
+                "B": "Stop certifying new space-tourist agencies.",
+                "C": "Amend its 2004 Commercial Space Launch Amendments Act.",
+                "D": "Suspend Virgin Galactic's licence to take passengers into space."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q65",
+              "number": 65,
+              "stem": "What does the author think of private space travel?",
+              "options": {
+                "A": "It is worth promoting despite the risks involved.",
+                "B": "It should not be confined to the rich only.",
+                "C": "It should be strictly regulated.",
+                "D": "It is too risky to carry on."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from\nChinese into English.You should write your answer on Answer Sheet 2.",
+      "source": "在帮助国际社会于2030 年前消除极端贫困过程中，中国正扮演着越来越重要的角色。自20 世纪70 年代未实施改革开放以来，中国已使多达四亿人摆脱了贫困。在未来五年中，中国将向其他发展中国家在减少贫困、发展教育、农业现代化、环境保护和医疗保健等方面提供援助。中国在减少贫困方面取得了显著进步，并在促进经济增长方面做出了不懈努力，这将鼓励其他贫困国家应对自身发展中的挑战。在寻求具有自身特色的发展道路时，这些国家可以借鉴中国的经验。【参考答案】【参考范文】【翻译参考译文】",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "id": "cet6-2016-06",
+  "type": "cet6",
+  "year": 2016,
+  "month": 6,
+  "set": 0,
+  "title": "2016年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write a short essay on living in the virtual world. Try to imagine what will happen when people spend more and more time in the virtual world instead of interacting in the real world. You are required to write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "Project organizer.",
+            "B": "Public relations officer.",
+            "C": "Marketing manager.",
+            "D": "Market research consultant."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "Quantitative advertising research.",
+            "B": "Questionnaire design.",
+            "C": "Research methodology.",
+            "D": "Interviewer training."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "They are intensive studies of people's spending habits.",
+            "B": "They examine relations between producers and customers.",
+            "C": "They look for new and effective ways to promote products.",
+            "D": "They study trends or customer satisfaction over a long period."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "The lack of promotion opportunity.",
+            "B": "Checking charts and tables.",
+            "C": "Designing questionnaires.",
+            "D": "The persistent intensity."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "His view on Canadian universities.",
+            "B": "His understanding of higher education.",
+            "C": "His suggestions for improvements in higher education.",
+            "D": "His complaint about bureaucracy in American universities."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "It is well designed.",
+            "B": "It is rather inflexible.",
+            "C": "It varies among universities.",
+            "D": "It has undergone great changes."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "The United States and Canada can learn from each other.",
+            "B": "Public universities are often superior to private universities.",
+            "C": "Everyone should be given equal access to higher education.",
+            "D": "Private schools work more efficiently than public institutions."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "University systems vary from country to country.",
+            "B": "Efficiency is essential to university management.",
+            "C": "It is hard to say which is better, a public university or a private one.",
+            "D": "Many private universities in the U.S. are actually large bureaucracies."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "Government's role in resolving an economic crisis.",
+            "B": "The worsening real wage situation around the world.",
+            "C": "Indications of economic recovery in the United States.",
+            "D": "The impact of the current economic crisis on people's life."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "They will feel less pressure to raise employees5 wages.",
+            "B": "They will feel free to choose the most suitable employees.",
+            "C": "They will feel inclined to expand their business operations.",
+            "D": "They will feel more confident in competing with their rivals."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Employees and companies cooperate to pull through the economic crisis.",
+            "B": "Government and companies join hands to create jobs for the unemployed.",
+            "C": "Employees work shorter hours to avoid layoffs.",
+            "D": "Team work will be encouraged in companies."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "Whether memory supplements work.",
+            "B": "Whether herbal medicine works wonders.",
+            "C": "Whether exercise enhances one's memory.",
+            "D": "Whether a magic memory promises success."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "They help the elderly more than the young.",
+            "B": "They are beneficial in one way or another.",
+            "C": "They generally do not have side effects.",
+            "D": "They are not based on real science."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "They are available at most country fairs.",
+            "B": "They are taken in relatively high dosage.",
+            "C": "They are collected or grown by farmers.",
+            "D": "They are prescribed by trained practitioners."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "They have often proved to be as helpful as doing mental exercise.",
+            "B": "Taking them with other medications might entail unnecessary risks.",
+            "C": "Their effect lasts only a short time.",
+            "D": "Many have benefited from them."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "How catastrophic natural disasters turn out to be to developing nations.",
+            "B": "How the World Meteorological Organization studies natural disasters.",
+            "C": "How powerless humans appear to be in face of natural disasters.",
+            "D": "How the negative impacts of natural disasters can be reduced."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "By training rescue teams for emergencies.",
+            "B": "By taking steps to prepare people fbr them.",
+            "C": "By changing people's views of nature.",
+            "D": "By relocating people to safer places."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "How preventive action can reduce the loss of life.",
+            "B": "How courageous Cubans are in face of disasters.",
+            "C": "How Cubans suffer from tropical storms.",
+            "D": "How destructive tropical storms can be."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "Pay back their loans to the American government.",
+            "B": "Provide loans to those in severe financial difficulty.",
+            "C": "Contribute more to the goal of a wider recovery.",
+            "D": "Speed up their recovery from the housing bubble."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Some banks may have to merge with others.",
+            "B": "Many smaller regional banks are going to fail.",
+            "C": "It will be hard for banks to provide more loans.",
+            "D": "Many banks will have to lay off some employees."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "It will work closely with the government.",
+            "B": "It will endeavor to write off bad loans.",
+            "C": "It will try to lower the interest rate.",
+            "D": "It will try to provide more loans."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "It won't help the American economy to turn around.",
+            "B": "It won't do any good to the major commercial banks.",
+            "C": "It will win the approval of the Obama administration.",
+            "D": "It will be necessary if the economy starts to shrink again."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "Being unable to learn new things.",
+            "B": "Being rather slow to make changes.",
+            "C": "Losing temper more and more often.",
+            "D": "Losing the ability to get on with others."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "Cognitive stimulation.",
+            "B": "Community activity.",
+            "C": "Balanced diet.",
+            "D": "Fresh air."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Ignoring the signs and symptoms of aging.",
+            "B": "Adopting an optimistic attitude towards life.",
+            "C": "Endeavoring to give up unhealthy lifestyles.",
+            "D": "Seeking advice from doctors from time to time."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes te translate a passage from\nChinese into English. You should write your answer on Answer Sheet 2.",
+      "source": "中国的创新正在以前所未有的速度蓬勃发展。为了在科学技术上尽快赶超世界发达国家，中国近年来大幅度增加了研究开发资金。中国的大学和研究所正在积极开展创新研究，这些研究覆盖了从大数据到生物化学、从新能源到机器人等各类高科技领域。它们还与各地的科技园合作，使创新成果商业化。与此同时，无论在产品还是商业模式上，中国企业家也在努力争做创新的先锋，以适应国内外消费市场不断变化和增长的需求。【参考答案】【参考范文】【翻译参考译文】",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

@@ -71,7 +71,7 @@ export async function render(ctx) {
 
   resetBtn.addEventListener("click", async () => {
     if (!confirm("真的要清空所有本地数据?此操作不可撤销。")) return;
-    for (const name of ["progress", "wrongbook", "settings", "stats", "sessions", "mapProgress", "economy", "rankHistory", "achievements"]) {
+    for (const name of ["progress", "wrongbook", "settings", "stats", "sessions", "mapProgress", "economy", "rankHistory", "achievements", "examAttempts"]) {
       await store.clear(name);
     }
     dataHint.textContent = "✓ 已清空";

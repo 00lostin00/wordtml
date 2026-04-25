@@ -1,0 +1,361 @@
+{
+  "id": "cet6-2015-12-2",
+  "type": "cet6",
+  "year": 2015,
+  "month": 12,
+  "set": 2,
+  "title": "2015年12月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write a short essay based on the picture below. You should focus on the difficulty in acquiring useful information in spite of advanced information technology. You are required to write at least 150 words but no more than 200 words．",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "She is impatient to learn computer programming.",
+            "B": "She is unaware her operation system is outdated.",
+            "C": "She is unable to use the new computer program.",
+            "D": "She is amazed at the fast change of technology."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "He has long been fed up with traveling.",
+            "B": "He prefers to stay home for the holiday.",
+            "C": "He is going out of town for a couple of days.",
+            "D": "He is annoyed by the heavy traffic downtown."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "The challenges facing East Asia.",
+            "B": "The location for their new office.",
+            "C": "Their expansion into the overseas market",
+            "D": "The living expenses in Tokyo and Singapore."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "A number of cell phones were found after the last show.",
+            "B": "The woman forgot where she had left her cell phone.",
+            "C": "The woman was very pleased to find her cell phone.",
+            "D": "Reserved tickets could be picked up at the ticket counter."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "The building materials will be delivered soon.",
+            "B": "The project is being held up by bad weather.",
+            "C": "The construction schedule may not be met.",
+            "D": "Qualified carpenters are not easy to find."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "She is getting very forgetful these days.",
+            "B": "She does not hold on to bitter feelings.",
+            "C": "She resents the way she is treated.",
+            "D": "She never intends to hurt anyone."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "The man wants to rent a small apartment.",
+            "B": "The woman has trouble getting a mortgage.",
+            "C": "The woman is moving to a foreign country.",
+            "D": "The man is trying to sell the woman a house."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "They are writing a story for the Morning News.",
+            "B": "They are facing great challenges to get re-elected.",
+            "C": "They are launching a campaign to attract women voters.",
+            "D": "They are conducting a survey among the women in town."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "Touch his heart.",
+            "B": "Make him cry.",
+            "C": "Remind him of his life.",
+            "D": "Make him feel young."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "He is good at singing operas.",
+            "B": "He enjoys complicated music:",
+            "C": "He can sing any song if he likes it.",
+            "D": "He loves country music in particular."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Go to a bar and drink for hours.",
+            "B": "Go to an isolated place to sing blues.",
+            "C": "Go to see a performance in a concert hall.",
+            "D": "Go to work and wrap himself up in music."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "How he became an announcer.",
+            "B": "How he writes news stories.",
+            "C": "How he makes his living.",
+            "D": "How he does his job."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "They write the first version of news stories.",
+            "B": "They gather news stories on the spot.",
+            "C": "They polish incoming news stories.",
+            "D": "They write comments on major news stories."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "Reading through the news stories in a given period of time.",
+            "B": "Having little time to read the news before going on the air.",
+            "C": "Having to change the tone of his voice from time to time.",
+            "D": "Getting all the words and phrases pronounced correctly."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "It shows where advertisements come in.",
+            "B": "It gives a signal for him to slow down.",
+            "C": "It alerts him to something important.",
+            "D": "It serves as a reminder of sad news."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "It gives pleasure to both adults and children.",
+            "B": "It is often carried around by small children.",
+            "C": "It can be found in many parts of the world.",
+            "D": "It was invented by an American Indian."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "They were made for earning a living.",
+            "B": "They were delicate geometric figures.",
+            "C": "They were small circus figures made of wire.",
+            "D": "They were collected by a number of museums."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "In art.",
+            "B": "In geometry.",
+            "C": "In engineering.",
+            "D": "In circus performance."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "They offer students a wide variety of courses.",
+            "B": "They attract students from all over the world.",
+            "C": "They admit more students than they can handle.",
+            "D": "They have trouble dealing with overseas students."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Everyone will benefit from education sooner or later.",
+            "B": "A good education contributes to the prosperity of a nation.",
+            "C": "A good education is necessary for one to climb the social ladder.",
+            "D": "Everyone has a right to an education appropriate to his potential."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "He likes students with high motivation.",
+            "B": "He enjoys teaching intelligent students.",
+            "C": "He tailors his teaching to students' needs.",
+            "D": "He treats all his students in a fair manner."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "It is mostly imported from the Middle East.",
+            "B": "It is a sure indicator of its economic activity.",
+            "C": "It has a direct impact on the international oil market.",
+            "D": "It equals more than 30 million barrels of oil each day."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "It eventually turns into heat.",
+            "B": "It is used in a variety of forms.",
+            "C": "Its use is chiefly responsible for air pollution.",
+            "D": "Part of it is lost in the process of transmission."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "When it is used in rural areas.",
+            "B": "When it is environment-friendly.",
+            "C": "When it operates at near capacity.",
+            "D": "When it operates at regular times."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Traffic jams in cities.",
+            "B": "Inefficient use of energy.",
+            "C": "Fuel shortage.",
+            "D": "Global warming."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you .are allowed 30,minutes to translate a passage from\nChinese into English. You should write your answer on Answer Sheet 2.",
+      "source": "最近，中国政府决定将其工业升级。中国现在涉足建造高速列车、远洋船舶、机器人，甚至飞机。不久前，中国获得了在印度尼西亚(Indonesia)建造一条高铁的合同；中国还与马来西亚(Malaysia)签署了为其提供高速列车的合同,这证明人们信赖中国造产品。中国造严品越来越受欢迎。中国为此付出了代价，但这确实有助于消除贫困，同时还为世界各地的人们提供了就业机会。这是一件好事，值得称赞。下次你去商店时，可能想看一看你所购商品的出产国名。很有可能这件商品是中国造的。【参考答案】【参考范文】【翻译参考译文】",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

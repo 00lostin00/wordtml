@@ -1,0 +1,673 @@
+{
+  "id": "cet6-2017-12-1",
+  "type": "cet6",
+  "year": 2017,
+  "month": 12,
+  "set": 1,
+  "title": "2017年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay commenting on the saying “Respect others, and you will be respected.” You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "They reward businesses that eliminate food waste.",
+            "B": "They prohibit the sale of foods that have gone stale.",
+            "C": "They facilitate the donation of unsold foods to the needy.",
+            "D": "They forbid businesses to produce more foods than needed."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "It imposed penalties on businesses that waste food.",
+            "B": "It passed a law aiming to stop overproduction.",
+            "C": "It voted against food import from outside Europe.",
+            "D": "It prohibited the promotion of bulk food sales."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "It has warmed its people against possible food shortage.",
+            "B": "It has penalized businesses that keep overproducing foods.",
+            "C": "It has started a nationwide campaign against food waste.",
+            "D": "It has banned supermarkets from dumping edible foods."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "The confusion over food expiration labels.",
+            "B": "The surplus resulting from overproduction.",
+            "C": "Americans' habit of buying food in bulk.",
+            "D": "A lack of regulation on food consumption."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "It has started a week-long promotion campaign.",
+            "B": "It has just launched its annual anniversary sales.",
+            "C": "It offers regular weekend sales all the year round.",
+            "D": "It specializes in the sale of ladies designer dresses."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Price reductions for its frequent customers.",
+            "B": "Coupons for customers with bulk purchases.",
+            "C": "Free delivery of purchases for senior customers.",
+            "D": "Price adjustments within seven days of purchase."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "Mail a gift card to her.",
+            "B": "Allow her to buy on credit.",
+            "C": "Credit it to her account.",
+            "D": "Give her some coupons."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "Refunding for goods returned.",
+            "B": "Free installing of appliances.",
+            "C": "Prolonged goods warranty.",
+            "D": "Complimentary tailoring."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "They are thin, tall, and unlike real human beings.",
+            "B": "They have more than twenty different hair textures.",
+            "C": "They have twenty-four different body shapes in total.",
+            "D": "They represent people from virtually all walks of life."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "They do not reflect young girls’ aspirations.",
+            "B": "They are not sold together with the original.",
+            "C": "Their flat feet do not appeal to adolescents.",
+            "D": "Their body shapes have not changed much."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "In toy stores.",
+            "B": "In shopping malls.",
+            "C": "On the Internet.",
+            "D": "At Barbie shops."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "Moveable metal type began to be used in printing.",
+            "B": "Chinese printing technology was first introduce.",
+            "C": "The earliest known book was published.",
+            "D": "Metal type was imported from Korea."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "It had more than a hundred printing presses.",
+            "B": "It was the biggest printer in the 16th century.",
+            "C": "It helped the German people become literate.",
+            "D": "It produced some 20 million volumes in total."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "It pushed handwritten books out of circulation.",
+            "B": "It boosted the circulation of popular works.",
+            "C": "It made writing a very profitable career.",
+            "D": "It provided readers with more choices."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "It accelerated the extinction of the Latin language.",
+            "B": "It standardized the publication of grammar books.",
+            "C": "It turned translation into a welcome profession.",
+            "D": "It promoted the growth of national languages."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "They get bored after working for a period of time.",
+            "B": "They spend an average of one year finding a job.",
+            "C": "They become stuck in the same job for decades.",
+            "D": "They choose a job without thinking it through."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "See if there will be chances for promotion.",
+            "B": "Find out what job choices are available.",
+            "C": "Watch a film about ways of job hunting.",
+            "D": "Decide which job is most attractive to you."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "The qualifications you have.",
+            "B": "The pay you are going to get.",
+            "C": "The culture of your target company.",
+            "D": "The work environment you will be in."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "It is as important as Christmas for African-Americans.",
+            "B": "It is a cultural festival founded for African-Americans.",
+            "C": "It is an ancient festival celebrated by African-Americans.",
+            "D": "It is a religious festival celebrated by African-Americans."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "To urge African-Americans to do more for society.",
+            "B": "To call on African-Americans to worship their gods.",
+            "C": "To help African-Americans to realize their goals.",
+            "D": "To remind African-Americans of their sufferings."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Faith in self-determination.",
+            "B": "The first fruits of the harvest.",
+            "C": "Unity and cooperative economics.",
+            "D": "Creative work and achievement."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "They recite a principle.",
+            "B": "They take a solemn oath.",
+            "C": "They drink wine from the unity cup.",
+            "D": "They call out their ancestors’ names."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "It is one of the world’s most healthy diets.",
+            "B": "It contains large amounts of dairy products.",
+            "C": "It began to impact the world in recent years.",
+            "D": "It consists mainly of various kinds of seafood."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "It involved 13, 000 researchers from Asia, Europe and America.",
+            "B": "It was conducted in seven Mid-Eastern countries in the 1950s.",
+            "C": "It is regarded as one of the greatest researches of its kind.",
+            "D": "It has drawn the attention of medical doctors the world over."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "They care much about their health.",
+            "B": "They eat foods with little fat.",
+            "C": "They use little oil in cooking.",
+            "D": "They have lower mortality rates."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to\nselect one word for each blank from a list of choices given in a word\nbank following the passage. Read the passage through carefully before\nmaking your choices. Each choice in the bank is identified by a letter.\nPlease mark the corresponding letter for each item on Answer Sheet 2\nwith a single line through the centre. You may not use any of the words in\nthe bank more than once.\nQuestions 26 to 35 are based on the following passage.\nIn the past 12 months, Nigeria has suffered from a shrinking economy, a sliding\ncurrency, and a prolonged fuel shortage. Now, Africa’s largest economy is facing a\nfood crisis as major tomato fields have been destroyed by an insect, leading to a\nnationwide shortage and escalating prices.\nThe insect, Tutaabsoluta, has destroyed 80% of farms in Kaduna, Nigeria's\nlargest tomato producing state, leading the government there to declare a state of\n26 .The insect, also known as the tomato leaf miner, devastates crops by 27 on\nfruits and digging into and moving through stalks. It 28 incredibly quickly, breeding\nup to 12 generations per year if conditions are favorable. It is believed to have 29 in\nSouth America in the early 1900s, and later spread to Europe before crossing over to\nsub-Saharan Africa.\nIn Nigeria, where tomatoes are a staple of local diets, the insect's effects are\ndevastating. Retail prices for a 30 of tomatoes at local markets have risen from $0.\n50 to $2.50. Farmers are reporting steep losses and a new $20 million tomato-paste\nfactory has 31 production due to the shortages.\nGiven the moth's ability also to attack crops like pepper and potatoes, Audu\nOgbeh, Nigeria's minister of agriculture, has warned that the pest may “create serious\nproblems for food 32 ” in the country. Ogbeh says experts are investigating how to\ncontrol the pest’s damage and prevent its spread,which has gone largely 33 until now.\n\nDespite being the continent's second-largest producer of tomatoes, Nigeria is\n\non $1 billion worth of tomato-paste imports every year. as around 75% of the local\nharvest goes to waste thanks to a lack of proper storage facilities. A further 35 in\nlocal supplies is yet another unwelcome setback to the industry.",
+      "wordBank": {
+        "A": "Dependent",
+        "B": "Embarking",
+        "C": "Emergency",
+        "D": "Feeding",
+        "E": "Grazes",
+        "F": "Halted",
+        "G": "Handful",
+        "H": "Multitude",
+        "I": "Originated",
+        "J": "Reduction",
+        "K": "Reproduces",
+        "L": "Security",
+        "M": "Terror",
+        "N": "Unchecked",
+        "O": "Untouched"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Online services are so designed that the more they are used, the more profit\nthey generate.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "The author admits using technology as an escape from the task at hand.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Checking phones at dinners is now accepted as normal but not belching.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "To make proper use of technology, we should not only increase our\nawareness of how it is changing but also how it is impacting us.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Most of us find it hard to focus on our immediate tasks because of Internet\ndistractions.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "When one person starts checking their phone, the others will follow suit.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "The great majority of smartphone users don' t take the trouble to adjust their\nsettings to suit their own purposes.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "The Internet is regarded by some as designed to distract our attention.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "The author attributes his tech addiction chiefly to his habit of putting off\ndoing what he should do right away.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "White-collar workers check email round the clock because it is required by\ntheir employers.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nYou may have heard that Coca-Cola once contained an ingredient capable of\nsparking particular devotion in consumers: cocaine. The cocaine. The “coca” in the\nname referred to the extracts of coca leaf that the drink's originator, chemist John\nPemberton, mixed with his sugary syrup( 浆汁). At the time, coca leaf extract mixed\nwith wine was a common tonic( 滋补品), and Pemberton's sweet brew was a way to\nget around local laws prohibiting the sale of alcohol. But the other half of the name\nrepresents another ingredient, less infamous(名声不好的), perhaps, but also strangely\npotent: the kola nut.\nIn West Africa, people have long chewed kola nuts as stimulants, because they\ncontain caffeine that also occurs naturally in tea, coffee ,and chocolate .They also\nhave heart stimulants .\nHistorian Paul Lovejoy relates that the cultivation of kola nuts in West Africa is\nhundreds of years old. The leafy, spreading trees were planted on graves and as part\nof traditional rituals. Even though the nuts, which need to stay moist, can be\nsomewhat delicate to transport, traders carried them hundreds of miles throughout the\nforests and grasslands.\nEuropeans did not know of them until the 1500s when Portuguese ships arrived\non the coast of what is now Sierra Leone. And while the Portuguese took part in the\ntrade, ferrying nuts down the coast along with other goods, by 1620, when English\nexplorer Richard Jobson made his way up the Gambia, the nuts were still peculiar to\nhis eyes.\nBy the late 19th century, kola nuts were being shipped by the tonne to Europe\nand the US. Many made their way into medicines, intended as a kind of energy boost.\nOne such popular medicinal drink was Vin Mariani, a French product consisting of\ncoca extract mixed with red wine. It was created by a French chemist, Angelo Mariani,\nin 1863. So when Pemberton created his drink, it represented an ongoing trend. When\n\ncocaine eventually fell from grace as a beverage ingredient, kola-extract colas became\npopular.\nThe first year it was available, Coca-Cola averaged nine servings a day across all\nthe Atlanta soda fountains where it was sold. As it grew more popular, the company\nsold rights to bottle the soda, so it could travel easily. Today about 1. 9 billion Cokes\nare purchased daily. It's become so iconic that attempts to change its taste in 1985-\nsweetening it in a move projected to boost sales proved disastrous, with widespread\nanger from consumers. \"Coca-Cola Classic\" returned to store shelves just three\nmonths after the \"New Coke\" was released.\nThese days, the Coca-Cola recipe is a closely guarded secret. But it's said to no\nlonger contain kola nut extract, relying instead on artificial imitations to achieve the\nflavour.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What do we learn about chemist John Pemberton?",
+              "options": {
+                "A": "He used a strangely potent ingredient in a food supplement.",
+                "B": "He created a drink containing alcohol without breaking law.",
+                "C": "He became notorious because of the coca drink he developed.",
+                "D": "He risked breaking local law to make a drink with coca leaves."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What does the passage say about kola nuts?",
+              "options": {
+                "A": "Their commercial value was first discovered by Portuguese settler.",
+                "B": "They contain some kind of energy boost not found in any other food.",
+                "C": "Many were shipped to Europe in the late 19th century for medicinal use.",
+                "D": "They were strange to the Europeans when first imported from West Africa."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "How come kola-extract colas became popular?",
+              "options": {
+                "A": "Cocaine had become notorious.",
+                "B": "Alcoholic drinks were prohibited.",
+                "C": "Fountains were set up to sell them.",
+                "D": "Rights were sold to bottle the soda."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What is known about the taste of Coca-Cola?",
+              "options": {
+                "A": "It was so designed as to create addiction in consumers.",
+                "B": "It still relies on traditional kola nut extract.",
+                "C": "It has become more popular among the old.",
+                "D": "It has remained virtually unchanged since its creation."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What is the passage mainly about?",
+              "options": {
+                "A": "The evolution of Coca-Cola.",
+                "B": "The medicinal value of Coca-Cola.",
+                "C": "The success story of Coca-Cola.",
+                "D": "The business strategy of Coca-Cola."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage\nTwenty years ago, the Urban Land Institute defined the two types of cities that\ndominated the US landscape: smaller cities that operated around standard 9-5 business\nhours and large metropolitan areas that ran all 24 hours of the day. Analyzing and\ncomparing cities using the lens of this basic divide gives interesting context to how\n\ninvestment capital flows and housing prices have shifted.\nIn recent years, many mid-sized cities have begun to adopt a middle-of-the-road\napproach incorporating the excitement and opportunity of large cities with small\ncities’ quiet after midnight.These18-hour cities are beginning to make waves in real\nestate rankings and attract more real estate investment. What is underlying this new\nmovement in real estate, and why do these cities have so much appeal?\n18-hour cities combine the best of 24-hour and 9-5 cities, which contributes to\ndowntown revitalization. For decades, many downtown cores in small to mid-sized\ncities were abandoned after work hours by workers who lived in the suburbs.\nMovement out of city centers was widespread, and downtown tenants were\npredominantly made up of the working poor. This generated little commerce for\ndowntown businesses in the evenings, which made business and generating tax\nrevenue for municipal upkeep difficult. With the rise of a new concept in urban\nplanning that aims to make life easier and more convenient, increasing popularity for\nurban areas that caused the real estate pushes, in major cities like San Francisco or\nNew York, has inspired a type of forward thinking urbanity and in smaller cities.\nTransforming downtown areas so that they incorporate modern housing and\nimproved walkability to local restaurants, retail, and entertainment -especially when\ncombined with improved infrastructure for cyclists and public transit-makes them\nappeal to a more affluent demographic. These adjustments encourage employers in\nthe knowledge and talent industries to keep their offices downtown. Access to foot\ntraffic and proximity to transit allow the type of entertainment-oriented businesses\nsuch as bars and restaurants to stay open later, which attracts both younger, creative\nworkers and baby boomers nearing retirement alike. Because of their smaller size,\nmost keep hours that allow people to enjoy themselves, then have some quiet after\nmidnight, as opposed to large major cities like New York, where the buzz of activity\nis ongoing.\nThese 18-hour cities are rapidly on the rise and offer great opportunities for\nhomeowner investment. In many of these cities such as Denver, a diverse and\nvigorous economy attracted to the urban core has offered stable employment for\nresidents. The right urban mix has propped up home occupancy, increased property\nvalues, and attracted significant investment capital.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What do we learn about American cities twenty years ago?",
+              "options": {
+                "A": "They were divided into residential and business areas.",
+                "B": "Their housing prices were linked with their prosperity.",
+                "C": "There was a clear divide between large and small cities",
+                "D": "They were places where large investment capital flowed."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What can be inferred from the passage about 18-hour cities?",
+              "options": {
+                "A": "They especially appeal to small businesses.",
+                "B": "They have seen a rise in property prices.",
+                "C": "They have replaced quiet with excitement.",
+                "D": "They have changed America's landscape."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "Years ago, many downtown cores in small to mid-sized cities().",
+              "options": {
+                "A": "Had hardly any business activity.",
+                "B": "Were crowded in business hours.",
+                "C": "Exhibited no signs of prosperity.",
+                "D": "Looked deserted in the evenings."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What characterizes the new downtown areas in 18-hour cities?",
+              "options": {
+                "A": "Sudden emergence of the knowledge industry.",
+                "B": "Flooding in of large crowds of migrant workers.",
+                "C": "Modernized housing and improved infrastructure.",
+                "D": "More comfortable life and greater upward mobility."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What have 18-hour cities brought to the local residents?",
+              "options": {
+                "A": "More chances for promotion.",
+                "B": "Healthier living environment.",
+                "C": "Greater cultural diversity.",
+                "D": "Better job opportunities."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from\nChinese into English. You should write your answer on Answer Sheet 2.",
+      "source": "太湖是中国东部的一个淡水湖,占地面积2250平方公里,是中国第三大淡水湖,仅次于鄱阳和洞庭。太湖约有90个岛屿,大小从几平方米到几平方公里不等。太湖以其独特的“太湖石”而闻名,太湖石常用于装饰中国传统园林。太湖也以高产的捕鱼业闻名。自上世纪70年代后期以来,捕捞鱼蟹对沿湖的居民来说极为重要,并对周边地区的经济作出了重大贡献。太湖地区是中国陶瓷( ceramics )业基地之一,其中宜兴的陶瓷厂家生产举世闻名的宜兴紫砂壶( clay teapot )。【参考答案】【参考范文】【翻译参考译文】",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

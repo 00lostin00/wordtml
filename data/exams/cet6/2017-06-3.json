@@ -1,0 +1,347 @@
+{
+  "id": "cet6-2017-06-3",
+  "type": "cet6",
+  "year": 2017,
+  "month": 6,
+  "set": 3,
+  "title": "2017年6月大学英语六级真题(第3套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "Suppose you are asked to give advice on whether to attend college at home or abroad, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required\nto select one word for each blank from a list of choices given in a\nword bank following the passage. Read the passage through\ncarefully before making your choices, Each choice in the bank is\nidentified by a letter. Please mark the corresponding letter for each\nitem on Answer Sheet 2 with a single line through the centre. You\nmay not use any of the words in the bank more than once.\nQuestions 26 to 35 are based on the following passage.\nHalf of your brain stays alert and prepared for danger when you sleep in a\nnew place, a study has revealed. This phenomenon is often (26)_______to as the\n“first-night-effect”. Researchers from Brown University found that a network in\nthe left hemisphere of the brain “remained more active” than the network in the\nright side of the brain. Playing sounds into the right ears (stimulating the left\nhemisphere) of (27)_______ was more likely to wake them up than if the noises\nwere played into their left ears.\nIt was (28)_______ observed that the left side of the brain was more active\nduring deep sleep. When the researchers repeated the laboratory experiment on\nthe second and third nights they found the left hemisphere could not be\nstimulated in the same way during deep sleep. The researchers explained that the\nstudy demonstrated when we are in a (29)_______ environment the brain partly\nremains alert so that humans can defend themselves against any (30) _______\ndanger.\nThe researchers believe this is the first time that the “first-night-effect” of\ndifferent brain states has been (31)_______ in humans. It isn’t, however, the\nfirst time it has ever been seen. Some animal(32)_______ also display this\nphenomenon. For example, dolphins, as well as other (33)_______ animals, shut\ndown one hemisphere of the brain when they go to sleep. A previous study noted\nthat dolphins always (34)_______ control their breathing. Without keeping the\nbrain active while sleeping,they would probably drown. But, as the human study\n\nsuggests, another reason for dolphins keeping their eyes open during sleep is\nthat they can look out for (35)_______ while asleep. It also keeps their\nphysiological processes working.",
+      "wordBank": {
+        "A": "Classified",
+        "B": "Consciously",
+        "C": "Dramatically",
+        "D": "Exotic",
+        "E": "Identified",
+        "F": "Inherent",
+        "G": "Marine",
+        "H": "Novel",
+        "I": "Potential",
+        "J": "Predators",
+        "K": "Referred",
+        "L": "Species",
+        "M": "Specifically",
+        "N": "Varieties",
+        "O": "Volunteers"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Middle school is a crucial period when students may become keenly\ninterested in advanced\nmathematics.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Elite high school math competitions are attracting more interest\nthroughout the United States.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Math circles provide students with access to advanced-math training by\nuniversity professors.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Students may take advantage of online resources to learn to solve math\nproblems.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "The summer program run by a nonprofit organization has helped many\nunder served students learn advanced math.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Winners of local contests will participate in the national math\ncompetition for free.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Many schools don ’ t place academic competitions at the top of their\npriority list.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Contestants of elite high school math competitions are mostly Asian\nand white students from well-off families.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Some math training programs primarily focus on raising students ’\nmath scores.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Some intensive summer programs are very expensive but most of them\nprovide scholarships.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nWe live today indebted to McCardell, Cashin, Hawes, Wilkins, and\nMaxwell, and other women who liberated American fashion from the confines of\nParisian design. Independence came in tying, wrapping, storing, harmonizing,\nand rationalizing that wardrobe. These designers established the modem dress\ncode, letting play suits and other active wear outfits suffice for casual clothing,\nallowing pants to enter the wardrobe, and prizing rationalism and versatility in\ndress, in contradiction to dressing for an occasion or allotment of the day.\nFashion in America was logical and answerable to the will of the women who\nwore it. Implicitly or explicitly, American fashion addressed a democracy,\nwhereas traditional Paris-based fashion was prescriptive and imposed on women,\nwilling or not.\n\nIn an earlier time, American fashion had also followed the dictates of Paris,\nor even copied and pirated specific French designs. Designer sportswear was not\nmodeled on that of Europe, as “modem art” would later be; it was genuinely\ninvented and developed in America. Its designers were not high-end with\nsupplementary lines. The design objective and the business commitment were to\nsportswear, and the distinctive traits were problem-solving ingenuity and\nrealistic lifestyle applications. Ease of care was most important: summer dresses\nand outfits, in particular, were chiefly cotton, readily capable of being washed\nand pressed at home. Closings were simple, practical, and accessible, as the\nmodem woman depended on no personal maid to dress her. American designers\nprized resourcefulness and the freedom of women who wore the clothing.\nMany have argued that the women designers of this time were able to\nproject their own clothing values into a new style. Of course, much of this\nargument in the 1930s-40s was advanced because there was little or no\nexperience in justifying（月艮装）on the basis of utility. If Paris was cast aside,\nthe tradition of beauty was also to some degree slighted. Designer sportswear\nwould have to be verified by a standard other than that of pure beauty; the\nemulation of a designer’s life in designer sportswear was a crude version of this\nrelationship. The consumer was ultimately to be mentioned as well, especially\nby the likes of Dorothy Shaver, who could point to the sales figures at Lord &\nTaylor.\nCould utility alone justify the new ideas of the American designers?\nFashion is often regarded as a pursuit of beauty, and some cherished fashion’s\ntrivial relationship to the fine arts. What the designers of American sportswear\nproved was that fashion is a genuine design art, answering to the demanding\nneeds of service. Of course these practical, insightful designers have determined\nthe course of late twentieth-century fashion. They were the pioneers of gender\nequity, in their useful, adaptable clothing, which was both made for the masses\nand capable of self-expression.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What contribution did the women designers make to American fashion?",
+              "options": {
+                "A": "They made some improvements on the traditional Parisian design.",
+                "B": "They formulated a dress code with distinctive American features.",
+                "C": "They came up with a brand new set of design procedures.",
+                "D": "They made originality a top priority in their fashion design."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What do we learn about American designer sportswear?",
+              "options": {
+                "A": "It imitated the European model.",
+                "B": "It laid emphasis on woman’s beauty.",
+                "C": "It represented genuine American art.",
+                "D": "It was a completely new invention."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What characterized American designer sportswear?",
+              "options": {
+                "A": "Pursuit of beauty.",
+                "B": "Decorative closings.",
+                "C": "Ease of care.",
+                "D": "Fabric quality."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What occurred in the design of women’s apparel in America during the 1930s-40s?",
+              "options": {
+                "A": "A shift of emphasis from beauty to utility.",
+                "B": "The emulation of traditional Parisian design.",
+                "C": "A search for balance between tradition and novelty.",
+                "D": "The involvement of more women in fashion design."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What do we learn about designers of American sportswear?",
+              "options": {
+                "A": "They catered to the taste of the younger generation.",
+                "B": "They radically changed people’s concept of beauty.",
+                "C": "They advocated equity between men and women.",
+                "D": "They became rivals of their Parisian counterparts."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nMassive rubbish dumps and sprawling landfills constitute one of the more\nuncomfortable impacts that humans have on wildlife. They have led some birds\nto give up on migration. Instead of flying thousands of miles in search of food,\nthey make the waste sites their winter feeding grounds.\nResearchers in Germany used miniature GPS tags to track the migrations of\n70 white storks from different sites across Europe and Asia during the first five\nmonths of their lives. While many birds travelled along well-known routes to\nwarmer climates, others stopped short and spent the winter on landfills, feeding\non food waste, and the multitudes of insects that thrive on the dumps.\nIn the short-term, the birds seem to benefit from overwintering( 过冬) on\nrubbish dumps. Andrea Flack of the Max Planck Institute found that birds\nfollowing traditional migration routes were more likely to die than German\nstorks that flew only as far as northern Morocco, and spent the winter there on\nrubbish dumps. “For the birds it’s a very convenient way to get food. There are\nhuge clusters of organic waste they can feed on,” said Flack. The meals are not\nparticularly appetising, or even safe. Much of the waste is discarded rotten meat,\nmixed in with other human debris such as plastic bags and old toys.\n“It’s very risky. The birds can easily eat pieces of plastic or rubber bands\nand they can die,” said Flack. “And we don’t know about the long-term\nconsequences. They might eat something toxic and damage their health. We\ncannot estimate that yet.”\nThe scientists tracked white storks from different colonies in Europe and\nAfrica. The Russian, Greek and Polish storks flew as far as South Africa, while\nthose from Spain, Tunisia and Germany flew only as far as the Sahel.\nLandfill sites on the Iberian peninsula have long attracted local white storks,\nbut all of the Spanish birds tagged in the study flew across the Sahara desert to\nthe western Sahel. Writing in the journal, the scientists describe how the storks\nfrom Germany were clearly affected by the presence of waste sites, with four out\nof six birds that survived for at least five months overwintering on rubbish\ndumps in northern Morocco, instead of migrating to the Sahel.\n\nFlack said it was too early to know whether the benefits of plentiful food\noutweighed the risks of feeding on landfills. But that’s not the only uncertainty.\nMigrating birds affect ecosystems both at home and at their winter destinations,\nand disrupting the traditional routes could have unexpected side effects. White\nstorks feed on（螳虫）and other insects that can become pests if their numbers\nget out of hand. “They provide a useful service,” said Flack.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What is the impact of rubbish dumps on wildlife?",
+              "options": {
+                "A": "They have forced white storks to search for safer winter shelters.",
+                "B": "They have seriously polluted the places where birds spend winter.",
+                "C": "They have accelerated the reproduction of some harmful insects.",
+                "D": "They have changed the previous migration habits of certain birds."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What do we learn about birds following the traditional migration routes?",
+              "options": {
+                "A": "They can multiply at an accelerating rate.",
+                "B": "They can better pull through the winter.",
+                "C": "They help humans kill harmful insects.",
+                "D": "They are more likely to be at risk of dying."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does Andrea Flack say about the birds overwintering on rubbish dumps?",
+              "options": {
+                "A": "They may end up staying there permanently.",
+                "B": "They may eat something harmful.",
+                "C": "They may evolve new feeding habits.",
+                "D": "They may have trouble getting adequate food."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What can be inferred about the Spanish birds tagged in the study?",
+              "options": {
+                "A": "They gradually lose the habit of migrating in winter.",
+                "B": "They prefer rubbish dumps far away to those at home.",
+                "C": "They are not attracted to the rubbish dumps on their migration routes.",
+                "D": "They join the storks form Germany on rubbish dumps in Morocco."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What is scientists，other concern about white storks feeding on landfills?",
+              "options": {
+                "A": "The potential harm to the ecosystem.",
+                "B": "The genetic change in the stork species.",
+                "C": "The spread of epidemics to their homeland.",
+                "D": "The damaging effect on bio-diversity."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "唐朝始于618 年，终于907 年，是中国历史上最灿烂的时期。经过近三百年的发展，唐代中国成为世界上最繁荣的强国，其首都长安是当时世界上最大的都市。这一时期，经济发达、商业繁荣、社会秩序稳定，甚至边境也对外开放。随着城市化和财富的增加，艺术和文学也繁荣起来。李白和杜甫是以作品简洁自然而著称的诗人。他们的诗歌打动了学者和普通人的心。即使在今天，他们的许多诗歌仍广为儿童及成人阅读背诵。【参考答案】【参考范文】【翻译参考译文】",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

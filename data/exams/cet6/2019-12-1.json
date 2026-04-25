@@ -1,0 +1,28 @@
+{
+  "id": "cet6-2019-12-1",
+  "type": "cet6",
+  "year": 2019,
+  "month": 12,
+  "set": 1,
+  "title": "2019年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "Answer the questions 1 to 4 based on the following conversation. 1. A.Magazine reporter B.Fashion designer C.Website designer D.Features editor 2. A.Designing sports clothing B.Consulting fashion experts C.Answering daily emails D.Interviewing job-seekers 3. A.It is challenging. B.It is fascinating. C.It is tiresome. D.It is fashionable. 4. A.Her persistence B.Her experience C.Her competence D.Her confidence Directions: Answer the questions 5 to 8 based on the following conversation. 5. A.It is enjoyable. B.It is educational. C.It is divorced from real life. D.It is adapted from a drama. 6. A.All the roles are played by famous actors and actresses. B.It is based on the real-life experiences of some celebrities. C.Its plots and events reveal a lot about Frankie&#39;s actual life. D.It is written, directed, edite d and produced by Frankie himself. 7. A.Go to the theater and enjoy it. B.Recommend it to her friends. C.Watch it with the man. D.Download and watch it. 8. A.It has drawn criticisms from scientists. B.It has been showing for over a decade. C.It is a ridiculous piece of satire. D.It is against common sense. Directions: Answer the questions 9 to 11 based on the following passage. 9. A.They are likely to get injured when moving too fast. B.They believe in team spirit for good performance. C.They need to keep moving to avoid getting hurt.",
+      "prompt": ""
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "荷花（lotus flower）是中国的名花之一，深受人们喜爱。中国许多地方的湖泊和池塘都适宜荷花生长。荷花色彩鲜艳，夏日清晨绽放，夜晚闭合。花期长达两三个月，吸引来自各地的游客前往观赏。荷花具有多种功能，既能绿化水面，又能美化庭园，还可净化水质、减少污染、改善环境。荷花迎骄阳而不惧，出污泥而不染，象征纯洁、高雅，常常用来比喻人的高尚品德，历来是诗人画家创作的重要题材。荷花盛开的地方也是许多摄影爱好者经常光顾之地。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

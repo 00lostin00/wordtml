@@ -1,0 +1,244 @@
+{
+  "id": "cet6-2023-03",
+  "type": "cet6",
+  "year": 2023,
+  "month": 3,
+  "set": 0,
+  "title": "2023年3月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “People are now increasingly aware of the \"digital gap' or challenges the elderly face in a digital world.\" You can make comments, give explanations, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "prompt": "People are now increasingly aware of the"
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "In a food store.",
+            "B": "In a restaurant.",
+            "C": "In a kitchen.",
+            "D": "In a supermarket."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "She eats meat occasionally.",
+            "B": "She enjoys cheeseburgers.",
+            "C": "She is a partial vegetarian.",
+            "D": "She is allergic to seafood."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "Changing one's eating habit.",
+            "B": "Dealing with one's colleagues.",
+            "C": "Following the same diet for years.",
+            "D": "Keeping awake at morning meetings."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "They are both animal lovers.",
+            "B": "They enjoy perfect health.",
+            "C": "They only eat organic food.",
+            "D": "They are cutting back on coffee."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "The man had an attitude problem.",
+            "B": "The man made little contribution to the company.",
+            "C": "The man paid attention to trivial things.",
+            "D": "The man got a poor evaluation from his colleagues."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "They reject employees9 reasonable arguments for work efficiency.",
+            "B": "They make unhelpful decisions for solving problems.",
+            "C": "They favor some employees9 suggestions over others5. 6 7 8",
+            "D": "They use manipulative language to mask their irrational choices."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "They bring great honor to their country.",
+            "B": "They create very high commercial value.",
+            "C": "They accomplish feats many of us cannot.",
+            "D": "They show genius which defies description."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "They try to be positive role models to children.",
+            "B": "They work in spare time to teach children sports.",
+            "C": "They take part in kids5 extra-curricular activities.",
+            "D": "They serve as spokespersons fbr luxury goods."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Being super sports stars without appearing arrogant.",
+            "B": "Keeping athletes away from drug or alcohol problems.",
+            "C": "Preventing certain athletes from getting in trouble with the law.",
+            "D": "Separating an athlete's professional life from their personal life."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "She called it romantic.",
+            "B": "She rejected it flatly.",
+            "C": "They are joyous and exciting occasions.",
+            "D": "They always cost more than expected."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "It determines people's moods.",
+            "B": "It can impact people's wellbeing.",
+            "C": "It can influence people's personalities.",
+            "D": "It is closely related to people's emotions."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "They make people more reproductive.",
+            "B": "They tend to produce positive feelings.",
+            "C": "They increase people's life expectancy.",
+            "D": "They may alter people's genes gradually."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "The Americans are apparently more outgoing than the Chinese.",
+            "B": "People in the same geographical area may differ in personality.",
+            "C": "People share many personality traits despite their nationalities.",
+            "D": "The link between temperature and personality is fairly weak."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "A growing number of US seniors face the risk of early mortality.",
+            "B": "Correlations have been found between loneliness and ill health.",
+            "C": "Chronic loneliness does harm to senior citizens in particular.",
+            "D": "The number of older Americans living alone is on the rise."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Living with one's children.",
+            "B": "Meaningful social contact.",
+            "C": "Loneliness rarely results from living alone.",
+            "D": "Medication is available for treating loneliness."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Refraining from promoting similar products.",
+            "B": "Avoiding too much advertising early on.",
+            "C": "She invested in several private companies.",
+            "D": "She made regular trips to Asian countries."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You\nshould write your answer on Answer Sheet 2.",
+      "source": "陋（Zhang Qian）是中国第一个伟大的探险家。他不畏艰险，克服重重困难，两次出使西域，开通了中国同西亚和欧洲的通商关系，将中国的丝和丝织品运往西亚和欧洲，开拓了历史上著名的“丝绸之路”。同时，他又将西域的风土人情、地理文化以及特有物种等介绍到中原，极大地开阔了人们的视野。正如历史学家所指出的那样，如果没有张骞出使西域，就不可能有丝绸之路的开辟，也就不会有汉朝同西域或欧洲的文化交流。■ 2023年3 月六级真题（第三套）•英语菌的笔记",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

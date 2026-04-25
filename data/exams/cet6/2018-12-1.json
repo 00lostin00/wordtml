@@ -1,0 +1,663 @@
+{
+  "id": "cet6-2018-12-1",
+  "type": "cet6",
+  "year": 2018,
+  "month": 12,
+  "set": 1,
+  "title": "2018年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay on how to balance work and leisure. You should write at least 150 words but no more than 200 words. ___________________________________________________________________________________________________ ___________________________________________________________________________________________________ ___________________________________________________________________________________________________",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "It can benefit professionals and non-professionals alike.",
+            "B": "It lists the various challenges physicists are confronting.",
+            "C": "It describes how some mysteries of physics were solved.",
+            "D": "It is one of the most fascinating physics books ever written."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "Physicists’ contribution to humanity.",
+            "B": "Stories about some female physicists.",
+            "C": "Historical evolution of modern physics.",
+            "D": "Women’s changing attitudes to physics."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "By exposing a lot of myths in physics.",
+            "B": "By describing her own life experiences.",
+            "C": "By including lots of fascinating knowledge.",
+            "D": "By telling anecdotes about famous professors."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "It avoids detailing abstract concepts of physics.",
+            "B": "It contains a lot of thought-provoking questions.",
+            "C": "It demonstrates how they can become physicists.",
+            "D": "It provides experiments they can do themselves."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "He is too busy to finish his assignment in time.",
+            "B": "He does not know what kind of topic to write on.",
+            "C": "He does not understand the professor’s instructions.",
+            "D": "He has no idea how to proceed with his dissertation."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "It is too broad.",
+            "B": "It is a bit outdated.",
+            "C": "It is challenging.",
+            "D": "It is interesting."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "Biography.",
+            "B": "Nature.",
+            "C": "Philosophy.",
+            "D": "Beauty."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "Improve his cumulative grade.",
+            "B": "Develop his reading ability.",
+            "C": "Stick to the topic assigned.",
+            "D": "List the parameters first."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "The unprecedented high temperature in Greenland.",
+            "B": "The collapse of ice on the northern tip of Greenland.",
+            "C": "The unusual cold spell in the Arctic area in October.",
+            "D": "The rapid change of Arctic temperature within a day."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "It has created a totally new climate pattern.",
+            "B": "It will pose a serious threat to many species.",
+            "C": "It typically appears about once every ten years.",
+            "D": "It has puzzled the climate scientists for decades."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Extinction of Arctic wildlife.",
+            "B": "Iceless summers in the Arctic.",
+            "C": "Emigration of indigenous people.",
+            "D": "Better understanding of ecosystems."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "A good start.",
+            "B": "A detailed plan.",
+            "C": "A strong determination.",
+            "D": "A scientific approach."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "Most people get energized after a sufficient rest.",
+            "B": "Most people tend to have a finite source of energy.",
+            "C": "It is vital to take breaks between demanding mental tasks.",
+            "D": "It is most important to have confidence in one’s willpower."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "They could keep on working longer.",
+            "B": "They could do more challenging tasks.",
+            "C": "They found it easier to focus on work at hand.",
+            "D": "They held more positive attitudes toward life."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "They are part of their nature.",
+            "B": "They are subject to change.",
+            "C": "They are related to culture.",
+            "D": "They are beyond control."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "About half of current jobs might be automated.",
+            "B": "The jobs of doctors and lawyers would be threatened.",
+            "C": "The job market is becoming somewhat unpredictable.",
+            "D": "Machine learning would prove disruptive by 2013."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "They are widely applicable for massive open online courses.",
+            "B": "They are now being used by numerous high school teachers.",
+            "C": "They could read as many as 10,000 essays in a single minute.",
+            "D": "They could grade high-school essays just like human teachers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "It needs instructions throughout the process.",
+            "B": "It does poorly on frequent, high-volume tasks.",
+            "C": "It has to rely on huge amounts of previous data.",
+            "D": "It is slow when it comes to tracking novel things."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "The engineering problems with solar power.",
+            "B": "The generation of steam with the latest technology.",
+            "C": "The importance of exploring new energy sources.",
+            "D": "The theoretical aspects of sustainable energy."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Drive trains with solar energy.",
+            "B": "Upgrade the city’s train facilities.",
+            "C": "Build a new ten-kilometre railway line.",
+            "D": "Cut down the city’s energy consumption."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Build a thank for keeping calcium oxide.",
+            "B": "Find a new material for storing energy.",
+            "C": "Recover super-heated steam.",
+            "D": "Collect carbon dioxide gas."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "The lack of supervision by both the national and local governments.",
+            "B": "The impact of the current economic crisis at home and abroad.",
+            "C": "The poor management of day centres and home help services.",
+            "D": "The poor relation between national health and social care services."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "It was mainly provided by voluntary services.",
+            "B": "It mainly caters to the needs of the privileged.",
+            "C": "It called for a sufficient number of volunteers.",
+            "D": "It has deteriorated over the past sixty years."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "Their longer lifespans.",
+            "B": "Fewer home helpers available.",
+            "C": "Their preference for private services.",
+            "D": "More of them suffering serious illnesses."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "They are unable to pay for health services.",
+            "B": "They have long been discriminated against.",
+            "C": "They are vulnerable to illnesses and diseases.",
+            "D": "They have contributed a great deal to society."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list\nof choices given in a word bank following the passage. Read the passage through carefully before making your choices.\nEach choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2\nwith a single line through the centre. You may not use any of the words in the bank more than once.\nQuestions 26 to 35 are based on the following passage.\nJust off the coast of Southern California sits Santa Cruz Island, where a magical creature called the island fox\n\n.\nA decade ago, this island’s ecosystem was in\n\n. Wild pigs attracted golden eagles from the mainland, and those\nflying\n\ncrashed the fox population. So the Nature Conservancy launched a\n\nwar against the pigs, complete\nwith helicopters and sharp shooters.\nAnd it worked. Today, federal agencies are pulling the island fox from the Endangered Species List. It’s the\nfastest-ever recovery of a mammal, joining peers like the Louisiana black bear as glowing successes in the history of the\nEndangered Species Act.\nBut the recovery of Santa Cruz Island isn’t just about the fox. The Nature Conservancy has\n\nwar on a multitude\n- 3 -\n\nof invasive species here, from sheep to plants to the\n\nArgentine ant. “Our philosophy with the island has always been,\n‘OK,\n\nthe threats and let the island go back to what it was,’” says ecologist Christina Boser. And it appears to be\nworking. Native plants are coming back, and the fox once again bounds about carefree.\nBut keeping those foxes from harm will occupy Boser and her colleagues for years to come. You see, humans are still\nallowed on Santa Cruz Island, and they bring dogs. So Boser has to vaccinate her foxes against various diseases. “We’re\nobligated to keep a pulse on the population for at least five years after the foxes are delisted,” says Boser. That includes\ntagging the foxes and\n\ntheir numbers to ensure nothing goes wrong.\nThis is the story of the little fox that has come back, and the people who have\n\ntheir lives to protecting it. This is\nthe story of wildlife conservation in the age of mass\n\n.\nA)aggressive\nI）hinders",
+      "wordBank": {
+        "B": "chaos",
+        "J": "mammal",
+        "C": "configuration",
+        "K": "monitoring",
+        "D": "declared"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Steinberg argued parental sharing online can be beneficial.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "According to an expert, when children reach school age, they can help their parents learn what can and cannot be\ndone.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "One mother refrained from posting her son’s photos online when she considered the matter from her son’s\n- 5 -\n\nperspective.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "According to a study, more children than parents think there should be rules on parents’ sharing.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Katlyn Burbidge had never realized she had to ask her son’s approval to put his photos online.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "A mother decided not to post her son’s photo online when he asked her not to.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "A woman pediatrician tries to help other parents by sharing her own parenting experience.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "There are people who decide simply not to share their children’s photos online.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Parents and physicians should realize sharing information online about children may involve risks.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Parents who share their parenting experiences may find themselves intruding into their children’s privacy.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nPerhaps it is time for farmers to put their feet up now that robots are used to inspect crops, dig up weeds, and even have\nbecome shepherds, too. Commercial growing fields are astronomically huge and take thousands of man-hours to operate.\nOne prime example is one of Australia’s most isolated cattle stations, Suplejack Downs in the Northern Territory, extending\nacross 4,000 square kilometers, taking over 13 hours to reach by car from the nearest major town—Alice Springs.\nThe extreme isolation of these massive farms leaves them often unattended, and monitored only once or twice a year,\nwhich means if the livestock falls ill or requires assistance, it can be a long time for farmers to discover.\nHowever, robots are coming to the rescue.\nRobots are currently under a two-year trial in Wales which will train “farmbots” to herd, monitor the health of livestock,\nand make sure there is enough pasture for them to graze on. The robots are equipped with many sensors to identify\nconditions of the environment, cattle and food, using thermal and vision sensors that detect changes in body temperature.\n“You’ve also got color, texture and shape sensors looking down at the ground to check pasture quality,” says Salah\nSukkarieh of the University of Sydney, who will carry out trials on several farms in central New South Wales.\nDuring the trials, the robot algorithms (算法) and mechanics will be fine-tuned to make it better suited to ailing\nlivestock and ensure it safely navigates around potential hazards including trees, mud, swamps, and hills.\n“We want to improve the quality of animal health and make it easier for farmers to maintain large landscapes where\nanimals roam free,” says Sukkarieh.\nThe robots are not limited to herding and monitoring livestock. They have been created to count individual fruit,\ninspect crops, and even pull weeds.\nMany robots are equipped with high-tech sensors and complex learning algorithms to avoid injuring humans as they\nwork side by side. The robots also learn the most efficient and safest passages, and allow engineers and farmers to analyze\nand better optimize the attributes and tasks of the robot, as well as provide a live stream giving real-time feedback on\nexactly what is happening on the farms.\nOf course, some worry lies in replacing agricultural workers. However, it is farmers that are pushing for the\nadvancements due to ever-increasing labor vacancies, making it difficult to maintain large-scale operations.\nThe robots have provided major benefits to farmers in various ways, from hunting and pulling weeds to monitoring the\ncondition of every single fruit. Future farms will likely experience a greater deal of autonomy as robots take up more and\nmore farm work efficiently.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What may farmers be able to do with robots appearing on the farming scene?",
+              "options": {
+                "A": "Upgrade farm produce",
+                "B": "Enjoy more leisure hours.",
+                "C": "Modify the genes of crops.",
+                "D": "Cut down farming costs."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What will “farmbots” be expected to do? - 6 -",
+              "options": {
+                "A": "Take up many of the farmers’ routines.",
+                "B": "Provide medical treatments for livestock.",
+                "C": "Lead the trend in farming the world over.",
+                "D": "Improve the quality of pastures for grazing."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What can robots do when equipped with high-tech sensors and complex learning algorithms?",
+              "options": {
+                "A": "Help farmers choose the most efficient and safest passages.",
+                "B": "Help farmers simplify their farming tasks and management.",
+                "C": "Allow farmers to learn instantly what is occurring on the farm.",
+                "D": "Allow farmers to give them real-time instructions on what to do."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "Why are farmers pressing for robotic farming?",
+              "options": {
+                "A": "Farming costs are fast increasing.",
+                "B": "Robotics technology is maturing.",
+                "C": "Robotic farming is the trend.",
+                "D": "Labor short is worsening"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What does the author think future farms will be like?",
+              "options": {
+                "A": "More and more automated.",
+                "B": "More and more productive.",
+                "C": "Larger and larger in scale.",
+                "D": "Better and better in condition."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage\nThe public must be able to understand the basics of science to make informed decisions. Perhaps the most dramatic\nexample of the negative consequences of poor communication between scientists and the public is the issue of climate\nchange, where a variety of factors, not the least of which is a breakdown in the transmission of fundamental climate data to\nthe general public, has contributed to widespread mistrust and misunderstanding of scientists and their research.\nThe issue of climate change also illustrates how the public acceptance and understanding of science (or the lack of it)\ncan influence governmental decision-making with regard to regulation, science policy and research funding.\nHowever, the importance of effective communication with a general audience is not limited to hot issues like climate\nchange. It is also critical for socially charged neuroscience issues such as the genetic basis for a particular behavior, the\ntherapeutic potential of stem cell therapy for neurodegenerative diseases, or the use of animal models, areas where the\npublic understanding of science can also influence policy and funding decisions. Furthermore, with continuing advances in\nindividual genome (基因组) sequencing and the advent of personalized medicine, more non-scientists will need to be\ncomfortable analyzing complex scientific information to make decisions that directly affect their quality of life.\nScience journalism is the main channel for the popularization of scientific information among the public. Much has\nbeen written about how the relationship between scientists and the media can shape the efficient transmission of scientific\nadvances to the public. Good science journalists are specialists in making complex topics accessible to a general audience,\nwhile adhering to scientific accuracy.\nUnfortunately, pieces of science journalism can also oversimplify and generalize their subject material to the point that\nthe basic information conveyed is obscured or at worst, obviously wrong. The impact of a basic discovery on human health\ncan be exaggerated so that the public thinks a miraculous cure is a few months to years away when in reality the\nsignificance of the study is far more limited.\nEven though scientists play a part in transmitting information to journalists and ultimately the public, too often the\nblame for ineffective communication is placed on the side of the journalists. We believe that at least part of the problem lies\nin places other than the interaction between scientists and members of the media, and exists because for one thing we\nunderestimate how difficult it is for scientists to communicate effectively with a diversity of audiences, and for another most\nscientists do not receive formal training in science communication.\n- 7 -",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What does the example of climate change serve to show?",
+              "options": {
+                "A": "The importance of climate data is increasingly recognized.",
+                "B": "Adequate government funding is vital to scientific research.",
+                "C": "Government regulation helps the public understand science.",
+                "D": "Common folks’ scientific knowledge can sway policy making."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What should non-scientists do to ensure their quality of life?",
+              "options": {
+                "A": "Seek personalized medical assistance from doctors.",
+                "B": "Acquire a basic understanding of medical science.",
+                "C": "Have their individual genome sequenced.",
+                "D": "Make informed use of animal models."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "Why is it important for scientists to build a good relationship with the media?",
+              "options": {
+                "A": "It helps them to effectively popularize new scientific information.",
+                "B": "It enables the public to develop a positive attitude toward science.",
+                "C": "It helps them to establish a more positive public image.",
+                "D": "It enables them to apply their findings to public health."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What does the author say is the problem with science journalism?",
+              "options": {
+                "A": "It is keen on transmitting sensational information.",
+                "B": "It tends to oversimplify people’s health problems.",
+                "C": "It may give inaccurate or distorted information to the public.",
+                "D": "It may provide information open to different interpretations."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What should scientists do to impart their latest findings to the public more effectively?",
+              "options": {
+                "A": "Give training to science journalists.",
+                "B": "Stimulate public interest in science.",
+                "C": "Seek timely assistance from the media.",
+                "D": "Improve their communication skills."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write\nyour answer on Answer Sheet 2.",
+      "source": "近年来，中国越来越多的博物馆免费向公众开放。博物馆展览次数和参观人数都明显增长。在一些广受欢迎的博物馆门前，排长队已很常见。这些博物馆必须采取措施限制参观人数。如今，展览形式越来越多样。一些大型博物馆利用多媒体和虚拟现实等先进技术，使展览更具吸引力。不少博物馆还举办在线展览，人们可在网上观赏珍稀展品。然而，现场观看展品的体验对大多数参观者还是更具吸引力。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

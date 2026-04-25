@@ -1,0 +1,842 @@
+
+----- PAGE 1 -----
+ 
+唐静翻译笔记翻译笔记
+ 
+目录
+ 
+  
+基础知识....................................................................................................................................................... 2
+ 
+翻译解题步骤.............................................................................................................................................. 3
+ 
+ 
+考研翻译的考试要点................................................................................................................................ 3
+ 
+  
+考研翻译的听课重点................................................................................................................................ 4
+  
+如何修改译文.............................................................................................................................................. 4
+ 
+  
+考研翻译解题核心策略—拆分............................................................................................................. 5
+ 
+ 
+长难句翻译自学方法................................................................................................................................ 5
+ 
+ 
+翻译解题步骤和时间控制....................................................................................................................... 6
+ 
+ 
+定语从句的翻译......................................................................................................................................... 6
+ 
+ 
+状语从句的翻译......................................................................................................................................... 8
+ 
+ 
+ 
+被动结构的翻译.......................................................................................................................................10
+ 
+ 
+ 
+短语作定语的翻译..................................................................................................................................10
+ 
+ 
+ 
+形式主语的翻译.......................................................................................................................................11
+ 
+ 
+ 
+十个典型翻译句型..................................................................................................................................14
+1
+
+----- PAGE 2 -----
+ 
+ 
+★占分比重
+翻译题为阅读理解的 Part c 部分，共分为5 个长难句，每句2 分，满分为10
+分（文章一般不需要通读，但是划线句的上下文需要看！句中每一个单词的理解、
+唐静翻译笔记翻译笔记
+基础知识
+翻译和代词指代）
+★大：主观题
+1）写汉字
+单词：
+A 蒙 
+B 背→考研翻译句的真题单词 
+翻译真题使用的三个阶段 
+➢
+2000-2010 年：1 年55 句话，最重要
+➢
+1990-1999 年：10 年50 句话，次重要
+➢
+2011 年现在：极重要，适合考前模拟（难易程度、趋势更接近）
+(2000 年往后的真题要重点掌握好，不要只顾做真题的“量”，而忽略了做真题
+的“质”）
+2）书写工整
+★小：阅读题
+➢
+阅读理解的 Part c
+➢
+5 个长难句分值：满分10 分，每句2 分
+➢
+文章一般不用通读，但是划线句上下文需要看。（句中某一个单词的理解、
+代词指代）
+➢
+考场时间控制（20-25 分钟）
+★翻译题
+➢
+体裁：体裁以议论文为主，偏向学术文献，属千“通识”读物
+➢
+话题：偏向文科，社会科学领域
+➢
+划线句长度：每句30 个单词左右，总长度为150 词
+★复习时间安排
+➢
+基础阶段〔到9 月）：坚持背诵单词，语法打好基础，精做阅读（逐句翻译
+哦，可每三天/两天翻译完一篇），适当背通作文
+➢
+强化阶段〔9 月-12 月）：精做阅读（翻译速度加快），翻译真题，作文背诵
+2
+
+----- PAGE 3 -----
+并仿写 
+➢
+冲刺阶段（考前两周）：适当模，（主要找做题的感觉）
+★评分标准
+A 重妥性
+=翻译标准
+=检查译文标准（多读中文）
+B. 准确、通顺、完整大意相同
+说人话
+要成句
+准确是前提
+ 
+1、对着英语写汉字，把认识的单词尽可能写下来。 
+2、当有三个左右的汉语词（一个主干，或者一个词组），尽量构成一个小句子3、
+3、在连接句子的时候可能需要： 
+➢
+适当找汉语同义近义词替换
+➢
+翻译解题步骤
+适当改变句子顺序（英语原顺序优先） 
+（做翻译需要动手写，比如英译汉，真正需要不查词典，不看答案，动手写汉字） 
+★建议考研复习总体安排：
+1、基础阶段（截止到9 月）
+以强化单词、精读阅读真题为主 
+2、强化阶段（9 月1 月） 
+继续阅读精读（量逐渐减少）翻译真题，作文背诵仿写 
+3、冲刺阶段（考前15 天左右，适当模考） 
+★阅读真题，翻译突破
+➢
+18 分钟模拟翻译
+➢
+4 个小时以上逐旬翻译（并不现实）（1 抄、2 译、3 查、4 改、5 对、6 记）
+➢
+10 分钟重做选项
+➢
+15 分钟分析错误
+➢
+30 分钟巩固成果
+ 
+考研翻译的考试要点
+3
+
+----- PAGE 4 -----
+1、考查学生对单词的理解和翻译，包括专有名词（①人名、地名、国名、机构；
+②专业术语）、词组、多义词的翻译
+⚫
+熟词生义
+⚫
+生词
+2、考查学生对复杂英语句子结构的理解和翻译，包括：定语从句，状语从句，
+被动结构等等 
+ 
+1、
+考研翻译的听课重点
+单词本意是什么？在这句话中怎么翻译？为什么要这么翻译？ 
+2、英语句子结构： 
+这句话的主干是什么？更细节一点，某一个单词的词性是什么？充当什么成分？
+修饰谁？主句在哪？从句在？什么从句？这个句子有某一个语法难点结构吗？ 
+3、翻译中汉语的顺序 
+汉语句子的顺序是否和英语一致？怎么调整通顺的？ 
+ 
+1、初次翻译：准确理解英语，用第一思维想到的汉语写下来，越贴近原文越好
+2、方法一：同义替换，找一些相同的说法来替换第一译文，千万不要改变意思
+3、方法二：可以适当引申，增减，重复，用四字成语，照顾上下文的节奏的韵
+律 
+➢
+技巧一：词义选择，适当引申技
+➢
+巧二：适当增加
+➢
+技巧三：适当减少
+➢
+技巧四：适当重复
+➢
+技巧五：词性转换
+➢
+如何修改译文
+技巧六：四字成语 
+★考研命题要符合大纲
+句子长短的控制
+单词超纲与否的控制
+是否是“通识”内容
+4
+
+----- PAGE 5 -----
+ 
+划竖线，断开句子 
+拆分小原则 
+➢
+1、连词
+➢
+2、引导词
+➢
+3、介词
+➢
+4、分词
+➢
+5、to
+➢
+6、标点符号
+➢
+7、不要把单个单词拆分出来
+目的：重合考点，提高分数
+➢
+通用方法一分四节，每节0.5 分（大部分）
+➢
+少数一两节（各1 分）
+➢
+极少一三节（两05 分，一1
+考研翻译解题核心策略—拆分
+分） 
+ 
+1、做翻译5 分钟 
+2、改文10
+长难句翻译自学方法
+分钟 
+⚫
+先练结构
+⚫
+再查词典
+⚫
+替换汉语
+⚫
+改变词序
+3、对案，分析误10 分钟以上 
+·对答案：
+⚫
+大意是否相同
+⚫
+修饰是否正确
+⚫
+语言是否通顺
+⚫
+用词是否恰当
+错误分析 
+⚫
+单词错：生词？多义词？
+⚫
+结构错：主干弄错了？修饰看错了？哪个词导致的？
+4、记结果5 分钟 
+⚫
+记住核心动词、常考名词、漂亮形容词和副词
+⚫
+记住句型结构和它的翻译顺序
+⚫
+看英语，说汉语
+⚫
+看汉语，默写英语
+5
+
+----- PAGE 6 -----
+ 
+1、划竖线 
+目的 
+翻译解题步骤和时间控制
+初步断开句子结构，化繁为简 
+⚫
+怎样划竖线
+⚫
+拆出主句，分清从句
+⚫
+拆出主干，分清修饰
+2、写汉字试点 
+目的 
+初步了解小结构的意思 
+以每两道划竖线之间的小结构为为单位，写下汉字 
+3、连句子 
+·目的
+把每两个小节连接为通顺的旬子，这时候，需要把不通顺的词语替换掉，或者适
+当地调整顺序
+4、读译文 
+·目的
+检查译文是否准确、是否通顺
+⚫
+看中文与英文的主干大概意思是否吻合
+⚫
+看中文与英文的修饰关系是否吻合
+⚫
+把中文译文当做汉语病旬，修改一下，不要改变中文意思
+ 
+★主要表现：
+1、名词（名词性代词 those,some,all 等+that, which,who,whom, whose）
+2
+定语从句的翻译
+、同位语从句：去掉先行词之后，是完整的句子 
+ 
+★特殊表现
+⚫
+名词+省略引导词（直接跟了一个从句）
+⚫
+时间名词+When
+(1)when
+Idea, view, fact, truth, suggestion, evidence, assumption
+在前面：…的时间 
+6
+
+----- PAGE 7 -----
+【例】 He told us the date when he would finish his work 
+翻译：他告诉我们他会完成工作的时间。 
+(2) when 往后放:……，当时…… 
+⚫
+地点名词+ where（home,city, condition…）
+⚫
+Reason +why
+⚫
+介词+Which（介词前置）
+★翻译方法
+1、前置：
+把定语从旬翻译到它所修饰的先行词前，并常常用“的”来连接
+小结
+⚫
+若定语从句结构简单，信息负载量比较小，翻译的时候前置
+⚫
+前置把定语从句翻译到它所修饰的先行词前，并常常用“的”来连接
+2、后置： 
+条件 
+⚫
+定语从旬结构复杂
+⚫
+前置太冗长，翻译不通顺
+小结 
+如果定语从句结构复杂，信息负载量大，翻译的时候后置；这时，可以和前面的
+主句分开，另起一句话，有时候需要重复先行词，或者用代词来重复 
+★代词所指
+在考研翻译中，碰到代词
+1、可以直接对应为汉语代词试试，前提是译文要通顺
+2、如果不通顺，则需要指代明确，尽可能地用指代到的名词来翻译。这时，需
+要往前看，根据“就近和一致原则”来确定
+3、万不得已，可以直接用“这，这种情况，这种说法，这种观点”等来翻译
+适用 
+⚫
+直接对应——适合第一、二人称
+⚫
+指代明确——第三人称代词，要小心
+⚫
+用“这种情况/观点/说法”等it,This,That
+★There be 句型的翻译：
+1、首先翻译英语中的状语，再加“有” 
+2、增加“人们、大家、我们”等汉语来泛指主语 
+3、直接用动词“有、出现、存在”等进行翻译 
+7
+
+----- PAGE 8 -----
+ 
+★状语从句翻译的特点
+在翻译中的位置很灵活，不太容易构成翻译的难点，但是，是重点
+★六大状从：
+状语从句的翻译
+一、时间状语从句的翻译
+·主要表现：
+◼
+When（当…的时候）
+◼
+whenever（每当…）
+◼
+as（当…时）
+◼
+while（在…期间，正当）
+◼
+Since（自从）若副词做状语，自从…
+◼
+before（在…前）若副词做状语，以前
+◼
+after（在…后） 若副词做状语，以后
+◼
+once 旦）
+◼
+Until,till（直到…才，如果不…）
+◼
+As soon as（一…就）
+◼
+The moment, the minute（一…就）
+◼
+Immediately, every time（一…就）
+◼
+No sooner than （一…就）
+◼
+hardly （scarely）when…（一…就）
+二、原因状语从句的翻译： 
+·主要衰现
+◼
+because（因为，由于）
+◼
+since（既然，由于）
+◼
+as（因为，由于）
+◼
+Now that（既然，因为，由于）
+◼
+Since（自从）
+特珠表现 
+Seeing that. considering that. in view of the fact that(既然，考虑到，
+因为，鉴于） 
+In that（因为，原因在于） 
+翻译方法：一般需要把原因状语从旬翻译到主句之前，构成“前因后果”的顺序；
+如果原因太长，有时候也可以采用”之所以…是因为 
+原因状语（短语） 
+⚫
+Because of 
+⚫
+On account of
+⚫
+Due to
+⚫
+Thanks to
+⚫
+Attribute to
+8
+
+----- PAGE 9 -----
+⚫
+Owing to
+⚫
+For the reason 
+⚫
+As a result of
+三、让步状语从句的翻译 
+主要表现 
+⚫
+Though（虽然）
+⚫
+Although（虽然）
+⚫
+Even if（即使）
+⚫
+while（尽管）
+⚫
+Whatever（无论什么）
+⚫
+Wherever（无论哪里）
+⚫
+Whoever（无论谁）
+⚫
+however（无论怎样）
+特殊表现: 
+⚫
+No matter（不论，不管）
+⚫
+For all that（尽管）
+◼
+She was strong, for all （that） she was so small
+⚫
+In spite of the fact that, despite the fact that 尽管
+翻译方法：前用“虽然”，后用“但是”。从句一般翻译到主句前面。但如果英语
+从句在主句后面，可以直接翻译，用“然而，但是”等词来翻译转折 
+四、条件状语从句的翻译 
+主要表现 
+⚫
+if（如果）
+⚫
+unless（除非，如果不）
+特殊表现： 
+➢
+Providing that. granting that, supposing that（如果，假如）
+➢
+Provided that, granted that, given that（如果，假如，假定）
+➢
+suppose that（如果，假如，假定）
+➢
+On condition that（如果，只要）
+➢
+As long as, so long as（如果，只要）
+➢
+Only，only that, only（只要，只有）
+➢
+If only（但愿，要是…就好了）
+·翻译方法：翻译到主句前是最佳位置
+五、目的状语从句的翻译： 
+·主要现：
+⚫
+So that（为了，以便）
+⚫
+Lest（以防）
+9
+
+----- PAGE 10 -----
+⚫
+In case（以防，以免）
+⚫
+For fear that（以防）
+⚫
+n order that（为了）
+·翻译方法：前用“为了”，后用“以免”
+五、结果状语从句的翻译 
+主要表现： 
+⚫
+So…that 
+⚫
+Such…that 
+⚫
+To such a degree that 
+⚫
+For such an extent that
+翻译方法：“结果是，如此…以致于…”直接翻译 
+★形式主语的翻译方法
+置于句首，用”…的是…"的句型
+…,这是很…的
+ 
+※被动结构的标志：Be+V-ed
+※基本原则：英语多用被动，汉语多用主动
+※翻译方法两种：
+①汉语用主动
+②汉语仍保留被动，如果用“被”字在中文中岀现，一般是糟糕的情况
+被动结构的翻译
+主动翻译的方式：
+➢
+主语不变，省略“被”字
+➢
+主宾颠倒，用by.in 等介词后面的动作执行者充当主语
+➢
+翻译为汉语的判断句，用“是…的”这样的结构翻译
+➢
+用“我们…，有人…，人们…，大家…”等泛指主语，或者增加“这”
+等词充当主语
+被动翻译的方式： 
+使用“被、受、遭、让、给、由、把、得到、受到、加以、得以、为所、由来”
+等等进行翻译 
+ 
+短语作定语的翻译
+10
+
+----- PAGE 11 -----
+➢
+分词短语：（现在分词：-ing；过去分词：-ed)
+➢
+不定式短语
+➢
+形容词短语
+➢
+介词短语
+★标点符号在考研译中的处理方案
+标点符号不是考点
+1、直接套用
+2、一逗到底，多点逗号
+★多重并列定语：
+以通顺为原则，一般是从后往前翻，一层一层追加修饰
+★合成词形式的专业术语：
+按照两个词各自的本意翻译，把中文直接组合在一起即可
+★增词法：
+在翻译中，如果中文缺少主语，有时候可以增加“人们、大家、我们”等汉语的
+泛指主语
+·时态的译（增词法）
+表进行：正在、正
+表过去：了、过去、往常、已经、过
+表将来：将、会、将要、要、就会、就要
+★重复法
+把并列结构中相同的部分重复出来，译文会显得很通顺，还有节奏感 
+★短语作定语：
+一般翻译在中心词前，但如果短语修饰语太长，或者这个短语具有明显的动作特
+征，可以直接翻译在中心词后面
+ 
+★形式主语
+可以当成词组，翻译到旬句子最开头，用“据…”，“有人…”，“…的是”等结构
+形式主语的翻译
+翻译
+⚫
+It is reported that…据报道
+⚫
+It is taken that…有人/人们认为
+⚫
+It is important that.重要的是
+可以先翻译后面部分，再加上“这是…的”。这种结构最适合it is+形容词+th
+αt 的结构 
+11
+
+----- PAGE 12 -----
+➢
+It is hoped that…希望，有人希望
+➢
+It is assumed that…据说，假定
+➢
+It is claimed that…据说，有人主张
+➢
+It is believed that…有人相信，大家相信
+➢
+It is reported that…据报道，据通报
+➢
+It is considered that…人们认为，据估计
+➢
+It is said that.据说，有人说
+➢
+It may be said that…可以这样说
+➢
+It is supposed that…据推测，人们猜测
+➢
+It has been announced that…已经宣布
+➢
+It is asserted that…有人主张
+➢
+It is rumored that…听说，谣传
+➢
+It is suggested that…有人建议，建议
+➢
+It is reputed that.人们认为，可以认为
+➢
+It is learned that.据说，据闻，已经证明
+➢
+It is demonstrated that.据证实，已经证明
+➢
+It is estimated that…据估计，有人估计
+➢
+It is pointed out that…有人推荐，有人建议
+➢
+It is proposed that…有人提出
+➢
+it was told that…有人曾经说
+➢
+it was first intended that…最初就有这样的想法
+➢
+it will be said that…有人会说
+➢
+it will be seen from this that…由此可知，因此可知
+➢
+It was noted above that…前面已经指出
+➢
+It must be admitted that…必须承认
+➢
+It has been illustrated that…据图示，据说明
+➢
+It is stressed that…有人强调说
+➢
+It cannot be denied that…无可否认
+➢
+It can be said without exaggeration that…可以毫不夸张的说
+➢
+It is sometimes asked that…人们有时会问
+➢
+It was felt that…有人认识到了
+➢
+It is universally accepted that…人们普遍认为
+➢
+It is unammously agreed that…大家一致同意
+➢
+It Is alleged that…据说t S calculated that…据计算
+➢
+It has been proved that…已经证明
+➢
+It has been found that…人们已经发现
+➢
+It Is still to be hoped that…我们仍然希望
+➢
+It is well-known that.…众所周知，我们都知道 
+➢
+It should be realized that…我们应该认识到
+★同位语从句和定语从句的区别
+➢
+定语从句的引导词tha 或whch 在旬子中用作主语或宾语
+➢
+同位语从句的引导词thot 只起连接主旬和从句之作用，不用作任何成分
+12
+
+----- PAGE 13 -----
+➢
+同位语从句，就是对某些名词做进一步解释的句子
+➢
+定语从句，理论上说可以对任何名词做修饰
+➢
+能接同位语从句的名词有：belief,fact,idea, doubt, rumor, evidence, 
+conclusion suggestion, view, problem, order, answer, discovery, 
+explanation, principle, possibility, truth promise, report, 
+statement, knowledge, opinion, likelihood
+★同位语从句翻译方法：
+把简单的同位语从句翻译到其修饰的词前面
+把复杂的翻译在后面，独立成句，可以增加“这样、所谓的、认为、即、那
+就是"等词来做进一步解释，或者釆用冒号、破折号等手段来解释 
+★分词短语做状语分词短语做状语，其逻辑主语应该是主干的主语；
+翻译的时候，可以把主干的主语增加到分词短语前面
+★倒装结构的翻译
+常常恢复正常顺序后，直接翻译
+平衡倒装 
+★插入结构的翻译：
+考察学生是否有能力理解并翻译复杂旬子结构常常可以照英语原顺序翻译
+但有时候还可以翻译到整个旬子最前面 
+★强调结构的翻译：
+ 
+·比较结构：more than 系列
+1）More than+数词 翻译为：多于，以上
+2）More than+名词/动词 翻译为：不只是，不仅仅
+3）More than+形容词/副词 翻译为：非常，及其，很
+4）More than+can/could 翻译为：不能
+5）No. more than. =not any more than 表示对两者都否定，可以翻译为：…
+可以在翻译中增加“就是、正是、的确、确实、是”或者“到底、究竟”等
+词来加强
+★特殊比较结构的翻译
+和…一样不，不…正如…不
+ 
+ 
+★特殊否定结构的翻译：
+1）部分否定：指代词或者副词如 all. both, every. every-，many. entire, 
+together. absolutely wholly, completely 等与否定词not 搭配使用翻译为：
+并非所有，并不是都
+2）全部否定：构成全部否定的单词和词组主要有一下这些：
+·比较结构：as 系列as. as 翻译为：像一样
+Not so… as 翻译为：不像一样，不如一样
+Not so much… as 翻译为：与其说不如说
+never,no,not,none, 
+13
+
+----- PAGE 14 -----
+nobody nothing. nowhere, neither（两者都不），nor（也没有，也不）， not at 
+all（也不） 
+3）双重否定：指一个句子中出现两个否定词翻译时：
+可以直接用汉语双重否定直接翻译为肯定旬
+·常见双重否定形式主要有：no.not, no （no. without,no..bu, cannot but+V, 
+cannot help+V-ing. with out doubt, with out exception, nothing less but(正
+是）， no one but（除外，别无）， no one but(除了外，没有别人），not… any 
+but.（只不过，仅仅） Have no alternative/ choice but to（除别无选择）
+There is no doubt that
+There is no denying that
+here is no question that
+4)否定转移：是指英语句子的否定形式（not）在前面主句或者主干的谓语动词
+上，而否定的信息焦点却是在后面的修饰语或者从句上。翻译的时候，要把前面
+的主句或者主干直接翻译成肯定，进而否定后面的修饰语或者从句
+主句或主干谓语动词是“否定词+ think believe, accept, suppose, expect, 
+fancy Image, anticipate. figure 等词“其实是表达观点、信念、猜测“，基
+本含义是“认为不“
+注意not… because 的结构：并不是因为…才
+5）需要注意一些具有否定意义的词如：ack, escape, far from, beyond, 
+anything bU（绝不是）， nothing unusual（都很正常）
+1、 leave sb the choice of…or…要么…，要么…（选择类典型句） 
+➢
+十个典型翻译句型
+Our cruel and unrelenting enemy leaves us the choice of brave 
+resistance or the most abject submission 
+敌人冷酷无情/铁石心肠，我们要么顽强抵抗，要么屈膝投降。 
+➢
+The age of 30s leaves you the choice of marriage or remaining a bachelor
+年过三十，要么成婚，要么单身
+2、 be the instrument of sth 引来某事物的人或事（使动类典型句） 
+➢
+If I can be the instrument of your happiness, I will sacrifice all 
+my belonging：
+能够让你幸福，我愿意付出我的一切。
+3、 it was the memory/ memories of 追溯到…（回忆类典型句） 
+➢
+Perhaps it was the memories of the 1964 Tokyo Olympics and the 1988 
+Seoul Olympics which were considered turning points in their 
+14
+
+----- PAGE 15 -----
+nations'development 
+追溯到1964 年东京及1988 年汉城举办的奥运会，可能分别被视为日韩两国
+发展的转折 
+➢
+It was the memory of 1945 Hiroshima and Nagasaki suffered from the 
+attacks of atomic bomb, from which originated the term of"Zero Ground"
+追溯到1945 年广岛和长崎遭受原子弹攻击，从而形成了“零地带”这个术
+语 
+4.
+ On  the  premise/ground/prerequisite/proposition  /  hypothesis 
+/presupposition tha 基于一个前提（假设类典型句）
+➢
+The Chinese declared to implement the policy of peaceful reunification 
+on the premise that the then Taiwan authorities maintained that there 
+is only one China in the world and Taiwan is only one part of China
+中国政府在宣布实行和平统一的方针时，是基于一个前提，即当时的台湾当
+局坚持世界上只有一个中国，台湾是中国的一部分。 
+➢
+Advice to investors was based on the premise that interest rates would 
+continue to fall
+对投资者的建议是以利率会继续下跌为根据的。
+5、 be bound to 必定…一定…（意愿类典型句） 
+➢
+The Great Western Development is bound to be a bridge between China 
+and the rest world, promoting the common economic development and 
+prosperity of China and the world at large
+西部大开发一定能成为沟通世界各国和中国的一座桥梁，促进中国和世界经
+济共同发展，共同繁荣。 
+➢
+Just wars are bound to triumph over wars of aggression
+正义战争必然要战胜侵略战争。
+6、 a matter of sth/ doing sth 与…有关的情况或问题（描述类典型句） 
+➢
+Considering the following statements, made by the same man eight years 
+apart Eventually, being ' poor'won't be as much a matter of living 
+in a poor country as it will be a matter of having poor skills
+请思考一下同一个人现在及八年前说的话。“说到底，‘贫穷’与其说是生活
+在贫穷的国家里，还不如说是技艺不精。 
+➢
+Dealing with these problems is all a matter of experience
+处理这些问题全凭经验。
+7、 This is the similar case with/when 这恰如正如也会（比较类典型句） 
+➢
+This is the similar case when the main melody can evoke a strong echo 
+for us to clap our hands in admiration despite our disability to 
+understand the score of Mozart's musical pieces
+这恰如我们虽然看不懽莫扎特乐曲的总谱，却照样能同它的主旋律产生共
+鸣，击节称赞。 
+➢
+Besides, this is also the case with the citizen,s expenditure such 
+15
+
+----- PAGE 16 -----
+as education, information 
+除此以外，老百姓的服务性消费，如教育，信息，旅游等消费也会大量增长。 
+8、 be exemp| ified by 这一点也证明了…这点反映在以下事实：…（举例类
+典型句） 
+➢
+This American desire to keep the childrens world separate from that 
+of the adult is exemplified also by the practice of delaying 
+transmission of the news to children when their parents have been 
+killed in an accident
+如果父母在事故中丧生，人们总是晚些时候才告诉孩子们，这一点也证实了
+美国人想把儿童的世界和成人的世界隔离开的愿望。 
+美国人想把儿童和成人的世界划清界限，这一愿望还反映在以下事实：如果
+父母在事故中丧生，人们总是设法晚点将消息告诉他们的子女。 
+➢
+The manual worker is usually quite at ease in any company. This is 
+partly explained by the fact that people of all income groups go 
+together to the same schools
+体力劳动者在任何场合通常都相当自在。收入档次不同的人上同一所学校，
+这个事实多少说明了这一点。 
+9、 constitute…（不用于进行式）是认为（判断类典型句） 
+➢
+History has proved eloquently that the division of labor based on 
+equality and mutual benefit between Ching and USA constitutes the most 
+reasonable and practical international relationship
+历史雄辩地说明，中美之间建立在平等互利基础上的劳动分工是最为合理和
+实用的国际关系。 
+➢
+My decision does not constitute a precedent
+我的决定不应视为先例。
+➢
+The defeat constitutes a major set-back for our diplomacy
+这一失败是我们外交上的一次较大的挫折。
+10、wess…见证…（发生类典型句） a time or event witnesses sth/ sb in 
+a particular situation or doing a particular thing  
+➢
+The rapid development in the past 20-plusyears witnesses a relatively 
+solid foundation in terms of material wealth and technology in the 
+western region of china
+经过二十多年的快速发展，中国西部地区已奠定了一定的物质技术基础，社
+会保持稳定市场经济体制正在逐步建立和完善，为西部经济持续快速增长创造了
+有利的市场环境。 
+➢
+i am optimistic and hopeful that the next round of talk will witness 
+a permanent cease-fire in the middle east
+在下一轮的会谈中，我们将宣布中东地区永久停火协议，对此我抱有乐观态
+度并充满希望。 
+16

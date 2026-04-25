@@ -425,6 +425,48 @@ input:focus, select:focus, textarea:focus { border-color: var(--accent); }
   opacity: 0.68;
 }
 
+/* === exam hub === */
+.exam-type-card {
+  padding: 20px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: var(--bg-card);
+  box-shadow: var(--shadow);
+  transition: border-color 0.15s, transform 0.12s;
+}
+.exam-type-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+.exam-type-title {
+  font-size: 20px;
+  font-weight: 800;
+}
+.exam-mini {
+  padding: 10px;
+  box-shadow: none;
+}
+.exam-mini .value {
+  font-size: 18px;
+}
+.exam-attempt-list {
+  display: grid;
+  gap: 10px;
+}
+.exam-attempt-row {
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg);
+}
+.exam-attempt-pill {
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
+  color: var(--fg-dim);
+  font-size: 12px;
+}
+
 /* === rapid page === */
 .rapid-card {
   padding: 18px;

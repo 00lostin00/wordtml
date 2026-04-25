@@ -1,0 +1,28 @@
+{
+  "id": "cet6-2020-12-3",
+  "type": "cet6",
+  "year": 2020,
+  "month": 12,
+  "set": 3,
+  "title": "2020年12月大学英语六级真题(第3套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop creativity. You should write at least 150 words but no more than 200 words. Part ][ Listening Comprehension (30 minutes) 2020 12 Part H[ Reading Comprehension (40 minutes) Section A Directions; In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once. Social distancing is putting people out of work, canceling school and tanking the stock market. It has been",
+      "prompt": ""
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "id": "cet6-2016-06-2",
+  "type": "cet6",
+  "year": 2016,
+  "month": 6,
+  "set": 2,
+  "title": "2016年6月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write a short essay on e-learning. Try to imagine what will happen when more and more people study online instead of attending school. You are required to write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "The project the man managed at CucinTech.",
+            "B": "The updating of technology at CucinTech.",
+            "C": "The man's switch to a new career.",
+            "D": "The restructuring of her company."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "Talented personnel.",
+            "B": "Strategic innovation.",
+            "C": "Competitive products.",
+            "D": "Effective promotion."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "Expand the market.",
+            "B": "Recruit more talents.",
+            "C": "Innovate constantly.",
+            "D": "Watch out for his competitors."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "Possible bankruptcy.",
+            "B": "Unforeseen difficulties.",
+            "C": "Conflicts within the company.",
+            "D": "Imitation by one's competitors."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "The job of an interpreter.",
+            "B": "The stress felt by professionals.",
+            "C": "The importance of language proficiency",
+            "D": "The best way to effective communication."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Promising.",
+            "B": "Admirable.",
+            "C": "Rewarding.",
+            "D": "Meaningful."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "They all have a strong interest in language.",
+            "B": "They all have professional qualifications.",
+            "C": "They have all passed language proficiency tests.",
+            "D": "They have all studied cross-cultural differences."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "It requires a much larger vocabulary.",
+            "B": "It attaches more importance to accuracy.",
+            "C": "It is more stressful than simultaneous interpreting.",
+            "D": "It puts one's long-term memory under more stress."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "It might affect mothers' health.",
+            "B": "It might disturb infants, sleep.",
+            "C": "It might increase the risk of infants' death.",
+            "D": "It might increase mothers' mental distress."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "Mothers who breast-feed their babies have a harder time falling asleep.",
+            "B": "Mothers who sleep with their babies need a little more sleep each night.",
+            "C": "Sleeping patterns of mothers greatly affect their newborn babies' health.",
+            "D": "Sleeping with infants in the same room has a negative impact on mothers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Change their sleep patterns to adapt to their newborn babies5.",
+            "B": "Sleep in the same room but not in the same bed as their babies.",
+            "C": "Sleep in the same house but not in the same room as their babies.",
+            "D": "Take precautions to reduce the risk of sudden infant death syndrome."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "A lot of native languages have already died out in the US.",
+            "B": "The US ranks first in the number of endangered languages.",
+            "C": "The efforts to preserve Indian languages have proved fruitless.",
+            "D": "More money is needed to record the native languages in the US."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "To set up more language schools.",
+            "B": "To document endangered languages.",
+            "C": "To educate native American children.",
+            "D": "To revitalise America's native languages."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "The US governments policy of Americanising Indian children.",
+            "B": "The failure of American Indian languages to gain an official status.",
+            "C": "The US governments unwillingness to spend money educating Indians.",
+            "D": "The long-time isolation of American Indians from the outside world."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "It is being utilised to teach native languages.",
+            "B": "It tells traditional stories during family time.",
+            "C": "It speeds up the extinction of native languages.",
+            "D": "It is widely used in language immersion schools."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "It pays them up to half of their previous wages while they look for work.",
+            "B": "It covers their mortgage payments and medical expenses for 99 weeks.",
+            "C": "It pays their living expenses until they find employment again.",
+            "D": "It provides them with the basic necessities of everyday life."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "Creating jobs for the huge army of unemployed workers.",
+            "B": "Providing training and guidance for unemployed workers.",
+            "C": "Convincing local lawmakers to extend unemployment benefits.",
+            "D": "Raising funds to help those having no unemployment insurance."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "To offer them loans they need to start their own businesses.",
+            "B": "To allow them to postpone their monthly mortgage payments.",
+            "C": "To create more jobs by encouraging private investments in local companies.",
+            "D": "To encourage big businesses to hire back workers with government subsidies."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "They measured the depths of sea water.",
+            "B": "They analyzed the water content.",
+            "C": "They explored the ocean floor.",
+            "D": "They investigated the ice."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Eighty percent of the ice disappears in summer time.",
+            "B": "Most of the ice was accumulated over the past centuries.",
+            "C": "The ice ensures the survival of many endangered species.",
+            "D": "The ice decrease is more evident than previously thought."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Arctic ice is a major source of the world's fresh water.",
+            "B": "The melting Arctic ice has drowned many coastal cities.",
+            "C": "The decline of Arctic ice is irreversible.",
+            "D": "Arctic ice is essential to human survival."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "It will do a lot of harm to mankind.",
+            "B": "There is no easy way to understand it.",
+            "C": "It will advance nuclear technology.",
+            "D": "There is no easy technological solution to it."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "The reason why New Zealand children seem to have better self-control.",
+            "B": "The relation between children's self-control and their future success.",
+            "C": "The health problems of children raised by a single parent.",
+            "D": "The deciding factor in children's academic performance."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "Children raised by single parents will have a hard time in their thirties.",
+            "B": "Those with a criminal record mostly come from single parent families.",
+            "C": "Parents must learn to exercise self control in front of their children.",
+            "D": "Lack of self-control in parents is a disadvantage for their children."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Self-control can be improved through education.",
+            "B": "Self-control can improve one's financial situation.",
+            "C": "Self-control problems may be detected early in children.",
+            "D": "Self-control problems will diminish as one grows up."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to\nselect one word for each blank from a list of choices given in a word bank\nfollowing the passage. Read the passage through carefully before making\nyour choices. Each choice in the bank is identified by a letter. Please mark\nthe corresponding letter for each item on Answer Sheet 2 with a single line\nthrough the centre. You may not use any of the words in the bank more\nthan once.\n\nQuestions 26 to 35 are based on the following passage.\nThe robotics revolution is set to bring humans face to face with an old\nfear—man-made creations as smart and capable as we are but without a moral compass.\nAs robots take on ever more complex roles, the question naturally 26 : Who will be\nresponsible when they do something wrong? Manufacturers? Users?\nSoftware writers? The answer depends on the robot.\nRobots already save us time, money and energy. In the future, they will improve\nour health care, social welfare and standard of living. The 27 of computational power\nand engineering advances will 28 enable lower-cost in-home care for the disabled, 29\nuse of driverless cars that may reduce drunk- and distracted-driving accidents and\ncountless home and service-industry uses for robots, from street cleaning to food\npreparation.\nBut there are 30 to be problems. Robot cars will crash. A drone ( 遥控飞行\n器)operator will 31 someone's privacy. A robotic lawn mower will run over a\nneighbor's cat. Juries sympathetic to the 32 of machines will punish entrepreneurs with\ncompany-crushing 33 and damages. What should governments do to protect people\nwhile 34 space for innovation?\nBig, complicated systems on which much public safety depends, like driverless\ncars, should be built, 35 and sold by manufacturers who take responsibility for ensuring\nsafety and are liable for accidents. Governments should set safety requirements and\nthen let insurers price the risk of the robots based on the manufacturer's driving record,\nnot the passenger's.",
+      "wordBank": {
+        "A": "Arises",
+        "B": "Ascends",
+        "C": "Bound",
+        "D": "Combination",
+        "E": "Definite",
+        "F": "Eventually",
+        "G": "Interfere",
+        "H": "Invade",
+        "I": "Manifesting",
+        "J": "Penalties",
+        "K": "Preserving",
+        "L": "Programmed",
+        "M": "Proximately",
+        "N": "Victims",
+        "O": "Widespread"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "With a tax imposed on expensive health insurance plans, most employers will\nlikely transfer money from health expenses into wages.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Changes in policy would be approved or rejected as a whole so that lobbyists\nwould find it hard to influence lawmakers.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "It is not easy to curb the rising medical costs in America.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Standardization of forms for automatic processing will save a lot of medical\nexpenses.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Republicans and the insurance industry are strongly opposed to the creation of\na public insurance plan.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Conversion of paper to electronic medical records will help eliminate\nredundant tests and prevent drug interactions.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "The high cost of medical services and unnecessary tests and treatments have\ndriven up medical expenses.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "One main factor that has driven up medical expenses is that doctors are\ncompensated for the amount of care rather than its effect.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Contrary to analysts' doubts, the author believes drug prices may be lowered\nthrough negotiation.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Fair competition might create a strong incentive for insurers to charge less.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nFacing water shortages and escalating fertilizer costs, farmers in developing\ncountries are using raw sewage（下水道污水）to irrigate and fertilize nearly 49 million\nacres of cropland, according to a new report— and it may not be a bad thing.\nWhile the practice carries serious health risks for many, those dangers are\noutweighed by the social and economic gains for poor urban farmers and consumers\nwho need affordable food.\n\"There is a large potential for waste water agriculture to both help and hurt great\nnumbers of urban consumers,5, said Liqa Raschid-Sally, who led the study.\nThe report focused on poor urban areas, where farms in or near cities supply\nrelatively inexpensive food. Most of these operations draw irrigation water from local\nrivers or lakes. Unlike developed cities, however, these areas lack advanced\nwater-treatment facilities, and rivers effectively become sewers （下水道）.\nWhen this water is used for agricultural irrigation, farmers risk absorbing\ndisease-causing bacteria, as do consumers who eat the produce raw and unwashed.\nNearly 2.2 million people die each year because of diarrhea-related （与腹泻相关的）\ndiseases, according to_ WHO statistics. More than 80% of those cases can be attributed\nto contact with contaminated water and a lack of proper'sanitation. But Pay Drechsel,\nan environmental scientist, argues that the social and economic benefits of using\nuntreated human waste to grow food outweigh the health risks.\nThose dangers can be addressed with farmer and consumer education, he said,\nwhile the free water and nutrients from human waste can help urban farmers in\ndeveloping countries to escape poverty.\nAgriculture is a water-intensive business, accounting for nearly 70% of global\nfresh water consumption.\nIn poor, dry regions, untreated waste water is the only viable irrigation source to\nkeep farmers in business. In some cases, water is so scarce that farmers break open\nsewage pipes transporting waste to local rivers.\nIrrigation is the primary agricultural use of human waste in the developing world.\nBut frequently untreated human waste harvested from lavatories is delivered to farms\nand spread as fertilizer.\nIn most cases, the human waste is used on grain crops, which are eventually\n\ncooked, minimizing the risk of transmitting water-borne diseases. With fertilizer prices\njumping nearly 50% per metric ton over the last year in some places, human waste is an\nattractive, and often necessary, alternative.\nIn cases where sewage mud is used, expensive chemical fertilizer use can be\navoided. The mud contains the same critical nutrients.\n\"Overly strict standards often James Bartram, a WHO water-health expert, said.\nWe need to accept that fact across much of the planet, so waste with little or no\ntreatment will be used in agriculture for good reason.\"",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What does the author say about the use of raw sewage for farming?",
+              "options": {
+                "A": "Its risks cannot be overestimated.",
+                "B": "It should be forbidden altogether.",
+                "C": "Its benefits outweigh the hazards involved.",
+                "D": "It is polluting millions of acres of cropland."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What is the main problem caused by the use of waste water for irrigation?",
+              "options": {
+                "A": "Rivers and lakes nearby will gradually become contaminated.",
+                "B": "It will drive producers of chemical fertilizers out of business.",
+                "C": "Farmers and consumers may be affected by harmful bacteria.-",
+                "D": "It will make the farm produce less competitive on the market."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What is environmental scientist Pay DrechseVs attitude towards the use of untreated human waste in agriculture?",
+              "options": {
+                "A": "Favorable.",
+                "B": "Skeptical.",
+                "C": "Indifferent.",
+                "D": "Responsible."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What does Pay Drechsel think of the risks involved in using untreated human waste for farming?",
+              "options": {
+                "A": "They have been somewhat exaggerated.",
+                "B": "They can be dealt with through education.",
+                "C": "They will be minimized with new technology.",
+                "D": "They can be addressed by improved sanitation."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What do we learn about James Bartram's position on the use of human waste for farming?",
+              "options": {
+                "A": "He echoes Pay DrechseFs opinion on the issue.",
+                "B": "He challenges Liqa Raschid-Sally's conclusion.",
+                "C": "He thinks it the only way out of the current food crisis.",
+                "D": "He deems it indispensable for combating global poverty."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nThese days, nobody needs to cook. Families graze on high-cholesterol take-aways\nand microwaved ready-meals. Cooking is an occasional hobby and a vehicle for\ncelebrity chefs. Which makes it odd that the kitchen has become the heart of the modem\nhouse: what the great hall was to the medieval castle, the kitchen is to the 21st-century\nhome.\nThe money spent on kitchens has risen with their status. In America the kitchen\nmarket is now worth $17° billion, five times the country's film industry. In the year to\nAugust 2007, IKEA, a Swedish furniture chain, sold over one million kitchens\nworldwide. The average budget for a \"major\" kitchen overhaul in 2006, calculates\nRemodeling magazine, was a staggering $54,000; even a \"minor\" improvement cost on\naverage $ 18,000.\n\nExclusivity, more familiar in the world of high fashion, has reached the kitchen :\nRobinson & Cornish, a British manufacturer of custom-made kitchens, offers a\nGeorgian-style\none\nwhich\nwould\ncost\n£145,000-155,000--excluding\nbuilding,\nplumbing and electrical work. Its big selling point is that nobody else will have it: \"You\nwon't see this kitchen anywhere else in the world.\"\nThe elevation of the room that once belonged only to the servants to that of design\nshowcase for the modem family tells the story of a century of social change. Right into\nthe early 20th century, kitchens were . smoky, noisy places, generally located\nunderground, or to the back of the house, and as far from living space as possible. That\nwas as it should be: kitchens were for servants, and the aspiring middle classes wanted\nnothing to do with them.\nBut as the working classes prospered and the servant shortage set in, housekeeping\nbecame a matter of interest to the educated classes. One of the pioneers of a radical new\nway of thinking about the kitchen was Catharine Esther Beecher, sister of Harriet\nBeecher Stowe. In American Woman's Home, published in 1869, the Beecher sisters\nrecommended a scientific approach to household management, designed to enhance the\nefficiency of a woman's work and promote order.\nMany contemporary ideas about kitchen design can be traced back to another\nAmerican, Christine Frederick, who set about enhancing the efficiency of the\nhousewife. Her 1919 work, Household Engineering: Scientific Management in the\nHome, was based on detailed observation of a housewife's daily routine. She borrowed\nthe principle of efficiency on the factory floor and applied it to domestic tasks on the\nkitchen floor.\nFrederick's central idea, that “stove, sink and kitchen table must be placed in such\na relation that useless steps are avoided entirely\", inspired the first fully fitted kitchen,\ndesigned in the 1920s by Margarete Schut-ter-Lihotsky. It was a modernist triumph,\nand many elements remain central features of today's kitchen.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What does the author say about the kitchen of today?",
+              "options": {
+                "A": "It is where housewives display their cooking skills.",
+                "B": "It is where the family entertains important guests.",
+                "C": "It has become something odd in a modem house.",
+                "D": "It is regarded as the center of a modem home."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "Why does the Georgian-style kitchen sell at a very high price?",
+              "options": {
+                "A": "It is believed to have tremendous artistic value.",
+                "B": "No duplicate is to be found in any other place.",
+                "C": "It is manufactured by a famous British company.",
+                "D": "No other manufacturer can produce anything like it."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does the change in the status of the kitchen reflect?",
+              "options": {
+                "A": "Improved living conditions.",
+                "B": "Women's elevated status.",
+                "C": "Technological progress.",
+                "D": "Social change."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What was the Beecher sisters5 idea of a kitchen?",
+              "options": {
+                "A": "A place where women could work more efficiently.",
+                "B": "A place where high technology could be applied.",
+                "C": "A place of interest to the educated people.",
+                "D": "A place to experiment with new ideas."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What do we learn about today's kitchen?",
+              "options": {
+                "A": "It represents the rapid technological advance in people's daily life.",
+                "B": "Many of its central features are no different from those of the 1920s.",
+                "C": "It has been transformed beyond recognition.",
+                "D": "Many of its functions have changed greatly."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from\nChinese into English. You should write your answer on Answer Sheet 2.",
+      "source": "深圳是中国广东省一座新开发的城市。在改革开放之前，深圳不过息一个渔村，仅有三万多人。20 世纪80 年代，中国政府创建了深圳经济特区，作为实施社会主义市场经济的试验田。如今，深圳的人口已超过1 000 万，整个城市发生了巨大的变化。到2014 年，深圳的人均( per-capita )GDP 已达25000 美元，相当于世界上一些发达国家的水平。就综合经济实力而言，深圳居于中国顶尖城市之列。由于其独特的地位，深圳也是国内外企业家创业的理想之地。【参考答案】【参考范文】【翻译参考译文】",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "id": "cet6-2015-12-1",
+  "type": "cet6",
+  "year": 2015,
+  "month": 12,
+  "set": 1,
+  "title": "2015年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write a short essay based on the picture below. You should focus on the impact of social networking websites on reading.You are reauired to write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "The restaurant offers some specials each day.",
+            "B": "The restaurant is known for its food varieties.",
+            "C": "The dressing makes the mixed salad very inviting.",
+            "D": "The woman should mix the ingredients thoroughly."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "He took over the firm from Mary.",
+            "B": "He is running a successful business.",
+            "C": "He failed to foresee major problems.",
+            "D": "He is opening a new consulting firm."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "He has to use a magnifying glass to see clearly.",
+            "B": "The woman can use his glasses to read.",
+            "C": "He has the dictionary the woman wants.",
+            "D": "The dictionary is not of much help to him."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "Redecorating her office.",
+            "B": "Majoring in interior design.",
+            "C": "Seeking professional advice.",
+            "D": "Adding some office furniture."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Problems in port management.",
+            "B": "Improvement of port facilities.",
+            "C": "Delayed shipment of goods.",
+            "D": "Shortage of container ships."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "Their boss.",
+            "B": "A colleague.",
+            "C": "Their workload.",
+            "D": "A coffee machine."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "Call the hotel manager for help.",
+            "B": "Postpone the event until a later date.",
+            "C": "Hold the banquet at a different place.",
+            "D": "Get an expert to correct the error."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "He shares some of the household duties.",
+            "B": "He often goes back home late for dinner.",
+            "C": "He cooks dinner for the family occasionally.",
+            "D": "He dines out from time to time with friends."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "To take him to dinner.",
+            "B": "To talk about a budget plan.",
+            "C": "To discuss an urgent problem.",
+            "D": "To pass on an important message."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Foreign investors are losing confidence in India's economy.",
+            "B": "Many multinational enterprises are withdrawing from India.",
+            "C": "There are wild fluctuations in the international money market.",
+            "D": "There is a sharp increase in India's balance of payment deficit."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "They have unrealistic expectations about the other half.",
+            "B": "They may not be prepared for a lifelong relationship.",
+            "C": "They form a more realistic picture of life.",
+            "D": "They try to adapt to their changing roles."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "He is lucky to have visited many exotic places.",
+            "B": "He is able to forget all the troubles in his life.",
+            "C": "He is able to meet many interesting people.",
+            "D": "He is lucky to be able to do what he loves."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "It is stressful.",
+            "B": "It is full of time.",
+            "C": "It is all glamour.",
+            "D": "It is challenging"
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Bothered.",
+            "B": "Amazed.",
+            "C": "Puzzled.",
+            "D": "Excited."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "Maintain the traditional organizational culture.",
+            "B": "Learn new ways of relating and working together.",
+            "C": "Follow closely the fast development of technology.",
+            "D": "Learn to be respectful in a hierarchical organization."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "How the team integrates with what it is supposed to serve.",
+            "B": "How the team is built to keep improving its performance.",
+            "C": "What type of personnel the team should be composed of.",
+            "D": "What qualifications team members should be equipped with."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "A team manager must set very clear and high objectives.",
+            "B": "Teams must consist of members from different cultures.",
+            "C": "Team members should be knowledgeable and creative.",
+            "D": "A team manager should develop a certain set of skills."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "It is a platform for sharing ideas on teaching at the University of Illinois.",
+            "B": "It was mainly used by scientists and technical people to exchange text.",
+            "C": "It started off as a successful program but was unable to last long.",
+            "D": "It is a program allowing people to share information on the Web."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "He visited a number of famous computer scientists.",
+            "B": "He met with an entrepreneur named Jim Clark.",
+            "C": "He sold a program developed by his friends.",
+            "D": "He invested in a leading computer business."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "They had confidence in his new ideas.",
+            "B": "They trusted his computer expertise.",
+            "C": "They were very keen on new technology.",
+            "D": "They believed in his business connections."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Prestige advertising.",
+            "B": "Institutional advertising.",
+            "C": "Word of mouth advertising.",
+            "D": "Distributing free trial products."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "To sell a particular product.",
+            "B": "To build up their reputation.",
+            "C": "To promote a specific service.",
+            "D": "To attract high-end consumers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "By using the services of large advertising agencies.",
+            "B": "By hiring their own professional advertising staff.",
+            "C": "By buying media space in leading newspapers.",
+            "D": "By creating their own ads and commericais."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Decide on what specific means of communication to employ.",
+            "B": "Conduct a large-scale survey on customer needs.",
+            "C": "Specify the objectives of the campaign in detail.",
+            "D": "Pre-test alternative ads or commercials in certain regions."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to\nselect one word for each blank from a list of choices given in a word bank\nfollowing the passage. Read the passage through carefully before making\nyour choices.Each choice in the bank is identified by a letter. Please mark\ntho corresponding letter for each item on Answer Sheet 2 with a single\nline through tho centre. You may not use any of tho words in the bank\nmore than once.\nQuestions 36 to 45 are based on the following passage.\nIt seems to be a law in the technology industry that leading companies eventually\nlose their positions, often quickly and brutally.Mobile phone champion Nokia, one of\nEurope's biggest technology success stories, was no 36 , losing its market share in just\na few years.\nIn 2007, Nokia accounted for more than 40% of mobile phone sales 37 But\nconsumers' preferences were already 38 toward touch-screen smartphones. With the\nintroduction of Apple's iPhone in the middle of that year, Nokia's market share 39\nrapidly and revenue plunged. By the end of 2013, Nokia had sold its phone business\n\nto Microsoft.\nWhat sealed Nokia's fate was a series of decisions made by Stephen Elop in his\nposition as CEO,which he 40 in October 2010. Each day that Elop spent in charge of\nNokia, the company's market value declined by $ 23 million, making him, by the\nnumbers, one of the worst CEO in history. But Elop was not the only person at 41\nNokia's board resisted change, making it impossible for the company to adapt to rapid\nshifts in the industry. Most 42 , Jorma Ollila, who had led Nokia's transition from an\nindustrial company to a technology giant, was too fascinated by the company's 43\nsuccess to recognize the change that was needed to sustain its competitiveness. The\ncompany also embarked on a 44 cost-cutting program, which included the 45\nelimination of which had motivated employees to take risks and make miracles. Good\nleaders left the company, taking Nokia's sense of vision and directions with them. Not\nsurprisingly, much of Nokia's most valuable design and programming talent left as\nwell.",
+      "wordBank": {
+        "A": "Assumed",
+        "B": "Bias",
+        "C": "Desperate",
+        "D": "Deterioration",
+        "E": "Exception",
+        "F": "Fault",
+        "G": "Incidentally",
+        "H": "Notably",
+        "I": "Previous",
+        "J": "Relayed",
+        "K": "Shifting",
+        "L": "Shrank",
+        "M": "Subtle",
+        "N": "Transmitting",
+        "O": "Worldwide"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": []
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 56 to 60 are based on the following passage.\nSaying they can no longer ignore the rising prices of health care, some of the\nmost influential medical groups in the nation are recommending that doctors weigh\nthe costs, not just the effectiveness of treatments, as they make decisions about patient\ncare. The shift, little noticed outside the medical establishment but already\ncontroversial inside it, suggests that doctors are starting to redefine their roles, from\nbeing concerned exclusively about individual patients to exerting influence on how\nhealth care dollars are spent. In practical terms, the new guidelines\nbeing developed\ncould result in doctors choosing one drug over another for cost reasons or even\n\ndeciding that a particular treatment-at the end of life, for example-is too expensive. In\nthe extreme, some critics have said that making treatment decisions based on cost is a\nform of rationing. Traditionally, guidelines have heavily influenced the practice of\nmedicine, and the latest ones are expected to make doctors more conscious of the\neconomic consequences of their decisions, even though there's no obligation to follow\nthem. Medical society guidelines are also used by insurance companies to help\ndetermine reimbursement (报销) policies. Some doctors see a potential conflict in\ntrying to be both providers of patient care and financial\nOverseers. \"There should be forces in society who should be concerned about the\nbudget, but they shouldn't be functioning simultaneously as doctors,\" said Dr. Martin\nSamuels at a Boston hospital. He said doctors risked losing the trust of patients if they\ntold patients, \"I'm not going to do what I think is best for you because I think it's bad\nfor the health care budget in Massachusetts.\n\" Doctors can face some grim trade-offs.\nStudies have shown, for example, that two drugs are about\nequally effective in treating macular degeneration, and eye disease. But one costs\n$ 50 a dose and the other close to $ 2,000. Medicare could save hundreds of millions\nof dollars a year if everyone used the cheaper drug, Avastin, instead of the costlier one,\nLucentis. But the Food and Drug Administration has not approved Avastin for use in\nthe eye. and using it rather than the alternative, Lucentis, might carry an additional,\naltheugh slight, safety risk. Should doctors consider Medicare's budget in deciding\nwhat to use?\" I think ethically (在道德层面上) we are just worried about the patient\nin front of us and not trying to save money for the insurance industry or society as a\nwhole,\" said Dr. Donald Jensen. Still, some analysts say that there's a role for doctors\nto play in cost analysis because not many others are doing so. \"In some ways,\" said Dr.\nDaniel Sulmasy, \"it represents a failure of wider society to take up the issue. \"",
+          "questions": [
+            {
+              "id": "q56",
+              "number": 56,
+              "stem": "What do some most influential medical groups recommend doctors do?",
+              "options": {
+                "A": "Reflect on the responsibilities they are supposed to take.",
+                "B": "Pay more attention to the effectiveness of their treatments.",
+                "C": "Take costs into account when making treatment decisions.",
+                "D": "Readjust their practice in view of the cuts in health care."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q57",
+              "number": 57,
+              "stem": "What were doctors mainly concerned about in the past?",
+              "options": {
+                "A": "Specific medicines to be used.",
+                "B": "Effects of medical treatment.",
+                "C": "Professional advancement.",
+                "D": "Patients' trust."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q58",
+              "number": 58,
+              "stem": "What may the new guidelines being developed lead to?",
+              "options": {
+                "A": "The redefining of doctors' roles.",
+                "B": "Overuse of less effective medicines.",
+                "C": "Conflicts between doctors and patients.",
+                "D": "The prolonging of patients' suffering."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q59",
+              "number": 59,
+              "stem": "What risk do doctors see in their dual role as patient care providers and financial overseers?",
+              "options": {
+                "A": "They may be involved in a conflict of interest.",
+                "B": "They may be forced to divide their attention.",
+                "C": "They may have to use less effective drugs.",
+                "D": "They may lose the respect of patients."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q60",
+              "number": 60,
+              "stem": "What do some experts say about doctors' involvement in medical cost analysis?",
+              "options": {
+                "A": "It may add to doctors' already heavy workloads.",
+                "B": "It will help to save money for society as a whole.",
+                "C": "It results from society's failure to tackle the problem.",
+                "D": "It raises doctors' awareness of their social responsibilities."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 61 to 65 are based on the following passage.\nEconomic inequality is the \"defining challenge of our time,\" President Barack\nObama declared in a speech last month to the Center for American Progress.\nInequality is dangerous, he argued, not merely because it doesn't look good to have a\nlarge gap between the rich and the poor, but because inequality itself destroys upward\nmobility, making it harder for the poor to escape from poverty. \"Increased inequality\nand decreasing mobility pose a fundamental threat to the American Dream,\" he said.\nObama is only the most prominent public figure to declare inequality Public Enemy\nNo. 1 and the greatest threat to reducing poverty in America. A number of prominent\neconomists have also argued that it's harder for the poor to climb the economic ladder\ntoday because the rungs (横档) in that ladder have grown farther apart.\nFor all the new attention devoted to the 1 percent, a new damset from the\nEquality of Opportunity Project at Harvard and Berkeley suggests that, if we care\nabout upward mobility overall, we're vastly exaggerating the dangers of the\nrich—poor gap. Inequality itself is not a particularly strong predictor of economic\nmobility, as sociologist Scott Winship noted in a recent article based on his analysis of\nthis data. So what factors, at the community level, do predict if poor children will\nmove up the economic ladder as adtdts? what explains, for instance, why the Salt\nLake City metro area is one of the 100 largest metropolitan areas most likely to lift the\nfortunes of the poor and the Atlanta metro area is one of the least likely?\nHarvard economist Raj Cherty has pointed to economic and racial segregation,\ncommunity density, the size of a community's middle class, the quality of schools,\ncommunity religiosity, and family structure, which he calls the \"single strongest\ncorrelate of upward mobility. \" Chetty finds that communities like Salt Lake City,\nwith high levels of two-parent families and religiosity, are much more likely to see\npoor children get ahead than communities like Atlanta, with high levels of racial and\neconomic segregation. Chetty has not yet issued a comprehensive analysis of the\nrelative predictive power of each of these factors. Based on my analyses of the data.\nof the factors that Chetty has highlighted, the following three seem to be most\npredictive of upward mobility in a given community:\n1.Per-capita (人均) income growth\n2.Prevalence of single mothers ( where correlation is strong, but negative)\n3.Per-capita local government spending In other words, communities with high\nlevels of per-capita income growth, high percentages of two-parent families, and high\n\nlocal government spending-which may stand for good schools-are the most likely to\nhelp poor children relive Horatio Alger's rags-to-riches story.",
+          "questions": [
+            {
+              "id": "q61",
+              "number": 61,
+              "stem": "How does Obama view economic inequality?",
+              "options": {
+                "A": "It is the biggest obstacle to social mobility.",
+                "B": "It is the greatest threat to social stability.",
+                "C": "It is the No. 1 enemy of income growth.",
+                "D": "It is the most malicious social evil of our time."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q62",
+              "number": 62,
+              "stem": "What do we learn about the inequality gap from Scott Winship's data analysis?",
+              "options": {
+                "A": "It is fast widening across most parts of America.",
+                "B": "It is not a reliable indicator of economic mobility.",
+                "C": "It is not correctly interpreted.",
+                "D": "It is overwhelmingly ignored."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q63",
+              "number": 63,
+              "stem": "Compared with Atlanta, metropolitan Salt Lake City is said to",
+              "options": {
+                "A": "have placed religious beliefs above party politics",
+                "B": "have bridged the gap between the rich and the poor",
+                "C": "offer poor children more chances to climb the social ladder",
+                "D": "suffer from higher levels of racial and economic segregation"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q64",
+              "number": 64,
+              "stem": "What is strongly correlated with social mobility according to economist Raj Cherty?",
+              "options": {
+                "A": "Family structure.",
+                "B": "Racial equality.",
+                "C": "School education.",
+                "D": "Community density."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q65",
+              "number": 65,
+              "stem": "What does the author seem to suggest?",
+              "options": {
+                "A": "It is important to increase the size of the middle class.",
+                "B": "It is highly important to expand the metropolitan areas.",
+                "C": "It is most imperative to focus our efforts on the elimination of income inequality.",
+                "D": "It is better to start from the community to help poor children move up the social ladder."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from\nChinese into English. You should write your answer on Answer Sheet 2.",
+      "source": "在中国，父母总是竭力帮助孩子，甚至为孩子做重要决定，而不管孩子想要什么，因为他们相信这样做是为孩子好。结果，孩子的成长和教育往往屈从于父母的意愿如果父母决定为孩子报名参加一个课外班，以增加其被重点学校录取的机会，他们会坚持自己的决定。即使孩子根本不感兴趣。然而在美国，父母很可能会尊重孩子的意见，并在决策时更注重他们的意见。中国父母十分重视教育或许值得称赞。然而，他们应向美国父母学习在涉及教育时如何平衡父母与子女间的关系。【参考答案】【参考范文】【翻译参考译文】",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

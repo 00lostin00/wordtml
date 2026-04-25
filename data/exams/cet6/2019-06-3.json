@@ -1,0 +1,347 @@
+{
+  "id": "cet6-2019-06-3",
+  "type": "cet6",
+  "year": 2019,
+  "month": 6,
+  "set": 3,
+  "title": "2019年6月大学英语六级真题(第3套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of motivation and methods in learning. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word\nfor each blank from a list of choices given in a word bank following the passage. Read the passage\nthrough carefully before making your choices. Each choice in the bank is identified by a letter.\nPlease mark the corresponding letter for each item on Answer Sheet 2 with a single line\nthrough the centre. You may not use any of the words in the bank more than once.\nQuestions 26 to 35 are based on the following passage.\nSteel is valued for its reliability, but not when it gets cold. Most forms of steel\n\nbecome\nbrittle (脆的) at temperatures below about -25℃unless they are mixed with other metals. Now,\nthough, a novel type of steel has been developed that resists\n\nat much lower temperatures,\nwhile retaining its strength and toughness - without the need for expensive\n\n.\nSteel's fragility at low temperatures first became a major concern during the Second World\nWar. After German U-boats torpedoed (用鱼雷攻击) numerous British ships, a 2700-strong fleet\nof cheap-and-cheerful “Liberty ships” was introduced to replace the lost vessels, providing a\nlifeline for the\n\nBritish. But the steel shells of hundreds of the ships\n\nin the icy north\nAtlantic, and 12 broke in half and sank.\nBrittleness remains a problem when building steel structures in cold conditions, such as oil\nrigs in the Arctic. So scientists have\n\nto find a solution by mixing it with expensive metals\nsuch as nickel.\nYuuji Kimura and colleagues in Japan tried a more physical\n\nRather than adding other\nmetals, they developed a complex mechanical process involving repeated heating and very severe\nmechanical deformation, known as tempforming.\nThe resulting steel appears to achieve a combination of strength and toughness that is\n\nto that of modem steels that are very rich in alloy content and, therefore, very expensive.\nKimura's team intends to use its tempformed steel to make ultra-high strength parts, such as\nbolts. They hope to reduce both the number of\n\nneeded in a construction job and their weight\n- 1 -\n\n—by replacing solid supports with\n\ntubes, for example. This could reduce the amount of\nsteel needed to make everything from automobiles to buildings and bridges.",
+      "wordBank": {
+        "A": "abruptly",
+        "I": "cracked",
+        "B": "additives",
+        "J": "fractures",
+        "C": "approach",
+        "K": "hollow",
+        "D": "ardently",
+        "L": "relevant",
+        "E": "besieged",
+        "M": "reshuffled",
+        "F": "channel",
+        "N": "strived",
+        "G": "comparable",
+        "O": "violent",
+        "H": "components"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Given the easier accessibility to space, it is time to think about how to prevent misuse of\nsatellites.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "A group of mini-satellites can work together to accomplish more complex tasks.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "The greater accessibility of mini-satellites increases the risks of their irresponsible use.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Even school pupils can have their CubeSats put in orbit owing to the lowered launching\ncost.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "AMSAT is careful about sharing information with outsiders to prevent hijacking of their\nsatellites.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "NASA offers to launch CubeSats free of charge for educational and research purposes.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Even with constraints, it is possible for some creative developers to take the CubeSat\ntechnology in directions that result in harmful outcomes.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "While making significant contributions to space science, CubeSats may pose hazards to\nother space vehicles.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Mini-satellites enable operators to study Earth from LEO and space around it.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "AMSAT operates on the principle of having all its technical data accessible to its\nmembers, preventing the abuse of amateur satellites.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nWhen I re-entered the full-time workforce a few years ago after a decade of solitary\nself-employment, there was one thing I was looking forward to the most: the opportunity to have\nwork friends once again. It wasn’t until I entered the corporate world that I realized, for me at least,\nbeing friends with colleagues didn’t emerge as a priority at all. This is surprising when you\nconsider the prevailing emphasis by scholars and trainers and managers on the importance of\ncultivating close interpersonal relationships at work. So much research has explored the way in\nwhich collegial ( 同事的) ties can help overcome a range of workplace issues affecting\nproductivity and the quality of work output such as team-based conflict, jealousy, undermining,\nanger, and more.\nPerhaps my expectations of lunches, water-cooler gossip and caring, deep-and-meaningful\nconversations were a legacy of the last time I was in that kind of office environment. Whereas now,\nas I near the end of my fourth decade, I realize work can be fully functional and entirely fulfilling\nwithout needing to be best mates with the people sitting next to you.\nIn an academic analysis just published in the profoundly-respected Journal of Management,\nresearchers have looked at the concept of “indifferent relationships”. It’s a simple term that\nencapsulates ( 概括) the fact that relationships at work can reasonably be non-intimate,\ninconsequential, unimportant and even, dare I say it, disposable or substitutable.\nIndifferent relationships are neither positive nor negative. The limited research conducted\nthus far indicates they’re especially dominant among those who value independence over\ncooperation, and harmony over confrontation. Indifference is also the preferred option among\nthose who are socially lazy. Maintaining relationships over the long term takes effort. For some of\nus, too much effort.\nAs noted above, indifferent relationships may not always be the most helpful approach in\nresolving some of the issues that pop up at work. But there are nonetheless several empirically\nproven benefits. One of those is efficiency. Less time chatting and socializing means more time\nworking and churning (产出).\nThe other is self-esteem. As human beings, we’re primed to compare ourselves to each other\nin what is an anxiety-inducing phenomenon. Apparently, we look down on acquaintances more so\nthan friends. Since the former is most common among those inclined towards indifferent\nrelationships, their predominance can bolster individuals’ sense of self-worth.\nEgo aside, a third advantage is that the emotional neutrality of indifferent relationships has\nbeen found to enhance critical evaluation, to strengthen one’s focus on task resolution, and to gain\ngreater access to valuable information. None of that might be as fun as after-work socializing but,\nhey, I’ll take it anyway.\n- 5 -",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What did the author realize when he re-entered the corporate world?",
+              "options": {
+                "A": "Making new friends with his workmates was not as easy as he had anticipated.",
+                "B": "Cultivating positive interpersonal relationships helped him expel solitary feelings.",
+                "C": "Working in the corporate world requires more interpersonal skills than self-employment.",
+                "D": "Building close relationships with his colleagues was not as important as he had expected."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What do we learn from many studies about collegial relationships?",
+              "options": {
+                "A": "Inharmonious relationships have an adverse effect on productivity.",
+                "B": "Harmonious relationships are what many companies aim to cultivate.",
+                "C": "Close collegial relationships contribute very little to product quality.",
+                "D": "Conflicting relationships in the workplace exist almost everywhere."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What can be inferred about relationships at work from an academic analysis?",
+              "options": {
+                "A": "They should be cultivated.",
+                "B": "They are virtually irrelevant.",
+                "C": "They are vital to corporate culture.",
+                "D": "They should be reasonably intimate."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What does the author say about people who are socially lazy?",
+              "options": {
+                "A": "They feel Uncomfortable when engaging in social interactions.",
+                "B": "They often find themselves in confrontation with their colleagues.",
+                "C": "They are Unwilling to make efforts to maintain Workplace relationships.",
+                "D": "They lack basic communication skills in dealing with interpersonal issues."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What is one of the benefits of indifferent relationships?",
+              "options": {
+                "A": "They provide fun at Work.",
+                "B": "They help control emotions.",
+                "C": "They help resolve differences.",
+                "D": "They improve Work efficiency."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nIn a few decades, artificial intelligence (AI) will surpass many of the abilities that we believe\nmake us special. This is a grand challenge for our age and it may require an “irrational” response.\nOne of the most significant pieces of news from the US in early 2017 was the efforts of\nGoogle to make autonomous driving a reality. According to a report, Google’s self-driving cars\nclocked 1,023,330 km, and required human intervention 124 times. That is one intervention about\nevery 8,047 km of autonomous driving. But even more impressive is the progress in just a single\nyear: human interventions fell from 0.8 times per thousand miles to 0.2, a 400% improvement.\nWith such progress, Google’s cars will easily surpass my own driving ability later this year.\nDriving once seemed to be a very human skill. But we said that about chess, too. Then a\ncomputer beat the human world champion, repeatedly. The board game Go (围棋) took over from\nchess as a new test for human thinking in 2016, when a computer beat one of the world’s leading\nprofessional Go players. With computers conquering what used to be deeply human tasks, what\nwill it mean in the future to be human? I worry about my six-year-old son. What will his place be\n- 6 -\n\nin a world where machines beat us in one area after another? He’ll never calculate faster, never\ndrive better, or even fly more safely. Actually, it all comes down to a fairly simple question:\nWhat’s so special about us? It can’t be skills like arithmetic, which machines already excel in. So\nfar, machines have a pretty hard time emulating creativity, arbitrary enough not to be predicted by\na computer, and yet more than simple randomness.\nPerhaps, if we continue to improve information-processing machines, we’ll soon have helpful\nrational assistants. So we must aim to complement the rationality of the machine, rather than to\ncompete with it. If I'm right, we should foster a creative spirit because a dose of illogical creativity\nwill complement the rationality of the machine. Unfortunately, however, our education system has\nnot caught up to the approaching reality. Indeed, our schools and universities are structured to\nmould pupils to be mostly obedient servants of rationality, and to develop outdated skills in\ninteracting with outdated machines. We need to help our children learn how to best work with\nsmart computers to improve human decision-making. But most of all we need to keep the\nlong-term perspective in mind: that even if computers will outsmart us, we can still be the most\ncreative. Because if we aren’t, we won’t be providing much value in future ecosystems, and that\nmay put in question the foundation for our existence.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What is the author’s greatest concern about the use of AI?",
+              "options": {
+                "A": "Computers are performing lots of creative tasks.",
+                "B": "Many abilities will cease to be unique to human beings.",
+                "C": "Computers may become more rational than humans.",
+                "D": "Many human skills are fast becoming outdated."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What impresses the author most in the field of AI?",
+              "options": {
+                "A": "Google’s experimental driverless cars require little human intervention.",
+                "B": "Google’s cars have surpassed his driving ability in just a single year.",
+                "C": "Google has made huge progress in autonomous driving in a short time.",
+                "D": "Google has become a world leader in the field of autonomous driving."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What do we learn from the passage about creativity?",
+              "options": {
+                "A": "It is rational.",
+                "B": "It is predictable.",
+                "C": "It is human specific.",
+                "D": "It is yet to be emulated by AI."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What should schools help children do in the era of AI?",
+              "options": {
+                "A": "Cultivate original thinking.",
+                "B": "Learn to work independently.",
+                "C": "Compete with smart machines.",
+                "D": "Understand how AI works."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "How can we humans justify our future existence?",
+              "options": {
+                "A": "By constantly outsmarting computers.",
+                "B": "By adopting a long-term perspective.",
+                "C": "By rationally compromising with AI.",
+                "D": "By providing value with our creativity. - 7 -"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into \nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "汉语现在是世界上用作本族语人数最多的语言。汉语与西方语言的一个重要区别在于它是以方块字(character)而不是以字母构成的。目前仍在使用的书写系统中，汉语是最古老的。在中国，来自不同地区的人可能听不懂对方的方言，但由于汉子有统一的书写形式，他们交流起来几乎没有任何困难。汉语历史上对团结中华民族发挥了重要作用。今天，随着中国经济的快速增长和全球影响力的增强，越来越多其他国家的人也开始学习汉语。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

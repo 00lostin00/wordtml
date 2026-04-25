@@ -1,0 +1,660 @@
+{
+  "id": "cet6-2017-06-1",
+  "type": "cet6",
+  "year": 2017,
+  "month": 6,
+  "set": 1,
+  "title": "2017年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "He would feel insulted.",
+            "B": "He would feel very sad.",
+            "C": "He would be embarrassed.",
+            "D": "He would be disappointed."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "They are worthy of a prize.",
+            "B": "They are of little value.",
+            "C": "They make good reading.",
+            "D": "They need improvement."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "He seldom writes a book straight through.",
+            "B": "He writes several books simultaneously.",
+            "C": "He draws on his real-life experiences.",
+            "D": "He often turns to his wife for help."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "Writing a book is just like watching a football match.",
+            "B": "Writers actually work every bit as hard as footballers.",
+            "C": "He likes watching a football match after finishing a book.",
+            "D": "Unlike a football match, there is no end to writing a book."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "Achievements of black male athletes in college.",
+            "B": "Financial assistance to black athletes in college.",
+            "C": "High college dropout rates among black athletes.",
+            "D": "Undergraduate enrollments of black athletes."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "They display great talent in every kind of game.",
+            "B": "They are better at sports than at academic work.",
+            "C": "They have difficulty finding money to complete their studies.",
+            "D": "They make money for the college but often fail to earn a degree."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "About 15%.",
+            "B": "Around 40%.",
+            "C": "Slightly over 50%.",
+            "D": "Approximately 70%."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "Coaches lack the incentive to graduate them.",
+            "B": "College degrees do not count much to them.",
+            "C": "They have little interest in academic work.",
+            "D": "Schools do not deem it a serious problem."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "Marketing strategies.",
+            "B": "Holiday shopping.",
+            "C": "Shopping malls.",
+            "D": "Online stores."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "About 50% of holiday shoppers.",
+            "B": "About 20-30% of holiday shoppers.",
+            "C": "About 136 million.",
+            "D": "About 183.8 million."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "They have fewer customers.",
+            "B": "They find it hard to survive.",
+            "C": "They are thriving once more.",
+            "D": "They appeal to elderly customers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "Better quality of consumer goods",
+            "B": "Higher employment and wages.",
+            "C": "Greater varieties of commodities.",
+            "D": "People having more leisure time."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "They are new species of big insects.",
+            "B": "They are over prescribed antibiotics.",
+            "C": "They are life-threatening diseases.",
+            "D": "They are antibiotic-resistant bacteria."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "Antibiotics are now in short supply.",
+            "B": "Many infections are no longer curable.",
+            "C": "Large amounts of tax money are wasted.",
+            "D": "Routine operations have become complex."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Facilities.",
+            "B": "Expertise.",
+            "C": "Money.",
+            "D": "Publicity."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "It is accessible only to the talented.",
+            "B": "It improves students’ ability to think.",
+            "C": "It starts a lifelong learning process.",
+            "D": "It gives birth to many eminent scholars."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "They encourage academic democracy.",
+            "B": "They promote globalization.",
+            "C": "They uphold the presidents' authority.",
+            "D": "They protect students’ rights."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "His thirst for knowledge.",
+            "B": "His eagerness to find a job.",
+            "C": "His contempt for authority.",
+            "D": "His potential for leadership."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "Few people know how to retrieve information properly.",
+            "B": "People can enhance their memory with a few tricks.",
+            "C": "Most people have a rather poor long-term memory.",
+            "D": "People tend to underestimate their mental powers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "They present the states in a surprisingly different order.",
+            "B": "They include more or less the same number of states.",
+            "C": "They are exactly the same as is shown in the atlas.",
+            "D": "They contain names of the most familiar states."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Focusing on what is likely to be tested.",
+            "B": "Having a good sleep the night before.",
+            "C": "Reviewing your lessons where the exam is to lake place.",
+            "D": "Making sensible decisions while choosing your answers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Discover when you can learn best.",
+            "B": "Change your time of study daily.",
+            "C": "Give yourself a double bonus afterwards.",
+            "D": "Follow the example of a marathon runner."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "He is a politician.",
+            "B": "He is a businessman.",
+            "C": "He is a sociologist.",
+            "D": "He is a economist"
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "In slums.",
+            "B": "In Africa.",
+            "C": "In pre-industrial societies.",
+            "D": "In developing countries."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required\nto select one word for each blank from a list of choices given in a\nword bank following the passage. Read the passage through\ncarefully before making your choices, Each choice in the bank is\nidentified by a letter. Please mark the corresponding letter for each\nitem on Answer Sheet 2 with a single line through the centre. You\nmay not use any of the words in the bank more than once.\nQuestions 26 to 35 are based on the following passage.\nAfter becoming president of Purdue University in 2013, Mitch Daniels\nasked the faculty to prove that their students have actually achieved one of\nhigher education’s most important goals: critical thinking skills. Two years\nbefore, a nationwide study of college graduates had shown that more than a third\nhad made no (26)_______ gains in such mental abilities during their school\nyears. Mr. Daniels needed to(27)_______ the high cost of attending Purdue to its\nstudents and their families. After all, the percentage of Americans who say a\ncollege degree is “very important” has fallen (28)_______ in the last 5-6 years.\nPurdue now has a pilot test to assess students’ critical thinking skills. Yet\nlike many college teachers around the U.S., the faculty remain (29)_______ that\ntheir work as educators can be measured by a“learning (30)_______ ” such as a\ngraduate’s ability to investigate and reason. However, the professors need not\nworry so much. The results of a recent experiment showed that professors can\nuse (31)_______ metrics to measure how well students do in three key areas:\ncritical thinking, written communication, and quantitative literacy.\nDespite the success of the experiment, the actual results are worrisome, and\nmostly (32)_______ earlier studies. The organizers of the experiment concluded\nthat far fewer students were achieving at high levels on critical thinking than\n\nthey were doing for written communication or quantitative literacy. And that\nconclusion is based only on students nearing graduation.\nAmerican universities, despite their global (33)_______ for excellence in\nteaching, have only begun to demonstrate what they can produce in real-world\nlearning.\nKnowledge-based\ndegrees\nare\nstill\nimportant,but\nemployers\nare\n(34)_______ advanced thinking skills from college graduates. If the intellectual\nworth of a college degree can be (35)_______ measured, more people will seek\nhigher education—and come out better thinkers.",
+      "wordBank": {
+        "A": "Accurately",
+        "B": "Confirm",
+        "C": "Demanding",
+        "D": "Doubtful",
+        "E": "Drastically",
+        "F": "Justify",
+        "G": "Monopolized",
+        "H": "Outcome",
+        "I": "Predominance",
+        "J": "Presuming",
+        "K": "Reputation",
+        "L": "Significant",
+        "M": "Signify",
+        "N": "Simultaneously",
+        "O": "Standardized"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "A number of factors are driving down the global oil prices not just for\nnow but in the foreseeable\nfuture.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Pricing carbon proves the most economical way to reduce greenhouse\ngas emissions.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "It is estimated that extreme weather conditions have endangered the\nlives of millions of African\nchildren.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "The prices of coal are low as a result of over-supply and decreasing\ndemand.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Higher fossil fuel prices prove to be conducive to innovation and\napplication of cleaner technology.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "If fossil fuel prices remain low for a long time, it may lead to higher\nemissions of greenhouse gases.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Fossil fuels remain the major source of primary energy consumption in\ntoday's world.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Even major fossil fuel exporting countries have great potential to\ndevelop renewable energies.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Greenhouse gas emissions, if not properly dealt with, will pose endless\nrisks for mankind.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "It is urgent for governments to increase the cost of using fossil fuels to\nan appropriate level to lessen the catastrophic effects of climate change.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\n\nOpen data sharers are still in the minority in many fields. Although many\nresearchers broadly agree that public access to raw data would accelerate\nscience, most are reluctant to post the results of their own labors online.\nSome communities have agreed to share online—geneticists, for example,\npost DNA sequences at the GenBank repository ( 库) ，and astronomers are\naccustomed to accessing images of galaxies and stars from, say, the Sloan\nDigital Sky Survey, a telescope that has observed some 500 million objects—but\nthese remain the exception, not the rule. Historically, scientists have objected to\nsharing for many reasons: it is a lot of work; until recently, good databases did\nnot exist; grant funders were not pushing for sharing; it has been difficult to\nagree on standards for formatting data; and there is no agreed way to assign\ncredit for data.\nBut the barriers are disappearing, in part because journals and funding\nagencies worldwide are encouraging scientists to make their data public. Last\nyear, the Royal Society in London said in its report that scientists need to “shift\naway from a research culture where data is viewed as a private preserve”.\nFunding agencies note that data paid for with public money should be public\ninformation and the scientific community is recognizing that data can now be\nshared digitally in ways that were not possible before. To match the growing\ndemand, services are springing up to make it easier to publish research products\nonline and enable other researchers to discover and cite them.\nAlthough calls to share data often concentrate on the moral advantages of\nsharing, the practice is not purely altruistic (利他的).Researchers who share get\nplenty of personal benefits, including more connections with colleagues,\nimproved visibility and increased citations. The most successful sharers— those\nwhose data are downloaded and cited the most often—get noticed, and their\nwork\ngets\nused.\nFor\nexample,\none\nof\nthe\nmost\npopular\ndata\nsets\non\nmultidisciplinary repository Dryad is about wood density around the world; it\nhas been downloaded 5,700 times. Co-author Amy Zanne thinks that users\nprobably range from climate-change researchers wanting to estimate how much\ncarbon is stored in biomass, to foresters looking for information on different\ngrades of timber. “I’d much prefer to have my data used by the maximum\nnumber of people to ask their own questions,” she says. “It，s important to allow\nreaders and reviewers to see exactly how you arrive at your results. Publishing\ndata and code allows your science to be reproducible.”\nEven people whose data are less popular can benefit. By making the effort\nto organize and label files so others can understand them, scientists become\nmore organized and better disciplined themselves, thus avoiding confusion later\non.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What do many researchers generally accept?",
+              "options": {
+                "A": "It is imperative to protect scientists’ patents.",
+                "B": "Repositories are essential to scientific research.",
+                "C": "Open data sharing is most important to medical science.",
+                "D": "Open data sharing is conducive to scientific advancement."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What is the attitude of most researchers towards making their own data public?",
+              "options": {
+                "A": "Opposed.",
+                "B": "Ambiguous.",
+                "C": "Liberal.",
+                "D": "Neutral."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "According to the passage，what might hinder open data sharing?",
+              "options": {
+                "A": "The fear of massive copying.",
+                "B": "The lack of a research culture.",
+                "C": "The belief that research data is private intellectual property.",
+                "D": "The concern that certain agencies may make a profit out of it."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What helps lift some of the barriers to open data sharing?",
+              "options": {
+                "A": "The ever-growing demand for big data.",
+                "B": "The advancement of digital technology.",
+                "C": "The changing attitude of journals and funders.",
+                "D": "The trend of social and economic development."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "Dryad serves as an example to show how open data sharing_______.",
+              "options": {
+                "A": "is becoming increasingly popular",
+                "B": "benefits sharers and users alike",
+                "C": "makes researchers successful",
+                "D": "saves both money and labor"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nMacy’s reported its sales plunged 5.2% in November and December at\nstores open more than a year, a disappointing holiday season performance that\ncapped a difficult year for a department store chain facing wide-ranging\nchallenges.\nIts\nflagship\nstores\nin\nmajor\nU.S.\ncities\ndepend\nheavily\non\ninternational tourist spending, which shrank at many retailers due to a strong\ndollar. Meanwhile, Macy’s has simply struggled to lure consumers who are more\ninterested in spending on travel or dining out than on new clothes or accessories.\nThe company blamed much of the poor performance in November and\nDecember on unseasonably warm weather. “About 80% of our company’s\nyear-over-year declines in comparable sales can be attributed to shortfalls ( 短\n缺）in cold-weather goods ，” said chief executive Terry Lundgren in a press\nrelease.This prompted the company to cut its forecasts for the full fourth quarter.\nHowever, it’s clear that Macy’s believes its troubles run deeper than a\ntemporary aberration (偏离）off the thermometer. The retail giant said the poor\nfinancial performance this year has pushed it to begin implementing $400\nmillion in cost-cutting measures. The company pledged to cut 600 back-office\npositions, though some 150 workers in those roles would be reassigned to other\njobs. It also pluns to offer “voluntary separation” packages to 165 senior\nexecutives. It will slash staffing at its fleet of 770 stores, a move affecting some\n3,000 employees.\n\nThe retailer also announced the locations of 36 stores it will close in early\n2016. The company had previously announced the planned closures, but had not\nsaid which locations would be affected. None of the chain’s stores in the\nWashington metropolitan area are to be closed.\nMacy’s has been moving aggressively to try to remake itself for a new era\nof shopping. It has plans to open more locations of Macy’s Backstage, a\nnewly-developed off-price concept which might help it better compete with\nambitious T.J. Maxx. It’s also pushing ahead in 2016 with an expansion of\nBluemercury, the beauty chain it bought last year. At a time when young beauty\nshoppers are often turning to Sephora or Ulta instead of department store beauty\ncounters, Macy’s hopes Bluemercury will help strengthen its position in the\ncategory.\nOne relative bright spot for Macy’s during the holiday season was the\nonline channel, where rang up “double-digit” increases in sales and a 25%\nincrease in the number of orders it filled. That relative strength would be\nconsistent with what was seen in the wider retail industry during early part of\nthe holiday season. While Thanksgiving, Black Friday and Cyber Monday all\nsaw record spending online, in-store sales plunged over the holiday weekend.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What does the author say about the shrinking spending of international tourists in the U.S.?",
+              "options": {
+                "A": "It is attributable to the rising value of the U.S. dollar.",
+                "B": "It is a direct result of the global economic recession.",
+                "C": "It reflects a shift of their interest in consumer goods.",
+                "D": "It poses a potential threat to the retail business in the U.S."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What does Macy’s believe about its problems?",
+              "options": {
+                "A": "They can be solved with better management.",
+                "B": "They cannot be attributed to weather only.",
+                "C": "They are not as serious in its online stores.",
+                "D": "They call for increased investments."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "In order to cut costs, Macy’s decided to_______.",
+              "options": {
+                "A": "cut the salary of senior executives",
+                "B": "relocate some of its chain stores",
+                "C": "adjust its promotion strategies",
+                "D": "reduce the size of its staff"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "Why does Macy’s plan to expand Bluemercury in 2016?",
+              "options": {
+                "A": "To experiment on its new business concept.",
+                "B": "To focus more on beauty products than clothing.",
+                "C": "To promote sales of its products by lowering prices.",
+                "D": "To be more competitive in sales of beauty products."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What can we learn about Macy’s during the holiday season?",
+              "options": {
+                "A": "Sales dropped sharply in its physical stores.",
+                "B": "Its retail sales exceeded those of T.J. Maxx.",
+                "C": "It helped Bluemercury establish its position worldwide.",
+                "D": "It filled its stores with abundant supply of merchandise."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "明朝统治中国276 年，被人们描绘成人类历史上治理有序、社会稳定的最伟大的时代之一。这一时期，手工业的发展促进了市场经济和城市化。大量商品，包括酒和丝绸，都在市场销售。同时，还进口许多外国商品，如时钟和烟草。北京、南京、扬州、苏州这样的大商业中心相继形成。也是在明代，由郑和率领的船队曾到印度洋进行了七次规模探险航行。还值得一提的是，中国文学的四大经典名著中有三部写于明代。【参考答案】【参考范文】【翻译参考译文】",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

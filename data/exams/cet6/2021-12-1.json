@@ -1,0 +1,654 @@
+{
+  "id": "cet6-2021-12-1",
+  "type": "cet6",
+  "year": 2021,
+  "month": 12,
+  "set": 1,
+  "title": "2021年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay related to the short passage given below. In your essay, you are to comment on the phenomenon described in the passage and suggest measures to address the issue. You should write at least 150 words but no more than 200 words. Nowadays star chasing is prevalent among many teenagers. They take pop stars as their idols, imitating their way of talking, following their style of dressing, and seeking every chance to meet them in person at great expenses.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "It has given rise to much controversy.",
+            "B": "It has been very favorably received.",
+            "C": "It was primarily written for vegetarians.",
+            "D": "It offends many environmentalists."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "She neglects people’s efforts in animal protection.",
+            "B": "She tries to force people to accept her radical ideas.",
+            "C": "She ignores the various benefits of public transport.",
+            "D": "She insists vegetarians are harming the environment."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "They are significant.",
+            "B": "They are revolutionary.",
+            "C": "They are rational.",
+            "D": "They are modest."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "It would help to protect the environment.",
+            "B": "It would generate money for public health.",
+            "C": "It would need support from the general public.",
+            "D": "It would force poor people to change their diet."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "Where successful people’s strengths come from.",
+            "B": "Why many people fight so hard for success.",
+            "C": "How she achieved her life’s goal.",
+            "D": "What makes people successful."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Having someone who has confidence in them.",
+            "B": "Having someone who is ready to help them.",
+            "C": "Having a firm belief in their own ability.",
+            "D": "Having a realistic attitude towards life."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "They adjust their goals accordingly.",
+            "B": "They try hard to appear optimistic.",
+            "C": "They stay positive.",
+            "D": "They remain calm."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "An understanding leadership.",
+            "B": "A nurturing environment.",
+            "C": "Mutual respect among colleagues.",
+            "D": "Highly cooperative teammates."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "They use their sense of hearing to capture their prey.",
+            "B": "Their food mainly consists of small animals and fish.",
+            "C": "They have big eyes and distinctive visual centers.",
+            "D": "Their ancestor is different from that of micro bats."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "With the help of moonlight.",
+            "B": "By means of echo location.",
+            "C": "With the aid of daylight vision.",
+            "D": "By means of vision and smell."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "To make up for their natural absence of vision.",
+            "B": "To adapt themselves to a particular lifestyle.",
+            "C": "To facilitate their travel over long distances.",
+            "D": "To survive in the ever-changing weather."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "They acquire knowledge not found in books.",
+            "B": "They learn how to interact with their peers.",
+            "C": "They become more emotionally aggressive.",
+            "D": "They get much better prepared for school."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "They are far from emotionally prepared.",
+            "B": "They tend to be more attracted by images.",
+            "C": "They can’t follow the conflicts in the show.",
+            "D": "They lack the cognitive and memory skills."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "Choose appropriate programs for their children.",
+            "B": "Help their children understand the program’s plot.",
+            "C": "Outline the program’s plot for their children first.",
+            "D": "Monitor their children’s watching of TV programs."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Explain its message to their children.",
+            "B": "Check if their children have enjoyed it.",
+            "C": "Encourage their children to retell the story.",
+            "D": "Ask their children to describe its characters."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "They are afraid of injuring their feet.",
+            "B": "They have never developed the habit.",
+            "C": "They believe a little dirt harms no one.",
+            "D": "They find it rather troublesome to do so."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "Different types of bacteria existed on public-toilet floors.",
+            "B": "There were more bacteria on sidewalks than in the home.",
+            "C": "Office carpets collected more bacteria than elsewhere.",
+            "D": "A large number of bacteria collected on a single shoe."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "The chemicals on shoes can deteriorate air quality.",
+            "B": "Shoes can upset family members with their noise.",
+            "C": "The marks left by shoes are hard to erase.",
+            "D": "Shoes can leave scratches on the floor."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "It is sinfu",
+            "B": "It is deemed uncivilized.",
+            "C": "It is an uncontrollable behavior.",
+            "D": "It is a violation of faith and trust."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Assess their consequences.",
+            "B": "Guard against their harm.",
+            "C": "Accept them as normal.",
+            "D": "Find out their causes."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Try to understand what messages they convey.",
+            "B": "Pay attention to their possible consequences.",
+            "C": "Consider them from different perspectives.",
+            "D": "Make sure they are brought under control."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Cultivation of new varieties of crops.",
+            "B": "Measures to cope with climate change.",
+            "C": "Development of more effective pesticides.",
+            "D": "Application of more nitrogen-rich fertilizers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "For encouraging farmers to embrace new farming techniques.",
+            "B": "For aligning their research with advances in farming technology.",
+            "C": "For turning their focus to the needs of farmers in poorer countries.",
+            "D": "For cooperating closely with policymakers in developing countries."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Rapid transition to become a food exporter.",
+            "B": "Substantial funding in agricultural research",
+            "C": "Quick rise to become a leading grain producer.",
+            "D": "Assumption of humanitarian responsibilities."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to\nselect one word for each blank from a list of choices given in a word bank following\nthe passage. Read the passage through carefully before making your choices. Each\nchoice in the bank is identified by a letter. Please mark the corresponding letter for\neach item on Answer Sheet 2 with a single line through the centre. You may not use\nany of the words in the bank more than once.\nAccording to psychologist Sharon Draper, our clothing choices can absolutely\naffect our wellbeing. When we. wear ill-fitting clothes, or feel over- or under-dressed\nfor an event, it’s natural to feel self-conscious or even stressed. Conversely, she says,\nopting for clothes that fit well and _\n\nwith your sense of style can improve\nyour confidence.\nBut can you improve your health through your\n\nclothing, without having\nto dash out and buy a whole new\n\n? “Absolutely,” says Draper. If your goal is\nto improve your thinking, she recommends picking clothes that fit well and are\nunlikely to encourage restlessness, so, avoid bows, ties and unnecessary\n\n. It\nalso helps to opt for clothes you\n\nas tying in with your goals, so, if you want\nto perform better at work, select pieces you view as professional. Draper says this fits\nin with the concept of behavioral activation, whereby\n\nin a behavior (in this\ncase, selecting clothes) can set you on the path to then achieving your goals (working\nharder).\nAnother way to improve your\n\nof mind is to mix things up. Draper says\nwe often feel stuck in a rut (常规) if we wear the same clothes - even if they’re our\nfavorites - thus oping for an item you don’t wear often, or adding something different\nto an outfit, such as a hat, can\n\nshit your mood. On days when you’re really\n\nto brave the world, Draper suggests selecting sentimental items of clothing,\nsuch as ones you wore on a special day, or given to you by a loved one, as clothes\nwith\n\nassociations can help you tap into constructive emotions.",
+      "wordBank": {
+        "A": "accessories",
+        "B": "align",
+        "C": "concurrently",
+        "D": "current",
+        "E": "engaging",
+        "F": "fond",
+        "G": "frame",
+        "H": "locations",
+        "I": "perceive"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "According to the author, humans can hardly survive if separated from their\ncommunity.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "People often accept false beliefs because they prioritize social bonds rather than\nfacts.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Most often people learn from those close to them.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Sometimes people adopt certain beliefs in order to leave a favorable impression on\nthose dear to them.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Compared with face-to-face communication, books often provide a better medium\nfor changing people’s beliefs.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "On many occasions in daily life, people benefit more from their social bonds than\nfrom knowing the truth.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "If you want to change somebody’s beliefs, you should first establish social\nconnection with them.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Humans cannot survive without a fair knowledge of the actual world.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Repetition of bad ideas increases their chances of being accepted.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Nobody is willing to give up their beliefs at the risk of getting isolated.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nThe subject of automation and its role in our economy has taken hold in\nAmerican public discourse. Technology broadly and automation specifically are\ndramatically reshaping the way we work. And we need to have a plan for what’s still\nto come.\nWe don’t have to look further than our own communities to see the devastating\nimpact of automation. From automated warehouses to cashierless grocery stores to\nneighborhood libraries that offer self-checkout lanes instead of employing real\npeople—automation is increasingly replacing jobs and leaving too few good new\njobs behind.\nThe statistics in manufacturing are staggering. Despite the widespread fears\nabout trade, a recent report showed that just 13 percent of jobs lost in manufacturing\nare due to trade—the rest of the losses have been due to advances in technology.\nThat is why more people are criticizing the ever-increasing role of technology\nin our economy. Our country is manufacturing more than ever before, but we are\ndoing it with fewer workers. However it’s not just factories that are seeing\nlosses-software and information technology are also having a dramatic impact on\njobs most people think are secure from the forces of a rapidly-changing economy.\nSomething transformative is happening in America that is having an adverse effect\non American families. Whether policymakers and politicians admit it or not, workers\nhave made clear their feelings. about their economic insecurity and desire to keep\ngood jobs in America.\nSo why are people so insistent on ignoring the perils of automation? They are\nfailing to look ahead at a time when planning for the future is more important than\never. Resisting automation is futile: it is as inevitable as industrialization was before\nit. I sincerely hope that those who assert that automation will make us more effective\nand pave the way for new occupations are right, but the reality of automation’s\ndetrimental effects on workers makes me skeptical. No one can currently say where\nthe new jobs are coming from or when, and any sensible company or country should\nprepare for all alternatives.\nI’m not overstating the danger: look at what’s happened to the labor force.\nAccording to economic research, one in six working-age men, 25-54, doesn’t have a\njob. Fifty years ago, nearly 100 percent of men that age were working. Women’s labor\nforce participation, meanwhile, has slipped back to the level it was at in the late\n1980s.\nAmerican families and prominent business leaders are aware that there’s a big\nproblem with automation. The value of a college degree is diminishing, and our\nupward mobility is declining. If we want an economy that allows everyone to be\neconomically secure, we need to start thinking about how we can rightfully address\n\nautomation.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What can we observe from the author's description of our communities?",
+              "options": {
+                "A": "The growing passion for automation.",
+                "B": "The shift from manual jobs to IT ones.",
+                "C": "Their changing views on employment.",
+                "D": "Their fading employment opportunities."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What do we learn from a recent report?",
+              "options": {
+                "A": "The manufacturing sector is declining at a fast rate.",
+                "B": "The concerns about the effect of trade are exaggerated.",
+                "C": "The fears about trade have been spreading far and wide.",
+                "D": "The impact of trade on employment has been staggering."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What does the passage tell us about American workers in an era of transformation?",
+              "options": {
+                "A": "They feel ignored by politicians.",
+                "B": "They feel increasingly vulnerable.",
+                "C": "They keep adapting to the changes.",
+                "D": "They keep complaining but to no avail."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What does the author think of automation?",
+              "options": {
+                "A": "It will have the same impact as industrialization.",
+                "B": "It provides sensible companies with alternatives.",
+                "C": "Its alleged positive effects are doubtful.",
+                "D": "Its detrimental effects are unavoidable."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What should we attach importance to when dealing with automation?",
+              "options": {
+                "A": "College graduates’ job prospects.",
+                "B": "Women’s access to employment.",
+                "C": "People’s economic security.",
+                "D": "People’s social mobility"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nLook at the people around you. Some are passive, others more aggressive. Some\nwork best alone, others crave companionship. We easily recognize that there is great\nvariation among the individuals who live near us. Yet, when we speak of people from\nelsewhere, we seem to inevitably characterize them based on their country of origin.\nStatistics specialists, when they speak of national averages, often make the same\nmistake.\nNewly published research shows how erroneous such overviews are. Three\nresearchers analyzed decades of values-based surveys and found that only between\n16% and 21% of the variation in cultural values could be explained by differences\n\nbetween countries. In other words, the vast majority of what makes us culturally\ndistinct from one another has nothing to do with our homeland.\nTo determine what factors really are associated with culture, the authors\ncombined data from 558 prior surveys that each measured one more of Hofstede’s\ncultural dimensions. These are traits, such as individualism and masculinity, that\ndescribe work-related cultural values. (They are not a measure of visible cultural traits,\nsuch as food or dress.) Though the validity of Hofstede’s dimensions has been\nquestioned, they have the singular benefit of having been in use for decades, which\nallows for historical and international comparisons.\nThe researchers found that both demographic factors, such as age, and\nenvironmental factors, such as long-term unemployment rates, were more correlated\nwith cultural values than nationality. Occupation and social economic status were the\nmost strongly correlated, suggesting that our values are more economically driven\nthan we usually give them credit for.\nThe evidence implies that people with similar jobs and incomes are more\nculturally alike, regardless of where they live. Vas Taras, the lead author of the study,\nputs it this way:“Tell me how much you make and I will make a pretty accurate\nprediction about your cultural values. Tell me what your nationality is and I probably\nwill make a wrong prediction.”\nTaras says our erroneous belief that countries are cultures has caused businesses\nto teach their employees useless or even harmful ways of interacting with their\ninternational peers. Chinese and American lawyers might be trained to interact based\non the assumption that the Chinese person is less individualistic, even though their\nsimilar social economic situations make it probable they are actually quite alike in\nthat regard.\nThe country, as the unit of authority, is often a convenient way of generalizing\nabout a population. However, our focus on countries can mask broad variations within\nthem. In the majority of cases we would be better off identifying people by the factors\nthat constrain their lives, like income, rather than by the lines surrounding them on a\nmap.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What error do experts often make when describing people from other places?",
+              "options": {
+                "A": "They tend to overly rely on nationality.",
+                "B": "They often exaggerate their differences.",
+                "C": "They often misunderstand their cultures.",
+                "D": "They end to dwell on national averages."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What do we learn about Hofstede’s cultural dimensions?",
+              "options": {
+                "A": "They are useful in comparing cultural values across time and space.",
+                "B": "They have brought unusual benefits to people of different cultures.",
+                "C": "They are widely used to identify people’s individual traits.",
+                "D": "They provide valuable questions for researchers to study."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What did researchers find about previous studies on factors determining people’s  value?",
+              "options": {
+                "A": "Environmental factors were prioritized over other factors.",
+                "B": "An individual’s financial status was often underestimated.",
+                "C": "Too much emphasis had been placed on one’s occupation.",
+                "D": "The impact of social progress on one’s values was ignored."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What is the impact on employees when cultures are identified with countries?",
+              "options": {
+                "A": "They may fail to see the cultural biases of their business partners.",
+                "B": "They may fail to attach sufficient importance to cultural diversity.",
+                "C": "They may not be taught how to properly interact with overseas partners.",
+                "D": "They may not be able to learn the legal procedures for business transactions."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What does the author suggest at the end of the passage?",
+              "options": {
+                "A": "There is sufficient reason to generalize about a country’s population.",
+                "B": "The majority of people are still constrained by their national identity.",
+                "C": "It is arguable that the country should be regarded as the unit of authority.",
+                "D": "Nationality is less useful than socio-economic status as an indicator of one’s values."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English.\nYou should write your answer on Answer Sheet 2.",
+      "source": "中国共产党第一次全国代表大会会址位于上海兴业路76 号，是一栋典型的上海式住宅，建于1920 年秋。1921 年7 月23 日，中国共产党第一次全国代表大会在此召开，大会通过了中国共产党的第一个纲领和第一个决议，选举产生了中央领导机构，宣告了中国共产党的诞生。1952 年9 月，中共一大会址修复，建立纪念馆并对外开放。纪念馆除了介绍参加一大的代表之外，还介绍党的历史发展进程，现已成为了解党史、缅怀革命先烈的爱国主义教育基地。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

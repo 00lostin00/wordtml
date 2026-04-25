@@ -1,0 +1,2745 @@
+
+----- PAGE 1 -----
+、2022年考研英语（一）真题逐题细解 僵
+Section I Use of English
+•牧*侦
+今年英语知识运用部分选自2019年7月11日发表于美国的科学新闻网站Live Science （生活科学）上的一
+篇文章，原文标题为“Don't Waste Your Emotions on Plants, They Have No Feelings, Grumpy Scientists Say”（《暴 
+脾气的科学家说，不要把你的感情浪费在植物身上，它们没有感情》）。文章主要围绕“植物是否有意识”展开, 
+阐述了 "植物有意识”这一观点出现的背景及其理论支撑，并从两方面对这一观点进行驳斥，说明了 “植物不 
+可能有意识”。
+英汉对照】
+[1 ]®The idea that plants have some degree of consciousness 
+first took root in the early 2000s. —The term "plant neurobiology" 
+was (1) coined around the notion that some aspects of plant 
+behavior could be (2) compared to intelligence in animals. 
+❸(3) Though plants lack brains, the firing of electrical signals 
+in their stems and leaves nonetheless triggered responses that
+(4) hinted at consciousness, researchers previously reported.
+[2] ®But such an idea is untrue, according to a new opinion 
+article. •Plant biology is complex and fascinating, but it (5) differs 
+so greatly from that of animals that so-called (6) evidence of 
+plants* intelligence is inconclusive, the authors wrote.
+[3] SBeginning in 2006, some scientists have (7) argued 
+that plants possess neuron-like cells that interact with hormones 
+and neurotransmitters, (8) forming "a plant nervous system, 
+(9) analogous to that in animals," said lead study author Lincoln 
+Taiz. ♦"They (10) even claimed that plants have 4brain-like 
+command centers' at their root tips."
+[4] OThis (11) perspective makes sense if you simplify 
+the workings of a complex brain, (12) reducing it to an array 
+of electrical pulses; cells in plants also communicate through 
+electrical signals. • (13) However, the signaling in a plant is 
+only (14) superficially similar to the firing in a complex animal 
+brain, which is more than "a mass of cells that communicate by 
+electricity," Taiz said.
+[5] O "For consciousness to evolve, a brain with a threshold 
+(15) level of complexity and capacity is required," he (16) added. 
+❷ ''Since plants don't have nervous systems, the (17) chances 
+that they have consciousness are effectively zero."
+[6] ❶And what's so great about consciousness, anyway? 
+©Plants can't run away from (18) danger, so investing energy in a 
+body system which (19) recognizes a threat and can feel pain would
+“植物有一定程度的意识”这一观点最早在 
+21世纪初深入人心。“植物神经生物学”这一 
+术语被（1）创造出来是以这样一个概念力中心 
+的——植物行为的某些方面可能（2） 京）在 
+动物身上的表现担似。研究人员此甫〈浪道， 
+（3）尽管柱物没有大脑，但它们茎叶中电信号 
+的发射却能触发某些反应，这些反应（4）暗示 
+了植物是有意识的。
+但根据一篇新的观点类论文的说法，这一 
+观点是没有事实依据的。这篇论文的作者写 
+道：植物的生理习性复杂且有趣，但它与动物 
+的生理习性（5）差异如此之大，以至于所谓的 
+楂物有智力的（6）延据没有说服力。
+从2006年开始，一些科学家就已经 
+（7）主张楂物拥有与激素和神经递质相互作用 
+的神经元样细胞，（8）形成“（9）类似于动 
+物神经系统的楂物神经系统”，该论文的主要 
+研究作者林肯•泰兹说。"他们（10）甚至声 
+称植物的根尖处有'类似大脑的指挥中心'o ”
+如果把复杂的大脑的工作简化为一系列电 
+脉冲，这种（11）观点就是说得通的；植物的 
+细胞也通过电信号进行交流。（13）然而，植 
+物发射信号与复杂的动物大脑发射信号只是 
+（14）表面上相似，复杂的动物大脑不只是“通 
+过电来交流的大量细胞”，泰兹说。
+“意识的形成需要一个具有一定复杂性和容 
+量的大脑，”他（16）补充道。“既然植物没 
+有神经系统，那么它们有意识的（17）可能性 
+实际上是零。”
+那么意识到底有什么了不起的呢？这篇论 
+文指出：植物无法逃离（18）危险,因此，将 
+能量输入到一个（19）识别威胁并能感觉到疼 
+痛的机体系统中将是一种非常（20）糟糕的进
+be a very (20) poor evolutionary strategy, according to the article. 
+化策略。
+a
+
+----- PAGE 2 -----
+答案解析.
+.£
+第一步:逐段分析，逐题击破
+•The idea that plants have some
+“植物有意 
+识”的观 
+点曾深入 
+人心以及 
+“植物神经 
+生物学” 
+的诞生
+of consciousness first took root in the early 2000s.，The
+term "plant neurobiologyM was ] around the notion that some aspects of plant behavior 
+I 
+f
+could be 2 to intelligence in animals. • 3 plants lack brains, the firing of electrical 
+signals in their stems and leaves nonetheless triggered responses that 4 consciousness,
+researchers previously reported.
+1
+A. coined创造（新词语）；造（硬币） 
+B. discovered发现；找到，查明
+C. collected收集；收藏 
+D. issued宣布；发给；出版
+【答案解析】看本句：空格所在句提到，"植物神经生物学”这一术语被 是以这样一个概念为中心的……由 
+此无法得出正确答案，需联系上文解题，故进入第2步。看上下句：分析可知，设空处关键信息点为箭头指向 
+的空格前后部分。。句提到，“植物有一定程度的意识”这一观点最早在21世纪初深入人心。由该句可知，人 
+们对“植物有意识”的认识起步较晚，因此可判断“植物神经生物学”这一术语应该是人们之前未接触过的。A 
+选项coined代入文中，意为“'植物神经生物学’这一术语被创造出来”，符合文意，故正确。
+【干扰排除】B选项discovered和C选项collected的对象一般是客观存在的，分析空格所在句及其上句可知，“植 
+物神经生物学”是一个以前不存在的术语，不能被“发现”或“收集”，故都排除。D选项issued侧重指正式 
+地宣布或发给，无法与“植物神经生物学”这一术语构成合理的语义搭配，故排除。
+【考点剖析】上下文语义及动词辨析。coin用作动词时有以下习语，考生可积累使用：be coining money （暴富；赚 
+大钱；发大财），例如：John is coining money these few years.这几年约翰赚了大钱了。to coin a phrase （套用一句 
+老话；用老话来说），例如：Oh well, no news is good news, to coin a phrase.噢，常言道，没有消息就是好消息。 
+除此之外，coin更常用作名词，意为“硬币”，例如：notes and coin （纸币和硬币）。
+A. attributed把……归因于；认为……是由于 B. directed -fc........对准（某方向或某人）；指导
+C. compared表明.... 与.... 相似；将.... 比作 D. confined限定；限制
+【答案解析】看本句：空格位于一个that引导的同位语从句中，该从句解释说明the notion,意为；植物行为的某 
+些方面可能 动物身上的智力。由此无法得出正确答案，需联系上文解题，故进入第2步。看上下句：分
+析可知，设空处关键信息点为箭头指向的空格前后部分。❶句提到，“植物有一定程度的意识”这一观点最早 
+在21世纪初深入人心。既然植物有一定程度的意识，那么植物行为的某些方面则可能与智力在动物身上的表现 
+相似，C选项compared代入文中，符合语义要求，故正确。
+【干扰排除】A选项attributed代入文中可构成结构attribute A to B,意为“把A归因于B;认为A是由于B”， 
+但植物行为的某些方面并不是由于动物智力，故排除。B选项directed代入文中可构成结构direct A to B,意为 
+“把A对准B”,介词to后的对象通常是某方向或某人，而非intelligence in animals （动物智力）,故排除。
+D选项confined代入文中可构成结构confine A to B,意为"把A限定在B”，介词to后一般为某区域或范围， 
+而intelligence in animals （动物智力）无法表示某种区域或范围，故排除。
+【考点剖析】上下文语义及动词辨析。
+A. Unless除非；如果不 
+B. When虽然；然而；当……时
+C. Once当.... 时候；一旦；.. .... 就 
+D. Though尽管；虽然；然而
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格后部分。空格位于句首，且空格所在句 
+中，第一个逗号前后内容的主干成分均完整，结合备选项可判断空格处应填入一个连词，用来连接第一个逗号 
+前后的内容。空格所在句中，第一个逗号前的内容提到，植物没有大脑；第一个逗号后的内容提到，但它们茎 
+叶中电信号的发射却能触发某些反应。由此可知，空格所在句中，第一个逗号前后的内容存在让步或转折关系。 
+D选项Though可引导让步状语从句，符合逻辑要求，故正确。
+【干扰排除】A选项Unless引导条件状语从句。B选项When虽可引导让步状语从句，但引导让步状语从句时一 
+般位于句中而不是句首，例如，She claimed to be 25, when I know she's only 21.她自称是25岁,可是我知道她才
+2
+
+----- PAGE 3 -----
+21岁。C选项Once引导时间状语从句或条件状语从句。三个选项均不符合要求，故都排除。
+【考点剖析】句内语义、句内逻辑关系及连词辨析。
+A. coped with （成功地）处理，对付 
+B. consisted of由....组成（或构成）
+C. hinted at暗示；透露；示意 
+D. extended to包括；涉及
+9Ii
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格位于that引导的定语从句中, 
+1该定语从句修饰先行词此sponses。从句中，关系代词that代替先行词作主语，结合备选项可知，空格所填词应作 
+，从句的谓语，体现responses和consciousness的关系。空格所在句中，第一个逗号前后的内容存在让步或转折关系，
+第一个逗号前的内容指出“尽管植物没有大脑”；第一个逗号后的内容提到，但它们茎叶中电信号的发射却能触 
+‘ *某些反应，这些反应 意识。根据常识可知，大脑和意识联系紧密，因此可推测，空格所在句是为了说明
+"尽管植物没有大脑，但植物茎叶中电信号的发射触发的某些反应却能表明植物是有意识的”。空格所填内容代 
+入文中应能体现"这些反应表明植物是有意识的”。备选项中，C选项hinted at符合语义要求，故正确。
+【干扰排除】A选项coped with、B选项consisted of和D选项extended to代入文中，分别意为"这些反应处理意识” 
+“这些反应由意识组成”和“这些反应包括/涉及意识”，均不符合原文语境，故都排除。
+由【考点剖析】句内语义及句内逻辑关系。
+有
+这
+底
+力
+ 
+n
+植
+W
+说
+说
+ 
+“
+意
+一
+有
+©But such an idea is untrue, according to a new opinion article. ,Plant biology is complex
+I 
+II 
+I 
+: 
+1
+and fascinating, but it 
+5 
+so greatly from that of animals that so-called 6 of plants' 
+intelligence is inconclusive, the authors wrote.
+A. suffers受苦，受难 
+B. benefits得益于；得利于
+C. develops发展，成长，壮大 
+D. difFers有差别；有区别
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格所在句提到，植物的生理 
+习性复杂且有趣，但它与动物的生理习性 如此之大，以至于所谓的植物有智力的……没有说服力。由此
+可知，“植物有智力的……没有说服力”是“植物的生理习性与动物的生理习性 如此之大”的消极结果。
+D选项differs代入文中，意为“它（植物的生理习性）与动物的生理习性差异如此之大”，表明了植物的生理 
+习性和动物的生理习性差异很大，以至于用动物的生理习性类比植物的生理习性得出的某些说法没有说服力， 
+符合句内语义及逻辑，故正确。
+【干扰排除】A选项suffers侧重描述“因疾病、痛苦、悲伤而受苦或受难”，代入文中，语义不通，故排除。B选 
+项benefits代入文中，意为"它（植物的生理习性）从动物的生理习性中获益如此之多，以至于所谓的植物有智 
+力的……没有说服力”，语义矛盾，故排除。C选项develops代入文中，表示“它（植物的生理习性）从动物的 
+生理习性中发展得如此之快”，但植物的生理习性和动物的生理习性之间并不存在直接的联系，因此前者不太 
+可能是从后者发展而来的，故排除。
+【考点剖析】句内语义、句内逻辑关系及动词辨析。differ可充当词根构成派生词，常见的由differ派生而来的词 
+有different （ a.不同的；各别的；与众不同的）,differently （ ad.不同地）和difference （ n.差异；不同；意见分歧）。
+A. acceptance接受；接纳 
+B. evidence证据；证明；根据
+C. cultivation 培养；栽培 
+D. creation 创造；作品
+【答案解析】看本句：空格所在句提到观点类论文中的内容：植物的生理习性复杂且有趣，但它与动物的生理习 
+性差异如此之大，以至于所谓的植物有智力的 没有说服力。由此无法得出正确答案，需联系上文解题， 
+故进入第2步。看上下句：二段。句提到，根据一篇新的观点类论文的说法，这一观点是没有事实依据的。由 
+此可知，空格所在句提到的作者即为二段•句提到的观点类论文的作者。二段•句指出，该论文的作者认为某 
+一观点没有事实依据，二段•句引用该论文作者所写的话，具体说明“所谓的植物有智力的―没有说服力”， 
+分析可知，"植物有智力的”应该为二段❶句中所提到的观点涉及的内容，但要得知该观点的具体内容, 
+还需联系上段，故直接进入第4步。看本段：略，看上下段：根据一段。句可知，“这一观点”指的是“植物 
+是有意识的”，而在观点类论文的作者看来这一观点是没有事实依据的，B选项evidence代入文中，意为“所谓 
+的植物有智力的证据没有说服力”，与二段。句中观点类论文的说法相呼应，故正确。
+3
+
+----- PAGE 4 -----
+【干扰排除】A选项acceptance, C选项cultivation和D选项creation代入文中，分别意为“植物有智力的接受/ 
+培养/创造没有说服力”，均不能说明"植物是有意识的"这一观点没有事实依据，故都排除。
+【考点剖析】上下文语义及名词辨析。evidence用作名词时，常见的习语有：（be） in evidence （显而易见；显眼无 
+例如:The police were much in evidence at today's demonstration.在今天的7K威集会上警察随处可见。除用作名词 
+夕卜,evidence还可用作动词，意为"证明;表明；作为 的证据”，例如：The legal profession is still a largely 
+male world, as evidenced by the small number of women judges.法律界在很大程度上仍然是男人的世界，这~点从女 
+法官的人数屈指可数即可得到证实。
+m
+一部分科 
+学家主张 
+“植物有 
+意识”
+♦ Beginning in 2006, some scientists have 7 that plants possess neuron-like cells that interact
+with hormones and neurotransmitters, 8 "a plant nervous system, 9 to that in animals
+T 
+1-------- 1*------------------f
+said lead study author Lincoln Taiz.❷"They 10 claimed that plants have 'brain-like command
+t______I I______________' 
+:.T-
+centers' at their root tips." 
+” 
+*
+7
+A. doubted怀疑；不相信
+C. argued主张，认为
+B. denied否认；拒绝
+D. requested要求，请求
+【答案解析】看本句：空格所在句提到，从2006年开始，一些科学家就已经 植物拥有与激素和神经递质
+相互作用的神经元样细胞。因空格所在句挖空较多，信息不完整，需联系下文解题，故进入第2步。看上下句： 
+❷句提到，他们……声称植物的根尖处有'类似大脑的指挥中心'。分析可知，❷句是对空格所在句的进一步 
+说明，故空格所填词应与❷句中的“claimed （声称）”表意相近。备选项中，只有C选项argued与，句中的 
+claimed表意相近，故正确。
+【干扰排除】A选项doubted和B选项denied代入文中后，均与❷句内容相矛盾，无法与❷句内容合理衔接， 
+故都排除。D选项requested代入文中，意为"一些科学家就已经要求植物拥有……”，语义不通，故排除。
+【考点剖析】上下文语义及动词辨析。argue可作词根，构成其他词，比如argumentative （a.好辩的；系统化推理 
+的）、arguable （ a.可论证的；有异议的；可疑的）、arguably （ ad.可论证地，按理）、argumentatively （ ad.激辩地）、 
+argument （”.论证；论据；争吵；内容提要）.argumentation （ «•论证；系统化推论）、arguer （ n,争辩者；瓣论者） 
+等，考生可积累使用。
+A. adapting使适应；使适合（新用途、新情况） 
+B. forming （使）形成；（使）成形
+C. repairing修理；修补；纠D. testing测试；测验；检查
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格所在句提到，从2006年开 
+始，一些科学家就已经主张植物拥有与激素和神经递质相互作用的神经元样细胞，“植物神经系统……”。 
+结合常识可知，“细胞”是"神经系统”的重要组成部分，故空格所填词应表示"组成、形成”之意。B选项 
+forming代入文中，符合语义要求，故正确。
+【干扰排除】A选项adapting和D选项testing代入文中，分别意为“植物拥有与激素和神经递质相互作用的神经 
+元样细胞，使’植物神经系统……’适应”和“植物拥有与激素和神经递质相互作用的神经元样细胞，测试’植 
+物神经系统……’”，语义均不通顺且违背常识，故都排除。C选项repairing侧重描述"使某破碎、损坏或撕 
+裂的物品恢复到良好状态”或“为了改善不好或不愉快的情况而说或做某事”，但文中并未提及植物神经系统 
+受损的相关信息，故排除。
+【考点剖析】句内语义及动词辨析。该题中，现在分词forming与其后内容共同构成现在分词短语，在句中作状 
+语。现在分词（短语）在句中作状语时可分为以下几种情况。（1 ）作时间状语，相当于when、while引导的时 
+间状语从句，例如：Hearing these stories, I'm -skeptical about the place.听到这些描述后，我对这个地方产生了怀疑。 
+（2）作条件状语，相当于if、unless等引导的条件状语从句，例如：Turning to the left at the crossroads, you will 
+see the railway station on your right.在十字路口左转，你就会看到火车站在你的右边。（3 ）作原因状语，相当于 
+because、since、as 等引导的原因状语从句，例如：I got to the office earlier that day, having caught the 7:30 train from 
+Paddington,我那天到办公室较早，是因为赶上了七点半从帕丁顿出发的火车。（4）作目的状语，例如：Rural 
+schooling was divided into summer and winter terms, leaving kids free to help with the farm work in the spring planting and 
+fall harvest seasons,农村学校的学期分为夏季和冬季，目的是让孩子们在春耕和秋收时有空帮忙做农活。（5 ）作 
+4
+
+----- PAGE 5 -----
+结果状语，表示意料中的结果，一般不可转化为结果状语从句，例如：Unfortunately his father died, leaving the 
+family even worse off.不幸的是，他的父亲去世了，家里的情况更加糟糕了。（ 6 ）作方式状语，一般不可转化为 
+方式状语从句，例如：I always read, using different voices.我总是用不同的声音朗读。（7）作伴随状语，例如：A 
+■tall, dark woman approached her, singing loudly,—个又高又黑的女人一边高声唱着歌，一边靠近她。
+A. analogous类似的；相似的
+C. suitable合适的；适宜的
+B. essential必不可少的；本质的
+D. sensitive敏感的；灵敏的；体贴的
+【答案解析：看本句：空格所在句提到，从2006年开始，一些科学家就已经主张植物拥有与激素和神经递质相 
+互作用的神经元样细胞，形成“植物神经系统，动物神经系统”。分析空格所在句句子结构并结合备选 
+项可知，空格处需填入一形容词，与空格后的to that in animals构成合理搭配，说明植物神经系统的某种特征， 
+由空格所在句无法得出答案，故需联系下文，进入第2步。看上下句：分析可知，设空处关键信息点为箭头指 
+向的空格前后部分。❷句提到，他们……声称植物的根尖处有“类似大脑的指挥中心”。根据常识可知，“大脑” 
+是动物中枢神经系统的主要部分，由此可推知，空格所在部分表示，植物的神经系统与动物的神经系统有相似 
+之处。备选项中，A选项analogous代入文中，意为“类似于动物神经系统的植物神经系统”，符合语义，故正确。 
+【干扰排除】B选项essential、C选项suitable和D选项sensitive代入文中，分别表示“植物神经系统对于动物神 
+经系统来说必不可少” “适合动物神经系统的植物神经系统”和“对动物神经系统敏感的植物神经系统”，均 
+语义不通，且无法与❷句中体现的“植物的神经系统”和“动物的神经系统”具有相似之处相呼应，故都排除。
+【考点剖析】上下文语义及形容词辨析。
+10 
+&魏.
+A. just正好；刚才；只是 
+B. ever曾经；从来；总是；究竟
+C. still仍然；还是；依旧 
+D. even甚至，连？即使
+【答案解析〕看本句：空格所在句提到，他们 称植物的根尖处有“类似大脑的指挥中心”。由此无法确定 
+“他们（They ）"的具体指代，需联系上文解题，故进入第2步。看上下句：分析可知，设空处关键信息点为 
+箭头指向的空格前后部分。❶句提到，从2006年开始，一些科学家就已经主张植物拥有神经元样细胞，形成“类 
+似于动物神经系统的植物神经系统”。可见，空格所在的•句中的They指代❶句中的some scientists,空格所在 
+句与❶句存在语义上的递进关系，故空格所填词应表递进关系。备选项中，D选项even符合语义及逻辑要求， 
+故正确。
+【干扰排除】A选项just、B选项ever代入文中，分别意为“他们正好/曾经声称植物的根尖处有’类似大脑的 
+指挥中心'”，均无法与。句在语义上形成递进关系，不符合要求，故都排除。C选项still强调的是一种状态 
+的延续，而不是语义上的递进，不符合要求，故排除。
+【考点剖析】上下文语义、上下文逻辑关系及副词辨析。
+IV
+植物发射
+信号与动 
+物大脑发 
+射信号只 
+是表面上
+相似
+This 11 makes sense if you simplify the workings of a complex brain, 12 it to an array 
+___________________________ ________ t______________ i
+of electrical pulses； cells in plants also communicate through electrical signals. • 13 , the 
+r_______________________ _____________________________ i
+signaling in a plant is only 14 similar to the firing in a complex animal brain, which is more 
+f 
+「II 
+- 
+T
+than "a mass of cells that communicate by electricity,* Taiz said.
+A. restriction限制；约束；限制规定 
+B. experiment实验；尝试
+C. perspective观点；态度；景观 
+D. demand安求；需求
+【答案解析】看本句：空格所在句提到，如果把复杂的大脑的工作进行简化，……为一系列电脉冲，这种 
+就是说得通的；植物的细胞也通过电信号进行交流。此处通过两个分句对比指出，一定条件下，大脑的工作方 
+式与植物细胞交流方式存在相似性，但由此无法得知“这种 
+的具体指代，又因空格所在句位于段首，
+需联系上段解题，故直接进入第4步。看上下句、看本段：略。看上下段：三段。句提到，他们（一些科学家） 
+甚至声称植物的根尖处有“类似大脑的指挥中心”。综上可知，空格所在句对三段❷句中一些科学家的观点进 
+行了一定程度上的肯定，“这种”指代的是“一些科学家的观点”。C选项perspective代入文中，符合语义， 
+故正确。
+5
+
+----- PAGE 6 -----
+12
+【干扰排除】A选项restriction、B选项experiment和D选项demand代入文中，均无法与上段内容合理衔接，故都 
+排除。 
+笛
+【考点剖析】上下文语义及名词辨析。
+A. attaching把...固定，把.... 附（在.... 上） B. reducing减少；缩小；（使）蒸发
+C. returning送回；放回 
+D. exposing暴露；显露；使遭受（危险或不快）
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格所在句提到，如果把复杂 
+的大脑的工作进行简化，为一系列电脉冲，这种观点就是说得通的；植物的细胞也通过电信号进行交流。- 
+由该句分句二中的also可知，此句意在表明植物细胞的交流方式与大脑工作的相似性在于都通过电信号进行交 
+流，因此，一系列电脉冲应该是对复杂的大脑工作原理进行简化的结果，故空格所填词应能体现“简化”这一」 
+含义。B选项reducing代入文中，与其后内容构成reduce A to B结构，表示“将A简化为B”,符合语义要求，| 
+故正确。
+【干扰排除】A选项attaching侧重描述“把某物固定或连接到另一个东西上”孑这会使原本的东西变得更复杂， 
+与文中“简化”的语境相矛盾，故排除。C选项returning代入文中，意为“送向一系列电脉冲”，不符合文意 
+且与“简化”无关，故排除。D选项exposing强调“使通常被隐藏的某物显露出来”，电脉冲虽无法通过肉眼看见， 
+但并不代表它是被隐藏的，且D选项exposing代入文中后与“简化”无关，故排除。
+【考点剖析】句内语义及动词辨析。reduce A to B结构除表示“将A简化为B”之外，还表示“将A归纳/概括成B”， 
+例如：We can reduce the problem to two main issues.我们可以将这个问题概括成两个要点。
+A. However然而；不过；无论如何 
+B. Moreover此外；而且
+C. Therefore因此；所以；因而 
+D. Otherwise否则；不然；除此以外
+【答案解析】看本句：空格位于❷句句首，分析该句句子结构并结合备选项可知，此处需填入表逻辑关系的副词， 
+需结合上句解题，故进入第2步。看上下句：分析可知，设空处关键信息点为箭头指向的空格前后部分。❶句 
+通过两个分句肯定了植物细胞的交流方式与复杂的动物大脑工作的相似性，即大脑工作可以简化为一系列电脉 
+冲，植物的细胞也通过电信号进行交流；而空格所在句指出，植物发射信号与复杂的动物大脑发射信号只是…… 
+相似，复杂的动物大脑不只是“通过电来交流的大量细胞”。由此可知，❷句与❶句在语义上存在转折关系， 
+故空格所填词应能表示转折关系。A选项However代入文中，符合语义及逻辑，故正确。
+【干扰排除】B选项Moreover表递进关系，C选项Therefore表因果关系，均不符合上下文逻辑关系，故都排除。 
+D选项Otherwise虽也可表转折关系，、但常用来表示如果某事没有发生或情况不同会产生什么结果，不符合此处 
+语境，故排除。
+【考点剖析】上下文语义、上下文逻辑关系及副词辨析。
+A. temporarily暂时地；临时地；短暂地 
+B. literally字面上；真正地
+C. superficially表面上；肤浅地 
+D. imaginarily想象中地
+【答案解析】看本句：空格所在句提到，然而，植物发射信号与复杂的动物大脑发射信号只是 相似，复杂
+的动物大脑不只是“通过电来交流的大量细胞”。由此无法得出正确答案，但由于空格所在句与上句联系紧密， 
+可尝试联系上文解题，故进入第2步。看上下句：分析可知，设空处关键信息点为箭头指向的空格前后部分。 
+。句提到，植物的细胞也通过电信号进行交流。综上可知，植物的细胞虽然也通过电进行交流，但是动物的大 
+脑实际上更为复杂，不只是“通过电来交流”，故“细胞通过电进行交流”只是植物和动物比较表面、浅显的 
+共同点，C选项superficially代入文中，符合语义，故正确。
+【干扰排除】A选项temporarily代入文中，意为“植物发射信号与复杂的动物大脑发射信号只是暂时相似”，而 
+文中并无信息提到动植物间的这种相似性是否有时间期限，故排除。B选项literally取“字面上”之意时，代入 
+文中，意为“植物发射信号与复杂的动物大脑发射信号只是字面上相似”，语义不通；取“真正地”之意时， 
+代入文中，意为“植物发射信号与复杂的动物大脑发射信号只是真正地相似”，说明该句是对上句内容的肯定， 
+而该句与上句内容之间很明显存在转折关系，故排除B。D选项imaginarily代入文中，意为“植物发射信号与复 
+杂的动物大脑发射信号只是想象中相似”，但文中明确提到，植物发射信号与动物大脑发射信号确有相似之处， 
+并非想象中相似，故排除。
+【考点剖析】上下文语义及副词辨析。
+6
+
+----- PAGE 7 -----
+V ®t4For consciousness to evolve, a brain with a threshold 15 of complexity and capacity is 
+植物没有 
+T--------------1——=JE=----------------- T
+.神经系统，required,he 16 . ♦ "Since plants don't have nervous systems, the 17 that they have
+故不、可能 
+----------------- 二IEZ-------- T
+有意识 consciousness are effectively zero."
+16
+A. list清单；目录 
+B. level水平；程度；高度
+C. labe 1标签；标记；唱片公司 
+D. load大量；负荷
+r答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格所在句提到，意识的形 
+成对大脑有所要求。空格所在部分with a threshold of complexity and capacity作后置定语，修饰其前的a
+brain,描述意识的形成所要求的大脑的特征；其中threshold作名词有“起始点；临界点”的意思，结合语境可知， 
+此处意在表达，为配合意识的形成，需要一个具有复杂程度和容量达到起始 的大脑，即大脑需要有一定 
+程度的复杂性和容量。B选项level代入文中，表示“具有复杂程度和容量达到起始水平的大脑”，即"具有一 
+定复杂性和容量的大脑”，符合语义，故正确。
+【干扰排除】A选项list和C选项label代入文中，均无法与a threshold搭配，无法体现出意识的形成对大脑的复 
+杂性和容量的要求，故都排除。D选项load与其前的a和其后的of搭配意为“大量；许多”，表示数量之多， 
+threshold意为“起始点；临界点”，表程度、水平，二者一般不构成合理搭配，故排除。
+【考点剖析】句内语义及名词辨析。
+A. recalled回忆起；记起；召回 
+B. agreed同意；赞成；答■应
+C. questioned质询；怀疑 
+D. added补充说；，继续说；增加
+【答案解析】看本句：空格所在句意为“意识的形成需要一个具有一定复杂性和容量的大脑，”他 o由此
+无法得出正确答案，但因空格所在句中出现了代词he,且空格所在句位于段首，因此可联系上段确定he的具体 
+指代并解题，故直接进入第4步。看上下句' 看本段：略。看上下段：根据四段,句中的Taiz said可知，he指 
+代Taiz。四段♦句提到，Taiz说，复杂的动物大脑不只是"通过电来交流的大量细胞”。可见，四段♦句与空 
+格所在句都提到了 Taiz说的话，故空格所在句应表达Taiz补充阐述其观点之意。D选项added代入文中，符合 
+语义及逻辑，故正确。
+【干扰排除】A选项recalled指“回忆起某事”，分析可知，此处Taiz是在补充阐述观点，并非回忆某事，故排 
+除。B选项agreed强调“同意或赞成某观点”，但是文中Taiz只是补充阐述自己的观点，并非同意或赞成其他 
+观点，故排除。C选项questioned强调“针对某事问某人问题”或“对某事表示怀疑”，而文中引号内内容与四 
+段❷句内容均为Taiz本人的观点，故排除。
+【考点剖析】上下文语义及动词辨析。动词add可构成以下短语动词：add叩（合乎情理；积少成多）、add sth. in 
+（把某物加进去；包括某物）、add up to （合计）等。动词add还可构成以下习语：add insult to injury （伤害之 
+余又侮辱）和added to this...（此外....）。
+A. chances可能性；机冬 
+B. risks风险；危险
+C. excuses理由;•借口 ；辩解 
+D. assumptions假定；假设
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格所在句提到，既然植物没 
+有神经系统，那么它们有意识的 实际上是零。结合常识可知，神经系统与意识联系紧密，没有神经系统
+是不可能产生意识的，因此，没有神经系统而有意识的可能性为零，故A选项chances正确。
+【干扰排除】B选项risks代入文中，意为“它们有意识的风险实际上是零”，语义不通，且与“植物没有神经系 
+统”这一原因无关，故排除。C选项excuses代入文中，意为"它们有意识的理由实际上是零”，看似符合语义, 
+但excuses作“理由”讲时，指某人提出的为自己的某种行为辩解的理由，用在此处显然不合理，故排除。D选 
+项assumptions表示“假定；假设”，一般不用数值来表示，故排除。
+【考点剖析】句内语义及名词辨析。关于chance,还有■—些习语可供考生积累：as chance would have it （凑巧； 
+碰巧）、chance would be a fine thing （苦于没有机会）、no chance （不可能）、by any chance （或许，可能）、 
+take your chances （碰运气）等。
+
+----- PAGE 8 -----
+18
+V] OAnd what's so great about consciousness, anyway? ^Plants can't run away from 18 , so investing 
+植物无法 
+I------------------------------ 1-------------------n-
+逃离危险，energy in a body system which 19 a threat and can feel pain would be a very 20 evolutionary 
+产生意识 
+T-------------------------------T
+strategy, according to the article.
+A. danger危险；风险 
+B. failure失败；未做（应做之亨）
+C. warning警告；先兆 
+D. control约束；控制权
+【答案解析9看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格所在句提到，植物无法逃 
+离,因此，将能量输入到一个……威胁并能感觉到疼痛的机体系统中是一种非常……进化策略。由空格 
+所在句中的因果关系可知，空格所填词应与“威胁”或“疼痛”相关。A选项danger符合文意，代入文中意为“植 
+物无法逃离危险”，与其后的“威胁”构成对应关系，故正确。
+【干扰排除】B选项failure、C选项warning和D选项control代入文中，分别意'为“植物无法逃离失败/警告/约 
+束”，均无法与其后内容构成合理的因果关系，故都排除。 
+a "
+【考点剖析】句内语义及名词辨析。
+A. represents代表；体现；象征 
+B. includes包括；包含；使成为.... 的一部分
+C. reveals揭示；显示；显出 
+D. recognizes认出；认识；承认
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格位于which引导的定语从 
+句中，该定语从句修饰先行词a body systemo从句中，a threat （威胁）和can feel pain （能感觉到 
+疼痛）是and连接的并列成分。空格所在句提到，植物无法逃离危险，因此，将能量输入到一个 威胁并
+能感觉到疼痛的机体系统中是一种非常……进化策略。由此可推断，"威胁”和“能感觉到疼痛”都是 
+机体系统对外界的自我防御，以保护自己免受更多伤害，故此处应表示“机体对威胁的识别、判断等”。D选 
+项recognizes代入文中，符合语义，故正确。
+【干扰排除】A选项represents和B选项includes代入文中，分别意为"植物无法逃离危险，因此，将能量输入 
+到一个代表/包括威胁并能感觉到疼痛的机体系统中是一种非常……进化策略”，语义均不通顺，故都排除。C 
+选项reveals侧重描述“使某事被某人知道”或“展示出以前看不到的事物”，与原文中“对威胁进行识别、判断” 
+的语境不符，故排除。
+【考点剖析】句内语义及动词辨析。
+A. humble不大的；没有特别之处的 
+B.poor糟糕的，不理想的；差的
+C. practical切实可行的；实际的 
+D. easy容易的；舒适的；随和的
+【答案解析1看本句：空格所在句提到，植物无法逃离危险，因此，将能量输入到一个识别威胁并能感觉到疼痛 
+的机体系统中是一种非常 进化策略。分析可知，既然无法逃离，那么将能量输入到一个识别威胁并能感
+觉到疼痛的机体系统毫无用处，故空格所填词应表消极含义。B选项poor代入文中，符合文意，故正确。
+【干扰排除】A选项humble修饰物时，表示“不大的；没有特别之处的”，没有明显的消极含义，故排除。C选 
+项practical代入文中，意为“一种切实可行的进化策略”，与文意相悖，这种进化策略其实是不切实际的，故排 
+除。D选项easy代入文中，意为“一种非常容易的进化策略”，文中并未提及这种进化策略难易程度的相关信息， 
+故排除。
+【考点剖析】句内语义及形容词辨析。poor除了表“糟糕的，不理想的；差的”之意外，还有以下几个含义。
+（1）意为“贫穷的；贫寒的；清贫的”，例如：They were too poor to buy shoes for the kids.他们穷得没钱给孩子买 
+鞋穿。（2）意为“不擅长的；不熟练的”，如a poor swimmer （不擅游泳的人）。（3 ）意为“贫乏的；缺少的”， 
+如 a country poor in natural resources （自然资源贫乏的国家）。
+20
+第二步倍案汇总，规律验证
+答案汇总 
+1~5ACDCD 6-10BCBAD 11-15 CBACB 16-20 DAADB 
+5A5B5C5D
+结论 A、B、C、D四个选项作为正确答案出现的频次均为5,符合命题规律。
+8
+
+----- PAGE 9 -----
+Section U Reading Comprehension
+Part Q
+Text 1
+命题分析】
+Text 1 选自 2021 年 7 月 2 日的 Science （《科学》），原文标题为"When Plastics Are Precious" (《当塑料
+物品变得珍贵》)。文章主要介绍了一些塑料材料的不稳定性给博物馆的塑料手工艺品的保存带来的挑战，并 
+指出塑料手工艺品的保存具有深远的历史意义。
+题目设置：21题、22题、23题和25题为细节理解题，24题为观点态度题。
+英汉对照］
+[1] «People often complain that plastics are too durable. 
+•Water bottles, shopping bags, and other trash litter the planet, 
+from Mount Everest to the Mariana Trench, because plastics 
+are everywhere and don't break down easily. ©But some plastic 
+materials change over time. ©They crack and frizzle.，They 
+"weep" out additives. "They melt into sludge.❼All of which 
+creates huge headaches for institutions, such as museums, trying 
+to preserve culturally important objects. ©The variety of plastic 
+objects at risk is dizzying: early radios, avant-garde sculptures, 
+celluloid animation stills from Disney films, the first artificial 
+heart.
+[2] »Certain artifacts are especially vulnerable because some 
+pioneers in plastic art didn't always know how to mix ingredients 
+properly, says Thea van Oosten, a polymer chemist who, until 
+retiring a few years ago, worked for decades at the Cultural 
+Heritage Agency of the Netherlands. like baking a cake: If 
+you don't have exact amounts, it goes wrong," she says.❸"The 
+object you make is already a time bomb."
+[3] ©And sometimes, it's not the artist's fault. @In the 
+1960s, the Italian artist Pierq.Gilardi began to create hundreds 
+of bright, colorful foam pieces/©Those pieces included small 
+beds of roses and other items as well as a few dozen "nature 
+carpets'*—large rectangles decorated with foam pumpkins, 
+cabbages, and watermelons. ©He wanted viewers to walk around 
+on the carpets―which meant they had to be durable.
+[4] ®Unfortunately, the polyurethane foam he used is 
+inherently unstable.❷It's especially vulnerable to light damage, 
+and by the mid-1990s, Gilardi's pumpkins, roses, and other 
+figures were splitting and crumbling. ©Museums locked some of 
+them away in the dark.
+人们经常抱怨塑料物品太耐用。因为塑料 
+物品无处不在且不易分解，从珠穆朗玛峰到马 
+里亚纳海沟，地球上到处都是水瓶、购物袋和 
+其他垃圾。(21)但是一些塑料材料会随着时 
+间的推移而发生变化。它们开裂并卷曲。它们 
+"析”出添加剂。它们逐渐与淤泥融为一体。 
+所有这些都让博物馆等试图保护重要文物的机 
+构头疼不巳。面临风险的塑料物品种类繁多, 
+令人眼花缭■乱：早期的收音机、前卫的雕塑、 
+迪士尼电影中的赛璐珞动画剧照以及第一颗人 
+造心脏。
+(22)在荷兰文化遗产局工作了数十年， 
+直到几年前才退休的聚合物化学家西妊•范•欧 
+斯汀说道，某些手工艺品特别容易受到损坏， 
+因为塑料艺术品的一些先驱并不总是知道如何 
+正确地调配各种成分。“这就像烤蛋糕一样： 
+如果你用量不精准，它就会出错，”她说。“你 
+制作的物品已经是一颗定时炸弹了。"
+而有时，这并不是艺术家的错。20世纪 
+60年代，意大利艺术家皮耶罗•吉拉迪开始 
+创作数百件明亮又多彩的泡沫艺术作品。那些 
+艺术作品包括小型玫瑰花圃和其他东西，以及 
+几十块"天然地毯”——用泡沫南瓜、泡沫卷 
+心菜和泡沫西瓜装饰的大矩形块。他希望观看 
+者能在地毯上来回走动——这意味着它们必须 
+经久耐用。
+令人遗憾的是，他使用的聚氨酯泡沫本身 
+是不稳定的。(23)这种泡沫特别容易受到光 
+照的损坏，到20世纪90年代中期，吉拉迪的 
+南瓜、玫瑰和其他塑像开始裂开并坍塌。博物 
+馆只好把其中一些锁藏在了黑80•中。
+9
+
+----- PAGE 10 -----
+[5] ®So van Oosten and her colleagues worked to preserve 
+Gilardi's sculptures.❷They infused some with stabilizing and 
+consolidating chemicals.❸Van Oosten calls those chemicals 
+"sunscreens" because their goal was to prevent further light 
+damage and rebuild worn polymer fibers.❹She is proud that 
+several sculptures have even gone on display again, albeit 
+sometimes beneath protective cases.
+[6] SDespite success stories like van Oosten's, preservation 
+of plastics will likely get harder.❷Old objects continue to 
+deteriorate. ©Worse, biodegradable plastics, designed to 
+disintegrate, are increasingly common.
+[7] 。A nd more is at stake here than individual objects. 
+❷Joana Lia Ferreira, an assistant professor of conservation and 
+restoration at the NOVA School of Science and Technology, 
+notes that archaeologists first defined the great material ages 
+of human history—Stone Age, Iron Age, and so on—
+—after 
+examining artifacts in museums. ©We now live in an age of 
+plastic, she says, "and what we decide to collect today, what 
+we decide to preserve...will have a strong impact on how in the 
+future we'll be seen."
+因此，范•欧斯汀和北的同事们致力于保护 
+吉拉迪的雕塑作品。他们给其中一些注入了具 
+有稳定和加固作用的化学物质。范•欧斯汀将那 
+些化学物质称为“防晒霜”，因为它们的目的是 
+防止进一步的光照损坏并重塑磨损的聚合物纤 
+维。让她感到自豪的是，有几件雕塑作品甚至已 
+经再次展出了，尽管有时会套着保护套。
+(24 )虽然有范•欧斯汀这样的成功故事， 
+但塑料物品的保存可能会变得更加困难=旧的 
+物品不断老化。更糟林的是，为了可分解而设 
+计的可生物降解塑料物品越来越普遍。
+此外"这里有风险的不仅仅是个别物品。里 
+斯本新大学科技学院保护与修复助理教授乔安 
+娜•利亚•费雷拉指出，(25)考古学家对博物 
+馆中的手土色葛进行考察•后，首次定义了人类 
+历史上伟大的材料时代一石器时代、铁器时 
+代等等。我们如今生活在一个室料时代，她说， 
+“并且我们今天决定收藏什么，我们决定保存什 
+么……将对我们未来的形象产生重大影响。”
+a 篇章结构
+第一段：引出问题—些塑料材料会随着时间的推移而发生变化，这给保护重要文物的机构
+带来了麻烦
+第二段:
+塑料手工艺品 
+的保存具有深＜ 
+远的历史意义
+第二至五段：举例分析塑料手
+工艺品易受损坏第三段. 
+的原因并指出相彳一 ■ 
+关人员采取的保笛而咨 
+护措施 袂田
+第五段:
+指出一些手工艺品容易受到损坏的原因是不知道如何正 
+确地调配各种成分
+承接上文，借艺术家皮耶罗•吉拉迪泡沫艺术作品的例 
+子说明一些塑料物品易受到损坏可能并不是艺术家的错 
+承接上文，指出艺术家皮耶罗•吉拉迪的泡沫艺术作品易 
+受到损坏的原因一的聚氨酯泡沫本身是不稳定的 
+指出范•欧斯汀和她的同事们在保护吉拉迪的泡沫艺术 
+作品方面付出的努力以及取得的成效
+第六段：肯定范•欧斯汀的成功，但指出塑料物品的保存仍具有挑战性 
+第七段：借费雷拉的观点指出塑料手工艺品的保存具有深远的历史意义，
+答案解析，
+21. According to Paragraph 1, museums are 
+faced with difficulties in.
+A. maintaining their plastic items
+B. obtaining durable plastic artifacts
+C. handling outdated plastic exhibits
+D. classifying their plastic collections
+根据一段可知，博物馆面临的困难 
+在于=•
+A. 保存他们的塑料物品
+B. 获得耐用的塑料手工艺品
+C. 处理过时的塑料展品
+D. 对塑料收藏品进行分类
+选项出处
+一段,至•句
+一段。句
+一段。句
+七段❸句
+［路径一】从题干的角度解答一如何得出正解
+找关键词：Paragraph 1、museums和difficulties。回文定位：根据关键词可定位至一段。句，其中difficulties 
+与该句中的huge headaches相对应。比对匹配：该句提到，所有这些都让博物馆等试图保护重要文物的机构头 
+疼不已。由此无法得知“所有这些”指代的内容，故需联系上文分析。辐射匹配：一段❸至。句指出，一些 
+塑料材料会随着时间的推移而发生变化，它们开裂并卷曲，“析”出添加剂，逐渐与淤泥融为一体。综上可知， 
+“所有这些”指代的是塑料材料随着时间的推移而发生的一系列变化，这些变化让博物馆头疼不已。由此可知，
+博物馆面临的困难在于保存他们的塑料物品，故A正确。
+10
+
+----- PAGE 11 -----
+【路径二】从选项的角度解答一一如何排除干扰
+找关键词：durable和plastic artifacts。回文定位：根据关键词可定位至一段❶句，其中plastic artifacts与 
+B 该句中的plastics相对应。比对匹配：该句提到，人们经常抱怨塑料物品太耐用。由此无法推知博物馆
+面临的困难在于获得耐用的塑料手工艺品，故排除Bo
+找关键词：outdated plastic exhibitsc回文定位：根据关键词可定位至一段❽句，其与该句中的early 
+radios . celluloid animation stills 和 the first artificial heart 相对应o 比对匹配：该句列举了一些面临风险的 
+c 
+塑料物品，比如早期的收音机、赛璐珞动画剧照和第一颗人造心脏。由此可知，这些过时的塑料展品正
+面临风险让博物馆感到困难，而不是如何处理它们困扰着博物馆，故排除C。
+找关键词：collections。回文定位：根据关键词可定位至七段❸句，其与该句中的collect为同根词。比对 
+D 匹配：该句引用了具体的观点“并且我们今天决定收藏什么，我们决定保存什么……将对我们未来的形
+象产生重大影响。”该句并未提及对塑料收藏品进行分类的相关信息，故排除D。
+22. Van Oosten believes that certain plastic objects are_____
+范•欧斯汀认为某些塑料物品—_。 选项出处
+A. immune to decay
+A.不会腐烂
+一段❷句
+B. improperly shaped
+B.塑形不当
+二段。句
+C. inherently flawed
+C.本身有缺陷
+二段。句
+D. complex in structure
+D.结构复杂
+二段❸句
+【路径一】从题干的角度解答一如何得出正解
+找关键词：Van Oosten和certain plastic objectsc回文定位：根据关键词可定位至二段9句，其中certain plastic 
+objects与该句中的Certain artifacts相对应。比对匹配：该句提到，聚合碗化学家Thea van Oosten说道，某些手 
+工艺品特别容易受到损坏，因为塑料艺术品的一些先驱并不总是知道如何正确地调配各种成分.由此可知， 
+Van Oosten认为，某些塑料物品因其制作先驱不知如何正确地调配各种成分（即制作成分配比有问题），本身 
+就存在缺陷，故C正确。
+【路径二】从选项的角度解答一如何排除干扰
+找关键词：immune to decayc回文定位：根据关键词可定位至一段❷句，其与该句中的don,t break down 
+A easily相对应。比对匹配：该句提到，塑料物品无处不在且不易分解，此处是在客观描述塑料的特性，
+即不易分解，但这并非范•欧斯汀对某些塑料物品的看法，故排除A。
+找关键词：improperly。回文定位：根据关键词可定位至二段。句，其与该句中的didn’t always know how 
+B to...properly相对应。比对匹配：由上表【路径一】对该句的分析可知，该句意在表达塑料制品制作成分 
+配比存在问题，并未提及某些塑料物品塑形不当的相关信息，故排除B。
+找关键词：complex in structurec回文定位：根据关键词可定位至二段。句，其与该句中的didn't always 
+know how to mix ingredients properly相对应。比对匹配：由上表【路径一, ］对该句的分析可知，在范•欧 
+D 斯汀看来，某些塑料物品特别容易受到损坏的原因是其制作先驱并不总是知道如何正确地调配各种成分， 
+可见范•欧斯汀是在用「：didn，i always know how to mix ingredients properly来说明塑料物品制作过程中正 
+确调配各种成分并非易薰;而D选项将其曲解为塑料物品结构复杂，偏离文意，故排除。
+23. Museums stopped exhibiting some of 
+Gilardi's artworks to______ .
+A. keep them from hurting visitors
+B. duplicate them for future display
+C. have their ingredients analyzed
+D. prevent them from further damage
+博物馆停止展出吉拉迪的部分艺术作
+品，以______ O
+A, 防止它们伤害参观者
+B. 复制它们供将来展览
+C. 对其成分进行分析
+D, 防止它们受到进一步损坏
+选项出处
+三段。句
+五段。。句、七段。句
+二段。句
+四段❷•句
+【路径一】从题干的角度解答一如何得出正解
+找关键词：Museums stopped exhibiting和some of Gilardi's artworkso回文定位：根据关键词可定位至四段句， 
+其中，前者与四段•句中的Museums locked...away in the dark相对应,后者与四段❷句中的Gilardi's pumpkins, 
+roses, and other figures相对应。比对匹配：这两句提到，这种泡沫特别容易受到光照的损坏，到20世纪90年 
+
+----- PAGE 12 -----
+代中期，Gilardi的一些手工艺品开始裂开并坍塌，博物馆只好把其中一些锁藏在了黑暗中。由此可知，博物 
+馆把Gilardi的一些作品锁藏在黑暗中，是因为这些作品受到光照的损坏，开始裂开并坍塌。可见，博物馆停 
+止向公众展示Gilardi的部分艺术作品是为了防止它们受到进一步损坏，故D正确。
+【路径二】从选项的角度解答——如何排除干扰 
+_____________________________
+找关键词：visitors。回文定位：根据关键词可定位至三段。句，其与该句中的viewers相对应。比对匹配：
+A 该句提到，他（吉拉迪）希望观看者能在地毯上来回走动——这意味着它们必须经久耐用。此处并未提 
+及吉拉迪的艺术作品会伤害参观者的相关信息，故排除A。
+找关键词：future和display。回文定位：根据关键词可分别定位至七段❸句和五段。句。比对匹配：五 
+段。句提到，让她（欧斯汀）感到自豪的是，有几件雕塑作品甚至已经再次展出了。由此可知，展出的 
+并不是复制品，而是原艺术作品，故可初步判断B选项错误，但还需联系上文进一步确认该句中的展品 
+是否为吉拉迪的艺术作品。七段❸句指出，我们今天决定收藏什么，我们决定保存什么……将对我们未 
+B 来的形象产生重大影响。可见，此处提到的是我们未来的形象，与复制艺术作品供将来展览无关。辐射 
+匹配：五段❶句提到，范•欧斯汀和她的同事们致力于保护吉拉迪的雕塑作品。可见，五段。句中的 
+雕塑作品是吉拉迪的艺术作品。综上可推知，博物馆停止展出吉拉迪的一些艺术作品，是为了更好地保 
+护它们，从而在未来的展览中再次展出，而不是复制它们，然后展出复制品，故排除B。
+找关键词：ingredients。回文定位：根据关键词可定位至二段。句。比对匹配：该句提到，某些手工艺 
+C 品特别容易受到损坏，因为塑料艺术品的一些先驱并不总是知道如何正确地调配各种成分。此处并未提
+及要对吉拉迪的一些艺术作品的成分进行分析，故排除C。 
+O浏览后发现，该题属于观点态度题，仅从题干角度解题最为高效。
+24. The author thinks that preservation of plastics is______ .
+作者认为塑料物品的保存是—_。 
+选项出处
+A. costly
+A.昂贵的
+原文未提
+B. unworthy
+B.无价值的
+原文未提
+C. unpopular
+C.不受欢迎的
+原文未提
+D. challenging
+D.有挑战性的
+六段
+从题干的角度解答一一如何得出正解，排除干扰
+|找关键词：preservation of plastics。回文定位：根据关键词可定位至六段。句。比对匹配：该句提到，虽然有范•欧 
+斯汀这样的成功故事，但塑料物品的保存可能会变得更加困难。由此可初步判断D正确，但仍需联系下文进 
+一步验证。辐射匹配：六段❷❸句指出，旧的物品不断老化，更糟糕的是，为了可分解而设计的可生物降解 
+塑料物品越来越普遍。综上可知，作者认为塑料物品的保存是有挑战性的，故D正确。文中并未提及作者认 
+为塑料物品的保存是昂贵的（A选项）、无价值的（B选项）或不受欢迎的（C选项），故排除A、B、C。
+25. In Ferreira's opinion, preservation o£ plastic artifacts
+A. will inspire future scientific research
+B. has profound historical significance
+C. will help us separate the material ages
+D. has an impact on today's cultural life
+在费雷拉看来，塑料手工艺品的 
+保存=
+A. 将激励未来的科学研究
+B. 具有深远的历史意义
+C. 将有助于我们区分材料时代
+D. 对当今的文化生活有影响
+选项出处
+原文未提
+七段••句
+七段♦句
+七段。句
+【路径一】从题干的角度解答——如何得出正解
+!找关键词:~ 
+preservation of plastic artifacts；回文定位：根据关键词可定位至六段。句和七段❷句，
+其中preservation of plastic artifacts与六段。句中的preservation of plastics相对应。比对匹配：六段。句提 
+到，虽然有范•欧斯汀这样的成功故事，但塑料物品的保存可能会变得更加困难；七段❷句中，Ferreira指 
+出，考古学家对博物馆中的手工艺品进行考察后，首次定义了人类历史上伟大的材料时代——石器时代、铁 
+器时代等等。由七段❷句可知，博物馆中的手工艺品对定义历史上伟大的材料时代具有重要意义，由此可初 
+步判断B正确，但仍需进一步验证，因七段❸句提及塑料时代，故联系下文进一步分析。辐射匹配：七段 
+（•句继终擂述Ferreira的观点，费出我们如今生活隹二企塑丹时代，送旦我们今天决定收度什么,我们因定 
+12
+
+----- PAGE 13 -----
+"保存什么……将对我们未来的形象产生重大影响。”可见，塑料手工艺品的收藏和保存对我们的未来也具有重 
+大意义已由主暨•©迎■.知二塑料手工艺品的保存具有深远的历史意义，故B
+［路径二】从选项的角度解答——如何排除干扰
+A A选项内容在文中无法准确定位，文中并未提及未来的科学研究的相关信息，故排除
+找关键词：material ages0回文定位：根据关键词可定位至七段❷句。比对匹配：该句提到，考古学家 
+对博物馆中的手工艺品进行考察后，首次定义了人类历史上伟大的材料时代一一石器时代、铁器时代等 
+等。由此可推知，有助于我们区分材料时代的是博物馆中各类手工艺品的保存，而不只是塑料手工艺品 
+的保存，故排除C。
+找关键词：has an impact on。回文定位：根据关键词可定位至七段❸句。比对匹配：该句提到，我们如 
+今生活在一个塑料时代，并且我们今天决定收藏什么，我们决定保存什么……将对我们未来的形象产生 
+重大影响。此处提到的是塑料手工艺品的保存会对我们未来的形象产生重大影响，并非对当今的文化生 
+活有影响，故排除D。
+Text 2
+命题分析
+O_____
+t 
+% ♦卜#E
+Text 2选自2020年12月18日的The Telegraph （《每日电讯报》），原文标题为"Don't Fixate ovei Your 
+UCAS Form— ne Degree Won't Define Generation Z”（《不要抱着大学和学院招生服务中心的申请表不敢-------
+个大学学位并不能成为Z世代的特征》）。文章主要围绕“大学学位的价值和意义”展开，指出对于Z世代来说, 
+大学学位并不能成为他们的特征。
+题目设置：26题至30题均为细节理解题。 
+‘‘
+a 英汉对照】
+[IJOAs the latest crop of students pen their undergraduate 
+application form and weigh up their options, it may be worth 
+considering just how the point, purpose and value of a degree 
+has changed and what Generation Z need to consider as they 
+start the third stage of their educational journey.
+[2] ®Millennials were told that if you did well in school, got 
+a decent degree, you would be set up for life. ,But that promise 
+has been found wanting. ©As degrees became universal, they 
+became devalued. ©Education was no longer a secure route of 
+social mobility. •Today, 28 per cent of graduates in the UK are 
+in non-graduate roles, a percentage which is double the average 
+among OECD countries.
+[3] GThis is not to say that there is no point in getting a 
+degree, but rather stress that a degree is not for everyone, that 
+the switch from classroom to lecture hall is not an inevitable one 
+and that other options are available.
+[4] QThankfully, there are signs that this is already 
+happening, with Generation Z seeking to learn from their millennial 
+predecessors, even if parents and teachers tend to be still set in 
+the degree mindset. ©Employers have long seen the advantages 
+of hiring school leavers who often prove themselves to be more 
+committed and loyal employees than graduates. ©Many too are 
+（26）当最新一批学生填写他们的本科申 
+请表并仔细考虑他们可选择的学校时，或许值 
+得思考的恰恰是大学学位的意义、目酢和价值 
+已经发生了怎样的变化，以及Z世代在开启他 
+们教育旅程的第三阶段时需要考虑什么匕
+千禧一代曾被告知，如果你在学校表现出 
+色，获得了不错的学位，那么你就不用为生活 
+发愁了。但是结果却发现这一承诺并未兑现。 
+（27）随着大学学位的普及，它们开始贬■值。 
+学校教育不再是社会流动的可靠途径。如今， 
+英国28%的大学毕业生从事着无需大学文凭 
+的工作，这一比例是经济合作与发展组织成员 
+国平均水平的两倍。
+这并不是说获得大学学位没有意义，而是 
+强调大学学位并不适合所有人，从（高中的） 
+教室到（大学的）报告厅的转变并不是照例必 
+有的事，还有其他选择。
+（28）值得庆幸的是，有迹象表明这种情 
+况已经在发生了，Z世代试图向千襟一代的前 
+隼们学习，即使父母和老师往往固守学位观念。 
+雇主们早就领会了雇用中学毕业生的好处，这 
+些学生往往证明他们是比大学毕业生更尽心尽
+13
+
+----- PAGE 14 -----
+seeing the advantages of scrapping a degree requirement for 
+certain roles.
+[5] OFor those for whom a degree is the desired route, 
+consider that this may well be the first of many. ©In this age 
+of generalists, it pays to have specific knowledge or skills. 
+❸Postgraduates now earn 40 per cent more than graduates. 
+OWhen more and more of us have a degree, it makes sense to 
+have two.
+[6] Olt is unlikely that Generation Z will be done with 
+education al 18 or 21; they will need to be constantly up­
+skilling throughout their career to stay employable. ,It has 
+been estimated that this generation, due to the pressures of 
+technology, the wish for personal fulfilment and desire for 
+diversity, will work for 17 different employers over the course of 
+their working life and have five different careers. •Education, 
+and not just knowledge gained on campus, will be a core part of 
+Generation Z's career trajectory.
+[7] O01der generations often talk about their degree in 
+the present and personal tense: 4I am a geographer, or lI am a 
+ciassist'. STheir sons or daughters would never say such a thing; 
+it's as if they already know that their degree won't define them 
+in the same way.
+力、更忠诚的员工。许多雇主也逐渐明白对柔 
+些职位取消大学学位要求的好处。
+对于那些把获得大学学位看作理想途径的 
+人来说，要考虑到这个学位很可能是很多学位 
+中的第一个。(29)在这个全才时代，掌握特 
+定的知识或技能是有好处的。研究生现在的收 
+入比本科生高40%。当我们中越来越多的人拥 
+有一个学位时，拥有两个学位是明智的。
+Z世代在18或21岁结束学业是不太可能 
+的，他们需要在，整个职业生涯中不断提高技能， 
+以保持就业能力。据估计，由于技术的压力、 
+对个人成就的期望及对多元化的渴望，这一代 
+人将在他们的职业生涯中受雇于17个不同的 
+雇主，并从事5种不同的职业。教育，而不仅 
+仅是在校园里获得的知识，将成为Z世代职业 
+轨迹的核心要素。
+老一辈人经常用现在时和第一人称谈论他 
+们的学位：“我是一名地理学家”或"我是一 
+名阶级主义者”。他们的儿女们绝不会说这样 
+的话；就好像他们已经知道他们的学位不会以 
+同样的方式成为自己的特征。
+篇章结构
+第一段：引出话题——Z世代应重新评估大学教育的必要性
+［第二段: 说明大学学位开始贬值这一现状
+大学学位 
+并不是Z 
+世代的特 
+征
+第二至四段：描述现状并 
+阐释原因
+第三段:
+第四段:
+指出获得大学学位并非没有意义，只是要因人而异
+具体说明Z世代及雇主对大学学位态度的变化
+第五段：提出建议——获得一个大学学位的人应该在特定领域继续深造
+第六、七段：总结全文/ 第六段：指出Z世代必须保持终身学习
+第七段：点明大学学位并不会成为Z世代的特征
+答案解析】
+26. The author suggests that Generation Z 
+should・
+A. be careful in choosing a college
+B. be diligent at each educational stage
+C. reassess the necessity of college education
+D. postpone their undergraduate application
+文章作者建议，Z世代应该一
+A. 在选择大学时谨慎一些
+B. 在每个教育阶段都要勤奋
+C. 重新评估大学教育的必要性
+D. 推迟他们的本科申请
+选项出处
+二段。句、四段❷句 
+一段
+一段
+一段
+14
+
+----- PAGE 15 -----
+【路径一】从题干的角度解答一如何得出正解
+找关键词:WMrationL。回文定位：根据关键词可定位至一段、四段。句和六段，其与六段O句中的this 
+generation相对应。比对匹配：一段提到，当最新一批学生填写他们的本科申请表并仔细考虑他们可选择的学 
+校时，或许值得思考的恰恰是大学学位的意义、目的和价值已经发生了怎样的变化，以及Z世代在开启他们教 
+育旅程的第三阶段时需要考虑什么。由此可推知，作者建议最新一批学生（Z世代）思考大学学位的意义、目 
+的和价值，即建议Z世代应该重新评估大学教育的必要性，故C正确。已由一段得出正确答案，故不再分析 
+四段。句和六段。
+［路径二】从选项的角度解一如何排除干扰
+找关键词：；oHege。回文定位：根据关键词可定位至二段。句和四段•句，其与这两句中的school相对应。 
+比对匹配：二段❶句提到，千禧一代曾被告知，如果你在学校表现出色，获得了不错的学位，那么你就 
+不用为生活发愁了。四段❷句提到，雇主们早就领会了雇用中学毕业生的好处。这两处均未提及Z世代 
+应该在选择大学时谨慎一些的相关信息，故排除A。
+找关键词：educational和stage。回文定位：根据关键词可定位至一段。比对匹配：一段提到，当最新一 
+B 批学生填写他们的本科申请表并仔细考虑他们可选择的学校时，或许值得思考的恰恰是Z世代在开启他 
+们教育旅程的第三阶段时需要考虑什么。该段只提到Z世代在开启他们教育旅程的第三阶段时要提前考 
+虑一些事情，并未提及Z世代应该在每个教育阶段都要勤奋的相关信息，故排除B。
+找关键词：their undergraduate application。回文定位：根据关键词可定位至一段°比对匹配：一段指出， 
+当最新一批学生填写他们的本科申请表并仔细考虑他们可选择的学校时，或许有一些事情值得思考。此 
+处是在说最新一批学生（Z世代）开始填写他们的本科申请表时，需要思考一些事情，并非他们应该推 
+迟本科申请.故排除D。
+27. The percentage of UK graduates in non- 
+graduate roles reflects
+从事无需大学文凭的工作的英国 
+大学毕业生的比例反映了 
+。
+选项出处
+A. Millennials' opinions about work
+B. the shrinking value of a degree
+C. public discontent with education
+D. the desired route of social mobility
+A. 千禧一代对工作的看法
+B. 大学学位价值的缩水
+C. 公众对教育的不满
+D. 社会流动的理想途径
+二段。句、四段。句
+二段❸。❸句
+二段。句、六段。•句 
+二段。句、五段。句
+【路径一】从题干的角度解答一如何得出正解
+找关键词：The percentage of UK graduates in non-graduate roleso回文定位：根据关键词可定位至二段•句，其 
+与该句中的28 per cent of graduates in the UK are in non-graduate roles相对应。比对匹配：该句指出，如今，英国 
+28%的大学毕业生从事着无需大学文凭的工作，这一比例是经济合作与发展组织成员国平均水平的两倍。该句 
+虽提及从事无需大学文凭的工作的英国大学毕业生的比例，但要判断这一数据所反映的问题，还需联系上文。 
+辐射匹配：二段❸❹句提到，随着大学学位的普及，它们开始贬值，学校教育不再是社会流动的可靠途径。 
+综上可知，二段。句所列数据正是❸❹句所论述内容的具体反映。由此可知，从事无需大学文凭的工作的英 
+国大学毕业生的比例反映了大学学位价值的缩水，故B正确。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：Millennial。回文定位：根据关键词可定位至二段。句和四段。句。比对匹配：二段•荷毫 
+到，千禧一代曾被告知，如果你在学校表现出色，获得了不错的学位，那么你就不用为生活发愁了。四段 
+A ❶句提到，Z世代试图向千禧一代的前辈们学习，即使父母和老师往往固守学位观念。可见，二段。句 
+并未体现千禧一代对工作的看法，四段。句暗含的意思是：千禧一代并不固守学位观念，认为学位对工 
+作而言并不重要。这虽然是千禧一代对工作的看法，但与题干所问不符，故排除A=
+找关键词：education。回文定位：根据关键词可定位至二段•句和六段。•句。比对匹配：二段。句 
+提到，学校教育不再是社会流动的可靠途径。六段•句提到，Z世代在18或21岁结束学业是不太可能的； 
+c ❸句提到，教育，而不仅仅是在校园里获得的知识，将成为Z世代职业轨迹的核心要素。这三句均未体 
+现公众对教育不满，故排除C。
+15
+
+----- PAGE 16 -----
+找关键洞the desired route和social mobility。回文定位・根据关键词可分别定位至五段。句和—段。句。 
+比对匹配：二段。句提到，学校教育不再是社会流动的可靠途径。五段。句提到，对于那些把获得大
+D 学学位看作理想途径的人来说，要考虑到这个学位很可能是很多学位中的第一个。由此可知，D选项是 
+利用二段。句中的social mobility和五段•句中的the desired route杂糅设置的干扰项，文中并未提及从 
+事无需大学文凭的工作的英国大学毕业生的比例反映了社会流动的理想途径的相关信息，故排除。
+28. The author considers it a good sign that•
+A. Generation Z are seeking to earn a decent degree
+B. school leavers are willing to be skilled workers
+C. employers are taking a realistic attitude to degrees
+D. parents are changing their minds about education 
+【路径一】从题干的角度解答-—
+—如何得出正解
+作者认为 一个好迹象。
+A. Z世代正试图获得一个不错的学位
+B. 中学毕业生愿意成为技术工人
+C. 雇主们对大学学位采取一种务实的态度
+D. 父母正在改变他们对教育的想法
+选项出处
+四段。句
+四段♦句
+四段8句
+四段❶句
+，找关键虱sign：回文定位:根据关键词向忘莲丽❶句。比对匹配：该句雇瓦值得庆幸的是.有迹象表 
+明这种情况已经在发生了，Z世代试图向千禧一代的前辈们学习，即使父母和老师往往固守学位观念。仅由该 
+句无法判断答案，还需联系下文。辐射匹配：四段❷句提到，雇主们早就领会了雇用中学毕业生的好处，这 
+些学生往往证明他们是比大学毕业生更尽心尽力、更忠诚的员工。综上可知，雇主们越来越看重员工的实际能 
+力，而非学历。可见，他们对大学学位采取一种务实的态度，而由该句中的“值得庆幸的是”可知，这在作者 
+看来是一种好迹象，故c正确。
+【路径二】从选项的角度解答一一如何排除干扰
+找关键词：Generation Z are seeking too回文定位：根据关键词可定位至四段•句。比对匹配：该句提到， 
+值得庆幸的是，有迹象表明这种情况已经在发生了，Z世代试图向千禧一代的前辈们学习，即使父母和
+A 老师往往固守学位观念。由表示让步的内容“即使父母和老师往往固守学位观念”可知，Z世代试图学 
+习的并不是如何获得一个不错的学位，故排除A。 
+......... ... .............................. .........  ... .................  ....... .....
+找关键词：school leaverso回文定位：根据关键词可定位至四段♦句。比对匹配：该句提到，雇主们早
+B 就领会了雇用中学毕业生的好处，这些学生往往证明他们是比大学毕业生更尽心尽力、更忠诚的员工。 
+该句表明中学毕业生往往证明他们比大学毕业生更忠于职守，并非他们愿意成为技术工人，故排除B。 
+找关键词：parents和minds。回文定位：根据关键词可定位至四段。句，其中minds与该句中的mindset
+D 相对应。比对匹配：该句提到，Z世代试图向千禧一代的前辈们学习，父母和老师往往固守学位观念。 
+可见父母对于教育的想法，即获得大学学位这一观念并未改变，D选项表述与此相悖，故排除。
+【路径一】从题干的角度解答——如何得出正解
+29. It is advised in Paragraph 5 that those
+五段建议，那些拥有一个学位的人应
+选项出处
+with one degree should______ .
+该______ O
+A. make an early decision on their career
+A.尽早做出自己的职业抉择
+六段
+B. attend on-the-job training programs
+B,参加在职培训课程
+原文未提
+C. team up with high-paid postgraduates
+C.与高薪研究生合作
+五段♦句
+D. further their studies in a specific field
+D.在特定领域深造
+五段
+找关键词：Paragraph5、those和one degreeo回文定位：根据关键词可定位至五段❶。句。比对匹配：五段 
+❶句提到，对于那些把获得大学学位看作理想途径的人来说，要考虑到这个学位很可能是很多学位中的第一 
+个；。句提到，当我们中越来越多的人拥有一个学位时，拥有两个学位是明智的。由此可知，要想成功，仅有 
+二个大学学位是不够的，但由此仍无法判断答案，故还需联系五段其他内容。辐射匹配：五段。句提到，在 
+这个全才时代，掌握特定的知识或技能是有好处的；，句提到，研究生现在的收入比本科生高40%。综上可推知， 
+拥有一个学位很可能只是开始，这些学位拥有者应该掌握特定的知识或技能，即在特定的领域继续学习，D选 
+项表述与此相符，故正确。
+
+----- PAGE 17 -----
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：慕er。回文定位「根据关键词苛施莽段。比对匹配：*段。句提到，Z世代需要在整 
+个职业生涯中不断提高技能；❷句提到，Z世代将在他们的职业生涯中受雇于17个不同的雇主，并从事 
+5种不同的职业；，句提到，教育，而不仅仅是在校园里获得的知识，将成为Z世代职业轨迹的核心要素。 
+这三句均未提到那些拥有一个学位的人应该尽早做出自己的职业抉择的相关信息，故排除Ao
+B B选项内容在文中无法准确定位，文中并未提及在职培训课程的相关信息，故排除。
+找关键词：postgraduateso回文定位：根据关键词可定位至五段❸句。比对匹配；该句提到，研究生现 
+C 在的收入比本科生高40%。该句仅提及研究生的收入高于本科生，并未提及拥有一个学位的人应与高薪
+研究生合作的相关信息，故排除C。
+30. What can be concluded about Generation Z from
+关于Z世代，从最后两段可以得出什
+the last two paragraphs?
+么样的结论？
+选项出处
+A. Lifelong learning will define them.
+A.终身学习将成为他们的特征。
+六、七段
+B. They will make qualified educators.
+B.他们将成为合格的教育工作者。
+六段。句
+C. Degrees will no longer appeal to them.
+C.大学学位将不再吸引他们。
+二段❸句、三段
+D. They will have a limited choice of jobs.
+D.他们可选择的工作将很有限。
+原文未提
+【路径一】从题干的角度解答一一如何得出正解
+找关键词：Generation Z和the last two paragraphs。回文定位：根据关键词可定位至六段，其中Generation Z与， 
+六段❷句中的this generation相对应。比对匹配：六段•句指出，Z世代在18或21岁结束学业是不太可能的， 
+他们需要在整个职业生涯中不断提高技能，❷句提到，由于种种原因，这一代人（Z世代）将在他们的职业生 
+涯中受雇于17个不同的雇主，并从事5种不同的职业；❸句提到，教育，而不仅仅是在校园里获得的知识， 
+将成为Z世代职业轨迹的核心要素。由六段内容可知，学校教育的结束并不是Z世代学习的终点，他们还需要 
+不断学习以提高自身技能，由此可初步判断A正确，但还需联系下文进一步验证。辐射匹配：七段提到，老 
+一辈人经常用现在时和第一人称谈论他们的学位，但他们的儿女们绝不会说这样的话，就好像他们已经知道他 
+们的学位不会以同样的方式成为自己的特征。综上可知，与老一辈人的想法不同，在Z世代看来，大学学位并 
+不能成为自己的特征，终身学习才会成为他们的特征，故A正确。
+【路径二〕从选项的角度解答——如何排除干扰
+找关键词：qualified和educators。回文定位：根据关键词可定位至六段。句，其中qualified与该句中的 
+employable相对应，educators与该句中的education为同根词。比对匹配：该句提到，Z世代在18或21 
+B 岁结束学业是不太可能的，他们需要在整个职业生涯中不断提高技能，以保持就业能力。该句只是在说 
+明学校教育的结素不是Z世代学习的终点，他们还需要不断提升自身技能，并未提及Z世代将成为合格 
+的教育工作者的相关信息，故排除B。
+找关键词：Degrees will no longer appeal to them。回文定位：根据关键词可定位至二段,句和三段，其与 
+二段❸句中的 degrees...became devalued 和三段中的 there is no point in getting a degree 相对应。比对匹配：' 
+C 二段❸句提到，随着大学学位的普及，它们开始贬值。三段提到，这并不是说获得大学学位没有意义，
+而是强调大学学位并不适合所有人。这两句只提及大学学位开始贬值且大学学位并不是适合所有人，由 
+此并不能推知大学学位将不再吸引Z世代，故排除Co
+D D选项内容在文中无法准确定位,文中并未提及Z世代可选择的工作将很有限的相关信息，故排除。
+17
+
+----- PAGE 18 -----
+Text 3
+如•套外牧奇■
+Q 命题分析］
+Text 3 选自 2021 年 2 月 24 日的 Nature (《自然》)，原文标题为 '* Collaborations with Artists Go Beyond 
+Communicating the Science"(《与艺术家的合作不仅限于传播科学》)。文章通过论述艺术-科学合作带来的好 
+处，指出互利的合作才是最有价值的合作，艺术-科学合作需要做的不仅仅是传播科学。
+题目设置：31题、33题、34题和35题为细节理解题，32题为写作目的题。
+英汉对照，
+[1 ]*Enlightening, challenging, stimulating, fun. •These 
+were some of the words that Nature readers used to describe 
+their experiences of art-science collaborations in a series 
+of articles on partnerships between artists and researchers. 
+•Nearly 40% of the roughly 350 people who responded to an 
+accompanying poll said they had collaborated with artists; and 
+almost all said they would consider doing so in future.
+[2] »Such an encouraging result is not surprising. 
+•Scientists are increasingly seeking out visual artists to help 
+them communicate their work to new audiences.❸"Artists 
+help scientists reach a broader audience and make emotional 
+connections that enhance learning/' one respondent said.
+[3] S0ne example of how artists and scientists have 
+together rocked the senses came last month when the Sydney 
+Symphony Orchestra performed a reworked version of Antonio 
+Vivaldi's The Four Seasons. ,They reimagined the 300-year- 
+old score by injecting the latest climate prediction data for each 
+season—provided by Monash University's Climate Change 
+Communication Research Hub.❸The performance was a 
+creative call to action ahead of November's United Nations 
+Climate Change Conference in Glasgow, UK.
+[4] «But a genuine partnership must be a two-way street. 
+❷Fewer artists than scientists responded to the Nature poll; 
+however, several respondents noted that artists do not simply 
+assist scientists with their communication requirements. 
+❸Nor should their work be considered only as an object of study. 
+•The alliances are most valuable when scientists and artists 
+have a shared stake in a project, are able to jointly design it and 
+can critique each other's work. •Such an approach can both 
+prompt new research as well as result in powerful art.
+[5] ®More than half a century ago, the Massachusetts 
+Institute of Technology opened its Center for Advanced Visual 
+(31)具有启发磐〉挑战性、激励性和乐 
+趣。这些是《:自然》秦志的读者在一系列关于 
+艺术家和研究人员合作的文章中描述他们自 
+己的艺术-科学合作经历时所用的一些词汇。 
+(31)在对一项附带民意调查做出回复的约 
+350人中，近40%的人表示，他们与艺术家合 
+作过；布且几乎所有人都表示，他们将来会考 
+虑这样做。
+如此鼓舞人心的结果并不令人意外。科学 
+家们正越来越多地寻求视觉艺术家来帮助他们 
+将自己的研究成果传达给新的受众。“艺术家 
+帮助科学家接触更广泛的受众，并与他们建立 
+可以加强学习的情感上的联系。"一名调查对 
+象说道。
+上个月，悉尼交响乐团演奏了安东尼奥•维 
+瓦尔第的《四季》改编版，这是艺术家和科学 
+家如何共同打造感官盛宴的一个范例。(32)也 
+们通过添加莫熟什大学气候变化交流研究中心 
+提供的每个季节的最新气候预测数据，重新构 
+想了这个有着300年历史的乐谱。这场表演先 
+于11月英国格拉斯哥举行的联合国气候变化 
+大会，是对人们行动的一次创造性呼吁。
+(33) 但真正的合作必须是互利的。回复 
+《自然》杂志民意调查的艺术家比科学家少， 
+然而，一些调查对象指出，艺术家不仅仅是在 
+帮助科学家满足他们的传播需求。他们的作品 
+也不应仅仅被视为研究对象。(34 )当科学家 
+和艺术家在一个项目中有着共同的利益，能够 
+共同规划这个项目，并且能够评判彼此的工作 
+成果时，这种联合才是最有价值的。这种方法 
+既可以促进新的研究,，也可以催生有影响力的 
+艺术。
+(34) 半个多世纪前，麻省理工学院开设 
+了其高级视觉研究中心(CAVS),以探索科技 
+在丈化中的作用。创始人们有意将他们项目的
+18
+
+----- PAGE 19 -----
+Studies (CAVS) to explore the role of technology in culture. 
+©The founders deliberately focused their projects around 
+light—hence the 'visual studies' in the name. OLight was a 
+something that both artists and scientists had an interest in, and 
+therefore could form the basis of collaboration.❹As science 
+and technology progressed, and divided into more sub-disciplines, 
+the centre was simultaneously looking to a time when leading 
+researchers could also be artists, writers and poets, and vice versa.
+[6附/Vamre's poll findings suggest that this trend is as strong 
+as ever, but, to make a collaboration work, both sides need to 
+invest time, and embrace surprise and challenge. •The reach of 
+art-science tie-ups needs to go beyond the necessary purpose of 
+research communication, and participants must not fall into the 
+trap of stereotyping each other. ©Artists and scientists alike are 
+immersed in discovery and invention, and challenge and critique 
+are core to both, too.
+重点放在“光”上——于是，名字里面就有了 “视 
+觉研究” O光是艺术家和科学家都感兴趣的东 
+西，因此可以成为合作的基础。随着科学和技 
+术的进步，以及它们被划分为更多的分支学科， 
+该中心同时也在展望这样一个时代：杰出的研 
+究人员也能成为艺术家、作家和诗人，反之亦 
+然。
+《自然》杂志的民意调查结果表明，这种 
+趋势一如既往地强烈，但是，要想使合作奏效， 
+双方都需要投入时间，并欣然接受意外和挑成。 
+(35)艺术-科学合作的范围要不仅限于研究的 
+传播这一必要目的，参与者也一定不能落入对 
+彼此抱有刻板印象的陷阱。艺术家和科学家都 
+沉浸在发现和发明中，挑战和评判也是他们最 
+重要的事情。
+篇章结构
+艺术-
+科学合 
+作要不＜
+仅限于
+传播科 
+学
+第一段：引出话题一引出艺术-科学合作这一话题，并借用民意调查结果说明人们对这一合作的态度 
+第二、三段：介绍艺术-
+科学合作带.
+来的好处并
+举例说明 
+第四、五段：论述“互利的合
+作才最有价值”.
+并举例说明
+第六段：总结全文——艺术-科学合作要不仅限于传播科学
+•第二段：艺术-科学合作带来的好处——艺术家可以帮助科学家接触更广泛 
+的受众，并与受众建立可以加强学习的情感联系
+.第三段：以安东尼奥•维瓦尔第的《四季》改编版的表演为例说明艺术-科 
+学合作的好处
+第四段：利用民意调查中艺术家的担忧说明互利的合作才最有价值 
+第五段:以高级视觉研究中心的创建及发展为例说明互利的合作才最有价值
+0)答案解析’
+【路径一】从题干的角度解答——如何得出正解
+31. According to Paragraph 1, art-science collaborations
+根据一段可知，艺术-科学合作
+选项出处
+have 
+.
+已经 
+。
+A. caught the attention of critics
+A,引起了评论家的注意
+四段。句、六段❸句
+B. received favourable responses 丁
+B.得到了好的反响
+_段
+C. promoted academic publishing」
+C.推动了学术出版的发展
+原文未提
+D. sparked heated public disputes
+D,引发了公众的激烈争论
+一段❸句
+找关键词：Paragraph 1和art-science collaborations。回文定位：根据关键词可定位至一段♦句。比对匹配：该 
+句提到，这些是《自然》杂志的读者在一系列关于艺术家和研究人员合作的文章中描述他们自己的艺术-科 
+学合作经历时所用的一些词汇。仅由该句无法得知关于艺术-科学合作的更多信息，故需联系上下文。辐射 
+匹配：一段。句提到了一段,句中“一些词汇”的具体内容——具有启发性、挑战性、激励性和乐趣：一段 
+❸句提到，在对一项附带民意调查做出回复的约350人中，近40%的人表示，他们与艺术家合作过；而且几 
+乎所有人都表示，他们将来会考虑这样做。由一段•❷句可知，《自然》杂志的读者描述自己艺术-科学合 
+作经历时所用的词汇均为积极正面的词汇。另外，从一段•句的民意调查结果可以看出，约350人中，有近 
+40%的人与艺术家合作过，而且几乎所有人都有将来与艺术家合作的意愿。综上可知，艺术-科学合作已经得 
+到了好的反响，故B正确。
+19
+
+----- PAGE 20 -----
+【路径二〕从选项的角度解答——如何排除干扰
+A
+D
+criticso 回文定位：雇据关键向可定位至四国。确天S •荷，其与这两荷币的critique为' 
+同根词。比对匹配：四段。句提到，当科学家和艺术家在一个项目中有着共同的利益.能够共同规划这; 
+个项目，并且能够评判彼此的工作成果时，这种联合才是最有价值的。六段•句指出，艺术家和科学家； 
+都沉浸在发现和发明中，挑战和评判也是他们最重要的事情。这两处提及的评判均指艺术家和科学家对 
+彼此工作的评判，与评论家无关，而且文章中也未提及评论家的相关信息，故排除A。
+C选项内容在文中无法定位，文中并未提及学术出版的相关信息，故排除。
+找关键词：publico回文定位：根据关键词可定位至一段❸句，其与该句中的all相对应。比对匹配：该句 
+提到，在对一项附带民意调查做出回复的约350人中，近40%的人表示，他们与艺术家合作过；而且几 
+乎所有人都表示，他们将来会考虑这样做。由此可推知，很多人对于艺术-科学合作持支持态度，文中 
+并未提及这种合作引发了公众的激烈争论的相关信息，故排除D。
+32. The reworked version of The Four Seasons is mentioned 
+to show that.
+A. art can offer audiences easy access to science
+B. science can help with the expression of emotions
+C. public participation in science has a promising future
+D. art is effective in facilitating scientific innovations
+文中提到《四季》的改编版是为了说
+明______ / 
+■
+A. 艺术可以更便手听众三解科学
+B. 科学可以帮助人们表达情感
+C, 公众参与科学有良好的前景
+D, 艺术能有效促进科学创新
+选项出处
+三段
+三段
+原文未提
+三段❸句
+O浏览后发现，该题属于特殊类别中的写作目的题，仅从题干角度解题最为高效。
+从题干的角度解答一如何得出正解，排除干扰 
+，找关键词：The reworked version of The Four Seasonsa回文定位：根据关键词可定位至三段❶句。比对匹配：该 
+句提到，上个月，悉尼交响乐团演奏了安东尼奥•维瓦尔第的《四季》改编版，这是艺术家和科学家如何共同 
+打造感官盛宴的一个范例。但由此无法得知提及这一作品的用意，故需联系下文。辐射匹配：三段•句提到， 
+他们通过添加对每个季节的最新气候预测数据，重新构想了这个有着300年历史的乐谱；三段❸句提到，这 
+场表演先于H月英国格拉斯哥举行的联合国气候变化大会，是对人们行动的一次创造性呼吁。综上可知，安 
+东尼奥•维瓦尔第的《四季》改编版中融入了最新气候预测数据，这使听众轻而易举就能在欣赏艺术的同时了 
+解科学，而且这场表演也让人们在气候变化大会之前就在一定程度上认识到，为了共同应对气候变化，自己应 
+该有所行动。可见，艺术可以更便于听众了解科学，故A正确。
+根据三段内容可知，该段旨在说明艺采家在其作品中向人们传播科学，而非科学可以帮助人们表达情感，故排 
+除B。文中并未提及公众参与科学的前景问题.故排除C。三段❸句指出这一表演（《四季》改编版的演奏） 
+是气候变化大会之前对人们行动的一次创造性呼吁，意在表达利用艺术向人们传播科学这一方式富有创意，但 
+:由此并不能推断出艺术能有效促进科学创新，故排除D。
+33. Some artists seem to worry that in the art-
+一些艺术家似乎担心，在艺术-科学合
+选项出处
+science partnership
+作中 
+。
+A. their role may be underestimated
+A.他们的作用可能会被低估
+四段❶••句
+B. their reputation may be impaired
+B.他们的名誉可能会受损
+原文未提
+C. their creativity may be inhibited
+C.他们的创造力可能会受到抑制
+三段
+D. their work may be misguided
+D.他们的工作可能会被误导
+二段❷句、四段❸句
+［路径一】从题干的角度解答——如何得出正解
+找关键词：航ership。回文定位：根据关键词可定位至一段，句和四段❶句。比对匹配：一真，有提到，这 
+些是《自然》杂志的读者在一系列关于艺术家和研究人员合作的文章中描述他们自己的艺术-科学合作经历时 
+所用的一些词汇。四段。句提到，但真正的合作必须是互利的。由此无法得出答案，故需联系下文。辐射匹配： 
+一段❸句提到，在对一项附带民意调查做出回复的约350人中，近40%的人表示，他们与艺术家合作过；而 
+且几乎所有人都表示，他们将来会考虑这样做。此处并未提及艺术家担心的相关信息，还需分析四段❶句的 
+下文。四段❷❸句提到，回复《自然》杂志民意调查的艺术家比科学家少，然而，一些调查对象指出，艺术 
+家不仅仅是在帮助科学家满足他们的传播需求，他们的作品也不应仅仅被视为研究对象。由四段••句可知，
+20
+
+----- PAGE 21 -----
+一些艺术家认为，他们在艺术-科学合作中做出的贡献不仅限于帮助科学家满足他们的传播需求，还有其他的 
+贡献，他们的作品也不应仅仅被视为研究对象。由四段••❸句可推知，艺术家们似乎担心自己在这一合作中 
+发挥的作笙哗被低色，故A正确。 
+j
+【路径二〕从选项的角度解答——如何排除干扰
+B B选项内容在文中无法定位，文中并未提及艺术家担心自己的名誉可能会受损的相关信息，故排除。
+找关键词：creativityo回文定位：根据关键词可定位至三段❸句，其与该句中的creative为同根词。比对 
+匹配：该句提到，这场表演先于11月英国格拉斯哥举行的联合国气候变化大会，是对人们行动的一次 
+创造性呼吁。此处仅提及表演的创造性，但由此无法得知这里的“表演”与艺术家有何关联，故需联系 
+上文。辐射匹配：三段❶❷句指出，悉尼交响乐团的《四季》改编版演奏是艺术家和科学家合作的一个 
+范例，他们在重新构想的乐谱中融入了最新的气候预测数据。综上可知，艺术-科学合作是富有创意的。 
+因此，在艺术-科学合作中，创造力受到抑制一般不会成为艺术家担心的问题，故排除C。
+找关键词：their work0回文定位：根据关键词可定位至二段❷句和四段❸句。比对匹配：二段•句提到， 
+科学家们正越来越多地寻求视觉艺术家来帮助他们将自己的研究成果传达给新的受众。四段❸句提到， 
+D 他们（艺术家们）的作品也不应仅仅被视为研究对象。二段•句虽提及艺术家的相关工作，即帮助科学 
+家将成果传达给新的受众.但并未提及艺术家的工作可能会被误导；四段❸句也仅提及目前对待艺术家 
+作品的不当之处，亦无法推出艺术家的工作可能被误导，故排除D。
+34. What does the author say about CAVS?
+A. It was headed alternately by artists and scientists.
+B. It exemplifled valuable art-science alliances.
+C. Its projects aimed at advancing visual studies.
+D. Its founders sought to raise the status of artists.
+【路径一】从题干的角度解答——如何得出正解 
+关于高级视觉研究中心（CAVS）,作者 
+说了什么？
+A. 它由艺术家和科学家交替领导。
+B. 它体现了有价值的艺术-科学联合。
+C. 它的项目旨在推进视觉研究。
+D. 它的创始人试图提升艺术家的地位。
+选项出处
+原文未提
+四段。句、五段
+五段，句
+五段❷❸句
+找关键词：CAVSo回文定位：根据关键词可定位至五段。句。比对匹配：该句提到，半个多世纪前，麻省理 
+工学院开设了其高级视觉研究中心（CAVS）,以探索科技在文化中的作用。由此无法得出答案，故需联系上下文。 
+辐射匹配：四段。句提到，当科学家和艺术家在一个项目中有着共同的利益，能够共同规划这个项目，并且 
+能够评判彼此的工作成果时，这种联合才是最有价值的。五段♦至。句提到，（高级视觉研究中心的）创始 
+人们有意将他们项目的重点放在“光”上，光是艺术家和科学家都感兴趣的东西，因此可以成为合作的基础。 
+随着科学和技术的进步，以及它们被划分为更多的分支学科，该中心同时也在展望杰出的研究人员也能成为艺 
+术家、作家和诗人，反之亦然的这样一个时代。综上可知，作者在四段。句指出艺术和科学的互利合作才是 
+最有价值的，随即在五段以高级视觉研究中心（CAVS）为例，介绍了该中心的开设目的、项目重点以及对未 
+来的展望,说明该中心体现了有价值的艺术-科学联合，故B正确。
+［路径二】从选项的角度解答——如何排除干扰
+A A选项内容在文中无法定位，五并未提及高薮视觉研究中心的领导问题，故排除。
+找关键词：projects和visual studies。回文定位：根据关键词可定位至五段❷句。比对匹配：该句提到， 
+（高级视觉研究中心的）剧始人们有意将他们项目的重点放在“光”上——于是，名字里面就有了 “视 
+° 觉研究”。此处虽提到了高级视觉研究中心的名字中"视觉研究”四个字与该中心的项目重点有关，但 
+由此无法推知该中心的项目旨在推进视觉研究，故排除C。
+找关键词：founders和artists。回文定位：根据关键词可定位至五段•❸句。比对匹配：这两句提到，创 
+始人们有意将他们项目的重点放在“光”上——于是，名字里面就有了 “视觉研究”；光是艺术家和科 
+D 学家都感兴趣的东西，因此可以成为合作的基础。此处意在说明创始人给项目命名时基于艺术家和科学 
+家合作基础的考量，并不是创始人试图提升艺术家的地位，故排除D。
+35. In the last paragraph, the author holds that art­
+science collaborations 
+.
+在最后一段中，作者认为艺术-科学合
+作 
+。
+选项出处
+A. are likely to go beyond public expectations
+B. will intensify interdisciplinary competition
+A. 可能会超出公众的预期
+B. 将加剧跨学科竞争
+六段♦句 
+五段❸句
+21
+
+----- PAGE 22 -----
+C. should do more than communicating science 
+C.应该做的不仅仅是传播科学 
+六段♦❸句丁
+D. are becoming more popular than before 
+D.正在变得比以前更受欢迎 
+六段❶句i .
+【路径一】从题干的角度解答——如何得出正解 
+翁
+找关键词：the last paragraph和art-science collaborationso回文定位：根据关键词可定位至六段•句，其中art- 
+I science collaborations与该句中的art-science tie-ups表意相同。比对匹配：该句提到，艺术-科学合作的范围萋 
+不仅限于研究的传播这一必要目的，参与者也一定不能落入对彼此抱有刻板印象的陷阱。由此可初步判断C世 
+确，还需结合下文进行验证。辐射匹配：六段♦句提到，艺术家和科学家都沉浸在发现和发明中，挑战和评 
+判也是他们最重要的事情。综上可知，作者认为艺术-科学合作应该做的不仅仅是传播科学，故C正确。
+1----------------------------------------------------------------------------------------------------------------------------------------------------------
+【路径二】从选项的角度解答——如何排除干扰
+而T嘉beyond。回文定位：根据关键词可定位至六段•句。比对匹配：该句提到，艺术-科学合 
+作的范围要不仅限于研究的传播这一必要目的，参与者也一定不能落入对彼此抱有刻板印象的陷阱。可 
+见该句是在说明艺术-科学合作要超越研究的传播这一必要目的，并未提及其是否可能会超出公众的预 
+期，故排除A。
+找关键词：interdisciplinaryo回文定位：根据关键词可定位至五段。句，其与该句中的more sub- 
+disciplines相对应。比对匹配：该句提到，随着科学和技术的进步，以及它们被划分为更多的分支学科， 
+该中心同时也在展望这样一个时代：杰出的研究人员也能成为艺术家、作家和诗人，反之亦然。该句虽 
+提到科学和技术被划分为更多的分支学科，但这与加剧跨学科竞争无关，故排除B。
+找关键词：are becoming more popularG回文定位：根据关键词可定位至六段。句，其与该句中的is as 
+strong as ever相对应。比对匹配：该句提到，《自然》杂志的民意调查结果表明，这种趋势(艺术-科学 
+合作的趋势)一如既往地强烈。此处是在说明艺术-科学合作的趋势跟以前一样强烈，并非艺术-科学 
+合作正在变得比以前更受欢迎，故排除D。
+Text 4
+Q 命题分析」
+配套外救音频
+Text 4选自智库“新西兰倡议(The New Zealand Initiative) ” 2021年6月21日发布的一篇文章，原文标题 
+为 **Research Note: Nothing Costs Nothing—Why Unjustified Dismissal Laws Should Not Apply to the Highly PaidM (《研 
+究笔记：没有什么是无需付出任何代价的一为什么不正当的解雇法不该应用于高薪的雇员》)。本文主要围绕 
+新西兰不正当的解雇法展开论述。
+题目设置：36题至40题均为细节理解题。
+a 英汉对照】
+[1] SThe personal grievance provisions of New Zealand's 
+Employment Relations Act 2000 (ERA) prevent an employer from 
+firing an employee without good cause. •Instead, dismissals 
+must be justified. •Employers must both show cause and act in 
+a procedurally fair way.
+[2] SPersonal grievance procedures were designed to guard 
+the jobs of ordinary workers from "unjustified dismissals''. SThe 
+premise was that the common law of contract lacked sufficient 
+safeguards for workers against arbitrary conduct by management. 
+©Long gone are the days when a boss could simply give an 
+employee contractual notice.
+"But these provisions create difficulties for businesses 
+when applied to highly paid managers and executives.❷As 
+countless boards and business owners will attest, constraining 
+(36)新西兰于2000年通过的《履佣关系 
+法〉(ERA)的个人申诉条款防止雇主无正当 
+理由解晨晨员。相反,解雇必须是有正当理由 
+的。雇主必须说明理由，并在程序上以公正的 
+方式行事。
+(36) 个人申诉程序旨在保护普通员工的 
+工作免受"不正当解雇”的影响。其前提是， 
+合同判例法缺乏充分的保护措施来保护员工免受 
+管理层任意解雇行为的侵害。老板仅用一纸合同 
+通知就能解雇员工的0子早已一去不复返了。
+(37) 但是，当这些条款应用于高薪的经 
+理和高管时，就会给公司带来困难。正如无数 
+董事会和公司所有者将证明的那样，限制公
+22
+
+----- PAGE 23 -----
+firms from firing poorly performing, high-earning managers is 
+a handbrake on boosting productivity and overall performance. 
+❸The difference between C-grade and A-grade managers may 
+very well be the difference between business success or failure. 
+©Between preserving the jobs of ordinary workers or losing 
+them.❺Yet mediocrity is no longer enough to justify a dismissal.
+[4)
+®Consequently
+—and paradoxically—
+—laws introduced to 
+Y 
+. 
+.
+protect the jobs of ordinary workers may be placing those jobs at 
+risk.
+[5]
+Olf
+ not placing jobs at risk, to the extent employment 
+protection laws constrain business owners from dismissing 
+underperforming managers, those laws act as a constraint on 
+firm productivity and therefore on workers' wages. ©Indeed, in 
+"An International Perspective on New Zealand's Productivity 
+Paradox'* (2014), the Productivity Commission singled out the 
+low quality of managerial capabilities as a cause of the country's 
+poor productivity growth record.
+[6] 0Nor are highly paid managers themselves immune from 
+the harm caused by the ERA’S unjustified dismissal procedures. 
+❷Because employment protection laws make it costlier to fire 
+an employee, employers are more cautious about hiring new 
+staff. ©This makes it harder for the marginal manager to gain 
+employment.❹And firms pay staff less because firms carry the 
+burden of the employment arrangement going wrong.
+[7] ®Society also suffers from excessive employment protections. 
+•Stringent job dismissal regulations adversely affect productivity 
+growth and hamper both prosperity and overall well-being.
+[8] ❶Across the Tasman Sea, Australia deals with the 
+unjustified dismissal paradox by excluding employees earning 
+above a specified "high-income threshold" from the protection 
+of its unfair dismissal laws. ®In New Zealand, a 2016 private 
+members' Bill tried to permit firms and high-income employees 
+to contract out of the unjustified dismissal regime. ©However, 
+the mechanisms proposed were unwieldy and the Bill was voted 
+down following the change in government later that year.
+a 篇章结构】
+司解雇高薪低能的经理是提高生产率和整体业 
+绩的一个手刹c C级和A级经理之间的区别很 
+可能就是公司成功与失败之间的区别。是保住 
+普通员工的工作还是失去工作之间的区别。然 
+而，平庸已不再足以成为解雇的理由。
+因此-自相矛盾的是---- 为保护普通员 
+工的工作而出台的法律可能会将那些工作置于 
+危险之中。
+就算就业保护法没有将那些工作置于危险
+之中，其在一定程度上限制公司所有者解雇表 
+现不佳的经理，也会使公司生产率受限，从而 
+使员工薪资受限。事实上，在《关于新西兰生 
+产率悖论的国际视角》（2014 ）中，生产力委 
+员会特别指出，管理能力低下是新西兰生产率 
+增长纪录不佳的一个原因。
+高薪的经理自身也无法免受ERA的不正当 
+的解雇程序所造成的伤害。由于就业保护法使 
+得解雇雇员的成本更高，因此雇主在聘用新雇 
+员时更加谨慎。这使得边缘经理更难获得就业 
+机会。而且，（39 ）由于公司承受着就业安排 
+出销的负担，所以公司付给雇员的工资•更,少。
+社会也遭受过度就业保护的影响。严格的 
+解雇规定会对生产率增长产生不利影响，阻碍 
+社会繁荣和整体福利。
+在塔斯曼海的另一边，（40）澳大利亚通 
+过将收入超过规定的“高收入门槛”的雇员排 
+除在其不公平解雇法的保护之外，来应对不正 
+当的解雇悖论。在新西兰,2016年的一项私 
+人成员法案设法允许公司和高收入雇员退出不 
+正当的解雇制度。然而，提议的机制难以运作， 
+该法案在当年晚些时候政府换届后被否决。
+新西兰 
+不正当 
+的解雇 
+法
+第一、二段：引出话题——介绍新西兰于2000年通过的《雇佣关系法》（ERA ）的个人申诉条款的大 
+前提及影响
+第三段：对公司的影响一限制公司解雇高薪低能的经理,进而阻碍公司 
+生产率和整体业绩的提高
+第四段：对普通员工的影响——可能会将其工作置于危险之中
+第五段：进一步指出不正当的解雇法可能会导致员工薪资受限
+第六段：对高薪经理的影响一边缘经理更难获得就业机会；公司付给雇员 
+的工资更少
+概内容、目的、
+第三至七段：分析新西兰不 
+正当的解雇法 
+对公司、普通 
+员工、高薪经 
+理和社会的影 
+响
+第七段：对社会的影响一一对生产率增长产生不利影响，阻碍社会繁荣和整体
+福利
+第八段：以澳大利亚和新西兰为例，介绍应对不正当的解雇悖论的方法
+23
+
+----- PAGE 24 -----
+答案解析
+36. The personal grievance provisions of the 
+ERA are intended to______ .
+____
+ERA的个人申诉条款旨在___ o 
+选项出处
+A. punish dubious corporate practices
+A.惩罚可疑的公司行为
+原文未提
+B. improve traditional hiring procedures
+B,改进传统的聘用程序
+六段•♦句:.3
+C. exempt employers from certain duties
+C.免除雇主的某些责任
+一段❶❸句、六段•句
+D. protect the rights of ordinary workers 
+【路径一】从题干的角度解答一如何得出正解
+D.保护普通员工的权利
+-段❶句、二段❶恁
+|找关键词：The personal grievance provisionsx ERA和are intended too回文定位：根据关键词可定位至一段。句 
+和二段。句，其中 The personal grievance provisions 与二段•句中的 Personal grievance procedures 相对应，j 
+intended to与二段。句中的were designed to表意相同。比对匹配：一段。句提到，新西兰于2000年通过的《雇佣 
+|关系法》（ERA ）的个人申诉条款防止雇主无正当理由解雇雇员。二段•句提到，个人申诉程序旨在保护普通 
+'员工的工作免受“不正当解雇”的影响。综上可知，ERA的个人申诉条款旨在保护普通员工的权利，故D正确。g .
+【路径二】从选项的角度解答一一如何排除干扰
+A「I选项内容在文中无法定位，文中并未提及惩罚可疑的公司行为的相关信息，故排除。-
+找关键词：hiring和procedures。回文定位：根据关键词可定位至六段••句。比对匹配：这两句提到， 
+高薪的经理自身也无法免受ERA的不正当的解雇程序所造成的伤害。由于就业保护法使得解雇雇员的成 
+本更高，因此雇主在聘用新雇员时更加谨慎。可见，这两句所提到的内容是ERA所导致的结果，并非 
+其目的，且此处并未提及传统的聘用程序的相关信息，故排除B。
+找关键词：employers。回文定位:根据关键词可定位至一段g句和六段•句。比对匹配：一段。句提到， 
+个人申诉条款防止雇主无正当理由解雇雇员；一段•句提到，雇主必须说明理由，并在程序上以公正的 
+方式行事。六段，句提到，由于就业保护法使得解雇雇员的成本更高，因此雇主在聘用新雇员时更加谨 
+慎。这三处均未提及免除雇主的某些责任的相关信息，故排除C。
+37. It can be learned from Paragraph 3 that the 
+provisions may______ .
+从三段可以得知，这些条款可能_____
+O
+选项出处
+A. hinder business development
+B. undermine managers* authority
+C. affect the public image of the firms
+D. worsen labor-management relations
+A. 阻碍公司发展
+B. 削弱经理的权威
+C. 影响公司的公众形象
+D. 使劳资关系恶化
+三段••句
+三段。句
+原文未提
+一段。句
+【路径一】从题干的角度解答——如何得出正解
+:找关键词：Paragraph 3和the provisions。回文定位：根据关键词可定位至三段。句。比对匹配：该句提到，当 
+这些条款（个人申诉条款）应用于高薪的经理和高管时，就会给公司带来困难。由此可初步判断A正确.但 
+还需联系下文进一步印证。辐射匹配：三段❷句提到，（个人申诉条款）限制公司解雇高薪低能的经理是提 
+高生产率和整体业绩的一个手刹。综上可知，这些条款限制公司解雇高薪低能的经理，对公司生产率和整体业 
+绩的提高起到阻碍作用，A选项内容是对此的合理概括，故正确。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：managem。回文定位：因关键词在文中多次出现，无法准确定位，故结合题干信息ParagrapG 
+B 3和the provisions可定位至三段。句。比对匹配：该句提到，当这些条款（个人申诉条款）应用于高薪 
+的经理和高管时，就会给公司带来困难，此处并未提及削弱经理权威的相关信息，故排除B。
+c C选项内容在文中无法定位，文中并未提及影响公司公众形象的相关信息，故排除C。
+找关键词：relations。回文定位：根据关键词可定位至一段。句。比对匹配：该句提到，新西兰于2000 
+年通琶的《雇佣关系法》（ERA ）的个人申诉条款防止雇主无正当理由解雇雇员。由此可知，个人申诉 
+D 条款茬防止雇主无正当理由解雇雇员方面对雇佣关系（又称“劳资关系”）是有利的，即个人申诉条款 
+在某些方面对劳资关系是有利的，因此个人申诉条款并不一定会使劳资关系恶化，D选项表述过于绝对， 
+故排除。
+24
+
+----- PAGE 25 -----
+38. Which of the following measures would the 
+Productivity Commission support?
+A. Imposing reasonable wage restraints.
+B. Enforcing employment protection laws.
+C. Limiting the powers of business owners.
+g・ Dismissing poorly performing managers.
+【路径一】从题干的角度解答一如何得出正解
+生产力委员会会支持以下哪项措施?
+A. 实行合理的工资限制措施。
+B. 强制实施就业保护法。
+C. 限制公司所有者的权力。
+D. 解雇表现不佳的经理。
+选项出处
+五段。句
+五段。句、六段❷句
+三段❷句、五段。句
+五段
+，找关键词：the Productivity Commission。回文定位：根据关键词可定位至五段❷句。比对匹配：该句提到，事实上，： 
+:在《关于新西兰生产率悖论的国际视角》（2014 ）中，生产力委员会特别指出，管理能力低下是新西兰生产率 
+增长纪录不佳的一个原因。由此尚无法得出答案，故需联系上文。辐射匹配：五段❶句提到，就业保护法在 
+串定程度上限制公司所有者解雇表现不佳的经理，也会使公司生产率受限，从而使员工薪资受限。综上可推知」 
+生产力委员会会支持解雇表现不佳的经理，D选项内容是对此的同义转述，故正确。
+【路径二〕从选项的角度解答一如何排除干扰
+找关键词：wage restraintso回文定位：根据关键词可定位至五段。句，其与该句中的a constraint...on... 
+wages相对应。比对匹配：该句提到，就业保护法在一定程度上限制公司所有者解雇表现不佳的经理， 
+也会使公司生产率受限，从而使员工薪资受限。此处仅提到的员工薪资受限是就业保护法对员工薪资的 
+影响，与实行合理的工资限制措施无关，故排除A。
+找关键词：employment protection laws0回文定位：根据关键词可定位至五段。句和六段❷句。比对匹 
+配：五段。句提到，就业保护法在一定程度上限制公司所有者解雇表现不佳的经理，也会使公司生产率 
+受限，从而使员工薪资受限。六段。句提到，由于就业保护法使得解雇雇员的成本更高，因此雇主在聘 
+用新雇员时更加谨慎。这两处均为就业保护法的消极影响，由此可推知，就业保护法可能不会受到支持， 
+故初步判定B错误，但还需结合上下文进行验证。辐射匹配：五段。句提到，生产力委员会特别指 
+出，管理能力低下是新西兰生产率增长纪录不佳的一个原因。综上可知，就业保护法不利于公司解雇表« 
+现不佳的经理，会对企业整体管理能力的提升造成消极影响，而在生产力委员会看来，管理能力低下不! 
+利于新西兰的生产率增长，因此生产力委员会可能不会支持强制实施就业保护法，故排除B。
+找关键词：business owne锵。回文定位：根据关键词可定位至三段•句和五段。句。比对匹配：三段 
+❷句提到，正如无数董事会和公司所有者将证明的那样，（个人申诉条款）限制公司解雇高薪低能的经 
+C 理是提高生产率和整体业绩的一个手刹。五段•句提到，就业保护法在一定程度上限制公司所有者解雇
+表现不佳的经理。综上可知，就业保护法会在一定程度限制公司所有者的权力，但此处并未提及生产力［ 
+委员会是否会支持限制公司所有者权力的相关信息，故排除Co
+39. What might be an effect of ERA's 
+unjustified dismissal procedures?
+A. Highly paid managers lose their jobs.
+B. Employees suffer from salary cuts. r
+C. Society sees a rise in overall well-being.
+D. Employers need to hire new staff.
+ERA的不正当的解雇程序可能会产 
+生什么影响？
+A. 高薪的经理失去他们的工作。
+B. 雇员被减薪。
+C. 社会的整体福利有所提高。
+D. 雇主需要聘用新雇员。
+选项出处
+三段❶❷句、六段❶❷•句
+六段
+七段
+六段•句
+【路径一】从题干的角度解答——如何得出正解
+找关键词：ERA's unjustified dismissal procedures0回文定位：根据关键词可定位至六段•句。比对匹配：该句: 
+提到，高薪的经理自身也无法免受ERA的不正当的解雇程序所造成的伤害。由此尚无法得出答案，故需联系 
+下文。辐射匹配：六段❷♦句提到，由于就业保护法使得解雇雇员的成本更高，因此雇主在聘用新雇员时更 
+加谨慎，这使得边缘经理更难获得就业机会；六段。句提到，由于公司承受着就业安排出错的负担，所以公j 
+司付给雇员的工资更少。综上可知，ERA的不正当的解雇程序可能会使边缘经理更难获得就业机会以及使雇; 
+员被减薪，故B正确。_____________________________________________________________________________
+【路径二】从选项的角度解答一如何排除干扰 
+_____________________________
+找关键词：Highly paid managerso 回文定位：根据王蜂词可定位至三段oe句和六段❶句，其与三段❷ 
+A 句中的high-earning managers相对应。比对匹配：三段99句提到，当这些条款应用于高薪的经理和高 
+25
+
+----- PAGE 26 -----
+管时，就会给公司带来困难；限制公司解雇高薪低能的经理是提高生产率和整体业绩的一个手刹。六段 
+。句提到,高薪的经理自身也无法免受ERA的不正当的解雇程序所造成的伤害。由此无法得知ERA的 
+不正当的解雇程序对高薪的经理具体造成哪方面的伤害，故需联系下文。辐射匹配：六段■❸句提到，
+A 由于就业保护法使得解雇雇员的成本更高，因此雇主在聘用新雇员时更加谨慎，这使得边缘经理更难获 
+得就业机会。由此可知，ERA的不正当的解雇程序可能会使边缘经理更难获得就业机会，但这并不意味 
+着高薪的经理会失去工作，故排除A。
+找关键词：Society和overall well-being。回文定位：根据关键词可定位至七段。比对匹配：七段。句提斯, 
+社会也遭受过度就业保护的影响；七段❷句提到，严格的解雇规定会对生产率增长产生不利影响，阻碍 
+c 社会繁荣和整体福利。综上可知，过度就业保护会阻碍社会的整体福利，而非提高社会的整体福利.故
+排除C。
+找关键词：Employers和hire new staff。回文定位：根据关键词可定位至六段,句。比对匹配：该句提到, 
+D 由于就业保护法使得解雇雇员的成本更高，因此雇主在聘用新雇员时更加谨慎。此处意在说明不正当的
+解雇程序会导致雇主在聘用新雇员时更加谨慎，而非雇主需要聘用新雇员，故排除D。
+--------------------------------------------------------------------------------------------- -r]-----------------------------------------
+40. It can be inferred that the "high-income 
+threshold'' in Australia 
+.
+从文中可以推断出，澳大利亚的“高收 
+入门槛” 
+。
+选项出处
+A. has secured managers' earnings
+A.已保证了经理的收入
+三段❷句、八段。句
+B. has produced undesired results
+B.已产生了不希望得到的结果
+原文未提
+C. is beneficial to business owners
+C.对公司所有者有利
+八段。句
+D. is difficult to put into practice 
+D.是难以付诸实践的
+【路径一】从题干的角度解答——如何得出正解
+八段❷❸句
+找关键词：*'high-income threshold"和Australia。回文定位：根据关键词可定位至八段❶句。比对匹配：该句 
+提到，澳大利亚通过将收入超过规定的“高收入门槛”的雇员排除在其不公平解雇法的保护之外，来应对不正 
+当的解雇悖论。由此可知，在澳大利亚，公司所有者解雇收入超过规定的“高收入门槛”的雇员不受解雇法的 
+限制，可见，澳大利亚的“高收入门槛”对公司所有者有利.故C正确。
+【路径二〕从选项的角度解答——如何排除干扰
+找关键词:earnings。回文定位：根据关键词可定位至三段•句和八段。句。比对匹配：三段。句提到， 
+正如无数董事会和公司所有者将证明的那样，限制公司解雇高薪低能的经理是提高生产率和整体业绩的 
+A 一个手刹。八段。句提到，澳大利亚通过将收入超过规定的“高收入门槛”的雇员排除在其不公平解雇 
+法的保护之外，来应对不正当的解雇悖论。这两处均未提及澳大利亚的“高收入门槛”已保证了经理的 
+收入，故排除A。
+B选项内容在文中无法定位，文中并未提及澳大利亚的“高收入门槛”已产生了不希望得到的结果的相 
+关信息，故排除,
+找关键词：is difficult to put into practice0回文定位：根据关键词可定位至八段。句，其与该句中的 
+unwieldy表意相近。比对匹配：该句提到，提议的机制难以运作，该法案在当年晚些时候政府换届后被否 
+决。此处虽提及提议的机制难以运作，但由此无从得知提议的机制是否与澳大利亚的“高收入门槛”相关， 
+故需结合上文。辐射匹配：八段•句提到，在新西兰，2016年的一项私人成员法案设法允许公司和高 
+收人雇员退出不正当的解雇制度。由此可知，此处难以运作的提议的机制是新西兰的私人成员法案提出 
+的，与澳大利亚的“高收入门槛”无关，故排除D。
+Q 命题分析】
+Part (J)
+航*，卜牧音貌 
+今年的阅读理解Part B部分属于七选五题型中的观点匹配类型。文章选自2021年7月3日的The New York 
+Times （《纽约时报》）,原文标题为''Debating the Morality and Value of Zoos"（《辩论动物园是否合乎道德和 
+有价值》几文章主要阐述了来自不同行业的五位人士对埃玛•马里斯的一篇题为“The Case Against Zoos”（《反 
+对动物园的理由》）的文章的评论。
+26
+
+----- PAGE 27 -----
+白i-
+♦ (41) Teri Byrd
+11 |®I was a zoo and wildlife park employee for years. •Both 
+,|ie wildlife park and zoo claimed to be operating for the benefit of 
+the animals and for conservation purposes. ©This claim was false. 
+©Neither one of them actually participated in any contributions to 
+^nimal research or conservation. ®They are profitable institutions 
+^whose bottom line is much more important than the condition of 
+the animals.
+[21❹Animals despise being captives in zoos. ®No matter 
+.how you "enhance" enclosures, they do not allow for freedom, a 
+natural diet or adequate exercise. •Animals end up stressed and 
+unhealthy or dead.❸It's past time for transparency with these 
+institutions, and it's past time to eliminate zoos from our culture.
+(42) Karen R. Sime
+、[3]OAs a zoology professor, 1 agree with Emma Marris that 
+zoo displays can be sad and cruel. ・But she underestimates the 
+educational value of zoos.
+[4] ®The zoology program at my university attracts students 
+for whom zoo visits were the crucial formative experience that led 
+them to major in biological sciences. ®These are mostly students 
+who had no opportunity as children to travel to wilderness areas, 
+wildlife refuges or national parks. •Although good TV shows 
+can help stir children's interest in conservation, they cannot 
+replace the excitement of a zoo visit as an intense, immersive 
+and interactive experience. ©Surely there must be some middle 
+ground that balances zoos, treatment of animals with their 
+educational potential.
+(43) Greg Newberry
+[5] ®Emma Marris's article is an insult and a disservice to the 
+thousands of passionate, dedicated people who work tirelessly to 
+improve the lives of animals and protect our planet. ©She uses 
+outdated research and decades-old examples to undermine the 
+noble mission of organizations committed to connecting children 
+to a world beyond their own. ；
+[6] *Zoos are at the forefront of conservation and constantly 
+evolving to improve how they care for animals and protect each 
+species in its natural habitat. ®Are there tragedies? ©Of course. 
+OBut they are the exception, not the norm that Ms. Marris implies. 
+©A distressed animal in a zoo will get as good or better treatment 
+than most of us at our local hospital.
+(44) Dean Gallea
+[7] ®As a fellow environmentalist, animal-protection advocate 
+and longtime vegetarian, I could properly be in the same camp as 
+Emma Marris on the issue of zoos. OBut I believe that well-run 
+zoos, and the heroic animals that suffer their captivity, do serve a 
+higher purpose. ©Were it not for opportunities to observe these 
+(41) 特而•伯德
+我曾在动物园和野生动物园工作多年。埒 
+生动物园和动物园都声称为了动物的利益和出 
+于保护动物的目的而运营。这种说法与事实不 
+符。这两者实际上都没有为动物研究或保护工 
+作做出过任何贡献。它们是营利性机构，其最 
+终的损益比动物的健康状况重要得多。
+动物厌恶被圈禁在动物园里。无论你如何 
+"改善”圈养的地方，它们都不能使动物无拘无 
+束、享受到天然的食物或者得到足够的运动。 
+动物最终会变得焦虑、虚弱或死亡。早该让这 
+些机构透明化了，也早该把动物园从我们的文 
+化中清除了。
+(42) 卡伦.R,赛姆
+作为一名动物学教授，我认同埃玛•马里 
+斯的观点——动物园展出可能是可悲且残忍的。 
+但她低估了动物园的教育价值。
+我所在大学的动物学课程吸引了一些学生， 
+对他们而言，参观动物园是至关重要的成长经 
+历，这些经历促使他们主修了生物科学专业。 
+这些学生大多数是小时候没有机会去自然保护 
+区、野生动物保护区或国家公园旅行的学生。 
+虽然好的电视节目有助于激发孩子们对动物保 
+护的兴趣，但它们并不能取代动物园参观这种 
+强烈的、身临其境的且具有互动，性的体验所带 
+来的兴奋感。当然，必须有一些折中的方法来 
+平衡动物园对待动物的方式和动物园的教育 
+潜力。
+(43) 格雷格•纽伯里
+埃玛•马里斯的文章是对成千上万热情、 
+敬业的动物工作者的侮辱和伤害，他们不知疲 
+倦地工作，以改善动物的生活并保护我们的星 
+球。她•利用过时的研究和几十年前的例子，K. 
+低.了一些组织“致力于让儿童接触他们自我世 
+界以外的世界”的崇高使命。
+动物园处于动物保护的最前沿，其在不断 
+发展以改善它们照顾动物及保护自然栖息地中 
+的每一个物种的方式。有悲剧发生吗？当然有. 
+但它们都是特例，而不是马里斯女士所暗示的 
+常态。动物园里的一只身体虚弱的动物得到的 
+治疗与我们大多数人在当地医院得到的治疗一 
+样好，或者更好。
+(44) 迪安•加莱
+作为环保主义者、动物保护倡导者和长期 
+素食主义者的同行人，在动物园问题上，我本 
+应理所当然地和埃玛•马里斯站在同一阵营。 
+但我相信，经营良好的动物园，以及遭受圈禁 
+的英勇的动物，确实是为一个更为高尚的目的
+27
+
+----- PAGE 28 -----
+beautiful, wild creatures close to home, many more people would 
+be driven by their fascination to travel to wild areas to seek out, 
+disturb and even hunt them down.
+[8] «Zoos are, in that sense, similar to natural history and 
+archaeology museums, serving to satisfy our need for contact with 
+these living creatures while leaving the vast majority undisturbed 
+in their natural environments.
+(45) John Fraser
+[9] ®Emma Marris selectively describes and misrepresents 
+the findings of our research. ©Our studies focused on the impact 
+of zoo experiences on how people think about themselves and 
+nature, and the data points extracted from our studies do not, in 
+any way, discount what is learned in a zoo visit.
+[10建Zoos are tools for thinking. ®0ur research provides 
+strong support for the value of zoos in connecting people with 
+animals and with nature. ©Zoos provide a critical voice for 
+conservation and environmental protection. ©They afford an 
+opportunity for people from all backgrounds to encounter a range 
+of animals, from drone bees to springbok or salmon, to better 
+understand the natural world we live in.
+•选项信息精译
+A. Zoos, which spare no effort to take care of animals, should not 
+be subjected to unfair criticism.
+B. To pressure zoos to spend less on their animals would lead to 
+inhumane outcomes for the precious creatures in their care.
+C. While animals in captivity deserve sympathy, zoos play a 
+significant role in starting young people down the path of 
+related sciences.
+D. Zoos save people trips to wilderness areas and thus contribute 
+to wildlife conservation.
+E. For wild animals that cannot be returned to their natural 
+habitats, zoos offer the best alternative.
+F. Zoos should have been closed down as they prioritize 
+moneymaking over animals' well-being.
+G. Marris distorts our findings, which actually prove that zoos 
+serve as an indispensable link between man and nature.
+服务。如果不是有机会在家附近观察这些美丽 
+的野生动物，更多的人就会被它们的魅力所驱 
+使从而前往野外寻找、打扰甚至追捕它们。
+从这个意义上讲，动物园类似于自然历史 
+和考古博物馆，能够满足我们与这些活生生的 
+动物接触的需求，同时让绝大多数生物在它们 
+所处的自然环境中不受干扰。
+(45)约翰•弗雷泽
+埃玛•马里斯选择性地描述和歪曲了我们 
+的研究结果。我们的研究侧重于动物园体验对 
+人们如何看待自己和自然的影响，而且从我们 
+的研究中提取的数据点绝对不是在贬低参观动 
+物园所学到的'东西。
+动物园是思考的工具。我们的研究为动物 
+园在将人与动物和自然联系起来方面的价值提 
+供了强有力的支持。动物园为动物保护和环境 
+保护发出了重要的呼声。它们为不同背景的人 
+们提供了一个机会，让这些人邂逅各种各样的 
+动物，从雄蜂到跳羚或铤鱼，从而更好地了解 
+我们所生存的自然界，
+A. 动物园不遗余力地照顾动物，它们不应受到 
+不公平的批评。
+B. 迫使动物园减少在动物身上的花费，会使它 
+们所照顾的珍贵生物被残忍对待。
+C. 虽然被圈禁的动物值得同情，但动物园在引 
+导年轻人走上相关自然科学的道路方面发 
+挥着重要作用。
+D. 动物园使人们无需前往自然保护区旅行，从 
+而为野生动物保护做出了贡献。
+E. 对无法回归自然栖息地的号生动物而言，动 
+物园是最好的选择。
+F. 动物园本就应该被关闭，因为它们优先考虑 
+的是赚钱而不是动物的健康。
+G. 马里斯歪曲了我们的发现，这些发现实际上 
+证明了动物园是人类与自然之间不可或缺 
+的纽带。
+a
+辩论动物园是
+否合乎道德和《
+有价值
+•第一、二段：特丽•伯德对动物园进行了批判，认为早就应该清除动物园
+第三、四段：卡伦• R.赛姆认同动物园展出是残忍的，但也肯定了动物园的教育价值
+第五、六段：格雷格•纽伯里肯定了动物园为照顾和保护动物所做的努力，认为其不应受到不 
+公平的批评
+第七、八段：迪安•加莱认为动物园的存在让绝大多数动物在它们所处的自然环境中不受干扰
+.第九、十段：约翰•弗雷泽肯定了动物园在将人与动物和自然联系起来方面的价值
+28
+
+----- PAGE 29 -----
+答案解析.
+1 由人名Teri Byrd可定位至一、二段。
+分析一、二段内容可知，一段省句和二段。句分别是对Teri Byrd观点的总述，一、二段其他内容 
+为分述。浏览后，提取涉及Teri Byrd观点的核心内容。
+一段•句： ...whose bottom line is much more important than the condition of the animals. 
+-
+F 项: Zoos should have been closed down as they prioritize moneymaking over animals* well-being.
+41
+2
+—段 ❹句：...it's past time to eliminate zoos from our culture.
+分析可知，F 选项中的 Zoos should have been closed down 与二段❹句中的 it's past time to eliminate 
+zoos from our culture 表意相近o —段。句中的 whose 指代一段❷句中的 the wildlife park and zoo, 
+F选项中的they指代该选项中的Zoos,因此F选项中的they prioritize moneymaking over animals* 
+well-being 与一段•句中的 whose bottom line is much more important than the condition of the animals 表 
+意相同，故F为答案选项。 
+【答案F】
+1 
+由人名Karen R. Sime可定位至三、四段。
+分析三、四段内容可知，三段是对Karen R. Sime观点的总述，四段是对其观点的进一步论证。浏览后， 
+提取涉及Karen R. Sime观点的核心内容。
+三段••句 :...I agree with...that zoo displays can be sad and cruel. But she underestimates the educational | 
+value of zoos.
+42 
+--------------
+2 
+C 项： While animals in captivity deserve sympathy, zoos play a significant role in starting young people down 
+the path of related sciences.
+分析可知，C 选项中的 animals in captivity deserve sympathy 与三段。句中的 zoo displays can be sad 
+and cruel 相呼应，C 选项中的 zoos play a significant role in starting young people down the path of related 
+sciences与三段•句中的the educational value of zoos相呼应，故C为答案选项。 
+【答案C】
+1 由人名Greg Newberry可定位至五、六段。
+分析五、六段内容可知，五段。句和六段。句分别是对Greg Newberry观点的总述，五段•句和 
+,六段其余内容分别为补充说明和分述的内容。浏览后，提取涉及Greg Newberry观点的核心内容。
+五段。句：，.an insult and a disservice to the thousands of...dedicated people who work tirelessly to improve 
+the lives of animals... 
+~
+I 3
+43 
+, A 项：Zoos, which spare no effort to take care of animals, should not be subjected to unfair criticism.
+■ 2 ： . |
+六段•句： Zoos are at the forefront of conservation...they care for animals and protect each species...
+分析可知，A 选项中的 Zoos, which spare no effort to take care of animals 与五段。句中的 the thousands 
+of...dedicated people who work tirelessly to improve the lives of animals 和六段❶句中的 Zoos are at the 
+forefront of conservation... they care for animals and protect each species 表意相近，A 选项中的 unfair 
+criticism与五段。句中的an insult and a disservice相呼应，故A为答案选项。 
+【答案A】
+29
+
+----- PAGE 30 -----
+1 由人名Dean Gallea可定位至七、八段。
+分析七、八段内容可知，八段是对Dean Gallea观点的总述，七段为分述。浏览后，提取涉及Dean 
+Gallea观点的核心内容。
+/I段： Zoos are, in that sense...serving to satisfy our need for contact with these living creatures while leaving 
+the vast majority undisturbed in their natural environments. 
+--------
+44 
+2
+D 项: Zoos save people trips to wilderness areas and thus contribute to wildlife conservation.
+分析可知，八段中的 in that sense 指的是七段❸句中的 Were it not for opportunities...many more people 
+would be...to travel to wild areas to seek out, disturb and even hunt them down,因此 D 选项中的 Zoos save 
+people trips to wilderness areas 与八段中的 in that sense 和 Zoos are...serving to satisfy our need for contact with 
+these living creatures 相呼应，D 选项中的 contribute to wildlife conservation 与八段中的 leaving the vast 
+majority undisturbed in their natural environments 表意相近，故 D 为答案选项。 
+【答案 D]
+1 由人名John Fraser可定位至九、十段。
+分析九、十段内容可知，九段。句和十段♦句是对John Fraser观点的总述，九段❷句和十段其 
+余内容分别为进一步说明和分述的内容。浏览后，提取涉及John Fraser观点的核心内容。
+九F殳 O 句: Emma Marris...misrepresents the findings of our research.
+m .
+G 项: Marris distorts our findings, which actually prove that zoos serve as an indispensable link between
+45 
+2 man and nature.
++ E殳 ❷句： Our research provides strong support for the value of zoos in connecting people with animals 
+and with nature.
+分析可知，G 选项中的 Marris distorts our findings 与九段。句中的 Emma Marris...misrepresents the 
+findings of our research 表意相同，G 选项中的 which actually prove 和 zoos serve as an indispensable link 
+between man and nature 分别与十段•句中的 Our research provides strong support 和 the value of zoos in 
+connecting people with animals and with nature 表意相近，故 G 为答案选项° 
+[答案 G]
+干扰项排除,
+由选项关键词inhumane可定位至三段❶句，其与该句中的cruel表意相同。分析该句可知，此处指的是 
+B 动物园展出可能是残忍的.并未提及B选项内容“迫使动物园减少在动物身上的花费，会使它们所照顾
+的珍贵生物被残忍对待”，故排除。
+由选项关键信息natural habitats可定位至六段。句。分析该句可知，此处指的是动物园改善它们保护自 
+E 然栖息地中的每一个物种的方式，与E选项内容“对无法回归自然栖息地的野生动物而言，动物园是最
+好的选择”无关，故排除。
+a 命题分析】
+PartQ
+■外 *+«
+今年的翻译文章节选自Mark Urban的书籍The Man Who Broke Napoleon's Codes （《破解拿破仑密码的人》）， 
+文章主要讲述了 19世纪初拿破仑时期伊比利亚半岛之争的密码破译战。虽然背景信息比较复杂，但就考查的5个 
+句子来看，句式结构并不复杂，和往年一样主要考查宾语从句、定语从句、形式主语等常见句式结构。但今年的 
+翻译文章中考查了一些相对生僻的固定搭配，如46题中的well read和50题中的speak volumes abouto 5个划线句中， 
+有一个句子只截取了半句，需要考生在翻译划线句时充分考虑上下文语境。综合来看，虽然文章背景信息复杂， 
+但是考生只要大致浏览文章，抓住“加密者与破译者之间的战争”这一历史背景，大部分问题就能迎刃而解。因此, 
+考生在面对这类背景信息特别复杂的文章时，不能畏难，要坚持浏览完整篇文章，了解其大致背景。
+30
+
+----- PAGE 31 -----
+英汉对照】
+[1] OBetween 1807 and 1814 the Iberian Peninsula (comprising 
+Spain and Portugal) was the scene of a titanic and merciless 
+struggle. •It took place on many different planes: between 
+Napoleon's French Amiy and the angry inhabitants; between the 
+British, ever keen to exacerbate the emperor's difficulties, and the 
+marshals sent from Paris to try to keep them in check; between new 
+forces of science and meritocracy and old ones of conservatism and 
+birth. ©(46) It was also, and this is unknown even to many people 
+well read about the period, a battle between those who made codes 
+and those who broke them.
+[2] ®I first discovered the Napoleonic code-breaking battle a 
+few years ago when I was reading Sir Charles Oman's epic History 
+of the Peninsular War. ©In volume V he had attached an appendix, 
+'The Scovell Ciphers.,' ❸(47) It listed many documents in code 
+that had been captured from the French Army of Spain, and whose 
+secrets had been revealed by the work of one George Scovell, an 
+officer in British headquarters. ©Oman rated ScoveU's significance 
+highly, but at the same time, the general nature of his History meant 
+that (48) he could not analyze carefully what this obscure officer 
+may or may not have contributed to that great struggle between 
+nations or indeed tell us anything milch about the man himself. 
+©Keen to read more, I was surprised to find that Oman's appendix, 
+published in 1914, was the only considered thing that had been 
+written about this secret war.
+[3] OI became convinced that this story was every bit as exciting 
+and significant as that of Enigma and the breaking of German codes 
+in the Second World War. ©The question was, could it be told?
+[4] OStudying ScoveU's papers at the Public Record Office, 
+London, I found that he had left an extensive journal and copious 
+notes about his work in the peninsula. ©What was more, many 
+original French dispatches had been preserved in this collection, 
+which, I realized, was priceless. ©(49) Thgre may have been many 
+spies and intelligence officers during the Napoleonic Wars, but 
+it is usually extremely difijpult to find the material they actually 
+provided or worked on.-
+[5] OAs I researched ScoveU's story, I found far more of interest 
+besides his intelligence work.❷His status in Lord Wellington's 
+headquarters and the recognition given to him for his work were 
+bound up with the class politics of the Army at the time. ©His 
+story of self-improvement and hard work would make a fascinating 
+biography in its own right, but represents something more than 
+that. ®(50) Just as the code-breaking has its wider relevance in 
+the struggle for Spain, so his attempts to make his way up the 
+promotion ladder speak volumes about British society.
+1807年到1814年间，伊比利亚半岛（包 
+括西班牙和葡萄牙）曾发生过一场艰巨而残酷 
+的战争。这场战争在许多不同层面展开：在拿 
+破仑的法国军队和愤怒的当地居民之间；在一 
+直渴望加剧（法兰西）帝国困境的英军和从巴 
+黎派来的试图阻止他们的法军将领之间；在科 
+学及精英领导体系主导的新势力和保守主义及 
+血统主导的旧势力之间。（46）它也是一场发生 
+在加密者与破译者之间的战争，这一点甚至许 
+多熟知这一时期历史的人都不知道。
+几年前，我在阅读查尔斯•欧曼爵士的史 
+诗巨著《半岛战争史》时，第一次注意到拿 
+破仑时期的密码破译战。他在第五卷加了附 
+录“斯科韦尔密码”。（47）该附录列出了许 
+多从驻扎西班牙的法军处敏获■的加密文件，这 
+些丈件的秘密已经通过英国司令部的一位名叫 
+乔治•斯科韦尔的军官的工作得以揭升。欧 
+曼对斯科韦尔的重要性给予了高度评价，但同 
+时，他的《半岛战争史》概括，性的特点意味着 
+（48）他无法细致分析这位衅为人知的军官具 
+体为那次国家间的大战做出过什么贡献，也确 
+实无法告诉我们关于这位军官本人的多少事 
+也_我渴望读到更多史料记栽，却惊讶地发现， 
+1914年出版的欧曼附录是记裁这场秘密战争 
+的唯一一篇经过深思熟虑的文章.
+我开始相信这个故事完全就像二战中的恩 
+尼格玛密码机和德国密码的破译一样激动人心 
+且意义重大。.问题是，它能被公之于众吗？
+在伦敦的英国公共档案馆研究斯科韦尔的 
+文件时，我发现他留下了一本内容广泛的目记 
+和大量关于他在半岛上工作的笔记。更重要的 
+是，这些文件中还保存着许多法国军事急件的 
+原稿，我意识到这是极其珍贵的。（49）丝 
+仑战争期间可能有很多间谍和情报官员，但要 
+找到真正由这些人提供或处理过的材料通常十 
+分困难。
+在研究斯科韦尔的故事时，我发现了更多 
+除他的情报工作以外的有趣之处。他在威灵顿 
+公爵司令部的地位以及他工作上受到的认可都 
+与当时军队的阶级政治紧密相关。他自我提 
+升、努力工作的故事本身就是一部引人入胜的 
+传记，但它所代表的意义不止于此。（50）正 
+如密码破译对那场争夺西班牙的战争有更广泛 
+的意义一样，他攀登晋升阶梯的种种努力也充 
+分反映了英国社会的情况。
+31
+
+----- PAGE 32 -----
+a 篇章结构】
+伊比利亚半岛 
+之争鲜为人知 
+的一面---- 加V
+密者与破译者
+第一段:
+第二段:
+第三段:
+引出话题——伊比利亚半岛之争也是一场加密者与破译者之间的战争 
+介绍查尔斯-欧曼爵士的著作中关于拿破仑时期密码破译战的记录 
+阐述作者对拿破仑时期密码破译战的思考 
+之间的战争［第四段：阐述作者在研究密码破译战时发现的其他资料及其价值
+答案解析】
+46.［试题原句］① It was also, 0.5分〃② and this is unknown even to many people well read about the period,］分〃
+③ a battle between those who made codes and those who broke them. 0.5分
+【结构分析】 
+见逐词逐句精讲册P148 
+； ,• a
+【考点梳理】
+1.代词指代；2.插入语；3.介词短语作后置定语。
+【翻译难点】
+词汇或表达
+正译
+误译
+be unknown to...
+为……所不知
+不知道……
+well read
+（某方面书籍）读得多的；博学的
+读得很好
+the period
+这一时期
+这一课时
+break ［breik］ vt.
+破译（密码）
+打破；弄坏
+【常规翻译】
+拆译：A①It was also:这部分中，It指代上文提到的struggle,即发生在伊比利亚半岛的战争，因其在上文指 
+代非常明确，故此处译为“它”即可；was also译为“也是"0 A②and this is unknown even to many people well 
+read about the periotJ:这部分插入①和③之间，起补充说明的作用；this指代①③的内容，总结性地译为“这一 
+点”；is unknown to译为“为....所不知"；even作状语，表程度，直译为“甚至”;many people意为“许多人”，
+well read about the period为形容词短语作后置定语，修饰其前的many people,其中well read意为“（某方面书 
+籍）读得多的”，故这部分可整体合译为“许多这一时期的书籍读得多的人”，可进一步意译为“许多熟知 
+这一时期历史的人”；综上，②可译为“这一点甚至是为许多熟知这一时期历史的人所不知的”，根据汉语 
+的表达习惯，可将其调整为“这一点甚至许多熟知这一时期历史的人都不知道”。》③a battle between those 
+who made codes and those who broke them:这部分中，a battle 可译为“一场斗争”；介词短语 between...and...作 
+后置定语，修饰a battle,可译为" 和 之间的”，其中，those who made codes可译为“那些制作密码 
+的人”，those who broke them可译为“那些破解它们的人”；综上，这部分整体可译为“一场那些制作密码的 
+人和那些破解它们的人之间的斗争”，为使语句更为通顺，可调整为“一场密码制作者与密码破译者之间的 
+斗争” O
+整合:* ［结构分析】可知，'①③为句子主千"②为插入语，补充说明句子主干,故可先将①③译出，将其 
+补充说明部分②的译文置于最后。
+译文：令也是一场密也制祎著与'密码Ml译者乏间的成争,it-点甚至许多装知延一时期历史鬲人都不知道。
+【升级翻译】
+优化：上文先提到，战争在许多不同层面展开，并运用排比的方式对这些层面进行了详细描述。本句是对于 
+其中一个不为人知的层面的描述，故可与前文呼应，将③的译文“一场……与……之间的战争”调整为“一 
+场发生在... 与.... 之间的战争”o此外,those who made codes and those who broke them调整为“加密者与破
+译者”，从而使译文更加简洁、地道。
+整合：此处整合同【常规翻译】；故省略；
+译文：它也是一场'发生/扃密者与放-译者乏同砧战争这一点嗾圣许多孰知适一时所历吏的人都不知道。
+47.［试题原句］① It listed many documents in code 0.5分〃② that had been captured from the French Army of Spain, 
+0.5分〃③ and whose secrets had been revealed by the work of one George Scovell, an 0伍cer in British headquarters.［分
+32
+
+----- PAGE 33 -----
+【'常规翻译】
+【结构分析】
+【考点梳理】
+【翻译难点】
+见逐词逐句精讲册P149
+1.代词指代；2.定语从句；3.并列结构；4.同位语。
+,误译
+词汇或表达
+正译
+documents in code
+加密文件
+密码中的文件
+capture ['kaspUb(r)] vt.
+缴获
+俘获；捕获
+reveal [n*vi:l] vt.
+揭露；披露
+透露；显示
+British headquarters
+英国司令部
+英国总部
+拆译：A①It listed many documents in code:这部分中，It指代上文提到的appendix,此处可译为“该附录”； 
+listed译为“列出了” ； many documents in code译为“许多加密文件”；综上，这部分整体可译为“该附录 
+列出了许多加密文件”o A②that had been captured from the French Army of Spain:这部分为that引导的定语 
+从句，修饰①中的 many documents in code,其中，that 指代先行词 many documents in code,可不译；had been 
+captured可译为“已经被缴获”；from the French Army of Spain直译为“从西班牙法军处”语义不明，结合当 
+时的战争背景可知，法军曾驻扎西班牙，妄图称霸欧洲；综上，这部分可整体译为“已经从■驻扎西班牙的法 
+军处被缴获的”，由于上下文中有明确的时间背景，故此处可省略表示时态的“已经”，并根据汉语的表达 
+习惯将这部分的译文调整为“从驻扎西班牙的法军处缴获的"。A③and whose secrets had been revealed by the 
+work of one George Scovell, an officer in British headquarters:这部分为 and 连接的并列的定语从句，whose 表7R下 
+文与①中的many documents in code存在所属关系，可根据语境译为“这些文件的"；secrets译为“秘密”； 
+had been revealed 可译为“已经被揭开”；by the work of one George Scovell 中，by 引出动作的发出者 the work 
+of one George Scovell, by可省译，故这部分整体可译为“一位名叫乔治•斯科韦尔的人的工作”；an officer in 
+British headquarters为one George Scovell的同位语，对其进行补充说明，译为“一位英国司令部的军官”。综上， 
+这部分可整体译为“这些文件的秘密已经被一位名叫乔治•斯科韦尔的人（一位英国司令部的军官）的工作 
+揭开”。
+整合：由【结构分析】可知，①为句子主干，②<3）为并列的从句，均修饰①中的many documents in code:翻译 
+时，可将较短的定语从句②置于①中其所修饰的成分之前译出，再将③置于最后单独译出。
+译文：该附录列出了许多从驻扎西班牙的法军处缴获的加密文件，这些文件的秘密已经被一位名叫乔治•斯 
+科韦尔的人（一位英国司令部的军官）的工作揭开。
+【升级翻译】 
+优化：“这些文件的秘密已经被……的工作揭开”这一表达稍显生硬，可调整为“这些文件的秘密已经通过…… 
+的工作得以揭开”；“一位名叫乔治•斯科韦尔的人（一位英国司令部的军官）”表达略显冗杂，可调整为"英 
+国司令部的一位名叫乔治•斯科韦尔的军官”，以使译文更加简洁流畅。
+整合：此处整合同【常规翻译】，,故省略。
+译文：该附录列出了许多从驻扎西班牙的法军处缴获的加密文件，这些文件的秘密已经通过英国司令部的一 
+位名叫乔治•斯科韦尔的军官的工作得以揭开。
+48.【试题原句]①he could not analyze carefully 0.5分〃②what this obscure officer may or may not have contributed to 
+that great struggle between nations 1 分〃③or indeed tell us anything much about the man himself. 0.5分
+【结构分析】
+见逐词逐句精讲册P149
+【考点梳理】
+1.宾语从句；2.并列结构；3.介词短语作后置定语。
+【翻译难点】
+词汇或表达
+正译
+误译
+obscure [9b'skjua(r)] a.
+鲜为人知的；无名的
+费解的；难以理解的
+contribute [ksn'tribjul] vt.
+做出贡献
+捐助；捐赠
+33
+
+----- PAGE 34 -----
+【常规翻译】
+拆译：he could not analyze carefully：这部分中，he 指代上文中的 Oman,可译为"他’，could not analyze 
+carefully 译为“无法细致分析” o » ② what this obscure officer may or may not have contributed to that great struggle 
+between nations：这部分为what引导的宾语从句，作①中could not analyze的宾语；其中，what在从句中作
+困 
+may or may not have contributed的宾语，译为“什么"；this obscure officei■可译为一“这位鲜为人知的军官”； 
+may or may not have contributed译为“可能或可能没有做出过贡献"；to that great struggle between nations 可译为"为 
+那次国家间的大战”；综上，这部分可整体译为“这位鲜为人知的军官可能或可能没有为那次国家间的大战 
+做出过什么贡献” ° »③以indeed tell us anything much about the man himself：这部分为or连接的并列谓宾结构, 
+为避免重复，tell 前省略了 ( could not) ; anything 为 something 在否定句中的形式；故 or indeed (could not) tell 
+us anything much可译为"也确实无法告诉我们很多事情” ;about the man himself为介词短语作后置定语，修 
+饰anything,译为“关于这个人本身的”；综上，这部分可整体译为“也确实无法告诉我们关于这个人本身的 
+很多事情”。
+整合:由【结构分析】可知，①②③整体构成宾语从句，作上文中meant的秦语；该宾语从句中，or连接并 
+列的谓宾结构。句式结构相对清晰，翻译时，按照顺序整体译出即可。
+译文：他无法细致分析这位衅为人知的军官可能或可能没有为那次国家间的大成做出过什么贡献，也确实无1 
+法告诉我们关于这个人本身的很多事
+【升级翻译】
+优化：常规译文中，“可能或奇能没有为……祉出过什么贡献”可调整兼具昧为二•做反tft芬献匚一 
+以使语意更清晰；“这个人本身”略显口语化，可根据上下文语境调整为“这位军官本人”；同时，可根据 
+汉语表达习惯将“很多事情”调整为“多少事情”，以体现欧曼博士能告诉我们的事情之少，使译文更贴合 
+原文语气。
+整合：此处整合同【常规翻译】，故省略。
+译文：他无法细致分析这位鲜为人知的军官具体为那次国家间的大成做出过什么贡献，也确实无法告诉我们 
+关于这位军官本人的出事情
+49.［试题原句】 ① There may have been many spies and intelligence officers during the Napoleonic Wars, 1 分〃② but it 
+is usually extremely difficult to find the material 0.5分〃③ they actually provided or worked on. 0.5分
+【结构分析】见逐词逐句精讲册P151
+【考点梳理】l.Therebe句型；2.并列结构；3.it作形式主语；4.省略结构。
+【翻译难点】
+词汇或表达
+正译
+误译
+intelligence officer
+情报官员
+有智慧的官员；有能力的官员
+material [ma'tiarial] n.
+材料
+原料
+work on
+致力于，从事
+奏效；努力说服
+【常规翻译】
+拆译： > ①There may have been many spies and intelligence officers during the Napoleonic Wars：这部分中，There 
+may have been many spies and intelligence officers 可译为“可能有很多间谍和情报官员” ；during the Napoleonic 
+Wars可译为“拿破仑战争期间”；综上，这部分可整体译为“拿破仑战争期间可能有很多间谍和情报官员”。 
+» ② but it is usually extremely difficult to find the material:这部分为 but (但是)连接的并列句；it 为形式主语， 
+可省译；is usually extremely difficult可译为"通常是非常困难的”；动词不定式短语to find the material作真正 
+的主语，可译为“要找到材料”，翻译这部分时可将真正的主语提前；综上，这部分可整体译为“但是，要 
+找到材料通常是非常困难的"o »③they actually provided or worked on：这部分为省略了关系词which/that的 
+定语从句，修饰②中的the material,因其较短，故可整体译为“……的”置于其修饰成分前译出；其中，they 
+指代间谍和情报官员，直译为“他们"即可；actually provided or worked on译为"真正提供或处理过的；”综上， 
+这部分可整体译为“他们真正提供或处理过的”。
+34
+
+----- PAGE 35 -----
+整合：由【结构分析】可知，本句为but连接的并列句，③为省略关系词which/that的定语从句，修饰②中 
+的the material;整合时，可先将①译出，再将③的译文置于②中the material的译文之前，将②0）的译文融合 
+在一起译出。
+译文：拿破仑战争期间可能有很多间谍和情报官员，但是，要找到他们真正提供或处理过的材料通常是非常
+—困难 
+【升级翻译】
+「优化：②的译文中，为使表达更简洁，可将“但是”两整为“但”，省略其后的逗号，直接和后面内容衔接厂- 
+为使表意更加明确，③的译文中，可将“他们”调整为“这些人”，和前文更加呼应，对象也更加明确；将“…… 
+真正提供或处理过的材料”调整为“真正由……提供或处理过的材料”，使所属关系更明确；“通常是非常 
+困难的”表达略显口语化，可调整为“通常十分困难”。
+整合：此处整合同【常规翻译】，故省略。
+译文:拿破仑战争期间可能有很多间谍和情报官员，但要找到真正由这些人提供或处理过的材料通常十分困难。
+50.［试题原句］① Just as the code-breaking has its wider relevance in the struggle for Spain, 1 分〃② so his attempts to 
+make his way up the promotion ladder 0.5分〃③ speak volumes about British society. 0.5分
+【结构分析】见逐词逐句精讲册P152
+【考点梳理】1.典引导的比较状语从句；2.动词不定式短语作后置定语；3.结合上下文理解词义。
+【翻译难点】
+词汇或表达 
+正译 
+误译
+wider relevance 
+更广泛的意义 
+更广泛的相关性
+struggle for Spain 
+争夺西班牙的战争 
+和西班牙的战争
+promotion ladder 
+晋升阶梯 
+促销途径
+speak volumes about 
+充分说明；有力地说明 提高音量说
+【常规翻译】
+拆译：A ① Just as the code-breaking has its wider relevance in the struggle for Spain：这部分中，Just as 译为“正 
+如...... 样”；the code-breaking译为“密码破译”;has its wider relevance in译为“对.... 有更广泛的意
+义” ；the struggle for Spain意为“争夺西班牙的战争”；综上，这部分可整体译为“正如密码破译对争夺西 
+班牙的战争有更广泛的意义一样”。A②so his attempts to make his way up the promotion ladder：这部分中,so 
+与①中的Just as相呼应，表明②®与①的类比关系，可译为“也” ；his attempts to...意为“他……的努力”； 
+make his way up the promotion ladder 意为“他朝着晋升阶梯向上”。》③ speak volumes about British society: 
+这部分中，speak volumes about为固定搭配，意为“充分说明"；British society译为“英国社会”；综上， 
+这部分可整体译为“充分说明了英国社会”。
+整合：②中的s。表明②®的情况同前面的①类似，整合时，按照①（2）③的顺序译出即可。
+译文：正如密码破译对争夺西班才的成争有更广泛的意义一样，他朝着晋升阶梯向上的努力也充分说明了英国 
+社会。 
+〈
+【升级翻译】
+优化：①中，考虑到the struggle for Spain指代前文提及的内容，故可将其处理为"那场争夺西班牙的战争”以 
+明确指代；②中，为在译文中体现attempts的复数形式，可将其译为“种种努力”；his attempts to make his way 
+up the promotion ladder译为“他朝着晋升阶梯向上的种种努力”过于口语化，可调整为“他攀登晋升阶梯的种 
+种努力”；③的译文中，可将"充分说明了英国社会”调整为"充分反映了英国社会的情况”，以使其更加 
+符合语境及中文表达习惯。
+整合：此处整合同【常规翻译】，故省略。
+译文：正如密码破译对那场争夺西班牙的战争有更广泛的意义一样，他攀登晋升阶梯'的种种努力也充分反映 
+了英国社会的情况。
+"35：
+
+----- PAGE 36 -----
+Section DI Writing
+Part El
+标准范文】
+二
+8
+倒
+曰
+Dear Professor Smith,
+•I am a senior student from Peking University. am 
+writing this e-mail to invite you to organize a team for the 
+International Innovation Contest to be held by our university.
+•The contest will be held at Peking University from March 
+1st to 5th under the theme of "the innovative model to run 
+traditional business". ®The contest aims at inspiring creativity 
+of the young generation. ・Each team is expected to design a 
+novel mode that can make more profits and to present the entry 
+in a variety of forms.
+•I would appreciate it if you could reply me at your early 
+convenience. —If you have any questions, please feel free to 
+contact me.
+Yours sincerely, 
+Li Ming
+亲爱的史密斯教授：
+我是一名来自北京大学的大四学生。我写 
+这封电子邮件是想邀请您组建一支队伍参加将 
+由我校举办的国际创新大赛。
+本次大募将于3月1日至3月5日在北京 
+大学举行，火赛的主题是“经营传统商业的创
+土 ■-
+新模式”。大赛旨在激发年轻一代的创造力。
+每个团队需要设计出比传统商业模式收益更多 
+的新型商业模式，并以各种形式展示参赛作品。
+如您能尽早回岌，我将不胜感激。如有任 
+何问题，请随时联系我。
+你真诚的
+李明
+一
+段
+•
+•
+句
+二
+段
+•
+句
+标;隹句式I am a senior student from Peking University. I am writing this e-mail to invite you to organize a team for 
+the International Innovation Contest to be held by our university.
+突破句式 As the liaison for the International Innovation Contest to be held by Peking University, I am writing this 
+e-mail to cordially invite you to organize a team to compete in this contest.
+中文译文作为将由北京大学举办的国际创新大赛的联络员，我给您写这封电子邮件是想诚挚邀请您组建 
+一支队伍参加本次大赛。
+句式点评突破句式将标准句式中的两个独立句调整为“状语+主干句”形式，前半部分点明邮件发送人 
+的身份，后半部分点明写邮件的原因，整个句式一气呵成，简洁明了；此外，突破句式主干句中在invite 
+前添加cordially^诚挚地）一词，凸显了邮件发送人的真诚态度。
+标准句式 The contest will be held at Peking University from March 1st to 5th under the theme of "the innovative 
+model to run traditional business".
+突破句式The contest to be held at Peking University, with "the innovative model to run traditional business'* as its 
+theme, is scheduled for March from 1st to 5th.
+中文译文本次大赛将于3月1号至5号在北京大学举行，大赛的主题是“经营传统商业的创新模式”。
+句式点评突破句式将标准句式中的under the theme...business调整为with独立主格结构，并将with独立 
+主格结构置于主语和谓语之间，形成主谓分隔，使句式更高级；突破句式将标准句式中的The contest 
+will be held at Peking University 调整为 The contest to be held at Peking University 作主语，其中 to be held at 
+Peking University作The contest的后置定语，使句子内在逻辑更加清晰；突破句式将标准句式中的will be 
+held...from...to...调整为is scheduled for...,体现了作者丰富的词汇储备°
+36
+
+----- PAGE 37 -----
+一
+一
+段
+•
+句
+ 
+吾
+-
+二
+段
+,
+句
+三
+段
+。
+句
+ 
+三
+段
+,
+句
+标准句式 The contest aims at inspiring creativity of the young generation.
+突破句式 The contest is designed to inspire creativity of the young generation.
+中文译文大赛旨在激发年轻一代的创造力。
+句式点评突破句式将标准句式中的aims at inspiring调整为被动语态is designed to inspire,更符合英文表 
+达习惯的同时也使用词更加多样化。
+标准句式 Each team is expected to design a novel mode that can make more profits and to present the entry in a 
+variety of forms.
+突破句式 Each team is expected to design a novel mode that can make more profits and to present the entry in a 
+variety of forms such as slides, videos, and papers.
+中文译文每个团队需要设计出比传统商业模式收益更多的新型商业模式，并以诸如幻灯片、视频、论文 
+等各种形式展示参赛作品。
+句式点评突破句式在标准句式的基础上，添加表举例说明的such as...,使内容更加具体，指导性更强。
+标准句式 I would appreciate it if you could reply me at your early convenience.
+突破句式 I would appreciate it if you could inform me of your decision before February 15th.
+中文译文如您能于2月15日之前告知我您的决定，我将不胜感激。
+句式点评突破句式指明截止日期February 15th,考虑更加全面，使内容更加具体；突破句式将标准句式 
+中的reply me调整为inform me of your decision,用词更加高级、地道。
+标;隹句式 If you have any questions, please feel free to contact me.
+突破句式 Please feel free to contact me via e-mail if you have any further questions or concerns.
+中文译文如有任何问题或担忧，请随时通过电子邮件联系我。
+句式点评 突破句式将标准句式中的any questions调整为any further questions or concerns,使句意更完整、 
+充实。此外，突破句式还添加了 via e-mail,清楚地交代了联系方式。
+突破范文】
+Dear Professor Smith,
+As the liaison for the International Innovation Contest to be held by Peking University, I am writing this e-mail 
+to cordially invite you to organize a team to compete in this contest.
+The contest to be held at Peking University, with "the innovative model to run traditional business" as 
+its theme, is scheduled for March from 1st to 5th. The contest is designed to inspire creativity of the young 
+generation. Each team is expected to design a novel mode that can make more profits and to present the entry in 
+a variety of forms such as slides, videos, and papers.
+I would appreciate it if you could inform me of your decision before February 15th. Please feel free to contact 
+me via e-mail if you have any further questions or concerns.
+Yours sincerely,
+Li Ming
+37
+
+----- PAGE 38 -----
+PartQ
+标准范文】
+•As is vividly depicted in the picture, one student says the 
+campus lecture is irrelevant to their major, so it is not much help 
+to them. •However, the other argues, they will certainly learn 
+something useful as long as they attend it. #The picture shows 
+the different attitudes of the two students towards the campus 
+lecture.
+•The picture also reflects two quite different attitudes 
+towards learning. •Some people are very satisfied with their 
+current knowledge reserves, which leads to their lack of 
+initiative to learn new knowledge and skills. •On the contrary, 
+others believe that extensive learning of knowledge and skills in 
+different fields can improve their knowledge structures, broaden 
+their horizons and increase their enthusiasm for learning. 
+•Extensive and continuous learning enables them to constantly 
+do something valuable and admirable. •Moreover, a large 
+number of knowledge reserves can help them to face challenges 
+and competition in their work and life, promoting all-round 
+development and laying the foundation for their success in the 
+future.
+•In my opinion, in this ever-changing society, people 
+should realize the significance of extensive learning, maintain 
+a thirst for knowledge and continue to learn.,We all know that 
+opportunities don't come to those who aren't prepared.
+正如图画生动描绘的那样，一个学生说某 
+个校园讲座与弛们的专业无关，所以对弛们 
+没多大用。然而，另一个学生则认为，只要她 
+们参加这个讲座，就肯定能学到一些有用的东 
+西。这幅图画展示了这两个学生对待该校园讲 
+座的不同态度。
+这幅图后也反映了两种截然不同的学习态 
+度。一些人对自苴当下的知识储备非常满意， 
+这导致他们对新知识和新技能的学习缺乏主动 
+性。相反，另外一些人认为，广泛学习不同领 
+域的知识和技能可以改善他们的知识结构，开 
+阔视野并提高他们的学习热情。广泛和持续的 
+学习使他们能不断地做一些有价值和令人钦佩 
+的事情。而且，大量的知识储备能帮助他们直 
+面工作和生活中的挑战和竞争，促进全面发展 
+并为他们未来的成功奠定基础。
+在我看来，在这个瞬息万变的社会中，人 
+们应该意识到广泛学习的重要性，保持求知欲 
+并不断学习。我们都知道，机会总是留给那些 
+有准备的人的。
+逐句突破】
+标准句式 As is vividly depicted in the picture, one student says the campus lecture is irrelevant to their major, so it 
+is not much help to them. However, the other argues, they will certainly learn something useful as long as they attend it. 
+突破句式 What is vividly depicted in the picture is such a scene: one student says, the campus lecture is irrelevant to 
+their major, so it is not much help to them; while the other argues, they will certainly learn something usefill as long as 
+they attend it.
+后 中文译文图画中生动地描绘了这样一个场景：一个学生说某校园讲座与她们的专业无关，所以对她们没 
+O 多大用；而另一个学生则认为，只要她们参加这个讲座，就肯定能学到一些有用的东西。
+* 突破法则1.主语从句+系动词+表语；2,冒号用于引出分述、提起下文或解释说明；3.两个表对比的句 
+子调整为while或yet连接的并列句。
+法则点评1.突破句式采用"主语从句(What...picture ) +系动词(is ) +表语(such a scene ) 的手法 
+起笔，使句式更加新颖、高级，同时也更能引起读者的阅读兴趣；2.突破句式用冒号引出a scene的具体 
+信息，使内容更加错落有致，句子层次更明晰；3.突破句式将两个表对比的句子调整为while连接的并列 
+句，使两个学生对待讲座的态度形成鲜明对比，整个句子衔接更加紧密。 
+— 标准句式 The picture shows the different attitudes of the two students towards the campus lecture.
+段 〜
+❸ 突破句式 Obviously, the picture demonstrates a sharp contrast between the two students* attitudes towards the 
+句 campus lecture.
+-38
+
+----- PAGE 39 -----
+晚旻云显然「这幅图画展示了汶两个学生可待该校园讲座而态度的鲜明两田L
+突破法则1・副词位于句首，表示强调；2.常规词（词组或短语）调整为高频词（词组或短语）或地道词（词 
+组或短语）。
+法则点评1•突破句式在句首添加副词0bviously,引起读者注意，同时强调句子内容，并使该句与上句 
+衔接更加紧密，语义更连贯；2.突破句式将标准句式中的shows和the different attitudes of the two students 
+towards the campus lecture 分另4替换为 demonstrates 和 a sharp contrast between the two students* attitudes towards 
+卜 the campus lecture,表达更加高级。
+一
+一
+段
+•
+句
+;
+;■:
+二
+段
+•
+句
+一
+一
+段
+•
+句
+二
+段
+。
+句
+一
+一
+段
+•
+句
+标;隹句式 ne picture also reflects two quite different attitudes towards learning.
+突破句式 Two quite different attitudes towards learning are also reflected in the picture.
+中文译文两种截然不同的学习态度也体现在这幅图画中。
+突破法则语态的切换：主动化被动或被动化主动。
+法则点评突破句式将标准句式中的主动语态转化为被动语态，突出了动作的对象Two quite different 
+attitudes towards learning,表达更正式，也更加符合英文表达习惯。
+标;隹句式 Some people are very satisfied with their current knowledge reserves, which leads to their lack of initiative 
+to learn new knowledge and skills.
+突破句式 Some people are very satisfied with their current knowledge reserves, leading to their lack of initiative to 
+learn new knowledge and skills.
+中文译文一些人对自己当下的知识储备非常满意，这导致他们对新知识和新技能的学习缺乏主动性。
+突破法则将常规句式调整为“主干句/主语+现在分词短语”。
+法则点评突破句式使用“主干句+现在分词短语”结构替换标准句式的“主句+非限定性定语从句”结构, 
+其中leading to...skills作主干句的结果状语，自然而然地引出满足于当下的知识储备造成的不良后果。
+标;隹句式 On the contrary, others believe that extensive learning of knowledge and skills in different fields can 
+improve their knowledge structures, broaden their horizons and increase their enthusiasm for learning.
+突破句式 On the contrary, extensive learning of knowledge and skills in different fields, others believe, can improve 
+their knowledge structures, broaden their horizons and increase their enthusiasm for learning.
+中文译文相反，另外一些人认为，广泛学习不同领域的知识和技能可以改善他们的知识结构，开阔视野 
+并提高他们的学习热情。
+突破法则1.主谓分隔；2.主谓形式的插入语形成分隔结构。
+法则点评突破句式将主谓形式的插入语others believe置于句子的主语和谓语之间，形成主谓分隔，句式 
+更显高级,不落俗套。
+标;隹句式 Extensive and continuous learning enables them to constantly do something valuable and admirable.
+突破句式 It is extensive and continuous learning that enables them to constantly do something valuable and admirable.
+中文译文正是广泛和持续的学习使他们能不断地做一些有价值和令人钦佩的事情。
+突破法则常规句式调整为强调句。
+法则点评突破句式将标准句式调整为It is...that强调句型,强调主语extensive and continuous learning （广 
+泛和持续的学习上使句子重点更加突出，也使句式更加多样化。 
+标;隹句式 Moreover, a large number of knowledge reserves can help them to face challenges and competition in their 
+work and life, promoting all-round development and laying the foundation for their success in the future.
+突破句式 What's more, a large number of knowledge reserves can help them to face challenges and competition in 
+their work and life, making them well-rounded and laying the foundation for their success in the future.
+中文译文而且，大量的知识储备能帮助他们直面工作和生活中的挑战和竞争，促进他们全面发展并为他 
+们未来的成功奠定基础。
+39
+
+----- PAGE 40 -----
+突破法则常规词（词组或短语）调整为高频词（词组或短语）或地道词（词组或短语）。
+法则点评 突破句式分别使用What's more和making them well-rounded来替换标准句式中的Moreover和 
+promoting all-round development,体现了表达的多样性，考生在备考时可以灵活运用。 
+.
+3 .______________________________________________________________________ ____'___________________________________ L_______
+三
+段
+。
+句
+标;隹句式 In my opinion, in this ever-changing society, people should realize the significance of extensive learning, 
+maintain a thirst for knowledge and continue to learn.
+突破句式 From my perspective, in this ever-changing society, it is unquestionable that people should realize the 
+significance of extensive learning, maintain a thirst for knowledge and continue to learn.
+中文译文在我看来，在这个瞬息万变的社会中，毫无疑问，人们应该意识到广泛学习的重要性，保持求 
+知欲并不断学习。
+突破法则1.常规句式调整为It作形式主语的句型；2.常规词（词组或短语）调整为高频词（词组或短语） 
+或地道词（词组或短语）。 
+壬
+法则点评1.突破句式使用it作形式主语的句型，其与形容词unquestiona订e搭配使用，能够突出建议的可 
+行性和合理性，也使句式更多样；2.突破句式使用From my perspective替换标准句式中的In my opinion, 
+使词汇表达更加丰富。
+三
+段
+•
+句
+标准句式 We all know that opportunities don't come to those who aren't prepared.
+突破句式 Just as Louis Pasteur once said, "Chance favors only the prepared mind." 
+中文译文正如路易斯-巴斯德曾说过的那样：“机会只青睐有准备的人。” 
+突破法则引用名人名言或俗语。
+法则点评突破句式引用了法国著名微生物学家、化学家路易斯-巴斯德的名言，增强了文章的说服力、 
+生动性，深化了作者的观点。
+突破范文
+What is vividly depicted in the picture is such a scene: one student says, the campus lecture is irrelevant to 
+their major, so it is not much help to them; while the other argues, they will certainly leam something useful as 
+long as they attend it. Obviously, the picture demonstrates a sharp contrast between the two students' attitudes 
+towards the campus lecture.
+Two quite different attitudes towards learning are also reflected in the picture. Some people are very satisfied 
+with their current knowledge reserves, leading to their lack of initiative to leam new knowledge and skills. On 
+the contrary, extensive learning of knowledge and skills in different fields, others believe, can improve their 
+knowledge structures, broaden their horizons and increase their enthusiasm for learning. It is extensive and 
+continuous learning that enables them to constantly do something valuable and admirable. What's more, a large 
+number of knowledge reserves can help them to face challenges and competition in their work and life, making 
+them well-rounded and laying the foundation for their success in the future.
+From my perspective, in this ever-changing society, it is unquestionable that people should realize the 
+significance of extensive learning, maintain a thirst for knowledge and continue to leam. Just as Louis Pasteur 
+once said, "Chance favors only the prepared mind."
+40

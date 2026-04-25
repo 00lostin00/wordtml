@@ -1,0 +1,283 @@
+{
+  "id": "cet6-2022-09",
+  "type": "cet6",
+  "year": 2022,
+  "month": 9,
+  "set": 0,
+  "title": "2022年9月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this p a rt, you are allowed 30 minutes to write an essay that begins with the sentence \"It is now widely accepted that mutual trust and openness is the key to promoting cooperation.\" You can make comments,cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words",
+      "prompt": "It is now widely accepted that mutual trust and openness is the key to promoting cooperation."
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "It enables people to earn more money.",
+            "B": "It teaches the importance of financing",
+            "C": "It helps people with budgeting.",
+            "D": "It introduces a novel way to invest."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "Many Americans are not satisfied with their income.",
+            "B": "Many Americans have no idea about how to invest.",
+            "C": "Most Americans do not know how to save money.",
+            "D": "Most Americans do not stick to a budget."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "Keep track of his money.",
+            "B": "Live within his means.",
+            "C": "Find more sources of income.",
+            "D": "Refrain from buying luxuries."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "It offers a greater variety of items.",
+            "B": "It helps avoid unnecessary spending.",
+            "C": "It changes one's way of living.",
+            "D": "It saves one's time for shopping."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "It is brand-new.",
+            "B": "It has plenty of rooms.",
+            "C": "It belongs to her mother.",
+            "D": "It has been vacant for months."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Space.",
+            "B": "Tranquillity.",
+            "C": "Appliances.",
+            "D": "Location."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "Talk to his wife about the contract terms.",
+            "B": "Pay the first month's rent and a deposit.",
+            "C": "Check the references of the flat owner.",
+            "D": "Consult his solicitor one more time."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "She can have a wonderful view of the pond.",
+            "B": "She will be much closer to her work place.",
+            "C": "She can make friends with new neighbours.",
+            "D": "She will have plenty of space for her shoes."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "The more commercials they see, the more brands they get to know",
+            "B": "The more commercials they see, the more they adore celebrities",
+            "C": "The more television they watch, the fewer conflicts in the family",
+            "D": "The more television they watch, the greater their parents' stress"
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Being dismissed as hypocritical.",
+            "B": "Not getting the reward they deserve",
+            "C": "Good guys may not always cooperate.",
+            "D": "Good guys may get unfair treatment."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "They are increasingly aware of gender differences",
+            "B": "They engage themselves in positive recollection.",
+            "C": "They begin to see the importance of friendship",
+            "D": "They make friends with peers of the same sex."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "They prioritize romance over friendship.",
+            "B": "They try to strengthen same-sex friendships",
+            "C": "Forging close ties with friends.",
+            "D": "Fulfilling family obligations"
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "They regard it as a matter of sheer privacy.",
+            "B": "They are worried about being turned down.",
+            "C": "They fear that their condition will be made widely known.",
+            "D": "They are afraid to be discriminated against once recruited."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "After receiving a job offer",
+            "B": "During a job interview.",
+            "C": "When con伍ming an interview.",
+            "D": "Upon completing a cover letter."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Describe the true state of their health.",
+            "B": "Provide all the information required.",
+            "C": "Stress the irrelevance of their disability to the job.",
+            "D": "A void mentioning the name of their dis ab血y"
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Their scores were least affected by music with speech",
+            "B": "It was the poorest when there was background speech.",
+            "C": "Their scores were most depressed with instrumental music.",
+            "D": "It was disrupted by the sound of an air conditioner or fan."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "It has to do with the type and volume of the background noise",
+            "B": "It has to do with short-term memory for listening comprehension.",
+            "C": "It depends on the overlap in processing different kinds of information.",
+            "D": "It depends on the participants5 ability to concentrate on the task at hand."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "Keep everything as quiet as possible",
+            "B": "Play nothing but instrumental music.",
+            "C": "Use vocal material as little as possible.",
+            "D": "Wear a pair of earphones or headphones"
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Sociable people were immune to all distractions.",
+            "B": "Shy quiet people were most adversely impacted.",
+            "C": "Less outgoing people were more affected by silence",
+            "D": "Confident people were unaffected by high-arousal music"
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into \nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "中央电视台总部大楼位于北京市朝阳区，总建筑面积约55万平方术。主楼由两座塔楼组成，因其独特的造型，成为这座城市的一个热门景点，每天都吸引众多特客前来参观。大楼的创新结构是中外建筑师长期合作的成果，不仅体现了环保意识，而且大大节约了建筑材料。中央电视台总部设有一条穿过大楼的专用通道，向公众展示各个工作室以及中央电视台的历史。在那里，参观者还可以看到故宫和北京其他地方的壮观景色。2022年6月英语六级真题第3套第1页共1页英语菌的笔记",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "id": "cet6-2020-07",
+  "type": "cet6",
+  "year": 2020,
+  "month": 7,
+  "set": 0,
+  "title": "2020年7月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the saying The best preparation for tomorrow is doing your best today. You should write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "She is a great athlete.",
+            "B": "She is a famed speaker.",
+            "C": "She is a famous scientist.",
+            "D": "She is a noted inventor."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "How knowledge of human biochemistry has been evolving.",
+            "B": "How nutrition helps athletes' performance in competitions.",
+            "C": "How scientific training enables athletes to set new records.",
+            "D": "How technology has helped athletes to scale new heights."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "Our physical structures.",
+            "B": "Our scientific knowledge.",
+            "C": "Our biochemical process.",
+            "D": "Our concept of nutrition."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "Experience.",
+            "B": "Flexibility.",
+            "C": "Family background.",
+            "D": "Business connections."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Buying directly from factories.",
+            "B": "Shipping goods in bulk by sea.",
+            "C": "Having partners in many parts of the world.",
+            "D": "Using the same container back and forth."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "Warehouses.",
+            "B": "Factories.",
+            "C": "Investors.",
+            "D": "Retailers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "Trendy style.",
+            "B": "Unique design.",
+            "C": "Lower import duties.",
+            "D": "Lower shipping costs."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "It helps employees to reduce their stress.",
+            "B": "It prevents employees from feeling bored.",
+            "C": "It strengthens harmony among employees.",
+            "D": "It helps employees to view things positively."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "Weekends are conducive to reducing stress.",
+            "B": "Humor is vital to interpersonal relationships.",
+            "C": "All workers experience some emotional stress.",
+            "D": "Humor can help workers excel at routine tasks."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Smash the toys to release their bottled-up resentments.",
+            "B": "Take the boss doll apart as long as they reassemble it.",
+            "C": "Design and install stress-reducing gadgets.",
+            "D": "Strike at the boss doll as hard as they like."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "The recent finding of a changed gene in obese mice.",
+            "B": "A breakthrough in understanding gene modification.",
+            "C": "A newly discovered way for people to lose weight.",
+            "D": "The self-repairing ability of a gene in obese mice."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "It renders an organism unable to fight diseases.",
+            "B": "It prevents the mice's fatty tissues from growing.",
+            "C": "It helps organisms adapt to environmental changes.",
+            "D": "It renders mice unable to sense when to stop eating."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "Human beings have more obesity genes than most mice do.",
+            "B": "Half of a person's total weight variation can be controlled.",
+            "C": "People are born with a tendency to have a certain weight.",
+            "D": "The function of the obesity genes is yet to be explored."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "The worsening of natural environment.",
+            "B": "The abundant provision of rich foods.",
+            "C": "The accelerated pace of present-day life.",
+            "D": "The adverse impact of the food industry."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "Similarity in interests.",
+            "B": "Mental stimulation.",
+            "C": "Openness.",
+            "D": "Compassion."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "The willingness to offer timely help.",
+            "B": "The joy found in each other\" s company.",
+            "C": "Personal bonds.",
+            "D": "Emotional factors."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "Failure to keep a promise.",
+            "B": "Lack of frankness.",
+            "C": "Feelings of betrayal.",
+            "D": "Loss of contact."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "Along the low-lying Colorado River.",
+            "B": "At the Dinosaur National Monument.",
+            "C": "Along the border of the U. S. and Canada.",
+            "D": "At museums of natural history in large cities."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Volcanic explosions could bring whole animal species to extinction.",
+            "B": "Some natural disaster killed a whole herd of dinosaurs in the area.",
+            "C": "The pit should be carefully preserved for the study of dinosaurs.",
+            "D": "The whole region must have been struck by a devastating flood."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "They floated down an eastward flowing river.",
+            "B": "They lay buried deep in the sand for millions of years.",
+            "C": "They were skeletons of dinosaurs inhabiting the locality.",
+            "D": "They were remains of dinosaurs killed in a volcanic explosion."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Indulging in seeking leisure and material comfort.",
+            "B": "Attaching too much importance to independence.",
+            "C": "Failing to care for parents in the traditional way.",
+            "D": "Leaving their parents on the verge of starvation."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "They have great difficulty living by themselves.",
+            "B": "They have little hope of getting any family care.",
+            "C": "They have fond memories of their good old days.",
+            "D": "They have a sense of independence and autonomy."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "People in many parts of the world preferred small-size families.",
+            "B": "There have been extended families in most parts of the world.",
+            "C": "Many elderly people were unwilling to take care of their grandchildren.",
+            "D": "So many young Americans refused to live together with their parents."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Leave their younger generations alone.",
+            "B": "Avoid being a burden to their children.",
+            "C": "Stay healthy by engaging in joyful activities.",
+            "D": "View things from their children\" s perspective."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to\nselect one word for each blank from a list of choices given in a word bank\nfollowing the passage. Read the passage through carefully before making\nyour choices. Each choice in the bank is identified by a letter. Please\nmark the corresponding letter for each item on Answer Sheet 2 with a\nsingle line through the centre. You may not use any of the words in the\nbank more than once.\nQuestions 26 to 35 are based on the following passage.\nThe United Nations issued a report last week warning that humans are destroying\nnature at such a rate that life on Earth is at risk. When the report came out, it naturally\n\nheadlines. But obviously it didn’t hijack the news agenda in the manner of a\nmajor terrorist attack or\n\nof war.\nThe report from the Intergovernmental Science-Policy Platform on Biodiversity\nand Ecosystem Services (IPBES ) is clear on what's at\n\nand what needs to\nchange. IPBES chair Robert Watson says the “\n\nevidence” an presents\n“ ominous (凶兆的) picture” . “The health of ecosystems on which we and all other\nspecies depend is\n\nmore rapidly than ever, ” Robert Watson said. We are\n\nthe very foundations of our economies , live-lihoods ,food security , health and quality\nof life worldwide. '' The report says it\"s not too late if we make\" transformative\nchange” 一fundamental, system-wide reorganization — at every level from local\nto global , and we need to focus on how to make that happen.\nFirst , don't indulge in despair , because despair leads to inertia and doing\nnothing means certain\n\n. Every action to save nature will improve our collective\nand personal futures and the only way to respond to a threat of this scale is with\n\naction rooted in headstrong optimism- Second , we need relentless focus , just like\nwhen paramedics ( 救护人员) arrive on a scene and use the concept of triage(伤员\n鉴别分类)\"to ensure the most\n\ncases get treated first. Saving the natural world\nneeds that kind of thinking. We don't have the\n\nto do everything at once . We\n\nneed to make hard choices.\nA ) capacity\nB ) declaration\nC ) deteriorating\nD ) determined\nE ) disaster\nF ) eroding\nG) grabbed\nH ) inventory\nI ) junction\nJ ) monotonous",
+      "wordBank": {
+        "K": "overwhelming",
+        "L": "stagnation",
+        "M": "stake",
+        "N": "stifled",
+        "O": "urgent"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Piaget believed that small children could not collaborate with others while\nplaying.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "The author and his colleagues’ study shows two-year-old may be able to\npredict other people's feelings.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "In the latter half of the last century , fewer and fewer people believed the\nbasis for our understanding of the world is wholly empirical.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Research conducted by Jean Piaget in the last century suggested babies were\ninsensitive to others\" thinking.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Our improved understanding of babies' intellectual power is attributable to\nbetter research tools.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "It has been found in recent research that even small babies are sensitive to\nother people's points of view.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Scientists are still debating what inference can be drawn from certain\nphysical expressions of a child.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "The newer research methods focus on infants' simple behaviors instead of\nrequiring them to answer questions.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "With the progress in psychology , the traditional view of children’s\nself-centered nature and limited thinking abilities has become less and less influential",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Even though marked advances have been made ? it is wrong to dismiss\nPiaget's fundamental contributions to the study of kids' cognitive abilities.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nPeople often discuss the dangers of too much stress , but lately a very different\nview of stress is gaining popularity: this view of stress , held by members of the\npositive stress movement , argues that stress might actually be beneficial The positive\nstress movement is made up of people such as Zachary Rapp who are looking for an\nedge in a competitive world, and Rapp's routine is a good example of followers of the\nmovement. He wakes up most mornings at dawn, goes for a run, sips black coffee\nwhile ripping through emails, and then steps into a freezing cold shower. This is a\nroutine designed to reduce the stress of running simultaneously three different health\nand biotechnology companies for 18 hours a day.\nAlthough Rapp's practices may sound extreme, he is part of a growing movement,\nconsisting largely of tech industry workers who claim that such radical tactics will\nhelp them live better and longer. Inspired by influential figures in different fields,\nincluding\nentertainers,\nathletes,\nentrepreneurs\nand\nscientists,\npositive\nstress\npractitioners seek out some combination of extreme temperatures, restrictive diets,\npunishing exercise routines and general discomfort.\nRapp argues that positive stress keeps him balanced. In addition to running and\nfreezing showers, Rapp uses ice baths, hot yoga, and unconventional eating practices\nsuch as climinating dairy , sugar , alcohol and various other foods high in\ncarbohydrates . He believes that these practices? which put stress on his body, actually\nmake him feel less stress from work. However, Rapp does not credit anyone in\n\nparticular for his choices: he said he started using these methods in college 7 where he\ngot into the habit of taking ice baths to recover from sports. He got back into it while\ntrying to get his three companies off the ground.\nRapp works long hours and sleeps only five to seven hours a night but he said he\nonly gets sick once a year. For him, the difference between day-to-day stress, like the\nkind we feel when moving apartments, and positive stress is that the latter involves\npushing the body to extremes and forcing it to build up a tolerance.\nOne thought leader in the positive stress world is Dutch extreme athlete Wim\nHof, who earned the name\" ice man\" for his ability to withstand severe cold using\ndeep breathing exercises. Hof's ideas have become popular among tech industry elites\nand, thanks to Hof, cold showers are now a trend ; indeed , some even call it a form of\ntherapy.\nBut it is important to note that not everyone agrees with these practitioners ;\nindeed, some medical professionals argue that positive stress is not for everyone , and\nthat it might even be dangerous for people who are unhealthy or older.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What do we learn about followers of the positive stress movement?",
+              "options": {
+                "A": "They are usually quite sensitive to different types of stress.",
+                "B": "They hold a different view on stress from the popular one.",
+                "C": "They derive much pleasure from living a very hectic life.",
+                "D": "They gain a competitive edge by enjoying good health."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What do followers of the positive stress movement usually do to put their ideas into practice?",
+              "options": {
+                "A": "They keep changing their living habits.",
+                "B": "They network with influential figures.",
+                "C": "They seek jobs in tech industries.",
+                "D": "They apply extreme tactics."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What does Zachary Rapp say about his unconventional practices?",
+              "options": {
+                "A": "They help him combat stress from work.",
+                "B": "They enable him to cut down living expenses.",
+                "C": "They enable him to recover from injuries and illnesses,",
+                "D": "They help him get three companies enlisted all at once."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What can be inferred from the passage about day-to-day stress?",
+              "options": {
+                "A": "It is harmful to one's physical and mental health.",
+                "B": "It does not differ in essence from positive stress.",
+                "C": "It is something everybody has to live with.",
+                "D": "It does not help build up one's tolerance."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What do some medical professionals think of positive stress?",
+              "options": {
+                "A": "Its true effect remains to be verified.",
+                "B": "Its side effect should not be ignored.",
+                "C": "Its effect varies considerably from person to person.",
+                "D": "Its practitioners should not take it as a form of therapy."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nIs hunting good or bad for the environment , Like so many hot button issues , the\nanswer to this question depends upon who you ask. On the one hand , some say ,\nnothing could be more natural than hunting, and indeed just about every animal\nspecies 一including humans 一has been either predator or prey at some point in its\nevolution. And, ironic as it sounds , since humans have wiped out many animal\npredators , some see hunting as a natural way to reduce the herds of prey animals that\nnow reproduce beyond the environment's carrying capacity.\nOn the other hand, many environmental and animal advocates see hunting as\nsavage , arguing that it is morally wrong to kill animals , regardless of practical\nconsiderations. According to Glenn Kirk of the California-based The Animals' Voice ,\nhunting\" causes immense suffering to individual wild animals...\"and is\"irrationally\ncruel because unlike natural predation (捕食) ,hunters kill for pleasure ...” He adds\nthat , despite hunters' claims that hunting keeps wildlife populations in balance ,\nhunters' license fees are used to manipulate a few game species into overpopulation at\nthe expense of a much larger number of non-game species , resulting in the loss of\nbiological diversity, genetic integrity and ecological balance.\"\nBeyond moral issues , others contend that hunting is not practical- According to\nthe Humane Society of the United States , the vast majority of hunted species ——\nsuch as waterfowl , rabbits , upland birds and mourning doves ——\"provide minimal\nnutrition and do not require population control.\"\nAuthor Gary E ・Varner suggests in his book , In Nature's Interests , that some\ntypes of hunting may be morally justifiable while others may not be. Hunting\n“designed to secure the aggregate welfare of the target species, the integrity of its\necosystem, or both\" —what Varner terms ' therapeutic hunting' —is defensible , while\nsubsistence and sport hunting —both of which only benefit human beings—is not.\nRegardless of one's individual stance , fewer Americans hunt today than in recent\nhistory. Data gathered by the U. S. Fish & Wildlife Service in 2006 show that only\nfive percent of Americans 一some 12.5 million individuals 一consider themselves\nhunters today , down from nine percent in 2001 and 15 percent in 1996.\nPublic support for hunting , however , is on the rise. A 2007 survey by\nResponsive Management Inc. found that eighty percent of respondents agreed that\n“hunting has a legitimate place in modem society , \" and the percentage of Americans\nindicating disapproval of hunting declined from 22 percent in 1995 to 16 percent in\n2007.\nPerhaps matching the trend among the public, green leaders are increasingly\nadvocating cooperation between hunters and environmental groups: After all, both\ndeplore urban sprawl and habitat destruction.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What does the author say sounds ironic?",
+              "options": {
+                "A": "Some predators may often turn out to be prey of other predators.",
+                "B": "Hunting may also be a solution to the problem caused by hunting.",
+                "C": "The species of prey animals continue to vary despite humans' hunting-",
+                "D": "The number of prey animals keeps rising despite environmental change."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What does Glenn Kirk think of charging hunters' license fees?",
+              "options": {
+                "A": "It keeps game population under control.",
+                "B": "It turns hunting into a sport of the rich.",
+                "C": "It leads to ecological imbalance.",
+                "D": "It helps stop killing for pleasure."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What is the argument of the Humane Society of the United States against hunting?",
+              "options": {
+                "A": "Overpopulation is not an issue for most hunted animals-",
+                "B": "Hunting deprives animal populations of their food sources.",
+                "C": "Many birds and small animals are being irrationally killed-",
+                "D": "Hunting is universally acknowledged as a savage behavior."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "When is hunting morally justifiable according to Gary E. Varner?",
+              "options": {
+                "A": "When it benefits animals and their ecosystem-",
+                "B": "When it serves both human and animal interests.",
+                "C": "When it is indispensable to humans' subsistence.",
+                "D": "When it stabilizes the population of animal species."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What concept are green leaders trying to promote?",
+              "options": {
+                "A": "Effective protection of animal habitats.",
+                "B": "Strict control over urban development.",
+                "C": "Coordinated efforts of hunters and environmentalists.",
+                "D": "A compromise between development and animal protection."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part you are allowed 30 minutes to translate a passage from\nChinese into English. You should write your answer on Answer Sheet 2.",
+      "source": "《三国演义》(The Romance of the Three Kingdoms)是中国一部著名的历史小说，写于十四世纪。这部文学作品以三国时期的历史为背景，描写了从公元二世纪下半叶到公元三世纪下半叶的魏、蜀、吴三国之间的战争。小说中刻画了近千个人物和无数的历史事件。这些人物和事件虽然大都基于真实的历史，但都不同程度地浪漫化和戏剧化了。《三国演义》是一部公认的文学杰作。自面世以来，这部小说不断吸引着一代又一代的读者，并且对中国文化产生着广泛而持久的影响。【参考答案】【参考范文】【翻译参考译文】",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

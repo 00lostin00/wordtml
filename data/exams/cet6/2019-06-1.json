@@ -1,0 +1,673 @@
+{
+  "id": "cet6-2019-06-1",
+  "type": "cet6",
+  "year": 2019,
+  "month": 6,
+  "set": 1,
+  "title": "2019年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of team spirit and communication in the workplace. You can cite examples to illustrate your views.You should write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "A six- month-long negotiation.",
+            "B": "Preparations for the party.",
+            "C": "A project with a troublesome client.",
+            "D": "Gift wrapping for the colleagues."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "Take wedding photos.",
+            "B": "Advertise her company.",
+            "C": "Start a small business.",
+            "D": "Throw a celebration party."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "Hesitant.",
+            "B": "Nervous.",
+            "C": "Flattered.",
+            "D": "Surprised."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "Start her own bakery.",
+            "B": "Improve her baking skill.",
+            "C": "Share her cooking experience.",
+            "D": "Prepare for the wedding."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "They have to spend more time studying.",
+            "B": "They have to participate in club activities.",
+            "C": "They have to be more responsible for what they do.",
+            "D": "They have to choose a specific academic discipline."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Get ready for a career.",
+            "B": "Make a lot of friends.",
+            "C": "Set a long-term goal.",
+            "D": "Behave like adults."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "Those who share her academic interests.",
+            "B": "Those who respect her student commitments.",
+            "C": "Those who can help her when she is in need.",
+            "D": "Those who go to the same clubs as she does."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "Those helpful for tapping their potential.",
+            "B": "Those conducive to improving their social skills.",
+            "C": "Those helpful for cultivating individual interests.",
+            "D": "Those conducive to their academic studies."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "They break away from traditional ways of thinking.",
+            "B": "They are prepared to work harder than anyone else.",
+            "C": "They are good at refining old formulas.",
+            "D": "They bring their potential into full play."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "They contributed to the popularity of skiing worldwide.",
+            "B": "They resulted in a brand-new style of skiing techniques.",
+            "C": "They promoted the scientific use of skiing poles.",
+            "D": "They made explosive news in the sports world."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "He was recognized as a genius in the world of sports.",
+            "B": "He competed in all major skiing events in the world.",
+            "C": "He won three gold medals in one Winter Olympics.",
+            "D": "He broke three world skiing records in three years."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "They appear restless.",
+            "B": "They lose consciousness.",
+            "C": "They become upset.",
+            "D": "They die almost instantly."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "It has an instant effect on your body chemistry.",
+            "B": "It keeps returning to you every now and then.",
+            "C": "It leaves you with a long lasting impression.",
+            "D": "It contributes to the shaping of you mind."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "To succeed while feeling irritated.",
+            "B": "To feel happy without good health.",
+            "C": "To be free from frustration and failure.",
+            "D": "To enjoy good health while in dark moods."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "They are closely connected.",
+            "B": "They function in a similar way.",
+            "C": "They are too complex to understand.",
+            "D": "They reinforce each other constantly."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "They differ in their appreciation of music.",
+            "B": "They focus their attention on different things.",
+            "C": "They finger the piano keys in different ways.",
+            "D": "They choose different pieces of music to play."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "They manage to cooperate well with their teammates.",
+            "B": "They use effective tactics to defeat their competitors.",
+            "C": "They try hard to meet the spectators’ expectations.",
+            "D": "They attach great importance to high performance."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "It marks a breakthrough in behavioral science.",
+            "B": "It adopts a conventional approach to research.",
+            "C": "It supports a piece of conventional wisdom.",
+            "D": "It gives rise to controversy among experts."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "People’s envy of slim models.",
+            "B": "People’s craze for good health.",
+            "C": "The increasing range of fancy products.",
+            "D": "The great variety of slimming products."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "They appear vigorous.",
+            "B": "They appear strange.",
+            "C": "They look charming.",
+            "D": "They look unhealthy."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Culture and upbringing.",
+            "B": "Wealth and social status.",
+            "C": "Peer pressure.",
+            "D": "Media influence."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "The relation between hair and skin.",
+            "B": "The growing interest in skin studies.",
+            "C": "The color of human skin.",
+            "D": "The need of skin protection."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "The necessity to save energy.",
+            "B": "Adaptation to the hot environment.",
+            "C": "The need to breathe with ease.",
+            "D": "Dramatic climate changes on earth."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "Leaves and grass.",
+            "B": "Man-made shelter.",
+            "C": "Their skin coloring.",
+            "D": "Hair on their skin."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Their genetic makeup began to change.",
+            "B": "Their communities began to grow steadily.",
+            "C": "Their children began to mix with each other.",
+            "D": "Their pace of evolution began to quicken."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word\nfor each blank from a list of choices given in a word bank following the passage. Read the passage\nthrough carefully before making your choices. Each choice in the bank is identified by a letter.\nPlease mark the corresponding letter for each item on Answer Sheet 2 with a single line through\nthe centre. You may not use any of the words in the bank more than once.\n- 3 -\n\nQuestions 26 to 35 are based on the following passage.\nPasta is no longer off the menu, after a new review of studies suggested that the carbohydrate\ncan form part of a healthy diet, and even help people lose weight. For years, nutritionists have\nrecommended that pasta be kept to a\n\n, to cut calories, prevent fat build-up and stop blood\nsugar\n\nup.\nThe low-carbohydrate food movement gave birth to such diets as the Atkins, Paleo and Keto,\nwhich advised swapping foods like bread, pasta and potatoes for vegetables, fish and meat. More\nrecently the trend of swapping spaghetti for vegetables has been\n\nby clean-eating experts.\nBut now a\n\nreview and analysis of 30 studies by Canadian researchers found that not\nonly does pasta not cause weight gain, but three meals a week can help people drop more than half\na kilogram over four months. The reviewers found that pasta had been unfairly demonized (妖魔\n化) because it had been\n\nin with other, more ft-promoting carbohydrates.\n“The study found that pasta didn’t\n\nto weight gain or increase in body fat,” said lead\nauthor Dr John Sievenpiper. “In\n\nthe evidence, we can now say with some confidence that\npasta does not have an\n\neffect on body weigh outcomes when it is consumed as part of a\nhealthy dietary pattern.” In fact, analysis actually showed a small weigh loss\n\nto concerns.\nperhaps pasta can be part of a healthy diet\nThose involved in the\n\ntrials on average ate 3.3 servings of pasta a week instead of\nother carbohydrates, one serving equaling around half a cup. They lost around half a kilogram\nover an average follow-up of 12 weeks.",
+      "wordBank": {
+        "A": "adverse",
+        "I": "minimum",
+        "B": "championed",
+        "J": "radiating",
+        "C": "clinical",
+        "K": "ration",
+        "D": "contrary",
+        "L": "shooting",
+        "E": "contribute",
+        "M": "subscribe",
+        "F": "intimate",
+        "N": "systematic",
+        "G": "lumped",
+        "O": "weighing",
+        "H": "magnified"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Although online retailing has existed for some twenty years, nearly half of the internet\nretailers still fail to receive satisfactory feedback from consumers, according to a recent survey．",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Innovative retailers integrate internet technologies with conventional retailing to create\nnew retail models．",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Despite what the Census data suggest, the value of physical retail’s stocks has been\ndropping．\n- 6 -",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Innovative—driven changes in the retail industry didn’t take place as quickly as widely\nanticipated．",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Statistics indicate that brick and mortar sales still made up the lion’s share of the retail\nbusiness.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Companies that successfully combine online and offline business models may prove to be\na big concern for traditional retailers.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Brick and mortar retailers’ faith in their business was strengthened when the dot com\nbubble burst.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Despite the tremendous challenges from online retailing, traditional retailing will be here\nto stay for quite some time.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "With the rise of online commerce, physical retail stores are likely to suffer the same fate\nas i the yellow pages.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "The wide use of smartphones has made it more complex for traditional retailers to\nreinvent their business.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nProfessor Stephen Hawking has warned that the creation of powerful artificial intelligence\n(AI) will be “either the best, or the worst thing, ever to happen to humanity”, and praised the\ncreation of an academic institute dedicated to researching the future of intelligence as “ crucial to\nthe future of our civilisation and our species”.\nHawking was speaking at the opening of the Leverhulme Centre for the Future of Intelligence\n(LCFI) at Cambridge University, a multi-disciplinary institute that will attempt to tackle some of\nthe open-ended questions raised by the rapid pace of development in AI research. “We spend a\ngreat deal of time study in history,” Hawking said, “which, let’s face it, is mostly the history of\nstupidity. So it ; s a welcome change that people are studying instead the future of intelligence.”\nWhile the world-renowned physicist has often been cautious about AI, raising concerns that\nhumanity could be the architect of its own destruction if it creates a super-intelligence with a will\nof its own, he was also quick to highlight the positives that AI research can bring. “The potential\nbenefits of creating intelligence are huge,” he said. “We cannot predict what we might achieve\nwhen our own minds are amplified by AI.Perhaps with the tools of this new technological\nrevolution, we will be able to undo some of the damage done to the natural world by the last one\n—industrialisation. And surely we will aim to finally eradicate disease and poverty. And every\naspect of our lives will be transformed. In short, success in creating AI could be the biggest event\n- 7 -\n\nin the history of our civilisation.”\nHuw Price, the centre’s academic director and the Bertrand Russell professor of philosophy at\nCambridge University, where Hawking is also an academic, said that the centre came about\npartially as a result of the university’s Centre for Existential Risk. That institute examined a wider\nrange of potential problems for humanity, while the LCFI has a narrow focus.\nAI pioneer Margaret Boden, professor of cognitive science at the University of Sussex,\npraised the progress of such discussions. As recently as 2009, she said, the topic wasn’t taken\nseriously, even among AI researchers. “AI is hugely exciting,” she said, “but it has limitations,\nwhich present grave dangers given uncritical use.”\nThe academic community is not alone in warning about the potential dangers of AI as well as\nthe potential benefits. A number of pioneers from the technology industry, most famously the\nentrepreneur Elon Musk, have also expressed their concerns about the damage that a\nsuper-intelligent AI could do to humanity.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What did Stephen Hawking think of artificial intelligence?",
+              "options": {
+                "A": "It would be vital to the progress of human civilisation.",
+                "B": "It might be a blessing or a disaster in the making.",
+                "C": "It might present challenges as well as opportunities.",
+                "D": "It would be a significant expansion of human intelligence."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What did Hawking say about the creation of the LCFI?",
+              "options": {
+                "A": "It would accelerate the progress of AI research.",
+                "B": "It would mark a step forward in the AI industry.",
+                "C": "It was extremely important to the destiny of humankind.",
+                "D": "It was an achievement of multi-disciplinary collaboration."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What did Hawking say was a welcome change in AI research?",
+              "options": {
+                "A": "The shift of research focus from the past to the future.",
+                "B": "The shift of research from theory to implementation.",
+                "C": "The greater emphasis on the negative impact of AI.",
+                "D": "The increasing awareness of mankind’s past stupidity."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What concerns did Hawking raise about AI?",
+              "options": {
+                "A": "It may exceed human intelligence sooner or later.",
+                "B": "It may ultimately over-amplify the human mind.",
+                "C": "Super-intelligence may cause its own destruction.",
+                "D": "Super-intelligence may eventually ruin mankind."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What do we learn about some entrepreneurs from the technology industry?",
+              "options": {
+                "A": "They are much influenced by the academic community.",
+                "B": "They are most likely to benefit from AI development.",
+                "C": "They share the same concerns about AI as academics.",
+                "D": "They believe they can keep AI under human control."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nThe market for products designed specifically for older adults could reach $30 billion by next\n- 8 -\n\nyear, and startups (初创公司) want in on the action. What they sometimes lack is feedback from\nthe people who they hope will use their products. So Brookdale, the country’s largest owner of\nretirement communities, has been inviting a few select entrepreneurs just to move in for a few\ndays, show off their products and hear what the residents have to say.\nThat’s what brought Dayle Rodriguez, 28, all the way from England to the dining room of\nBrookdale South Bay in Torrance, California. Rodriguez is the community and marketing manager\nfor a company called Sentab. The startup’s product, SentabTV, enables older adults who may not\nbe comfortable with computers to access email, video chat and social media using just their\ntelevisions and a remote control.\n“It’s nothing new, it’s nothing too complicated and it’s natural because lots of people have\nTV remotes,” says Rodriguez.\nBut none of that is the topic of conversation in the Brookdale dining room. Instead,\nRodriguez solicits residents’ advice on what he should get on his cheeseburger and how he should\nspend the afternoon. Playing cards was on the agenda, as well as learning to play mahjong (麻将).\nRodriguez says it’s important that residents here don’t feel like he’s selling them something.\n“I’ve had more feedback in a passive approach,” he says. “Playing pool, playing cards, having\ndinner, having lunch,” all work better “than going through a survey of questions. When they get to\nknow me and to trust me, knowing for sure I’m not selling them something—there’ll be more\nhonest feedback from them.”\nRodriguez is just the seventh entrepreneur to move into one of Brookdale’s 1,100 senior\nliving communities. Other new products in the program have included a kind of full-body blow\ndryer and specially designed clothing that allows people with disabilities to dress and undress\nthemselves.\nMary Lou Busch, 93, agreed to try the Sentab system. She tells Rodriguez that it might be\ngood for someone, but not for her.\n“I have the computer and FaceTime, which I talk with my family on, ”she explains. She also\nhas an iPad and a smartphone. “So I do pretty much everything I need to do.”\nTo be fair, if Rodriguez had wanted feedback from some more technophobic (害怕技术的)\nseniors, he might have ended up in the wrong Brookdale community. This one is located in the\nheart of Southern California’s aerospace corridor. Many residents have backgrounds in\nengineering, business and academic circles.\nBut Rodriguez says he's still learning something important by moving into this Brookdale\ncommunity: “People are more tech-proficient than we thought.”\nAnd besides, where else would he learn to play mahjong?",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What does the passage say about the startups?",
+              "options": {
+                "A": "They never lose time in upgrading products for seniors.",
+                "B": "They want to have a share of the seniors’ goods market.",
+                "C": "They invite seniors to their companies to try their products.",
+                "D": "They try to profit from promoting digital products to seniors."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "Some entrepreneurs have been invited to Brookdale to",
+              "options": {
+                "A": "have an interview with potential customers",
+                "B": "conduct a survey of retirement communities - 9 -",
+                "C": "collect residents’ feedback on their products",
+                "D": "show senior residents how to use IT products"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What do we know about SentabTV?",
+              "options": {
+                "A": "It is a TV program catering to the interest of the elderly.",
+                "B": "It is a digital TV which enjoys popularity among seniors.",
+                "C": "It is a TV specially designed for seniors to view programs.",
+                "D": "It is a communication system via TV instead of a computer."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What does Rodriguez say is important in promoting products?",
+              "options": {
+                "A": "Winning trust from prospective customers.",
+                "B": "Knowing the likes and dislikes of customers.",
+                "C": "Demonstrating their superiority on the spot.",
+                "D": "Responding promptly to customer feedback."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What do we learn about the seniors in the Brookdale community?",
+              "options": {
+                "A": "Most of them are interested in using the Sentab.",
+                "B": "They are quite at ease with high-tech products.",
+                "C": "They have much in common with seniors elsewhere.",
+                "D": "Most of them enjoy a longer life than average people."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into \nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "成语（Chinese idioms）是汉语中的一种独特的表达方式，大多由四个汉字组成。它们高度简练且形式固定，但通常能形象地表达深刻的含义。成语大多数来源于中国古代的文学作品，通常与某些神话、传说或者历史事件有关。如果不知道某个成语的出处，就很难理解其确切含义。因为，学习成语有助于人们更好地理解中国传统文化。成语在日常会话和文学创作中广泛使用。恰当使用成语可以使一个人的语言更具表现力，交流更有效。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

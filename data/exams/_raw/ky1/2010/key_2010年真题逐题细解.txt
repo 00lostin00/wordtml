@@ -1,0 +1,2635 @@
+
+----- PAGE 1 -----
+2010年考研英语（一）真题逐题细解
+回燧嗦I回
+Section I ]Use of English
+回朝够
+配会外教音频
+本文选自 The Economist （《经济学人》）2009 年 6 月 4 日的一篇题为"Light Work: Questioning the Hawthorne 
+Effect"（《照明作用：质疑霍桑效应》）的文章。文章首先介绍了 “霍桑效应”产生的背景，接着介绍了 “霍桑效应” 
+的形成及具体内容（结论），最后对“霍桑效应”提出质疑，并分析了这一误导性结论产生的原因。
+口英汉对照
+[l]
+OIn
+ 1924 America's National Research Council sent two
+1924年，美国国家研究委员会派出两名工
+engineers to supervise a series of experiments at a telephone-
+程师到芝加哥附近一家名为霍桑工厂的电话配
+parts factory called the Hawthorne Plant near Chicago. —It hoped
+件厂指导一系列的实验。该委员会希望他们能
+they would learn how shop-floor lighting (1) affected workers' 
+productivity. ©Instead, the studies ended (2) up giving their 
+name to the "Hawthorne effect", the extremely influential 
+idea that the very (3) act of being experimented upon changed 
+subjects? behavior.
+[2] OThe idea arose because of the (4) perplexing behavior 
+of the women in the plant.❷According to (5) accounts of 
+the experiments, their hourly output rose when lighting was 
+increased, but also when it was dimmed.❸It did not (6) matter 
+what was done in the experiment; (7) so long as something was 
+changed, productivity rose.❹An (8) awareness that they were 
+being experimented upon seemed to be (9) enough to alter 
+workers, behavior (10) by itself.
+[3] ❶After several decades, the same data were (11) subjected 
+to econometric analysis.❷The Hawthorne experiments had 
+another surprise in store.❸(12) Contrary to the descriptions 
+on record, no systematic (13) evidence was found that levels of 
+productivity were related to changes in lighting.
+[4] Olt turns out that the peculiar way of conducting the 
+experiments may have led to (14) misleading interpretations of what 
+happened.❷(15) For example, lighting was always changed on a 
+Sunday.❸When work started again on Monday, output (16) duly rose 
+compared with the previous Saturday and (17) continued to rise for 
+the next couple of days.❹(18) However, a comparison with data for 
+weeks when there was no experimentation showed that output always 
+went up on Mondays. ©Workers (19) tended to be diligent for the 
+first few days of the week in any case, before (20) hitting a plateau 
+and then slackening off.❻This suggests that the alleged "Hawthorne 
+effect" is hard to pin down.
+弄清楚车间照明如何（1 ）影响工人的生产效 
+率。然而，这些研究最终被命名为“霍桑效应”， 
+这一极具影响力的观点就是，正是被用来做 
+实验这一 （3）行为改变了实验对象的行为 
+方式。
+这个观点的形成源于霍桑工厂女工（4）全 
+人费解的行为。根据实验的（5）描述,当照 
+明灯光变亮时，女工每小时的产量就会增加， 
+而当照明灯光变暗时，她们每小时的产量也 
+会增加。实验中做了什么并不（6）重要; 
+（7）只要有某种变化，生产效率就会提高。 
+（8 ）意识到自己成为实验对象，（10）单凭这 
+一点似乎就（9）足以改变工人们的行为。
+几十年后，研究人员对同样的数据进行了 
+计量经济分析。霍桑实验有了另一个令人吃 
+惊的结果。没有系统的（13）证据表明，生 
+产效率的水平与照明灯光的变化有关，而这 
+（12）与实验记录的描述担反。
+结果表明，特殊的实验进行方式可能导 
+致了对所发生情况的（14）误导性解释。 
+（15）例如,照明灯光总在周日改变。周一重 
+新开工时，产量与上周六相比（16 ）如期上升 
+了，而且在接下来的几天（17）持续上升。 
+（18）然而,与未进行实验的几周数据对比表明， 
+产量总是在周一上升。任何情况下，工人在一 
+周的前几天（19）往往都很勤奋，接＜ （20）达 
+到稳定状态，然后逐渐懈怠。这表明，所谓的 
+“霍桑效应”是难以解释清楚的。
+1 W
+
+----- PAGE 2 -----
+:匿案解析
+第一步：逐段分析，逐题西破
+效
+生
+景
+I
+桑
+产
+背
+霍
+应
+的
+Oln 1924 America's National Research Council sent two engineers to supervise a series of 
+experiments at a telephone-parts factory called the Hawthorne Plant near Chicago.❷It hoped 
+they would learn how shop-floor lighting ] workers9 productivity.❸Instead, the studies 
+i 
+------------ --------- 1 
+,, 
+. 
+:
+ended 2 giving their name to the "Hawthorne effect", the extremely influential idea that the 
+I ' 
+i 
+.
+very 3 
+of being experimented upon changed subjects9 behavior.
+A. affected 影响 
+B. achieved 达到 
+C. extracted 提取 
+D. restored 恢复
+【答案解析】看本句：分析句子结构可知，空格所在部分为how引导的宾语从句，空格前提到shop-floor lighting （车 
+间照明），空格后提到workers5 productivity （工人的生产效率），故空格所填词应作该从句的谓语，使“车间照 
+明”与“工人的生产效率”在句法结构上构成合理衔接。又因空格所在句信息不完整，且出现代词It和they, 
+指代不明，需联系上文，故进入第2步。看上下句：分析可知，设空处关键信息点为箭头指向的空格前后部分。 
+❶句提到，美国国家研究委员会派出两名工程师到一家名为霍桑工厂的电话配件厂指导一系列的实验。分析可 
+知，空格所在句中的It和they分别指代❶句中的America's National Research Council （美国国家研究委员会）和 
+two engineers （两名工程师），❷句承接❶句中提到的experiments （实验），指出了实验的目的，即弄清楚车间 
+照明和工人生产效率之间的关系。A选项affected代入文中，表示“车间照明如何影响工人的生产效率”，符合 
+文意，故正确。
+【干扰排除】B选项achieved常表示“经过长期努力而达到某种结果”，其后一般跟具体或特定的目标、地位、标准等， 
+主语一般为具有主观能动性的人。空格所在从句的主语shop-floor lighting无法与achieved搭配，且空格后的从句 
+的宾语workers' productivity也不是特定的目标、地位或标准，故排除。C选项extracted代入文中，意为“车间照 
+明如何提取工人的生产效率”，不符合逻辑，故排除。D选项restored表示“恢复先前的状态”，代入文中，意为"车 
+间照明如何恢复工人的生产效率”，文中并未提到以前的生产效率状况以及如何恢复生产效率的过程，故排除。 
+【考点剖析】上下文语义及动词辨析。affect为动词，表示“影响”，考生应注意与effect进行区分。effect用作 
+名词时，指对人或事产生的效应、影响或结果，例如：I can certainly feel the effects of too many late nights.我当然 
+能感受到熬夜太多产生的影响。effect用作动词时，意为“实现；弓[起；使发生”，例如：They hope to effect a 
+reconciliation,他们希望实现和解。
+A. 
+（end） at在某时刻结束 
+B. （end） up最终成为....
+C. （end） with以.... （方式/内容）结束 
+D. （end） off结束；终止
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格所在部分意为：这些研 
+究 被命名为“霍桑效应”，空格所在句句首表转折的Instead -词表明实验结果与预期不同，ended可与
+B选项up构成固定搭配end up doing...,意为“最终成为 ；最后处于 ”，强调意想不到的结果，符合文意, 
+故正确。
+【干扰排除】空格前的ended与A选项at构成搭配，表示“在某时刻结束”,其后通常跟时间点，而文中giving 
+their name与时间无关，故排除。ended与C选项with构成搭配，意为"以……（方式/内容）结束"，代入文 
+中，意为“这些研究最终以被命名为霍桑效应的方式而告终”，根据常识，“被命名为……” 一般不会是某项 
+研究的最终结果，故排除。ended与D选项off通常构成搭配eud off sth. （with...）,意为“（以……）结束某事”， 
+只表达“结束”的意思，并无“意想不到”的意味，故排除。
+【考点剖析】句内语义及固定搭配。end作名词时的常见用法为at the end of...（在 的结尾）和from beginning 
+to end （从头到尾）;end作动词时还可构成短语end in...（以....告终；末端是.... ）,例如：Their long struggle
+ended in failure.他们的长期努力以失败告终。
+<9 2
+2
+
+----- PAGE 3 -----
+A. truth真相 
+B. sight看见；景象 
+D. proof证明
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格后部分。分析句法结构可知，空格位于 
+that引导的同位语从句中，其中介词短语of being experimented叩on （被用来做实验的）作后置定语，修饰the 
+very;空格前的very表强调，意为“正是”。该同位语从句意为“正是被用来做实验的这一 改变
+了实验对象的行为方式”。备选项中，C选项act论入文中，表示“被用来做实验这一行为”，符合句意，故正确。 
+【干扰排除】A选项truth强调事件的真实性，空格所在句中being experimented upon涉及既定事实，与真假无关， 
+故排除。B选项sight表示“看见”，因实验只是通过照明条件的改变来研究工人的生产效率，而工人只是被动 
+承担研究的载体，他们看不到实验本身，更不可能因此改变自身的行为方式，故排除。D选项proof用作名词时， 
+后接介词。f,表示“……证明”，将其代入文中，语义不通，故排除。
+【考点剖析】句内语义及名词辨析。act作动词时的常见搭配为act as/like （充当；起作用），例如：Hormones in 
+the brain act as/like natural painkillers.大脑中的激素起着天然止痛药的作用。除此之夕卜还有act on （按照建议或信 
+息行动），例如：A patient will usually listen to the doctor's advice and act on it.病人通常会听从医生的建议并且按 
+照它行动。
+OThe idea arose because of the  4  behavior of the women in the plant.❷According to 
+5 of
+II the experiments, their hourly output rose when lighting was increased, but also when it 
+霍桑效应 . 
+i-------------------------r I 
+I
+的形成及 was dimmed. ©It did not 6 what was done in the experiment； 7 something was
+具体内谷 changed, productivity rose.❹A(n) 8 that they were being experimented upon seemed to
+alter workers, behavior 10 itself.
+A. controversial有争议的 
+B. perplexing令人费解的
+C. mischievous恶作剧的；调皮的 
+D. ambiguous模棱两可的
+【答案解析】看本句：分析可知，空格所在句意为：这个观点的形成源于霍桑工厂女工 行为。由于空格所
+在句信息较少，需结合下文解题，故进入第2步。看上下句：❷句提到，当照明灯光变亮时，女工每小时的产 
+量就会增加；当照明灯光变暗时，女工每小时的产量也会增加。即实验结果为无论照明条件如何变化，女工的 
+生产效率都会提高，要想了解研究者对女工表现的反应，还需要了解实验目的，而一段❷句有对其明确的说明， 
+故直接进入第4步。看本段：略。看上下段：一段❷句提到，该委员会希望他们能弄清楚车间照明如何影响工 
+人的生产效率。而对于研究者而言，女工的行为与车间照明之间的关系并不明确，让人难以理解。备选项中，B 
+选项perplexing代入文中，符合句意，故正确。
+I：干扰排除】A选项controversial代入文中，意为“……霍桑工厂女工有争议的行为”，而文中并没有提及女工 
+行为引发争议的内容，故排除。C选项mischievous代入文中，意为“……霍桑工厂女工恶作剧的行为”，而文 
+中并未提及女工在实验中故意捣乱的相关信息，故排除。D选项ambiguous代入文中，意为“……霍桑工厂女工 
+模棱两可的行为”，浏览上下文可知，女工的行为是明确的，并非模棱两可，故排除。
+【考点剖析】上下文语义及形容词辨析。
+A. requirements 必需品 B. explanations 解释 C. accounts 描述；说明 D. assessments 评价 
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格后部分。空格所在句提到，根据实验 
+的，照明加强，女工每小时的产量增加；照明减弱，女工每小时的产量亦增加。显然，该句后半部分是 
+对实验现象的客观描述和说明。C选项accounts代入文中，符合文意，故正确。
+【干扰排除】A选项requirements表示“必需品；所需的东西”，空格后内容描述的是实验现象，并不能通过实 
+验所需物品得出，故排除。B选项explanations表示对某事发生的原因的解释，D选项assessments表示对某人或 
+某事的评价或判断，而空格后内容是对实验现象的客观描述，并非对实验原因的解释，也不涉及评价，故都排除。
+3 0
+
+----- PAGE 4 -----
+【考点剖析】句内语义及名词辨析。
+A. conclude推断出；得出结论 
+B. matter有重要性,要紧
+C. indicate表明；暗示 
+D. work起作用；运转
+【答案解析】看本句：分析句子结构可知，空格后为what引导的主语从句，空格所在句信息不完整，故需结合上 
+文解题，进入第2步。看上下句：分析可知，设空处关键信息点为箭头指向的空格前部分。由❷句内容可知， 
+无论照明条件如何变化，女工每小时的产量都会增加，由此可推断空格部分所表达的语义应为：实验条件如何改 
+变对于产量增加与否并不重要。B选项matter代入文中，符合语义，且matter常用于固定搭配it doesn't matter... 
+中，故正确。
+【干扰排除】A选项conclude和C选项indicate代入文中，分别意为“它并没有推断出实验中做了什么”和“它 
+并没有表明实验中做了什么”，但二段❷句具体描述了实验中的现象，A、C两项均与该表述矛盾，故都排除。 
+D选项work与it构成的常用搭配it doesn't work后一般不跟主语从句，故排除。
+【考点剖析】上下文语义及动词辨析。matter作名词时的常见用法为as a matter of fact （事实上）；作动词时的常 
+见用法为 matter...to sb.,此时 matter 相当于 be important,例如：The children matter more to her than anything else in 
+the world.对于她来说，在这个世界上没有比孩子更重要的了。
+A. as far as 就.... 而言；至于 
+B. for fear that以免
+C. in case that 以防万一 
+D. so long as 只要
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。二段❸句提到，实验中做了什 
+么并不重要；有某种变化，生产效率就会提高。分析可知，重要的是要有变化这一条件，故空格处应填 
+入能引出条件的连词。备选项中，D选项so long as能体现这一逻辑，故正确。
+【干扰排除】A选项as far as作连词时，表示“就……而言”，代入文中，意为“就有某种变化而言，生产率提高了”， 
+语义不通，故排除。B选项for fear that后常引出目的，而生产率提高是客观事实，并不是为了避免“有某种变化” 
+发生而做出的主观行为，故排除。C选项in case that代入文中，意为“以防某种变化出现，生产率提高了”，逻 
+辑及语义不通，故排除。
+【考点剖析】句内逻辑关系及短语连词辨析。本题备选项均可作连词引导状语从句。as far as作连词时，多表示 
+“就.. 而言”，例如：As far as I am concerned, you can do what you like.就我而言，你想干什么就可以干什么。
+for fear that表示说话人的担心与害怕，常用来引导目的状语从句'，从句中使用虚拟语气，例如：I had to run away 
+for fear that he might one day kill me.我只好逃走，生怕他有一天把我杀了。in case that既可引导目的状语从句，表 
+示“以防”，也可引导条件状语从句，表示“如果”，但不强调某事发生的条件，只是单纯表明“某情况下， 
+某事会发生”。as/solongas常用来引导条件状语从句，强调某事发生的条件。
+A. awareness 意识 
+B. expectation 期待
+C. sentiment观点，看法 
+D. illusion错觉，幻觉
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+【答案解析】看本句：浏览备选项可知，设空处所填词应为名词，空格后为that引导的同位语从句，解释说明该
+名词。分析可知，空格所在句是在重申“霍桑效应”的概念，因二段整段论述了
+“霍桑效应”的形成及具体内容，
+故需联系二段内容解题，进入第3步。看上下句：略。看本段：二段首先根据实验现象指出，照明条件的改变
+与工人生产效率无关，接着进一步指出，实验中的照明灯光变强变弱并不重要，只要有某种变化，生产效率就
+会提高。由此可知，工人们的行为之所以发生改变是因为意识到自己为实验对象。备选项中，A选项awareness
+代入文中，符合语义，故正确。
+【干扰排除】B选项expectation表示对未来情况的预期，与空亩后同位语从句中的过去进行时态不符，故排除。
+C选项sentiment和D选项illusion侧重于个人的看法或感觉，与空格后阐述客观事实的同位语从句相矛盾，故都
+排除。
+【考点剖析】上下文语义及名词辨析。
+, 4
+
+----- PAGE 5 -----
+A suitable适合的；适宜的 
+B. excessive过多的；过度的
+C. enough足够的；充足的 
+D. abundant充足的；丰富的
+【答案解析】看本句：空格前指出，工人们意识到自己成为实验对象，空格后内容为：改变工人们的行为。根据 
+句意可知，空格句旨在探究awareness与alter workers'behavior之间的关系，因该句信息不完整，需结合上文解题, 
+故进入第2步。看上下句：分析可知，设空处关锤信息点为箭头指向的空格前后部分。❸句指出，实验中做了 
+什么并不重要；只要有某种变化，生产效率就会提高。由此可推知，只要意识到自己为实验对象，工人们的行 
+为就会改变，即这种意识足以改变工人们的行为。C选项enough与空格前后内容构成搭配be enough to do...（足 
+以……），代入文中，符合语义，故正确。
+【干扰排除】A选项suitable虽可与空格前后内容构成搭配be suitable to do sth.，但“意识”和“改变工人们的行 
+为”之间并不存在“适合”的逻辑关系，故排除。B选项excessive多含贬义，指数量或程度上高于合理的数值， 
+D选项abundant多指某物丰富或充足，而文中旨在说明仅受试者意识到自己是实验对象这一条件就足以对其行 
+为产生影响，两个选项代入文中均不符合语义，故都排除。
+【考点剖析】上下文语义及形容词辨析。
+A. about关于；对于 
+B. for为了；以帮助
+C. on关于；借助于 
+D. by凭借，通过，用
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格后部分，空格所在句指出，意识到自己成 
+为实验对象，这似乎足以改变工人们的行为。空格后的itself指代该句中的awareness （意识），备选项中，只有 
+D选项by能与itself构成固定搭配by itself （独自地），并能与句中的enough相呼应，表示“单凭这种意识就足 
+以改变工人们的行为”，符合语义，故正确。
+【干扰排除】A、B、C三个选项均无法与itself构成固定搭配。A选项about与itself连用意为“关于它自己”， 
+B选项for与itself连用意为“为了它自己”，C选项on与itself连用意为“关于它自己”，三者均不能体现文中“单 
+凭意识”就能对工人们行为改变产生影响这一侧重点，故均排除。
+［考点剖析】句内语义及介词辨析。by oneself为固定用法，相当于on one's own,意为“独自地，单独地”。
+; ni ❶After several decades, the same data were 11 to econometric analysis-❷The Hawthorne 
+j 
+fth 
+■J___________________  1
+'experiments had another surprise in store. © 12 the descriptions on record, no systematic 
+13 
+was
+；应的质疑 
+tz.____________二一 
+------
+found that levels of productivity were related to changes in lighting.
+11
+A. compared与.... 相似；将.... 比作 
+B. shown出示；表明
+C. subjected使经受；使遭受 
+D. conveyed传递；运送
+【答案解析】看本句：空格前内容为the same data were （同样的数据是），而空格后内容为to econometric analysis 
+（计量经济分析），欲了解两者之间的关系，需联系下文的具体解释，故进入第2步。看上下句：分析可知， 
+设空处关键信息点为箭头指向的空格前后部分。本段❷句提到霍桑实验有了另一个令人吃惊的结果，由此可知， 
+分析了相同的数据之后，得出了一个不同的结果，因“数据”是“分析”的对象，故空格所填词呈现的是“数据” 
+与“分析”之间的被动关系。备选项中，C选项subjected代入文中，可与空格前后构成习惯用法be subjected to 
+sth.（使经受某事；使遭受某事），代入文中，表示“几十年后，研究人员对同样的数据进行了计量经济分析”， 
+符合语义，故正确。
+【干扰排除】A选项compared常用于同类事物的比较，要求两事物具有相似性，但“数据”和“计量经济分析” 
+无相似性，故排除；B选项shown代入文中意为“被出示给……”，to后一般跟“展示物的接受对象”，而“计 
+量经济分析”是一种分析手段，故排除；D选项conveyed代入文中意为“被传递给……” ,to后一般为人或地点， 
+表示“被传递的对象或运送的地点”，而“计量经济分析”不属于“人或地点”的范畴，故排除。
+【考点剖析】上下文语义及动词辨析。
+5 >
+
+----- PAGE 6 -----
+A. Contrary to 与... 相反 
+B. Consistent with 与.... .. 致
+C. Parallel with与.... 类似或平行 
+D. Peculiar to为.... 所特有
+【答案解析】看本句：分析可知，空格位于句首，且空格所在句挖空较多，句意不完整，需联系上文解题，故进 
+入第2步。看上下句：分析可知，设空处关键信息点为箭头指向的空格前部分。由❷句“霍桑实验有了另一个 
+令人吃惊的结果”可推知，该结果应与实验记录的描述（无论照明条件如何变化，生产效率都会提高）有所不同。 
+备选项中，A选项Contrary to代入文中，符合语义，故正确。
+【干扰排除】B选项Consistent with强调前后内容的一致性，C选项Parallel with强调前后事物的相似性，D选项 
+Peculiar lo强调某人、某地或某种情况的特性，均不能体现❷句中提到的结果与实验记录的描述间的差异性，故 
+均排除。
+【考点剖析】上下文语义及形容词短语辨析。
+A. evidence 证据 
+B. guidance 指导；引导
+C. implication暗指；可能的影响 
+D. source来源；出处
+【答案解析】看本句：分析空格所在句可知，that引导的同位语从句（生产效率的水平与照明灯光的变化有关） 
+解释说明空格所填词，该句提到，"……与实验记录的描述相反”。由此可推知，空格所在部分应意为“没有 
+发现能证明生产效率的水平与照明灯光的变化有关的证据”。A选项evidence代入文中，符合语义，故正确。
+【干扰排除】B选项guidance表示“提供给某人的帮助或建议”，C选项implication表示“未直接言明的事；可 
+能的影响”，D选项source表示“某事的来源”，而that引导的同位语从句是一个“实验结果”，与“帮助或建议”“未 
+直接言明的事；可能的影响” “某事的来源”都无关，故均排除。
+【考点剖析】句内语义及名词辨析。evidence的常见用法为（be） in evidence （显而易见），例如：The police 
+were much in evidence at today's demonstration.在今天的7K威集会上警察随处可见。
+效
+误
+因
+IV
+桑
+有
+原
+霍
+应
+的
+Olt turns out that the peculiar way of conducting the experiments may have led to 14
+—i 
+. 
+. 
+;
+interpretations of what happened.❷ 15 ，lighting was always changed on a Sunday.❸ When work ■ 
+j —------ - ---------------------- . 
+X--------11 I :
+started again on Monday, output 16 rose compared with the previous Saturday and 17 to rise 
+for the next couple of days-❹ 18 , a comparison with data for weeks when there was no 
+experimentation showed that output always went up on Mondays. ©Workers 19 to be diligent
+. 
+ii 
+1 
+;
+for the first few days of the week in any case, before 20 a plateau and then slackening off.
+t 
+ii … 
+t
+❻This suggests that the alleged "Hawthorne efTect" is hard to pin down.
+A. disputable可争议的 
+B. enlightening具有启发性的
+C. reliable可靠的 
+D・misleading误导性的
+【答案解析】看本句：空格所在句句首的It turns out that...（结果表明……）表明该句是对上段内容的概括和总 
+结，需联系上段内容解题，故进入第4步。看上下句、看本段：略。看上下段：三段指出，研究人员对同样的 
+数据进行了计量经济分析，得到了与之前实验记录的描述相反的结果，即之前的实验结果也许有误；空格所在 
+句是对“之前的实验结果为何有误”的解释，故空格所填词应带有“有误、错误”等负面的感情色彩。D选项 
+misleading代入文中，符合语义，故正确。
+【干扰排除】A选项disputable代入文中，表示“可能导致了好所发生情况的争议性解释”，而之前的实验结果 
+在当时被认为是正确的，而且被命名为“霍桑效应”，可见实验结果不存在争议，故排除。B选项enlightening 
+和C选项reliable均表现出对之前实验结果的认可态度，与文中对之前实验结果的质疑态度相矛盾，故均排除。 
+【考点剖析】上下文语义及形容词辨析。
+e 6
+
+----- PAGE 7 -----
+A. In contrast 相比之下 B. For example 例如 C. In consequence 因此 D. As usual 像往常一样 
+【答案解析】看本句：分析可知，设空处位于句首，❷句句意完整，且备选项基本为表上下文逻辑关系的短语， 
+需结合上文解题，故进入第2步。看上下句：分析可知，设空处关键信息点为箭头指向的空格前部分。❶句指出， 
+特殊的实验进行方式可能导致了对所发生情况野误导性解释。显然，❷句内容（照明灯光总在周日改变）是对 
+。句提到的特殊的实验进行方式的举例说明。备选项中，B选项For example可表列举，用于引出具体的例子， 
+故正确。
+【干扰排除】A选项In contrast表对比关系，C选项In consequence表因果关系，D选项As usual表示某事经常性 
+发生，三者均不能用于表示举例说明，故均排除。
+【考点剖析】上下文逻辑关系及短语辨析。在考研英语中，考生有时可能不理解某些关键性词汇的含义，这种情 
+况下，若其后有例子出现，可根据例子推断出陌生词汇的含义，英语中一般表示列举的短语包括for example, 
+for instance、such as、take...as an example 等。
+A. duly如期地；适当地 
+B. accidentally偶然地；意外地
+C. unpredictably 不可预测地 
+D. suddenly 突然地
+【答案解析】看本句：分析可知，空格所在句是对❷句中列举的特殊的实验进行方式所导致的结果的客观阐述， 
+故需联系❷句解题，进入第2步。看上下句：分析可知，设空处关键信息点为箭头指向的空格前部分,。句提到， 
+照明灯光总在周日改变。由always（总是）可知，该句描述了霍桑实验中规律性的条件变化。空格所在句承接上文, 
+因此也应表示一个具有规律性的结果。A选项duly代入文中，表示“工人的产量每到周一就会如期上升”，符 
+合上下文语义，故正确。
+【干扰排除】B选项accidentally、C选项unpredictably和D选项suddenly均强调无规律性的意外情况，与实验结 
+论"照明条件改变会使产量增加”的“可预料性、规律性”相矛盾，故均排除。
+【考点剖析】上下文语义及副词辨析。
+A. failed未能；未做 
+B. ceased （使）停止，终止
+C. started开始，开动 
+D. continued持续；不断发生
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。根据空格前的and可知，duly 
+rose和_______to rise为并列成分，语义上应相近。由duly rose（如期上升了）可推断空格所在部分应与此表意相近，
+同时结合空格后的for...days可知，to rise应表示一个延续性的动作。备选项中，D选项continued代入文中， 
+表示“持续上升”，符合语义，故正确。
+【干扰排除】A选项failed和B选项ceased代入文中，分别表示“在接下来的几天产量未能上升”和“在接下来 
+的几天产量停止上升”，均不符合上下文语义，故均排除；C选项started代入文中，表示“在接下来的几天产 
+量开始上升”，与空格前内容“周一产量就开始上升”相矛盾，故排除。
+【考点剖析】句内语义及动词辨析。
+A. Therefore 因此 
+B. Furthermore 此外，而且
+C. However 然而 
+D. Meanwhile 与此同时
+【答案解析】看本句：分析可知，设空处位于句首，❹句句意完整，且备选项均为表上下文逻辑关系的词，故需 
+结合上文解题，进入第2步。看上下句：❷❸句提到，照明灯光总在周日改变；周一重新开工时，产量与上周 
+六相比如期上升了，而且会持续上升几天。而空格所在句提到，与未进行实验的几周数据对比表明，产量总是 
+在周一上升。即无论做实验与否，工人的产量都会在周一上升，空格所在句描述的结果显然是令人意外的。备 
+选项中，C选项However表转折，用以引出令人吃惊或形成对比的话语，符合上下文逻辑，故正确。
+【干扰排除】A选项Therefore表因果，B选项Furthermore表递进，D选项Meanwhile表并列，均不符合上下文逻 
+辑，故均排除。
+7 W
+
+----- PAGE 8 -----
+【考点剖析】上下文逻辑关系及副词辨析。表转折关系的副词还包括nevertheless和though。前者位置灵活，可 
+出现在句首，句中或句末，例如：There is little chance that we will succeed in changing the law. Nevertheless, it is 
+important that we try.我们几乎没有可能改变法律，不过，重要的是我们要努力争取。后者则常位于句末，用于补 
+充说明，减弱语气，例如：Our team lost. It was a good game though.我们队输了，可是这也不失为一场精彩的比赛。
+A. attempted试图；尝试
+C. chose选择；挑选
+B. tended往往会；倾向于
+D. intended打算；计划
+【答案解析】看本句：分析可知，空格所在句挖空较多，语义不完整，需联系上文解题，故进入第2步。看上下句： 
+由本段❸❹句可知，无论做实验与否，工人的产量总是会在周一上升。空格所在句中的in any case（在任何情况下） 
+即表达无论做实验与否，故空格所在句是对上文的总结。由此可推知，空格所在部分应表达工人一种常规性的客 
+观的行为。备选项中，B选项tended意为“往往会”，说明某事发生的经常性，代入文中，符合语义，故正确。 
+【干扰排除】A选项attempted、C选项chose和D选项intended均表示主观行为，与"客观、规律的实验现象”不符， 
+故均排除。
+【考点剖析】上下文语义及动词辨析。
+A. breaking 打破
+C. surpassing 超过
+B. climbing上升；上涨
+D. hitting 达到
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格所在句通过be diligent for 
+the first few days of the week （―周的前几天很勤奋）,before a plateau （在 稳定状态之前）和 then
+slackening off （然后逐渐懈怠）描述了工人一周工作状态的变化情况。结合句意可知，空格所填词应表达“达到” 
+之意。备选项中，D选项hitting与a plateau （稳定状态）搭配，表示“趋于稳定，达到稳定状态”，符合语义， 
+故正确。
+【干扰排除】A选项breaking代入文中，意为“打破稳定状态”，表明工人生产效率在趋于稳定后还会上升，不 
+符合语境，故排除。B选项climbing代入文中，表示“工人效率一直在上升，但还未达到稳定状态”，而空格所 
+在句想表达的是“达到稳定状态”，不符合语境，故排除。C选项surpassing表比较，而workers与plateau属于 
+两类不同的事物，逻辑上不能进行比较，故排除。
+【考点剖析】句内语义及动词辨析。hit还有一些其他比较地道的相关表达，考生可积累使用。hit （it） big,表示“很 
+成功”，例如：The band has hit big in the US.乐队在美国大获成功。hit the buffers表示"（计划、事业等）突然受挫”, 
+例如：The plan he made hit the buffers.他做的计划出现问题了。
+第二步：答案汇总，规律验证
+答案汇总
+1~5 ABCBC 6-10BDACD 11-15 CAADB 16-20 ADCBD
+5A5B5C5D
+结论 A、B、C、D四个选项作为正确答案出现的频次均为5,符合命题规律。
+Reading Comprehension
+♦ Part A ♦
+Text 1
+配套外教音频
+或H命题分析
+Text 1选自2007年11月的Commentary （《评论杂志》），原文标题为"The Amateur as Criticn （《业余评 
+论家》）。本文属于文化类题材，主要探讨了英文报纸艺术评论的衰落。
+题目设置：21题至24题为细节理解题，25题为主旨要义题。
+• 8
+
+----- PAGE 9 -----
+TH英汉对照
+[1] OOf all the changes that have taken place in English- 
+language newspapers during the past quarter-century, perhaps 
+the most far-reaching has been the inexorable
+decline
+ in the 
+scope and seriousness of their arts coverage.
+*
+[2] ❶It is difficult to the point of impossibility for the average 
+reader under the age of forty to imagine a time when high- 
+quality arts criticism could be found in most big-city newspapers. 
+❷Yet a considerable number of the most significant collections 
+of criticism published in the 20th century consisted in large part 
+of newspaper reviews.❸To read such books today is to marvel at 
+the fact that their learned contents were once deemed suitable for 
+publication in general-circulation dailies.
+[3] OWe are even farther removed from the unfocused newspaper 
+reviews published in England between the turn of the 20th century 
+and the eve of World War 口，at a time when newsprint was dirt-cheap 
+and stylish arts criticism was considered an ornament to the 
+publications in which it appeared. @In those far-off days, it was 
+taken for granted that the critics of major papers would write in 
+detail and at length about the events they covered. ©Theirs was a 
+serious business, and even those reviewers who wore their learning 
+lightly, like George Bernard Shaw and Ernest Newman, could be 
+trusted to know what they were about. ©These men believed in 
+journalism as a calling, and were proud to be published in the daily 
+press. ©''So few authors have brains enough or literary gift enough 
+to keep their own end up in journalism," Newman wrote, “that I am 
+tempted to define 'journalism' as "a term of contempt applied by 
+writers who are not read to writers who are'."
+[4] OUnfortunately, these critics are virtually forgotten. ©Neville 
+Cardus, who wrote for the Manchester Guardian from 1917 until 
+shortly before his death in 1975, is now known solely as a writer 
+of essays on the game of cricket. ©During his lifetime, though, 
+he was also one of England's foremost classical-music critics, and a 
+stylist so widely admired that his Autobiography (1947) became 
+a best-seller. ®He was knighted in 1967, the first music critic to 
+be so honored. ©Yet only one of his books is now in print, and 
+his vast body of writings on music is unknown save to specialists.
+[5] OIs there any chance that Cardus's criticism will enjoy a 
+revival? ©The prospect seems remote. ©Journalistic tastes had 
+changed long before his death, and postmodern readers have 
+little use for the richly upholstered Vicwardian prose in which he 
+specialized. ©Moreover, the amateur tradition in music criticism 
+has been in headlong retreat.
+(21 ),过去25年间在英文报纸发生的所有 
+变化中，影响最为深远的或许是其艺术报道范 
+围的缩小以及严肃性的减弱，这种趋势不可 
+阻挡。
+(21 )对40岁以下的普通读者来说，他们 
+很难，甚至无法想象一个能在大多数大都市的 
+报纸上读到高品质艺术评论的时代。然而， 
+20世纪出版的大量最具有重要意义的评论文 
+集大部分是由报纸评论组成的。如今再阅读此 
+类文集会让人惊叹这样一个事实：里面这些博 
+大精深的内容曾被认为适合在面向普通读者发 
+行的日报上刊登。
+(22 ) 20世纪初到二战前夕英国出版的报 
+纸评论内容广泛，与现在更是大不相同。那 
+时，新闻用纸非常便宜，而刊登风格独特的艺 
+术评论让出版物显得出彩。在那些遥远的岁月 
+里，人们理所当然地认为：主流报纸的评论家 
+们会为他们所报道的事件撰写详尽细致的评论。 
+他们从事的是一项严肃的事业，人们相信，即 
+使是像乔治•萧伯纳和欧内斯特•纽曼那样以 
+轻松活■泼的方式展现自己学问的评论家们，也 
+知道自己在做什么。这些人认为新闻写作是一 
+种使命，并且为自己的作品能够刊登在日报上 
+而感到自豪。(23 ) “拥有足够智慧或文学天 
+赋而将新闻写作坚持到底的作家很少”，纽曼 
+写道，“以至于我不禁想把'新闻写作'定义 
+为'无人问津的作家对拥有大批读者的作家的 
+蔑称'。”
+遗憾的是，这些评论家几乎被人遗忘了。 
+内维尔•卡达斯从1917年开始直到1975年去 
+世前不久都在为《曼彻斯特卫报》撰稿，可现 
+在人们只知道他是写板球比赛评论的作家。然 
+而，在他的一生之中，他还是英国最著名的古 
+典音乐评论家之一，同时也是一位文体家，如 
+此广受赞誉，以至于其1947年的《自传》成为 
+一本畅销书。1967年他受封为爵士，是第一位 
+获此殊荣的音乐评论家。然而，现在他的书只 
+有一本还未绝版。除了专业人士外，无人知晓 
+他曾写过大量的音乐评论作品。
+卡达斯的艺术评论是否有机会重新盛行？ 
+希望似乎很渺茫。(24)早在他去世之前，新闻 
+业的品位就已发生了变化，后现代的读者几乎 
+不再需要他所擅长的那种辞藻华丽的维多利 
+亚一爱德华时期风格的散文了。此外,音乐评论 
+中业余人士评论的传统也已经迅速走向衰落。
+9 >
+
+----- PAGE 10 -----
+II 篇章结构
+第一段：开篇点题，描述现象——英文报纸中艺术报道的范围缩小、严肃性减弱的趋势已不可阻挡 
+报纸艺 
+术评论< 
+的衰落
+第二、三段：回顾昔日报纸艺术』第二段：回顾二战后至20世纪80年代报纸艺术评论的辉煌
+评论的辉煌 
+1第三段：回顾20世纪初至二战前夕报纸艺术评论的辉煌
+第四、五段：以音乐评论家卡达斯［第四段：将卡达斯生前的广受赞誉与如今的不为人知进行对比，揭
+为例，说明报纸艺术v 
+评论走向衰落的原因〔第五段:
+示报纸艺术评论的衰落趋势 
+指出报纸艺术评论衰落的原因
+，答案解析
+21. It is indicated in Paragraphs 1 and 2 that.
+A. arts criticism has disappeared from big-city newspapers
+B. English-language newspapers used to carry more 
+arts reviews
+C. high-quality newspapers retain a large body of readers
+D. young readers doubt the suitability of criticism on dailies
+一、二段表明 o
+A. 艺术评论已经从大都市的报纸上 
+消失了
+B. 英文报纸过去常刊登更多的艺术 
+评论
+C. 高品质的报纸留住大批读者
+D. 年轻读者怀疑评论文章是否适合 
+刊登在日报上
+选项出处
+一段、二段。句
+一、二段
+二段。句
+二段❸句
+【路径一】从题干的角度解答——如何得出正解 
+找关键词：Paragraphs 1 and 2O回文定位：根据关键词可定位至一、二段。比对匹配：文章首段指出，英文报 
+纸中艺术报道范围缩小以及严肃性减弱的趋势已不可阻挡。二段指出，过去在大多数大都市的报纸上能够读到 
+高品质艺术评论，而且20世纪出版的大量最具有重要意义的评论文集大部分是由报纸评论组成的。由此可推知， 
+英文报纸过去常刊登更多高品质的艺术评论，故B正确。
+【路径二】从选项的角度解答一一如何排除干扰
+找关键词：arts criticism和big-city newspapers。回文定位：根据关键词可定位至二段。句。比对■匹配： 
+该句提到，大多数大都市的报纸上曾经刊登过高品质的艺术评论，然而由此推断“艺术评论已经从大都 
+A 市的报纸上消失了”过于绝对，为了进一步验证A选项正误，需联系上文。辐射匹配：一段提到，英
+文报纸中艺术报道范围缩小以及严肃性减弱的趋势已不可阻挡，这里的decline （变小；减弱）并不等于 
+disappeared （消失）,故排除 Ao
+找关键词：high-quality > newspapers和readers。回文定位：根据关键词可定位至二段❹句。比对匹配：
+C 该句提到，大都市报纸上曾刊登过高品质的艺术评论，但并未提及高品质的报纸留住大批读者的相关信 
+息，故排除C。
+找关键词：suitability和dailies。回文定位：根据关键词可定位至二段❸句，其中suitability和该而中的
+D suitable为同根词。比对匹配：该句提到，让人惊叹（marvel at ）的是，评论文集里博大精深的内容曾被 
+认为适合在日报上刊登，并未提及年轻读者对这种做法表示怀疑的相关信息，故排除D。
+22. Newspaper reviews in England before World 
+War II were characterized by______ .
+在第二次世界大战之前，英国报纸评论的 
+特点是______ 。
+选项出处
+A. free themes
+A.主题自由-
+三段。句
+B. casual style
+B.风格随意
+三段❶❸句
+C. elaborate layout
+C.布局精心
+三段❷句
+D. radical viewpoints
+D.观点激进
+原文未提
+■ 10
+
+----- PAGE 11 -----
+【路径一】从题干的角度解答一一如何得出正解
+找关键词：Newspaper reviews、in England和World War H o回文定位：根据关键词可定位至二段。句。比对 
+匹配：该句提到，20世纪初到二战前夕英国出版的报纸评论内容广泛（unfocused newspaper reviews ）,与现在 
+更是大不相同。此处的u nfocused意为“无特定目标或方向的”，即报纸评论的内容不受约束，也就是主题自由， 
+故A正确。 
+”
+【路径二】从选项的角度解答一如何排除干扰
+找关键词：styleo回文定位：根据关键词并结合题干信息World War II可定位至三段。句，选项关键词 
+与该句中的stylish为同根词。比对匹配：该句提到，在那时（20世纪初到二战前夕），新闻用纸非常便宜, 
+B 而刊登风格独特的（stylish ）艺术评论让出版物显得出彩，可见这些评论风格独特，即写作风格不是“随 
+意的”。由此可初步判断该选项错误，还需联系下文进一步验证。辐射匹配：三段❸句提到，他们（主 
+流报纸的评论家们）从事的是一项严肃的事业，由此可知，这种评论的风格不是“随意的”，故排除B。
+找关键词：elaborate。回文定位：根据关键词可定位至三段❷荷，寰与该而市的in detail and at length囊 
+c 意相近。比对匹配 该句提到，人们认为主流报纸的评论家们会为他们所报道的事件撰写详尽细致的评论。
+C选项内容elaborate layout指精心设计的版面，与文中详尽细致的评论无关，故排除C。
+D ' D遍谕甬蓉/天,羌巍也「成吊并采蠢疫夷菌抠基萍繇泡，&方高南段点：-皈排虱」 
+23. Which of the following would Shaw and Newman 
+most probably agree on?
+A. It is writers  duty to fulfill joumalistic goals.
+*
+B. It is contemptible for writers to be journalists.
+C. Writers are likely to be tempted into journalism.
+D. Not all writers are capable of journalistic writing.
+萧伯纳和纽曼最有可能同意下面哪个 
+观点？
+A, 实现新闻工作的目标是作家的责任。
+B. 作家不屑成为新闻工作者。
+C, 作家有可能会被新闻工作所吸引。
+D. 并非所有作家都能胜任新闻写作。
+选项出处
+三段。句
+三段❺句 
+三段❺句
+三段。。句
+【路径一】从题干的角度解答一如何得出正解 
+找关键词：Shaw and Newman。回文定位：根据关键词可定位至三段❸句。比对匹配：该句提到，人们相 
+信，即使是像Shaw和Newman那样以轻松活泼的方式展现自己学问的评论家们，也知道自己在做什么，由该 
+句可知Shaw和Newman是当时艺术评论家的典型代表，但无法推知两人可能同意的观点，故需联系下文。 
+辐射匹配：三段❺句中，Newman指出，拥有足够智慧或文学天赋而将新闻写作坚持到底的作家很少，换言之, 
+并非所有作家都能胜任新闻写作，且由三段❸句已知Shaw和Newman是当时艺术评论家的典型代表，可推出 
+两人的观点相近，故D正确。
+【路径二】从选项的角度解答一一如何排除干扰
+找关键词：dutyo回文定位：根据关键词可定位至三段❹句，其与该句中的calling （使命）相
+对应。比对匹配：该句提到，这些人（评论家们）认为新闻写作是一种使命，并且为自己的作品能够刊 
+登在日报上而感到自豪，此处只提到评论家们认为新闻写作是一种使命，并未提及实现新闻工作的目标
+是作家的责任，故排除A。
+找关键词：contemptible、writers和joumalistso回文定位：根据关键词可定位至三段❺句，其中
+contemptible与该句中的contempt为同根词, journalists与该句中的journalism为同根词。比对匹配：二
+段❺句中Newman写道：拥有足够智慧或文学天赋而将新闻写作坚持到底的作家很少，以至于我不禁 
+想把“新闻写作”定义为“无人问津的作家对拥有大批读者的作家的蔑称”。此处的contempt是指无人
+问津的作家出于嫉妒而对拥有大批读者的作家的冷嘲热讽，并非选项中的Shaw和Newman认为"作家
+不屑成为新闻工作者”，故排除B。
+ne
+
+----- PAGE 12 -----
+找关键词：Writers, tempted和journalism。回文定位：根据关键词可定位至三段❺句。比对匹配：该句 
+中，Newman写道：拥有足够智慧或文学天赋而将新闻写作坚持到底的作家很少，以至于我不禁想把“新 
+C 闻写作”定义为“无人问津的作家对拥有大批读者的作家的蔑称”。由此可见，Newman认为新闻写作
+这份工作对作家的要求很高，有可能导致很多作家望而却步，而非被这份工作吸引。可见，该选项内容 
+利用原文中的tempted设置词汇干扰，故排除Co
+24. What can be learned about Cardus according to 
+the last two paragraphs?
+根据最后两段，我们可以获得关于卡达斯 
+的什么信息？
+选项出处
+A. His music criticism may not appeal to readers 
+today.
+A.他的音乐评论可能对当今的读者没什么 
+吸引力。
+四段、五段❸句
+B. His reputation as a music critic has long been 
+in dispute.
+B.他作为音乐评论家享有的声誉一直存在 
+争议。
+四段❸❹句
+C. His style caters largely to modem specialists.
+C.他的风格主要迎合现代专业人士。
+四段❺句
+D. His writings fail to follow the amateur tradition.
+D.他的作品未能遵循业余传统。
+五段❹句
+【路径一】从题干的角度解答——如何得出正解
+找关键词：Cardus和the last two paragraphs。回文定位：根据关键词可定位至四、五段。比对匹配：四段指出， 
+除了专业人士外，无人知晓Cardus曾写过大量的音乐评论作品。五段❸句提到，早在Cardus去世之前，新闻 
+业的品位就已发生了变化，后现代的读者几乎不再需要他所擅长的那种辞藻华丽的散文了。由此可知，Cardus 
+的音乐评论可能对当今的读者没什么吸引力，故A正确。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：music critico回文定位：根据关键词可定位至四段❸©句。比对匹配：四段❸句提到，
+B 
+Cardus是英国最著名的古典音乐评论家之一，也是一位文体家；四段❹句提到，1967年他受封为爵士，
+是第一位获此殊荣的音乐评论家。可见，Cardus作为音乐评论家享有极高的认可度（声誉），故排除B。
+-疫-关-键商「spWalist；「百旻画立「根瘟美痴商可-食莅室西短&面「任弟低爵「段荷铤虱-徐亍查Ik人®匚 
+C 无人知晓Cardus曾写过大量的音乐评论作品,该句只是客观陈述Cardus音乐评论作品除了专业人士外无 
+人知晓，并未体现他的风格主要迎合现代专业人士，c选项内容属于过度推断，故排除。
+找关键词：the amateur tradition o回文定位：根据关键词可定位至五段。荷。比对匹配：该句提到，音 
+D 乐评论中业余人士评论的传统也已经迅速走向衰落。这里并未提及Cardus的作品未能遵循业余传统的相
+关信息，故排除D。
+25. What would be the best title for the text?
+本文的最佳标题是什么？
+选项出处
+A. Newspapers of the Good Old Days
+A.往昔美好时代的报纸
+二段
+B. The Lost Horizon in Newspapers
+B.报纸中消失的视野
+全文
+C. Mournful Decline of Journalism
+C,新闻业令人悲哀的衰落
+一段
+D. Prominent Critics in Memory
+D.记忆中杰出的评论家
+三段
+C?浏览后发现，该题属于主旨要义题，仅从题干角度解题最为高效。
+从题干的角度解答——如何得出正解，排除干扰
+梳理结构：本文共五段，一段开篇点题，描述现象，二、三段回顾昔日报纸艺术评论的辉煌，四、五段举例说 
+明报纸艺术评论的衰落趋势，并指出衰落原因。概括主旨：文章一段描述现象——英文报纸中艺术报道的范围 
+缩小、严肃性减弱的趋势已不可阻挡。二、三段回顾报纸艺术t平论昔日的辉煌，通过对比其现在和过去的状况， 
+揭示报纸艺术评论从辉煌走向没落。四、五段对比音乐评论家卡达斯生前和逝后名气的变化，说明艺术评论复 
+苏希望渺茫，并点明报纸艺术评论衰落的原因。由此可推知，全文主旨为报纸中消失的艺术评论，即报纸中消 
+失的视野，故B正确。
+■ 12
+
+----- PAGE 13 -----
+由一段可知，此处衰落的并非新闻业，故排除C。由二段可知，文章主要谈论的是报纸的艺术评论，而非报纸， 
+故排除A。三段中虽提及了萧伯纳和纽曼等杰出的评论家，但他们都是艺术评论辉煌的见证人，所以“这些评 
+论家”并非全文主旨，故排除D。
+-Text 2
+ICT命题分析
+配■套外教音频
+Text 2选自2008年2月21日的Businessweek (《商业周刊》)，原文标题为Pending Threat to Patents"(《专 
+利面临的潜在威胁》)。这是一篇经济法题材的文章，专业性较强，主要围绕商业方法专利保护问题展开论述。
+题目设置：26题、29题为细节理解题，27题为判断正误题，28题为词义猜测题，30题为主旨要义题。
+m英汉对照
+[1] ❶Over the past decade, thousands of patents have been 
+granted for what are called business methods. 
+ 
+received one for its "one-click" online payment system. 
+©Merrill Lynch got legal protection for an asset allocation 
+strategy. @0ne inventor patented a technique for lifting a box.
+©Amazon.com
+[2] ❶Now the nation5 s top patent court appears completely 
+ready to scale back on business-method patents, which have 
+been controversial ever since they were first authorized 10 years 
+ago. ©In a move that has intellectual-property lawyers abuzz, 
+the U. S. Court of Appeals for the Federal Circuit said it would 
+use a particular case to conduct a broad review of business­
+method patents, ©/n re Bilski, as the case is known, is "a very 
+big deal," says Dennis D. Crouch of the University of Missouri 
+School of Law. @It "has the potential to eliminate an entire class 
+of patents/5
+[3] OCurbs on business-method claims would be a dramatic 
+about-face, because it was the Federal Circuit itself that 
+introduced such patents with its 1998 decision in the so-called 
+State Street Bank case, approving a patent on a way of pooling 
+mutual-fund assets. ©That ruling produced an explosion in 
+business-method patent filings, initially by emerging Internet 
+companies trying to stake out exclusive rights to specific types of 
+online transactions.❸Later, more established companies raced 
+to add such patents to their files, if only as a defensive move against 
+rivals that might beat them to the punch. @In 2005, IBM noted 
+in a court filing that it had been issued more than 300 business­
+method patents, despite the fact that it questioned the legal basis 
+for granting them. ©Similarly, some Wall Street investment 
+firms armed themselves with patents for financial products, even 
+as they took positions in court cases opposing the practice.
+[4] ❶The Bilski case involves a claimed patent on a method 
+for hedging risk in the energy market. ©The Federal Circuit
+过去十年间，所谓的“商业方法”获得了 
+成千上万的专利授权。亚马逊公司获得了 “一 
+键点击”在线支付系统的专利。美林集团因其 
+某种资产分配策略获得了法律保护。有位发明 
+者获得了一种提箱技术的专利权。
+(26)现在，国家最高专利法院似乎已经为 
+缩减商业方法专利的数量做好了充分准备。该 
+专利自10年前首次获批以来，就一直颇受争 
+议。美国联邦巡回上诉法院曾表示，它将利用 
+一个特殊案件对商业方法专利展开广泛复审， 
+该举动引得知识产权律师们议论纷纷。(27) it 
+一为人熟知的特殊案件即为比尔斯基案。密苏 
+里大学法学院的丹尼斯・D.克劳奇表示，此案 
+"事关重大”。它“有可能导致一整类专利被撤销”。
+(28 )对商业方法专利申请的限制也许是 
+一次戏剧性的转变，因为正是联邦巡回法院自 
+己在1998年对所谓的"美国道富银行案”进 
+行裁决时引入了此类专利，当时联邦巡回法院 
+批准为共同基金资产筹集方式授予一项专利。 
+联邦巡回法院的这一裁决导致商业方法专利申 
+请激增。起初是新兴的互联网公司试图对特定 
+类型的在线交易方式占得专有权。后来，更多 
+的老牌公司竞相将此类专利收入囊中，哪怕 
+只是将其作为防御竞争对手抢占先机的措施。 
+2005年，美国国际商用机器公司(IBM)在一 
+份法庭文件中提到，自己被授予了 300多项商 
+业方法专利，尽管该公司质疑授予这些专利的 
+法律依据。同样，一些华尔街投资公司也都用 
+金融产品专利来武装自己，即使他们在法庭案 
+件中反对这种做法。
+比尔斯基案涉及一项能源市场风险规避方 
+法的专利申请。联邦巡回法院发布了一条不同
+13 »
+
+----- PAGE 14 -----
+issued an unusual order stating that the case would be heard 
+by all 12 of the court's judges, rather than a typical panel of 
+three, and that one issue it wants to evaluate is whether it should 
+"reconsider" its State Street Bank ruling.
+[5]❶The Federal Circuit's action comes in the wake of a series
+寻常的法令，宣称此案将由该法院全体12名 
+法官联席审理，而不是一贯的三人法官组审理， 
+同时宣称法院想要评估一个议题——是否应该
+of recent decisions by the Supreme Court that has narrowed the 
+scope of protections for patent holders.❷Last April, for example, 
+the justices signaled that too many patents were being upheld 
+for "inventions" that are obvious.❸The judges on the Federal 
+Circuit are "reacting to the anti-patent trend at the Supreme 
+Court," says Harold C. Wegner, a patent attorney and professor 
+at George Washington University Law School.
+“重新审议”对美国道富银行案的裁决。
+在最高法院最近作出一系列关于缩小专利 
+持有人受保护范围的裁决之后，联邦巡回法院 
+采取了上述行动。(29)例如，去年4月，法 
+官们曾表明，太多毫无创意的“发明”正在被 
+授予专利权。联邦巡回法院的法官们正在“对 
+最高法院的反专利趋势作出反应”，乔治•华 
+盛顿大学法学院教授、专利律师哈拉尔德-C.
+韦格纳说道。
+fl
+篇章结构
+第一、二段：今昔对比，引出话题一国』第一段：过去十年间，商业方法已取得大量专利授权 
+家最高专利法院计划缩减商i第二段：现在国家最高专利法院计划缩减商业方法专 
+业方法专利数量 
+利的数量
+商业方法专」第三、四段：评述联邦巡回［第三段：追溯商业方法专利发展历史，反衬联邦巡回法院对此的态度 
+利面临危机］ 
+法院对商业方〈 
+转变
+法专利的态度〔第四段：以比尔斯基案为例，进一步说明联邦巡回法院对待商业专利
+转变 
+方法的态度与以往不同
+［第五段：分析联邦巡回法院限制商业方法专利的原因——响应最高法院的反专利趋势 
+皿答案解析
+26. Business-method patents have recently aroused 
+concern because of.
+A. their limited value to businesses
+B. their connection with asset allocation
+C. the possible restriction on their granting
+D. the controversy over their authorization
+商业方法专利最近引起关注的原因 
+是 
+。
+选项出处
+A.它们对企业的价值有限
+三段❷❸句
+B.它们与资产分配有关
+一段❸句
+C.它们的授予可能受到限制
+二段❶❷句
+D.它们的获批引起了争议
+二段。句
+【路径一】从题干的角度解答——如何得出正解
+找关键词：Business-method patents和aroused concern。回文定位：根据关键词可定位至二段。©句，其中aroused 
+concern与。句中的controversial和❷句中的abuzz相对应。比对匹配：❶句指出，国家最高专利法院似乎准备 
+缩减商业方法专利的数量；❷句指出，联邦巡回上诉法院宣称将广泛复审商业方法专利，这引得知识产权律师 
+们议论纷纷。由“缩减数量”和“广泛复审”这两项将做出的举动可推知，商业方法专利的授予可能会受限， 
+这正是该专利近期引发关注的原因，故c正确。  
+［路径二】从选项的角度解答——如何排除干扰
+找关键词：businesseso回文定位：根据关键词可定仪至三段❷❸❺句，其与❷句中的emerging 
+Internet companies、❸句中的 more established companies 以及翌句中的 Wall Street investment firms 相 
+A 对应。比对匹配：❷❸句指出，新兴的互联网公司和更多老牌公司均竞相将商业方法专利收入囊 
+中，足以看出此类专利对企业的重要价值，故排除A。已由对三段❷❸句的分析排除A,故不再分析三 
+段❺句。
+« 14
+
+----- PAGE 15 -----
+找关键词：asset allocationo回文定位：根据关键词可定位至一段❸句。比对匹配：该句提到，美林集团
+的资产分配策略获得了法律保护，即美林集团申请了关于资产分配策略的商业方法专利，这属个例，由 
+B
+此无法推断出所有商业方法专利都与资产分配有关；且原文举这个例子的目的是说明商业方法专利授予
+一一的数量匕多:_与煎k方彼专酒蕙距』壁座的尾骂辱，_苹桃陛b’ _
+找关键词：controversy和authorization。回文定位：根据关键词可定位至二段❶句，二者分别与该句中
+D 的c ontroversial和authorized为同根词。比对匹配：该句提到，商业方法专利自10年前首次获批以来就
+一直颇受争议，并非最近才引起了争议，故排除D。
+27. 
+Which of the following is true of the Bilski case? 关于比尔斯基案，下列哪种说法正确？ 
+选项出处
+A. Its ruling complies with the court decisions. 
+A.对它的裁决符合法院的判决。 
+四段
+B. It involves a very big business transaction. 
+B.它涉及一笔很大的商业交易。 
+二段❸句
+C. It has been dismissed by the Federal Circuit. 
+C.它已被联邦巡回法院驳回。 
+四段❷句
+D. It may change the legal practices in the U. S. D,它可能改变美国的法律惯例。 
+二段 ©& 句
+令■浏览后发现，该题属于判断正误题，仅从选项角度解题最为高效。
+从选项的角度解答一如何得出正解，排除干扰
+找关键词：Its、ruling、court （ A选项）和It x the Federal Circuit （ C选项）。回文定位：根据关键词并结 
+合题干信息the Bilski case可定位至四段。比对匹配：四段。句提到，比尔斯基案涉及一项能源市场风 
+AC险规避方法的专利申请；❷句指出联邦巡回法院将以不同寻常的审理方式审理比尔斯基案，由过去将来 
+时态（would be heard ）可知当时法院还未对此案作出判决，故排除A。C选项中的“已被驳回（has been 
+dismissed ） 与❷句中的“将被审理（would be heard ）”相矛盾，故也排除。
+找关键词：It和a very big business transaction0回文定位：根据关键词并结合题干信息the Bilski case可 
+定位至二段❸句，其中a very big business transaction,与该句中的a very big deal相对应。比对匹配：该句 
+提到，密苏里大学法学院的丹尼斯・D.克劳奇表示，此案“事关重大”。该句中的a very big deal意为“事 
+一美重大'：一：一西韭一:二笔很大的画业交易':一，一曳建欧B’______________________________________________
+松关黯商：It。回文凫位：根据关键词并结合题干信息the Bilski case可W位至二段❸❹句和四段。tt弱 
+匹配：二段❸❹句指出，比尔斯基案“事关重大”，有可能导致一整类（商业方法）专利被撤销。撤销
+D
+一整类（商业方法）专利意味着可能会改变美国现有的法律惯例，故D正确。已通过分析二段❸。句得 
+出正确答案，故不再分析四段。
+28. The word "about-face" (Line 1, Para. 3) most 
+probably means 
+.
+“about-face” 一词（三段一行）最有可能的 
+意思是 
+。
+选项出处
+A. loss of goodwill
+A.善意的缺失
+原文未提
+B. increase of hostility
+B.敌意的增加
+原文未提
+C. change of attitude
+C.态度的改变
+三段❶句
+L). enhancement of dignity
+D.尊严的提高
+三段。句
+疗浏览后发现，该题属于词义猜测题，仅从题干角度解题最为高效。
+从题干的角度解答一一如何得出正解，排除干扰
+找关键词：about-face和Line 1, Para. 3。回文定位：根据关键词可定位至三段。句。比对匹配：该句指出，对 
+商业方法专利申请的限制（Curbs）也许是一次戏剧性的about-face,因为正是联邦巡回法院自己在1998年对 
+所谓的“美国道富银行案”进行裁决时引入了此类专利，当时联邦巡回法院批准为共同基金资产筹集方式授予 
+一二现专利一。一丛一'遴行专列:一到一':限制专里'一一可推卸:一联邦普一回一遂陇的杏度即后发生了旦力卷性一筋一 £买理?
+150
+
+----- PAGE 16 -----
+A选项内容(loss of goodwill)和B选项内容(increase of hostility )语义重复，故不可能同时正确，且均未能体 
+现法院前后态度的对比反差，故均排除。D选项内容利用原文中about-face 一词中的face设置干扰，但原文中 
+的face和“脸面，尊严”无关，属于望文生义，故排除。
+29. We learn from the last two paragraphs that 
+business-method patents.
+A. are immune to legal challenges
+B. are often unnecessarily issued
+C. lower the esteem for patent holders
+D. increase the incidence of risks
+从最后两段我们知道商业方法
+专利______
+O
+选项出处
+A.不会受到法律的质疑
+四段❷句、五段❸句
+B.往往没有授予的必要
+五段❶❷句
+C.会降低对专利持有人的尊重
+五段❶句
+D.会增加风险的发生率
+四段❶句
+【路径一】从题干的角度解答——如何得出正解
+找关键词：the last two paragraphs和business-method patents。回文定位：根据关键词可定位至四段。句和五段。 
+比对匹配：四段。句提到，比尔斯基案涉及一项能源市场风险规避方法的专利申请。五段。句提到，在最高法 
+院最近作出一系列关于缩小专利持有人受保护范围的裁决之后，联邦巡回法院采取了上述行动；❷句举例提到， 
+去年4月，法官们曾表明，太多毫无创意的“发明”正在被授予专利权，可见，专利权的授予过于泛滥。换言之, 
+大多商业方法专利往往没有授予的必要，故B正确。已分析四段❶句和五段❶❷句，并由五段❶❷句得出答案, 
+故不再分析五段❸句。
+【路径二】从选项的角度解答一一如何排除干扰
+找关键词:legal challengeso回文定位：根据关键词并结合题干信息the last two paragraphs可定位至五段 
+❸句，选项关键词与该句中的anti-patent trend at the Supreme Court相对应。比对匹配：该句指出，联邦 
+巡回法院的法官们正在“对最高法院的反专利趋势作出反应”，即商业方法专利的申请会受到法院的限 
+A 制，也就是可能会受到法律的质疑，A选项表述与之相悖，故初步判断A错误。为进一步验证A选项，
+还需联系上文。辐射匹配：四段❷句提到，美国联邦巡回法院发布了一条不同寻常的法令，宣称此案(比 
+尔斯基案)将由该法院全体12名法官联席审理，并宣称法院想要评估是否应该“重新审议”对美国道 
+富银行案的裁决。由此可知，商业方法专利是受到法律质疑的，故排除A。
+屈关画司- patent holdersj"百「痕密英藕齿向'室反至M函。有；丘弱元时「该而腹蓟」蓦蒿泛晓一 
+C最近作出一系列关于缩小专利持有人受保护范围的裁决，但这强调的是对专利持有人的保护范围缩小了，
+不是“尊重”的问题，故排除C。
+'疫-关-殖商-risks?面受京奁"鼬英锤葡司■凫莅空西葭❶荷"比'好无反:'该荷桔屈应京斯墓素般及二 
+D 项能源市场风险规避方法的专利申请。此处仅提到“规避风险(hedging risk ) ”，并未提及“增加风险
+的发生率”；且文中用risk是为了介绍比尔斯基案，并非用来说明商业方法专利，故排除D。
+30. Which of the following would be the subject of the text?下面哪一项是本文的主题？ 
+选项出处
+A. A looming threat to business-method patents. 
+A.商业方法专利的一个潜在威胁。 
+全文
+B. Protection for business-method patent holders. 
+B.对商业方法专利持有人的保护。 
+五段❶句
+C. A legal case regarding business-method patents. 
+C,―个有关商业方法专利的法律案件。 
+二至四段
+D. A prevailing trend against business-method patents. 
+D,反对商业方法专利的普遍趋势。 
+五段❸句
+CF浏览后发现，该题属于主旨要义题，仅从题干角度解题最为高效。
+从题干的角度解答——如何得出正解，排除干扰
+梳理结构：本文共五段，一、二段今昔对比，引出话题，三、四段评述联邦巡回法院对商业方法专利的态度转 
+变并举例说明，五段分析原因。概括主旨：一、二段提到，过去十年商业方法被大量授予专利，但如今美国最 
+高专利法院计划缩减商业方法专利的数量。三、四段说明此举将是联邦巡回法院对商业方法专利态度的戏剧性 
+转变，并通过比尔斯基案的特殊处理方式，表明其态度。五段分析了联邦巡回法院限制商业方法专利的原因。 
+综上可知，全文围绕着“联邦巡回法院将对商业方法专利进行限制”这一可能出现的情况进行介绍和分析，这 
+一限制可以看作是一种潜在威胁，故A正确。
+«16
+
+----- PAGE 17 -----
+二、四段提到的比尔斯基案和三段中的美国道富银行案均为法律案件，可见文中提到的法律案件不止一个，且 
+这些案件是作为论据出现的，而非文章主旨，故排除C。五段。句指出，最高法院作出一系列裁决缩小专利持 
+有人受保护范围，而B选项侧重讲对商业方法专利持有人的保护，忽略了原文中的“缩小”,与原文侧重点不同， 
+偏离主题，故排除B。五段❸句指出，联邦巡回法院的法官们正在“对最高法院的反专利趋势作出反应”，但 
+由此并不能得出此趋势为普遍趋势，故排除D。”
+Text 3
+配套外教音频
+IO命题分析
+Text 3摘自2007年2月的Harvard Business Review （《哈佛商业评论》），原文标题为“The Accidental 
+Influentials"（《偶然有影响力的人士》）。本文是一篇书评，作者Duncan J. Watts （邓肯• J.沃茨）就Malcolm 
+Gladwell的新作The Tipping Point （《引爆点》）中的观点提出了不同意见。文中指出，名人影响并非社会流行 
+潮形成的关键因素，易受影响的普通人才是其形成的关键因素。
+题目设置：31题、32题、33题、35题为细节理解题，34题为词义猜测题。
+[1] ®In his book The Tipping Point, Malcolm Gladwell argues 
+that "social epidemics" are driven in large part by the actions of 
+a tiny minority of special individuals, often called influentials, 
+who are unusually informed, persuasive, or well connected. 
+©The idea is intuitively compelling, but it doesn't explain how 
+ideas actually spread.
+[2] ©The supposed importance of influentials derives from a 
+plausible-sounding but largely untested theory called the ^two- 
+step flow of communication": Information flows from the media 
+to the influentials and from them to everyone else.❷Marketers 
+have embraced the two-step flow because it suggests that if they
+can just find and influence the influentials, those select people 
+will do most of the work for them.❸The theory also seems to 
+explain the sudden and unexpected popularity of certain looks, 
+brands, or neighborhoods. Gin many such cases, a cursory 
+search for causes finds that some small group of people was 
+wearing, promoting, or developing whatever it is before anyone 
+else paid attention. ©Anecdotal evidence of this kind fits nicely 
+with the idea that only certain special people can drive trends.
+[3]
+OIn
+ their recent work, however, some researchers have
+come up with the finding that influentials have far less impact 
+on social epidemics than is generally supposed. ©In fact, they 
+don't seem to be required at all.
+[4]OThe researchers' argument stems from a simple 
+马尔科姆•格拉德威尔在其《引爆点》一 
+书中提出，“社会流行潮”在很大程度上是由 
+极少数特殊个体的行为推动的，这些人通常被 
+称为“有影响力的人士”，他们或非常地见多 
+识广、或能言善辩、或人脉极为广泛。从直觉 
+上讲，这种观点令人信服，但它并没有解释思 
+想实际上是如何传播的。
+（32）有影响力的人士的所谓重要，性来自 
+■-个听起来有道理但在很大程度上未经检验的 
+理论，该理论被称为"两级传播理论”：信息 
+从媒体流向有影响力的人士，再从他们流向其 
+他所有人。营销人员已经接受了两级传播理论，
+因为该理论表明，如果他们能够找到有影响力 
+的人士，并对其施加影响，那么这些精挑细选 
+出来的人就会为他们完成大部分工作。这个理 
+论似乎也解释了为什么某些款式、品牌或者地 
+段会突然受到意想不到的欢迎。在诸多此类情 
+形中，粗略调查其原因就会发现，一小部分人 
+在其他人留意之前，就已经在穿戴、宣传或开 
+发各类东西了。这种轶事证据与"只有某些特 
+殊人物才可以推动潮流”的观点十分契合。
+然而，一些研究人员在最近的研究中发现， 
+有影响力的人士对社会流行潮的影响比人们普 
+遍认为的要小得多。事实上，社会流行潮似乎 
+根本不需要这些有影响力的人士。
+研究人员的论据来源于对社会影响的一个
+17 e
+
+----- PAGE 18 -----
+observation about social influence: With the exception of a few 
+celebrities like Oprah Winfrey—
+—whose outsize presence is 
+primarily a function of media, not interpersonal, influence— 
+even the most influential members of a population simply don't 
+interact with that many others.❷Yet it is precisely these non­
+celebrity influential who, according to the two-step-flow theory, 
+are supposed to drive social epidemics, by influencing their 
+friends and colleagues directly. ©For a social epidemic to occur, 
+however, each person so affected must then influence his or 
+her own acquaintances, who must in turn influence theirs, and 
+so on; and just how many others pay attention to each of these 
+people has little to do with the initial influential.❹If people in 
+the network just two degrees removed from the initial influential 
+prove resistant, for example, the cascade of change won't 
+propagate very far or affect many people.
+[5] OBuilding on this basic truth about interpersonal influence, 
+the researchers studied the dynamics of social influence by 
+conducting thousands of computer simulations of populations, 
+manipulating a number of variables relating to people's ability 
+to influence others and their tendency to be influencied.❷They 
+found that the principal requirement for what is called "global 
+cascades"—
+—the widespread propagation of influence through 
+networks—is the presence not of a few influential but, rather, of 
+a critical mass of easily influenced people.
+m篇章结构
+简单观察：除了像奥普拉•温弗瑞这样的少数 
+名人 她的非凡影响力主要是媒体影响而非 
+人际影响的作用——即使是一群人中最有影响 
+力的人士也根本不会和那么多人交往。然而， 
+根据两级传播理论，正是这些不出名但具影响 
+力的人，通过直接影响他们的朋友和同事推动 
+了社会流行潮c (33)(34)然而，一种社会 
+流行潮要形成，每个受到影响的人都必须接着 
+影响自己熟悉的人，而这些熟悉的人必须继而 
+去影响他们自己所熟悉的人，依此类推；只是 
+这些人中的每一个会受到多少其他人的关注 
+则与最初有影响力的人士并无多大关系。例如, 
+如果人际网络中与最初有影响力的人士相隔仅 
+两个层级的人抵制这一潮流，那么这一连串的 
+变化就不会传播得很远，或者影响许多人。
+基于人际影响这一基本事实，研究人员通 
+过对人群进行数以千计的计算机模拟，操纵分 
+析若干与人们影响他人的能力以及被他人影 
+响的倾向相关的变量，研究了社会影响的动 
+态变化。(35)他们发现，如果要实现所谓 
+的“全球瀑布流”——通过网络使影响得到广 
+泛传播——最主要的条件不是几个有影响力 
+的人士的存在，而是一大批容易受影响的人的 
+参与O
+社会流 
+行潮的' 
+传播
+第一、二段：介绍《引爆点》一书 
+的观点及理论依据
+第三至五段: 通过介绍研 
+究发现对书＜ 
+作观点进行 
+反驳
+第一段：介绍书作观点——“社会流行潮”主要是由“有影响力的 
+人士”推动的
+第二段：指出并分析书作观点的理论依据一“两级传播理论”
+第三段：概述研究发现“有影响力的人士对社会流行潮的影响不大”，对书 
+作观点进行初步反驳
+第四段：进一步反驳其理论依据——“两级传播理论”，并指出形成社会流 
+行潮的真正原理是“多级传播”
+第五段：指出社会流行潮的形成主要取决于大批易受影响的人的参与，而非
+几个有影响力的人士的存在
+E答案解析
+31. By citing the book The Tipping Point, the author 
+intends to.
+A. analyze the consequences of social epidemics
+B. discuss influentials9 function in spreading ideas
+作者援引《引爆点》一书的用意是 0
+A, 分析社会流行潮的后果
+B. 讨论有影响力的人士在思想传播过程中 
+的作用
+选项出处
+一段O句
+一段
+C. exemplify peopled intuitive response to social epidemics
+D. describe the essential characteristics of influentials
+c.例证人们对社会流行潮的直觉反应
+D,描述有影响力的人士的基本特征
+一段❷句
+一段❶句
+, 18
+
+----- PAGE 19 -----
+【路径一】从题干的角度解答——如何得出正解
+找关键词：The Tipping Pointo回文定位：根据关键词可定位至一段❶句。比对匹配：该句援引马尔科姆•格拉 
+德威尔在其《引爆点》一书中的观点，即“社会流行潮”在很大程度上是由极少数“有影响力的人士”的行为 
+推动的。仅由此信息无法得知作者援引《引爆点》一书的用意，故需联系下文。辐射匹配：一段❷句指出作者 
+对马尔科姆•格拉德威尔观点的看法：这种观点直觉上令人信服，但未解释思想实际上是如何传播的，换言之, 
+作者认为马尔科姆•格拉德威尔只给出了其观点，但并未具体说明“有影响力的人士”是如何传播思想，从而 
+推动社会流行潮的。由此可见，作者援引《引爆点》一书是为了引出下文讨论的话题：有影响力的人士在思想 
+传播过程中的作用，故B正确。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：social epidemicso回文定位：根据关键词并结合题干信息The Tipping Point可定位至一段❶句。 
+比对匹配：该句提到，马尔科姆•格拉德威尔在《引爆点》一书中提出，"社会流行潮”在很大程度上 
+是由极少数“有影响力的人士”的行为推动的，此处提到的是“社会流行潮”的推动力量，并非“社会 
+流行潮”的后果，A选项内容属于偷换概念，故拢隆__ _______________________________________________
+找关键词：intuitive□回文定位：根据关键词可定位至■—段❷句，其与该句中的intuitively为同根词。比 
+c 对匹配：该句提到，马尔科姆•格拉德威尔书中的观点在直觉上令人信服，而非人们对社会流行潮的直
+觉反应。C选项内容利用一段❷句中的intuitively设置词汇干扰，故排除。
+找关键词：characteristics和influentials。回文定位：根据关键词可定位至一段。句,该句中的unusually 
+informed, persuasive, or well connected为与人物特征(characteristics )相关的表达。比对匹配：该句中的 
+D infonned (见多识广)、persuasive (能言善辩)和well connected (人脉极为广泛)都是描述有影响力的人 
+士特征的词，但这只是马尔科姆•格拉德威尔在《引爆点》一书中的细节信息，并非本文作者援引该书的 
+用意，故排除D。
+32. The author suggests that the "two-step-flow theory^,
+作者暗示“两级传播理论”
+选项出处
+A. serves as a solution to marketing problems
+B. has helped explain certain prevalent trends
+C. has won support from influential
+D. requires solid evidence fbr its validity
+A. 可作为解决营销问题的方法
+B. 已经帮助解释了某些流行趋势
+C. 赢得了有影响力的人士的支持
+D. 需要确凿的证据证明其效力
+二段❷句 
+二段❸句 
+二段❷句 
+二段。句
+【路径一】从题干的角度解答一一如何得出正解 
+找关键词：two-step-flow theory。回文定位：根据关键词并结合出题顺序可定位至二段❶句，其与该句中的 
+theory called the utwo-step flow of communication"相对应。比对匹配：该句提到，有影响力的人士的所谓重要性 
+来自一个听起来有道理但在很大程度上未经检验的理论，该理论被称为“两级传播理论”。从“听起来有道理 
+(plausible-sounding )"和“未经检验的(untested )"可以看出，作者暗示该理论的有效性有待证明，还需要 
+确凿的证据，故D正确。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：marketingo回文定位：根据关键词可定位至二段❷句，其与该句中的Marketers为同根词。
+比对匹配：该句指出，营销人员已经接受了两级传播理论，因为该理论表明，如果他们能够找到有影响 
+力的人士，并对其施加影响，那么这些精挑细选出来的人就会为他们完成大部分工作。可见此处提到的 
+是营销人员对该理论的认可，并非本文作者，故排除A。
+找关键词：explain和certain。回文定位：根据关键词可定位至二段❸句。比对匹配：该句提到，这个理论 
+(两级传播理论)似乎也解释了为什么某些款式、品牌或者地段会突然受到意想不到的欢迎。其中"似 
+B 乎解释了( seems to explain ) ”暗含作者对两级传播理论能够解释某些流行趋势表示不确定，而B选项 
+中的“已经帮助解释了( has helped explain ) ”为旦经隹过的确定更实，表匿与客史内容担垸，一敢趣陇2 
+找关键词：won support和influentials。回文定位：根据关键词可定位至二段❷句，其中won support与该 
+C 句中的embraced相对应。比对匹配：该句提到，营销人员已经接受了两级传播理论，即该理论得到了营 
+销人员的支持。C选项内容偷换概念，将原文中的“营销人员”换成了 “有影响力的人士”，故排除。
+19 W
+
+----- PAGE 20 -----
+33. What the researchers have observed recently shows 
+that.
+A. the power of influence goes with social interactions
+B. interpersonal links can be enhanced through the media
+C. influentials have more channels to reach the public
+D. most celebrities enjoy wide media attention
+【路径一】从题干的角度解答一一如何得出正解
+研究人员近期的观察表明 O 
+选项出处
+A. 影响力伴随社会交往而产生 
+四段❶❷❸句
+B. 人际关系可以通过媒体得以加强 
+四段❶句
+C. 有影响力的人士与公众联系的渠道更多 
+四段❶句
+D. 大部分名人享有媒体的广泛关注 
+四段❶句
+找关键词：researchers和observed。回文定位：根据关键词可定位至四段❶句，其中observed与该句中的 
+observation为同根词。比对匹配：该句指出，研究人员的论据来源于对社会影响的一个简单观察：除了少数名 
+人的非凡影响力主要是媒体影响而非人际影响的作用，即使是一群人中最有影响力的人士也根本不会和那么多 
+人交往。可见，此处暗指有影响力的人士若不与过多人交流互动，在推动社会流行潮中的影响力就不会太大， 
+但这只是研究人员初步简单观察的现象，并非最终结论，由此尚无法判断答案，故还需联系下文。辐射匹配： 
+四段❷❸句提到，根据两级传播理论，不出名但具有影响力的人通过直接影响自己的朋友和同事推动了社会流 
+行潮；但社会流行潮的形成需要每个受到影响的人再去影响自己熟悉的人，这些熟悉的人再去影响他们熟悉的 
+人，依此类推。由此可见，推动社会流行潮形成的影响力是在社会交往中产生的，故A正确。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：interpersonal和media。回文定位：根据关键词可定位至四段❶句。比对匹配：该句提到，少 
+数名人的非凡影响力主要是媒体影响而非人际影响的作用，但并未提到人际关系可以通过媒体得以加强，
+_故主嘤B —
+屈关福商「influentials而；he publM「面王京布"曜箱巍商苛是奁至曲屈6有「胸著芬莉写菠旬中-曲' 
+influential members和many others相对应。比对匹配该句提到,除了像奥普拉•温弗瑞这样的少数名人----
+她的非凡影响力主要是媒体影响而非人际影响的作用——即使是一群人中最有影响力的人士也根本不会 
+和那么多人交往。分析可知，相比一群人中最有影响力的人士，只有少数名人可以通过媒体渠道与公众 
+一等一族项占容将文中的“少数名人”偷换成“有影响力的人士” ,故排除。
+'屈-关统商Celebrities而media；枭德美崔员f可漉佥室函既6荷；K知元旎「该荷蠢虱，-另板' 
+名人的非凡影响力主要是媒体影响而非人际影响的作用。可见，享有媒体广泛关注的名人只有少数，故 
+排除Do
+34. The underlined phrase "these people" in Paragraph 
+4 refers to the ones who.
+A. stay outside the network of social influence
+B. have little contact with the source of influence
+C. are influenced and then influence others
+D. are influenced by the initial influential
+四段中画线的短语“巩ese people”指的 
+是______ 的人。
+选项出处
+A.置身于社会影响网络之外
+四段❸句
+B,和影响源接触很少
+四段❸句
+C.受到影响继而影响他人
+四段❸句
+D.受最初那位有影响力的人士影响
+四段❸句
+浏览后发现，该题属于词义猜测题，仅从题干角度解题最为高效。
+从题干的角度解答——如何得出正解，排除干扰
+找关键词：山ese people和Paragraph 4。回文定位：根据关键词可定位至四段❸句。比对匹配：该句提到， 
+一种社会流行潮要形成，每个受到影响的人都必须接着影响自己熟悉的人，而这些熟悉的人必须继而去影 
+响他们自己所熟悉的人，依此类推；只是这些人中的每一个会受到多少其他人的关注则与最初有影响力的 
+人士并无多大关系。分析可知，一种社会流行潮要形成，需要经过至少三个层级的传播，其中第一层级为 
+受最初那位有影响力的人士影响的人，对应文中的each person so affected;第二层级为受第一层级的人影 
+响的人，对应文中的acquaintances;第三层级为第二层级的人熟悉的人，对应文中的theirs。根据以上分 
+析及语义上的就近原则可知，儿ese people指代上文的acquaintances,为信息传播过程中的第二层级，即受 
+到影响继而影响他人的人，故C正确。
+*20
+
+----- PAGE 21 -----
+由以上对四段。句的分析可知，推动社会流行潮形成的所有影响他人以及被他人影响的人都是置身于社 
+会影响网络之内的人，A选项内容与此相悖，故排除。B选项内容与四段❸句中的has little to do with the 
+initial influential 表意相近，但 has little...influential 的主语是 how...these people,而非 t/iese people,故排除 B。. 
+D选项“受最初那位有影响力的人士影响的人”应是四段❸句中的each person so affected,为前文所分析 
+的第一层级，因此该类人群并非these people的指代对象，故排除D。
+35. What is the essential element in the dynamics 
+of social influence?
+社会影响的动态变化中，基本要素是什么？
+选项出处
+A. The eagerness to be accepted.
+A.被人接纳的渴望。*
+原文未提
+B. The impulse to influence others.
+B.影响他人的冲动。
+五段。句
+C. The readiness to be influenced.
+C.受人影响的意愿。
+五段
+D. The inclination to rely on others.
+D,依赖他人的倾向。
+五段❶句
+【路径一】从题干的角度解答一如何得出正解
+找关键词：the dynamics of social influence；,回文定位：根据关键词可定位至五段。句。比对匹配：该句提到， 
+研究人员研究了社会影响的动态变化，在此期间操纵分析了若干与人们影响他人的能力以及被他人影响的倾向 
+相关的变量。仅由此信息无法得知社会影响的动态变化的基本要素，故需联系下文。辐射匹配.❷句接着提到, 
+研究人员发现，要实现“全球瀑布流”，即通过网络使影响得到广泛传播，最主要的条件是需要一大批容易受 
+影响的人的参与。可见，社会影响动态变化中，基本要素是“受人影响的意愿”，故C正确。
+【路径二】从选项的角度解答——如何排除干扰
+A A选项内容在文中无法定位，文中并未提及“被人接纳的渴望”的相关信息，故排除A。
+找关键词：influence otherso回文定位：根据关键词可定位至五段❶句。比对匹配：该句提到，研究人 
+B 员在研究社会影响的动态变化时，分析了与人们影响他人的能力以及被他人影响的倾向相关的变量，此
+处仅提及“影响他人的能力”，并未提及“影响他人的冲动”,故排除B。
+找关键词：inclination和others。回文定位：根据关键词可定位至五段。句，其中inclination与该句中的
+D tendency表意相同。比对匹配：该句仅提到人们影响他人的能力以及被他人影响的倾向，并未提到依赖他 
+人的倾向，故排除D。
+Text 4
+IEI命题分析
+配套外教音濒
+Text 4 摘自 2009 年 4 月 8 日的 The Economist (《经济学人》)，原文标题为Banks and Accounting Standards: 
+Messenger, Shot"(《银行与会计准则：信使被迁怒》)。本文属于经济类题材，主要围绕“银行抱怨会计准则 
+不公并要求进行修改，使得会计准则制定者的独立性受到威胁”这一现象展开论述。
+题目设置：36题至39题为细节理解题，40题为观点态度题。
+血I英汉对照
+[1] ©Bankers have been blaming themselves for their 
+troubles in public. ©Behind the-scenes, they have been 
+taking aim at someone else: the accounting standard-setters. 
+©Their rules, moan the banks, have forced them to report 
+enormous losses, and it's just not fair. ©These rules say they 
+must value some assets at the price a third party would pay, not 
+the price managers and regulators would like them to fetch.
+在公开场合，银行家们一直把他们遇到的问 
+题归咎于自身。(40)背地里，他们却一直将 
+矛头对准别人：会计准则制定者。各家银行抱 
+怨道，会计准则迫使他们报告巨额亏损，而这 
+确实是不公平的。(36)这些准则称，他们必 
+须以第三方愿意支付的价格，而不是管理者和 
+监管机构期望他们售得的价格来评估部分资产。
+21*
+
+----- PAGE 22 -----
+[2]OUnfbrtunately, banks' lobbying now seems to be working. 
+❷The details may be unknowable, but the independence of 
+standard-setters, essential to the proper functioning of capital 
+markets, is being compromised. ©And, unless banks carry toxic 
+assets at prices that attract buyers, reviving the banking system 
+will be difficult.
+不幸的是，银行的游说现在似乎开始奏效 
+了 o (37) (40)具体细节可能无法获知，但 
+准则制定者的独立性正在受到损害，而这种独 
+立性是资本市场正常运作的关键所在。而且， 
+除非银行以能吸引买家的价格将有毒资产售 
+出，否则，复苏银行系统将非常困难。
+[3] OAfter a bruising encounter with Congress, America's 
+Financial Accounting Standards Board (FASB) rushed through 
+rule changes. ©These gave banks more freedom to use models 
+to value illiquid assets and more flexibility in recognizing 
+losses on long-term assets in their income statements. 
+❸Bob Herz, the FASB's chairman, cried out against those who 
+"question our motives."❹Yet bank shares rose and the changes 
+enhance what one lobbying group politely calls "the use of 
+judgment by management.55
+[4] OEuropean ministers instantly demanded that the 
+International Accounting Standards Board (IASB) do likewise. 
+❷The IASB says it does not want to act without overall planning, 
+but the pressure to fold when it completes its reconstruction of 
+rules later this year is strong. ©Charlie McCreevy, a European 
+commissioner, warned the IASB that it did "not live in a political
+美国财务会计准则委员会(FASB )在与国 
+会的一场激烈交锋之后，匆忙通过了准则修改° 
+这些修改使银行在使用模型对非流动性资产进 
+行评估时拥有更多自由，在损益表上确认长期 
+资产损失时更具灵活性。FASB主席鲍勃•赫 
+兹强烈反对那些“怀疑我们动机”的人。然而， 
+银行股价上涨了，并且这些修改增强了某游说 
+团体美其名曰的“管理层判断力的运用”。
+欧洲各国的部长随即要求国际会计准则理 
+事会(IASB )也这样做。(38 ) IASB表示， 
+不想在没有总体规划的情况下采取行动，但在 
+今年晚些时候完成自身准则重建时，他们将面 
+临巨大的屈服压力。欧盟委员会成员查理•迈 
+克里维警告该理事会说，IASB “并非处于政治 
+真空中”，而是“处在现实世界里”，并表示
+vacuum,, but "in the real world,, and that Europe could yet
+欧洲迟早会制定不同的准则。
+develop different rules.
+[5] OIt was banks that were on the wrong planet, with 
+accounts that vastly overvalued assets. ©Today they argue that 
+market prices overstate losses, because they largely reflect the 
+temporary illiquidity of markets, not the likely extent of bad 
+debts. ©The truth will not be known for years.❹But banks' 
+shares trade below their book value, suggesting that investors 
+are skeptical.❺And dead markets partly reflect the paralysis of 
+banks which will not sell assets for fear of booking losses, yet are 
+reluctant to buy all those supposed bargains.
+[6] OTo get the system working again, losses must be recognized 
+and dealt with.❷America's new plan to buy up toxic assets will 
+not work unless banks mark assets to levels which buyers find 
+attractive. ©Successful markets require independent and even
+(39)是银行的想法不切实际，它们的账目 
+严重高估了资产。现在,银行辩称，市场价格夸 
+大了损失，因为市场价格在很大程度上反映的是 
+市场暂时的流动性不足，而非坏账可能达到的程 
+度。真相在多年后才能知晓。但是银行的股价低 
+于其账面价值，这表明投资者对其持怀疑态度。 
+另外，毫无生气的市场也在一定程度上反映出银 
+行的瘫痪，银行因担心账面损失而不愿出售资产， 
+又不愿购买那些所谓的廉价资产。
+要让系统重新运转，就必须承认损失，并 
+对其进行处理。除非银行将有毒资产价格定位 
+在买主觉得有吸引力的水平上，否则美国全面 
+收购有毒资产的新计划将难以实施。(40)成 
+功的市场需要独立，甚至斗志旺盛的准则制定者。
+combative standard-setters.❹The FASB and IASB have been 
+exactly that, cleaning up rules on stock options and pensions,
+FASB和IASB过去一直都是这样的机构，例如， 
+他们不顾特殊利益团体的强烈反对，整顿股票
+for example, against hostility from special interests.❺But by 
+giving in to critics now they are inviting pressure to make more
+期权和养老金方面的(会计)准则c但他们如 
+今在批评者面前作出妥协，给自己招致了做出
+concessions.
+更多妥协的压力。
+<22
+
+----- PAGE 23 -----
+irni篇章结构
+准
+定
+立
+受
+计
+制
+独
+遭
+胁
+会
+则
+者
+性
+威
+第一、二段：提出问题——计准则』第一段：指出银行对会计准则（资产评估方法）的不满
+制定者独立性遭受威胁1.第二段：明确指出会计准则制定者的独立性正在受到损害
+擀二 昨因 泌时的第三段：以FASB与国会激烈交锋后匆忙通过了准则修改为例说明问题 
+弟二、四尊：举例说川可赵［第四段：以欧洲各国部长要求IASB效仿FASB修改准则为例再次说明问题
+心第五段：表明作者观点——银行对于会计准则制定的想法不切实际
+弟五' 八改：腆决问感］第六段：提出建议一行应承认损失并进行处理；准则制定者不应妥协
+ini答案解析
+36. Bankers complained that they were forced to
+A. follow unfavorable asset evaluation rules
+B. collect payments from third parties
+C. cooperate with the price managers
+D. reevaluate some of their assets
+银行家们抱怨他们被迫。 
+选项出处
+A. 遵循不利的资产评估准则 
+一段❸❹句
+B. 从第三方处收款 
+一段❹句
+C. 与价格管理者合作 
+一段❹句
+D. 重新评估其部分资产 
+一段。句
+【路径一】从题干的角度解答——如何得出正解 
+找关键词：Bankers、complained和forced。回文定位：根据关键词可定位至一段❸句，其中Bankers与该句中 
+的banks为同根词，complained与该句中的moan表意相同。比对匹配：该句提到，各家银行抱怨会计准则迫使 
+他们报告巨额亏损，而这确实是不公平的。此处暗含银行家对会计准则不合理性的不满，仅凭该句尚不能确定 
+答案，故需联系下文。辐射匹配：一段❹句具体指出，这些准则称，他们必须以第三方愿意支付的价格评估部 
+分资产，而不是按照管理者和监管机构期望他们售得的价格来评估。综上可知，银行家们抱怨的是他们被迫遵 
+循对自己不利的资产评估准则，故A正确。
+【路径二】从选项的角度解答一一如何排除干扰
+找关键词：payments和third parties。回文定位：根据关键词可定位至一段❹句，其中前者与该句中的 
+B 
+pay为同根词。比对匹配：该句提到，会计准则要求银行以第三方愿意支付的价格来评估部分资产，而
+非逼迫银行家们从第三方处收款，故排除B气............... ..
+找关键词：the price managerso回文定位：根据关键词可定位至一段❹句。比对匹配：该句提到，会计 
+准则要求银行不能以管理者和监管机构期望售得的价格来评估部分资产。从语法结构来看，该句中第
+C
+二个the price后面的managers...fetch为省略了关系代词（which/that ）的定语从句，该定语从句修饰the 
+price,而C选项将the price managers看作“价格管理者”,属于断章取义，显然与原文不符，故排除。 
+找关键词：reevaluate some of their assetso回文定位：根据关键词可定位至一段❹句，其与该句中的 
+D value some assets相对应。比对匹配：该句提到，银行被迫以会计准则规定的方式评估部分资产，并非“重
+新评估其部分资产”，D选项内容属于过度推断，故排除。
+37. According to the author, the rule changes 
+o£ the FASB may result in 
+.
+根据作者的观点，美国财务会计准则委员 
+会（FASB）的准则修改可能导致 
+。
+选项出处
+A. the diminishing role of management
+B. the revival of the banking system
+C. the banks  long-term asset losses
+*
+D. the weakening of its independence
+A. 管理层功能的削弱
+B. 银行系统的复苏
+C. 银行长期资产的损失
+D. 其独立性的削弱
+三段❹句
+二段。句
+三段❷句
+二段❶❷句、三段。句
+【路径一】从题干的角度解答——如何得出正解
+找关键词：the rule changes和the FASB。回文定位：根据关键词可定位至三段❶句。比对匹配：该句虽提到美国 
+财务会计准则委员会（FASB ）匆忙通过了准则修改一事，但并未说明这一举动可能导致的后果，故需联系上文 
+23 >
+
+----- PAGE 24 -----
+而是蓉橐；南新元旎「三真。❷荷足：相彳专傍祉婆日惟厕南癖蔬仙孕异峪奏薮"恒准页福走著南抽M检五走 
+|受到损害。若FASB （即准则制定者）修改准则，其独立性可能会被削弱，故D正确。
+【路径二】从选项的角度解答一一如何排除干扰
+找关键词：managemento回文定位：根据关键词可定位至三段❹句。比对匹配：该句指出，银行股价上 
+A 涨了，“管理层判断力的运用”也增强了。由此可见银行管理层的功能得到了增强，A选项表述与此相悖， 
+故排除。
+找关键词：the revival of the banking systemo回文定位：根宓关睡词可凫位至二匣❸有'，冀与陵份而的 
+B reviving the banking system表意相同。比对匹配：该句指出，除非银行以能吸引买家的价格售出有毒资产，
+否则复苏银行系统将非常困难，此处并非FASB准则修改导致的结果，故排除B。
+找关键词：banks和long-term asset losses。回文定位：柜握美睡商可定佥至三段❷卮［,其币后著与该面 
+中的losses on long-term assets相对应。比对匹配：该句指出，这些修改（FASB准则的修改）使银行在损 
+C 益表上确认长期资产损失时更加灵活。此处仅提到FASB准则的修改会使银行在确认长期资产损失时更
+为灵活，而非会导致银行长期资产的损失，故排除C。
+38. According to Paragraph 4, McCreevy objects
+根据四段可知，迈克里维反对国际会计准则理
+选项出处
+to the IASB's attempt to 
+.
+事会(IASB)
+的意图O
+A. keep away from political influences
+A.远离政治影响
+四段。句
+B. evade the pressure from their peers
+B.规避同行压力
+四段❶❷句
+C. act on their own in rule-setting
+C.独立制定准则
+四段
+D. take gradual measures in reform
+D,逐步进行改革
+四段❷句
+【路径一】从题干的角度解答——如何得出正解
+彼藏商：Paragraph 4、McCreevy和the IASB。回文定位：根据关键词可定位至四段❸句。比对匹配：该句指出， 
+欧盟委员会成员McCreevy警告国际会计准则理事会（IASB ）说，它“并非处于政治真空中”而是“处在现实 
+世界里”。显然，McCreevy是在暗示IASB不应不顾政治压力，而要面对现实。但由此无法得知IASB的何种意 
+图让McCreevy发出这样的警告，故需联系上文。辐射匹配：四段❶❷句指出，欧洲各国部长随即要求IASB像 
+FASB 一样修改准则；但IASB表示不想在没有总体规划的情况下采取行动。言下之意是IASB希望在考虑全盘 
+因素之后再进行修改，即IASB坚持在制定准则方面保持独立。综上可知，针对IASB不顾政治压力及同行影响， 
+坚持独立制定准则这一意图，McCreevy表示反对，故C正确。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：political influenceso回文定位：根据关键词可定位至四段❸句，其与该句中的political 
+A vacuum相对应。比对匹配：该句指出，欧盟委员会成员McCreevy警告IASB说，IASB “并非处于政治 
+真空中”，即其无法摆脱政治影响，但由此无法得知IASB有远离政治影响的意图，故排除A。
+找关键词：pressure。回文定位：痕掴关锤简并结吾密平信点Paragraph 4司诡位至西段含司。EE对远瓦： 
+该句提到，IASB在完成自身准则重建时，将面临巨大的屈服压力，但未提及这种压力来自何处，故需联 
+B 系上文。辐射匹配：四段❶句提到，欧洲各国的部长要求IASB像FASB一样修改准则。可见，IASB的
+压力来自欧洲各国部长而非同行，故排除B。
+-衰美锤商」'reform』面支适血；-版而美链词弄结香巅干信点言第司是盅室西段❷句-"其写该司市的- 
+reconstruction of rules相对应。比对匹配：该句指出，IASB不想在没有总体规划的情况下修改准则,即不 
+D 希望草率行事，由此无法推出IASB是否会逐步进行改革，也无法推出McCreevy是否反对IASB逐步进
+行改革的意图，故排除D。______________________________ ,_______________________________________________
+39. The author thinks the banks were "on the 
+wrong planet" in that they______ .
+作者认为银行“想法不切实际”， 
+它们____ __  O
+,因为
+选项出处
+A. misinterpreted market price indicators
+A,误解了市场价格指标的含义
+五段❷句
+B. exaggerated the real value of their assets
+B.夸大了其资产的实际价值
+五段❶句
+■ 24
+
+----- PAGE 25 -----
+C. neglected the likely existence of bad debts 
+C.忽视了坏账存在的可能性 
+五段❷句
+D. denied booking losses in their sale of assets 
+D.否认资产出售的账面损失 
+五段❺句
+【路径一】从题干的角度解答一一如何得出正解
+找关键词：banks和on the wrong planet。回文定位：根据关键词可定位至五段。句。比对匹配：该句提到，银 
+行的想法不切实际(on the wrong planet )的原成是它们的账目严重高估了资产，B选项内容为五段❶句的同义 
+转述，故正确。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：market price。回文定位：根据关键词可定位至五段❷句。比对匹配：该句提到，银行辩函"
+A 市场价格夸大了损失，因为市场价格在很大程度上反映的是市场暂时的流动性不足，而非坏账可能达到
+_她茸度。一逃处只据到工市期作脩八井丞鲍用场价脩塑标一，一一散牲隧&
+藏关福词"ad debts］回旻崟位：根蠢关键词可定位至五段❷句。比对匹配：该句提到，银行辩称市场
+C 价格在很大程度上反映的是市场暂时的流动性不足，而非坏账可能达到的程度，C选项内容将原文中的 
+“坏账可能达到的程度(the likely extent )"偷换为“坏账存在的可能性(the likely existence )",故排除。 
+找关键词：booking losses和sale of assets。回文定位：根据关键词可定位至五段。句，其中后者与该句|
+D 
+中的sell assets相对应。比对匹配：该句指出，银行因担心账面损失而不愿出售资产，D选项内容将“担
+心账面损失”偷换为“否认账面损失”，故排除。
+40. The author's attitude towards standard-setters 
+is one of 
+.
+作者对准则制定者的态度是______o
+选项出处
+A. satisfaction
+A.满意
+六段❺句
+B. skepticism
+B.怀疑
+原文未提
+C. objectiveness
+C.客观
+原文未提
+D・ sympathy
+D.同情
+一段❷句 
+二段❷句、六段❸句
+O浏览后发现，该题属于观点态度题，仅从题干角度解题最为高效。
+从题干的角度解答——如何得出正解，排除干扰
+找关键词： standard-setterso回文定位：根据关键词可定位至一段❷句、二段❷句和六段❸句。比对匹配：一 
+段❷句提到，背地里，银行家们却一直将矛头对准会计准则制定者。二段❷句提到，具体细节可能无法获知， 
+但准则制定者的独立性正在受到损害，而这种独立性是资本市场正常运作的关键所在。六段。句提到，成功的 
+市场需要独立，甚至斗志旺盛的准则制定者。由一段❷句和二段❷句可知，会计准则制定者受银行家们的影响, 
+其独立性遭到损害。再结合六段❸句，作者认为会计准则制定者应斗志旺盛，坚持维护其独立性，但事实是， 
+.因一些可琴也一其独主性裳箜飒置气虫哩四捱知八作耄班会汁谁则制定我同情敢态度，一 一故D正隆___________
+六成。句I蠢到，但而们(FASB和IASB)如今在批评者面前作出妥协，给自己招致了做出更多妥协的压力，该 
+句表明作者对FASB和IASB没有努力维护独立性而作出妥协这一行为的不满，故排除A；分析可知，全文并未 
+体现作者对准则制定者持怀疑态度，且不满并不等同于怀疑，故可排除B；既然作者对准则制定者表现出同情， 
+说明还是带有一点主观性，并非完全客观，故排除C。
+命题分析
+—* Part B *
+配套外教音频
+该部分选自2003年第一期的McKinsey Quarterly (《麦肯锡季刊》)，原文标题为“A Wholesale Shift in 
+European GrocerieS,^ (《欧洲食品杂货的批发转型》)。本文是一篇经济类题材的文章，全文主要围绕“目前欧
+25©
+
+----- PAGE 26 -----
+洲的食品饮料零售业面临发展停滞问题，转而进军批发业以谋出路”这一主线展开讨论。
+皿|英汉对照
+[1 ](41) B.❶Retail sales of food and drink in Europe's
+largest markets are at a standstill, leaving European grocery
+retailers hungry for opportunities to grow.❷Most leading 
+retailers have already tried e-commerce, with limited success, 
+and expansion abroad.❸But almost all have ignored the big, 
+profitable opportunity in their own backyard: the wholesale food 
+and drink trade, which appears to be just the kind of market 
+retailers need.
+[2] (42) F.❶For example, wholesale food and drink sales 
+came to $268 billion in France, Germany, Italy, Spain and the 
+United Kingdom in 2000—more than 40 percent of retail sales. 
+©Moreover, average overall margins are higher in wholesale 
+than in retail; wholesale demand from the fodd service sector 
+is growing quickly as more Europeans eat out more often; and 
+changes in the competitive dynamics of this fragmented industry 
+are at last making it feasible for wholesalers to consolidate.
+[3] (43) D. OA11 in all, this clearly seems to be a market in 
+which big retailers could profitably apply their gigantic scale, 
+existing infrastructure, and proven skills in the management 
+of product ranges, logistics, and marketing intelligence. 
+©Retailers that master the intricacies of wholesaling in Europe
+may well expect to rake in substantial profits thereby.❸At
+least, that is how it looks as a whole. ©Closer inspection reveals
+important differences among the biggest national markets, 
+especially in their customer segments and wholesale structures, 
+as well as the competitive dynamics of individual food and drink 
+categories. ©Big retailers must understand these differences 
+before they can identify 由e segments of European wholesaling 
+in which their particular abilities might unseat smaller but 
+entrenched competitors.❻New skills and unfamiliar business 
+models are needed too.
+[4] (44) G.❶However, none of these requirements should 
+deter large retailers (and even some large food producers and 
+existing wholesalers) from trying their hand, for those that master 
+the intricacies of wholesaling in Europe stand to reap considerable 
+gains.
+[5] E. ©Despite variations in detail, wholesale markets in the
+countries that have been closely examined—
+—France, Germany,
+Italy and Spain—are made out of the same building blocks. 
+(41 )在欧洲最大的市场中，食品和饮料
+的零售销售已处于停滞状态，这使得欧洲食品
+杂货零售商渴望找到发展的机会。多数主要的 
+零售商已经尝试过电子商务，但成效不大，同 
+时他们也尝试了海外扩张。.但是，几乎所有的 
+食品杂货零售商都忽视了自家后院的一个巨大 
+盈利机会，即食品和饮料的批发生意，而这似 
+乎正是零售商需要的市场。
+(42) 例如，2000年，法国、德国、意大 
+利、西班牙和英国的食品和饮料批发销售额总 
+计达到2680亿美元——是零售额的40%还多“ 
+此外，批发的平均整体利润也高于零售；随着 
+越来越多的欧洲人更经常在外就餐，食品服务 
+业的批发需求正在迅速增长；这一零散型产业 
+中竞争态势的变化最终使批发商的整合成为 
+可能。
+(43) 总之，这看起来显然是一个大型 
+零售商可以利用自己庞大的规模、现有的基 
+础设施以及在产品种类、物流、市场情报方 
+面成熟的管理技能来获利的市场”因此那些
+掌握了欧洲批发业复杂情况的零售商很可能
+会轻易赚得丰厚利润c至少，总体上来看是
+如此。进一步考察表明，大国市场之间存在 
+重大差异，尤其是在客户细分、批发结构和 
+单个食品饮料类别的竞争态势方面。大型零 
+售商必须了解这些差异，才能确定在欧洲批 
+发业的哪些领域中，他们可以利用自己的特 
+殊能力打败那些规模较小但根基稳固的竞争 
+者。同时他们也需要新的技能和不常见的商 
+业模式。
+(44 )然而，这些要求都不能阻止大型零 
+售商(甚至一些大型食品生产商和现有批发 
+商)一试身手，因为那些掌握了欧洲批发业 
+复杂情况的零售商很可能获得可观收益。
+尽管在细节上各有不同，但仔细考察过的
+国家(法国、德国、意大利和西班牙)的批发
+市场基本构成却是相同的。市场需求主要来自
+■ 26
+
+----- PAGE 27 -----
+©Demand comes mainly from two sources: independent mom- 
+and-pop grocery stores which, unlike large retail chains, are too 
+small to buy straight from producers, and food service operators 
+that cater to consumers when they don't eat at-home. ©Such 
+food service operators range from snack machines to large 
+institutional catering ventures, but most of these businesses are 
+known in the trade as "horeca": hotels, restaurants and cafes. 
+❹Overall, Europe's wholesale market for food and drink is 
+growing at the same sluggish pace as the retail market, but the 
+figures, when added together, mask two opposing trends.
+[6] (45) A. OThe first and more important is the consumer's 
+growing preference for eating out: the consumption of food 
+and drink in places other than homes has risen from about 32 
+percent of total consumption in 1995 to 35 percent in 2000 and 
+is expected to approach 38 percent by 2005. ©This development 
+is boosting wholesale demand from the food service segment by 
+4 to 5 percent a year across Europe, compared with growth in retail 
+demand of 1 to 2 percent.❸Meanwhile, as the recession is looming 
+large, people are getting anxious. ©They tend to keep a tighter hold 
+on their purse and consider eating at home a realistic alternative.
+ICT其他选项精译
+C. Will such variations bring about a change in the overall 
+structure of the food and drink market? Definitely not. The 
+functioning of the market is based on flexible trends dominated 
+by potential buyers. In other words, it is up to the buyer, rather 
+than the seller, to decide what to buy. At any rate, this change 
+will ultimately be acclaimed by an ever-growing number of 
+both domestic and international consumers, regardless of how 
+long the current consumer pattern will take hold.
+两方面：一是独立经营的夫妻杂货店，与大型 
+零售连锁店不同，它们规模太小，无法直接从 
+生产商那里进货;一二是食品经营服务商，其满 
+足不在家就餐的消费者的需求。这种食品服 
+务经营商小到零食自动贩卖机，大到大型公 
+共餐饮企业，但其中大多数在行业内部被称为 
+“horeca” :宾馆、饭店和咖啡馆（三个英文单 
+词的前两个字母）。总体而言，欧洲的食品和 
+饮料批发市场的增长速度和零售市场一样缓 
+慢，但把两类数据加在一起时，就掩盖了两种 
+相反的趋势。
+（45）第一个同时也是更重要的趋势是消 
+费者越来越喜欢外出就餐：消费者在外面消 
+费的食品和饮料占消费总量的百分比已经从 
+1995年的约32%上升到2000年的35%,预 
+计到2005年将接近38%O这种发展促使整个 
+欧洲食品服务行业的批发需求以每年4%到5% 
+的速度增长，而零售需求的年增长却只有1% 
+至2%。同时，随着经济衰退日益严重，人们 
+变得焦虑不安。他们往往把钱包捂得更紧，并
+将在家就餐看成是切合实际的选择。
+C.这些变化是否会为食品和饮料市场的整体 
+结构带来改变？绝对不会。市场运作是以 
+潜在购买者主导的灵活趋势为基础的。换 
+句话说，是由买方而不是卖方决定买什么。 
+无论如何，不管目前的消费模式能持续多 
+久，这种变化最终会受到越来越多国内外 
+消费者的欢迎。
+（注：“关键语段特征关系词附表”见前言。）
+1CT篇章结构
+第一、二段：引出话题——欧洲食［第一段：介绍欧洲食品饮料零售业的现状（处于停滞状态）并 
+指出新的发展方向（批发业）
+.第二段：从不同角度说明欧洲食品饮料批发市场的发展前景大好
+欧洲食品 
+饮料向批＜ 
+发转型
+品饮料零售停滞，可＜ 
+转型至批发领域
+第三' 四段：25552!j第三段：分析大型零售商在欧洲食品饮料批发市场获利的三个条件
+1第四段：指出即便批发业要求高，大型零售商也会尽力满足以上条件，
+场盈利的条件 
+以获得可观收益
+竖 一叽八圮士上 垃址」第五段：分析食品饮料批发市场需求的两个主要来源
+第五、k段：分析市场发展趋势［第六段：以两种相反的就餐趋势分析欧洲食品饮料批发与零售的
+需求变化
+27*
+
+----- PAGE 28 -----
+It
+第一步：分析语段特征词，快速解题
+A 第1步：该选项中的语段特征词有first, This, Meanwhile, They和theiro first和Meanwhile相呼应，阐述 
+事物的两个方面，因而该选项前必然会出现概括性信息；This (development)指代其上一句内容；末句中的They 
+和their均指代其上一句中的peopleo综上，该选项中的first和Meanwhile适合快速解题。第2步：浏览其他备选 
+项发现，E选项末句提到了两种相反的趋势(two opposing trends ),这与该选项中论述的两个对立的现象相呼 
+应。此外，E选项中的trends 一词与该选项中谈论两种不同的现象时用到的growing和getting这两个词也相呼应， 
+故A选项应填入45空。 
+【所填位置45空】
+B 该选项中的语段特征词有But和theiro But体现句间转折关系，their指代其所在句中的all ( leading 
+retailers),二者均不涉及段间关系，故不适合快速解题。
+C 第1步：该选项中的语段特征词有such, In other words, it, rather than和thiso such (variations)表明上文必 
+有其具体指代；In other words体现其所在句与上一句为并列关系，二者表意相近；it指代其所在句中的to decide 
+what to buy; rather than体现句内转折关系；this (change)与段首的such (variations)指代相同，但因二者指代对 
+象均位于上文，故位置靠后的this (change)参考价值不大。综上，该选项中的such适合快速解题。第2步：浏 
+览其他备选项发现，只有E选项段首出现了 variations,但其仅在首句提到“尽管(各国批发市场)在细节上有 
+所变化(variations) M ,介词短语Despite...detail作让步状语，表明其重点在于论述各个国家批发市场基本构成 
+是相同的，且后文并不再涉及variations的相关内容，因此，E选项段首的variations不能作为C选项段首such 
+variations的具体指代。而在其他备选项中，并未出现variations,故可判定C选项为干扰项。 
+【所填位置无】
+D 该选项中的语段特征词有 All in all, this, their, that, it, as well as, these, they 和 buto 段首的 All in all 表 
+明该句为总结概括句，但其所在句中的this指代不明确，其具体指代还需结合其他信息进行分析；该选项中的 
+their均体现句内指代关系；that和it均指代其上句内容；as well as体现句内并列关系；these ( differences )指代 
+其上一句提到的important differences; they指代其所在句中的Big retailers; but体现句内转折关系。以上语段特 
+征词均无参考价值，故不适合快速解题。
+E 该选项中的语段特征词有Despite, they, Such, but, these和。verallo段首的Despite体现句内让步 
+关系；they指代其所在句中的consumers; Such ( food service operators )指代其上一句提到的food service 
+operators；两个but均体现句内转折关系；these ( businesses )指代其所在句中的Such food service operators; 
+Overall体现句间总结关系。以上语段特征词均不涉及段间关系，故不适合快速解题。
+F 第1步：该选项中的语段特征词有For example, than, Moreover, this和it。段首的For example表明， 
+该段举例说明上文观点；两个than均体现句内比较关系；Moreover体现其所在句与上一句为递进关系；this
+(fragmented industry )指代其所在句中的food service sector; it是形式宾语。综上，该选项中的For example适 
+合快速解题。第2步：该段首句举例指出，多国的食品和饮料批发销售额(wholesale food and drink sales )是 
+零售额(retail sales )的40%还多，那么上文观点应与此相呼应。浏览其他备选项发现，B选项末句中所提到的 
+巨大盈利机会(the big, profitable opportunity )即指食品和饮料的批发生意(the wholesale food and drink trade )o 显然， 
+F选项是对B选项的举例论证，故F选项应位于B选项之后。
+G 第1步：该选项中的语段特征词有However, these, their, for和thoseo由段首的However可知，该段与其 
+上文存在转折关系；these ( requirements )表明上文应有其具佐指代；their指代其所在句中的1 arge retailers; for 
+体现句内果因关系；those指代其所在句中master the intricacies of wholesaling in Europe所修饰的那些人。综上， 
+该选项中的However和these适合快速解题。第2步：该段指出,然而，这些要求(these requirements )都不能阻 
+止大型零售商(large retailers ) 一试身手。However及these requirements表明，其上文应该提及对于大型零售商 
+来说不容易达到的某些要求。浏览其他备选项发现，只有D选项中出现了与large retailers同义的big retailers, 
+■ 28
+
+----- PAGE 29 -----
+且该选项后两句对大型零售商提出了要求：必须了解各国市场差异，并需要新的技能和不常见的商业模式，故
+G选项应位于D选项之后。
+经过快速解题后，题目顺序可能如下：41.B — 42.Ft43.Dt44.G — E — 45.A或者
+小结
+41. D 一 42. G -► 43. B -> 44. F -► E — 45. A
+ 
+三步；理清空格前后逻辑,回文精解
+41第1步：由第一步快速解题初步判定此空正确答案为B选项或D选项。第2步：B选项主要介绍欧洲食品 
+和饮料零售业陷入困境，并指出食品和饮料的批发生意是零售商的巨大盈利机会。内容上相对独立、完整，适 
+合作为文章首段。D选项段首出现表总结的AU in all,显然不适合作为文章首段，故41空的正确答案应为B选项。 
+结合第一步的分析可知，42空答案为F选项，43空答案为D选项，44空答案为G选项。 
+【答案B】
+答案汇总 41.BT42. F->43. Dt44. G — E — 45. A
+—Part C ■
+imH命题分析
+能套外教音濒
+今年的翻译节选自美国著名生态学家Aldo Leopold （奥尔多•利奥波德）的著作A Sand Country Almanac （《沙 
+乡年鉴》）中的“Ne Land Ethics” （《土地伦理》）一章。本文是一篇关于环保的文章，主要批判了完全基于经 
+济动机的环境保护制度导致大多数没有经济价值的生物失去继续生存下去的权利。今年的翻译专业性比较强，有 
+难度的词汇大多是专业术语，例如：land community□
+inn英汉对照
+[1] OOne basic weakness in a conservation system based 
+wholly on economic motives is that most members of the land 
+community have no economic value. —Yet these creatures are 
+members of the biotic community and, if its stability depends on 
+its integrity, they are entitled to continuance.
+[2] O When one of these noneconomic categories is 
+threatened and, if we happen to love it, we invent excuses to 
+give it economic importance. ©At the beginning of the century 
+songbirds were supposed to be disappearing. ©(46) Scientists 
+jumped to the rescue with some distinctly shaky evidence to the 
+effect that insects would eat us up if birds failed to control them. 
+®The evidence had to be economic in order to be valid.
+[3] ❶It is painful to read these roundabout accounts today. 
+©We have no land ethic yet, (47) but we have at least drawn 
+nearer the point of admitting that birds should continue as a 
+matter of intrinsic right, regardless of the presence or absence of 
+economic advantage to us.
+[4] ❶A parallel situation exists in respect of predatory mammals 
+and fish-eating birds.❷(48) Time was when biologists somewhat 
+overworked the evidence that these creatures preserve the health 
+of game by killing the physically weak, or that they prey only 
+on "worthless" species. ©Here again, the evidence had to be
+完全基于经济动机的环保系统的一个基本 
+缺陷是，啥地群落中的大多数生物都没有经济 
+价值。然而，这些生物都是生物群落的成员； 
+如果说群落的稳定性取决于其完整性，那么群 
+落里的生物就有权继续生存下去。
+当一类没有经济价值的生物受到威胁时， 
+如果我们碰巧喜欢这类生物，就会编造各种借 
+口，让它有经济价值。本世纪初，人们原本认 
+为鸣禽正在消失。（46）科学家急忙赶来挽救 
+这种局面，但提供的证据显然站不住脚，这些 
+证据大意是，如果鸟类不能控制昆虫的数量， 
+昆虫便会吞噬我们。证据必须有经济价值,才 
+会有效。
+现在要理解这些拐弯抹角的解释，确实令 
+人感到不快。虽然我们还没有建立土地伦理观， 
+（47）但我们至少近乎承认，不管鸟类能否带 
+给我们经济价值，它们自有生存下去的权利。
+食肉哺乳动物和食鱼鸟类也存在类似的情 
+况。（48 ）有证据表明：这些动物杀死体弱者 
+来保持猎物种群的健康，或者说它们仅仅捕食 
+“没有价值的”物种。曾经有段时间，生物学 
+家或多或少滥用了这一证据。这再一次说明, 
+证据必须有经济价值，才会有效。直到近几
+29*
+
+----- PAGE 30 -----
+economic in order to be valid.❹It is only in recent years that 
+we hear the more honest argument that predators are members 
+of the community, and that no special interest has the right to 
+exterminate them for the sake of a benefit, real or fancied, to itself.
+[5] ©Some species of trees have been "read out of the party,, 
+by economics-minded foresters because they grow too slowly, 
+or have too low a sale value to pay as timber crops.❷(49) In 
+Europe, where forestry is ecologically more advanced, the 
+noncommercial tree species are recognized as members of the 
+native forest community, to be preserved as such, within reason. 
+©Moreover, some have been found to have a valuable function 
+in building up soil fertility. ©The interdependence of the forest and 
+its constituent tree species, ground flora, and fauna is taken for granted.
+[6] ❶To sum up: a system of conservation based solely on 
+economic self-interest is hopelessly lopsided.❷(50) It tends 
+to ignore, and thus eventually to eliminate, many elements in 
+the land community that lack commercial value, but that are 
+essential to its healthy functioning.❸It assumes, falsely, I think, 
+that the economic parts of the biotic clock will function without 
+the uneconomic parts.
+年，我们才听到更为坦率的论点：食肉动物是 
+生物群落的成员，没有任何特殊的利益团体有 
+权为了自身真实的或假想的利益而将他们赶尽 
+杀绝C
+某些树种已经被看重经济利益的林务员 
+“排除在外”，因为这些树木生长太过缓慢， 
+或者作为木材销售价值太低。（49）在林业生 
+态更为发达的欧洲，没有商业价值的树种被合 
+理地看作是当地森林群落的组成部分，并得到 
+相应的保护。此外,有些树种被发现在增强土 
+壤肥力方面具有重要作用。人们理所当然地认 
+为森林和树种、地面动植物这些构成森林的要 
+素之间是相互依存的。
+总之，仅仅基于自身经济利益的环保系统 
+是完全失衡的。（50）这种环保系统往往忽视 
+陆地群落中诸多缺乏商业价值但对群落健康运 
+行至关重要的物种，因而最终导致这些物种灭 
+绝。在我看来,它错误地认为即便缺失了没有 
+经济价值的物种，生态系统中有经济价值的部 
+分仍然能够正常运行。
+虹国篇章结构
+［第一段：表明观点一一完全基于经济动机的环保系统存在缺陷
+对基于经 
+济动机的 
+环保系统 
+的批判
+•第二段：以鸣禽为例，说明人们利用经济价值方面的证据来保护这
+第二至四段：反面论述——举 
+类生物
+例说明此类环保，第三段：承接二段，说明现如今人们态度的转变——不管能否带来 
+系统的缺陷 
+经济价值，鸟类自有生存下去的权利
+.第四段：食肉哺乳动物和食鱼鸟类存在与鸣禽类似的情况
+第五段：正面论述——在生态更为发达的欧洲，没有商业价值的树种也得到了相应的保护 
+.第六段：总结全文——指出基于经济动机的环保系统是完全失衡的
+ni答案解析
+46.[试题原句】① Scientists jumped to the rescue 0.5分〃② with some distinctly shaky evidence 0.5分〃③ to the effect 
+that insects would eat us up if birds failed to control them.]分
+【结构分析】
+见逐词逐句精讲册P34
+【考点梳理】
+1. to the effect that 固定搭配; 2.条件状语从句。
+【翻译难点】
+词汇或表达
+正译
+误译
+jump to the rescue
+赶来挽救，匆忙挽救
+跳起来拯救
+shaky fjeiki] a.
+站不住脚的；不可靠的
+震动的
+to the effect that
+大意是，大致说的是，意思是
+为了效果
+fail to
+不能；未能
+失败
+【常规翻译】
+拆译：A①Scientists jumped to the rescue:这部分中，jumped to本义是“赶快，快点干”，名词rescue意为“救 
+援”，因此短语jumped to the rescue根据字面意思可译为“赶紧来救援”。但这里需与上句内容衔接，可将其 
+补充为“赶紧来挽救这种局面”。'②with some distinctly shaky evidence：这部分是介词短语作伴随状语，因 
+此with可译为“带着，携带”，但“带着证据（evidence）"这一搭配不符合汉语表达习惯，故这里可译为“拿出”； 
+«30
+
+----- PAGE 31 -----
+distinctly为副词，意为“明显地”，修饰shaky; shaky本义为“摇晃的，不稳固的”，因其修饰evidence 
+（证据），可意译为“站不住脚的”，故这部分可译为“拿出某些明显站不住脚的证据”。A③to the effect
+that insects would eat us up if birds failed to control them:这部分中，to the effect that 为固定搭配，意为“大意是， 
+意思是”。eat up意为“吃光”，这里可译为“把……吃掉” ；fail to do sth.意为“未能做某事”，其中fail不 
+可译为“失败”。另外，that引导的同位语从句中还包含一个if引导的条件状语从句。翻译时需调整语序，将 
+条件状语从句置于主句之前，译为“如果鸟儿不能控制昆虫的话，昆虫就会把我们吃掉”。
+'超昏"由I结而赫「苛面「0）夏鑫不荷字南至千靠芬「核照液语而豪达-习板落箕亶与福音译出前可。
+状语部分，整合时可置于①中jumped to之后译出；③解释说明②中的evidence,将其置于①②之后单独译出 
+即可。 
+_ 
+_________________________________________________
+"系五"科亨蒙而忘蓝李苗藁如明-显岳亲荏威浦'症嘉藁航必这房房®:-又-意谜，-■藁鸟儿不能盘葡昆虫的话， 
+昆虫就会把我们吃掉。
+【升级翻译】
+优化：为使句意更符合汉语表达习惯，可将①译为“科学家急忙赶来挽救这种局面”，考虑到②和③内容联 
+系紧密，故可不必将②置于①中译出，可通过内部语义调整，将其处理为“提供的证据显然站不住脚”。③中， 
+还可在“大意”前增译“这些证据”，以使句意更加完整；短语eat up还有“吞噬”之意，故这里还可译为“（昆 
+虫便会）吞噬我们”，以使译文表达更加简洁、正式；另外，birds译为“鸟儿”偏口语化，故将其译为“鸟类”； 
+control them中的them指前面的insects （昆虫），这里指的是“昆虫的数量”，故control them可译为“控制昆虫 
+的数量” O 
+______________
+'延否-逾而接顽斧译-出前苛「音虑蓟黄■之面律茬二凫液痴■折
+*彖
+「卤屈蠢吝时苛筹点走葛五前细加“但, 
+一但星:-，一一丛皿使削耳食义美噗筌蜜:______ _____________________________ _______ _______ ______ _
+-洛支："可孕蒙曷w'匠菜巍藏盘弟■局福：弛画供■的证据显&站不住而，这些证据大意是，如果
+*类不能控制昆
+虫的数量，昆虫便会吞噬我们。
+47.［试题原句】① but we have at least drawn nearer the point of admitting 0.5分〃② that birds should continue as a 
+matter of intrinsic right, 1 分〃③ regardless of the presence or absence of economic advantage to us. 0.5分
+【结构分析】
+见逐词逐句精讲册P35
+【考点梳理】
+L并列结构；2.宾语从句；3.介词短语作让步状语。
+［翻译难点】
+词汇或表达
+正译
+误译
+at least
+至少
+最少
+draw nearer the point
+更接近这一观点
+拉近这一点
+intrinsic right
+本身的权利，固有权利
+内在的权力
+economic advantage
+经济价值；经济利益
+经济长处
+【常规翻译】
+拆译：A①but we have at least drawn nearer the point of admitting：这部分承接前文内容（我们还没有建立土地伦 
+理观），其中，but表转折，drawn nearer the point可译为“更接近这一观点”；介词短语of admitting作后置定 
+语，修饰the point,因admitting的宾语太长，不宜前置译出，故可单独译为“即承认……”，从而将这部分 
+整体译为“但我们至少已经更接近这一观点，即承认...."A②that birds should continue as a matter of intrinsic
+right:这部分中，continue本义为“继续”，结合其主语birds,此处可理解为“生存下去” ；as a matter of意 
+为“作为”，intrinsic right本义为“固有的权利，本身的权利”。这部分在翻译时可用逗号断开，译为“鸟类 
+应该生存下去，这是其固有的权利”。A ③ regardless of the presence or absence of economic advantage to us：这 
+部分中，介词短语regardless of可译为“不管”或“无论”；the presence or absence的字面意思是“出现或者 
+缺失”，economic advantage本义为“经济利益，经济优势”，to us译为“对我们”。故这部分可整体译为“不 
+管是否对我们有经济利益”，为使表意清晰，“是否”前面还可以加上“它们”，指代birds。
+蠢冬-*'
+［蓊肉芬折j有而「碗希万市admitting南羹语「皎而弦面瓦孕①乏房膏每，混丽admitting前真依 
+内容。③作②的让步状语，将其置于②之后译区即可?_______________________________________________ _______
+谗王"扈莪而呈板己豆豆裹站妄二如27商寂官兼茏茂基希Ti? 
+商看蔼权莉，亲管它们是赤奸莪
+们有经济利益。 
+31 »
+
+----- PAGE 32 -----
+【升级翻译】
+优化：①中，可将but后的译文“我们至少已经更接近这一观点，旬莉；•••••”调整为“我们至少近乎承认”， 
+以使译文更符合汉语表达习惯。②中，为使译文表达更精练，还可将其意译为“鸟类自有生存下去的权利”。
+③中，economic advantage这里可引申为“经济价值”，而翻译economic advantage to us时，鉴于汉语表达的需 
+要，可添加动词，译为“（带给）我们经济价值”，故这部分还可译为“不管鸟类能否带给我们经济价值”, 
+其中，“鸟类”为增译的内容。
+'虱吝"③祎⑦的正盼庆语「袖译H打也可亶芋曲乏箭「梗其重和谷汉语南囊逐亏福「砾■■蒋。吊而二「百奏;_ 
+茸换为':它们”，以免重复。
+-遂支:、匝叛布圣，味宇耘「录誓&凑屣-春浦压莪而云泪福「去而-百清星莉反莉；-
+48.【试题原句】1 Time was 0.5分〃② when biologists somewhat overworked the evidence 0.5分〃③ that these 
+creatures preserve the health of game by killing the physically weak, 0.5分〃④ or that they prey only on "worthless"
+species. 0.5分
+【结构分析】
+见逐词逐句精讲册P36
+【考点梳理】
+1.表语从句；2.同位语从句；3.并列结构。
+［翻译难点】
+词汇或表达
+正译
+误译
+overwork the evidence
+滥用证据；过度使用证据
+证据过多
+preserve [pn'z3：v] vt.
+保持，维持
+保存
+game [geim] n.
+猎物
+游戏
+"worthless" species
+“没有价值的”物种
+“无价的” 物种
+【常规翻译】
+拆译：A①Time was:这部分中，主语为Time,系动词was使用了一般过去式，故可译为“曾经有段时间”。 
+A ② when biologists somewhat overworked the evidence:这部分中，somewhat 意为“或多或少”，谓语动词 
+overworked字面意思是“过度工作”，但考虑到其后的宾语是the evidence （证据），再结合句意和汉语搭配习惯， 
+可将overworked the evidence译为“过多使用了这一证据”，即“滥用了这一证据”。因此，这部分可译为“生 
+物学家或多或少滥用 了这一证据”。A ③ that these creatures preserve the health of game by killing the physically 
+weak：这部分为that引导的同位语从句，解释说明②中的the evidence,考虑到此从句过长，故可在翻译之前 
+添加“即”字。these creatures可直译为“这些生物”;game意为“猎物”，故preserve the health of game译为 
+“保持猎物的健康”，根据上下文可增译为“保持猎物种群的健康”；介词短语by...作方式状语，一般译为 
+“通过..  ；the physically weak为“the +形容词”结构，表示性质或特征相似的一类人（此处是指动物），
+副词physically意为“体质上”,修饰weak,因此the physically weak表示“体质上较弱的动物”，翻译过程 
+中可将其简化为“体弱者”。因此，这部分可译为“即这些生物通过杀死体弱者来保持猎物种群的健康”。
+A④or that they prey only on "worthless" species:这部分中，or为并列连词，译为“或者（说）"；that引导的 
+同位语从句中，they指代上文中提到的these creatures,可译为“它们”；短语prey...on意为“捕食... ”:worthless”
+意为“没有价值的，无价值的”，考生很容易将其错译为“无价的（priceless） ”，两者意思正好相反，翻译 
+时需特别注意。因此，这部分可译为“或者说它们仅仅捕食’没有价值的’物种”。
+'金杏「击1结符芬崭】苛面「⑤富when「弓傅南至敲荷「作①南藕「鑫谷的醇愁核原天顾序海匝-即司7 
+③④为并列的同位语从句，两者按顺序译出即可。此外，③®均用于解释说明②中的the evidence,可将它们 
+堇士②之卮，并用逗号将二者隔开。
+毒五:-曹经-林丽可「王赫孕豢&乡或成瘟甬t盘二锭•慕:为函或星疡逼牡条苑现、蓊薯菜雇将藉氓两寿南屁展; 
+或者说它们仅仅捕食“没有价值的”物种。
+【升级翻译】
+优化：③中，由于these creatures是指前文提到的predatory mammals and fish-eating birds （食肉哺乳动物和食鱼 
+鸟类），故这里的creatures译为“动物”更准确一些；介词b；可省译，即删去“通过” 一词，以使表述更为 
+一简喧、一速物’_________..... ___________ ___________ _____________________________________
+盘合：甬®，而these creatures曲弋上旻雇到曲"杳两哺孚说蔼南食崟育类”，成/了福前后语意衔接更加紧密, 
+让读者更清楚地了解证据的内容，可将同位语从句③④前置译出，并在其前增译“有证据表明”,用冒号连接； 
+然后，再译出①②的内容。
+■ 32
+
+----- PAGE 33 -----
+译文：有证据表明：这些动物杀死体弱者来保持猎物种群的健康，或者说它们仅仅捕食“没有价值的”物种。 
+曾经有段时间，生物学家或多或少滥用了这一证据。
+49. L 试题原句】① In Europe, where forestry is ecologically more advanced, 0.5分〃② the noncommercial tree species are 
+recognized as members of the native forest community, 1 分〃③ to be preserved as such, within reason. 0.5分
+【考点梳理】1.非限定性定语从句；2.介词短语作后置定语；3.动词不定式短语作结果状语。
+【结构分析】见逐词逐句精讲册P37
+【翻译难点】
+词汇或表达
+正译
+误译
+forestry ['fonstri] n.
+林业，森林（业）
+森林工业
+advanced [sd'vainst] a.
+发达的，先进的
+高级的；晚期的
+tree species
+树种
+三个物种
+native forest community
+当地森林群落；本地森林区
+当地森林协会
+as such
+相应的；像这样的；如此
+例如
+within reason
+合理地
+没有理由地
+【常规翻译】
+拆译;A ① In Europe, where forestry is ecologically more advanced:这部分中，where 表地点（欧洲），此处可省 
+译，ecologically表示“在生态方面”,根据汉语表达习惯，可整体译为“欧洲林业在生态方面更为发达”。 
+A ② the noncommercial tree species are recognized as members of the native forest community: 这部分是整个句子的 
+主干部分，are recognized as意为“被看作是；被视为"；noncommercial —词中，non-为英语中较为常用的否 
+定前缀，该词意为“没有商业价值的"；members —般译为“成员”，由于其补充说明句子主语tree species 
+（树种），这里译为“成员”显然不够准确，故将其译为“组成部分” ；native意为“本地的”，community 
+本义为“社区”，但根据语境来看，native forest community应译为“本地森林区”。因此，这部分可整体译 
+为“那些没有商业价值的树种被看作是本地森林区的组成部分”。A③to be preserved as such, within reason： 
+这部分中，to be preserved *被动语态，可直译为“被保护着” ；as such为方式状语，译为“以这种方式”， 
+其中such指代上文中的members of the native forest community;介词短语within reason表不“合理地”，修饰 
+②中的 are recognizedo
+-兹杏"由-i结而芬轿】-宜江-旋木有而系宙藏芬「易京该而曲主干商芬「粮毒疫语市获满箭亶南美味习ifi" 
+将①0）按原文顺序译出。③中，to be preserved as such作结果状语，修饰②中的内容，可将其置于②之后，单 
+独译出，但within reason修饰are recognized,需置于②中的“被”和“看作”之间；同时，②和③在语义上存 
+_白二淀堕毋昊芳丞」因一些鱼整合时可鱼?区顶［增连_ :罔座以便回内逻辑更加明晰’_______________________
+译殳：欧洲林业去生态方面更为发达，那些没有商业价值的树种被合理地看作是本地森林区的组成部分，因 
+此以这种方式被保护着。 
+.
+［升级翻译】
+优化：①的整个译文与后文衔接不够紧密，翻译时可将where弓I导的非限定性定语从句置于Europe之前，羸 
+整为“在林业生态更为发达的欧洲”。②的译文中，“那些”可省略；community在生态学中意为“生物群落”， 
+故native forest community可译为“当地森林群落”，使表述更专业。③中，to be preserved为被动语态，翻译 
+时可将其转换为主动形式，即“得到保护”；as such在翻译时，可结合to be preserved的译文，将其转换为形 
+一容可，一连友一粗应既'一一。一_____________ _____________ _________________________________________________________
+柬合：存如浦?扇旻亲藏虱感希佥在语义上还可暮屈是递进关系，故在整合时可将屋三前话译的“因此” 
+,萱誉为「头_以便旬题加连英?__________________________________________________________________________
+译受：去林业生态更为发达的欧洲，没有鬲业价值的树种被合理地篇作是当地系林-群套的组晟曲分，系得到 
+相应的保护。
+50.（试题原句】① It tends to ignore, 0.5分〃② and thus eventually to eliminate, 0.5分〃③ many elements in the land 
+community that lack commercial value, 0.5分〃④ but that are essential to its healthy functioning. 0.5分
+【结构分析】见逐词逐句精讲册P38
+【考点梳理】1.定语从句；2.并列结构。
+33。
+
+----- PAGE 34 -----
+【翻译难点】
+词汇或表达
+正译
+误译
+tend to
+往往，倾向于
+照料；走向
+land community
+陆地群落
+土地社区
+【常规翻译】
+healthy functioning
+健康运行，健康运作
+健康功能
+拆译：A①It tends to ignore：这部分属于句子主干的一部分,tends to本义为“倾向于……”,这里可意译为“容 
+易“，故这部分可译为“它容易忽视”o A②and thus eventually to eliminate:这部分中，to eliminate和①中的 
+to ignore为and连接的并列成分；thus表示结果，eventually意为“最终"，eliminate是多义词，有“消灭，灭 
+绝；根除；淘汰”之意，这里可译为“消灭”，故整体可译为“并最终消灭”。many elements in the land 
+community that lack commercial value:这部分中，many elements 为①（②中 to ignore 和 to eliminate 的共同宾语， 
+elements意为“元素，要素”，根据上下文需要将其具体化，译为“物种”；land community在生态学中意为“陆 
+地群落”，注意不能直译为"土地社区” ；that引导的定语从句修饰many elements,在翻译时可将其置于被修 
+饰词之前，译为“许多缺乏商业价值的”。综合上述分析,这部分可译为“陆地群落中许多缺乏商业价值的物种”。 
+A④but that are essential to its healthy functioning:这部分是but连接的并列定语从句中的第二个从句，同样 
+修饰many elementso其中，that代替先行词many elements作主语，为避免重复，可将其译为“这些物种”； 
+短语be essential to意为“对... 是至关重要的"；its healthy functioning中的its ―般译为“其”,不能译为“它
+的”等较为口语的表达形式。因此，这部分可整体译为“然而这些物种对其健康运行是至关重要的”。
+'柬吝；甬「【话而芬轿了吊商，-质漉子面孚南圭干新芬「奇疲旗发顽序谣瓦念莉④币嵌f hat二伺为是语众荷: 
+修饰③中的many elements,故可将③中的that...处理为many elements的前置定语，与①②译为一句，再将 
+④单独译出。
+'谗支:-云 &恣反弃熹&青关祐羸群暮市祥多巍乏有匠布亶做版耗:夏浦/茁疡并好冀屣康送石更荃卖毒宴时「
+【升级翻译】
+优化：①中的It译为“它”，指代不明，通过上下文可知，It指代上文中提及的a system of conservation 
+（环保系统），故将其译为“这种环保系统” ；tends to还可译为“往往”，因此本部分的译文可调整为“这 
+种环保系统往往忽视”。②中，eliminate还可译为“灭绝”，故整体可译为“因而最终导致……灭绝”。③中， 
+many elements译为“诸多物种”，比“许多物种”更加书面化一些；④在翻译过程中也可置于elements之前， 
+故③④两部分可合译为“陆地群落中诸多缺乏商业价值但对其健康运行至关重要的物种”。
+'霆合"存细芬侨旬煮禾雄爰虱-①面前卷谙支三联系更加紧密「说明亍迂种际履素统妄早薮匪赢祥落申诸夕 
+缺乏商业价值的物种灭绝的原因；“其”指代对象不够清晰，故明确译为“群落”。②位于两个逗号之间， 
+也可视为插入语，且从内容上讲的是物种灭绝的最终结果，故可将②置于句末，单独译出，并指明eliminate 
+的宾语，即“这些物种”，以使句意更加完整。
+窿3 芨却衣京家疑荏差怂猊商虱舞蒙市铉/羸乏商匠布〔叵好舞蓼础菌送行圣关董妻时断神"囱希矗压尊 
+致这些物种灭绝。 
+Section III j Writing
+♦ Part A ♦
+inn标准范文
+Notice
+通知
+February 10th, 2010
+OForty volunteers are needed for the international conference 
+on globalization which will be held on March 15th, 20IQ. 
+■Over 400 businessmen, professionals and government 
+leaders around the world will be present in the conference. 
+©Thus, volunteers, main duties are to do the related jobs such 
+as reception, interpretation, videotaping, etc.
+2010年2月10日
+将于2010年3月15日召开的全球化国 
+际研讨会需要招募40位志愿者。届时，会有 
+400多位来自全球的企业家、专业人士和政府 
+领导人前来参会。因此，志愿者的主要职责是 
+从事相关的工作，如接待、口译、录像等。
+■ 34
+
+----- PAGE 35 -----
+©Candidates must have a high level of proficiency in English. 
+❷Those who have relevant experience, in either international or 
+domestic conferences, are preferred. ©Moreover, we attach great 
+importance to your personal qualities such as optimism, integrity, 
+sense of responsibility and perseverance. 
+”
+Olf you are interested in joining this event as a volunteer, 
+please send your resume to volunteers@gmail.com.cn by the end 
+of this month.❷We will release our decision by email.
+Postgraduates' Association
+志愿者候选人须精通英语。我们将优先考 
+虑有国内外会议相关经验的人。此外，我们高 
+度重视乐观、正直、责任心和毅力等个人品质。
+如有兴趣成为本次会议的志愿者，请于本 
+月月底之前将您的简历发送至邮箱volunteers@ 
+gmail.com.cno我们将以邮件的形式公布录取 
+结果。
+研究生会
+如I■逐句突破
+-
+段
+。
+句
+段
+❷
+句
+段
+❸
+句
+二
+段
+。
+❷
+句
+二
+段
+❸
+句
+标准句式 Forty volunteers are needed for the international conference on globalization which will be held on March 
+15th, 2010.
+突破句式 Forty volunteers are needed for the international conference on globalization on March 15th, 2010.
+中文译文将于2010年3月15日召开的全球化国际研讨会需要招募40位志愿者。
+句式点评突破句式将标准句式中which引导的定语从句调整为介词短语作后置定语，句式更为简洁凝练。
+r] it Over 400 businessmen, professionals and government leaders around the world will be present in the 
+conference.
+尖破句式 The conference will attract over 400 businessmen, professionals and government leaders around the world. 
+中文译文届时，该会议将吸引400多位来自全球的企业家、专业人士和政府领导人前来参会。
+句式点评突破句式将The conference置于句首作主语，体现了句意重心；attract —*词的使用更显灵活地道， 
+让人眼前一亮。 
+•
+标;隹句式 Thus, volunteers5 main duties are to do the related jobs such as reception, interpretation, videotaping, etc.
+突破句式 Thus, volunteers5 main duties are to perform the related jobs—reception, interpretation, videotaping, etc.
+中文译文因此，志愿者的主要职责是从事相关的工作，如接待、口译、录像等。
+句式点评突破句式将标准句式中表示举例的词组such as调整为破折号，对the related jobs进行举例说明， 
+使句子层次更加清晰；突破句式将标准句式中的do调整为peifoim,用词更为正式、地道。
+标准句式 Candidates must have a high level of proficiency in English. Those who have relevant experience, in either 
+international or domestic conferences, are preferred.
+突破句式 Candidates must have a high level of proficiency in English, and preference will be given to those with 
+relevant experience, in either international or domestic conferences.
+中文译文志愿者候选人须精通英语，我们将优先考虑有国内外会议相关经验的人。
+句式点评突破句式将。❷句合并为一句，并用逗号和and连接，使句间逻辑关系更为紧密；突破句式将 
+❷句中who引导的定语从句调整为介词短语with...,作后置定语，修饰those,表达更为简洁。
+标准句式 Moreover, we attach great importance to your personal qualities such as optimism, integrity, sense of 
+responsibility and perseverance.
+突破句式 What is highly valued, moreover, is your personal qualities such as optimism, integrity, sense of 
+responsibility and perseverance. 
+35@
+
+----- PAGE 36 -----
+中文译文此外，我们高度重视乐观、正直、责任心和毅力等个人品质。
+句式点评突破句式将标准句式调整为"主语从句(What is highly valued ) +系动词(is ) +表语(your 
+personal qualities )的结构，句式更加高级；副词moreover作插入语，将主语从句与系动词分隔开，使句 
+子层次更加分明，句式更显新颖，让人眼前一亮。
+三
+段
+❶
+❷
+句
+标准句式If you are interested in joining this event as a volunteer, please send your resume to volunteers@gmail.com.cn 
+by the end of this month. We will release our decision by email.
+突破句式 If this volunteering work is attractive to you, don't hesitate to send your resume to volunteers@gmail.com.cn 
+by the end of this month, and our decision will be released by email.
+中文译文如有兴趣成为本次会议的志愿者，请于本月月底之前将您的简历发送至邮箱volunteers@gmail. 
+com.cn,我们将以邮件的形式公布录取结果。
+句式点评突破句式将。句中的you are interested in...和please分别调整为...is attractive to you和don't 
+hesitate to,表达更加地道；突破句式将❶❷句合为一句，句意更加连贯，句间逻辑关系更为紧密；突破 
+句式将❷句的主动语态调整为被动语态，表达更显客观。
+旬|突破范文
+Notice
+February 10th, 2010
+Forty volunteers are needed for the international conference on globalization on March 15th, 2010. The 
+conference will attract over 400 businessmen, professionals and government leaders around the world. Thus, 
+volunteers, main duties are to perform the related jobs—reception, interpretation, videotaping, etc.
+Candidates must have a high level of proficiency in English, and preference will be given to those with 
+relevant experience, in either international or domestic conferences. What is highly valued, moreover, is your ； 
+personal qualities such as optimism, integrity, sense of responsibility and perseverance.
+If this volunteering work is attractive to you, don't hesitate to send your resume to volunteers@gmail.com.cn : 
+by the end of this month, and our decision will be released by email.
+!
+Postgraduates5 Association
+Part B ■
+其I标准范文
+OA steaming hotpot is displayed before our eyes. 
+❷The ingredients in this hotpot are not normal materials, but 
+different elements from both Chinese and Western cultures, such 
+as Buddhism, Confucianism, Einstein and Shakespeare, etc. 
+©This hotpot must be delicious and nutritious.
+Oln the picture above, the hotpot stands for cultural integration "
+which plays an important role in social development. ©Time and 
+space boundaries have been broken through because of advanced 
+information technology and modern transportation, which gives 
+摆放在我们眼前的是一个热气腾腾的火 
+锅。这个火锅中的原料不是普通的食材，而是 
+来自中西方文化的不同元素，比如佛教、儒学、 
+爱因斯坦和莎士比亚等。这个火锅肯定既美味 
+又营养。
+上图中的这个火锅象征着文化融合，其对
+社会发展具有重要的作用。 
+术和现代交通工具的出现, 
+破，文化全球化随之而来。
+由于先进的信息技 
+时空壁垒已然被打 
+通过与其他文化相
+■ 36
+
+----- PAGE 37 -----
+rise to cultural globalization. ©Different cultures are supposed to 
+eliminate their own disadvantages and seek survival guarantees 
+at a higher level through fusion with other cultures.❹For instance, 
+traditional Confucianism and the profound traditional Chinese 
+medicine culture have been introduced to the Western countries, 
+becoming the people's spiritual guide and cures for many diseases. 
+©Furthermore, the Western progressive thoughts offer an 
+ideological basis for China's revitalization.❻Under the influence 
+of culture blending, multiple aspects of our culture, such as literary, 
+art, science and social structure, have made great progress.
+OWe should not underestimate the significance of cultural 
+integration. ©However, we must realize that traditional Chinese 
+culture is the basis of our survival. ©When we introduce a 
+foreign one, we should make great efforts to inherit and preserve 
+our own culture and not get lost.
+融合，不同的文化应该消弭各自的弱势，并寻 
+求更高层次的生存保障。比如，传统儒学以及 
+博大精深的传统中医文化传入西方国家后，成 
+为人们的精神指南和治病良方。而西方的进步 
+思想也为中国的复兴提供了思想基础。在文化 
+交融的影响下，我国文化的很多方面，像文学、 
+艺术、科学和社会结构等，都取得了显著发展。
+我们不应低估文化融合的重要性。但是， 
+我们必须认识到，中国传统文化是我们赖以生 
+存的根本。我们在引进外国文化的同时，切不 
+可迷失了自己，而应该尽力继承和保护我们的 
+传统文化。
+逐句突破
+一
+段
+。
+❷
+句
+段
+❸
+句
+标;隹句式 A steaming hotpot is displayed before our eyes. The ingredients in this hotpot are not normal materials, 
+but different elements from both Chinese and Western cultures, such as Buddhism, Confucianism, Einstein and 
+Shakespeare, etc.
+突破句式 Displayed before our eyes is a steaming hotpot in which the ingredients are not normal materials, 
+but different elements from both Chinese and Western cultures, such as Buddhism, Confucianism, Einstein, 
+Shakespeare, etc.
+中文译文摆放在我们眼前的是一个热气腾腾的火锅，这个火锅中的原料不是普通的食材，而是来自中西方 
+文化的不同元素，比如佛教、儒学、爱因斯坦和莎士比亚等。
+突破法则1.为表强调，将谓语部分的过去分词、现在分词或不定式置于句首引起完全倒装；2.两个并列分 
+句或独立句调整为主从复合句。
+法则点评1.突破句式将。句中的displayed before our eyes前置，句子完全倒装，起到突出强调的作用，句 
+式也更显高级；2.突破句式将❷句调整为inwhich引导的定语从句，与。句合为一句，使句子逻辑关系 
+更紧密，同时也凸显了作者不俗的语法功底。
+标准句式 This hotpot must be delicious and nutritious.
+突破句式 Apparently, this hotpot is palatable and nutritious.
+中文译文很显然，这个火锅肯定既美味又营养。
+突破法则1.副词位于句首，表示强调；2.常规词（词组或短语）调整为高频词（词组或短语）或地道词（词 
+组或短语）。
+法则点评1.由于该句位于一段句末，起总结上文的作用，故突破句式在句首添加了 Apparently 一词以25强调,
+同时也可较好地衔接上文；2.突破句式将标准句式中的delicious调整为palatable,用词更为考究、高级。
+37佥
+
+----- PAGE 38 -----
+二
+段
+。
+句
+二
+段
+❷
+句
+二
+段
+❸
+句
+二
+段
+❹
+。
+句
+标准句式 In the picture above, the hotpot stands for cultural integration which plays an important role in social 
+development.
+突破句式 The hotpot, as is shown in the picture above, stands for cultural integration playing an important role in 
+social development.
+中文译文正如上面这幅图所示，这个火锅象征着文化融合，其对社会发展具有重要的作用。
+突破法则1.主谓分隔；2.定语从句调整为形容词短语、介词短语或非谓语动词结构作后置定语。
+法则点评L突破句式将标准句式中的In the picture above调整为as is shown in the picture above,并置于主语 
+The hotpot和谓语stands for之间，形成主谓分隔，句式更加多变；2.突破句式将标准句式中which引导的 
+定语从句调整为现在分词短语 playing an important role in social development 作 cultural integration 的后置定语， 
+句式结构更加简洁。
+标准句式 Time and space boundaries have been broken through because of advanced information technology and 
+modern transportation, which gives rise to cultural globalization.
+突破句式 Thanks to advanced information technology and modem transportation, time and space boundaries have 
+been broken through, giving rise to cultural globalization.
+中文译文由于先进的信息技术和现代交通工具的出现，时空壁垒已然被打破，文化全球化随之而来。
+突破法则1.将常规句式调整为“主句/主语+现在分词短语” ；2.常规词（词组或短语）调整为高频词 
+（词组或短语）或地道词（词组或短语）。
+法则点评L突破句式将标准句式中which引导的非限定性定语从句调整为现在分词短语giving rise to...作结 
+果状语，引出时空壁垒被打破的结果，简化句子层级，同时使句内逻辑关系更加紧密；2.突破句式将标准 
+句式中略显普通的because of调整为Thanks to,用词更加新颖。同时，将原因状语Thanks to...置于句首， 
+表达更加清晰。
+标;隹句式 Different cultures are supposed to eliminate their own disadvantages and seek survival guarantees at a 
+higher level through fusion with other cultures.
+突破句式 Different cultures, through fusion with other cultures, are supposed to eliminate their own disadvantages to 
+seek survival guarantees at a higher level.
+中文译文通过与其他文化相融合，不同的文化应该消弭各自的弱势，以寻求更高层次的生存保障。
+突破法则1.介词短语为插入语；2.主谓分隔。
+法则点评突破句式中介词短语through fusion with other cultures作插入语，将主语Different cultures和谓语 
+are supposed to eliminate分隔开，句式更新颖；2.突破句式将标准句式中的and和其连接的并列成分seek 
+survival guarantees...调整为动词不定式短语to seek survival guarantees...,简化句子结构的同时,更强调了文 
+化融合的目的。
+标;隹句式 For instance, traditional Confucianism and the profound traditional Chinese medicine culture have 
+been introduced to the Western countries, becoming the people's spiritual guide and cures for many diseases. 
+Furthermore, the Western progressive thoughts offer an ideological basis for China's revitalization.
+突破句式 For instance, traditional Confucianism and the profound traditional Chinese medicine culture, after 
+being introduced to the Western countries, have become the people's spiritual guide and cures for many diseases; 
+furthermore, the Western progressive thoughts also lay an ideological foundation for China's revitalization.
+■ 38
+
+----- PAGE 39 -----
+--
+段
+❻
+句
+三
+段
+。
+句
+三
+段
+❷
+句
+中文译文比如，传统儒学以及博大精深的传统中医文化传入西方国家后，成为人们的精神指南和治病良方； 
+而西方的进步思想也为中国的复兴奠定了思想基础。
+突破法则1.介词短语为插入语；2.主谓分隔；3.并列分句或独立句调整为分号连接的句子；4.常规词 
+（词组或短语）调整为高频词（词组或短语9或地道词（词组或短语）。
+法则点评1,突破句式将。句中的have been introduced to...countries调整为介词短语after being introduced 
+to...countries,并将现在分词短语becoming.. .cures for many diseases 调整为系表结构 have become...cures for 
+many diseases;最后将介词短语 after being introduced to...countries 置于主语 traditional Confucianism...culture 
+和系动词have become之间，形成主谓分隔，使句子层次更分明，句式更加高级；2.突破句式将❹❺两个 
+独立句调整为分号连接的并列句，使句间逻辑关系更为紧密；3.突破句式将❺句中的。ffer an ideological 
+basis 调整为 lay an ideological foundation,表达更为地道。
+标/隹句式 Under the influence of culture blending, multiple aspects of our culture, such as literary, art, science and 
+-
+social structure, have made great progress.
+尖破句式 Under the influence of culture blending, multiple aspects of our culture—literary, art, science and social 
+structure—have been improved significantly.
+中文译文在文化交融的影响下,我国文化的很多方面,像文学、艺术、科学和社会结构等,都取得了显著发展。 
+突破法则1. such as或like等表示举例的词或词组调整为破折号；2,常规词（词组或短语）调整为高频词 
+（词组或短语）或地道词（词组或短语）o
+法则点评1.突破句式将标准句式中表示举例的词组SUch as调整为破折号，使句子层次更加分明；2.标准 
+句式采用have made great progress这一常规表达，突破句式则将其调整为have been improved significantly, 
+表达更地道，更书面化，凸显了作者良好的语言功底。 
+：
+标）隹句式 We should not underestimate the significance of cultural integration.
+笼破句式 At no time should we underestimate the significance of cultural integration.
+中文译文我们决不能低估文化融合的重要性。
+突破法则1.常规句式调整为否定词置于句首的倒装句式；2.常规词（词组或短语）调整为高频词（词组或 
+短语）或地道词（词组或短语）。
+法则点评突破句式将标准句式中的常规词not调整为含有否定意义的介词短语At no time,并置于句首，句 
+子部分倒装，不仅加强了句子语气，而且使句式更为出彩。
+标准句式 However, we must realize that traditional Chinese culture is the basis of our survival.
+笑破句式 However, what we must realize is that traditional Chinese culture is the root for us to live by.
+中文译文但是，我们必须认识到，中国传统文化是我们赖以生存的根本。
+突破法则1.主语从句+系动词+表语从句；2.常规词（词组或短语）调整为高频词（词组或短语）或地道 
+词（词组或短语）。
+法则点评L突破句式将标准句式调整为“主语从句（what we must realize ） +系动词（is ） +表语从句（that 
+traditional Chinese culture...to live by ） 的结构，使句式更高级；2.突破句式将标准句式中的the basis of our 
+survival调整为the root for us to live by,使表达更为地道，凸显了作者不俗的语言功底。 
+|
+39 >
+
+----- PAGE 40 -----
+标准句式 When we introduce a foreign one, we should make great efforts to inherit and preserve our own culture and
+not get lost.
+突破句式When a foreign one is introduced, we should make great efforts to inherit and preserve our own culture
+三
+段
+。
+句
+instead of getting lost.
+中文译文我们在引进外国文化的同时，切不可迷失了自己，而应该尽力继承和保护我们的传统文化。
+突破法则1.语态的切换：主动化被动或被动化主动；2,常规词（词组或短语）调整为高频词（词组或短语） 
+或地道词（词组或短语）。
+法则点评1.突破句式将When引导的时间状语从句中的主动语态调整为被动语态，弱化了 introduce的施
+，动者，更符合英文的行文习惯；2.突破句式使用表否定的高频短语instead of替代not,从而将标准句式中
+and 连接的并列结构 should make...and not get lost 调整为 should make...instead of getting lost,表达更高级、地道。
+旬I突破范文
+Displayed before our eyes is a steaming hotpot in which the ingredients are not normal materials, but different 
+elements from both Chinese and Western cultures, such as Buddhism, Confucianism, Einstein, Shakespeare, etc. 
+Apparently, this hotpot is palatable and nutritious.
+The hotpot, as is shown in the picture above, stands for cultural integration playing an important role in social 
+development. Thanks to advanced information technology and modem transportation, time and space boundaries 
+have been broken through, giving rise to cultural globalization. Different cultures, through fusion with other 
+cultures, are supposed to eliminate their own disadvantages to seek survival guarantees at a higher level. For 
+instance, traditional Confucianism and the profound traditional Chinese medicine culture, after being introduced 
+to the Western countries, have become the people's spiritual guide and cures for many diseases; furthermore, the 
+Western progressive thoughts also lay an ideological foundation for China's revitalization. Under the influence 
+of culture blending, multiple aspects of our culture—
+—literary, art, science and social structure—have been 
+improved significantly.
+At no time should we underestimate the significance of cultural integration. However, what we must realize 
+is that traditional Chinese culture is the root for us to live by. When a foreign one is introduced, we should make 
+great efforts to inherit and preserve our own culture instead of getting lost.
+, 40

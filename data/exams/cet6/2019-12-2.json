@@ -1,0 +1,28 @@
+{
+  "id": "cet6-2019-12-2",
+  "type": "cet6",
+  "year": 2019,
+  "month": 12,
+  "set": 2,
+  "title": "2019年12月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "Answer the questions 9 to 11 based on the following passage. 9. A.It is profitable and environmentally friendly. B.It is well located and completely automated. C.It is small and unconventional. D.It is fertile and productive.",
+      "prompt": ""
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "牡丹花色艳丽，形象高雅，象征着和平与繁荣，因而在中国被称为“花中之王”。中国许多地方都培育和种植牡丹。千百年来，创造了许多诗歌和绘画赞美牡丹。唐代时期，牡丹在皇家园林普遍种植并被誉为国花，因而特别风行。十世纪时，洛阳古城成为牡丹栽培中心，而且这一地位一直保持到今天。现在，成千上万的国内游客蜂拥到洛阳参加一年一度的牡丹节，欣赏洛阳牡丹独特之美，同时探索九朝古都的历史。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

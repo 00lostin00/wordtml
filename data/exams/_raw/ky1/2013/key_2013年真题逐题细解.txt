@@ -1,0 +1,2691 @@
+
+----- PAGE 1 -----
+2013年考研英语（一）真题逐题细解
+Section I ] Use of English
+曲套外牧膏濒
+今年的英语知识运用部分选自2012年6月16日的％e Economy （《经济学人》）,原文标题为"A Question 
+of Judgment: Interviewers Favour Those Seen First"（《判断问题：面试官青睐先来的面试者》），主要讨论了 “不 
+考虑总体情况会使人们做决定时产生偏见”这一话题。文章首先引出话题，即不考虑大局会导致决策者因日常 
+接触的信息而产生偏见，随后介绍了西蒙逊博士为验证此观点所进行的研究，包括其研究对象、具体研究内容 
+和研究结果。
+英汉对照
+[1 ] OPeople are, on the whole, poor at considering 
+background information when making individual decisions. 
+❷At first glance this might seem like a strength that (1) grants 
+the ability to make judgments which are unbiased by (2) external 
+factors. ©But Dr Uri Simonsohn speculated that an inability to 
+consider the big (3) picture was leading decision-makers to be 
+biased by the daily samples of information they were working 
+with.❹(4) For example, he theorised that a judge (5) fearful 
+of appearing too soft (6) on crime might be more likely to send 
+someone to prison (7) if he had already sentenced five or six 
+other defendants only to forced community service on that day.
+[2] OTo (8) test this idea, he turned to the university­
+admissions process.❷In theory, the (9) success of an applicant 
+should not depend on the few others (10) chosen randomly for 
+interview during the same day, but Dr Simonsohn suspected the 
+truth was (11) otherwise.
+[3] OHe studied the results of 9,323 MBA interviews 
+(12) conducted by 31 admissions officers.❷The interviewers 
+had (13) rated applicants on a scale of one to five.❸This scale 
+(14) took numerous factors into consideration.❹The scores 
+were (15) then used in conjunction with an applicant's score 
+on the Graduate Management Admission Test, or GMAT, a 
+standardised exam which is (16) marked out of 800 points, to 
+make a decision on whether to accept him or her.
+[4] ODr Simonsohn found if the score of the previous 
+candidate in a daily series of interviewees was 0.75 points or 
+more higher than that of the one (17) before that, then the score 
+for the next applicant would (18) drop by an average of 0.075 
+points. ©This might sound small, but to (19) undo the effects of 
+such a decrease a candidate would need 30 more GM AT points 
+than would otherwise have been (20) necessary.
+总体而言，人们在自己做决定时，并不擅 
+长考虑背景信息。乍看之下，这似乎是一种优 
+势，它（1）赋予人们在不受（2）外界因素影 
+响的情况下做出判断的能力。但尤里•西蒙逊 
+博士推测，不能考虑总体（3）局势会导致决 
+策者因受日常接触的信息样本的影响而产生 
+偏见。（4）例如,他提出这样的理论：一名 
+（5 ）担心（6）对罪行表现得过于心慈手软的 
+法官，（7）如果在当天已经宣判五、六名被 
+告只进行强制性社区服务，那他就更有可能将 
+其他某个被告送进监狱。
+为了 （8）检验这一想法，他开始研究大 
+学录取过程。理论上，某个申请者的（9）成 
+功不,应取决于同一天被随机（10）抽选参加面 
+试的其他几名申请者，但西蒙逊博士怀疑事实 
+（11）井非如此。
+他研究了由31位招生人员（12）进行的 
+9323场MBA入学面试的结果。面试官按照 
+1到5的等级为申请者（13 ）评级。这一评分 
+等级（14）考虑了很多因素。该分数（15）随 
+卮和申请者的管理学研究生入学考试（简称 
+GMAT, 一种以800分为满分进行（16 ）打分 
+的标准化考试）分数共同决定申请者是否会被 
+录取。
+西蒙逊博士发现，在当日一系列的申请者 
+中，如果前一位的分数比他/她（17）前一位 
+高出0.75分或更多，那么下一位的分数会平 
+均（18）丕隆0.075分。这也许听起来微乎其 
+微，但是要（19 ）消除这一下降所带来的影响， 
+申请者的GMAT分数就要比原本（20）所需的 
+多出30分。
+1 0
+
+----- PAGE 2 -----
+旬峪案解析
+董二步：逐段分析,逐题击破
+I
+:引出话题:
+:不考虑大 
+，局会导致 
+:决策者因 
+，日常接触 
+:的信息而 
+，产生偏见
+©People are, on the whole, poor at considering background information when making 
+11
+individual decisions. ©At first glance this might seem like a strength that 1 the ability to 
+make judgments which are unbiased by 2 factors.❸But Dr Uri Simonsohn speculated that an 
+inability to consider the big 3 was leading decision-makers to be biased by the daily samples 
+of information they were working with.❹ 4, he theorised that a judge 5 of appearing 
+------- 11--- 、------------------------------------------------------------------------------- -n
+too soft 迫__ crime might be more likely to send someone to prison 7 he had already 
+sentenced five or six other defendants only to forced community service on that day.
+A. grants准予，同意，允许 
+B. submits顺从；提交
+C. transmits传送；发射；传播 
+D. delivers递送；发表；兑现；移交
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。分析句子结构可知，空格前的 
+that引导定语从句，修饰a strength,其中that代替a strength作从句的主语，the ability to make judgments作宾语， 
+故空格处需填入一个能与the ability连用的谓语。空格所在句意为“乍看之下，这似乎是一种优势，它 人
+们做出判断的能力……”。备选项中，A选项grants可与the ability构成合理搭配，代入文中表示“赋予人们…… 
+的能力”，符合语义要求，故正确。
+【干扰排除】B选项submits作"顺从”讲时，常用短语为submit (oneself) to sb./sth.;作“提交”讲时，指提交文 
+件或建议给上级以供研究考虑，常见搭配是submit sth. to sb./sth.,但该选项无法与the ability构成合乎语义的搭 
+配，故排除。C选项transmits作“传送；发射”讲时，指播送电视广播或发射电子信号；作“传播”讲时，常 
+见用法为transmit sth. to sb., to后续接传播的对象，而空格后没有提到the ability被传播的对象，故排除。D选项 
+delivers作“递送”讲时，表示将货物、信件等带给某人或带到某地；作“发表”讲时，指发表演讲、讲话等； 
+作“兑现”讲时，表示兑现承诺或不负众望；作“移交”讲时，表示将某人或某物交给别人控制，以上意思均 
+不能与the ability搭配，故排除。
+【考点剖析】句内语义及动词辨析。动词grant一般指“法律上或正式地准予、同意、允许某事”，常见搭配有 
+grant sb. sth.或 grant sth. to sb./sth.,也可表ZK (勉强)承认，同意”,例如：I grant you (that) it looks good, but 
+it's not exactly practical.我承认你说的,它好看，可并不实用。
+A. minor次要的；较小的 
+B. objective客观的；基于事实的
+C. crucial关键性的 
+D. external外部的；对外的
+【答案解析】看本句：分析可知，空格所在句中的make judgments与❶句中的making individual decisions相对应， 
+解答该题需结合。句内容，故进入第2步。看上下句：分析可知，设空处关键信息点为箭头指向的空格前后部分。 
+。句指出，“人们在自己做决定时，并不擅长考虑背景信息”；紧接着❷句提到，“乍看之下，这似乎是一种优势， 
+它赋予人们在不受 因素影响的情况下做出判断的能力。”分析句法结构可知，空格所在句中which引导的
+定语从句修饰judgments,由此可推断，"factors"应与❶句中的“background information (背景信息)” 
+相对应，而“背景信息”属于外部因素，D选项external代入文中，符合文意，故正确。
+［干扰排除】A选项minor在文中并无依据，❶句提到的“背景信息”并不一定是影响决定的次要因素，故排除； 
+B选项objective代入文中意为“赋予人们在不受客观因素影响尹I情况下做出判断的能力”，但“客观因素”无 
+法与上文的“背景信息”对应，且原文中用了 unbiased来描述judgments,说明做出的判断应该是公正的，公正 
+的判断需要考虑客观因素，而非“不受客观因素影响”，故排除；C选项crucial代入文中意为“赋予人们在不 
+受关键因素影响的情况下做出判断的能力”，文中并未提及背景信息是否关键的相关信息，故排除。
+【考点剖析】上下文语义及形容词辨析。
+« 2
+
+----- PAGE 3 -----
+A. issue重要议题；问题 
+B. vision视野；想象
+C. picture局面；形势；情况 
+D. moment瞬间；片刻
+【答案解析】看本句：由空格所在句句首的转折连词But及空格前的“an inability to consider...（不能考虑....）”
+可知，该句与上文联系紧密，故直接进入第2步。看上下句：分析可知，设空处关键信息点为箭头指向的空格 
+前后部分。。❷句指出，“乍看之下，不擅长考虑背景信息似乎是一种优势，它赋予人们在不受外界因素影响的 
+情况下做出判断的能力”。❸句以But引出句意的转折，即“尤里•西蒙逊博士推测，不能考虑总体 会
+导致决策者因受日常接触的信息样本的影响而产生偏见”。由此可推断，空格所填内容应与上文的“背景信息” 
+表意相近。C选项picture代入文中，与其前的the big构成固定搭配the big picture,表不“大局，整体情况”，与
+“背景信息”意思相近，故正确。
+【干扰排除】A选项issue指的是重要的议题或有关某事的问题，代入文中意为“重大议题/问题”，而“背景信 
+息”指的是对人物、事件起作用的历史情况或现实环境，两者意思不同，故排除；B选项vision指的是人眼所能 
+看到的区域或想象中的画面，代入文中意为“大的视野/大的想象”，显然与“背景信息”不符，故排除；D选 
+项moment代入文中意为“重大时刻”,也与“背景信息”不符，故排除。
+【考点剖析】上下文语义及名词辨析。picture作名词除了有常见的“图画；图像；照片”等意思外，还可表示 
+“描述；印象；电影”等意思；picture的单数形式前加定冠词the时，整体表示“状况；情形；形势”，例如：
+Just a few years ago the picture was very different,几年前的情况就大不相同。
+A. For example 例如 
+B. On average 平均来说
+C. In principle大体上；原则上 
+D. Above all重要的是；尤其是
+【答案解析】看本句：设空处位于❹句句首，后接逗号与其后内容相隔，且其后句子成分完整，由此可判断，此 
+处需填入能体现上下文关系的词，故直接进入第2步。看上下句：分析可知，设空处关键信息点为箭头指向的 
+空格前后部分。❸句提到，不能考虑总体局势会导致决策者产生偏见。空格所在的❹句指出，法官在连续轻判 
+一些被告后，可能会对后面的某个被告进行重判，可见，该句中的“法官”与❸句中的“决策者”相对应，显 
+然❹句是对❸句的举例说明，A选项For example代入文中特合逻辑要求，故正确。
+【干扰排除】B选项0n average表示平均的数值或水平，后面引出普遍的、大致的情况。C选项In principle作"大 
+体上；基本上”讲时，意在表达对某种一般性的观点、计划的基本态度；作“原则上；理论上”讲时，意在表 
+达某事理论上可行，实际上未必发生。D选项Above all -般用于引出最重要或最特别的一点。这三个选项代入 
+文中均不符合原文逻辑关系，故都排除。
+【考点剖析】上下文逻辑关系及介词短语辨析。此题考查表示逻辑关系的介词短语，除选项中提到的四个短语外, 
+常见的还有 for instance （例如）、on the contrary （相反）、on the whole （总的来说）、in addition （另外）、in 
+conclusion （总之）、in the meanwhile （在此期间）等。
+A. fond喜爱的；喜欢的• 
+B. fearful担心的；害怕的
+C. capable有能力的 
+D. thoughtless欠考虑的
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。根据句法结构可知，设空处与 
+其后的of appearing...crime共同作a judge的后置定语。空格所在句后半部分提到，法官在当天已经连续宣判五、 
+六名被告只进行强制性社区服务后，更有可能将之后的某个被告送进监狱。分析该句前后逻辑可知，法官可能 
+因顾虑对前几个被告的审判不够严厉，所以对之后的被告采取更严格的审判。B选项fearful代入文中，与of搭 
+配表示“担心；担忧”，符合句法和语义，故正确。
+【干扰排除】A选项fond与of的常用搭配为be fond of （doing） sth.,表25 “喜爱（做）某事”，代入文中意为“― 
+名喜欢对罪行表现得太过心慈手软的法官”，不符合原文逻辑，故排除；C选项capable与of的常用搭配为be 
+capable of （doing） sth.,表25 "有能力做某事”，代入文中意为“一名有能力对罪行表现得太过心慈手软的法 
+官”，与下文语义及逻辑不符，故排除；D选项thoughtless与of搭配表示"（某人）考虑不周全的”，代入文 
+3 e
+
+----- PAGE 4 -----
+中表示“一名对罪行表现得太过心慈手软考虑不周的法官”，但心慈手软是人的一种性格特征，并非主观上未 
+考虑到的事情，故排除。
+【考点剖析】句内语义及形容词辨析。该题考查形容词和介词of的搭配，类似的短语还有be afraid of （害怕）、 
+be sure of （确信）、be tired of （厌烦）、be aware of （觉察到）、be ashamed of （羞愧）、be full of （充满）、be 
+proud of （自豪）、be short of （缺乏）等。
+A. in在.... 内
+C. to向,对着
+6
+B.
+on
+对于；关于；在.... 上
+D. for为了；以帮助
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。设空处位于too soft和crime之 
+间,且四个备选项都为介词,可见设空处所填介词应表明too soft （过于心慈手软）和crime （罪行）之间的关系。 
+B选项on与soft搭配的常用短语为be/appear soft on sb./sth.,表示“对某人/某事心慈手软的”，代入文中符合文意， 
+故正确。
+【干扰排除】A选项in意为"在……内”时，可表示时间、位置等，代入文中无法体现"对……，匚、慈手软”这一 
+态度，故排除；C选项to意为“向，对着”时，后面常接方向或地点，无法与空格后的crime搭配，故排除；D 
+选项for意为"对；为了；以帮助”时，后跟得到或使用某物的对象，代入文中无法表示“对……心慈手软”， 
+故排除。
+【考点剖析】句内语义及介词辨析。
+B. until直到.... 为止
+D. unless除非;如果不
+7
+A. if如果
+C. though虽然；尽管；然而
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格前提到，法官更有可能将 
+其他某个被告送进监狱；空格后指出，他在当天已经宣判五、六名被告只进行强制性社区服务。再结合空格前 
+后的谓语might be more likely to send和had...sentenced可知，该句表达虚拟条件下产生的结果。A选项if表条件时， 
+可引导虚拟条件句，代入文中，符合逻辑，故正确。
+【干扰排除】B选项until引导时间状语从句，C选项though意为“虽然；尽管”时，引导让步状语从句；意为“然 
+而；可是”时，表转折，均不符合条件关系，故都排除。D选项unless主要用于引出主句所描述事情不发生的 
+唯一条件，相当于文中从句表示的是法官已经宣判五、六名被告只进行强制性社区服务，主句表示的是 
+他更有可能将其他某个被告送进监狱，分析可知，文中从句叙述的是主句情形会发生的条件，unless代入文中， 
+与原文逻辑相反，故排除。
+【考点剖析】句内逻辑关系及虚拟语气。虚拟语气表示说话人的主观愿望、猜疑、建议或与事实不符的假设等， 
+不表示客观存在的事实。在if引导的虚拟条件句中，当假设的情况与过去事实相反时，if引导的条件从句中谓语 
+用过去完成时had done,主句谓语一般用would/could/might/should have done,但本题空格所在句属于虚拟语气中 
+的错综时间条件句（混合条件句），即从句的时间和主句的时间不一致，从句if he had already sentenced...on that 
+day是对过去事情的假设，故用过去完成时had done,主句是对现在可能发生的情形的假设，故用might +动词原形。
+II
+西蒙逊博 
+士通过研 
+究大学录 
+取过程来 
+检验想法
+❶To 8 this idea, he turned to the university-admissions process. ©In theory, the 9 of an 
+applicant should not depend on the few others 10 randomly for interview during the same
+day, but Dr Simonsohn suspected the truth was 11 . 
+t_____________________________  I
+A. promote推动;促进 
+B. emphasize强调；突出
+C. share 分享 
+D. test 检验
+【答案解析】看本句：空格所在部分位于二段。句的句首，空格所在句意为“为了 这一想法，他开始研究
+大学录取过程”。因为无法得知“this idea （这一想法）”的具体指代以及这一想法与大学录取过程的关系，故 
+需结合上段内容解题，直接进入第4步。看上下句、看本段：略。看上下段：一段中西蒙逊博士推测，不能考 
+虑总体局势会导致决策者因受日常接触的信息样本的影响而产生偏见，并接着以“法官审判”为例对这一想法 
+e 4
+
+----- PAGE 5 -----
+进行例证，因此，空格后的this idea指的正是西蒙逊博士的这一想法。由此可推知，西蒙逊博士研究大学录取过 
+程是为了 “验证”他的想法，D选项test代入文中符合上下文语义，故正确。
+【干扰排除】A选项promote和C选项share代入文中分别意为“为了推广/分享这个想法，他开始研究大学录取 
+过程”，由常识可知，一个想法在得到推广或者分享之前需要保证其正确性、科学性，前文中并未提及西蒙逊 
+博士的想法已被证明是正确的、科学的，故均排除；B选项emphasize代入文中意为“为了强调这个想法，他开 
+始研究大学录取过程”，结合常识可知，做实验主要是为了验证推测或想法，而不是强调某一推测或想法，故 
+排除。
+【考点剖析】上下文语义及动词辨析。test作动词时，常与介词for、out和on搭配；作名词时，常用搭配有put 
+sb./sth. to the test,意为“使某人/某物受考验 / 检验”，例如：His theories have never really been put to the test.他 
+的理论从未真正经受过检验。
+A. decision 决定 
+B. quality 素质，品德
+C. status地位；身份 
+D. success成功
+【答案解析】看本句：因空格所在句挖空较多，信息不全，而。句语义完整，可尝试从❶句入手解题，故进入第 
+2步。看上下句：分析可知，设空处关键信息点为箭头指向的空格前后部分。❶句提到，西蒙逊博士为了检验自 
+己的想法而去研究大学录取过程；空格所在部分承接❶句提到，理论上，某个申请者的_____ 不应取决于同一
+天参加面试的其他几名申请者。可见，空格所在部分描述的应是大学录取的结果，故空格所填词应与“录取结果” 
+相关。D选项success代入文中，表示申请者（面试）成功，即被录取，符合文意，故正确。
+【干扰排除】A选项decision代入文中意为“申请者的决定不应取决于参加面试的其他几名申请者”，因面试结 
+果由面试官决定，而非申请者，此处将决策的主体换为了 “申请者”，故排除；B选项quality和C选项status 
+代入文中意思分别为“申请者的素质/地位不应取决于参加面试的其他几名申请者”，因此处说的是申请者的面 
+试结果，并未涉及申请者的素质或地位，故都排除。
+【考点剖析】上下文语义及名词辨析。
+A. chosen选择；决定 
+B. studied研究；学习
+C. found找到；发现 
+D. identified识别；认出
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。从语法结构来看，设空处与 
+其后的randomly...the same day整体作定语，修饰the few others （其他几名申请者），这部分意为“同一天被随 
+机 参加面试的其他几名申请者”。A选项chosen可与randomly （随机地）搭配，表示“被随机抽选”，
+代入文中意为"同一天被随机抽选参加面试的其他几名申请者”，符合语境，故正确。
+【干扰排除】B选项studied. C选项found和D选项identified代入文中意思分别为“同一天被随机研究/找到/ 
+识别去面试的其他几名申请者”，根据常识可知，面试一般是面试者申请，然后面试方挑选人员面试，B、C、 
+D三个选项都不符合“面试”这一语境，故都排除。
+【考点剖析】句内语义及动词辨析°单个过去分词作定语时前置，例如：polluted air and water （受污染的空气和 
+水）。过去分伺短语作定语时后置，被修饰的名词是其逻辑主语，例如：The temple surrounded by a wall belongs 
+to the local government.这座被墙包围的寺庙属于当地政府。
+10.
+11
+A. exceptional杰出的；特别的 
+B. defensible合乎情理的
+C. replaceable可替代的 
+D. otherwise不是那样的；另外情况下的
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前部分。由空格前的but和suspected可知， 
+此部分内容与上文形成转折关系。空格所在部分意为“但西蒙逊博士怀疑事实”，可见，西蒙逊博士所 
+持观点与上文不同。备选项中，D选项otherwise符合句意，故正确。
+【干扰排除】A选项exceptionalx B选项defensible和C选项replaceable代入文中意思分别为“但西蒙逊博士怀疑 
+事实是杰出的/合乎情理的/可替代的”，均不能体现but和suspected所体现的转折的逻辑关系，故都排除。 
+【考点剖析】句内逻辑关系、句内语义及形容词辨析。本题考查otherwise作形容词时的意思，考生还应知道， 
+5 W
+
+----- PAGE 6 -----
+otherwise -般作副词，用来表示“不同/相反情况下的结果（否则；不然）、其他方面的情况（除此以外）、用 
+另外的方式（用别的办法）”等。
+IH OHe studied the results of 9,323 MBA interviews 12 by 31 admissions officers.❷The 
+西蒙逊博 interviewers had 13 applicants on a scale of one to five.❸This scale 14 numerous factors 
+士对 MBA . 
+. 
+.. -------- 三----------------------
+；------- ；——；------ ;----------=— ,
+录取过程 into consideration. ©The scores were 15 used in conjunction with an applicant's score on the 
+黑矗以头 Graduate Management Admission Test, or GMAT, a standardised exam which is 16 out of 800 
+points, to make a decision on whether to accept him or her.
+12
+A. inspired 激励；启发 
+B. expressed 表达
+C. conducted进行；组织；执行 
+D. secured获得；保护
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。根据句法结构可知，设空处与 
+其后的 by 31 admissions officers 共同作定语，修饰空格前的 9,323 MBA interviews, by 之后的 31 admissions officers 
+与空格所填内容应构成主谓关系，表明招生人员与面试之间的关系，即“31位招生人员 9323场MBA入
+学面试”，C选项conducted代入文中，符合语义，故正确。
+【干扰排除】A选项inspired、B选项expressed和D选项secured代入文中意思分别为"31位招生人员激励/表 
+达/获得9323场MBA入学面试”，均不能合理地体现招生人员与面试之间的关系，故都排除。
+【考点剖析】句内语义及动词辨析。conduct作动词，常表示“进行；组织；实施”，例如：conduct an experiment/ 
+an inquiry/a survey （进行实验/询问/调查），另外也表7K "带领；弓I导；为（某人）导游”，例如：The guide 
+conducted us around the ruins of the ancient city.导游引导我们游览F古城遗迹。还表示"举止；表现’，例如：He 
+conducted himself far better than expected.他表现得比预料的要好得多。
+A. assigned分配；指派 
+B. rated评级；划分等级
+C. matched匹配；相似 
+D. arranged安排；筹备
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。由空格前的The interviewers和 
+空格后的applicants可知，设空处应填入一个动词，以体现二者的关系。由该句中的on a scale of one to five （按 
+照1到5的等级）可知，空格所填词应含有“评级、划分等级”之意，B选项rated代入文中符合语义，故正确。 
+【干扰排除】A选项assigned作“分配”讲时，常用于表示“分配/指派工作、任务”等，而文中面试官并不 
+是给申请者分配任务，而是评估其能力，故排除；C选项matched常见用法为match A to/with B （把A和B匹 
+配），但applicants与其后的a scale of one to five不匹配，且文中所给的介词on与to/with不符，故排除；D选项 
+arranged常见用法为arrange for sb./sth. to do sth.（安排某人/某物做某事），其后不能直接加sb.作宾语，将D选 
+项代入文中为“arranged applicants...”，搭配不当，故排除。
+【考点剖析】句内语义及动词辨析。rate作动词时除了本题中考查的“评级；划分等级”夕卜，还可表示“评估； 
+评价”，常见搭配有rate sb./sth. as sth.,例如：They rated him highly as a colleague.作为同事,他们对他评价甚高。 
+另外还表示"值得，配得上”，例如：The incident didn't even rate a mention in the press.这件事在报纸上连提都不 
+值得一提。
+14
+A. put放；安置 
+B. got得到；收到；获得
+C. gave给；赠送；提供 
+D. took接受；接纳；拿走
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指囤的空格前后部分。分析句法结构可知，空格处应 
+填入动词作谓语，且所填词应与into consideration构成固定搭配，表示“把……考虑在内”。备选项中，D选项 
+took能与into consideration构成固定搭配，代入文中，符合句意，故正确。
+【干扰排除】A选项put、B选项got和C选项gave均不能与into consideration构成固定搭配，故都排除。
+【考点剖析】句内语义及固定搭配。take into consideration表示"考虑，顾及”，当宾语较短时可以放在take后面， 
+, 6
+
+----- PAGE 7 -----
+当宾语较长时放在 consideration 后面，其近义表达是 take into account,例如：Safe driving is good driving because it 
+takes into consideration/account the lives of other people.安全驾驶是良好驾驶，因为它顾及到了他人的生命。
+A. instead代替；反而 
+B. then然后；那时；那么
+C. ever曾经；从来 
+D. rather相当；有点儿；相反
+【答案解析】看本句：分析可知，空格所在部分的句子成分及语义均完整，由此可知，空格处应该填入副词，但 
+仅凭空格所在部分无法判定填入哪个副词。因空格所在句句首的The scores （分数）指代本段❷句“按照1到5 
+的等级”得出的分数，这两句话语义衔接紧密，故可联系上文进行解题，直接进入第2步。看上下句：❷句提到， 
+面试官按照1到5的等级为申请者评级；空格所在部分提到，该分数—和申请者的GMAT的分数共同决定 
+申请者是否会被录取。由此可见，空格所在的❹句与上文在时间上存在先后顺序，B选项then表顺承，代入文 
+中符合逻辑，故正确。
+【干扰排除】A选项instead常用于表示选择其中的一方，但文中并未体现取舍关系，故排除。C选项ever表示 
+“曾经，比以往任何时候”时，常用于比较结构中以加强语气；表示“从来，在任何时候”时，可用于否定句、 
+疑问句或带if的句子中，而空格所在句不符合这些情况，故排除。D选项rather表示轻微的批评、失望或惊讶时, 
+意思是“相当，在某种程度上”；与动词连用以减弱语气时，意思是“有点儿，稍微”；用来提出相反或不同 
+的观点时，意思是“相反，反而”。但空格所在句既没有表示主观想法或语气的内容，也没有相反的两个观点， 
+故排除。
+【考点剖析】上下文逻辑关系及副词辨析。
+16
+rv
+［西蒙逊博士 
+；关于MBA 
+:面试研究的 
+；结果
+A. selected挑选；选择 
+B. passed通过；传递
+C. marked打分；做标记 
+D. introduced介绍；引入
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格所在部分为which引导的 
+定语从句，修饰,'a standardised exam （ 一种标准化的考试）”，结合空格后的“out of 800 points （从800分中）” 
+可知，此处应该描述的是GMAT的分数情况。备选项中，C选项marked代入文中，意为“以800分为满分进行 
+打分”,符合语义，故正确。
+【干扰排除】A选项selected可与空格后的out of构成短语select sth. out of sth.,代入文中表Z5 "从800分中挑选 
+出标准化考试”,逻辑错误，故排除。B选项passed意为"通过”时，可与exam连用，表示“通过某项考试”， 
+但其无法与空格后的out of 800 points连用；意为“传递”时，代入文中表示“从800分中传递标准化考试”， 
+语义不通顺，故排除。D选项introduced代入文中，意为"一种从800分中介绍/引入的标准化考试”，不符合 
+语义和逻辑，故排除。
+【考点剖析】句内语义及动词辨析。mark作动词时，常见搭配有mark A with B （用B给A做标记）、mark A on B 
+（在B上标记A ）、mark sb./sth. as...（将某人/某物定性为...）、mark sb. down （给某人打低分）、mark sth.
+up/down （提价/减价）等。
+ODr Simonsohn found if the score of the previous candidate in a daily series of interviewees was 0.75 
+points or more higher than that of the one 17 that, then the score for the next applicant would 
+18 by an average of 0.075 points. ,This might sound small, but to 19 ^he effects of such a 
+decrease a candidate would need 30 more GMAT points than would otherwise have been 20 .:
+A. before在.... 之前 
+B. after在.... 之后
+C. above在.... 上面；超过 
+D. below在.... 下面；少于
+【答案解析】看本句：由空格所在句中的“the previous candidate （前一位申请者）"和“the next applicant （下一
+*  
+位申请者）”可知，空格所在句描述先后顺序不同的申请者的情况。因此，空格所填内容应能体现先后次序。
+备选项中，A选项before和B选项after都是表示时间先后的词，无法判断正确选项，需联系上文，故直接进入 
+第4步。看上下句、看本段：略。看上下段：首段❹句西蒙逊博士提出，如果一名法官在当天已经对五、六名 
+7 W
+
+----- PAGE 8 -----
+被告轻判（只进行强制性社区服务），那他就更有可能将其他某个被告重判（送进监狱），由主旨一致性可知， 
+西蒙逊博士的研究发现应与其提出的理论一致，故此处应表示在前几位申请者的分数很高的情况下，下一位申 
+请者的分数会有所降低。A选项before代入文中，符合文意，故正确。
+【干扰排除】B选项after代入文中，与上下文语义相悖，故排除；C选项above与D选项below均表示位置、数目、 
+水平、年龄等高或低于某人/某物，不符合此处表时间先后次序的语境，故都排除。
+【考点剖析】上下文语义及介词辨析。
+A.
+jump
+激增；突升；跳 
+B. float浮动；漂浮
+C. drop （使）下降；减少 
+D. fluctuate波动；起伏不定
+【答案解析】看本句：由空格前的would并结合上下文语境可知，设空处需要填入动词，表明下一位申请者的分 
+数变化情况，但由于设空处位于四段首句，且该句中并无相关信息可推知这一变化，故需结合下文进行解题， 
+直接进入第2步。看上下句：分析可知，设空处关键信息点为箭头指向的空格后部分。❷句中的This指代❶句 
+中的"the score for...an average of 0.075 points （下一位的分数... 平均0.075分）”。❷句提到，这也许听起来微
+乎其微，接着以转折连词but引出下文，由but之后的the effects of such a decrease （这一分值的下降所带来的影响） 
+可推知，空格所填词应与such a decrease相对应，即空格处应表“下降”之意，C选项drop代入文中符合语义， 
+故正确。
+【干扰排除】A选项jump代入文中意为“下一位申请者的分数将会平均上涨0.075分”，与文意相反，故排除； 
+B选项float和D选项fluctuate均表示分数在一定范围内波动，有升也有降，无法与下文的decrease相呼应，故 
+都排除。
+【考点剖析】上下文语义及动词辨析。drop在本题中考查的意思可用于表示数量、价格、温度、利润、速度、程 
+度等的减少或减轻。其后接“介词by +具体数值”，表示"....下降了.... ,例如：The price dropped by 10
+dollars.价格下降了 10美元。接“介词to+具体数值”，表示“……下降到了……”，例如：The price dropped 
+to 10 dollars.价格下降到10美兀。
+A. achieve达到；完成
+C. maintain维持；保持
+19
+B. undo消除；打开
+D. disregard不理会；不顾；忽视
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前后部分。空格所在句提到，这也许听起 
+来微乎其微，但是要 这一下降所带来的影响，申请者的GMAT就要多考30分。结合对上一题的分析可知，
+该句中的the effects of such a decrease指分数平均下降0.075分带来的影响。由此可推知，后面提到的“GMAT要 
+多考30分”应是为了消除such a decrease所带来的负面影响而需要采取的具体措施，所以空格处应表“消除”之意， 
+B选项undo代入文中符合语义，故正确。
+【干扰排除】A选项achieve和C选项maintain代入文中明显不符合语义及逻辑，故都排除；D选项disregard代 
+入文中意思为“但是要忽视这一下降带来的影响”，“忽视”表明了对某件事情的不在意，这与“GMAT要多 
+考30分”这一应对措施相矛盾，故排除。
+【考点剖析】句内语义及动词辨析。undo作动词，还可表示“打开；解开；拆开”，例如：undo a button/knot/zip/ 
+jacket （解开纽扣/绳结/拉链/上衣）；表示“消除，取消，废止（某事的影响）”，例如：undo the damage 
+（弥补损失）；还可表示"打败；挫败”，常用于被动语态中，例如：The team was undone by the speed and 
+strength of their opponents.这个队被对手的速度和体力打败了。
+A. promising有希望的；有前途的
+C. necessary必需的；必要的
+20
+B. possible 可能的
+D. helpfu 1有帮助的
+【答案解析】看本句：分析可知，设空处关键信息点为箭头指向的空格前部分。空格所在句提到，申请者需要在 
+GMAT考试中多考30分，此处“多出的30分”是相对于“原本所需分数”而言的，因此空格所填词应表“必 
+需的；必要的”之意，C选项necessary代入文中，符合语义，故正确。
+【干扰排除】A选项promising代入文中意为“要消除这一下降所带来的影响，申请者的GMAT分数就要比原来 
+« 8
+
+----- PAGE 9 -----
+有希望的分数多30分”，“有希望的分数”比“必需的分数”语气要弱，“必需的分数”是指能被大学录取的 
+分数，而“有希望的分数”不一定能保证被录取，故排除A; B选项possible代入文中意为“要消除这一下降所 
+带来的影响，申请者的GMAT分数就要比原来可能的分数多30分”，“可能的分数”也不是能确保一定被录取 
+的分数，故也排除；D选项helpful代入文中意为“要消除这一下降所带来的影响，申请者的GMAT分数就要比 
+原来有帮助的分数多30分”，不符合文意，故排除。
+【考点剖析】句内语义及形容词辨析。necessary作形容词时，意为“必需的；必要的”，常用短语为be necessary 
+for sb./sth. to do sth.（对于某人 / 某物来说做某事是必要的），例如：It doesn't seem necessary for us to meet.我们 
+似乎没必要见面。还可表示“必然的；无法避免的”，例如：This is a necessary consequence of progress.这是发展 
+的必然后果。作名词时，意为“生活必需品”，常用作复数。常用习语有a necessary evil,表示“无法避免的坏事； 
+不得已的事”。
+第二步：答案汇总，规律验证
+答案汇总
+1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC
+5A5B5C5D
+结论
+A、B、C、D四个选项作为正确答案出现的频次均为5,符合命题规律。
+口命题分析
+Section II] Reading Comprehension
+♦ Part A ,
+Text 1
+艇全外教音濒
+Text 1 选自 2012 年 6 月 21 日的 Businessweek （《商业周刊》），原文标题为“Book Review: 'Overdressed； by 
+Elizabeth L. Cline,'（《书评：伊丽莎白• L.克莱恩的〈过度着装〉》）。本文是一篇书评，作者介绍了克莱恩 
+的新作《过度着装》一书，对书中关于“快时尚”的控诉进行了评论，并反驳了克莱恩关于抵制“快时尚”的 
+有关措施。
+题目设置：21题、22题、24题为细节理解题，23题为词义猜测题，25题为主旨要义题。
+[1]❶ In the 2006 film version of The Devil Wears Prada, 
+Miranda Priestly, played by Meryl Streep, scolds her unattractive 
+assistant for imagining that high fashion doesn't affect her. 
+❷Priestly explains how the deep blue color of the assistant's 
+sweater descended over the years from fashion shows to department
+（21 ）在2006年电影版《时尚女魔头》中, 
+由梅丽尔•斯特里普饰演的米兰达•普瑞斯特 
+利训斥她的助理毫无魅力，因为助理认为高端 
+时尚与自己无关。普瑞斯特利解释了助理身上 
+那件毛衣的深蓝色如何随着时间的推移逐渐过 
+时：从时装秀场到百货商店，最后沦落到折扣
+stores and to the bargain bin in which the poor girl doubtless found 
+her garment.
+[2] OThis top-down conception of the fashion business couldn't 
+be more out of date or at odds with the feverish world described 
+in Overdressed, Elizabeth Cline's three-year indictment of "fast
+区。毫无疑问，这个可怜的女孩就是从折扣区 
+淘来了这件毛衣。
+时尚界这种从高端到低端演变的观念早已 
+过时，也不同于伊丽莎白-克莱恩在《过度着 
+装》一书中所描述的狂热世界，这是她历时三 
+年完成的对“快时尚”的控诉。在过去十多年
+fashion,,.❷In the last decade or so, advances in technology have
+间，技术的进步使得大众品牌，比如Zara、
+ICT英汉对照
+9 0
+
+----- PAGE 10 -----
+allowed mass-market labels such as Zara, H&M, and Uniqlo 
+to react to trends more quickly and anticipate demand more 
+precisely. ©Quicker turnarounds mean less wasted inventory, 
+more frequent releases, and more profit. ©These labels encourage 
+style-conscious consumers to see clothes as disposable—meant 
+to last only a wash or two, although they don't advertise that—
+— 
+and to renew their wardrobe every few weeks. ©By offering 
+on-trend items at dirt-cheap prices, Cline argues, these brands have 
+hijacked fashion cycles, shaking an industry long accustomed to a 
+seasonal pace.
+[3] OThe victims of this revolution, of course, are not limited 
+to designers.❷For H&M to offer a $5.95 knit miniskirt in all 
+its 2,300-plus stores around the world, it must rely on low-wage 
+overseas labor, order in volumes that strain natural resources, and 
+use massive amounts of harmful chemicals.
+[4] ^Overdressed is the fashion world's answer to consumer-activist 
+bestsellers like Michael Pollan's The Omnivore "s Dilemma.
+❷"Mass-produced clothing, like fast food, fills a hunger and need, 
+yet is non-durable and wasteful/5 Cline argues. ©Americans, she 
+finds, buy roughly 20 billion garments a year—about 64 items per 
+personand no matter how much they give away, this excess leads
+H&M和优衣库能够更快速地对时尚趋势作出 
+反应，也能更准确地预测(消费者的)需求。 
+更快的推陈出新意味着商品库存浪费更少、新 
+货上市更频繁且利润更丰厚。(22) (23)遂 
+些品牌鼓励追求时尚的消费者把衣服视为一次 
+性商品——原本就只洗一两次，尽管它们并未 
+如此宣传--- 并且每隔几周就更新一次衣橱。
+(23 )克莱恩认为，通过以超低价出售潮流物 
+品，这些品牌控制了时尚周期，撼动了这个长 
+期以来按照季节性节奏运转的产业。
+当然，这次变革的受害者不仅限于设计师。 
+对于H&M公司来说，如果要在其全球2300 
+多家门店出售一款5.95美元的针织迷你裙， 
+它就必须依赖廉价的海外劳动力，以及造成自 
+然资源过度消耗的批量订单，并使用大量有害 
+化学物质。
+《过度着装》是时尚界对类似迈克尔•波 
+伦所著的《杂食者的两难》这样的消费者积 
+极分子畅销书的回应。克莱恩认为：“批量
+生产的衣服，就像快餐一样，只能填饱肚
+子，满足基本需要，但却无法持久，也会 
+造成浪费。”她发现，美国人每年大约购 
+买200亿件衣服 平均每人约64件  
+且不管他们捐出去多少，这种过剩都会造成 
+浪费。
+to waste.
+在《过度着装》一书的结尾，克莱恩介绍
+[5] ©Towards the end of Overdressed, Cline introduced her
+ideal, a Brooklyn woman named Sarah Kate Beaumont, who since
+2008 has made all of her own clothes—and beautifully.❷But as
+Cline is the first to note, it took Beaumont decades to perfect her
+craft; her example can't be knocked off.
+[6] OThough several fast-fashion companies have made efforts
+to curb their impact on labor and the environment—including
+H&M, with its green Conscious Collection line― line believes
+lasting change can only be effected by the customer.❷She exhibits 
+the idealism common to many advocates of sustainability, be it
+in food or in energy. ©Vanity is a constant; people will only start
+ihopping more sustainably when they can't afford not to.
+了她心中的理想典范------位名为萨拉-凯
+特、•博蒙特的布鲁克林女性，自2008年起， 
+她便亲手制作自己所有的衣服——而且做得很 
+漂亮。不过，正如克莱恩最先注意到的那样， 
+博蒙特用数十年时间才使她的手艺臻于完美， 
+因此她的例子不可能被轻易复制。
+尽管多家快时尚公司已经努力地去控制它 
+们对劳动力和环境的影响 包括推出了绿色 
+环保系列产品的H&M公司——克莱恩认为只 
+有消费者才能带来持久性的改变。不管在食 
+品领域还是能源领域，她表现出了许多可持 
+续发展的支持者们共有的理想主义o (24)虚 
+荣心是一种常态；只有在负担不起不可持续性 
+购物时，人们才会开始可持续性购物。
+, 10
+
+----- PAGE 11 -----
+篇章结构
+第一段：弓I出话题——借电影《时尚女魔头》中的片段引出“时尚是自上而下的”这一传统时尚观念
+对快时 
+尚的批＜ 
+判及应 
+对方法
+第二段：首先引出克莱恩的新书《过度着装》，并指出该书是对快时 
+„尚的控诉
+第三段：以H&M为例，指出快时尚造成的多方危害，进一步彰显克 
+莱恩对快时尚的控诉
+.第四段：总体评价《过度着装》一书——是时尚界对消费者积极分子 
+畅销书的回应
+第二至四段：介绍克莱恩的《过 
+度着装》一书对 
+快时尚的控诉并V 
+对该书进行总体 
+评价
+第五、六段：反驳《过度着装》
+中克莱恩的观点」第五段：反驳克莱恩提倡用“自制衣物”的方法来抵制快时尚的观点 
+并明确作者自己1第六段：进一步反驳克莱恩所提倡的观点，认为其是一种理想主义，
+的观点
+并提出作者自己的观点——抵制快时尚主要需要调整价格, 
+从而转变消费者的消费方式
+II 答案解析
+21. Priestly criticizes her assistant for her 
+.
+普瑞斯特利训斥其助理是因为她
+O
+选项出处
+A. poor bargaining skill
+A.拙劣的议价技巧
+一段❷句
+B. insensitivity to fashion
+B.对时尚不敏感
+—段
+C. obsession with high fashion
+C.迷恋高端时尚
+一段。句
+D. lack of imagination
+D,缺乏想象力
+一段。句
+【路径一】从题干的角度解答——如何得出正解
+找关键词：Priestly和criticizes her assistant for0回文定位：根据关键词可定位至一段❶句，其中criticizes her 
+assistant for与该句中的scolds her...assistant for相对应。比对匹配：该句提到，Priestly训斥她的助理毫无魅力， 
+因为助理认为高端时尚与自己无关，可见，这位助理对时尚并不敏感，由此可初步判定B正确，还需联系下文 
+进一步印证。辐射匹配：一段❷句中explains -词表明Priestly进一步阐明原因，Priestly解释其助理淘自折扣 
+区的毛衣的颜色早已过时，可见，该助理不关注时尚趋势，即对时尚不敏感，故B正确。
+【路径二】从选项的角度解答一一如何排除干扰
+找关键词：poor和bargainingo回文定位：根据关键词可定位至一段❷句，其中bargaining与该句中的 
+bargain为同根词。比对匹配：该句提到，Priestly解释了助理身上那件毛衣的颜色（深蓝色）是如何随 
+A 
+着时间的推移逐渐过时的：从时装秀场到百货商店，最后沦落到折扣区，而这件毛衣正是这个可怜的
+女孩从折扣区淘来的。可见，该句提到的the bargain bin中的bargain指的是"便宜货”，A选项关键词 
+bargaining （讨价还价）与此表意不同，且A选项关键词poor （拙劣的）与该句中的poor （可怜的）表意 
+不回，放抽电_________________________________________________________________________________________
+找关键词：high fashion （ C选项）和imagination （ D选项）。回文定位：根据C、D两个选项的关键词可 
+定位至一段。句，其中imagination与该句中的imagining为同根词。比对匹配：该句提到，Priestly训斥 
+CD她的助理毫无魅力，因为助理认为高端时尚与自己无关。由此可知，Priestly的助理对高端时尚并不敏感，
+所以不可能迷恋高端时尚，故排除Co而且该句中Priestly的助理认为（imagining ）高端时尚与自己无关，
+ 
+缺乏想象力（imagination ）,两者并无联系，故排除D。
+22. According to Cline, mass-market labels urge consumers 
+to 
+.
+在克莱恩看来，大众品牌促使消费 
+者 
+。
+选项出处
+A. combat unnecessary waste
+A.与不必要的浪费相抗争
+二段❸句
+B. shut out the feverish fashion world
+B.抵挡狂热的时尚界
+二段。句
+C. resist the influence of advertisements
+C.抵制广告的影响
+二段❹句
+D. shop for their garments more frequently
+D.更频繁地购买衣服
+二段❶❷❹句
+11 >
+
+----- PAGE 12 -----
+【路径一】从题干的角度解答——如何得出正解
+找关键词：Cline> mass-market labels和urge consumers toQ回文定位：根据关键词可定位至二段❶@0©句，其中， 
+mass-market labels与二段❹句中的These labels和二段❺句中的these brands相对应， urge consumers to与❹句| 
+中的encourage...consumers to相对应。比对匹配：二段❶句指出，时尚界这种从高端到低端演变的观念早已过时， 
+不同于Cline在《过度着装》一书中所描述的狂热世界，这是Cline历时三年完成的对“快时尚”的控诉；接着 
+二段❷句提到，大众品牌（mass-market labels ）能够更快速地对时尚趋势作出反应，也能更准确地预测（消费者的） 
+需求；二段❹句提到，这些品牌鼓励追求时尚的消费者把衣服视为一次性商品，并且每隔几周就更新一次衣橱， 
+换言之，消费者会更频繁地购买衣服。可见，Cline认为大众品牌会促使消费者更频繁地购买衣服，故D正确。 
+已由二段。❷❹句得出答案，故不再分析二段❺句。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：unnecessary wasteo回文定位：根据关键词可定位至二段❸句,其与该句中的less wasted相对 
+A 应。比对匹配：该句提到，（大众品牌）更快的推陈出新意味着商品库存浪费更少，此处仅为大众品牌 
+的库存浪费会更少，并非促使消费者与不必要的浪费相抗争，故排除A。
+-疫笑殖商-the feverish fashion worlds固支京而「稚据关画同司吏夜至三段「其写孩旬币Hlfashion ' 
+和the feverish world相对应。比对匹配：该句指出，Cline历时三年，在《过度着装》一书中描绘了一个
+B 狂热世界，完成了对“快时尚”的控诉。可见，抵挡狂热的时尚界的是Cline本人，并非大众品牌，所 
+以大众品牌不会促使消费者抵挡狂热的时尚界，故排除B。
+-夜关殖商:'advertisementso面成:紊任「布掴关链词司诡商至三咬6面「其写该商如时advertise为向舫瓦" 
+比对匹配：该句提到，这些品牌（Zara、H&M和优衣库等大众品牌）鼓励追求时尚的消费者把衣服视为 
+C 一次性商品——原本就只洗一两次，尽管它们并未如此宣传——并且每隔几周就更新一次衣橱。该句中 
+的don't advertise并非指大众品牌促使消费者抵制广告的影响，而是指大众品牌不公开宣扬，只是暗中诱 
+导消费者频繁购买衣服，故排除C。
+23. The word "indictment" (Line 3, Para. 2) is closest in 
+meaning to______ .
+“indictment"—词（二段三行） 
+的意思最接近于—O
+选项出处
+A. accusation
+A.谴责
+二段
+B. enthusiasm
+B.热情
+原文未提
+C. indifference
+C.漠不关心
+原文未提
+D. tolerance
+D,宽容
+原文未提
+O浏览后发现，该题属于词义猜测题，仅从题干角度解题最为高效。
+从题干的角度解答——如何得出正解，排除干扰
+找关键词：indictment和Line 3, Para. 2。回文定位：根据关键词可定位至二段。句。比对匹配：该句指出， 
+Cline历时三年完成《过度着装》，在书中表明了对快时尚的一种态度，BP indictmento由此无法得知该词的具 
+体含义，故需联系下文。辐射匹配：二段❷❸句指出，技术进步使大众品牌对时尚趋势反应更快，新货上市更 
+频繁且利润更丰厚；二段。❺句接着提到，一些大众品牌鼓励消费者频繁购置衣服，Cline认为，这些品牌以 
+超低价出售潮流物品，控制了时尚周期，撼动了这个长期以来按照季节性节奏运转的产业。综上可知，Cline批 
+判与控诉快时尚，对其持否定态度，故A正确。
+b房面「际楮希d连琉&/蓉;疥舍-顽首定而森吏，顾豆互E函蕃屑伺形禾待,-故伺排徐;E迭或'覆示夹 
+不合逻辑，如果说Cline对快时尚漠不关心，就不会花三年时间来写《过度着装》一书，故排除。
+24. Which of the following can be inferred from the last paragraph?
+A. Vanity has more often been found in idealists.
+B. The fast-fashion industry ignores sustainability.
+C. People are more interested in unaffordable garments.
+D. Pricing is vital to environment-friendly purchasing.
+从最后一段可推断出下列哪项内容？ 
+选项出处
+A. "h想主义者往往比较虚荣。 
+六段❷❸句
+B. 快时尚产业忽略了可持续性。 
+六段⑰❷句
+C. 人们对买不起的衣服更感兴趣。 
+六段❸句
+D. 定价对于环保型消费至关重要。 
+六段❸句
+<9 12
+
+----- PAGE 13 -----
+【路径一】从题干的角度解答——如何得出正解 
+找关键词：the last paragrapho回文定位：根据关键词可定位至六段。比对匹配：六段❹句提到，尽管多家快时 
+尚公司已经努力地去控制它们对劳动力和环境的影响，但Cline认为只有消费者才能带来持久性的改变；六段 
+❷句提到，不管在食品领域还是能源领域，Cline表现出了许多可持续发展的支持者们共有的理想主义；六段 
+❸句接着指出，虚荣心是一种常态；只有在负担不起不可持续性购物时，人们才会开始可持续性购物。可见， 
+只有在商品价格提高，人们消费不起的时候，才会可持续性购物，即衣服不会只洗一两次就扔掉等。由上述分 
+析可推知商品的价格与环保型消费息息相关，换言之，商品定价对于环保型消费至关重要，故D正确。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：Vanity和idealists。回文定位：根据关键词可定位至六段❷❸句，其中，idealists与六段
+A ❷句中的idealism为同根词。比对匹配：六段❷句提到，Cline表现出了许多可持续发展的支持者们共 
+有的理想主义；六段❸句提到，虚荣心是一种常态。由此无法推知理想主义者往往比较虚荣，故排除A。 
+找关键词：fast-fashion industry和sustainability。回文定位：根据关键词可定位至六段❶❷句，其中fast­
+fashion industry 与六段❶句中的fast-fashion companies相对应。比对匹配：六段。句提到，多家快时尚
+B 公司已经努力地去控制它们对劳动力和环境的影响，由此可知，快时尚产业也开始考虑可持续性发展， 
+并未忽视可持续性。六段❷句虽提到了可持续性发展(sustainability),但与快时尚产业是否忽略了可 
+米寺绶匡在睛暨上一，一 一可桃除Bo
+我关殖商：unaffordableo 丘文定位：W can；t afford 
+'
+c 比对匹配：该句提到，只有在负担不起不可持续性购物时，人们才会开始可持续性购物。此处意在指出
+人们在无力负担价格高昂的快时尚商品时，才不会频繁购置衣服或把衣服只洗一两次就扔掉，而非人们 
+对买不起的衣服更感兴趣，故排除C。
+25. What is the subject of the text? 
+本文的主题是什么？ 
+选项出处
+A. Satire on an extravagant lifestyle. 
+A.讽刺奢侈的生活方式。 
+二段❹句
+B. Challenge to a high-fashion myth. 
+B.挑战高端时尚的神话。 
+一段。句
+C. Criticism of the fast-fashion industry. 
+.C.批判快时尚产业。 
+全文
+D. Exposure of a mass-market secret. 
+D.暴露大众市场的秘密。 
+二段❷❸句
+CF浏览后发现，该题属于主旨要义题，仅从题干角度解题最为高效。
+从题干的角度解答——如何得出正解，排除干扰
+梳理结构：本文共六段，呈递进式结构。首段引出话题，二至四段介绍克莱恩的《过度着装》一书对快时尚的 
+控诉并对该书进行总体评价，五、六段反驳《过度着装》中克莱恩的观点并明确作者自己的观点。概括主旨： 
+首段借电影《时尚女魔头》中的片段引出“时尚是自上而下的”这一传统时尚观念。二至四段介绍克莱恩在《过 
+度着装》一书中对快时尚的控诉，如控制了时尚周期，撼动了长期以来按照季节性节奏运转的产业，并指出快 
+时尚依赖廉价海外劳动力、过度消耗资源、使用大量有害化学物质等，同时作者对《过度着装》做出总体评 
+价——是时尚界对消费者积极分子畅销书的回应。五、六段反驳克莱恩在《过度着装》中提倡用“自制衣物” 
+的方法来抵制快时尚的观点，批判克莱恩的观点是理想主义，进一步指出解决快时尚引发的问题的关键在于通 
+咽警的国丛皿缨逍阿置的噩财苴£可见也判臾也度产业是至检述的毯心：_政，正确0
+新应荃旻疫虱 系更又一质。句思及高骚时商(high fashion ),其他段落主要围绕批判快时尚(fast fashion) 
+展开论述，故排除B。二段❷❸句虽提到，大众品牌能够快速地对时尚趋势作出反应，也能更准确地预测(消 
+费者的)需求，更快推陈出新，但是其目的都是为了让消费者更频繁地以低价购买衣物而盈利，在某种程度上 
+这也属于一些大众市场的秘密，但并非全文讨论的主题，故排除D。二段❹句虽指出快时尚大众品牌鼓励消费 
+者把衣服视为一次性商品，频繁购买衣服，但这并不等同于“奢侈的生活方式”，故排除A。
+Text 2
+1命题分析
+配会外教音频
+Text 2 选自 2012 年 6 月 9 日的 The Economist (《经济学人》)，原文标题为 MMicrosoft and Privacy: Change 
+of Track” (《微软与隐私：信息追踪的改变》)。本文是一篇议论文，主要围绕“行为”广告引发的争议及解
+13 •
+
+----- PAGE 14 -----
+决方案展开详细论述。
+题目设置：26题、28题为细节理解题，27题为指代关系推测题，29题为判断正误题，30题为观点态度题。
+KEI英汉对照
+[1] OAn old saying has it that half of all advertising budgets are 
+wasted—the trouble is, no one knows which half.❷In the internet 
+age, at least in theory, this fraction can be much reduced. ©By 
+watching what people search for, click on and say online, companies 
+can aim "behaviouraT' ads at those most likely to buy.
+[2] 01 n the past couple of weeks a quarrel has illustrated 
+the value to advertisers of such fine-grained information: Should 
+advertisers assume that people are happy to be tracked and sent 
+behavioural ads?❷Or should they have explicit permission?
+[3] ❶ In December 2010 America's Federal Trade 
+Commission (FTC) proposed adding a "do not track" (DNT) 
+option to internet browsers, so that users could tell advertisers 
+that they did not want to be followed. ©Microsoft's Internet 
+Explorer and Apple's Safari both offer DNT; Google's Chrome 
+is due to do so this year. ©In February the FTC and the Digital 
+Advertising Alliance (DAA) agreed that the industry would get 
+cracking on responding to DNT requests.
+[4] OOn May 31st Microsoft set off the row. @It said that 
+Internet Explorer 10, the version due to appear with Windows 8, 
+would have DNT as a default.
+[5] ©Advertisers are horrified. ©Human nature being what 
+it is, most people stick with default settings. ©Few switch DNT 
+on now, but if tracking is off it will stay off. ©Bob Liodice, 
+the chief executive of the Association of National Advertisers, 
+says consumers will be worse off if the industry cannot collect 
+information about their preferences. ©People will not get fewer 
+ads, he says.❻''They'll get less meaningful, less targeted ads."
+[6] Olt is not yet clear how advertisers will respond. ©Getting
+a DNT signal does not oblige anyone to stop tracking, although 
+some companies have promised to do so. ©Unable to tell 
+whether someone really objects to. behavioural ads or whether 
+they are sticking with Microsoft's default, some may ignore a 
+DNT signal and press on anyway. 
+“
+[7] ©Also unclear is why Microsoft has gone it alone. ©After 
+all, it has an ad business too, which it says will comply with 
+DNT requests, though it is still working out how. ©If it is trying
+常言道，一半的广告预算都打了水漂—— 
+问题在于，没有人知道是哪一半。(26)在网 
+络时代，至少从理论上讲，被浪费的这一部分 
+广告预算可以被大幅减少。通过观察人们在网 
+上搜索的内容、点击的链接和发表的言论，企 
+业可以针对最可能购买的人群投放"行为” 
+广告。
+在过去几周，一场争论阐明了这些精准信 
+息对广告商的价值：广告商应该假定用户乐意 
+被追踪并收到行为广告吗？还是应该获得用户 
+的明确许可？
+2010年12月，美国联邦贸易委员会(FTC) 
+建议在互联网浏览器上添加“禁止追踪”(DNT) 
+选项，以便用户告知广告商他们不想被追 
+踪。(27)微软的IE浏览器和苹果的Safari浏 
+览器都提供了 "禁止追踪”选项；谷歌的浏览 
+器Chrome今年也将提供同样的功能。2月份， 
+美国联邦贸易委员会和数字广告联盟(DAA) 
+达成共识：该行业将尽快响应“禁止追踪”的 
+要求。
+5月31日，微软公司率先挑起争论。微软 
+公司宣称，将与Windows 8 —起推出的IE 10 
+版本浏览器将会把“禁止追踪”设为默认状态。
+广告商们对此惶恐不已。大多数用户都会坚 
+持使用浏览器默认设置，这是人性使然。现在 
+很少有人打开“禁止追踪”选项，但是如果“追 
+踪”选项被默认关闭，那么它就会一直处于关闭 
+状态。(28)美国国家广告商协会的首席执行官 
+鲍勃•利奥狄斯宣称，如果本行业不能收集到 
+用户的偏好信息，那么用户的情况将更糟。他指 
+出，人们看到的广告不会变少。"他们收到的广 
+告将会更没有意义，且更缺少针对性。”
+广告商们对此做何回应，现在还不得而知。 
+(29 )收到“禁止追踪”信号不能迫使任何一家 
+广告公司停止追踪，尽管有些公司已经承诺会 
+在收到该信号后停止追踪。由于无法辨别用户 
+是真的反对行为广告，还是坚持使用微软的默 
+认设置，一些公司可能会忽略“禁止追踪”信号， 
+继续追踪用户信息。
+同样不得而知的是，为什么微软独自采取行 
+动。毕竟，它本身也有广告业务，微软称其广告 
+业务会遵从"禁止追踪”的要求，不过，具体如 
+何实施还在研究中。如果微软是在试图打败几
+« 14
+
+----- PAGE 15 -----
+to upset Google, which relies almost wholly on advertising, 
+it has chosen an indirect method: There is no guarantee that 
+DNT by default will become the norm.❹DNT does not seem an 
+obviously huge selling point for Windows 8—
+—though the firm has 
+compared some of its other products favourably with Google's 
+on that count before. ©Brendon Lynch, Microsoft's chief privacy 
+officer, blogged: "We believe consumers should have more 
+control." ©Could it really be that simple?
+乎全部依赖广告业务运营的谷歌，那么它选择 
+的这种方法则不够直接：没有人能够保证将"禁 
+止追踪”设置为默认选项会成为行业规范。尽 
+管微软曾就这一点将旗下的其他产品和谷歌的 
+产品做过比较，其优势明显，但"禁止追踪”选 
+项似乎并非Windows 8系统的一大明显卖点。 
+(30)微软首席隐私官布伦丹•林奇在博客中写 
+道：“我们认为用户应该有更多的控制权。”但 
+事情真的那么简单吗？
+解决方案
+第四至七段：简述微软面对 
+争议的最新处 
+理方案并对方＜ 
+案进行分析和 
+评价
+E篇章结构
+第一段：引出话题一一借“广告预算被浪费的现象”引出“行为”广告
+“行为,，第一' 二段：'钏爵旗第二段：引发的争议——广告商是否应先获得用户许可再投放追踪 
+匚慰咨」 
+L第三段：解决方案——FTC建议在互联网浏览器上添加“禁止追踪"
+(DNT)选项
+第四段：简述微软的最新处理方案一拟将IE 10版本浏览器的DNT
+设为默认状态
+第五段：介绍广告商对微软此举的情绪反应——惶恐不已
+第六段：预测广告商对微软此举的行为反应------些广告商可能会忽略
+DNT信号，继续追踪用户信息
+第七段：分析微软独自采取行动的原因并做出评价
+|01答案解析
+26. It is suggested in Paragraph 1 that "behavioural"
+一段表明，“行为”广告有助于广告商
+选项出处
+ads help advertisers to______ .
+们______ O
+A. ease competition among themselves
+A,缓和他们之间的竞争
+原文未提
+B. lower their operational costs
+B.降低运营成本
+_段
+C. avoid complaints from consumers
+C.避免用户投诉
+一段❸句
+D. provide better online services
+D,提供更好的在线服务
+一段。句
+【路径一】从题干的角度解答一一如何得出正解
+找关键词：Paragraph 1和“behavioural" ads。回文定位：根据关键词可定位至一段❸句。比对匹配：该句提到， 
+通过观察人们在网上的动态，企业可以针对最可能购买的人群投放“行为”广告。由此无法得知“行为”广 
+告对广告商们的益处，故需联系上文。辐射匹配：一段O句指出，一半的广告预算都打了水漂；❷句接着提到， 
+在网络时代，至少从理论上讲，被浪费的这一部分广告预算可以被大幅减少。由此可推知，“行为”广告的 
+出现避免了广告商无针对性、广撒网式的广告投放行为，减少了他们的广告预算费用，从而帮助其降低运营 
+成本，故B正确。
+【路径二】从选项的角度解答——如何排除干扰
+A A选项内容在文中无法定位，文中并未提及缓和广告商之间的竞争的相关信息，故排除A。
+找关键词：consumers。回文定位：根据关键词并结合题干信息Paragraph 1可定位至一段❸面，其币' 
+consumers 与该句中的those most likely to buy相对应。比对匹配：该句提到，通过观察人们在网上的动 
+c 态，企业可以针对最可能购买的人群投放“行为”广告。但此处并未说明该举动可以避免用户投诉，故
+排除C。
+一必关-跆■司:-online「回旻室豆-推堪英曲商可是位空二葭❸瓦「t匕好低酉己「该局提到「通观察人们在 
+D 网上的动态，企业可以针对最可能购买的人群投放“行为”广告。此处表明广告商投放“行为”广告会 
+更具针对性，但无法推出广告商能够提供更好的在线服务，故排除D。
+15®*
+
+----- PAGE 16 -----
+27. “The industry" （Line 6, Para. 3） refers to. "The industry"（三段六行）指的是。 
+选项出处
+A. online advertisers 
+A.在线广告商 
+三段❶❷句
+B. e-commerce conductors 
+B.电子商务运营商 
+原文未提
+C. digital information analysts 
+C.数字信息分析员 
+三段❸句
+D. internet browser developers 
+D.互联网浏览器开发商 
+三段
+白浏览后发现，该题属于指代关系推测题，仅从题干角度解题最为高效。
+从题干的角度解答——如何得出正解，排除干扰
+找关键词：The industry和Line 6, Para. 3。回文定位：根据关键词可定位至三段❸句。比对匹配：该句提到， 
+the industry将尽快响应“禁止追踪”的要求。由此无法判断“the industry”的具体指代对象，故需联系上文。 
+辐射匹配：三段。句提到，美国联邦贸易委员会（FTC）建议在互联网浏览器上添加“禁止追踪”（DNT）选项； 
+接着三段❷句具体列举了微软、苹果和谷歌等公司的浏览器都提供或即将提供DNT选项。可见，三段❸句 
+中FTC和数字广告联盟（DAA ）所提到的l，the industry"应指互联网浏览器开发商，故D正确。
+'有中陋蓟而［葩函菠员亘板了饪甬育曾而产再新商1禾恿痴曲亲，-希禾亘萋亲产舀商觥％秦Ibi追源广 
+的要求做出回应；同时三段❷句中列举了几家公司在浏览器开发方面的回应，可见“the industry”并非指“广 
+告商”，故排除A。文中并未提及“电子商务运营商”的相关信息，故排除B。C选项是利用三段❸句中的 
+Digital—词设置的词汇干扰，该句只提到了数字广告联盟（Digital Advertising Alliance ）这一机构，并非数字 
+信息分析员，故排除C。
+28. Bob Liodice holds that setting DNT as a 鲍勃■利奥狄斯认为将“禁止追踪”设为默 
+a . k
+,r . 
+大 
+选项出处
+default . 
+认状态 o
+A. may cut the number of junk ads 
+A.可能减少垃圾广告的数量 
+五段©@句
+B. fails to affect the ad industry 
+B.不会影响广告行业 
+五段。句
+C. will not benefit consumers 
+C.不会使用户获益 
+五段❹❺❻句
+D. goes against human nature 
+D.违反了人类本性 
+五段❷句 
+【路径一】从题干的角度解答一一如何得出正解
+找关键词：Bob Liodice和setting DNT as a default。回文定位：根据关键词可定位至四段❷句和五段❷©©©句， 
+其中，setting DNT as a default与四段❷句中的have DNT as a default表意相同，与五段❷句中的default settings 
+相对应，五段❹❺❻句均为Bob Liodice的观点。比对匹配：四段❷句指出，微软公司的IE 10版本浏览器将 
+会把“禁止追踪”（DNT）设为默认状态。五段❷句指出，大多数用户都会坚持使用浏览器默认设置，这是 
+人性使然；五段。。❻句引用Bob Liodice的话，指出如果本行业（广告行业）不能收集到用户的偏好信息， 
+那么用户的情况将更糟，人们看到的广告不会变少，收到的广告反而会更没有意义，更缺少针对性。可见， 
+Bob Liodice认为将“禁止追踪”设为默认状态不会令用户获益，故C正确。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：junk ads。回文定位：根据关键词可定位至五段❻句，其与该句中的less meaningful, less 
+targeted ads相对应。比对匹配：该句提到，他们收到的广告将会更没有意义，且更缺少针对性。由此无 
+A 法判断该选项正误，故需联系上文。辐射匹配：五段❺句提到，人们看到的广告不会变少。可见，Bob 
+Liodice认为人们收到的垃圾广告数量并不会减少，A选项内容与此相悖，故排除。
+找关键词：industry。回文
+*位
+：根据关俺词并结吾巅中信息Bob Liodice耳亍是彳立荃丘成❹句。
+该句提到，Bob Liodice认为,如果本行业（广告行业）无法收集到用户的偏好信息，用户的情况将更糟。 
+可见此处仅提及将“禁止追踪”（DNT）设为默认状态对用『产生的影响，并未指出对广告行业产生的影响, 
+故排除B。
+-必关遍商「human natuie「百王画立;植蠢美锤商苛冠室云真❷荷；丘希允豆一茂荷薰至U「垦蒋届甬 
+D 浏览器默认设置是人性使然，这里提到的人性只是用来说明人们不习惯修改默认设置，并非说明将“禁 
+止追踪”设为默认状态就违反了人类本性，且这与Bob Liodice的观点无关，故排除D。
+«16
+
+----- PAGE 17 -----
+29. Which of the following is true according to 
+Paragraph 6?
+A. DNT may not serve its intended purpose.
+B. Advertisers are willing to implement DNT.
+C. DNT is losing its popularity among consumers. ”
+D. Advertisers are obliged to offer behavioural ads.
+从六段可知，下面哪个选项正确？ 
+选项出处
+A. “禁止追踪”可能无法实现其预期目的。 六段❷❸句
+B. 广告商们愿意实施“禁止追踪”。 
+六段❷❸句
+C. “禁止追踪”正在失去用户青睐。 
+六段❷❸句
+D. 广告商被迫提供行为广告。 
+六段❷❸句
+O浏览后发现，该题属于判断正误题，仅从选项角度解题最为高效。
+从选项的角度解答——如何得出正解，排除干扰
+找关键词：DNT和may not serve its intended purposeo回文定位：根据关键词并结合题干信息Paragraph 6 
+可定位至六段 @© 句，其中，may not serve its intended purpose 与六段❸句中的 may ignore a DNT signal 
+and press on anyway相对应。比对匹配：六段❷句提到，收到“禁止追踪”信号不能迫使任何一家广告 
+A 公司停止追踪，尽管有些公司已经承诺会在收到该信号后停止追踪；六段❸句提到，由于无法辨别用户 
+的真实心理，一些公司可能会忽略“禁止追踪”信号，继续追踪用户信息，可见DNT （“禁止追踪”）
+一丕整理基现期旦孙一一散A正确-。一
+'技美窿商- Advertisers希dMt「百王泻位；Paragraph 6可1函立至夫匣「庄弱 
+匹配：六段❶句提到，广告商们对此做何回应，现在还不得而知；接着六段❷句提到，收到“禁止追踪” 
+B 信号不能迫使任何一家广告公司停止追踪，尽管有些公司已经承诺会在收到该信号后停止追踪；六段 
+❸句指出，一些公司可能会忽略“禁止追踪”信号，继续追踪用户信息，由六段❷❸句中部分公司的做 
+_ 
+,广宣鹿们无韭房蕙实匝：楚也退壁",b粪现四签与些担暨:smo
+'瓶至诡商:-DNT「百旻违&E:银羸亲®高并蓦d巅石言直Paragrap： 6寿也夫段❷瓦-丘菊远瓦：' 
+六段❷句提到，收到“禁止追踪”信号不能迫使任何一家广告公司停止追踪；六段❸句提到，由于无 
+法辨别用户是真的反对行为广告，还是坚持使用微软的默认设置，一些公司可能会忽略“禁止追踪”信号， 
+缮缝追蹄用户信展。一 W四旬均充燃楚史追壁:'一正色失差用方百咪一，一里推陇头
+找关键词：are obliged to和behavioural ads。回文定位：根据关键词可定位至六段❷❸句。比对匹配：六 
+段❷句提到，收到“禁止追踪”信号不能迫使任何一家广告公司停止追踪；六段❸句提到，由于无法 
+辨别用户是真的反对行为广告，还是坚持使用微软的默认设置，一些公司可能会忽略"禁止追踪”信号, 
+继续追踪用户信息。此处并未提及广告商被迫提供行为广告，故排除D。
+30. The author's attitude towards what Brendon Lynch 
+said in his blog is one of 
+.
+作者对布伦丹-林奇在博客所言的态度 
+是 
+。
+选项出处
+A. indulgence
+A.纵容
+原文未提
+B. understanding
+B.理解
+原文未提
+C. appreciation
+C.欣赏
+原文未提
+D. skepticism
+D.怀疑
+七段❺❻句
+O浏览后发现，该题属于观点态度题，仅从题干角度解题最为高效。
+从题干的角度解答——如何得出正解，排除干扰
+找关键词：Brendon Lynch和blog。回文定位：根据关键词可定位至七段❺句。比对匹配：该句援引微软首席 
+隐私官Brendon Lynch在博客中的观点：“用户应该有更多的控制权”。由此无法得知作者的态度，故需联系 
+下文。辐射匹配：七段。句作者反问一但事情真的那么简单吗？由此可见，作者对Brendon Lynch的观点 
+持怀疑态度，并未流露出understanding （理解）和appreciation （欣赏）之意，故D正确’同时可排除B、Co 
+作者在评论Brendon Lynch的观点时，并未表现出indulgence （纵容）的态度，故排除A。
+Text 3
+CT命题分析
+配套外教音频
+Text 3 选自 2012 年 2 月 29 日的 New Scientist （《新科学家》）,原文标题为 “The Future is Bright for Humanity"
+17 >
+
+----- PAGE 18 -----
+(《人类的未来一片光明》)。本文是一篇科普类的议论文，主要围绕人类的未来这一主题展开论述。
+题目设置：31题、32题、34题为细节理解题，33题为判断正误题，35题为主旨要义题。
+町1英汉对照
+[1] ®UP until a few decades ago, our visions of the future 
+were largely—though by no means uniformly—glowingly positive. 
+©Science and technology would cure all the ills of humanity, 
+leading to lives of fulfilment and opportunity for all.
+[2] ONow utopia has grown unfashionable, as we have 
+gained a deeper appreciation of the range of threats facing us, 
+from asteroid strike to epidemic flu and to climate change.❷You 
+might even be tempted to assume that humanity has little future 
+to look forward to.
+[3]❶ But such gloominess is misplaced. ©The fossil record 
+shows that many species have endured for millions of years—o 
+why shouldn,t we? ©Take a broader look at our species  place in 
+the universe, and it becomes clear that we have an excellent chance 
+of surviving for tens, if not hundreds, of thousands of years.❹Look 
+up Homo sapiens in the "Red List" of threatened species of the 
+International Union for the Conservation of Nature (IUCN) and you 
+*
+will read: "Listed as Least Concern as the species is very widely 
+distributed, adaptable, currently increasing, and there are no major 
+threats resulting in an overall population decline.,,
+[4] OSo what does our deep future hold?❷A growing number 
+of researchers and organisations are now thinking seriously about 
+that question.❸For example, the Long Now Foundation has as 
+its flagship project a mechanical clock that is designed to still be 
+marking time thousands of years hence.
+[5] OPerhaps willfully, it may be easier to think about 
+such lengthy timescales than about the more immediate future. 
+❷The potential evolution of today's technology, and its social 
+consequences, is dazzlingly complicated, and it's perhaps best 
+left to science fiction writers and futurologists to explore the many 
+possibilities we can envisage.❸That's one reason why we have 
+launched Arc, a new publication dedicated to the near future.
+[6] OBut take a longer view and there is a surprising amount 
+that we can say with considerable assurance.❷As so often, the 
+past holds the key to the future: we have now identified enough of 
+the long-term patterns shaping the history of the planet, and our 
+species, to make evidence-based forecasts about the situations in 
+which our descendants will find themselves.
+[7] OThis long perspective makes the pessimistic view of 
+prospects seem more likely to be a passing fad.❷To be sure, the 
+future is not all rosy.❸But we are now knowledgeable enough to 
+reduce many of the risks that threatened the existence of earlier 
+humans, and to improve the lot of those to come.
+(31)直到几十年前，我们对未来的想象 
+尽管不完全一致，但总体上颇为乐观。科技会 
+解决人类的所有困难，使人们都能过上充满成 
+就感和机遇的生活。
+现在，随着我们对自己所面临的一系列威 
+胁——从小行星撞击到流感猖獗，再到气候变 
+化——有了更深刻的认识，这种乌托邦式的幻 
+想已经变得不再流行了。你甚至可能会不禁认 
+为，人类几乎没有未来可以期待了。
+但这种悲观是不合时宜的。化石记录表明， 
+许多物种已经延续了教百万年之久——那为什 
+么我们人类就不能呢？从更为广阔的视角来审 
+视我们这个物种在宇宙中的地位，我们就会明 
+白，即便我们不能存活几十万年，但再存活几 
+万年还是极有可能的。(32)在世界自然保护 
+联盟《濒危物种红色名录》中查阅“智人”这
+一词条，你会看到：“由于该物种分布极其广 
+泛，适应性强，目前数量还在持续增加，且不 
+存在导致整个族群数量减少的金大威胁，所以
+该物种被列为无危物种。”
+那么，我们遥远的未来会是什么样呢？越 
+来越多的研究者和组织都在认真思考这个问题。 
+例如，今日永存基金会将一台旨在几千年后依 
+然能够记录时间的机械钟列为它的旗舰项目。
+(33)或许有悖常理，但与思考不远的未 
+来相比，思考如此长远的时间跨度似乎更为容 
+现今技术的潜在发展及其社会影响复杂得 
+令人眩晕，或许最好的办法是把我们所能想象 
+到的诸多可能性留给科幻小说家和未来学家去 
+探索。这正是我们创办《弧》的原因之一，这 
+本新刊物致力于研究不久的将来。
+然而，从更长远的视角来看，我们可以对 
+数量惊人的事情做出相当准确的预测。(34)正 
+如通常情况下，过去掌握着打开未来之门的钥 
+匙：我们现在已经了解了足够多的形成地球和 
+我们人类历史的长期模式，这使得我们能够对 
+子孙后代所处的环境做出有理有据的预测。
+这种高瞻远瞩使得我们对人类前景的悲观 
+看法更像是一股短暂的风潮。诚然，未来并非 
+一片光明。但我们现在已经有足够的知识，能 
+够降低许多曾威胁早期人类生存的风险，并改 
+善后人的命运。
+, 18
+
+----- PAGE 19 -----
+旬R篇章结构
+人类应对
+未来持乐＜
+观态度
+第一、二段：引出话题——人j第一段：首先介绍过去人类对未来的态度——颇为乐观
+类对未来的态度1第二段：转而介绍现在人类对未来的态度——极度悲观
+第三段：提出观点并加以论证一一人们应乐观地看待未来，并从三个方面指出人类未来充满光明
+第四段：简要指出人类已经开始认真思考遥远的未来
+:第五段：指出与遥远未来相比近期未来更难预测
+.第六段：提出探索未来的关 
+~1 昔鉴过去的经验以更好地预测未来
+第七段：总结全文一一人类可用现有知识降低风险，使未来更光明
+第四至六段：具体阐述如何理 
+性地预测未来
+TH答案解析
+31. Our vision of the future used to be inspired by____
+过去，我们对未来的想象是受_____ 激
+• 发的。
+选项出处
+A. our desire for lives of fulfilment
+A,我们对充满成就感的生活的渴望
+一段❷句
+B. our faith in science and technology
+B.我们对科技的信心
+_段
+C. our awareness of potential risks
+C.我们对潜在风险的意识
+二段。句
+D. our belief in equal opportunity
+D.我们对机会均等的信念
+一段❷句
+【路径一】从题干的角度解答——如何得出正解
+找关键词：Our vision of the future和used to be。回文定位：根据关键词可定位至一段。句，其中后者与该句 
+中的a few decades ago相对应。比对匹配：该句提到，直到几十年前，我们对未来的想象尽管不完全一•致，但 
+总体上颇为乐观。由此无法得知过去我们对未来产生想象的背后原因是什么，故需联系下文。辐射匹配：一 
+段❷句提到，科技会解决人类的所有困难，使人们都能过上充满成就感和机遇的生活。这无疑流露出人们对 
+科技的巨大信心，人们因此对未来产生想象。由此可知，我们对未来的想象是受我们对科技的信心激发的， 
+故B正确。
+【路径二】从选项的角度解答一如何排除干扰
+一只关键商；liv=oFfulfilment「if：疫忘根蠢关键词可定位至一段❷句。比对匹配：该荷提到，科技会 
+A 使人们都能过上充满成就感和机遇的生活。可见充满成就感的生活是科学技术带来的结果，而非过去人
+1门龚琴未室的刊因:耳文出龙充晏曳冲宠满成就昼的竺s的遇里,Ao
+-莪芟锤商「awareness浦Zsks「百王走反-短点关蠹高吊套在紊三■。而"翼巾葡■著与该荷,葩 
+appreciation相对应，后者与该句中的threats相对应。比对匹配：该句提到，现在，随着我们对自己所面 
+C 临的一系列威胁有了更深刻的认识，这种乌托邦式的幻想已经变得不再流行了。可见，人们对自身所面 
+临的威胁有了更深刻的认识是现在人们对未来持消极态度的原因，而非过去人们对未来持乐观态度的原 
+些蜩整C’______________________________________________________________________________
+技关匏词：opportunityo商王定位：根通美腐词苛潍至一屎❷瓦任痢匹酉己：盘句盅到，m耘会麝长 
+D 人类的所有困难，使人们都能过上充满成就感和机遇的生活。D选项内容利用一段❷句中的opportunity 
+设置词汇干扰，原文中是指“充满机遇的生活”，而非“机会均等”，故排除D。
+32. The IUCN's "Red List" suggests that human beings
+世界自然保护联盟《濒危物种红色名
+选项出处
+are 
+.
+录》表明，人类是 
+。
+A. a sustained species
+A. 一个可以持续生存的物种
+三段。句
+B. a threat to the environment
+B,对环境的一种威胁
+三段。句
+C. the world's dominant power
+C.世界的主导力量
+原文未提
+D. a misplaced race
+D. 一个不合时宜的种族
+三段。句
+【路径一】从题干的角度解答——如何得出正解
+找关键词：The IUCN、"Red List”和human beings o回文定位：根据关键词可定位至二段❹句，其中 
+human beings与该句中的Homo sapiens （智人）相对应。比对匹配：该句提到，在世界自然保护联盟《濒危物 
+19 0
+
+----- PAGE 20 -----
+种红色名录》中查阅“智人”时会得到这样的信息：由于该物种分布极其广泛，适应性强，目前数量还在持 
+续增加，且不存在导致整个族群数量减少的重大威胁，所以该物种被列为无危物种。可见，《濒危物种红色 
+名录》表明，人类目前暂无生存危险，是一个可以持续生存的物种，故A正确。
+【路径二】从选项的角度解答一一如何排除干扰
+找关键词：threato回文定位：根据关键词并结合题干信息The IUCN和“Red List"可定位至三段@句。
+比对匹配：该句提到，《濒危物种红色名录》指出，不存在导致整个“智人”族群数量减少的重大威胁 
+B
+（threats）,此处的"threats"指导致智人数量减少的威胁，并非人类对环境造成的威胁。可见，B选项 
+内容利用三段❹句的threats设置词汇干扰，故排除。
+C ' c n茄内-蓉茬旻市羌剧否救上市
+*弟瓦瓦
+（奏京tit算南主享力亶而而美宿面、「饭排裱C?"
+-以关锤商「misplaced：-回玉走忘-粮海-巍鬲苛凫反室三海⑰荷「任弱无戒-窿］据至I］「表神羔如（A 
+D 类几乎没有未来可以期待了）是不合时宜的，并非人类这个种族不合时宜，故排除D。
+33. Which of the following is true according to Paragraph 5? 根据五段可知，下列哪项正确？ 
+选项出处
+A. Arc helps limit the scope of futurological studies. 
+A.《弧》有助于限定未来学的研究范畴。 
+五段❸句
+B. Technology offers solutions to social problems. 
+B.技术提供了解决社会问题的方法。 
+五段❷句
+C. The interest in science fiction is on the rise. 
+C.人们对科幻小说的兴趣在增加。 
+五段❷句
+D. Our immediate future is hard to conceive. 
+D.很难设想我们不远的未来。 
+五段❶句
+O浏览后发现，该题属于判断正误题，仅从选项角度解题最为高效。
+从选项的角度解答——如何得出正解，排除干扰
+找关键词：Arco回文定位：根据关键词可定位至五段❸句。比对匹配：该句提到，《弧》这本新刊物
+_堑力壬研宠丕久翊笑来二迫龙充磐理自有助于限定未来学的研究范畴，故排除Ao
+找关键词：Technology和social problems。回文定位：根据关键词可定位至五段❷句，其中后者与该句 
+B 中的social consequences相对应。比对匹配：该句提到，现今技术的潜在发展及其社会影响复杂得令人眩 
+晕，此处并未提及技术提供了解决社会问题的方法，故排除B。
+液关醐 :science fiction o 面或紊危:-根毒裁商苛凫，立室云瓦❷有「任耕远瓦-该面辘氤-成评嘉分 
+C 的办法是把我们所能想象到的诸多可能性留给科幻小说家和未来学家去探索，此处并未提及人们对科幻 
+小说的兴趣在增加，故排除C。
+'甄关靡商:-immediate future。「商支走夜；相疏蠹商同是反室五葭6面「化对云瓦:-弦面搪旬「成详看 
+D 悖常理，但与思考不远的未来相比，思考如此长远的时间跨度似乎更为容易。换言之，不远的未来很难 
+设想，故D正确。
+34. To ensure the future of mankind, it is crucial
+为了确保人类的未来，关键要
+O
+选项出处
+to
+A. explore our planet's abundant resources
+A,勘探地球上的丰富资源
+五段❷句、六段❷句
+B. adopt an optimistic view of the world
+B.树立积极的世界观
+一段。句
+C. draw on our experience from the past
+C.从过去汲取经验
+六段❷句
+D. curb our ambition to reshape history
+D.抑制我们重塑历史的雄心
+六段❷句
+【路径一】从题干的角度解答——如何得出正解
+找关键词：the future和is crucial to。回文定位：根据关键词荀定位至六段❷句，其中后者与该句中的holds 
+the key to表意相近。比对匹配：该句提到，过去掌握着打开未来之门的钥匙：对足够多的形成地球和人类历 
+史的长期模式的了解使得我们能够对子孙后代所处的环境做出有理有据的预测，这说明过去的发展模式能为 
+预测未来提供依据。可见，从过去汲取经验对人类的未来至关重要，故C正确。
+*20
+
+----- PAGE 21 -----
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：explore和planet。回文定位：根据关键词可分别定位至五段❷句和六段❷句。比对匹配：
+A 五段❷句提到，或许最好的办法是把我们能想象到的诸多可能性留给科幻小说家和未来学家去探索。六 
+段❷句提到，我们现在已经了解了足够多的形成地球和我们人类历史的长期模式。这两句均未提及勘探 
+整H丰可箜飒豹担茬值星"散排堡A。"
+找关键词：optimistico回文定位：根据关键词可定位至一段。句，其与该句中的positive表意相同。比对
+B 匹配：该句提到，我们对未来的想象总体上颇为乐观，但由此并不能推断出树立积极的世界观是确保人 
+美起S的关墨蜩喋B°____________________________________________________________________
+找关键词：reshape historyo回文定位：根据关键词可定位至六段❷句，其与该句中的shaping the history
+D 相对应。比对匹配：该句提到，我们现在已经足够了解形成地球和我们人类历史的长期模式，这使得我 
+们能够对子孙后代所处的环境做出有理有据的预测，即我们可以借鉴历史预测未来，而不是通过抑制人 
+类重塑历史的雄心来确保人类的未来，故排除D。
+35. Which of the following would be the best title for the 
+text?
+下面哪项是本文的最佳标题？
+选项出处
+A. Uncertainty about Our Future
+A.我们未来的不确定性
+六段❶句
+B. Evolution of the Human Species
+B.人类的进化
+三段
+C. The Ever-bright Prospects of Mankind
+C.人类的光明前景
+全文
+D. Science, Technology and Humanity
+D.科学、技术和人类
+全文
+O浏览后发现，该题属于主旨要义题，仅从题干角度解题最为高效。
+从题干的角度解答——如何得出正解，排除干扰
+梳理结构：本文共七段，一、二段引出话题，三段提出观点并加以论证，四至六.段具体阐述如何理性地预 
+测未来，七段总结全文。概括主旨：文章一、二段指出，过去人们对未来的想象颇为乐观，而如今这种乐 
+观已变为悲观。三段否定悲观论调，指出人类未来充满光明，并阐述原因：人类是可持续存在的物种。四 
+至六段分别从遥远未来和近期未来的角度阐述应如何理性地预测未来，并提出预测未来的关键方法：借鉴 
+过去的经验。七段总结全文：人类可用现有知识降低风险，使未来更光明。综上可知，本文主要围绕“人 
+类的未来”展开论述，由三段中作者对悲观论调的否定以及七段中对人类未来的乐观态度可知，全文旨在 
+一谗明一':人类的先一明一前景:'一这二主题:一故C正确°______________________________________________________  ....
+三段盅到，人类对未来的悲观是不合时宜的，并辅以有力论据证明人类生存的可持续性，旨在说明人类未 
+来的生存情况，并非介绍人类的进化历史，故排除B。文章六段。句指出，我们可以对数量惊人的事情做 
+出相当准确的预测，可见我们的未来是可预测的，并非充满着不确定性，故排除A。D选项内容为文章中多 
+次出现的几个词汇，以此设置词汇干扰，而且全文论述重点是“人类的未来”，因此该选项并不能概括全 
+文主旨，故排除。
+Text 4
+旬I命题分析
+St■■外教音濒
+Text 4选自2012年6月27日的％e Wall Street Journal （《华尔街日报》），原文标题为"Raising Arizona— 
+The Supreme Court Unanimously Rejects a White House Power Grab"（《支持亚利桑那州 联邦最高法院全票抵 
+制白宫夺权行为》）。本文属于政治题材类文章，主要围绕美国最高法院对亚利桑那州移民法案的两项判决展 
+开论述。
+题目设置：36题、38题、39题、40题为细节理解题，37题为判断正误题。
+m英汉对照
+[l]
+OOn
+ a five to three vote, the Supreme Court knocked out 
+美国最高法院周一以 5：3 的投票结果推翻了
+much of Arizona's immigration law Monday—a modest policy 亚利桑那州移民法的诸多条款，对奥巴马政府 
+21 >
+
+----- PAGE 22 -----
+victory for the Obama Administration.❷But on the more important 
+matter of the Constitution, the decision was an 8-0 defeat for the
+Administration's effort to upset the balance of power between the 
+federal government and the states.
+[2] ❶In Arizona v. United States, the majority overturned three 
+of the four contested provisions of Arizona's controversial plan to 
+have state and local police enforce federal immigration law.❷The 
+Constitutional principles that Washington alone has the power to 
+"establish a uniform Rule of Naturalization" and that federal laws 
+precede state laws are noncontroversial. ©Arizona had attempted to 
+fashion state policies that ran parallel to the existing federal ones.
+[3] OJustice Anthony Kennedy, joined by Chief Justice John 
+Roberts and the Court's liberals, ruled that the state flew too close 
+to the federal sun.❷On the overturned provisions the majority held 
+that Congress had deliberately "occupied the field,  and Arizona 
+had thus intruded on the federal5s privileged powers.
+**
+[4] ❶However, the Justices said that Arizona police would be 
+allowed to verify the legal status of people who come in contact with 
+law enforcement.❷That's because Congress has always envisioned 
+joint federal-state immigration enforcement and explicitly 
+encourages state officers to share information and cooperate with 
+federal colleagues.
+[5] OTwo of the three objecting Justices—Samuel Alito and 
+Clarence Thomas—
+—agreed with this Constitutional logic but 
+disagreed about which Arizona rules conflicted with the federal 
+statute.❷The only major objection came from Justice Antonin 
+Scalia, who offered an even more robust defense of state privileges 
+going back to the Alien and Sedition Acts.
+[6] OThe 8-0 objection to President Obama turns on what 
+Justice Samuel Alito describes in his objection as "a shocking 
+assertion of federal executive power."❷The White House argued 
+that Arizona's laws conflicted with its enforcement priorities, even 
+if state laws complied with federal statutes to the letter.❸In effect, 
+the White House claimed 由at it could invalidate any otherwise 
+legitimate state law that it disagrees with.
+[7] OSome powers do belong exclusively to the federal 
+government, and control of citizenship and 由e borders is among 
+them.❷But if Congress wanted to prevent states from using their 
+own resources to check immigration status, it could.❸It never did 
+so.❹The Administration was in essence asserting that because it 
+didn't want to carry out Congress's immigration wishes, no state 
+should be allowed to do so either.❺Every Justice rightly rejected 
+this remarkable claim.
+而言，这是一场小的政策胜利c但是在宪法这 
+一更为重要的问题上，最高法院以8：0的投票
+结果否定了奥巴马政府在打破联邦政府与各州 
+间权力平衡问题上所做的努力。
+亚利桑那州打算让州级和地方警察执行联 
+邦移民法，这一计划备受争议，在这场亚利桑 
+那州政府与联邦政府的较量中，大多数法官推 
+翻了四项受质疑条款中的三项。(36)宪法规 
+定，只有华盛顿有权“制定统一的归化条例”， 
+且联邦法律优先于州法律，这都是毋庸置疑的。 
+而亚利桑那州曾试图制定与现有联邦政策并行 
+的州政策。
+(36)大法官安东尼•肯尼迪与首席大法 
+官约翰-罗伯茨以及最高法院的自由派裁定该 
+州肆意挑成联邦政府的权威。对于被推翻的法 
+律条款，大多数法官认为，美国国会早已有意 
+地“占领了这个领域”，因此亚利桑那州侵犯 
+了联邦政府的特权。
+(37 )但是，大法官们表示，亚利桑那州 
+的警察有权在执法时核查相关人员的合法身 
+份。原因在于，国会一贯设想联邦和州政府联 
+合实施移民法，并明确鼓励州政府官员与联邦
+同事共享信息、相互合作。
+三位持反对意见的大法官中，有两位—— 
+塞缪尔-阿利托和克拉伦斯•托马斯——赞同 
+这种宪法逻辑，但是对于“亚利桑那州移民法 
+的哪些条例和联邦法相抵触”这个问题，他们 
+持不同意见。(38)唯一主要的异议来自大法 
+官安东尼•斯卡利亚，他极力捍卫州特权，这 
+些特权可追溯到《外国人与煽动叛乱法案》。
+这次反对奥巴马总统出现8：0的投票结果， 
+原因在于大法官塞缪尔-阿利托在其反对意见 
+中的描述：“对联邦行政权的维护令人震惊”。
+(39) 白宫认为，即便州法律一字不差地遵循联 
+邦法，亚利桑那州的法律和白宫的执法优先权 
+也是互相冲突的。实际上，白宫声称，它可以 
+废除任何一项虽合法但不被它认可的州法律。
+有些权力确实只属于联邦政府，其中包括 
+对公民身份和边界的控制权。然而，如果国会 
+想要阻止州政府使用自己的资源来核查移民身 
+份，它可以这么做。但国会却从未这样做过。
+(40) 政府实际上是在宣称，因为它不想执行 
+国会关于移民的意愿，所以各州也都不被允许 
+这么做。每位大法官都义正词严地反对这种异 
+乎寻常的主张。
+■ 22
+
+----- PAGE 23 -----
+IB 篇章结构
+第一段：引出话题——美国最高法院对亚利桑那州移民法案的两项判决
+美国最高法 
+院对亚利桑＜ 
+那州移民法 
+案的判决
+I•第二段：简述判决一的结果及依据一一最高法院推翻移民法中的三项 
+条款，原因是联邦法律优先于州法律
+第二至五段：论述判决一〈第三、应g段：说明判决一中多数票方的大法官推翻三项条款的原因以 
+及另一条被保留条款
+.第五段：介绍判决一中少数票方的大法官所持观点一一两人认为三项 
+条款并未抵触联邦法，另一人极力捍卫州特权
+第六段：简述判决二的结果及依据——最高法院以8:0的投票结果反对
+第六、七段：论述判决二〈 
+奥巴马政府，原因是白宫企图专权
+.第七段：阐述大法官的观点——反对联邦政府对移民法执行特权
+口答案解析
+36. 
+Three provisions of Arizona's plan were overturned 
+because they.
+A. deprived the federal police of Constitutional powers
+B. disturbed the power balance between different states
+C. overstepped the authority of federal immigration law
+D. contradicted both the federal and state policies
+亚利桑那州计划中的三项法律条款被推 
+翻，是因为它们。
+A, 剥夺了宪法赋予联邦警察的权力
+B, 打破了各州间的权力平衡
+C. 越权挑战了联邦移民法的权威
+D. 与联邦政策和州政策有冲突
+选项出处
+二段❶句
+一段❷句
+二、三段
+二段❸句
+【路径一】从题干的角度解答一一如何得出正解
+找关键词：Three provisions of Arizona's plan were overturnedo回文定位：根据关键词可定位至二段❶句，其与 
+该句中的 overturned three of the four contested provisions of Arizona's controversial plan 相对应。比对匹配：该句 
+提到，亚利桑那州关于移民法的计划中，四项受质疑条款中的三项被推翻，由此无法得知条款被推翻的原因， 
+故需联系下文。辐射匹配：二段❷❸句提到，联邦法律优先于州法律，这毋庸置疑，而亚利桑那州曾试图制 
+定与现有联邦政策并行的州政策。三段进一步指出，亚利桑那州被裁定肆意挑战联邦政府的权威，这些被推 
+L翻的条款侵犯了联邦政府的特权。综上可知,被推翻的条款越权挑战了联邦政府的特权，故C正确。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：federal和police确旻1 根据关键词可定位至二段❶句。比对匹配：该句指出，亚利桑
+A 那州打算让州级和地方警察执行联邦移民法，此处并未提及被推翻的三项法律条款剥夺了宪法赋予联邦 
+一弩琴一的权力，一一 A 一丝理四容逑度壁窿愿芙:一政排堡£__________________________________________________
+找关键词：disturbed the power balance between和states。回文定位：根据关键词可定位至一段❷句，其
+B 中前者与该句中的upset the balance of power between相对应。比对匹配：该句提到，奥巴马政府试图打破 
+枣押咂岂查处回豹丝妲萸"些处#
+*捐坐卒壤处理的苦建盯旋萱处回的权力政排堡
+B?
+找关键词：federal和state policies。回文定位：根据关键词可定位至二段❸句。比对匹配：该句指出，
+D 亚利桑那州曾试图制定与现有联邦政策并行的州政策，但无法推断出该州的三项法律条款与联邦政策有 
+冲突，且这三项法律条款本就属于该州的政策，不可能与自身产生冲突，故排除D。
+37. 
+On which of the following did the Justices agree, 由四段可知，大法官们认同以下哪项 »jjpaiftk 
+according to Paragraph 4? 
+内容？ 
+人"
+A. Federal officers' duty to withhold immigrants, information. 
+A,联邦官员有对移民信息保密的职责。 
+四段❷句
+B. States' independence from federal immigration law. 
+B.各州的移民法独立于联邦移民法。 
+四段@句
+C. States' legitimate role in immigration enforcement. 
+C.各州在移民法执行问题上有合法地位。 
+四段
+D. Congress's intervention in immigration enforcement. 
+D.国会可以干预移民法的执彳丁。 
+四段❷句
+£＞浏览后发现，该题属于判断正误题，仅从选项角度解题最为高效。
+从选项的角度解答——如何得出正解，排除干扰
+找关键词：Federal、officersimmigrants和information。回文定位：根据关键词可定位至四段❷句，其 
+中immigrants与该句中的immigration为同根词。比对匹配：该句指出，国会一贯设想联邦和州政府联合 
+23 0
+
+----- PAGE 24 -----
+实施移民法，并明确鼓励州政府官员与联邦同事共享信息、相互合作。此处提到共享信息，与“对移民I 
+信息保密”相矛盾，故排除A。
+找关键词：States、federal和immigration lawo回文定位：根据关键词并结合题干信息Paragraph 4可定位j 
+至四段❷句，其中immigration law与该句中的immigration enforcement相对应。比对匹配：该句仅提到； 
+B 国会希望联邦和州政府联合实施移民法，由此无法得知各州移民法与联邦移民法之间的关系，且结合文
+蔓的至祯囚卸:一段理遂建足体丁普遂隹的一，一切以的菅岛遂仝能视其丁联叩移一民琶"遂推除一 B?_ _
+找关键词：States和immigration enforcement。回文定位：根据关键词可定位至四段❷句。比对匹配：该 
+句提到，国会鼓励各州和联邦政府在移民法执行问题上共享信息、相互合作。这里并未提及大法官们是 
+C 否赞同国会的这一观点，但由该句句首的That's because可知，本句应为四段❶句的解释，故需联系上
+文分析。辐射匹配：四段❶句提到，大法官们表示，亚利桑那州的警察有权在执法时核查相关人员的合
+法身份，换言之，大法官认同各州在移民法执行问题上的合法地位，故C正确。
+找关键词：Congress和immigration enforcement。回文定位：根据关键词可定位至四段❷句。比对匹配：
+D 该句提到，国会希望联邦和各州政府联合实施移民法，由此无法得知国会可以干预移民法的执行；且根
+据常识，在美国三权分立原则下，国会是最高立法机构，不能干预执法，故排除D。
+38. It can be inferred from Paragraph 5 that the Alien and 
+Sedition Acts______ .
+从五段可推断出，《外国人与煽动叛乱 
+法案》 
+。
+选项出处
+A. violated the Constitution
+A.违反了宪法
+五段。句
+B. undermined the states' interests
+B.损害了各州的利益
+五段❷句
+C. supported the federal statute
+C.支持联邦法
+五段。句
+D. stood in favor of the states
+【路径一】从题干的角度解答——如何得出正解
+D.维护各州的利益
+五段❷句
+找关键词：Paragraphs和the Alien and Sedition Acts。回文定位：根据关键词可定位至五段❷句。比对匹配： 
+该句提到，安东尼•斯卡利亚大法官极力捍卫州特权，这些特权可追溯到《外国人与煽动叛乱法案》。由此可知,
+《外国人与煽动叛乱法案》捍卫州特权，即维护各州的利益，故D正确。
+【路径二〕从选项的角度解答一一如何排除干扰
+找关键词：violated和Constitution。回文定位：根据关键词可定位至五段❶句，其中violated与该句中的 
+objecting和disagreed相对应，Constitution与该句中的Constitutional为同根词。比对匹配：该句指出，两 
+A 位法官赞同这种宪法逻辑，但对于“亚利桑那州移民法的哪些条例与联邦法相抵触”这个问题，他们持
+丕同度座一些处光枣婴一《夕堕A与学整电遂篓》一 5整木回的为冬一致推陛A二__
+找关键词：states，interests。回文定位：根据关键词可定位至五段❷句，其与该句中的state privileges相
+B 对应。比对匹配：该句提到，大法官安东尼•斯卡利亚极力捍卫州特权，这些特权可追溯到《外国人与 
+煽动叛乱法案》，由此可知，《外国人与煽动叛乱法案》捍卫州特权，而非损害了各州的利益，故排除B。
+-免至殖商:-the federal'statute? 0'煎羸关遍有茶豁筋衬言息「Paragraph 5宜走&至5海©有「 
+比对匹配：该句提到，两位大法官对于“亚利桑那州移民法的哪些条例和联邦法相抵触”这个问题持不 
+c 同意见（即他们并不认同亚利桑那州关于移民法的三项条款与联邦法相抵触），可见此处并未提及联邦 
+法与《外国人与煽动叛乱法案》之间的关系，故排除C。 
+39. The White House claims that its power of 
+enforcement 
+.
+白宫声称其执法权______ 。
+选项出处
+A. outweighs that held by the states
+A.高于各州
+六段❷❸句
+B. is dependent on the states5 support
+B.依赖于各州的支持
+原文未提
+C. is established by federal statutes
+C.由联邦法律确立
+五段❶句、六段❷句
+D. rarely goes against state laws
+D,很少与州法律相违背
+六段❷❸句
+【路径一】从题干的角度解答——如何得出正解
+找关键词：The White House。回文定位：根据关键词可定位至六段❷❸句。比对匹配：六段❷句提到，白宫 
+认为，即便州法律一字不差地遵循联邦法，亚利桑那州的法律和白宫的执法优先权也互相冲突；六段❸句提 
+■ 24
+
+----- PAGE 25 -----
+到，白宫声称它可以废除任何一项虽合法但不被它认可的州法律。综上可知，白宫认为它的执法权高于各州， 
+故A正确。
+【路径二】从选项的角度解答——如何排除干扰
+B B选项内容在文中无法定位上见中壁木建及白垂松其热遂想佬觌主色普克最的担茬值具:一敢期箜B?_
+-我-关'遍瓦Wderaf statutes：危旻崟也一而蠢美/曲2电位至五段O面和六段❷有"匕房匹豆：五每。而 
+提到，两位大法官对于“亚利桑那州移民法的哪些条例和联邦法相抵触”这个问题持不同意见（即他们 
+C 并不认同亚利桑那州关于移民法的三项条款与联邦法相抵触）。六段❷句指出，白宫认为即便州法律一 
+字不差地遵循联邦法，亚利桑那州的法律和白宫的执法优先权也是互相冲突的。可见这两处均未提及白 
+宫的执法权是由联邦法律确立的，故排陶_____________________________________________________
+-应关键商「state'laws。百王孟思:晟窟关键词
+*结合题干詹息
+The White House可走位至六段❷❸句。
+比对匹配：六段❷❸句指出，白宫认为与亚利桑那州的法律其执法优先权互相冲突，且自身有权废除虽 
+D 合法但不被它认可的州法律。可见，白宫的执法权与州法律是有可能互相冲突，相互违背的，D选项“白 
+宫执法权很少与州法律相违背”与此表意相反，故排除。
+40. What can be learned from the last paragraph?
+从最后一段可以了解到什么？ 
+选项出处
+A. Immigration issues are usually decided by Congress.
+B. Justices intended to check the power of the Administration.
+C. Justices wanted to strengthen its coordination with Congress.
+D. The Administration is dominant over immigration issues.
+A, 移民问题通常由国会决定。
+B. 大法官们打算限制政府的权力。
+C. 大法官们想要加强与国会的合作。
+D. 政府在移民问题上有主导权。
+七段❷❸❹句
+七段
+七段❷至。句 
+七段❹句
+【路径一】从题干的角度解答——如何得出正解
+找关键词：the last paragraph。回文定位：根据关键词可直接定位至七段。比对匹配：七段❶句指出，对公 
+民身份及边界的控制权确实只属于联邦政府；七段❷❸两句提到，国会有权阻止州政府核查移民身份，但却 
+从未这样做；七段。句指出，联邦政府自己不想执行国会关于移民的意愿，所以各州也都不被允许这么做； 
+七段❺句表明大法官明确反对联邦政府的主张。综上可知，大法官对于联邦政府滥用职权的行为持反对态度， 
+因此想对其权力加以限制，故B正确。
+【路径二】从选项的角度解答——如何排除干扰
+找关键词：Immigration和Congress。回文定位：根据关键词并结合题干信息the last paragraph可定位至七 
+段❷❸❹句，其中七段❸句中的It指代Congresso比对匹配：七段❷❸句指出，国会有权阻止州政府使 
+A 用自己的资源核查移民身份，但国会却从未这样做；七段。句接着提到，联邦政府宣称，自己不想执行 
+国会关于移民的意愿，因此其他各州都不被允许这么做。综上可知，国会实际上对移民问题可以进行干涉， 
+但肉嶂凌邂卸圄舍迪宣田迭定移民回题，一一 A 一选项内容凰于过度推断"故排除一。____________________
+找关键词：Justices和Congress。回文定位：根据关键词并结合题干信息the last paragraph可定位至七段 
+C ❷©。。句，其中七段❸句中的It指代Congresso比对匹配：浏览发现，这几句中仅提到，大法官反对联
+押业庄（寸移岛迭州彳祯寺球的肖为,控褒及大法富龚罢加剧与国会之间的合作八故排除G______
+找关键词：The Administrationo回文定位：根据关键词并结合题干信息the last paragraph可定位至七段 
+° ❹句。比对匹配：该句中的The Administration实指联邦政府，它宣称自己不想执行国会关于移民的 
+意愿，因此其他各州也不能这么做。可见，联邦政府意图主导移民问题，但这只是自己的主观意愿，并 
+非事实，故排除D。 
+♦ Part B ,~
+皿1命题分析
+配套外教音频
+该部分选自2012年4月26日的Nature （《自然》）杂志，原文标题为“Global Issues： Make Social Sciences 
+Relevant” （《解决全球性问题：让社会科学更具有现实意义》）。本文是一篇议论文，主要围绕社会科学在解 
+决全球问题上贡献不足展开论述。今年新题型沿袭了 2012年的七选五题型，正确选项中往往含有上下文中出现 
+25 •
+
+----- PAGE 26 -----
+的原词、原词的同义词或反义词，且与上下文在逻辑上连贯通顺，而干扰项的设置往往偏离文章或段落的主题。
+英汉对照
+[l]
+OThe
+ social sciences are flourishing. ©As of 2005, there 
+were almost half a million professional social scientists from all 
+fields in the world, working both inside and outside academia. 
+©According to the World Social Science Report 2010, the number 
+of social-science students worldwide has swollen by about 11% 
+every year since 2000.
+[2] ❶Yet this enormous resource is not contributing enough 
+to today's global challenges, including climate change, security, 
+sustainable development and health. (41)E. ©These issues all 
+have root causes in human behavior: all require behavioral 
+change and social innovations, as well as technological 
+development.❸Stemming climate change, for example, is as 
+much about changing consumption patterns and promoting tax 
+acceptance as it is about developing clean energy. ©Humanity 
+has the necessary agro-technological tools to eradicate hunger, 
+from genetically engineered crops to artificial fertilizers.❺Here, 
+too, the problems are social: the organization and distribution of 
+food, wealth and prosperity.
+[3] (42)F. ODespite these factors, many social scientists 
+seem reluctant to tackle such problems.❷And in Europe, 
+some are up in arms over a proposal to drop a specific funding 
+category for social-science research and to integrate it within 
+cross-cutting topics of sustainable development. ©This is a 
+shame—the community should be grasping the opportunity 
+to raise its influence in the real world.❹To paraphrase the 
+great social scientist Joseph Schumpeter: there is no radical 
+innovation without creative destruction.
+[4] OToday, the social sciences are largely focused on 
+disciplinary problems and internal scholarly debates, rather 
+than on topics with external impact.❷Analyses reveal that 
+the number of papers including the keywords ^environmental 
+change" or "climate change" have increased rapidly since 2004. 
+(43)B. ©However, the numbers are still small: in 2010, about 
+1,600 of the 100,000 social-sciences papers published globally 
+included one of these keywords.
+[5] OWhen social scientists do tackle practical issues,
+their scope is often local: Belgium is interested mainly in the 
+effects of poverty on Belgium, for example. •And whether the 
+community's work contributes much to an overall accumulation 
+of knowledge is doubtful. 
+-
+[6] ❶The problem is not necessarily the amount of available 
+funding. (44)G. ©During the late 1990s, national spending 
+on social sciences and the humanities as a percentage of all 
+research and development funds—
+—including government, higher 
+社会科学正在蓬勃发展。截至2005年， 
+全世界有近50万来自世界各个领域的专业社
+会科学家活跃于学术界内外。根据《2010年 
+世界社会科学报告》，自2000年以来，世界 
+各地社会科学专业的学生数量每年以大约11% 
+的速度增长。
+然而，如此庞大的资源并没有为应对当今 
+的全球性挑战做出足够贡献，这些挑战包括气 
+候变化、安全问题、可持续发展和健康问题。 
+(41 ) E,造成这些问题的根本原因都在于人类 
+行为：所有这些问题都需要通过行为方式的改 
+变、社会创新以及技术发展来解决。例如，在 
+遏止气候变化方面，改变消费模式和提高税收 
+接受度与开发房洁能源同样重要。从转基因作 
+物到人造化肥，人类拥有必要的农业技术手段 
+以消除饥饿。然而这些问题也是社会性问题， 
+如食品、财富和繁荣的组织与分配。
+(42 ) F.尽管存在这些因素，但许多社会 
+科学家似乎不太愿意去处理这些问题。在欧 
+洲，有些人竭力反对一项“终止专用于社会科 
+学研究的资金，转而将其融入可持续发展的跨 
+领域课题”的提案。这是一件令人遗憾的 
+事——社科界应抓住机会，提升其在现实世界 
+中的影响力。用伟大的社会科学家约瑟夫•熊 
+彼特的话来说：没有创造性的毁坏就没有根本 
+性的变革。
+今天，社会科学主要关注学科问题和内部 
+学术辩论，而不是具有外部影响的话题。分析 
+显示，自2004年以来，含有关键词"环境变 
+化”或"气候变化”的论文数量迅速增加。 
+(43 ) B.然而，论文总量仍然很少：2010年， 
+全球发表的10万篇社会科学类论文中，约有 
+1600篇包含了这些关键词之一。
+当社会科学家们真正处理实际问题时，他 
+们的关注范围往往仅限于当地：例如，比利时 
+(的社会科学家)的兴趣主要集中在“贫困对 
+比利时的影响”方面。而社科界的工作是否能 
+极大地促进整体知识积累却令人怀疑。
+问题并不一定在于可用资金数目的多少。
+(44 ) G, 20世纪90年代后期，国家在社会科 
+学和人文科学领域的支出在所有研究和开发资 
+金(包括政府部门、高等教育机构、非营利组
+, 26
+
+----- PAGE 27 -----
+education, non-profit and corporate—varied from around 4% to 
+25%; in most European nations, it is about 15%.❸This is an 
+adequate amount so long as it is aimed in the right direction. 
+©Social scientists who complain about a lack of funding should 
+not expect more in today5s economic climate. ”
+[7]
+OThe
+ trick is to direct these funds better.❷The 
+European Union Framework funding programs have long had a 
+category specifically targeted at social scientists. ©This year, 
+it was proposed that the system be changed: Horizon 2020, 
+a new program to be enacted in 2014, would not have such a 
+category.❹This has resulted in protests from social scientists. 
+❺But the intention is not to neglect social science; rather, the 
+complete opposite. (45)C. ©The idea is to force social scientists 
+to integrate their work with other categories, including health 
+and demographic change; food security; marine research and the 
+bio-economy; clean, efficient energy; and inclusive, innovative 
+and secure societies. OThat should create more collaborative 
+endeavors and help to develop projects aimed directly at solving 
+global problems.
+其他选项精译
+A. It could be that we are evolving two communities of social 
+scientists: one that is discipline-oriented and publishing in 
+highly specialized journals, and one that is problem-oriented 
+and publishing elsewhere, such as in policy briefs.
+D. The solution is to change the mindset of the academic 
+community, and what it considers to be its main goal. Global 
+challenges and social innovation ought to receive much more 
+attention from scientists, especially the young ones.
+织与企业）中所占的比例大约在4%到25%之 
+间；在大多数欧洲国家，这一比例约是15%。 
+只要使用的方向正确，这笔资金就是足够的。 
+在如今的经济环境下，那些抱怨资金缺乏的社 
+会科学家不应该期待更多了。
+诀窍在于更好地引导这些资金的使用。欧 
+盟框架计划下的资助项目长久以来一直设有 
+一个针对社会科学家的专项类别。今年，有 
+人提议改变这一体制：将于2014年实施的新计 
+划“地平线2020”不会再设置这一类别。这引 
+起了社会科学家的抗议。但是，该提议的本 
+意并不是要忽视社会科学，而是恰恰相反。 
+（45）C.其本意是要迫使社会科学家把自己的 
+工作和其他领域结合起来，包括健康和人口变 
+化，食品安全，海洋研究和生物经济，清洁高 
+效的能源以及包容、创新和安全的社会。这会 
+激起更多的协作性努力，有助于开发直接针对 
+解决全球性问题的项目。
+A.可能我们正在形成两种类型的社会科学家 
+群体：一种以学科为导向，在高度专业化 
+的期刊上发表文章；另一种以问题为导向， 
+在诸如“政策简报”的其他刊物上发表文章。
+D.解决的办法是改变学术界的思维方式和其 
+对学术界主要目标的认识。全球挑战与社 
+会创新应该得到科学家，特别是年轻科学 
+家的更多关注。
+（注：“关键语段特征关系词附表”见前言）
+『II篇章结构
+「第一段：开门见山地指出社会科学正在蓬勃发展
+社会科学 
+应在解决 
+全球性问＜ 
+题上发挥 
+更大作用
+第一至三段：提出问题］第二段：转而指出社会科学在应对全球性挑战上贡献不足
+〔第三段：指出社会科学家不愿意应对全球性问题
+•第四段：原因----- 社会科学主要关注学科问题和内部学术辩论，缺乏对外
+第四、五段：分析原因十 
+部实际问题的研究
+第五段：原因二——社会科学家处理实际问题时具有地域局限性
+第六、七段：解决问题J第六段：首先指出社会科学研究存在的问题并非缺乏资金
+［第七段：接着表明社会科学家应合理利用资金，并以欧盟框架计划下的资助
+项目为例，介绍其改革方向及其带来的积极影响
+m答案解析
+第一步：分析语段特征词，快速解题
+【角度一】看原文
+41第1步：空格前的语段特征词有Yet和this;空格后的语段特征词有too。Yet和this位于段首，体现其所在 
+句与上段内容的逻辑关系，不涉及与空格处的逻辑关系；too体现其所在句与上文的并列关系，表明上文必然出
+27 »
+
+----- PAGE 28 -----
+现社会问题的相关表述。综上，只有空格后的to。适合快速解题。第2步：空格后提到，人类已经拥有消除饥饿 
+的农业技术手段，然而“这些问题(the problems )",即食品、财富和繁荣的组织与分配也是社会性问题。可见， 
+空格内容也应对全球性挑战问题进行分析或提及其他社会性问题。浏览备选项发现，E选项提到，造成问题的根 
+本原因在于人类行为，并指明问题需要通过行为方式的改变、社会创新以及技术发展来解决；同时，以遏止气候 
+变化为例，说明人类行为的重要性。此处对问题原因的分析说明了全球性挑战的社会性，与空格后所提到的“社 
+会性问题”相呼应；同时遏止气候变化的事例也与空格后提到的转基因作物和人造化肥的例子相承接，说明全球 
+性挑战这一问题的社会性，即在拥有必要技术手段的情况下仍需注重人类自身行为；且选项中的These issues与 
+空格前的 climate change, security, sustainable development and health 相呼应，故 E 为答案选项。 
+[答案 E]
+42空格前的语段特征词有too;空格后的语段特征词有This和its。空格前的too已在41题中进行分析，不涉 
+及与空格处的逻辑关系，此处不再赘述；This指代空格处内容，但浏览其所在句，并未发现可辅助解题的信息； 
+its指代其所在句中的the communityo以上语段特征词均无参考价值，故不适合快速解题。
+43空格前的语段特征词有rather than;空格后的语段特征词有their, for example和And。rather than体现句 
+内转折关系；their指代其所在句中的social scientists; for example体现句内举例关系；And体现其所在句与上 
+一句的并列关系。以上语段特征词均无参考价值，故不适合快速解题。
+44第1步：空格前无语段特征词；空格后的语段特征词有This, so long as和it。This表明空格处会出现 
+adequate amount的相关表述；so long as体现句内条件关系；it指代其所在句中的an adequate amounto综上，只 
+有空格后的This适合快速解题。第2步：浏览备选项发现，只有G选项用具体的数字说明了国家在社会科学与 
+人文科学领域的支出在所有研究和开发资金中所占的比例，而这一资金量恰是空格后This所指，且其与空格前 
+的the amount of available funding相呼应，故G为答案选项。 
+【答案G】
+45空格前的语段特征词有these, it, such, This, But和rather;空格后的语段特征词有That。these所在句位 
+于段首，体现其所在句与上段间的逻辑关系；it为形式主语，体现句内关系；such (a category )指代其上句提到 
+的a category specifically targeted at social scientists; &句句首的This指代其上句内容；But体现其所在句与上句的 
+转折关系；rather体现句内转折关系；That指代空格处内容，但浏览其所在句，并未发现可辅助解题的信息。以 
+上语段特征词均无参考价值，故不适合快速解题。
+【角度二】看选项
+A该选项中的语段特征词有It和such as。It为形式主语，such as表举例，二者均体现句内关系，不涉及选项 
+与其上下文之间的逻辑关系，故不适合快速解题。
+B 第1步：该选项中的语段特征词有However和these。However表明该选项与上文内容在语义上构成明显 
+的转折关系；these指代其所在句中的keywordso综上，只有However适合快速解题。第2步：选项中提到the 
+numbers are still small,则上文亦应围绕the numbers进行论述，且在语义上与small构成一定的转折关系。快速浏 
+览文章发现，只有 43 空前出现了 the number...have increased rapidly...,且其与 B 选项中的 the numbers are still small 
+构成转折关系。此外，空格前的including the keywords与选项中的included one of these keywords相呼应’故B选项 
+应填入43空。 
+【所填位置43空】
+C 该选项中的语段特征词有their和includingo their指代其所在句中的social scientists, including体现句内举 
+例关系，二者均不涉及选项与其上下文之间的逻辑关系，故不适合快速解题。
+D 该选项中的语段特征词有it和itso it和its均指代其所在句中的academic community,不涉及选项与其上下 
+文之间的逻辑关系，故不适合快速解题。
+-----------------------------------------------------------------------------------------U-------------------------------------------------------------------
+E 第1步：该选项中的语段特征词有These, as well as, for example和ito These (issues )表明上文必有其具体指 
+代； as well as 体现句内并列关系；for example体现句内举例关系；it指代其所在句中的Stemming climate changeo 
+综上，只有These涉及选项与其上下文之间的逻辑关系，故适合快速解题。第2步：由These issues可知，上 
+文应提及多个带有负面感情色彩的事件。快速浏览文章发现，41空前出现的climate change, security, sustainable
+■ 28
+
+----- PAGE 29 -----
+development and health为其前global challenges (全球性挑战)的具体说明，符合此处感情色彩；且E选项对造成 
+问题的根本原因进行分析，并提及遏止气候变化的具体事例，与空格前的climate change进行呼应，逻辑合理， 
+衔接自然，故E选项应填入41空。 
+【所填位置41空】
+F 第1步：该选项中的语段特征词有Despite, these, such, And和it。Despite体现句内让步关系；these ( factors ) 
+和such ( problems )表明上文必然出现其分别指代的内容；And体现其所在句与上一句的顺承关系；it指代其所在 
+句中的a specific funding categoryo综上，these和such适合快速解题。第2步：快速浏览文章发现，41空前提到 
+global challenges (即 problems ),并举例说明，但并未提到 factors; 42 空前出现的 the problems 和 the organization 
+and distribution of food, wealth and prosperity 分别与 F 选项中的 such problems 和 these factors 相呼应。42 空前提到 
+这些问题是社会性问题；F选项提到尽管存在这些因素，但许多社会科学家似乎不太愿意去处理这些问题，言下 
+之意即为社会科学家本应处理这些问题；将F选项代入42空，即表达“社会科学家应该处理社会性问题”之意， 
+符合逻辑，且上下文衔接自然，故F选项应填入42空。 
+【所填位置42空】
+G 该选项中的语段特征词有including和it。including体现句内举例关系，it指代其所在句中的percentage, 
+二者均不涉及选项与其上下文之间的逻辑关系，故不适合快速解题。
+第二步：理清空格前后逻辑，回文精解
+45第1步：空格前提到，体制改革提议的本意并不是要忽视社会科学，而是完全相反；空格后内容则指出， 
+这会激起更多的协作性努力，有助于开发直接针对解决全球性问题的项目。空格前后内容语义衔接并不紧密。 
+由此可推断，空格处内容应该承上启下，指明空格后That具体指代的同时能将上下文紧密衔接起来。因空格前 
+只提到，提议的本意并非要忽视社会科学，而是完全相反，但并未对其做进一步说明，因此空格处内容可能表 
+达重视社会科学的相关含义。第2步：浏览备选项发现，C选项提到，其本意是要迫使社会科学家把自己的工作 
+和其他领域结合起来。该选项在对空格前“提议的本意”进行具体说明的同时，又呼应了空格后提到的“协作 
+性努力”；且选项中的The idea is to...与空格前的the intention is not to...语义呼应、形式对仗，integrate...with...与 
+空格后的collaborative相呼应，故C为答案选项。 
+【答案C]
+—* Part C 
+瞬
+m命题分析 
+S
+今年的翻译文章选自斯坦福大学教授Robert Pogue Harrison (罗伯特•波格•哈里森)的著作Gardens: An 
+Essay on the Human Condition (《花园：谈人之为人》)的第四章uHomeless Gardens
+**
+ (《无家而园》)。本文 
+是一篇哲理散文，以无家可归者创造的花园为例，讲述了花园与人类诉求之间的联系。文中重点考查了状语从句、 
+定语从句、形式主语、强调句等语法点，同时也考查了一些词汇和短语(the homeless、strikedemoralization、 
+psychological condition 和 justify 等)及固定用法(for alk speak of、as such 和 blame on 等)的翻译。考生在翻译 
+时需注意词汇和句式的灵活处理，并在平时的学习中多积累一些相关词汇及表达。
+英汉对照
+[1]❶It is speculated that gardens arise from a basic human 
+need in the individuals who made them: the need for creative 
+expression.❷There is no doubt that gardens evidence an 
+irrepressible urge to create, express, fashion, and beautify and 
+that self-expression is a basic human urge; (46) yet when one 
+looks at the photographs of the gardens created by the homeless, 
+it strikes one that, for all their diversity of styles, these gardens 
+speak of various other fundamental urges, beyond that of 
+decoration and creative expression.
+[2] OOne of these urges has to do with creating a state of 
+peace in the midst of turbulence, a "still point of the turning 
+据推测，花园的出现，源于花园建造者的 
+基本人类需求，即对创造性表达的需求。毫无
+疑问，花园证明了人类有一种不可抑制的创造、 
+表达、塑造和美化的诉求，自我表达也实属基 
+本的人类诉求。(46)然而，当看到由无家可 
+归者创造的花园的照片时，你就会突然意识到， 
+尽管风格多样，但这些花园除了体现(人类) 
+装饰和创造性表达方面的诉求之外，还道出了 
+人类各种其他根本的诉求。
+根本诉求之一与在动荡中创造一种平静的 
+状态有关，借用T.S.艾略特的话来说，就是“运
+29 W
+
+----- PAGE 30 -----
+world," to borrow a phrase from T.S. Eliot.❷(47) A sacred 
+place of peace, however crude it may be, is a distinctly human 
+need, as opposed to shelter, which is a distinctly animal need. 
+❸This distinction is so much so that where the latter is lacking, 
+as it is for these unlikely gardeners, the former becomes all 
+the more urgent. ©Composure is a state of mind made possible 
+by the structuring of one's relation to one's environment. 
+❺(48) The gardens of the homeless, which are in effect homeless 
+gardens, introduce form into an urban environment where it 
+either didn't exist or was not discernible as such.❻In so doing 
+they give composure to a segment of the inarticulate environment 
+in which they take their stand.
+[3]
+OAnother
+ urge or need that these gardens appear to 
+respond to, or to arise from, is so intrinsic that we are barely 
+转不息的世界中静止的点”。（47）安宁的圣地 
+体现了人类特有的需求，无论怎样疏于雕琢， 
+都与遮风挡雨之所不同，后者反映了动物特有 
+的需求。这两者间的区别如此之大,以至于在 
+缺失后者（遮风挡雨之所）时，对前者（安宁的 
+圣地）的需求就愈加迫切，这正是不太像园丁 
+的园丁所处的现状。宁静是一种心境，要通过 
+构建人与环境间的关系来实现。（48）这些无 
+家可归者的花园实际上是无定所的花园，它们 
+将“形式”引入城市环境中，而这种“形式” 
+在城市环境中要么不曾存在，要么没有被当作 
+“形式”看待。通过这种方式,花园就给自己 
+立足的那片沉默无言的环境赋予了宁静。
+这些花园似乎还反映着或是源自另一种诉 
+求或需要，这种诉求或需要如此根深蒂固以至
+ever conscious of its abiding claims on us.❷When we are 于我们几乎意识不到它对人类持久的索求。当
+deprived of green, of plants, of trees, (49) most of us give in 
+to a demoralization of spirit which wc usually blame on some 
+psychological conditions, until one day we find ourselves in a 
+garden and feel the oppression vanish as if by magic. ©In most 
+of the homeless gardens of New York City the actual cultivation 
+of plants is unfeasible, yet even so the compositions often seem 
+to represent attempts to call forth the spirit of plant and animal 
+life, if only symbolically, through a clumplike arrangement of 
+materials, an introduction of colors, small pools of water, and 
+a frequent presence of petals or leaves as well as of stuffed 
+animals.❹On display here are various fantasy elements whose 
+reference, at some basic level, seems to be the natural world. 
+❺(50) It is this implicit or explicit reference to nature that fully 
+justifies the use of the word garden, though in a "liberated" 
+sense, to describe these synthetic constructions.❻In them we 
+can see biophilia—a yearning for contact with nonhuman life— 
+assuming uncanny representational forms.
+我们被剥夺了绿色、植物和树木时，（49）去 
+多数人会陷入精神萎靡的状态，并常常将此归 
+咎于某些心理疾病，直到有一天置身花园，才 
+顿觉压抑感好像神奇地消失了。在纽约大多数 
+无定所的花园中，实际种植植物是不可行的， 
+但即便如此，这些花园的构造似乎常常体现了 
+试图唤起动植物生命气息的种种努力（即便只 
+是象征性的） 通过簇丛式地布置材料，引 
+入不同的颜色，设置小水潭，到处撒满花瓣 
+或树叶，以及填充动物玩具。这里展示的是各 
+种奇幻的元素，这些元素的参照在某种基本的 
+层面上似乎就是自然界。（50）虽然有“扩大 
+词义外延”的意味，但正是这种对大自然或含 
+蓄或明显的参照，充分证明了使用“花园” 一 
+词来描述这些人造建筑的合理性。从这些花园 
+中，我们可以看到人类热爱生命的天性，即一 
+种亲近大自然的渴望，而这种天性中呈现出各 
+种离奇的表现形式C.
+1CT篇章结构
+花园体现j第一段：提出观点——花园既体现了人类对创造性表达的需求，也体现了其他根本诉求 
+了人类的］第二、三段：论述观点——人类建造花园的两j第二段：诉求----- 在动荡中创造一种平静的状态
+根本诉求 
+种根本诉求 
+［第三段：诉求二——亲近大自然
+旬I答案解析
+46.【试题原句】 ① yet when one looks at the photographs of the gardens created by the homeless, 0.5分〃② it strikes one 
+that, 0.5分// ③ for all their diversity of styles, these gardens speak of various other fundamental urges, 0.5分//④ beyond 
+that of decoration and creative expression. °.5分
+■ 30
+
+----- PAGE 31 -----
+【结构分析】
+见逐词逐句精讲册P140
+【考点梳理】
+1.时间状语从句；2.过去分词短语作后置定语；3. it作形式主语。
+【翻译难点】
+词汇或表达
+正译
+误译
+the homeless
+无家可归者，无家可归的人们
+无家可归的
+strike [straik] v.
+奏然意识到；突然想到
+打击，敲击；罢工
+for all
+尽管，虽然
+对于所有的
+speak of
+表达了，表明，说明
+说到，提到
+urge [3：d3] n.
+诉求，需求，欲望
+主张，催促
+beyond [bfjnnd] prep.
+除……之外
+超过
+【常规翻译】
+拆译： > ①yet when one looks at the photographs of the gardens created by the homeless:这部分中，句首的转折连 
+词yet可译为“然而，但是” ;one是when引导的时间状语从句的主语，表泛指，此处结合全文语境可译为“你”； 
+the photographs of the gardens 译为“花园的照片”；created by the homeless 作后置定语修饰 the gardens,其中 
+the homeless是“the +形容词”结构，表示一类人，可译为“无家可归者”，故该后置定语可前置译为“由无 
+家可归者创造的”。综上，这部分可整体译为“然而，当你看到由无家可归者创造的花园的照片时”。A②it 
+strikes one that:这部分中，it strikes sb. that句型表75 “某人突然意识到；某人突然想到”,故此部分可译为 
+“你突然意识到”，为了符合汉语的表达习惯，可在“突然”前增译“就会”，故这部分可调整译为“你就 
+会突然意识到"。A ③for all their diversity of styles, these gardens speak of various other fundamental urges:这部分 
+中，for all是固定短语，可译为“尽管，虽然” ；their指代下文中的these gardens （这些花园），此处可具体 
+译出；diversity of styles意为“风格的多样”,故可将for all their diversity of styles译为“这些花园尽管风格多 
+样”；为避免译文重复，可省译此处的these gardens;短语speak of译为“表明，说明”；various意为“各种”; 
+other fundamental urges可译为“其他根本的需求”。为使译文更加通顺，可在speak of的译文“表明”前增译"却”， 
+与前文的“尽管”形成对比，故这部分可整体译为“这些花园尽管风格多样，却表明了各种其他根本的需求”。 
+A④beyond that of decoration and creative expression：这部分中,beyond本义为“超出”，根据句意，可引申为“不 
+局限于"；that指代上文中的urges （需求），此处为表意明确，应具体译出；decoration and creative expression 
+意为“装饰和创造性表达”，为使译文更易于理解，可在其后增译“方面”，即“装饰和创造性表达方面”。 
+绻上：一芯黔四鹫件处理为一:丕屈理于萎色和一创造'隹表咨方回一的一霞芟:建_____________________________________
+'鑫吝:"宙［药而芬希】可茹:-3）如1寸商屎镭以面，宙/魂王& 
+中主语前具庆再容，故
+o_在斐理@时:一为了麦意更通舰可自超喳加L'通”*豹疆舰连世室
+9_________
+译旻：然而，当你看到由无家可归者创造的花园的照片时，你就会突然意识到，这些花园尽管风格多样，却 
+表明了各种其他根本的需求，而不局限于装饰和创造性表达方面的需求。
+【升级翻译】
+优化：因①②中的one指代相同，故可省译①中的one,以使译文更简洁。③中，逗号前的部分含有让步意 
+味，且逗号前的their指代逗号后的these gardens,按照汉语的表达习惯，仅译出these gardens即可，从而将 
+③整体译为“尽管……,但这些花园……”；此外，speak of还可译为“道出”，urges可译为“诉求”。④中， 
+beyond还可译为“除了……之外”，故④可整体译为一:'堡了琶㈣理仓螳佳枣琴为;画的讦鉴仁密'一一。一____________
+童d素备而商裘驻5商F蒋敬癖旻亶手京通出亍各祐菌也短亲的菽”乏前,味茬困雨锋攵■了” 
+之后增译“体现”从而与“道出”相呼应，同时给“体现”和“道出”增译对象“人类”，以使译文更加通顺。_ 
+-谖£丁然-而-「金看到由无家可归亲创造的元园的照房时，你就会爰系蚤识到，度管风落多并，些宠窗虹 
+了体现（人类）装饰和创造性表达方面的诉求之外，还道出了人类各种其他根本的诉求。_____________________
+47.【试题原句】①A sacred place of peace, however crude it may be, 0.5分〃②is a distinctly human need, 0.5分〃 
+③ as opposed to shelter, which is a distinctly animal need. 1■分
+31 *
+
+----- PAGE 32 -----
+【常规翻译】
+【结构分析】
+见逐词逐句精讲册P141
+【考点梳理】
+【翻译难点】
+1.让步状语从句；2.非限定性定语从句。
+词汇或表达 
+正译
+误译
+sacred ['seiknd] a.
+神圣的
+宗教的，神的
+crude [kru:d] a.
+疏于雕琢的；简陋的
+粗糙的；粗鲁的
+distinctly [di'stigktli] ad.
+特有地，专属地
+明显地，不同地
+as opposed to 
+shelter [*Jelt9
+（r）] n.
+与....不问/相反，相对于
+避难所
+反对
+保护，庇护
+拆译：A ① A sacred place of peace, however crude it may be:这部分中,A sacred place of peace 是整个主句的主语， 
+可译为“一个安宁的圣地”；however crude it may be为让步状语从句，其中crude可意译为“疏于雕琢的”， 
+it指代前面的A sacred place of peace,为了避免重复，可译为“它”,故整个从句可译为“无论它怎样疏于雕 
+琢”o综上，这部分可整体译为“一个安宁的圣地，无论它怎样疏于雕琢”。》②is a distinctly human need: 
+这部分中,distinctly意为“特有地”，此处可采用词性转换法，将其译为“特有的”，置于need的译文“需 
+求”之前，从而将 a distinctly human need 译为"—种人类特有的需求”。A ③ as opposed to shelter, which is a 
+distinctly animal need:这部分中，介词短语as opposed to表比较，意为“与....不同”或“与.... 相反”，
+shelter本义是“遮蔽物，避难所”，这里可引申为“遮风挡雨之所”；which引导的非限定性定语从句中， 
+which指代shelter,从句补充完整为shelter is a distinctly animal need,可译为“遮风挡雨之所是动物特有的需求”。 
+因此，这部分可整体译为“与遮风挡雨之所不同，遮风挡雨之所是动物特有的需求”。
+整合：由【结构分析】可知，①中的A sacred place of peace与⑦共同构成句子主干，①中的however crude it 
+may be为让步状语从句；③为比较状语，将“人类的需求”与“动物的需求”作比较；①中的让步状语从句 
+与③构成让步关系，翻译时为使表意更清晰，可先将①中的A sacred place of peace与②整体译出，再将①中的 
+让步状语从句与③整体译出。此外，为避免重复，可将③中的which （指代shelter）译为“后者”，并在③中 
+的as...shelter译文前添加“都”，从而与however的译文“无论”相对应。
+-藤旻"二&荽号'祐基地傀二并兀类麝看蕾亲；免论它怎律疏W蘸琢，寿与遮元唐再之诱不商，后备是动“ 
+特有的需求。 
+【升级翻译】
+优化：①中，A sacred place of peace还可省译不定冠词A,直接处理为“安宁的圣地”；a distinctly human 
+need可处理为“人类特有的需求”，故A sacred place of peace is a distinctly human need整体可译为“安宁的圣 
+地是人类特有的需求”；为使译文更加地道，可将is意译为“体现了”，从而将整句话处理为"安宁的圣地 
+体现了人类特有的需求”。③中，is可调整为“反映了”，以使句式结构更整齐；此外，因该部分整体的描 
+述对象为安宁的圣地，考虑到汉语重意合的特点，可省略“无论”之后的“它”。
+、就f"品序3墓赢■体反亍飞丞麝看蔼务必 羌畚悬律疏孑扉琢，廊与瓦瓦吾再之耕呆同，信著&成了易昉寤 
+有的需求。 
+48.［试题原句］① The gardens of the homeless, which are in effect homeless gardens, 1 分〃② introduce form into 
+an urban environment 0.5分〃③ where it either didn't exist or was not discernible as such. 0.5分
+［结构分析】见逐词逐句精讲册P142
+【考点梳理】1.非限定性定语从句；2.介词短语作状语；3.并列结构either...or...
+【翻译难点】
+词汇或表达
+正译
+误译
+in effect
+实际上，事实上
+效果；实施
+introduce [.mtra'djuis] vt.
+引入,带入，引进
+介绍
+■ 32
+
+----- PAGE 33 -----
+词汇或表达 
+form [fb:m] n.
+discernible [di'ssinsbsl] a. 
+as such
+正译
+形式
+可辨别的，可识别的
+床身，就其本身而言
+续表
+误译
+形状，形态；表格
+看得见的
+像……一样
+【常规翻译】
+拆译：A ① The gardens of the homeless, which are in effect homeless gardens:这部分中，The gardens of the homeless 
+可译为“无家可归者的花园”；in effect意为“实际上，事实上”；homeless gardens的字面意思是“没有家的花园”， 
+可进一步译为“流浪花园”，故这部分可整体处理为“无家可归者的花园实际上是流浪花园”。＞（2）introduce 
+form into an urban environment:这部分中，动词短语introduce...into意为“把 引入；把 带进”，其中名 
+词联系上下文可译为“花园这种建筑’形式’”，此处可简化为“形式” ,an urban environment可处理为“城 
+市环境，都市环境”。A ③ where it either didn't exist or was not discernible as such：这部分为 where 引导的定语 
+从句，修饰先行词an urban environment,关系词where在定语从句中作地点状语，这里可具体译为“在城市环 
+境中”；it是定语从句的主语，指代上文中提到的form,可具体译为“这种'形式’” ；either...or…连接并列 
+谓语didn't exist和was not discernible,译为“要么... 要么.... "或“或者.... 或者.... ,didn't exist可译
+为“不曾存在” ,discernible是discern “识别”的形容词形式，意为“可辨别的，可识别的”；短语as such 
+用于否定句中，可与其前的not共同译为“算不上...."或“并不真是.... ",故was not discernible as such
+在此处表达的意思应为“算不上可辨别的（形式）”，根据上下文语境，可将其进一步意译为“没有被当作’形 
+式’看待”。综上，这部分整体可译为“在城市环境中，这种’形式’要么不曾存在，要么没有被当作'形式’ 
+看待：'
+柬合：由【结萄分析i可知，佥中逗号前的部分为主句的主语，逗号后的部分为which引导的非限定性走语认 
+句，补充说明其前的The gardens of the homeless;①中逗号前的部分和②共同构成句子主干，③为where引导 
+的定语从句，修饰②中的an urban environmento整合时，可将①整体译出，并根据上下文语义为②增补主语， 
+再按照①②③的顺序整体译出。因②的主语为①中的The gardens of the homeless,为避免与①的译文重复，可 
+一羚其处理为一':宜仰n___________________________________________________________________________________
+译为：无家可归者的花园实际上是流浪花园，它们把“形式”引入城市环境，在城市环境中，这种“形式” 
+要么不曾存在，要么没有被当作“形式” 
+［升级翻译】
+优化：①中，the homeless意为“无家可归者”，“无家可归者”的状态通常是居无定所，故homeless gardens 
+还可处理为“无定所的花园”，此外，可在“无家可归者的花园”前添加“这些” 一词，以示强调，同时加 
+强与上文的衔接；②中，“把……引入”可进一步优化为“将……引入……中”；③中，where的译文“在城 
+市环境中”可置于it （这种“形式”）的译文之后，以突出“这种'形式'”；观察发现②和③之间存在一定 
+的他差垂"敢可荏②5③的旌客之回族如一“而':一:一以俺现这种隧宣的技近关系2__________________________
+.整鱼一 
+整合同一【宣规醐连J. n故省喧__________
+译旻：这些无家可归者的花园实际上是无定所的花园，它们将“形式”引入城市环境中，而这种“形式”在 
+城市环境中要么不曾存在，要么没有被当作“形式”看待。
+49.（试题原句 1 ① most of us give in to a demoralization of spirit 0.5分〃② which we usually blame on some psychological 
+conditions, 0.5分// ③ until one day we find ourselves in a garden and feel the oppression vanish as if by magic. 1 分
+【结构分析】见逐词逐句精讲册P143
+【考点梳理】1.定语从句；2.时间状语从句；3.并列结构。
+【翻译难点】 
+词汇或表达 
+正译 
+误译
+give in
+屈服，让步
+投降，认输
+33。
+
+----- PAGE 34 -----
+续表
+词汇或表达
+正译
+误译
+demoralization [dijmnralafzeifh] n.
+萎靡，情绪消沉
+展示；道德败坏
+psychological condition
+心理疾病
+心理状况
+oppression [s'prejh] n.
+压抑，不振作
+镇压，压迫
+by magic
+神奇地，奇迹般地
+入魔地，中魔地
+【常规翻译】
+拆译： > ①most of us give in to a demoralization of spirit:这部分中,most of us为主语，可直译为“我们大多数 
+人” ;give in意为“屈服；让步”，根据上下文语境可引申为"陷入"，to是介词，a demoralization of spirit 
+可译为“精神萎靡，精神不振”，因其描述的是一种精神状态，翻译时可采用增译法，译为“精神萎靡的 
+状态’，故这部分可整体译为“我们大多数人会陷入精神萎靡的状态" °》②which we usually blame on some 
+psychological conditions:这部分为 which 引导的定语从句，修饰 a demoralization of spirito 其中 which 在定语从 
+句中充当blame的宾语，动词短语blame...on…意为“将……归咎于……”，故这部分可整体译为“我们常常 
+将这种精神萎靡归咎于某些心理疾病” °》③until one day we find ourselves in a garden and feel the oppression 
+vanish as if by magic:这部分中，until one day 可直译为“直到有一天”；find ourselves in a garden 的字面意思 
+为“发现我们自己在花园里”，可进一步处理为“发现自己置身于花园中”;feel the oppression vanish中，the 
+oppression —词指代①中的a demoralization of spirit,可将其译为“压抑状态，压抑感”，故这部分可译为“感 
+到那种压抑的状态消失了”； as if by magic为省略句,补充完整为as if it vanishes by magic,其中as if意为“好像”， 
+vanish意为“消失”，by magic可译为“奇迹般地”，这里的it指代前面提到的the oppression,为了避免语义 
+重复，此处可以省译，所以这部分可译为“好像奇迹般地消失了”。综上，这部分可整体译为“直到有一天， 
+我们发现自己置身于花园中，感到那种压抑的状态好像奇迹般地消失了”。
+整合：由【结构分析】可知，②是which引导的定语从句，修饰①中的a demoralization of spirit,若按照常规 
+译法，处理为前置定语，置于其所修饰的名词之前，会稍显冗长，故可将其置于①之后单独译出；③是时间 
+状语从句，所表达的是主句意义的延伸，因此可将③置于①和②之后译出。
+译旻:-遍布具多遍基•人籍
+*萎衰态
+「豪石带着薄而蠢申寥扉归蓦另藁吾&理裒舞「直3］看二W「 
+我们发现自己置身于花园中,感到那种压抑的状态好像奇迹般地消失了。
+【升级翻译】
+优化：①中的us和②中的we指代一致，为避免译文累赘，可不必全部译出，故可将most of us省译为“大多 
+数人”，并省译②中的we。②中的which指代a demoralization of spirit,为避免重复，可将which原有的译文 
+“这种精神萎靡”用“此”来替代；此外，可在②前增译“并”，以使译文更加连贯。③中，find的主语we 
+（我们）和宾语ourselves （我们自己）与整句话的人称一致，故we find ourselves in a garden可省译为“置身花园”; 
+feel the oppression vanish还可意译为“顿觉压抑感消失了” ；为使译文更符合汉语表达习惯，可在“顿觉”前 
+增译“才”，与前文的“直到”构成固定搭配；by magic还可译为“神奇地”。
+'蠡否「血虹必谷同「1甬顽翻落:T「敌者窿"
+'窿王"又-多瓦兀基蓿又藉希寥扉曲盛慕「系
+*帮蒋眦际暮-子橐匝
+.C逾展羸「直蓟看二天直务尤瓦-才碗就& 
+抑感好像神奇地消失了。
+50.[试题原句】① It is this implicit or explicit reference to nature0.5分〃② that fully justifies the use of the word 
+garden,0.5分〃③ though in a "liberated" sense, 0.5分〃④ to describe these synthetic constructions. 0.5分
+【结构分析】见逐词逐句精讲册P144 
+u
+【考点梳理】1.强调句型；2.让步状语从句；3.动词不定式短语作后置定语。
+【翻译难点】 词汇或表达 
+正译 
+误译
+reference frefrans] n, 参照，参考 
+提到；涉及
+, 34
+
+----- PAGE 35 -----
+续表
+词汇或表达
+正译
+误译
+justify ['d3Astifai] v.
+证明……合理；印证
+对……做出解释；调整
+liberated ['libareitid] a.
+思想解放的（文中引申为“扩大词义外延的”）解放的；放纵的
+synthetic [sin'0etik] a. 人造的
+合成的，合成物
+【常规翻译】
+折译：＞ （D It is this implicit or explicit reference to nature：这部分为强调句的前半部分，可将其译为“正是....，
+强调的是主语 this implicit or explicit reference to natureo 其中，implicit 和 explicit 互为反义词，implicit or explicit 
+可译为“或隐晦或清晰的”,它们都作reference的前置定语；reference to sth.是固定短语，意为"参照某物， 
+参考某物”，此处的reference to nature可译为“参照大自然”，为使表意更通顺，可调整为"对大自然的参 
+照”，故这部分可整体译为“正是这种对大自然或隐晦或清晰的参照”。，②that fully justifies the use of the 
+word garden:这部分中，fully修饰justifies,表示程度，译为“充分地证明，充分地印证”，the use of the word 
+garden可译为“'花园’一词的使用”。为了使上下文语义连贯，可调整译为“使用’花园’一词”，并在 
+其后加上“是合情合理的”，从而与“充分证明”搭配，故这部分可整体译为“充分证明了使用’花园’一 
+词是合情合理的”。》③though in a 'liberated" sense:这部分中，though表示让步，意为“虽然，尽管”；in a...sense 
+意为“从……意义上讲”，liberated本义为“思想解放的”,在这里用来描述“花园” 一词的使用，故可根据 
+上下文语义将liberated —词引申译为“广义的，外延的”，从而将in a ''liberated" sense译为“从’广义’上 
+来讲”④to describe these synthetic constructions:这部分整体为动词不定式短语作后置定语，修饰②句中 
+的 the use of the word garden,可译为“用来描述... ";synthetic 意为“人造的,合成的”,故 these synthetic
+constructions可译为“这些人造建筑”。
+'塞合；宙［结痴芬轿「】有如「①裾共闻海-成二不尧虱南匪浦标冠「画此藐函插M函景支质存国舍晅粱「' 
+译为“正是……”的结构即可。④作后置定语，可将其译文置于②中的译文“使用’花园'一词”之后； 
+同时，考虑到汉语的表达习惯，该部分译文可省略“用”字，以保证语句通顺。③为让步状语从句，可将 
+其置于句末译出，并在though的译文“虽然”后增译“这是”，以保证句意连贯七
+'窿文-"盘■更这第繇丈百然董 寇晦或锈 赫莉基板「免习'矗明-T 商-“-无曲丁二萄美话违豆吾尤蚤寇虽更姣商 
+合理的，虽然这是从“广义”上来讲。
+【升级翻译】
+优化：①中的implicit or explicit还可译为“或含蓄或明显的”，以使表意更通顺；②中的“充分证明了 是 
+合情合理的”可调整为“充分证明了……的合理性”；③还可译为“虽然有’扩大词义外延’的意味”，同 
+时根据汉语的表达习惯，可将③的译文置于句首。
+-盘杏"桓握汉畜关睽商二星姨二二匝「（直）二二;商詹商习而「苛宿另而混更基二诲-乏都而工必套而 
+转折词“但”。
+'莓土；-虽-荥看-，芬灭商史夕卜基"晶盖鼠-石壶毙旻弟券又盲液或昴普&葫豆鬲-彖应「£如曷胡-了店用二哦 
+一词来描述这些人造建筑的合理性。
+Section IIL Writing
+—♦ Part A ■—
+IH1标准范文
+Dear Professor,
+OAs the chair of the Students, Union, I am writing to 
+sincerely invite you to be a judge for the English speech contest 
+which will be held in our auditorium at 3 pm this Sunday.
+亲爱的教授：
+作为学生会主席，我诚挚地邀请您担任本 
+周日下午三点在我校礼堂举行的英语演讲比赛 
+的评委。
+35W
+
+----- PAGE 36 -----
+❶The theme of the contest is Man and Nature.❷I believe
+此次比赛的主题是“人与自然”。我相信
+you will be quite interested in it.❸The contest, aiming to 
+improve students' thinking and expression abilities, will attract 
+60 students from various schools.❹It will last four hours.❺Half
+您对此一定会;f艮感兴趣。此次比赛旨在提升学 
+生的思维能力与表达能力，将吸引60名来自 
+各个院校的学生参加。比赛时长为4小时。其
+the time will be allocated to speech and the rest to question­
+answer session. ❻You are a well-known expert in English 
+respected by all of us, and your attendance can inspire the 
+participants who are eager for your instructions and suggestions.
+OI sincerely hope that you can attend the contest. ©Looking 
+forward to hearing from you soon.
+Yours sincerely, 
+Li Ming
+中前两个小时是演讲时间，后两个小时为问答 
+环节。作为一位英语方面的知名专家，您深受 
+我们的尊敬，并且您的出席能够激励那些渴望 
+得到您指导和建议的参赛者。
+我真诚地希望您可以出席，并期待您早日 
+回复。
+您真诚的 
+李明
+11 逐句突破
+段
+。
+句
+二
+段
+❶
+❷
+句
+段
+❸
+句
+--
+段
+❹
+❺
+句
+标）隹句式 As the chair of the Students5 Union, I am writing to sincerely invite you to be a judge for the English speech 
+contest which will be held in our auditorium at 3 pm this Sunday.
+突破句式 On behalf of the Students * Union, I am writing to sincerely invite you to be a judge for the English speech 
+contest due to be held in our auditorium at 3 pm this Sunday.
+中文译文我谨代表学生会，诚挚地邀请您担任本周日下午三点在我校礼堂举行的英语演讲比赛的评委。
+句式点评突破句式将标准句式中的As the chair of...调整为On behalf of...,弱化了邀请者的职位信息，语气 
+更谦逊、委婉；其次，突破句式采用形容词短语due to be held...代替标准句式中which引导的定语从句， 
+使表达更加简洁凝练。
+标准句式 The theme of the contest is Man and Nature. I believe you will be quite interested in it.
+突破句式 The theme of the contest is Man and Nature, in which I believe you will be quite interested.
+中文译文此次比赛的主题是“人与自然”，我相信您对此一定会很感兴趣。
+句式点评突破句式采用which引导的非限定性定语从句，将标准句式中两个独立的句子合并为一句，不仅 
+使句间逻辑关系更加紧密连贯，也提升了句式整体层次，值得考生借鉴。
+标准句式 The contest, aiming to improve students' thinking and expression abilities, will attract 60 students from 
+various schools.
+突破句式 The contest, with the aim of bettering students' thinking and expression abilities, will attract 60 students 
+from various schools.
+中文译文此次比赛旨在提升学生的思维能力与表达能力，将吸引60名来自各个院校的学生参加。
+句式点评突破句式采用介词短语with the aim of...代替标准句式中的现在分词短语aiming to...,使句式更加 
+灵活、多样；此外，突破句式采用better 一词代替标准句式中的improve,用词更地道新颖。
+标准句式 It will last four hours. Half the time will be allocated to speech and the rest to question-answer session. 
+突破句式 It will last four hours, half the time allocated to speech and the rest to question-answer session.
+中文译文比赛时长为4小时，其中前两个小时是演讲时间，后两个小时为问答环节。
+句式点评突破句式采用独立主格结构将标准句式中的两个独立句合并为一句，使句式更显高级，句间逻辑 
+关系更加清晰明确。
+_标/隹句式You are a well-known expert in English respected by all of us, and your attendance can inspire the 
+段 participants who are eager for your instructions and suggestions.
+❻ 突破句式 As a well-known English expert respected by all of us, you, if attend, can inspire the participants eager for
+句 . 
+1
+your instructions and suggestions.
+♦ 36
+
+----- PAGE 37 -----
+中文译文作为一位英语方面的知名专家，您深受我们的尊敬，如果您能出席，将会激励那些渴望得到您指 
+导和建议的参赛者。
+句式点评突破句式将标准句式中and连接的分句一调整为介词短语As a well-known English expert respected 
+by all of us,并将分句二的主语your attendance调整为you,用if attend作插入语，使句内逻辑关系更加清晰, 
+同时也使句子更有层次感。突破句式将标准句式中的定语从句who are eager for...调整为形容词短语eager 
+for....使表达更加简洁凝练。
+三
+段
+。
+❷
+句
+标准句式 I sincerely hope that you can attend the contest. Looking forward to hearing from you soon.
+突破句式 I cordially hope that you can attend the contest, and look forward to hearing from you soon.
+中文译文我真诚地希望您可以出席，并期待您早日回复。
+句式点评突破句式将标准句式的两个常规句式合并为一句，使句间逻辑更为紧密；其次，突破句式使用 
+cordially —词替换标准句式中的sincerely,用词更灵活。
+twl突破范文
+Dear Professor,
+On behalf of the Students * Union, I am writing to sincerely invite you to be a judge for the English speech 
+contest due to be held in our auditorium at 3 pm this Sunday.
+The theme of the contest is Man and Nature, in which I believe you will be quite interested. Tlie contest, with the 
+aim of bettering students * thinking and expression abilities, will attract 60 students from various schools. It will last 
+four hours, half the time allocated to speech and the rest to question-answer session. As a well-known English expert 
+respected by all of us, you, if attend, can inspire the participants eager for your instructions and suggestions.
+I cordially hope that you can attend the contest, and look forward to hearing from you soon.
+Yours sincerely, 
+i 
+Li Ming
+—♦ Part B ,
+m标准范文
+OCountless college graduates are wandering at a fork, which 
+symbolizes hunting for jobs, pursuing postgraduate studies, going 
+abroad and starting businesses, hesitating about how to make a choice.
+OThere is an indication in this picture that life is full of 
+possibilities and choosing the directions of our lives is difficult 
+yet important because it may determine our lives. ©Different 
+options seem to be equally tempting because there are successful 
+cases that inspire us behind these options. ©Moreover, assessing 
+potential rewards is obviously impossible, so making a splendid 
+choice is very difficult. ©However, if you start from personal 
+preference or life planning, maybe you will make a decision 
+more easily or perhaps move forward further on the path that you 
+have chosen.❺This is because personal preference is a great 
+source of motivation that keeps you moving forward. ©Besides, 
+life planning is the necessary guarantee of future success. 
+©Therefore, you should combine your own demand with different 
+features of each option to make a rational and wise choice.
+无数大学毕业生正徘徊在象征着求职、考 
+研、出国以及创业的岔路口前，对如何做出选 
+择犹豫不决。
+这幅漫画蕴含了这样一种含义，即人生充 
+满了各种可能性，而选择人生方向虽然艰难却 
+也重要，因为这可能会决定我们的人生。各种 
+选择似乎都具有同样的吸引力，因为每种选择 
+背后都有鼓舞我们的成功事例。而且，要估算 
+潜在的收益显然是不可能的，因此，做出绝佳 
+的选择非常困难。然而，如果以个人喜好或人 
+生规划为出发点，你可能会更容易做出决定， 
+或许会在自己选择的道路上前行得更远。这是 
+因为个人喜好是推动你不断前行的重要动力源 
+泉，而人生规划则是你未来成功的必要保障。 
+因此，你应该将自身需求与各种选择的不同特 
+点结合起来，从而做出合理又明智的选择。
+37 W
+
+----- PAGE 38 -----
+OThere is no doubt that a sensible choice is foundational to 
+success.❷Furthermore, once you make a decision, you should 
+pursue it with endeavor as well as perseverance.❸As a college 
+graduate, I have ever lingered on such a fork.❹Finally, I chose 
+the path that fits my personal development, which is taking 
+part in the entrance exams for postgraduates.❺Nowadays, I am 
+following my heart, forging ahead, which makes me motivated 
+and enthusiastic.
+毫无疑问，明智的选择是成功的基石。此 
+外，一旦你做出决定，就应该努力且坚持不懈 
+地追随它。作为一名毕业生，我也曾徘徊在这 
+样的岔路口。最后，我选择了适合我个人发展 
+的道路----考研。如今，我正追随着我内心的
+声音，充满动力和热情，奋力前行！
+TH逐句突破
+标;隹句式 Countless college graduates are wandering at a fork, which symbolizes hunting for jobs, pursuing 
+postgraduate studies, going abroad and starting businesses, hesitating about how to make a choice.
+突破句式 Wandering at a fork, a symbol of different choices—hunting for jobs, pursuing postgraduate studies, going 
+abroad and starting businesses, countless college graduates are hesitating about how to make a choice.
+-中文译文徘徊在象征着不同选择一求职、考研、出国以及创业一的岔路口前，无数大学毕业生对如何 
+，做出选择犹豫不决。
+®突破法则1.可使用同位语（从句）解释说明关键名词；2.同一属性的名词之间如果有总分关系，可以破折 
+号的形式表示总分关系。
+法则点评L突破句式用同位语a symbol of different choices解释说明a fork,简化了句子层级，使句式更加 
+新颖；2.突破句式中，破折号后4个平行的动名词短语具体说明破折号前different choices的内容，不仅完 
+美地展现了总分关系，还使句子结构一目了然。
+二
+段
+。
+句
+二
+段
+❷
+句
+二
+段
+❸
+句
+标准句式 There is an indication in this picture that life is full of possibilities and choosing the directions of our lives 
+is difficult yet important because it may determine our lives.
+突破句式 In this picture lies an indication: life is full of possibilities and choosing the directions of our lives, which 
+may determine our lives, is difficult yet important.
+中文译文这幅漫画蕴含了这样一种含义：人生充满了各种可能性，而选择人生方向可能会决定我们的人生, 
+它虽然艰难却也重要。
+突破法则1. There be句型调整为介词短语；2.状语前置；3.冒号用于引出分述、提起下文或解释说明；4.主 
+谓分隔。
+法则点评1.突破句式将标准句式中的介词短语in this picture （地点状语）置于句首，引起主谓倒装，使句 
+式更加高级；2.突破句式用冒号引出an indication的具体内容，表意简洁明确；3.突破句式中，which引导 
+的非限定性定语从句将主语choosing...of our lives和系动词is分隔开来，使句子更有层次感。
+标准句式 Different options seem to be equally tempting because there are successful cases that inspire us behind 
+these options.
+突破句式 A variety of options seem to be equally tempting owing to the successful cases inspiring us behind each option. 
+中文译文各种选择似乎都具有同样的吸引力，因为每种选择背后都有鼓舞我们的成功事例。
+突破法则1.状语从句调整为介词短语；2.定语从句调整为形容词短语、介词短语或非谓语动词结构作后置 
+定语；3.常规词（词组或短语）调整为高频词（词组或短语）或地道词（词组或短语）。
+法则点评1.突破句式将标准句式中because引导的原因状语从句调整为介词短语owing to...作原因状语， 
+简化了句子层级，且the successful-option也更符合英语多用名词的表达习惯，使句子更显正式；2.突破句 
+式将标准句式中that引导的定语从句调整为现在分词短语inspiring...作后置定语，使句子结构更加简洁；
+3.突破句式将标准句式句首的Different调整为高频短语A variety of,丰富了词汇表达。
+a
+标准句式 Moreover, assessing potential rewards is obviously impossible, so making a splendid choice is very difficult. 
+突破句式Moreover, since assessing potential rewards is obviously impossible, making a splendid choice, as a result, 
+is very difficult.
+■ 38
+
+----- PAGE 39 -----
+二
+段
+。
+句
+段
+❺
+❻
+句
+二
+段
+❼
+句
+中文译文而且，要估算潜在的收益显然是不可能的，因此，做出绝佳的选择非常困难。
+突破法则1.两个并列分句或独立句调整为主从复合句；2.介词短语为插入语；3.主谓分隔。
+法则点评1.突破句式将标准句式中so连接的并列句调整为“since引导的原因状语从句+主句”的结构， 
+增强了句内逻辑；2,突破句式使用介词短语as a result作插入语，并将其置于主语making...choice和系动词 
+is之间，造成了主谓分隔，使句子层次感更强。
+标准句式 However, if you start from personal preference or life planning, maybe you will make a decision more easily 
+or perhaps move forward further on the path that you have chosen.
+突破句式 However, starting from personal preference or life planning, you can make a decision more easily or 
+perhaps move forward further on the path chosen by yourself.
+中文译文然而，以个人喜好或人生规划为出发点，你能更容易做出决定，或许会在自己选择的道路上前行 
+得更远。
+突破法则1.状语从句调整为非谓语动词结构；2.定语从句调整为形容词短语、介词短语或非谓语动词结构 
+作后置定语。
+法则点评1.突破句式将标准句式中if引导的条件状语从句调整为现在分词短语starting...作条件状语，使句 
+式更加多样化；2.突破句式将标准句式中that引导的定语从句调整为过去分词短语chosen by yourself作后 
+置定语，修饰the path,使句式结构更加简洁，表达更地道。
+标准句式 This is because personal preference is a great source of motivation that keeps you moving forward. Besides, 
+life planning is the necessary guarantee of future success.
+突破句式 This is because personal preference is a great source of motivation to keep you moving forward, while life 
+planning is the necessary guarantee of future success.
+中文译文这是因为个人喜好是推动你不断前行的重要动力源泉，而人生规划是你未来成功的必要保障。
+突破法则1.定语从句调整为形容词短语、介词短语或非谓语动词结构作后置定语；2.两个表对比的句子调 
+整为while或yet连接的并列句。
+法则点评1.突破句式将标准句式中that引导的定语从句调整为动词不定式短语to keep...作后置定语，在保 
+证句意明晰的前提下，简化了句子层级；2.突破句式将标准句式中两个表对比的句子调整为while连接的 
+并列句，使句间逻辑关系更加紧密。 
+标准句式Therefore, you should combine your own demand with different features of each option to make a rational 
+and wise choice.
+突破句式 Therefore, only by combining your own demand with different features of each option, can a rational and 
+wise choice be made.
+中文译文因此，只有将自身需求与各种选择的不同特点结合起来，你才能做出合理又明智的选择。
+突破法则1.常规句式调整为only引导的倒装结构；2.语态的切换：主动化被动或被动化主动。
+法则点评1.突破句式将标准句式中常规的“主+谓+宾”句式结构调整为only引导的部分倒装结构，强 
+调了 “将自身需求和各种选择的不同特点结合”的重要性，体现了作者不俗的语言功底；2.突破句式将标 
+准句式中的to make-choice调整为can...be made,主动化被动，强调了 a rational and wise choice,使句子重点 
+更突出。
+三
+段
+❶
+句
+标准句式 There is no doubt that a sensible choice is foundational to success.
+突破句式 A sensible choice, undoubtedly, serves as a foundational factor to success.
+中文译文毫无疑问，明智的选择是成功的基石。
+突破法则1.副词作插入语；2.主谓分隔；3.常规词（词组或短语）调整为高频词（词组或短语）或地道词 
+（词组或短语）。
+法则点评1.突破句式使用副词undoubtedly作插入语，并将其置于主语A sensible choice和谓语serves之间， 
+造成主谓分隔，使句子更有层次感；2.突破句式将标准句式中普通的系动词is调整为高频短语serves as, 
+使文章词汇更丰富，表达更地道。
+39 —
+
+----- PAGE 40 -----
+三
+段
+❷
+句
+段
+❸
+❹
+句
+三
+段
+❺
+句
+标;隹句式 Furthermore, once you make a decision, you should pursue it with endeavor as well as perseverance.
+突破句式Furthermore, once a decision is made, you should pursue it with both endeavor and perseverance.
+中文译文此外，一旦你做出决定，就应该努力且坚持不懈地追随它。
+突破法则1.语态的切换：主动化被动或被动化主动；2. “both +并列成分”表强调。
+法则点评1.突破句式将标准句式中once引导的时间状语从句的主动语态调整为被动语态，既突出了主语 
+a decision,又避免了 you反复出现所造成的语义重复；2.突破句式用both...and...连接并列的endeavor和 
+perseverance,强调二者的地位同等重要。
+标准句式 As a college graduate, I have ever lingered on such a fork. Finally, I chose the path that fits my personal 
+development, which is taking part in the entrance exams for postgraduates.
+突破句式 As a college graduate, I have ever lingered on such a fork; fortunately and finally, I chose the path that fits 
+my personal development: taking part in the entrance exams for postgraduates.
+中文译文作为一名毕业生，我也曾徘徊在这样的岔路口；幸运的是，最终我选择了适合我个人发展的道路： 
+考研。
+突破法则1.并列分句或独立句调整为分号连接的句子；2.冒号用于引出分述、提起下文或解释说明。
+法则点评1 .突破句式将两个独立句用分号连接，合并为一句，使句间逻辑更为紧密；2.突破句式中，冒号 
+引出对其前所提内容the path的具体解释说明，层次更分明。此外，突破句式中增加fortunately,与finally 
+构成并列，充实句子内容的同时，也使句子更有韵律感。
+标;隹句式 Nowadays, I am following my heart, forging ahead, which makes me motivated and enthusiastic.
+突破句式 Nowadays, I am following my heart, forging ahead with great motivation and enthusiasm.
+中文译文如今，我正追随着我内心的声音，怀着极大的动力和热情，奋力前行！
+突破法则定语从句调整为介词短语with...
+法则点评突破句式将标准句式中which引导的非限定性定语从句调整为介词短语with...,作forging ahead 
+的伴随状语，使句式更加简洁、连贯。
+II
+突破范文
+Wandering at a fork, a symbol of different choices—hunting for jobs, pursuing postgraduate studies, going 
+abroad and starting businesses, countless college graduates are hesitating about how to make a choice.
+In this picture lies an indication: life is full of possibilities and choosing the directions of our lives, which 
+may determine our lives, is difficult yet important. A variety of options seem to be equally tempting owing to 
+the successful cases inspiring us behind each option. Moreover, since assessing potential rewards is obviously 
+impossible, making a splendid choice, as a result, is very difficult. However, starting from personal preference 
+or life planning, you can make a decision more easily or perhaps move forward further on the path chosen by 
+yourself. This is because personal preference is a great source of motivation to keep you moving forward, while 
+life planning is the necessary guarantee of future success. Therefore, only by combining your own demand with 
+different features of each option, can a rational and wise choice be made.
+A sensible choice, undoubtedly, serves as a foundational factor to success. Furthermore, once a decision is 
+made, you should pursue it with both endeavor and perseverance. As a college graduate, I have ever lingered on 
+such a fork; fortunately and finally, I chose the path that fits my personal development: taking part in the entrance 
+exams for postgraduates. Nowadays, I am following my heart, forging ahead with great motivation and enthusiasm.
+, 40

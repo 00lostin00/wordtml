@@ -1,0 +1,3938 @@
+
+----- PAGE 1 -----
+Y[φ.=5=
+ 
+2015 年全真试题解析
+第一部分 知识运用
+..6..........................
+朋友间具有相似基因
+知识补充
+原文外教朗读
+7一、文章总体分析
+本文选自 2014 年7月 15 日IB Times（《国际财经时报》）一篇题为 DNA of Friendship∶Study Finds
+We are Genetically Linked to Our Friends（友谊 DNA∶研究发现朋友间具有相似基因）的科普类文章。全
+文以"朋友间有相似基因"引出以此观点为结论的一项研究，并展开介绍其研究方法以及研究发现。
+二、语篇分析及试题精解x; KZRZ2019
+I ① Though not biologically related",friends are as
+朋友之间尽管没有血缘关系，但却"亲"如
+"related" as fourth cousins,sharing about 1of genes.
+第四代表亲，同有约 1??基因。这是由加利
+②That is 1 a study, published from the University of 福尼亚大学和耶鲁大 学共同发表在《美国国家
+California and Yale University in the Proceedings" of the 科学院院刊》上的一项研究所得出的结论。
+National Academy of Sciences,has 2
+..........⋯
+真题精解
+【D】 what 什么
+【C】 how 如何
+【B】 why为什么
+1.【A】when 当⋯⋯时候 【
+【考点提炼】上下文语义＋名词性从句引导词。
+【解题思路】 由"空格前 That is（主语＋系动词）"以及"选项均为疑问词"可判断空格词为表语从句
+引导词。That 回指①句，而从句中主语为astudy（两所大学合作并发表的某研究），可见①句"朋友间没
+血缘关系却有1?因相同"是该研究所得出的结果，空格词要能表示这一内容。四个选项中，只有
+what 为连接代词，能回指上述研究结果，故【D】正确。
+【错项排除】【A】、【B】和【C】均为连接副词，由 That is引出时，分别用于"对前面提及的时间、原因、
+（行为）方式等进行总结"。文中①句为"观点结论"，既非时间，也非方式，先排除【A】和【C】。单看首句
+内容，可以充当某情况的"原因（如;这就是为什么我们天生喜欢交朋友）"，但显然与②句 a study has...
+不能构成"因果逻辑"，故【B】错误。
+注∶从语法角度看，关系副词所引导的从句句子成分需完整（he didit 主谓宾完整），连接词在句中作
+"状语"，而文中从句缺宾语（结合下题选项可知，a study has__缺宾语），故不能由关系副词引导。
+【B】 concluded 得出结论;推断
+2.【A】 defended 支持;保护;辩护
+【D】 advised 建议，指点;劝告
+【C】withdrawn 收回;撤销
+【考点提炼】句内语义 ＋动词辨析。
+【解题思路】结合上题分析可知，首句为②句 a study的研究结果/结论，conclude 可作及物动词，后
+接"结论性内容"，故【B】正确。
+【错项排除】【A】利用其"支持（被批判方）"这一含义干扰，暗示①句观点广受争议，该研究极力为其
+辩解，不符合学术研究的宗旨。【C】利用其"收回，撤回（之前所坚信的言论、评论、批评等）"这一含义干
+扰，暗示研究不再认可①句观点，但从句主语为 a study，可以说"撤回某研究"，但"某研究撤回某内容"不
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 2 -----
+ 
+符合逻辑。【D】后为"建议性内容"，而"朋友间⋯⋯同有1?因"明显不涉及建议，而是说明性内容。
+·词汇注释与难句分析·
+$ ②proceeding 【pro sidin】 n.事件，（一连串）发生的事
+①related 【r 'letrd】 a.有亲戚关系的
+·语篇分析 
+首段提出研究结论。①句开门见山，介绍文章探讨观点，揭示人类的友情存在生物学基础。Though
+让步首先引出一般事实∶朋友间无血缘上的关系，然后转折指出新的研究发现，即引出朋友之间实际上
+的关联∶"亲"如第四代表亲，sharing about 1of genes为具体表现。related 加双引号一语双关，一方面
+指朋友之间的"相关性"，另一方面强调朋友之间的相关性已经堪比与第四代表亲之间的"血缘关系"。
+②句指出观点来源。That 回指①句观点，补充指出观点实为一项研究结论，从而表明全文论述话题。
+l ① The study is a genome-wide analysis
+这.项 研究对 1932 个独特的实 验对象进行了
+conducted2 3 1,932 unique subjects which 4
+全基因组分析，成对比较了没有血亲 关 系的朋友
+pairs of unrelated friends and unrelated strangers. ②及陌生人。两组样本中使用 了相同的实 验对象。
+The same people were used in both 5
+⋯⋯.⋯.⋯⋯⋯⋯........
+-真题精解.
+【C】on 在⋯⋯上
+3.【A】 for 给，对，供
+【D】by 通过，被
+【B】 with和
+【考点提炼】句内语义十 介词辨析。
+1,932 unique
+【解题思 路】空 格句可 还原为∶The study conducted a genome-wide analysis
+subjects。空格介词要表现"分析"与"实验对象"的关系，on 与 analysis 搭配，表示"对⋯⋯进行分析"，合乎
+逻辑，【C】正确。conduct an/a experiment/test/analysis on...意为"以⋯⋯为对象进行实验/测验/分析"。
+【错项排除】【D】 by引出动作的施动者，而文中1，932 unique subjects 为实验对象，是被施动者。
+【A】 for 、【B】 with 利用中文思维"为了/和 1932 个实验对象进行分析"干扰，但脱离了实验的语境。
+4.【A】 compared 比较
+【B】 sought 寻找;请求
+【D】 connected 连接;联系
+【C】 separated分开
+【考点提炼】句内语义。
+【解题思路】which通常指代"事情/物"，故应指代 analysis（分析），定语从句说明"具体的分析方法/
+过程";空格后宾语 pairs of...指"成对儿的无血缘关系的朋友及陌生人"，已知研究结论为"朋友间具有
+1??似基因"，而只有"对无血亲关系的朋友以及陌生人加以比较"，才能看出"共有基因"是否源于"朋
+友"这一亲密关系，【A】compared 意为"对两种事物进行考量从而找出两者异同"，符合文意。
+【错项排除】干扰项分别利用"实验可能采取的组织方式（寻找成对的受试者、将成对的受试者分开、
+使成对的受试者相联系）"设置干扰，但定语从句先行词为"（研究）分析"，"寻找实验对象"属于"分析之
+前的准备工作"，与分析内容无关，故排除【B】sought。"把研究对象分开/联系起来"无法与 analysis 构成
+合理的主谓逻辑∶"分析"不能发出"分开、联系"的动作，且 analysis 表示"仔细考虑或运用统计学方法理
+解或解释某物"，【C】separated 和【D】connected 为单纯性动作，不涉及统计学意义。
+【B】 objects 物体;目标
+5.【A】 tests 实验，检验
+【C】 samples 样本
+【D】 examples 事例;典范，模范
+【考点提炼】上下文语义＋名词辨析。
+【解题思路】空格词由代词 both（两者都）限定，表明应呼应①句 pairs of unrelated friends and unrelated
+strangers（朋友 VS陌生人）。而 unrelated friends 和 unrelated strangers 是从全体受试者当中选取出来用于
+基因比较的个体，sample 表示"（统计学上）从更大群体中选出小群体进行抽查实验"，故【C】正确。
+【错项排除】【A】利用文中进行研究的语境干扰，但上句并未提及"两项试验"，其次 test 作"试验"解
+时，偏重"实用性"，旨在了解"事物（机器、产品等）性状、运行情况如何"，而文中研究属于"为发现未知/
+2
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 3 -----
+ 
+未发现事物所进行的科学实验"。「B】虽能表示"（研究）对象"，但指代"单个对象"，显然不符合文中群体
+性概念。【D】 利用其"典型，范例"这一含义干扰，但通常指"某一特定群组中的典型代表"，而文中
+unrelated friends 与 unrelated strangers 无代表性可言。
+·词汇注释与难句分析 ·
+①genome 【'd3i∶nom】 n.基因组
+③subject 【'sAbd3ekt】n.实验对象，接受实验的人或物
+②conduct 【'kondAkt】 v.（尤其指为了获取信息或证实
+④sample 【's?mpl】（5 题）n.（抽查的）样本，被抽选的
+一组人员
+某事实时）进行，实施，执行
+The study is a genome-wide analysis conducted on 1,932 unique subjects which compared pairs of
+unrelated friends and unrelated strangers.
+结构切分∶The study
+a genome-wide analysis conducted on 1,932 unique subjects|
+is
+表 语
+主语 系动词
+过去分词做定语
+which compared pairs of unrelated friends and unrelated strangers.
+定语从旬
+功能注释∶本句主干为主系表结构，其后的过去分词结构 和定语从句均作为表语 a genome-wide
+analysis 的修饰语，分别说明分析的对象及方法。
+"语篇分析;
+第二段阐述研究方法。①句指出实验对象和实验方法，实验对象∶1932 个独特的实验对象;实验方
+法∶对实验对象进行全基因组分析，成对比较没有血亲关系的朋友及陌生人。句中 the study 复现首段
+②句a study，通过不定冠词到定冠词的变化实现从泛指到特指，概述到详述的转变。②句补充说明①句
+中的实验对象。其中 the same people和 both samples分别指代①句中1932 unique subjects和 unrelated
+friends and unrelated strangers，也即是对于每一个 subject（实验对象）均进行两组实验∶一组是比对实验
+对象与其朋友之间的基因，另一组是比对其与陌生人之间的基因（朋友和陌生人也均来自"1932 个独特
+的实验对象"这一群体），从而才能看出"共有基因"是否源于"朋友"这一亲密关系。
+Ⅲ ① While 1?y seem _6,it is not so to a
+虽然 1?能看起束微不足道，但对遗传学
+geneticist". ② As James Fowler, professor of medical 家而言并非如此。正如加州大 学圣地亚哥分校
+genetics at UC San Diego, says,"most people do not even 医 学遗传学的教授詹姆斯·福勒所说∶"大多数
+7 their fourth cousins but somehow manage to select 人甚至.都不认识他，们的第 四代表 亲，但却不知
+as friends the people who 8_ our kin"."
+怎 么的竞然能够挑选与亲戚相似的人做朋友。"
+--...........-.
+·真题精解·
+【B】 unexpcted 出乎意料的
+6.【A】 insignificant 微不足道的
+【D】 incredible极好的;难以置信的
+【C】 unreliable 不可靠的
+【考点提炼】上下文逻辑语义十形容词辨析。
+【解题思路】空格词是对1??相似性定性并且能够与后半句遗传学家的观点构成让步——转折逻
+辑。首先从数字本身看来，1??比例非常小;而1??相同基因已经堪比第四代表亲，显然这一数值对
+于遗传学来说意义重大。因此空格处语义应与之相反，体现"微不足道"的语义逻辑，【A】符合文意。
+【错项排除】【B】、【D】都强调某种结果或事实在人们的意料之外，而文中并未涉及对于朋友间基因
+相似性的预期，故谈不上"出乎意料"或是"难以置信"。「C】表示对 1??一数据的真实可靠性提出质
+疑，但文中并不涉及任何对实验结论的质疑。
+7.【A】 visit 拜访;参观 【B】 miss错过;想念 【C】 seck 寻找;请求 【D】 know 知道;了解
+【考点提炼】句内语义 ＋ 动词辨析。
+3
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 4 -----
+Y[φ.=5=
+ 
+【解题思路】 their fourth cousins 也即是指第四代表亲，亲属关系得上溯到共同的"玄（外）祖父"这一
+辈，可以说是"超远房表亲"，因此可以推断"大部分人"和其"第四代表亲"关系并不亲近，因此他们可能
+不熟悉、不认识其第四代表亲，【D】 know 符合文意。
+【错项排除】空格部分 do not eventheir fourth cousins but somehow manage to...反向表明∶
+从常理上来说，"___their fourth cousins"应该是"manage to select as friend..."的基本前提，而"'拜
+访'或'想念'第四代表亲"显然不可能是"能够挑出⋯⋯亲戚的人作为自己的朋友"的基本条件;因此排 
+除【A】、B】两项;【C】利用"其字面含义看似后半句 select一词"设置干扰，但 seek 作及物动词时，其后往
+往接"物"，如"住所、工作、路线、帮助、建议等"，若表示"挑选出某人"，应为 seek sb out，因此排除【C】项。
+【B】influence 影响
+8.【A】resemble 类似;像
+【D】 surpass 超越;胜过
+【C】 favor 较喜欢;有利于;看上去像
+【考点提炼】句内语义 ＋动词辨析。
+「解题思路】空格所在定语从句说明被选作朋友的人的特点，空格词考查这种"人"和"我们的亲戚"
+的关系。由首段研究结论可知"朋友间有1??相同基因，堪比第四代表亲"，由此可判断出人们选择的
+朋友与其亲戚之间具备相似之处，【A】 resemble 符合文意。
+【错项排除】【B】表示"影响，对⋯⋯起作用"，侧重于"—方对另一方的作用力"，偏离了文中讨论的
+重点"相似，重叠"，故排除该项。【C】利用其"看上去像"这一含义进行干扰，但其强调"容貌像，长得像
+（父母或长辈中的某一人）"，而文章中 our kin 强调亲戚的总体概念，而且文章侧重说明基因层面上的相
+像。【D】表示"好于/优于某人或某物"，而"选择的朋友优于我们的亲戚"，显然与"朋友与第四代表亲之
+间略等于彼此"的关系相矛盾。
+ 词汇注释与难句分析
+①geneticist 【d3I'netisIst】 n。遗传学家
+④insignificant 【insig nfrkont】（6 题）a.微不足道的
+⑤resemble 【r'zembol】（8 题）v.像;与⋯⋯相似
+②but somehow 但不知怎么的
+③kin 【kin】 n.家人，家属，亲属
+T 语篇分析
+第三段补充阐释研究结论的意义。①句指出朋友间1??基因相似性在遗传学上的意义。句内采
+用"让步——转折"逻辑，先退而（While）指出1??基因相似性从数字本身出发微不足道、没有意义，1%
+复现首段中1of genes，实现段间衔接;进而以否定结构 not so（so指代 may seem insignificant）将语义
+重点拉至遗传学家的观点上∶1??基因相似性在遗传学角度而言意义非凡。ageneticist 泛指遗传学
+家，暗指遗传学上的意义。②句则借一名遗传学教授之口对①句观点作出解释。James Fowler 为①句
+中 geneticist 的举例，实现从泛指到特指。not even... but somehow manage to...体现该教授强烈语气
+的同时，也有力佐证了①句，somehow此处意为"莫名其妙地，不知怎地"，实际暗示正是这 1??相似基
+因使朋友不自觉地走到了一起，凸显其重要性。
+Ⅳ ④The study 9 found that the genes for smell
+该研究还发现，朋友间共有的基因 是
+were something shared in friends but not genes for 嗅觉基因，而不 是免疫基 因。嗅觉基 因为
+immunity".②Why this similarityexists in smell genes i 何存有这种相似性 目前还 难以 解释。或
+difficult to explain,for now. ③ 10 ,as the team
+许，正如该团队所言，是嗅觉基因把我们吸 
+suggests,it draws us to similarenvironments but there is 引到相似的环境中去，但事情没有那么 简
+more 11 it.④There could be many mechanisms3
+单。可能还有许多机制协同作用，驱使我
+working together that 12 us in choosing genetically 们选择基因相似的朋友而不去结交 因利益 
+similar friends 13 "functional2 kinship③"of being 瓜葛而结成的"实用的亲密关 系"。
+friends with 14
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 5 -----
+ 
+真题精解
+9.【A】 again 又;再一次
+【B】 also 而且;也
+【D】 thus 如此;从而
+【C】 instead代替;反而
+【考点提炼】上下文逻辑。
+【解题思路】空格句以"该研究发现，朋友间共有的基因是嗅觉基因，而不是免疫基因"对"朋
+友之间共有的基因"展开说明，该内容是对上述研究发现的补充说明，上下文为递进关系，选项中能体现
+该逻辑关系的只有【B】 also，其语用功能为"提供关于某人或物的更多信息，或补充其他相关事实"。
+【错项排除】【A】主要用法有二∶一、表示"又，再一次（用于说明过去发生的事情再次/重复发生）"，
+但空格句并非是对上文观点的重复;二、表示"如前;复原（用于说明恢复到原来的状态）"，但空格句介绍
+的是一项研究的结论，并不涉及原来的状态。【C】表示"反而，却"，其语用功能实为"事 2 以事 1的取代
+形式出现"，暗示空格句上文预测朋友间相似的基因为免疫基因，但文中并未指出该内容。【D】用于"引
+出上述内容带来的结果"，文中下文才是对空格句结论原因的分析，上文并不涉及原因。
+【B】 Furthermore 此外;而且
+10.【A】 Meanwhile 同时;其间;另一方面
+【D】 Perhaps 也许
+【C】 Likewise 同样;也
+【考点提炼】上下文逻辑。
+【解题思路】②句指出∶相同的基因为何是嗅觉基因目前还难以解释，空格所在③句随即指出"嗅觉
+基因（it）把我们吸引到相似的环境中去"，该内容显然是对②句中问题的解释∶"气味相投"使大家成为朋
+友;但同时③句后半句 but there is more...又对这一解释补充限制因素，由此，结合上文"难以解释"和
+but后面的补充限制，可知该空后面的解释只是猜测或可能性的一种，能够体现此逻辑的只有【D】。
+【错项排除】【A】表"时间上的同时发生"，或"用来对比两种并列的，但完全相反的情况"，【B】用于
+"引出新信息或观点以补充或支持前述内容"。【C】用于"比较，说明相似性"，但空格句与上文"问题——
+解释"之间既不是同时发生的关系也不是对比关系，也并非递进和类比关系。
+【D】 like 像⋯⋯
+【B】 to 对于
+11.【A】 about关于
+【C】 from 从⋯⋯
+【考点提炼】上下文语义逻辑＋固定搭配。
+【解题思路】④句指出"可能有很多机制共同作用⋯⋯选择基因相似的朋友⋯⋯"，结合上题分析，可
+推断②③④句间的逻辑大致可分为逐渐推进的三层∶从"难以解释"到"一种可能的解释"，再到"可能还有
+很多机制⋯⋯"，上一题填补了第一层到第二层的逻辑，本题则要求填补第二层到第三层的逻辑，即"引出
+更多可能"，表示"事情没有那么简单"的固定搭配"there is more to it"完美契合这一逻辑，故【B】正确。
+【错项排除】其余三项从语法上都可以填入空格中，但"关于它（气味相投）有更多的说法"暗示下文
+围绕"气味相投"这一解释展开讨论，与原文引出另外的解释并不符，故排除【A】;"类似它的还有很多"，
+暗示下文的解释与"气味相投"相似，但原文引出"可能还有很多机制⋯⋯"，暗示该解释更进一步，与 but
+前的解释并不想似，故排除【D】。而"来自它还有很多"无任何逻辑可言，故排除【C】。
+【B】 observe 观察;注意到
+12.【A】 drive 驾驶;驱使;促进
+【D】 limit 限制
+【C】 confuse 使困惑;混淆
+【考点提炼】 句内语义十动词辨析。
+【解题思路】空格句中 that指代 many mechanisms，空格词考查"许多机制"与"我们（选择基因相似
+的朋友）"之间的关系。③句提出∶或许是嗅觉基因使我们凑到相似的环境中去，but 转而引出"事情可能
+不会这么简单（暗示有其他原因）"。因此，④句是对③句中 there is more to it 的进一步解释∶我们之所
+以会选择基因相似的人做朋友，还可能存在许多机制的协同作用，空格词应当与③句中 draw（吸引）具有
+相同的功能和作用，即"吸引，驱使我们去选择朋友"，【A】 drive 正确。
+【错项排除】【B】表示"观察"，强调"用眼睛仔细观察"，而空格词逻辑主语为 many mechanisms，并不
+能实施"观察"这一动作。【C】表示"使困惑，把（某人）弄糊涂"，「D】表示"限制，制约（某人的发展）"，此两
+项均带有一定感情色彩（偏向体现"许多机制有缺陷"），且明显不是对朋友间具有相似嗅觉基因的解释，5
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 6 -----
+ 
+故排除这两项。
+【B】 rather than 而不是
+13.【A】 according to 根据;按照
+【D】 along with 与⋯⋯一道
+【C】regardless of不管
+【考点提炼】 句内逻辑。
+【解题思路】空格前为一种择友标准∶基因相似的朋友，空格后为另一种择友标准∶具有"实用的亲密
+关系"的朋友，空格词考查两种择友标准之间的关系。第一种择友标准揭示的是"兴趣相投的、非刻意为
+达成某种目的而是自然结成的"亲密关系;第二种择友标准强调"功能，实用"，实指"能帮助达成特殊目
+的的"亲密关系，由此可见两者之间为对立关系;同时结合文章主旨"朋友间具有相似基因"可知，人们交
+朋友时会选择与自己基因相似的朋友，故空格句中肯定前一标准，否定后一标准，【B】 rather than 正确。
+【错项排除】【A】用法有三∶一、表示"据⋯⋯所示，按⋯⋯所说"，用于引入信息的来源;二、表示"取
+决于，根据"，用于引出某事物变化所依据的标准;三、表示"按照，根据"，用于引出"原则、方针"等可参照
+性内容，但文中空格后"实用亲密关系"显然并非信息的来源、某种标准亦或是原则等可参照性内容。
+【C】表示"不管，不顾"，"regardless of ＋名词"表示让步关系，重在凸显主句内容的重要性，不受其后内容
+的影响，而且该介词短语无法连接"并列的两种事物"，因此排除。【D】意为"和⋯⋯一起"，表示伴随，而
+文中两部分互为"相反"，而非"补充"关系。
+14.【A】 chances 机会;可能性;巧合
+【B】 responses 反应;回应，回复
+【C】 missions使命;任务
+【D】 benefits 利益;好处
+【考点提炼】上下文语义十名词辨析。
+【解题思路】所有格形式 of being friends with 14 是对functional kinship 的修饰说明，解释"实用关
+系是何种亲密关系"，两者应体现一致含义;其中 being friends 与 kinship 相统一，则 with 14 应与
+functional（实用的）相统一，由上题分析可知 functional kinship 强调"能帮助达成特殊目的的"亲密关系，而
+选项中能体现这一含义的为【D】benefits，friends with benefits 指"（为互惠互利而结成的）利益朋友"。
+【错项排除】【A】强调"偶发性、非刻意性"，这与 rather than 之后为"社会性因素（functional与表示
+生物因素的 genetically similar相对）"的大逻辑不符，故排除该项。【B】表示"对已发生的事或说过的话
+所做出的反应"，该词强调自然而然、而非刻意的行为，being friends with responses无论从结构还是内容
+上来说均不合理。【C】具有两层含义∶一、表示"客观（硬性的）任务，尤指"给予被派遣员的重要任务"，显
+然不符合文中语境;二、表示"主观（认定的）使命"，而"因使命（自己觉得自己必须）交朋友"与 functional
+kinship 所揭示的"因目的而交朋友"的语义并不符。
+词汇注释与难句分析 ·
+①immunity 【'mju∶nti】 n.免疫力
+⑤drive 【drarv】（12 题）v.迫使，促使（某人做某事）
+⑥functional 【'TAηkJonol】 a.为实用而设计的，实用的
+②similarity 【sim?'l?rot1】 n.相似之处
+⑦kinship 【'ksnJip】 n.密切关系
+③more to something （11 题）事情不会如此简单
+④mechanism 【'mekonizom】 n.工作方式，运作机制
+语篇分析 
+第四、五段指出另外两项研究发现。
+第四段指出研究发现一∶朋友间的相似基因为嗅觉基因。①句以 also 并列引出另一研究发现，承接
+首段发现"朋友间具有相似基因"明确指出相似基因的具体范畴。②③④句以"难以解释（difficult to
+explain）→一种可能的解释（Perhaps）→可能有很多的机制（there could be）"逐渐推进的逻辑对①句给出
+原因推测。②句总述指出嗅觉基因相似的原因尚无定论，其中 this similarity exists in smell回指首句中
+genes for smell were something shared in friends，Why 引出对该问题原因的探讨。③④句给出可能的常
+识性的原因解释。③句 Perhaps 引出可能的解释一;"气味相投"使大家成为朋友，同时③句后半句 but
+there is more to it 又对这一解释补充限制因素，暗示原因不仅仅如此。④句中 There could be 呼应③句
+Perhaps，进一步解释③句∶有很多机制共同作用驱使基因相似的人成为朋友。其中 There could be many
+6
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 7 -----
+ 
+mechanisms...是对③句 there is more toit的具化和展开，genetically similar 回指②句 similarityin smell
+genes，being friends with benefits 则隐晦指向①句 genes for immunity，一句串联起整段。
+⋯......................
+V One of the remarkable findings" of the study
+研究中的一 项引人注目的发现是∶相似
+was that the similar genes seem to be evolving 15
+的基因似乎比其他基 因进化得 更快。对此
+than other genes. ②Studying this could help 16 why  加以研究有助于理解为何 人类进 化 在过 去
+human evolution picked pace in the last 30,000 years, 的 30，000）年间加 快了步 伐，（其中）社会环
+with social environment being a major 17 factor.
+境是一个主要的促成因素。
+i真题精解1
+【D】 earlier 更早
+【C】 faster 更快
+【B】 slower 更慢
+15.【A】 later更晚
+【考点提炼】上下文语义。
+【解题思路】该句指出研究中一项值得注意的发现。空格句下文指出这一发现的意义∶对此（this 指
+代①句所述相似基因进化的特征）加以研究有助于⋯⋯为什么人类进化在过去 30，000 年间加快了脚
+步。由此可大致判断出空格所在表语从句为下文宾语从句 why human evolution picked pace in the last
+30，000 years 的原因，也即是说相似基因进化的某种特征导致人类进化在过去的 30，000 年间加快了步
+伐，只有【C】 faster 最符合文意。
+【错项排除】【A】、【D】体现上的是时间上的早晚，与下文对于人类进化速度的描述并不能呼应。【B】
+反向干扰，相似基因进化得较慢显然对于"人类进化在过去的 30，000 年间加快步伐"无意义可言。
+16.【A】 forecast 预测;预报
+【B】remember 记得;记住
+【D】 express 表达
+【C】 understand理解;了解
+【考点提炼】上下文语义十动词辨析。
+【解题思路】由上题可知，空格所在句指出了研究发现的意义∶有助于____为什么人类进化在过去
+30，000年间加快了步伐。而研究的目的必然是要弄清楚事实背后的原因，选项中只有【C】 understand
+能体现该含义，完美串联起"why...→help understand..."这一问答逻辑。
+【错项排除】【A】表示"基于现有信息，对未来发生的情况进行预测"，而文中 why...in the last 30，
+000 years 指过去到现在最近的三万年间的情况，而非对未来情况的描述，故排除该项。【B】表示"记住"，
+【D】表示"表达"，研究的目的和意义通常是揭示原因，而非是"记住或表达"某一种现象的原因，故排除。
+【B】 contributory 促成的;起作用的
+17.【A】 unpredictable 无法预料的
+【D】 disruptive 破坏性的，引起混乱的
+【C】 controllable 可控的;能操纵的
+【考点提炼】上下文语义十形容词辨析。
+【解题思路】空格所在短语为 human evolution picked pace in the last 30，000 years 的状语，空格词实
+际考查"社会环境（social environment）"和"过去三万年间人类进化加快步伐"之间的关系。由①句以及
+空格句前半部分可以推断，推动人类进化加快的基因是相似的基因。第三段末句以及第四段末两句指
+出相似基因有助于人们找到要结交的朋友，形成"朋友圈（social environment 实则隐晦指向人们选择基
+因相似的人做朋友这一社会行为倾向）"，由此可推知相似基因形成的社交圈对人类的进化发挥着主要
+的促进作用，【B】 contributory 符合文意。
+【错项排除】【A】常用于表示"（因变化太多而）无法预测的"，但由于研究相似基因有助于理解人类
+进化加速的历史进程，因而社交环境对人类进化的影响是可以预测的;或表示"反复无常的，捉摸不透
+的"，常用来描述人的特点，但文中空格词的修饰对象为"factor"，并不是"人"。【C】表示"可管理的，可操
+纵的，可控制的"，但由于人类的进化可能还会受到其他基因的作用和影响，因而由相似基因形成的社交
+圈不可能对人类进化形成控制性的作用，故排除该项。【D】为反向干扰，表示"引起混乱的，扰乱性的，破
+坏性的"，但文中指出;在过去的三万年间，人类进化的加快实质即为人类社会得到了发展，这是一个正7
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 8 -----
+ 
+向的作用，故排除该项。
+- 词汇注释与难句分析 
+①pick pace 提速，川速
+①remarkable 【r'ma∶kobol】 a.非凡的;显著的
+⑤contributory 【kon'trbjotor】（17 题）a.促成的，促进
+②findings 【'randins】 n.（一般用复数）研究等的结果;
+的，起作用的
+发现
+③evolve 【r'yolv】 v.进化;逐步发展;逐渐进化
+语篇分析
+第五段指出研究发现二及其意义。①句指出发现之二∶相似基因似乎比其他基因进化得更快。②
+句 this 指代①句内容（研究发现），进而介绍该发现的意义∶有助于理解人类在过去 30，000年间加速进
+化的原因;其中human evolution picked pace 对应①句 similargenes...evolving faster;social environment
+以①句 similar genes 为跳板侧面指向人们选择基因相似的人做朋友这一社会行为倾向，紧密衔接上文。
+Ⅵ ?The findings do not simply explain people's
+研究人员称 ，该发现.不是在简单说明人
+18 to befriend" those of similar 19 backgrounds, 们倾向于和种族 背 景 相似的人 交 朋友。尽
+say the rescarchers. ②Though all the subjects were drawn 管所有的实验对 象都选 自 欧 裔 族群，但（研
+from a population of European extraction2,care was taken 究人员）还 是悉心确保所有的实 验对 象，不
+to 20 that all subjects,friends and strangers were taken 管是朋友还是陌生人，都来 自同一个族群。
+from the same population". [280 words]
+-真题精解-
+【B】 decision决定
+18.【A】 endeavor 尝试，努力
+ED】 tendency 倾向
+【C】 arrangement 安排
+【考点提炼】上下文语义＋名词辨析。
+【解题思路】The findings指上文"朋友间有相似基因"、"相似基因是嗅觉基因"、"相似的基因进化得更
+快"这三个研究发现，因此判断空格句是对上文内容的总结。空格词揭示上文人们交朋友的特点，上文指
+出"有许多机制协同作用，驱使我们选择基因相似的朋友"。"驱使"暗示某种趋势和倾向，带有"无意识地"
+含义，同时第三段末"却不知怎么的能选出有着相似基因的朋友"也体现出"不自觉的举动";最后再辅以常
+识判断（人们总是不自觉地倾向于结交相似背景（同乡，校友，专业）的朋友）。因此正确项为【D】。
+【错项排除】【A】表示"尝试，努力"，【B】常用来表示"决定，抉择"，【C】常表示"安排，筹划，准备"，三
+项均含有"主观刻意"意味，与文中体现出的"无意识行为"相矛盾。
+19.【A】 political政治的 【B】 religious宗教的 【C】 ethnic 民族的 【D】 economic经济的
+【考点提炼】上下文语义。
+【解题思路】下文对空格句内容进一步说明∶尽管所有实验对象都选自欧洲血统的族群，但研究人
+员还是⋯⋯所有的实验对象都来自欧洲 血统中的同一族群。②句中 the same population 为对 a
+population of European extraction 的进一步细化，指"欧洲血统中的同一族群"。"所有实验对象都来自欧
+洲血中的同一族群"表明，实验发现尽量排除族群、种族因素的影响，因此其发现并非简单说明人们和族
+群、种族背景相似的人做朋友，【C】符合文意。
+【错项排除】【A】 political、【B】 religious、【D】 economic 所指代的政治、宗教、经济状况与文中贯穿的
+观点"朋友间具有相似基因"所体现出的生物学意义无关，均为外部因素。
+20.【A】 see 看见;确保
+【B】 show 显示;表明
+【C】 prove 证明;证实
+【D】 tell 告诉;判断;命令
+【考点提炼】句内语义十熟词僻意。
+【解题思路】首句指出"该发现不是在简单说明人们倾向于与相似种族背景的人交朋友"，故具体的实
+8
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 9 -----
+Y[φ.=5=
+ 
+验过程中应排除"实验对象有朋友关系恰巧是因为拥有相似种族背景"这一情形，空格句给出排除这一情
+形的方式∶所有的实验对象皆为欧洲血统还不够，还需要使它们都来 自同一族群，从而使实验者位于同一
+起跑线，使结果尽可能少受种族因素的影响。句中 care was taken to do sth 意为"小心翼翼地，谨慎地做某
+事"，只有【A】 see 含有"确保，设法做到"之意，与该短语从"悉心、努力达成某事"的大逻辑相统一。
+【错项排除】【B】表示"（提供事实、信息）表明，证明";【C】表示"显示某事是真实的"，这两项往往引
+出观点、结论性内容，而空格后部分为实验的条件，并非是实验结果，故排除这两项内容。【D】利用其"命
+令，指示，吩咐"这一含义进行干扰，但无法和 care was taken to... 从逻辑上相匹配。
+·词汇注释与难句分析 ·
+居民
+①befriend 【bl'frend】 v.以朋友态度对待（尤其是对较
+④tendency 【'tendonsi】（18 题）n.倾向;趋势，趋向
+年轻者或需要帮助者）
+⑤ethnic 【'eOnik】（19 题）a.种族（民族、部落）的;具有
+②extraction 【ik'str?kJon】 n.（= ancestry）祖籍
+种族（民族、部落）特色的
+③population 【popju'ler【on】 n.人口 ;（某一地区的）全体
+语篇分析
+第六段就研究发现作出评述。①句指出研究人员的观点∶研究发现并非简单证明人们有与相同种族
+背景的人做朋友的倾向，潜台词即，研究希望刨除种族这一限制，反向表明该研究存在一定的局限性。②
+句明确这一局限性，指出研究对实验人群的选定∶所有实验对象都选自欧洲族裔的一个群体，即研究结果
+势必受到"人群可能由于族裔相同而交友"的影响;后半句让步说明研究者（虽然在人群选择上有其局限
+性，但仍然）悉心确保选定的受试者.朋友和陌生人，均来自同一群体，从而尽可能确保研究结果的可信度。
+第二部分 阅读理解
+..·.·....··.
+Part A
+知识补充
+原文外教朗读
+Text 1 欧洲王室是否行将就木?
+兴—、文章总体分析
+本文选自 TheGuardian《卫报》2014年6月4 日一篇题为 Is the writing on the wall for all European
+royals?（欧洲王室是否行将就木?）的文章。全文由新近热议事件"西班牙国王胡安·卡洛斯被迫退位"
+切入，对备受争议的"欧洲王室命运"进行了历史而又辩证的分析。
+二、语篇分析及试题精解: KZ7R2019
+T④King Juan Carlos of Spain once insisted "kings
+西班牙国王胡安·卡洛斯曾 坚持认为
+don't abdicate", they die in their sleep."② But "国王不会退 位，国王只在睡 梦中死去"。
+embarrassing2 scandals" and the popularity of the 但令人尴尬的丑闻 以及近来欧洲选举中左
+翼共和党的人气迫使他自食其言、退出王
+republican left in the recent Euro-elections have forced
+位。那么，此次西班牙危机是否暗示 了君
+him to eat his wordsand stand down2. ③ So，does the
+主制已走向穷途末路? 是否意味着所有欧
+Spanish crisis suggest that monarchy is seeing its last
+洲王室，连 同其华丽的皇室制服和庄严的 
+days? ④Does that mean the writing is on the wallfor al
+生活方式，都已厄运临头?
+European royals,with their magnificentuniforms and
+majestic"lifestyles?
+9
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 10 -----
+ 
+词汇注释与难句分析·
+（指某事物很可能即将消失或某人将失败）
+①abdicate 【'?bdikert】 v.放弃王位;退位;让位
+⑧magnificent 【m?g nfisont】a. 富丽堂皇的，华丽的
+②embarrassing 【im'berosn】 a.令人尴尬的;令人难堪的
+⑨majestic 【mo'destik】 a.威严的，庄严的
+③scandal 【'skendol】 n.（尤其指牵涉知名人士的）丑
+闻，丑事
+●经典搭配
+④eat one's words 承认自己说错了话
+①die in one's sleep（在睡梦中逝去）
+⑤stand down 辞职，退位
+②see one's last days（去日无多）
+⑥monarchy 【'monoki】 n.君主政体，君主制;君主国
+③European royals（欧洲王室）
+⑦the writing is on the wall 厄运临头的预兆已经显露
+∶" 语篇分析
+第一段为第一层次，以新近事件引出全文论述问题∶欧洲王室的未来。关键词为∶seeing its last
+days/the writing is on the wall。
+①②句今昔对比，概述事件∶西班牙国王卡洛斯被迫退位。But 构成句间转折并将语义重点落于
+②句。
+①句援引国王卡洛斯昔日之言∶国王不会退位，国王只会在睡梦中死去。句子先借观点标记词
+insisted"坚称，坚决认为"暗藏的"坚定内心信念"反衬卡洛斯国王曾几何时信誓旦旦"一生坚守王位，守
+护西班牙";再借时间表达词 once蕴含的"今非昔比"预示其现如今的危机重重、地位不保。
+②句转述国王卡洛斯今日之事∶自食其言、被迫退位、尴尬地结束统治。eat his words and stand
+down回应 once insisted"kings don't abdicate..."，明确 once 隐藏之意"誓言虽美好，但现实很残酷";
+forced 隐性传递因果关联∶王室接连爆出尴尬丑闻、反对者支持率走高（注∶The Republican Left 为主要
+的君主制反对者）→（王室面临信任危机，为挽救王室形象）国王卡洛斯被迫而非自愿退位;embarrassing
+虽似修饰事件起因 scandals，实质移位修饰事件本身 eat his words and stand down，即指卡洛斯尴尬食
+言、尴尬退位。注∶popularity 取僻意"受欢迎、受尊重"，可延伸为"人气"。
+③④句思索事件影响，明确全文论述方向;欧洲王室的未来。So"用以对说过的话提出问题、评论
+等"，实现从"介绍事件"到"引发思索"的过渡;平行设问句式 Does...suggest ...? Does...mean..?将
+③④句紧密衔接，直指文章论述方向。
+③句设问∶这是否暗示君主制已走向穷途末路? the Spanish crisis 即指②句所示西班牙王室危机;
+suggest"暗示，启发"引出对这场王室危机更深层的思索;君主制是否去日无多?由此实现文章由点/具
+体事例"西班牙王室危机"到面/普遍现象"君主制危机"的过渡，其中 monarchy is seeing its last days为
+拟人修辞手法，将 monarchy描述为"由君主及王室成员组成的有血有肉的、灵动的有机体"。
+④句细化设问;这是否意味着所有欧洲王室即将谢幕? all European royals 呼应①②句 King Juan
+Carlos of Spain、③句 monarchy，明确本文最终关注对象∶欧洲王室命运;with their magnificent uniforms
+and majestic lifestyles简笔勾勒欧洲王室形象，以"寄托着人们乌托邦式美好想象的王室即将逝去"这一
+具体画面增强开篇感染力，又以"王室成员极尽奢华、高高在上"的图景为后文论述暗埋伏笔。
+编者注∶The writing/handwriting（is）on the wall 源自《旧约全书》中"伯沙撒的盛宴"∶在伯沙撒（巴比伦
+末代国王）举办的一场盛宴上，王族们正在大吃大喝、酩酊大醉。这时，突然出现了一只没有身体的手指，
+在墙上写下警示文字 ，预言了新巴比伦王国的灭亡。果然，伯沙撒仅仅统治七年，巴比伦就被波斯帝国攻
+陷，伯沙撒也被杀死。后来，"写在墙上的文字"就成了一句西方成语，意为"对厄运或灭亡的预言"。
+【深层解读】开篇由点/具体事例到面/普遍现象，预示全文论述角度及重心;文首段实为两个意群
+（①②句 VS ③④句），首两句借助转折词 But 以及对比组 once insisted"kings don't abdicate..."VS
+have forced him to eat his words and stand down先呈递个案"西班牙国王卡洛斯虽发誓永不退位以守护
+西班牙，却最终被迫食言、引咎退位";后两句则借衔接词 So以及双重设问 Does the Spanish crisi
+suggest...?Does that mean...?将个案上升至普遍现象"君主制是否行将就木、欧洲王室是否都已厄
+10
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 11 -----
+ 
+运临头"，预示全文将由"西班牙国王卡洛斯尴尬退位"为切入点，深度阐释"君主制及欧洲王室的
+未来"
+.......
+ll①The Spanish case provides argumentsboth for
+西 班 牙情 形为支持和反对君主 制都提
+and against monarchy. ② When public opinion is 供了依据。当公众舆论两极分化严重 时，正
+particularly polarized,as it was following the end of the 如佛朗哥统治刚结束时那样，君主能够超越
+Franco regime,monarchs can rise above "mere"politics "纯粹"政治并"象征"国家统一精神。
+and "embody" a spirit of national unity.
+ 词汇注释与难句分析 。
+①provide arguments both for and against（为支持和反
+①argument 【'aigjom?nt】n.论据
+对⋯⋯提供了依据）
+②polarize 【'poulorarz】 v.使极化;使两极分化;使对立
+②as it was（正如⋯）
+③regime 【re'sitm】 n.政治制度，政权，政体
+③rise above（超越）
+④embody 【im'bodi】 v.表现，象征;使具体化
+④a spirit of national unity（国家团结精神）
+●经典搭配
+When public opinion is particularly polarized,as it was following the end of the Franco regime
+monarchs can rise above"mere"politics and"embody"a spirit of national unity.
+结构切分∶
+i
+as
+was following the end of the Franco regime|
+关系代词 逻辑主语 _系动词
+真正主语
+定语从句
+Whenpublic opinion
+particularly polarized,
+is
+引导词
+系动词
+主语
+表语
+时间状语从句
+句子主干∶;Ymonarchs can rise above
+"embody"
+"mere"politics
+a spirit of national unity.
+and
+连词
+主语
+宾语2
+宾语Ⅰ
+谓语Ⅰ
+谓语2
+功能注释∶本句主干为 monarchs can...，指出历史上君主们所发挥的作用;状语从句 When...说明
+君主发挥这一作用的典型时刻;as 引导的定语从句则引出西班牙实例、具体说明这一情形。
+T语篇分析 
+第二至五段为第二层次，退而阐释欧洲君主制的历史价值及现行弊端。
+第二、三段（从历史角度）论述君主制的存在价值。
+第二段概述君主存在价值∶超越政治、象征国家统一精神。关键词为∶①rise above"mere"politics;
+②"embody" a spirit of national unity。
+①句（第二层次总括句）指出西班牙情形之于欧洲君主制存废之争的作用∶为争论双方均提供依据。
+句子先借 case（既含"情况"又表"事例"）将上段所述事例"卡洛斯退位"延伸至"西班牙君主立宪制整个
+历史状况";再借 arguments both for and against monarchy（for、against表示"支持"和"反对"）明确当前情
+形"君主制存废之争激烈"，暗示"君主制有利也有弊"，启示下文论述内容;最后再借 both...and...语义
+重点落于后者深层暗示"西班牙情形更为反对君主制提供了依据"，反衬作者对君主制实质持负面态度。
+②句直陈君主的积极 作用∶舆论两极 分化严重时，可超然政治分歧 之上，代表国 家统一精神。
+particularly polarized 借"民意极化严重时"凸显君主意志的强大"能够超越民意、象征国家统一/民族团
+结，弥合各派分歧";双重引号功能有异∶前者侧重加强语气，意在借"政治纷争"的"小"来反衬"国家统
+一/民族团结"的"大";后者侧重形象说明，意在借"国家统一/民族团结"的"具身/化身形象"展示"君主"
+11
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 12 -----
+Y[φ.=5=
+ 
+的"象征意义";两者共同暗示君主地位的实质∶统而不治。
+【深层解读】一、段首句从"开篇事例"切入"正文论述"，奠定全文客观辩证阐释君主制利弊的基调∶
+①句"西班牙情形既提供了支持君主制的理由，提供了反对君主制的论据"实际暗示"君主制利弊兼具"，
+预示后文（本段②句至第五段末句）作者对"君主制利弊"的客观辩证分析。二、national unity 一语双关，
+既指代国家统一、也指代民族团结∶对外，一国之君是国家形象、民族身份的化身;对内，是民族团结的纽
+带、社会稳定的守护者。王室对欧洲人来说，是一种存在了近千年的情节。传统文化中，君主们具有最
+高凝聚力 、是实体化了的上帝和保护神。
+真题精解
+21.根据前两段可 知，西班 牙国王胡安·卡洛
+21. According to the first two paragraphs,king Juan 斯__
+Carlos of Spain
+【A】缓和了同他对手的关系
+[A] eased his relationship with his rivals
+【【B】 曾经享有很高的公众支持
+[B] used to enjoy high public support
+【C】 在欧洲各王室中不受欢迎
+[C] was unpopular among European royals
+[D]ended his reign in embarrassment
+【D】 尴尬地结束了他的统治
+【精准定位】由首段②句"令人尴尬的丑闻及新近欧洲选举中左翼共和党的人气迫使胡安·卡洛斯
+退位"可知"卡洛斯尴尬地结束了他的统治"，故【D】正确。
+【命题解密】正 确项【D】是 对②句 的概括与改写，其中 ended his reign 替换 stand down，in
+embarrassment对 应 embarrassing scandals。
+【A】中 ease the relationship（关系趋缓）完全改变首段②句所述卡洛斯与其敌对者的真实关系
+forced him....to stand down（迫使卡洛斯下台/二者敌对性增强）;【B】将首段②句 popularity 所指对象
+"左翼共和党"偷换为"卡洛斯";【C】中 European royals 源自首段④句，但句中只谈及卡洛斯退位事件对
+欧洲其他王室的警示作用，而未提及他本人与他们的关系。
+【技巧总结】本题将考查要点指向文首两句。解题最大难点在于关键词 abdicate、stand down 难知其
+意，唯有利用意群关联、语义重复来辅助解题。首先，由①②句间结构并列、语义对比关联可推知 stand
+down与abdicate同义（由eat his words可知卡洛斯实质上已经 abdicate）;再由①②句与③④句间意群关
+联"事件（the Spanish crisis）—事件影响（suggest/mean）"可推断①②句所述事件关乎"危机";最后由③
+句通俗易懂的细节信息"君主制穷途末路（monarchy is seeing its last days）"可进一步推断①②句所示危
+机关乎"西班牙国王地位不保"，就此可知 abdicate、stand down 意指"退位、退职"。
+IⅢ ① It is this apparent transcendence" of politics
+正是这种 应 然 的 政 治超越性解释了君
+that explains monarchs'continuing popularity as heads of 主作为国 家元首受 到持续欢迎的原 因。也
+state. ② And so,the Middle East excepted,Europe is 正因此，除中 东之外，欧洲是世界上君主最
+the most monarch-infested2region in the world，with 10 泛滥的地区，有10 个王国之多（不算梵蒂冈
+kingdoms(not counting Vatican city and Andorra). ③城和安道尔）。但不同于海湾地区及亚洲地
+But unlike their absolutist2counterparts in the Gulf and 区的专制主义君主，大多数欧洲王室能够存
+Asia,most royal families have survived because they 留下来是因为他们能让选民避免费力地寻
+allow voters to avoid the ifficult search for a non- 找一个无可争议而又备受尊敬的公众人物。
+controversial but respected public figure.
+词汇注释与难句分析·
+①transcendence 【tr?n'send?ns】 n.超越
+$ ③absolutist 【'?bs?lutist】 n.专制主义者
+②infest 【n'fest】 v.大批出没，成群出现，遍布
+④counterpart【'kauntopa∶t】n.职务相当的人;作用相
+12
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 13 -----
+ 
+当的事物
+①transcendence of politics（超越政治）
+⑤non-controversial a.无争议的
+②avoid the difficult search for（避免费力寻找）
+③allow sb to do sth（使某人能够做成某事）
+●经典搭配
+语篇分析
+第三段明确君主存留价值∶为选民提供了一个无可争辩且备受尊敬的公众人物。关键词为∶a non-
+controversial but respected public figure。
+①句承上说明"君主政治超越性"的影响∶使其作为国家元首持续受欢迎。句子借助强调句型It
+is...that explains...凸显因果逻辑（explains 为隐性因果关联词）∶君主应然的政治超越性→君主作为国
+家元首受到持续欢迎，实现段间衔接。句中 apparent"（对王位、产业、地位等）具有当然继承权的，应然的
+（而非实然的）"暗传君主能够作为国家元首、超越政治、象征国家统一精神的"威严之源"∶古老封建君主
+源自君权神授的无比神圣地位延续至今，当今君主作为古老王室的世袭传承、依然备受尊重;continuing
+含"中断之后再度恢复"之意，既暗示"如今的君主立宪制是神授君权的延续"，又契合西班牙情形"当初
+卡洛斯之所以被佛朗哥选作未来国王，是因为他是被推翻的前国王继承人、是西班牙王室血脉的传承，
+由他担任元首不会引发西班牙人民的强烈争议/抗议"。注∶popularity 义同首段②句"受欢迎、受尊重"。
+编者注∶欧洲君主权威的来源∶一、"西方君权神授理论"奠定了君主的权威;"上帝的选民"才有资格
+成为上帝之城（the City of God）的居民，地上之城（the City of Man）只能是"上帝的弃民"居住之所，但两
+者都由上帝控制;地上之城的君主职位是上帝为实现自己的目的而设立的;由谁登基为王也受上帝的意
+志支配。二、"欧洲长期混乱状态"进一步成就了君主的权威∶在民族大迁徙、野蛮对文明的征服、日耳曼
+人迁徙等混乱状态中，人们无比渴求秩序，热烈希望出现一个平息天下的君王，故对王权寄予莫大希望，
+赋予王权神圣的权力。
+②句继而说明"君主作为国家元首持续受欢迎"的影响∶使得现如今君主在欧洲最为密集。And so
+"正因如此"实现①②句间由"纵观历史、表明观点"到"指明现状、明确结果"的因果顺承∶欧洲独特的历
+史文化（君主'统而不治'的历史地位及'象征而设'的虚位王权）使其更多地保留了君主制、建立了君主
+立宪政体;not counting Vatican city and Andorra一方面以"即便不将梵蒂冈城和安道尔算入其中，欧洲
+王室也有 10 个之多"强调欧洲君主的密集，一方面借"将这两个国家排除在外"明确其最终关注对象"欧
+洲世袭王室"（注∶梵蒂冈城政教合一，教皇是国家最高首脑;安道尔国家元首名义上是两个贵族，但实际
+上由法国总统和西班牙地方主教共同担任）。注;infested（本意为"昆虫老鼠等成群侵扰"，寓意为"不想
+要的人或物遍布"）暗藏贬义，再度复现第二段段首句所暗藏之意"作者对当今君主总体持负面态度"。
+③句进而分析"现如今君主在欧洲最为密集"的原因∶相较亚洲绝对君主而言，欧洲立宪君主更受民众
+尊重且不受争议。non-controversial but respected明确 apparent 暗含之意"当代君主作为君权神授古老君主
+的世袭传承，依然备受尊崇且毫无争议"，表明首尾句语义平行，皆意在说明②句，恰好契合句首 Bur"并非
+用于引发强转折，而是用以添加一些不同的或似乎令人感到惊奇的信息，以进一步澄清观点或事实（即说
+明②句）"的用法;absolutist counterparts"专制主义君主"借助对比标记词 unlike 实质反衬当前欧洲君主"大
+多为立宪制君主"并明示立宪君主与绝对君主的根本区别"前者是民众团结、国家统一精神的化身，后者是
+独断专权恶魔的化身"，借此明确欧洲君主制得以留存的根本原因"君权神授的君主因其政治超越性及统
+而不治的身份地位在民众心中奠定了其无可争议、备受尊重的社会地位";the difficult search 以"选民选举
+一个无可争议且备受尊重的公众人物的难度"凸显"欧洲立宪君主们存在的价值"。
+【深层解读】本段借助多个"因果逻辑词（explains/so/because）"意在分析"欧洲君主作为国家元首留
+存至今的主要原因"∶君主能够超越政治（上段）→君主作为国家元首持续受欢迎（①句）→现如今君主在
+欧洲最为密集（②句）←欧洲君主是选民心中无可争议且备受尊敬的公众人物（③句）;而借 non-
+controversial but respected与 apparent...continuing popularity可知首尾句实为一体（末句实为首句的具
+体化）"君主具有应然的政治超越性，他们不仅不被争议反而备受尊敬"，两句共同强调"政治超越性、不
+受争议性使得君主作为备受欢迎的国家元首在欧洲大量存留"。
+13
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 14 -----
+ 
+-真题精解
+22. Monarchs are kept as heads of state in Europe 22.君主 作 为 国 家 元 首 在 欧 洲 被 保 留 主 要
+是
+mostly.
+___○
+【A】为了给选民提供更多可以敬仰的公众人物
+[A] to give voters more public figures to look up to
+【B】 为了在传统和现实间达成一种平衡
+[B] to achieve a balance between tradition and reality
+[C] owing to their undoubted and respectable status 【C】由于他们无可争辩、受人尊重的地位
+[D] due to their everlasting political embodiment
+【D】 因为他们具有持久的政治象征意义
+【精准定位】第三段首句指出君主作为国家元首受到持续欢迎是因为其应然的政治超越性;末句进
+一步指出大多数欧洲王室为何存留至今是因为他们为选民提供了一位无可争议且备受尊敬的公众人
+物。由此可知，欧洲君主作为国家元首被保留重点是因为他们无可争辩且受人尊重的地位，【C】正确。
+【命题解密】题干＋正确项是对第三段首末句间因果逻辑链接的概括与改写，正确项完全对应末句
+中 a non-controversial but respected public figure。
+【A】将第三段③句 a non-controversial but respected public figure改为 more public figures to look up
+to，既改变"人物数量（一个→多个）"又遗漏关键信息（无争议、受尊重）;【B】首先根据事实信息"欧洲王
+室留存至今"合理延伸出"欧洲王室跨越传统与现实"，但却由此捏造出"达成传统与现实的平衡"并将其
+视为欧洲保留君主的目的所在;【D】将第三段①句君主得以保留的原因"政治超越性/非政治性"改为与
+之相反的"政治象征性"。
+【技巧总结】纵观选项可知本题实为因果细节题∶题干为果，选项为因（或原因，或目的）。典型解答
+思路为"根据题干定位，于定位处搜索因果关联词，再于关联词前后搜查原因/目的"。如本题，首先根据
+题干与①句...explains monarchs'continuing popularity as heads of state 和③句 royal families have
+survived because...的近义关系，将解题线索集中到第三段①句 this apparent transcendence of politics和
+③句 a non-controversial but respected public figure;然后根据 this 的回指功能进一步扩大至第二段末句
+rise above"mere"politics and"embody"a spirit of national unity;最后结合三处即可得出正确答案。
+.⋯⋯*......-........
+Ⅳ 售Even so，kings and queens undoubtedly have a
+即便如此，国王女王 们无疑有其 不利—
+downside". ②Symbolic of national unity as they claim to 面。虽然他们 声称自己象 征着国 家统一，但
+be, their very history—and sometimes the way they behave 其历史本身—有时是其现今行为方式-
+today—embodies outdated3 and indefensible2 privileges 代表了过时且不可捍卫的特权和不平等。在
+and inequalities. ③ At a time when Thomas Piketty and 托马斯·皮凯蒂及其他一些经济学 家纷纷就
+other economists are warning of rising inequality and the "日益加剧的不平等"和"日 益增强的世袭财
+increasing power of inherited wealth,it is bizarre2that 权"发出警告之时，富有的贵族世家竞然还是
+wealthy aristocratic families should still be the symbolic 现代民主国家的核心象征，这非常怪异。
+heart of modern democratic states.
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+ 词汇注释与难句分析 ·
+⑦bizarre 【br'za∶】 a.离奇的;奇特的;奇怪的
+①downside 【'daonsard】n.（某事物的）不足，负面，缺点
+②symbolic 【sim'bplrk】a.象征性的
+⑧aristocratic 【erst?'kr?etk】a.贵族的，贵族气派的
+③outdated 【aut'dertid】 a.过时的，落伍的，不流行的
+⑨democratic 【demo'kr?etuk】a.民主的;民主政体的;
+④indefensible 【indr'fensibol】a．无法辩 解的;难 以
+民主主义的
+捍卫的
+●经典搭配
+⑤privilege【'privilid3】n.（因财富和社会地位而仅有
+部分人享有的）特权
+①even so（即便如此，就算如此）
+⑥inherit 【n'hert】 v.继承，继承所得
+②have a downside（具有负面性）
+14
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 15 -----
+ 
+ ⑤it is bizarre that...（奇怪的⋯⋯⋯）
+③privileges and inequalities （特权和不平等）
+ ⑥modern democratic states（现代民主国家）
+④at a time when...（在⋯⋯之时）
+At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing
+power of inherited wealth,it is bizarre that wealthy aristocratic families should still be the symbolic heart of
+modern democratic states.
+结构切分∶
+同位语从句
+and
+rising inequality
+when Thomas Piketty and other economists are warning of
+连词 
+谓语
+引导词
+宾语1
+主语
+ the increasing power of inherited wealth,
+At atime
+宾语2
+时间状语
+句子主干∶
+shoud stillb
+is bizarre
+_it
+wealthy aristocratic families
+that
+系动词
+主语
+形式主语 系动词 表语 主语从句引导词
+the symbolic heart of modern democratic states.
+表语
+介词短语做后置定语
+功能注释∶本句主干为 it is bizarre that..，指出某一现象颇为怪异，其中 it 为形式主语，真正主语
+为 that 从句，具体说明这一奇怪现象;At a time when 作为句子状语，展现如今社会情形/背景、凸显该现
+象怪异性，其中 when 引导的同位语从句解释说明 a time。
+·语篇分析
+第四、五段（从现实角度）论述君主制存在的弊端。
+第四段分析君主王室存在的弊端∶其体现的不平等和特权性与当今民主社会格格不入。关键词为∶
+downside/bizarre。
+①句概述君主也有不足。Even so"即便如此，就算这样"（so指代第二三段"君主能够超越政治之
+上，是选民心中一位无可争议且备受尊重的公共人物，作为国家元首备受民众欢迎"）实现段间让步转折
+衔接，并将语义重点落于新添加信息"君主也有其消极一面"之上;undoubtedly"无疑地，毋庸置疑地"借
+其绝对式口吻凸显语义重心"负面/缺点"。
+②句细说不足所在∶其历史及当前一些行事方式体现特权及不平等。as 从句（as"虽然，尽管"）与主
+句形成"退步指出表象——转而指出实情"逻辑链，且采用倒装结构以凸显句内对比"言行不一"。其中
+as 从句中带有强烈主观色彩的 claim（"声称、断言"）先暗示君主言行不一"虽嘴上强调自己为国家统一
+的化身，实际行动却未必如此";主句中强调词 very、频度词 sometimes 进而将君主言行不一锁定在其历
+史本身及其现如今有些时候的行为方式中∶未能完全脱离封建君主的世袭影响，依然体现出种种过时
+的、无任何辩护余地的特权及不平等（indefensible"难以防卫的、站不住脚的、无辩护余地的"暗藏"需废
+除而非保护"之意）。注∶very 语气极为强劲，用于强调此处所指正是此前所谈的"（君主的）历史"，暗藏
+"（君主）成也历史，败也历史"之意;sometimes 语气稍显弱化，暗藏对比"相较过去而言，如今行为中所体
+现的特性及不平等更不那么明显"，铺垫后文（第五段）王室竭力平民化。
+③句指出不足的后果∶与现代民主社会格格不入。when 从句与it is bizarre that...主句之间实为语
+义对比关联，前者说明当今时代背景，后者凸显君主王室做派与当今时代背景极度不吻合。warning 实
+质借经济学家警告口吻"不平等日益加剧、世袭财权日益增强，这是危险之物，应加以规避或阻止"强调
+当前社会民主价值观"反不平等、反世袭财权";wealthy aristocratic families 则借当今君主王室典型做派
+"富有且贵族气派十足"反衬其与当前社会民主价值观的极度不符;bizarre"古怪的，奇异的"和 should
+still"居然还（should 用于 that 引导的从句中、跟在形容词后，表示惊讶）"将这种价值观不合推向高潮，传
+达强烈讽刺和批判;现代社会已是强调平等的民主社会，如今情形更是亟待加强平等;而"体现着过时的
+世袭特权和不平等的"富有贵族世家却依然代表着其核心，真是不可思议!即;欧洲王室需要以断尾求
+15
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 16 -----
+ 
+生的勇气进行大胆改革，否则很可能退出历史舞台!
+【深层解读】本段透露出"君主王室固有的财权/王权与现代社会所倡导的民主平等格格不入"，矛头
+实质指向第二三段所述"君主能够代表国家统一精神、成为广受民众爱戴的国家元首"∶1.形似呼应第二
+三段"君主的存在价值∶代表国家统一、象征民族团结"的 Symbolic of national unity、symbolic heart 实质
+借 symbolic 暗藏之意"象征性而并无实质性意义的"暗示"当今民主社会中君主虚位元首的身份地位";
+2.形似强调君主自身理念"声称象征国家统一"的 claim 实质借其"嘴上这么说，实际行动未必如此"暗
+示"君主并未真正做到象征国家统一";3.形似说明王室阶级特征的 aristocratic 实质借其"身处社会高级
+阶层、有钱有地有权"暗示"他们与民主平等背道而驰，不可能象征国家统一、民族团结"。
+.真题精解
+23.根据第四段，下面哪项是奇怪的?
+23. Which of the following is shown to be odd, according to
+Paragraph 4?
+【A】贵族对继承的财产过度依赖。
+[A] Aristocrats'excessive reliance on inherited wealth.
+【B】贵族在现代民主政治中的角色。
+[B] The role of the nobility in modern democracies.
+[C] The simple lifestyle of the aristocratic families.
+【C】贵族世家简单的生活方式。
+【D】贵族对他们的特权的执意不放。
+[D] The nobility's adherence to their privileges.
+【精准定位】第四段末句指出∶在经济学家就"日益加深的不平等和世袭财富权力"发出警告的今日，
+"贵族世家竟然还是现代民主国家的核心象征"非常奇怪，可见【B】正确。
+【命题解密】题干和正确项【B】所做问答共同构成对③句的同义改写∶题干 odd 对应 bizarre，选项 the
+role、the nobility、modern democracies 分别对应 still be the symbolic heart、that wealthy aristocratic
+families smodern democratic states。
+【A】、【D】契合第四段②句 increasing power of inherited wealth、embodies outdated and indefensible
+privilege 暗含信息，【C】契合第五段①②句所述王室改变"开始较为简朴的生活方式"，但三者均未体现
+"怪异之处的根本∶与现代民主社会格格不入"，文不对题。
+【技巧总结】Which 型事实细节题的典型解答思路为"题干若有锁定信息，由锁定信息定位文中，再
+于文中定位处找寻与之匹配的正确项;题干若无锁定信息，则借由选项关键词一一回文定位并逐一比
+对"。如本题，解题关键在抓取题干核心信息 to be odd明确题目所问（第四段奇特怪异现象），并通过 it
+is bizarre..将解题线索锁定至末句 that 从句，最后对比选项（正确项必须匹配 that 从句）。
+V  The most successful monarchies strive" to
+最受欢迎的王室 家族都在努力摆脱或 隐
+abandon or hide their old aristocratic ways. ② Princes 藏旧有贵族习气。王子公主从事日常有薪工
+and princesses have day-jobs and ride bicycles, not 作，而且骑自行车而 不是骑马（或者 坐飞机）。
+horses(or helicopters"). ③Even so, these are wealthy
+即便如此，这些也是和全球 1??级富豪进行
+families who party with the international1?nd media
+社交活动的富有世家，媒体的侵扰使他们越
+intrusiveness makes it increasingly difficult to maintain
+来越难保持正面的形象。
+the right image.
+词汇注释与难句分析。
+②party with（与⋯⋯聚会，与⋯⋯社交）
+①strive 【straiv】 v.努力，奋斗
+②helicopter 【'helkopto】 n.直升机
+③the international1??全球1??顶级富豪）
+④maintain the right image（保持正面形象）
+经典搭配
+①day-jobs（日常的有薪工作，白天的正职工作）
+16
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 17 -----
+ 
+.语篇分析.
+第五段强化君主王室存在的弊端∶尽管努力平民化，但贵族习气并未改变。关键词为∶①strive to a-
+bandon or hide;②increasingly difficult。
+①句承上"王室贵族习气"指出受欢迎王室的做法;竭尽全力改变或隐藏。strive、abandon、hide 三词
+极富情感色彩，着力强调王室家族为生存而做的"努力改变"，并暗示其中带有"一定的虚伪性".由于旧
+有贵族习气带来重重问题，再不丢弃或隐藏将难以为继;The most successful（successful取其僻意"非常
+著名且备受尊敬"）暗示并非所有王室都能做出成功转变、成为广受民众尊敬的公众群体，为下文展开对
+"英国王室"的论述暗留空间。注∶句尾 ways 意为"习惯，作风"。
+②句举例说明具体做法∶从事日常有薪工作，骑自行车而不骑马、不坐飞机。have day-jobs 借王室
+成员如今像平常人一样从事正职工作，反衬其以前富贵闲人的角色;ride bicycles，not horses（or
+helicopters）以取舍结构指出王室成员改"以往贵族特权行为"为"如今平民化做法"。
+③句转而指出王室正面形象维护的艰难∶虽努力改变或隐藏，但难逃媒体"火眼金睛"。Even so 实
+现句群间（①②句 VS ③句）语义转折衔接，由①②句"王室的变"转为③句"王室的不变"∶先借 party with
+the international1??示具体图景"欧洲王室真正交往的对象只限于全球1??顶级富豪"说明他们并未
+真正屈尊降贵（party 此处名词动用，意为"进行社交或举办、参加娱乐性的聚会，宴会"），后借 media
+intrusiveness所示社会背景"现如今媒体侵入性强（intrusiveness 并不带有明显贬义、说明媒体对人们生
+活造成侵扰，而是趋于中性、客观说明媒体的高度发达）"说明他们越来越难以维持正面形象。
+【深层解读】首尾句暗藏呼应，着力强调"王室家族存在的弊端在媒体高度发达的现代社会中无处藏
+身"，更加凸显其贵族习气与当前社会民主价值观的格格不入∶末句 increasingly difficult maintain the
+right image与首句 hide their old aristocratic ways 暗相呼应（maintain VS hide），说明当今情形之下，君主
+王室成员想再靠"隐藏"来打造正面形象、获得民众认可将变得愈发艰难，其唯有真正做到屈尊降贵方能
+契合民意、获得民众认可。
+Ⅵ ① While Europe's monarchies will no doubt
+欧洲王室成员无疑足够聪明，能 够继 续在未
+be smart enough to survive for some time to come,it 来一段时间内存留，但正是英国王室成员 应从西
+is the British royals who have most to fear from the 班牙做戒中感受到最大恐慌。
+Spanish example
+词汇注释与难句分析 "
+③the British royals（英国王室）
+①no doubt（毫无疑问）
+②survive for some time to come（继续存留一段时日）
+④have most to fear（感受到最大的恐慌）
+2.语篇分析
+第六、七段为第三层次，回应首段设问∶欧洲王室暂可存留一些时日，但英国王室前景最为堪忧。
+第六段承上作结"欧洲王室暂可宽心"，启下论述"英国王室最为忧心"。关键词为∶①survive for
+some time to come;②have most to fear。
+句/段中 while"用于强调两种情况、活动等之间差别"将句子一分为二，暗将"英国王室"置于"成
+功/受欢迎王室"的对立面∶依然明显保持着王室原有的贵族习气;enough to 结构强调欧洲王室成员的
+机敏足以令其暂且稳坐其位一时，深层暗示他们虽已与现代民主社会格格不入，但消亡也并非就在眼
+前，其做出的努力改变起到一定的缓冲作用;it is...who...强调句型着力渲染英国王室成员而非其他欧
+洲王室最应该从西班牙事件中吸取教训（the Spanish example 回指开篇"西班牙国王卡洛斯被迫退位"事
+例，其中 example 含 punishment intended as a warning to others"警戒，鉴戒"之意）。
+【深层解读】the Spanish example复现，再度关联事件切入点与全文核心主题（关联文章主旨）∶段中
+17
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 18 -----
+ 
+（the British royals have most to fear from）the Spanish example复现文首两段 the Spanish crisis（suggest
+that monarchy is seeing its last days?...mean the writing is on the wall for all European royals...?)、the
+Spanish case（provides arguments both for and against monarchy），再次明示全文论述角度及重心;从"西
+班牙国王卡洛斯退位"看"整个欧洲王室的未来"。
+M ① It is only the Queen who has preserved3 the
+只有女王以她极为普通（尽管考究）的
+monarchy's reputation with her rather ordinary ( if
+老奶奶风格保持了 英国 王室的 声望。危险
+well-heeled)granny style. ② The danger will come with 将随查 尔 斯而至，他 不仅有品味奢侈的生
+Charles,who has both an expensive taste of lifestyle and a 活方式，而且有着很强的等级世界观。他
+pretty hierarchical view of the world. ③ He has failed to 没 能理解到王 室 家族能够存续的很大一部
+understand that monarchies have largely survived because 分原因在于他们提 供了一种服务————作为
+they provide a service—as non-controversial and non- 无争议 、非政治的国 家元首。查 尔斯 应该
+political heads of state. ④Charles ought to know that as 知道，正如英国历 史所示，君主及王室成员
+English history shows,it is kings, not republicans,who 最大的敌人恰恰是君主，而不是共和党人。
+are the monarchy's worst enemies. [416 words]
+⋯.⋯⋯.............
+。词汇注释与难句分析·
+ 经典搭配
+①Dpreserve 【prl z∶v】 v. 保护;保持
+②well-heeled a. 富有的，穿着考究的
+①granny style（老奶奶风格）
+③hierarchical 【har?'ra∶kikol】 a.按等级划分的，等级
+②come with（随⋯⋯⋯而至）
+（制度）的;等级森严的
+③an expensive taste of lifestyle（品味奢侈的生活方式）
+④republican 【r'pAblikon】 n.拥护共和政体的人;共和
+④a pretty hierarchical view of the world（相当强的等
+主义者
+级世界观）
+ 语篇分析-
+末段继而分析英国王室最为忧心的原因∶查尔斯未能适应未来君主角色，集不当行为于一身。关键
+词为 ∶The danger will come with Charles。
+①句退步承认英国女王本人尚能维持王室声誉。It is...who...强调句式辅以 only 的凸显功能，展
+现"英国王室"与上段所述"成功王室"的大为不同∶"成功王室"成员们都在努力做出改变、重树国民对王
+室的信心;而偌大英国王室，只有女王一人在维持声誉，同时反向暗示英国王室确实面临危机、且"罪魁
+祸首"另有其人;with...形似说明女王维护王室声誉的方式，实则借 rather ordinary（极为普通的，相当
+寻常的）和 if well-heeled（if 此处表达退步之意"尽管，纵然"，well-heeled 意为"富有的，考究的"）将女王
+作为大打折扣∶这种做法本就缺乏新意，更何况这还是一位"高贵的老奶奶"。
+②③④句进而指出英国王室危机的来源∶查尔斯王子。
+②句（回应第四五段）初步说明查尔斯损害王室 声誉的行为∶生活奢侈、等级世界观严重。both...
+and...暗将语义重点落于后者"自身品味奢侈也罢，甚至还持强烈等级世界观念"，既与当今社会格局
+"强调民主平等"格格不入，也与成功王室做法"放弃贵族做派，即便不愿放弃至少也隐藏锋芒而非锋芒
+毕露"形成鲜明对比，深层暗示其王位安全系数之低，不仅受国内人民质疑，甚至受全世界人民质疑。
+③句（回应第二三段）进一步指出查尔斯的致命错误;未能理解王室家族为何能够存留至今的根本
+原因。句子先借 that 宾语从句呼应第二三段所述欧洲王室为何存留 至今的根本原因"因为他们为选民
+们提供了一个无可争议且超脱政治的国家元首";再借 fail to understand 说明查尔斯王子所犯致命错误
+"完全背离了君主王室存续的正确做法，将很可能使英国王室陷入万劫不复境地（注∶近年来，准国王查
+尔斯屡次被曝利用其身份在教育等方面干预政府决策。外界甚至担忧，查尔斯继位之后，是否会因拒绝
+18
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 19 -----
+ 
+签署议案而引发宪政危机）"。
+④句（以史为鉴）向查尔斯提出劝诫;君主制最大的敌人是君主本人（意即，查尔斯应从今开始、适应
+未来君主角色）。ought to know与②句 has failed to understand形成正反呼应，构成"指出问题—给出建
+议"语义逻辑;强调句式 it is...who...辅以取舍结构 it is kings，not republicans 以及最高级表达 the
+monarchy's worst enemies，强力凸显英国王室历史教训∶君主制最大的敌人恰恰是君主本人，而非共和
+主义者（注∶16 世纪，查理一世曾与国会之间多次爆发战争，且试图迫使苏格兰进行宗教改革，从而引发
+主教战争并将自己送上断头台）。
+④句深层文意为∶一、国王不当行为才是王室危机的根本原因;不管有没有反对者的存在，王室都很
+可能会因国王错误行为而陷于危机;二、查尔斯作为未来国王，应立即改变其行为，否则英国王室危在眼
+前;三，呼应开篇事例、道出西班牙王室危机的根源∶国王卡洛斯自身行为不当。
+【深层解读】一、本段与上段 构成 因果逻 辑∶细心的读者会很聪明地借助②句 The danger will
+come with Charles推知两段间因果关联∶定冠词＋n.结构 the danger 表定指，上文必有提及，回溯即
+可推断其概括回指上段所指"英国王室最应感受到恐慌，也即，威胁/危险";come with 实表因果关
+联，因 Charles 而来;而至于查尔斯什么方面原因使得英国王室最为恐慌，则由其后 both...and...
+以及③failed to understand that...可明确得知。二、全文 monarchy的翻译处理∶1．将无任何冠词或
+单复数形式的monarchy（第一段③句、第二段①句）直接理解为表示制度的"君主制";2.将复数形
+式的 monarchies据其前后语义关联做相应调整∶如第五段①句中 monarchies因其与③句 families 的
+对接关系处理为"王室家族"，第六段①句中 monarchies 因其与主句中 royals的对接关系处理为"王
+室成员"，第七段③句因其与第三段末句 most royal families have survived 中 royal families 的对接处
+理为"王室家族";3.加定冠词的 the monarchy（第七段首末句）因其特定指代，处理为"英国王室"、
+"（英国）君主及王室成员"。
+（真题精解
+24.英国王室成员"最应感到恐慌"因为查 尔斯
+24. The British royals "have most to fear"because
+王子
+Charles_
+【A】没能让自己适应未来的角色
+[A] fails to adapt himself to his future role
+【B】 没能遵从建议改变生活方式
+[B] fails to change his lifestyle as advised
+【C】 把共和主义者当成潜在盟友
+[C] takes republicans as his potentialallies
+【D】 对政治问题采取了强硬立场
+[D] takes a tough line on political issues
+【精准定位】文末段指出英国王室危险源于查尔斯王子生活方式奢侈、等级观念严重、未能意识到王
+室君主存留的原因在于他们为民众提供了一位无可争议且备受尊重的国家元首而非一个生活极尽奢
+侈、等级观念极为严重的真正意义上的君主。可见，英国王室危机感来自"没能调整自己，适应未来君主
+角色"的查尔斯王子，【A】正确。
+【命题解密】A】是对末段所述查尔斯王子不当行为的高度概括，且体现了段中表明的"国王行为"和
+"王室危机"的直接因果关系。
+【B】源自②句 has an expensive taste of lifestyle，但这不足以概括查尔斯的"错误行为"，且 as advised
+无中生有;【C】源自④句 republicans，但该句只暗示他们是英国王室的反对者，并未指出查尔斯将其当作
+潜在盟友;【D】对③句 failed to...non-political 过度引申，文中并未指出查尔斯政治立场强硬。
+【技巧总结】本题形似考查因果关联，实则考查对查尔斯细节行为的综合概括能力。解题时需"正面概
+括＋反向推导"∶一、正确项需能概括关于查尔斯的主要信息，以偏概全以及扭曲事实的选项须排除（如【B】
+中 lifestyle 以偏概全"所有错误行为"且添加新信息"他人建议"、【C中 takes..as allies 根据历史事实"共和
+主义者是英国王室的敌人"扭曲出查尔斯单向行为"将共和主义者视为潜在盟友"、【D】中 takes a tough
+line.根据君王留存的价值"超越政治"扭曲出查尔斯单向行为"对政治问题采取强硬立场"）;二、关于女
+19
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 20 -----
+ 
+王的信息"维持了英国王室的声誉（has preserved the monarchy reputation）"可作为概括推理的反向依据∶查
+尔斯做法难保君主及王室的声誉（即【A】未能调整心态及行为，适应未来君主的角色）。
+·全局真题精解
+25.以下哪项最适合做文章题目?
+25. Which of the following is the best titl of the text?
+[A]Carlos,Glory and Disgrace Combined
+【A】 卡洛斯，光荣与耻辱的合体
+【B】 查尔斯，渴望继承王冠
+[B] Charles,Anxious to Succed to the Throne
+[C] Carlos,a Lesson for All European Monarchs
+【C】卡洛斯，给所有欧洲君主的教训
+[D] Charles,,Slow to React to the Coming Threats
+【D】查尔斯，迟于应对迫近的威胁
+【精准定位】文首段以"西班牙国王卡洛斯被迫退位"事件引发全文探讨问题∶欧洲王室是否行将就木?
+第二至五段分析指出欧洲各王室靠其努力调整仍将持续一段时日;末两段聚焦英国王室，指出查尔斯王子
+不当行为致其面临危机。纵观全文，作者实以卡洛斯事例警示欧洲王室做出调整，【C】正确。
+【命题解密】正确项恰当涵盖全文主要内容∶从"卡洛斯退位"看"整个欧洲王室备受争议"的现状。
+【A】偏离主线∶文章关注点在"欧洲各君主国"，而非"卡洛斯个人荣辱";【B】利用背景信息"查尔斯
+已做王储多年、且登上王位依然遥遥无期"捏造干扰，但非文中信息;【D】只在文章末段提及，且将文意
+"查尔斯给英国王室带来威胁"改为"查尔斯迟于应对面前威胁"。
+【技巧总结】本题以"文章标题"形式考查考生对全文的把握。解题时可采取思路"重在对比分析选
+项，同时回顾文章内容"∶四个选项均为"人物＋ 短语"形式;【B】、【D】关注人物 Charles 仅出现于最末两
+段，且随后短语均针对查尔斯个人，故排除;【A】、【C】以人物 Carlos为文章切入点，但【A】中短语关注的
+是 Carlos个人，排除，【C】 AllEuropean Monarchs 为全文关注对象，alesson 体现以"卡洛斯被迫退位看
+欧洲王室现状"的视角，故正确。
+Text 2 最高法院应该开始为智能手机制定
+隐私保护条例
+知识补充
+原文外教朗读
+一、文章总体分析
+本文选自 The Washington Post《华盛顿邮报》2014 年4月 28 日文章∶Supreme Court should begin
+laying out privacy protections for smartphones（最高法院应该开始为智能手机制定隐私保护条例）。文章
+脉络∶提出问题"警方实施逮捕时，是否可无证搜查嫌疑人手机"（首段）→分析问题（第二至四段驳斥加
+州观点"警方可无证搜查嫌疑人手机";第五、六段说明令人担忧现状"个人数字隐私未能得到有效保
+护"）→解决问题"最高法院须对第四修正案保护范围做出新解释、使之适用于数字信息"（末段）。
+ 二、语篇分析及试题精解
+I ④Just how much does the Constitution"protect
+宪法到底在 多大程度上保护你的数字
+your digital data? ② The Supreme Court will now 数据? 最高法 院将 即刻讨论，在没有搜查令
+consider whether police can search the contents of a 的情况下，警方在逮捕过程中是否可以搜查
+mobile phone without a warrant2if the phone is on or 嫌疑人身上或身旁手机的内容。
+around a person during an arrest.
+.⋯⋯⋯⋯⋯⋯⋯
+20
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 21 -----
+ 
+【词汇注释与难句分析。
+①Constitution 【konst'tju∶jon】 n. 宪法
+ ①just how much（到底多少，究竞多大程度上）
+ ②will now（现在/立即/马上要）
+②warrant 【'woront】n，授权证;搜查令
+③on or around a person（某人身上或身旁）
+●经典搭配
+④during an arrest（逮捕过程中）
+第一段提出全文探讨问题∶警方无证搜查嫌疑人手机内容的合法性。关键词∶search the contents of
+a mobile phone。
+①句设问点题∶宪法到底在多大程度上保护个人数字数据?关键词为 protect your digital data。
+Just how much（到底有多少，究竟有多少）暗示当前各界对此众说纷纭、莫衷一是，传达如今作者要
+打破砂锅问到底的气势，并吊起读者一同探究的心理。
+②句细化问题∶警察抓捕嫌疑人过程中，是否可以无证搜查其手机内容? will now consider（将即刻
+讨论）回应 Just how much 所传递的急切探究心理;重点落于 whether 从句。
+whether police can search the contents of a mobile phone 初步明确上述问题所指（the contents of a
+mobile phone细化明确 your digital data;search 反向呼应 protect。without a warrant、i the phone is on
+or around a person、during an arrest 详细说明问题三个预设条件∶一、无搜查证/未经授权（warrant 与
+scarch 一起使用指"搜查证"）;二、手机在嫌疑人身上/身旁;三、警察在抓捕嫌疑人过程中。
+【深层解读】结合语境，理解 protect/search/consider 特定含义。protect 本意为"保护"，这里指宪法/
+法律（the Constitution）规定不得侵犯;search本意为"（仔细）查找，搜查（以求找到某物）"，（Police）search
+the contents of a mobile phone指警方搜查嫌疑人手机内容（以求找到犯罪线索等）;consider 本义为"认
+真讨论（以做出决定）"，此处指最高法院9大法官（The Supreme Court）展开严肃、认真、全面的讨论（以
+做出裁决）。
+-真题精解
+26. The Supreme Court will work out whether,during an 26.最高法院将要确定，逮捕过程 中
+是否合法。
+arrest,it is legitimate to
+【A】阻止正嫌疑人删除手机内容
+[A] prevent suspects from deleting their phone contents
+[B] search for suspects'mobile phones without a warrant
+【B】在没有搜查 令的情况下 寻找嫌疑人
+手机
+【C】在未经批准的情况下 检查嫌疑人手机
+[C] check suspects'phone contents without bcing authorized
+内容
+【D】禁止 嫌疑人使用手机
+[D] prohibit suspects from using their mobile phones
+精准定位】第一段②句指出，最高法院即将讨论在逮捕过程中，警方可否无证搜查嫌疑人的手机内
+容。即，最高法院将要解决的问题是"逮捕过程中，未经授权搜查嫌疑人手机内容是否合法"，【C】正确。
+【命题解密】题干＋正确项【C】构成对首段②句的同义改写∶题干中 work out 对应文中 consider;is
+legitimate to 对应 can;正确项中 check 对应 search;without being authorized 对应 without a warrant。
+【A】利用背景信息"警察会阻止嫌疑人删除手机内容"过度推导∶最高法院针对的是"（警察）搜查手
+机内容"，未涉及"（嫌疑人）删除手机内容"。【B】将②句 search the contentsof amobile phone（搜查手机
+内容【以求找到想要信息】）偷换为与之形近意远的 search for mobile phones（搜索【某一范围】以求找到
+手机）。【D】将首段②句 the phone is on or around a person 断章取义为"不允嫌疑人携带/使用手机"。
+【技巧总结】本题就长难句命制事实信息题。解题时可采用思路∶首先提取句子针对主体（主语）、行
+21
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 22 -----
+ 
+为（谓语）、具体情形（时间、条件、地点等），并与选项对比、初步判定正误;随后借助上下文检验。
+具体来看，首先根据题干可知正确项来自第一段②句 whether 宾语从句（during...已入题干，可忽
+略）。随后提取其"骨架"whether police can..without..，i...，发现其针对主体（警方），针对行为（是
+否能搜查嫌疑人手机内容），具体情形（无搜查证、手机在嫌疑人身边），并排除"主体错误（police→
+suspects）"的【A】、【D】。最后仔细对比【B】，【C】∶【B】偷换"针对行为"，且与上文"个人数字数据保护"无
+关;【C】与原文一致，且与上文直接相关（"手机信息"属"数字数据"），故舍【B】选【C】。
+Ⅱ ④ California has asked the justices to refrain①
+加州已请求大法官 们（克制住）不要做
+from a sweeping" ruling, particularly one that upsets the 出全 面性 裁定，尤其是 不要破坏"执法当局
+old assumption that authorities may search through the
+在实施逮捕时可搜查嫌嫌疑人财物"这 一 古
+possessions of suspects at the time of their arrest°. ②It 老假定。该州认为，法官很难评估快速 变 化
+is hard, the state argues, for judges to assess the 的新技术可能带来的影响。
+implications" of new and rapidly changing technologies. ...........-..........⋯...
+·.....................................,
+，词汇注释与难句分析 。
+⑧assess 【o'ses】 v.评定;评估
+①refrain 【rI'freun】 v.抑制，克制
+②sweeping 【'swi∶pun】 a.彻底的;影响广泛的，全面的
+⑨implication 【impl'ker【on】 n.（行动、事件、决定等）可
+能的影响或后果
+③upset 【Ap'set】v.打乱，搅乱;推翻
+④assumption 【o'sAmpfon】 n.假定，假设
+●经典搭配
+⑤posssion 【po'zelon】n. 财产，所有物
+①search through（搜查）
+⑥suspect 【so'spekt】n.嫌疑犯
+②at the time of one's arrests（逮捕某人时）
+⑦rrest 【o'rest】 . 逮捕，拘捕
+California has asked the justices to refrain from a sweeping ruling,particularly one that upsets the old
+assumption that authorities may search through the possessions of suspects at the time of their arrest.
+California has asked the justices to refrain from a sweeping ruling,
+宾语
+谓语
+_主语
+目的状语填
+同位语
+定语从句that upsets the old ssumption
+artiuarly one 
+主语 谓语
+宾语
+同位语从句
+thatauthorities may search through the possesions of suspects at the time of theirarrest.
+引导词
+时间状语
+主语
+谓语+宾语
+功能注释∶本句主干为 California has asked the justices to...（加利福尼亚州已请求法官们⋯⋯）。
+逗号后内容是对 a sweeping ruling（笼统裁决）的进一步说明;其中 one 即指 one sweeping ruling;第一个
+that 引导的句子做 one 的定语，对笼统裁决做出限定;一个打破旧有假定的笼统裁决;第二个 that 引导的
+句子做 the old assumption 同位语，补充说明旧有假定的内容;执法当局可以在逮捕时搜查嫌疑犯物品。
+语篇分析.
+第二至六段分析问题。第二至四段驳斥加州观点"（最高法院 应判决）警方可以无证搜查嫌疑人手
+机内容"。
+第二段介绍加州观点∶不应做出全面性裁定，尤其不能打破旧有假定"执法当局在逮捕时可以搜查
+嫌疑人财物"。关键词∶old assumption。
+22
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 23 -----
+ 
+①句介绍加州观点。particularly one（=particularly a sweeping ruling）体现语义递进∶引出典型事例、
+做进一步强调（重心落于后半句）。
+particularly 之前先以 A ask B to refrain from sth结构（refrain from sth 意为 to not to do sth that you
+want to do"克制住，忍住"）呈现加州站位∶建议法官不要作出全面性裁定（暗示基于当前情形，法官很有
+可能会做出此类裁定）。附注∶sweeping ruling 为新闻常用表述（取 sweeping 基本含义"影响大的，范围
+广的，彻底的"），指法院针对规定不一的社会争议性问题，形成一条通用性裁定（适用于所有常规情形），
+具体到本文话题即∶就"警察是否可以搜查手机内容/数字信息"做出通用性裁定。
+particularly 之后以双重否定（refrain from）one that upsets the old assumption（upsets 意为"（以一种
+导致问题的方式）打乱、破坏"，带贬义色彩）强调加州观点∶尤其是不得打破旧有假定。附注∶assumption
+本意为a statement that is assumed to be true and from whicha conclusion can be drawn"（认为正确、且可
+从中衍生推论的）假定，认定"，此处指"没有法律明文规定，也不能确定完全合理，但基于经验/先见/实
+际需求，在法律层面看作是真实的假定"。本句所述"古老假定（the old assumption）——执法当局在逮捕
+嫌疑人时可搜查其财物"意在保障警察安全以及保全证据，已被普遍认可许多年（虽然对其适用范围的
+争议同样旷日持久），"不要打破古老假定"即∶不要判定"无证搜查嫌疑人手机内容"违宪。 
+②句说明加州理由∶法官尚难以评估新技术（数字技术）的影响。new and rapidly changing technolo-
+gies、It is hard..to assess the implications（implication 意为"可能的影响/后果"）回应上句，展现加州观
+点∶新技术（数字技术等）日新月异、法官难以评估其影响，故不可轻易做出全面性裁定，更不可贸然打破
+旧有假定。
+【深层解读】一、本段以"观点引出词＋时态"变化，体现"介绍（加州）观点——说明理由"的逻辑∶
+①句California has asked 以"情感较中性的 ask＋现在完成时"陈述加州已向最高法院申明的观点;
+②句...the state argues 以"情感激烈的 argue+一般现在时"引出支撑上述观点的理由"。同时，本段凸
+显的"加州言之凿凿"喑示下文将会紧随"作者评论"（且更可能是反驳）。
+二、借助词汇关联理解句间、段间关系∶本段 thejustices 和 judges 同指，均指法官（包括最高法院大
+法官），但前者强调"正义;法官身份"，后者强调"判断;审理过程"（契合本段①②句逻辑）;authorities 本
+义为"（国家或地区的）当权者，当局"，根据其后 their arrest 可知此处指"警方"（回应上段 police）。
+..................................;
+Ⅲ ④ The court would be recklessly" modest2if
+若是听从加州的建议，最高法 院 那真是"谦虚"
+it followed California's advice. ② Enough of the 得不计后果。（现在已经有）足够多 的影响可 以辨
+implications are discernable, even obvious,so that 别，甚至很明显，因此法官们能够也应 当向警方、律
+the justices can and should provide updated 师以及被告提供更新的指导原则。
+guidelines to police,lawyers and defendants .
+【词汇注释与难句分析
+●经典搭配
+①recklessly 【【'rekisl1】 ad.不考虑后果地
+②modest 【'mdist】 a.保守的
+provide updated guidelines（提供更新的指导性意见）
+③discernable 【d's∶nobl】 a.可辨别的，可认识的
+④defendant 【d'fendont】 n.【法】被告人
+5 语篇分析 
+第三段作者反驳加州观点，指出最高法院能 够且必须提供更新的指导原则。关键词为∶updated
+guidelines。
+①句承上启下，提出反驳∶最高法院若采纳加州建议，则是谦虚到不计后果。California's advice 回指
+上段加州观点。
+虚拟判断句...would be...i...反向强调作者观点∶最高法院万不能采纳加州建议。recklessly（轻
+23
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 24 -----
+ 
+率地，不计后果地）modest（谦逊的，谦恭的）以矛盾修辞传递作者强烈建议∶作为宪法的最终解释者，美
+国法律的风向标，最高法院若是采纳加州之言（认为难以评估新技术影响而不去做出全面性裁定、怯于
+打破旧有假定），则是谦逊到不负责任、不计后果。
+②句语意递进，明确观点∶最高法院能够且应当为法律界提供更新的指导原则。so that 体现因（事
+实）果 （观点）关系 ;can and should 凸显作者立场。
+前半句说明事实∶Enough of the implications、discernable even obvious 强调新技术的"可见影响（可
+辨别的→甚至显而易见）"已经"足够多"，一反上段②句加州论据"新技术影响难以评估（hard to ac-
+cess）"。后半句表明观点∶can and should provide updated guidelines（能够且应当提供更新的指导原则;
+update 意为 to add the most recent information to sth"为⋯⋯增加最新信息，更新"）强调最高法院"更新
+法律指导原则、以满足新技术发展需要"的可行性和必要性，直斥上段①句加州论点"不能做出全面性裁
+定，更不能破坏旧有假定（refrain from a sweeping ruling...that upsets the old assumption）"。
+【深层解读】第二、三段作者 对加 州 的反驳 集中体现 于 old assumption/sweeping ruling/updated
+guidelines这组短语∶加州提出最高法院应避免做出全面性裁定，尤其是不得打破旧有假定，作者反驳指
+出最高法院能够且应当做出全面性裁定、为法律界更新指导原则。且两段形成完美的批驳结构∶第二段
+介绍加州论点（①句）＋论据（②句）——第三段作者先明确批驳态度（①句）——随后批驳加州论据（②
+句前半句）、最后直击加州论点（②句后半句）。但作者仍有未尽之意（后文将论及）∶为什么维持旧有假
+定是"不计后果"、必须提供新的指导原则。
+.......................
+Ⅳ  They should start by discarding California's
+他们应该首先，摒弃 加州的蹩脚观点;翻
+lame argument that exploring the contents of a 看智能手机内容——一个庞 大 的数字信息
+smartphone—a vast storehouse of digital information—is 库——相当于翻查 嫌疑人的钱包。最高法
+similar to,say,going through a suspect's purse. ②The
+院已经裁定，警方无证搜查被捕人的钱包或
+court has ruled that police don't violate the Fourth
+钱袋并不违反宪法第四修正案。但是查看
+Amendment when they go through the wallet or
+pocketbook of an arrestee without a warrant. ③ But 一个人的智能手机更像是进入他或她的家。
+exploring one's smartphone is more like entering his or her 智能手机里可能存有被捕者的 阅读记录、财
+home. A smartphone may contain an arrestee's④
+务记录、病史记录以及近期通信往来的详细
+reading history,financial history,medical history and
+记录。与此同时，"云计算"的发展已经使那
+comprehensive records of recent correspondence.⑤The
+种搜查大为容易。
+development of"cloud computing",meanwhile,has made
+that exploration so much the easier.
+词汇注释与难句分析
+经典搭配
+①discard 【d'ska∶d】 v， 丢弃，抛弃
+②lame 【leim】 a.差劲的，无说服力的;拙劣的
+①digital information（数字信息）
+②cloud computing（云计算）
+③violate 【'varolet】 v.违反;妨碍;侵犯
+①arrestee 【ores'ti∶】 n.被捕者
+③so much the easir（这样更容易）
+⑤correspondence 【korI'spondons】n.通信，信件
+语篇分析
+第四段进一步反驳加州观点"搜查智能手机如同搜查钱包（属于随身物品）"。关键词∶more like
+entering his or her home.
+①句概述作者观点∶最高法院应摒弃加州蹩脚观点"搜查智能手机如同搜查钱包"。They should start
+by...紧承上段 can and should provide updated guidelines，阐释作者观点。
+that 从句以 A is similar to B句式呈现加州观点∶智能手机与任何一件随身物品一般无二（say"比方
+24
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 25 -----
+ 
+说，表示随意列举"，凸显这一观点）。破折号内插入评注 a vast storehouse of digital information 暗中传
+递作者讽刺;加州居然将巨大的数字信息库（智能手机）等同于钱包之类的任意随身物品! discarding（丢
+弃，抛弃）、lame（（借口、说法等）站不住脚的，蹩脚的"）明确作者对加州观点的否定。
+②句顺接①句加州观点、指出已有法律事实∶最高法院已判定警方无证搜查被捕者钱包合宪 （暗示
+加州逻辑;法官应同理认定无证搜查手机合宪）。has ruled...don't violate the Fourth Amendment 明确
+"警察搜查钱包的合宪性"，并说明本文探讨问题乃针对宪法第四修正案。an arrestee、without a warrant
+复现争议前提∶警察实施逮捕中、无搜查证。注∶本句可视为对第二段 the old assumptions 的回应。
+③④⑤句语义强转折（But），作者对加州观点进行还击（说明为 何应摒弃加州观点）∶搜查智能 手机
+更像入室。
+③句表明作者观点∶搜查智能手机更像入室搜查（不适用于②句裁决）。本句 A is like B与①句同为
+比较结构，但 more like（更像是）还击 similar to，彰显作者观点。附注∶本句涉及众所周知的背景"美国社
+会文化中，未经许可进入个人家中属于非法行为"。
+④句进而说明理由∶智能手机内（如同一个人的家中）含有大量个人 隐私。四个并列名词 reading
+history，financial history，medical history and comprehensive records of recent correspondence 充分展现
+了手机信息无所不包，涉及人们各方面隐私（history 与 records 为同义表达，均表示"记录，档案"之意，凸
+显手机信息的大量、私密），警醒读者思忖∶手内容息真的可以无证搜查?
+⑤句补充加强理由∶云技术发展使搜查 智 能 手 机 更易 如 反 掌（随意搜查严 重危 及个人隐私）。
+meanwhile（用以引出某一情形的另一方面）体现于上句的"叠加"∶智能手机信息覆盖生活方方面面的隐
+私，云技术的发展又使查询手机信息异常容易，将读者导向作者观点∶不得无证随意搜查个人手机。句
+中 that exploration 回指③句 exploring one's smartphone;so much the easier 源自 so much the better（那
+就更好了），意指"大为容易"。
+【深层解读】语义上，本段为作者对加州的另一轮反驳，集中体现于 going through a suspect's purse
+VSentering his or her home这组对比（前者浓缩"加州逻辑";后者体现"作者观点"）。结构上，本段为典
+型的起一承一转一合∶①句总起表明作者态度∶最高法院应摒弃加州观点——②句承接①句暗示加州逻
+辑——③④⑤句转、合∶批驳加州认识、阐明①句作者态度。整体上，本段又可视为对第二、三段观点进
+一步阐释∶为何固守旧有假定是"不计后果"?——手机虽貌似"随便一件随身物品"，但实际上并非如
+此，而是一个"巨大的隐私文件库"，死板维护旧有假定严重危及公民隐私。
+真题精解
+27.作者对加州观点的态度是____。
+27.The author's attitude toward California's argument
+is one of_
+【A】 不赞成
+[A] disapproval
+【B】 不关心
+[DB]indifference
+【C】 宽容
+[C] tolerance
+【D】 谨慎
+[D] cautiousness
+【精准定位】第三段①句指出，最高法院若听从加州建议，则是谦虚到不计后果。第四段①句提议最
+高法院摒弃加州的蹩脚言论。可见作者并不赞同加州观点，【A】正确。
+【命题解密】正确项【A】是对作者情感表达词 recklessly modest（谦虚到不计后果）、discard（摒弃）、
+lame（蹩脚的，站不住脚的）的合理归纳。
+【B】将第四段①句 discarding California's...argument（作者提出高院应摒弃加州观点）曲解为"作
+者认为应对加州观点不予理睬（indifference）"。【C】将第三段①句 recklessly modest（谦虚到不计后果）
+所传递的"讽刺、否定"错误理解为"勉强接受/容忍"（tolerance）。【D】利用第三段①句 recklessly（草率，
+不计后果）设置反向陷阱 cautiousness（小心，谨慎），但该词用以说明高院采纳加州观点的后果，而非作
+者对加州观点的态度。
+25
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 26 -----
+ 
+【技巧总结】本题考查"本文作者"对"文中人物观点"的态度。可从两层面解题∶一、作者所用评价性
+词汇褒贬;二、作者进行评价的逻辑结构。解题时需全面把握作者观点态度，切忌对个别词段断章取义。
+具体来看，解题时可借两条线索判断∶一、综合评价性（贬义）词汇 recklessly modest（谦虚到不计后
+果）、should discard（摒弃）、lame argument 整脚的观点。二、理解第三段中作者对第二段加州观点的批驳
+（集中体现于...to refrain from....upset the old assumption VS can and should provided updated guide-
+lines）以及第四段③④⑤句作者对①②句加州逻辑的反击（集中体现于 But...is more like...）。三个干
+扰项【B】，EC】，【D】本质上都是对个别词汇（recklesly modest，discard）的断章取义。
+28. The author believes that exploring one's phone 28.作 者 认 为 查 看 一 个 人 手 机 内 容 犹
+如___
+contents is comparable to___.
+【A】 翻查一个人的钱包
+[A] going through one's wallet
+【B】 处理一个人的历史记录
+[B] handing one's historical records
+【C】 浏览一个人的通信往来
+[C] scanning one's correspondences
+【D】进入一个人的住处
+[D] getting into one's residence
+【精准定位】第四段③句明确指出∶查看一个人的手机就犹如进入他或她的家（entering his or her
+home），可见【D】正确。
+【命题解密】正确项【D】是对第四段③句 entering his or her home（进入他或她家中）的同义改写。
+【A】错将第四段①句加州观点（作者反驳的观点）"查看手机内容犹如查看钱包（similar to going
+through a suspect's purse）"当做作者观点。【B】源自第 四段④句 medical history、【C】源自该句
+comprehensive records of recent correspondence，但两选项严重以偏概全∶只是搜查手机危及的（诸多方
+面）中的一方面，并非"搜查手机内容"的整体类比对象。
+【技巧总结】本题就"文中类比信息"考查"作者观点"。解题时需∶准确辨别信息，勿将他人观点当做
+作者看法;整体理解作者观点，切记以偏概全。具体来看;首先根据题干可找到文中两处对应信息（第四
+段①句和②③句），随后发现①句为加州观点（California'slame argument），②③句才是作者观点，故舍弃
+与①句对应的【A】。随后对比发现，【B】【C】均以偏概全，可排除;【D】契合作者整体类比，故正确。 
+V ④ Americans should take steps to protect their
+美国人 应当采取措施保护他 们 的数 字
+digital privacy. ② But keeping sensitive information on 隐私。但是把敏感信息保存在这些设备上
+these devices is increasingly a requirement of normal 正日渐成为 正常生活的一种需要。不过（英
+life. ③ Citizens still have a right to expect private 国）公民有权要求私人文件保持不公开以 及
+documents to remain private and protected by the 宪法禁止无理搜查的保护。
+Constitution's prohibition2 on unreasonable searches.
+·词汇注释与难句分析
+● 经典搭配
+①digital 【'did3itol】 a.数字的;数据的
+②sensitive 【'senstiv】 a.敏感的;感觉的
+①take steps to do sth（采取措施做某事）
+③device 【dtlvais】 n.装置，设备
+②a requirement of normal life（正常生活的需要）
+④prohibition 【L.prouh'buJon】 n.禁令，禁律
+③unreasonable search（无理搜查）
+5语篇分析.
+第五、六段说明令人担忧的现状∶公民个人数字隐私未能得到有效保护。
+第五段先退步，指出宪法赋予了公民"免受无理搜查"的权利。关键词∶the Constitution's prohibition
+on unreasonable searches。
+26
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 27 -----
+Y[φ.=5=
+ 
+①句直接指出公民应该自行采取措施保护数字隐私（如尽力避免将隐私存储到智能设备）。protect
+their digital privacy 紧承上段"手机隐私威胁"，且回应开篇 protect your digital data（their= your=
+Americans'，泛指美国公民），凸显本文关注问题。Americans should take steps强调"个人应该采取措施"。
+②转而指出如今将敏感信息存储到智能设备日益成为正常生活所需（仅靠个人已无法保护数字隐
+私）。sensitive（（文件、报告）机密的，须妥善保管的）点出信息的"敏感性、隐私性";increasingly a
+requirement of normal life（normal意为 usual，typical，表示"已成常态"）强调将敏感信息储存到智能设备
+日益成为正常生活所必需、无可避免;两者共同暗示个人数字隐私亟待法律保护。
+③句明确指出公民有权要求私人文件受到宪法"禁止无理搜查"的保护。still（然而，尽管如此）针对
+②句所述情形，转而强调可喜情形"公民有权期待法律保护"。have aright to expect private documents
+to remain private、protected by the Constitution's prohibition 指向宪法（第四修正案）赋予人们的权利;免
+受不合理搜查。
+【深层解读】②句的 But 实则涵盖②③两句，和①句形成两个层面的转折;①②句以 Americans
+should...But...形成对比转折（人们应该如何 VS现实情形如何），强调如今情形∶人们不得不将敏感信
+息存储到智能设备上，面临隐私威胁。①③句以 Americans should take steps...Citizens still have a
+right to expect...形成让步转折（人们应该自行采取措施——但依然有权利期待法律保护），强调宪法赋
+予公民的"免受无理搜查"权利。
+.................
+V ④ As so often is the case,stating that principle
+中申明原则并不 能减，轻界限划定的挑战，
+doesn't ease the challenge of line-drawing. ② In many 这是常有的事。很多情况下，当局获得搜查 
+cases, it would not be overly burdensome" for 令再搜查手机信息也不会太麻烦。他们还
+authoritiesto obtain"a warrant to search through phone 可以在面临严峻、紧急情况时越过第四修正
+contents. ④ They could still invalidate Fourth
+案的保护条例;他们也可以在等待搜查令时
+Amendment protections when facing severe, urgent
+采取合理措施以 保证手机数据不被删除或
+circumstances,and they could take reasonable measures
+更改。尽管如此，最高法院或许还想要为警
+to ensure that phone data are not erased2or altered while
+waiting for a warrant.④ The court,though,may want 方引证有权行使更多 自主行为的情形留下
+空间。
+to allow room for police to cite situations where they are
+entitled to more freedom.
+词汇注释与难句分析·
+-v:*KZnZ20f9
+①as so often is the case（这是常有的事;一如通常情况）
+①burdensome 【'bs∶dns?m】 a.繁重的;麻烦的
+②authority 【o∶'θorit1】 n.权威;权力
+②take reasonable mcasures（采取合理措施）
+③obtain 【3b'tern】 v.获得，得到
+③allow room for（为⋯⋯.留有余地）
+④be entitled to more freedom（有更多回旋余地）
+④erase 【r'rerz】 v.擦掉;抹去;清除
+经典搭配
+语篇分析
+第六段转而指出令人担忧的现 实情 形∶界 限划分不明、公民 隐私 并未得到有效保护。关键词;
+doesn't ease the challenge of line-drawing。
+①句指出现实情形;划定"无理搜查"的界限依然是个挑战（暗示公民隐私实际上难以得到有效保
+护）。As so often is the case为固定表达，意为"⋯⋯是常有的事"，从上段的"宪法原则"转入本段的"实
+际情形"（so often 强调"情形极其常见"）。stating that principle 回指第五段末"宪法赋予了公民要求敏
+感信息免受无理搜查的权利"。doesn't ease the challenge of line-drawing（line-drawing 源自固定用法
+draw a line（between A and B）"划清界限，加以区别"，此处指"合理搜查 VS无理搜查"）概述现实情形∶
+很难界定"无理搜查"（警方享有很大的搜查自由）。
+②③句解释①句，分情况说明现实情形∶警方在搜查智能手机上享有很大自由，公民数据隐私受到
+27
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 28 -----
+ 
+严重威胁。still 体现两句间语义递进，引出警方更大的搜查自由。
+②句首先指出常见情形（In many cases）∶警方很容易便可获取搜查证，以搜查手机信息。would not
+overly burdensome（overly 意为（often in negatives）too or very"（常用于否定句）太，非常"）指出警方获取
+搜查 证并非难事;In many cases 则强调这种情况并非少数。
+③句 进 而 指出 两 种 特 殊 情 况（when facing severe，urgent circumstances..when waiting for a
+warrant）;一、紧急情况下警方可悬置第 四修正案、无证搜查手机信息（invalidate 意为"使无效，使无价
+值"，展现"第四修正案的保护如同虚设"的情形，强调警方行为权力之大，公民隐私所受威胁之大）;二、
+等待搜查证时警方可采取合理措施、确保 嫌疑人手 机信息不被删除或更改（reasonable 一反上段
+unreasonable，指出警察可以绕过"无理搜查"的指摘，等待取得搜查证，且等待过程中可以采取"合理措
+施"保护手机信息，即 ∶手机信息最终难免警方"合理搜查"）。
+④句回归本文案例，指出眼前最高法院判决的可能性;为警方留出更多自主行为的空间。though
+（"尽管如此，然而⋯⋯"）引出一种违背常理的推测/法庭裁决的一种可能（may）∶警方已经有足够多途径
+搜查嫌疑人手机，纵然如此，最高法院还是可能会想要给警方更多的自由行动空间。句中 cite situations
+（situation 义同 cases"案例情形"）为法律术语，指"援引案例情形"。
+【深层解读】本段整体上为以 though 体现的转折结构，从中可体味作者就"公民隐私未得到有效保
+护"的担忧，以及最高法院就"保护公民隐私 VS 给予警方自由"的立法博弈∶①②③句指出令人担忧现
+状∶警察已经有很大自由搜查嫌疑人手机，危及公民数字隐私;④句转回当前案例∶最高法院可能还是会
+想给予警方更多自由空间。同时，本段和上段以 As so often is the case 形成"理论情形 VS 现实情况"的对
+比∶宪法虽赋予了人们"免受不合理搜查"的权利，但实际情形却是"由于界限划分不明，公民数据隐私并
+未得到保护"。下文进而提出建议也就水到渠成。
+真题精解
+29.第五、六 段中，作 者 表达 了对___的
+29. In Paragraphs 5 and 6, the author shows his
+担忧。
+concern that 
+[A] principles are hard to be clearly expressed
+【A】原则很难清楚地表达
+[B] the court is giving police less room for action
+【B】法院将给警察更小的行动余地
+【C】手机被用来储存敏感信息
+[C] phones are used to store sensitive information
+[D] citizens' privacy is not effectively protected
+【D】公民隐私没有得到有效保护
+【精准定位】第五段末句指出∶公民有权要求私人文件得到宪法禁止无理搜查的保护。第六段转而指
+出，申明原则并不能减轻界限划定的挑战∶搜查证并不难获取，紧急情况下可越过第四修正案进行搜查，等
+待搜查证时可采取措施不让嫌疑人删除信息。可见作者认为公民隐私并未受到有效保护，【D】正确。
+【命题解密】正确项【D】是对第六段①-④句...docesn't ease the challenge of line-drawing ...could
+still invalidate Fourth Amendment protections...的概括与引申。
+【A】将第六段首句 stating that principle doesn't ease the challenge of line-drawing（申明原则并不能
+减轻划定界限的挑战∶难在划定界限）曲解为"很难申明原则"。【B】将第六段末句"最高法院可能想要
+为警方留下更大的行动空间（allow room for police...）改为与之完全相反的"给予警方更小的行动空间
+（giving less room for action）。【C】利用第五段②句 keeping sensitive information on these devices 设置陷
+阱，但该句说明"人们将敏感信息存储在手机已 成为日常生活的一部分/是必须接受的现实（a
+requirement of normal life）"，作者真正担忧的是"这些敏感信息是否得到法律有效保护"。
+【技巧总结】本题要求回答"作者担忧对象"，考查考生理解细节、区分事实与观点以及逻辑推断能
+力。考生可从两个方向解题∶一、小处着手，将选项定位对比原文，进行判断;二、大处着眼，借段落结构
+进行推理，把握作者真正观点。需注意∶正确项需顺应作者整体观点。
+具体来看∶首先根据选项关键词 concern 直接定位到第六段①句（doesn't ease the challenge of line-
+28
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 29 -----
+ 
+drawing），并发现【A】似乎与该句最为接近，但对比后发现【A】实则偷换概念。随后将【B】定位到第六段
+④句，但对比发现与文意相反。【D】符合第五、六段以 As so often is the case形成"理论情形 VS 现实情
+况"的对比，并可概括第六段②③句，且顺应作者观点"最高法院应就数据隐私搜查提更新的指导原则"，
+故正确。将【C】定位到第五段②句，发现这是作者接受的事实，并非其担忧对象，也可排除。
+M ① But the justices should not swallow"
+但是法官们不应全盘接受加州 的观点。
+California's argument whole. ② New, disruptive2 新的破坏性技术有时需要 宪法保护 范围的
+technology sometimes demands novel applications of the 新颖应用。法 学教授奥林·克 尔把"21世
+Constitution's protections. ③Orin Kerr,a law professor,
+纪数字信息爆炸及其可获取性"与"20世纪
+compares the explosion2 and accessibility" of digital
+汽车确 立为生活必需"相较∶当时法官 们 不
+information in the 2lst century with the establishment of
+得不为小轿.车这一新兴私人领域明确 新规;
+automobile use as a virtual@necessityof life in the 20th:
+现在他们也必 须 解 决 第 四 修 正案 如何适 用
+The justices had to specify novel rules for the new
+于数字信息的问题。
+personal domain" of the passenger car then; they must
+sort out9 how the Fourth Amendment applies to digital
+information now. [420 words]
+词汇注释与难句分析
+⑨domain 【dao'meln】 n.范围，领域
+①swallow 【'swolou】 v.忍受，轻信
+sort out 解决
+②disruptive 【ds'rAptiv】a.破坏的;扰乱的
+③novel 【'novol】 a.新奇的;异常的
+●经典搭配
+④explosion 【rk'splou3on】 n.爆炸;爆发;激增
+①novel application（新的运用）
+⑤accessibility 【okiseso'biloti】n.易接近，可达性
+②digital information（数字信息）
+⑥virtual 【'v3tjol】 a.几乎的，实际上的
+③automobile use（ 汽车使用）
+⑦necessity 【n'sesti】 n.（迫切）需要;必需品
+④passenger car（小客车）
+⑧specify 【'spesifa】 v.具体指定;详述
+Orin Kerr,a law professor,compares the explosion and accessibility of digital information in the 21st
+century with the establishment of automobile use as a virtual necessity of life in the 20th: The justices had to
+specify novel rules for the new personal domain of the passenger car then;they must sort out how the Fourth
+Amendment applies to digital information now.
+结构切分∶
+a law professor;
+in the 2Ist century
+句子主干∶【Orin Kerr, Vcompares the explosion and accessibility of digital information with
+主语
+谓语（compare A with B）+宾语
+-in the 20th:;
+the establishment of automobile use as a virtual necessity of life <-
+解释说明
+分句∶ 
+novel rules for the new personal domain of the passenger car then
+The justices had to specify
+谓语
+时间状语
+宾语
+主语
+目的状语
+宾语
+分句2.【they
+how the Fourth Amendment applies to digital information now.
+must sort out 。众句
+主语
+谓语
+例导词
+谓语
+主语
+宾语
+功能注释∶本句主干为 Orin Kerr compares.. with... The justices had to..;they must sort
+out..。其中，alaw professor为Orin Kerr的同位语成分，补充说明该人物的职位;how引导的从句做
+29
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 30 -----
+ 
+sort out 的宾语，补充说明问题的具体内容。
+语篇分析
+第七段为第三部分，提出作者建议∶最高法院应就"数字信息"对第四修正案保护范围做出新的解
+释。关键词为∶applies to digital information now。
+①句明确作者建议∶不可全盘接受加州政府观点（判决警方无证搜查嫌疑人手机内容合法）。But 转
+承上段末句假定情形"最高法院可能想要为警方留出更多余地"，引出作者强调的观点。California's
+argument回指第三、五段所述加州观点。swallow...whole 意为"轻信，全盘接受（不真实的说法、解释等）"。
+②③句解释理由∶"破坏性新技术"有时要求"宪法保护范围的新运用"（即∶要求最高法院对宪法作
+出新的解读）。
+②句直接点明理由（A demands B句式强调需求关系）。New，disruptive technology（disruptive 这里
+强调"变革性"，总体中性、略带褒义）强调新技术的"破坏性，颠覆性"，与其伴随的是新的社会局面、新的
+社会问题。novel applications of the Constitution's protections（novel 意为"不循常规的，新颖的"，带有明
+显褒义）则指出宪法保护范围应与时俱进，解决新的问题、提供新的保护。
+③句援引他人所作比较解释②句∶正如 20 世纪法官们"为私人轿车这一新生私人领域明确新规"，
+如今"必须使第四修正案适用于数字信息"。
+冒号前介绍比较对象（compares...with...）∶将"21世纪数字信息爆炸及其可获取性"类比"20 世纪
+汽车成为生活所需"。explosion（激增，骤增）、accessbility（可达性，可用性）分别从"数量"及"可获取性"
+上说明当前数字信息的"破坏性、颠覆性"（契合上句 New，disruptive technology）。the establishment of
+...asa virtual necessity of life（establishment 意为"被接受，被承认";a virtual necessity of life为固定用
+法"生活之必需"）则从"给人们生活带来彻底改变"上说明汽车在 20 世纪的"破坏性"。
+冒号后明确比较结论（then、now 分别回应 in the 20th 、in the 21st century）∶当时法官不得不为私人
+轿车这一"新的私人领域"明确新规（即∶明确什么情形下可以警方可以"车内搜查"）;如今法官们也必须
+明确第四修正案如何适用于数字信息（即∶明确警方在什么情况下可以搜查数字信息）。sort out"解决，
+处理（难题或困境）"）暗示"第四修正案适用于数字信息"问题非常棘手，但 must、now 强调问题必须立刻
+解决。
+【深层解读】回顾梳理第二至六段，可发现作者明晰的论证逻辑。作者整体观点为"呼吁最高法院
+更新对第四修正案保护范围的诠释，就'保护数字隐私（警察是否可无证搜查嫌疑人手机内容）'为法律
+界提供指导原则（could and should provide updated guidelines...must sort out how the Fourth
+Amendment applies to digital information now）"∶首先通过反驳加州观点指出"基本条件已经具备——
+数字信息技术的影响已足够明显、足够多"（第二、三段）、且"现实层面非常必要——智能设备中储有人
+们大量隐私，且这些隐私急需法律保护"（第四段），最后指出"法律层面的必要性——宪法赋予了人们
+隐私文件免受无理搜查的权利，但实际却并未得到有效保护（第五、六段）;最后明确提出这符合立法原
+则——"就新的破坏性技术，对第四修正案保护范围作出新解读"已有先例（第七段）。
+真题精解
+30.引用奥林 ·克 尔的对比是为
+30. Orin Kerr's comparison is quoted to indicate that
+了表明___
+[A] the Constitution should be implemented flexibly
+【A】宪法应该灵活贯彻实施
+【B】宪法的原则应永不更改
+[B] principles of the Constitution should never be altered
+[C] California's argument violates principles of the Constitution【C】加州观点违反了宪法原则
+【D】新技术需要宪法新解读
+[D] new technology requires reinterpretation of the Constitution
+【精准定位】根据Orin Ker'scomparison定位至末段③句，该句类比指出∶当初汽车成为生活必需
+30
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 31 -----
+Y[φ.=5=
+ 
+品时，法官们不得不为其确新规，同理，如今数字信息成为人类日常生活一部分，法官也应为该新兴领
+域明令新规。再根据"所举事例旨在为观点服务"原则，可将类比意图追溯到②句∶新的颠覆性技术有
+时需要对宪法保护条例有新的运用。可见，作者类比意图在于说明新技术需要宪法新解释，【D】正确。
+【命题解密】正确项【D】是对末段③句类比的概括，又是对②句观点的改写，其中 requires 对应
+demands;reinterpretation of the Constitution 对应 novel applications of the Constitution's protections。
+【A】貌似与②句 novel applications of the Constitution'sprotections（宪法保护条例的新运用）及③
+句 specify novel rules（明确新的规则）同义，因此干扰性极大，但实际上文章讨论的是"宪法保护范围的
+新运用"并非"宪法本身的灵活实施"。【B】利用常识"宪法原则/精神不变"捏造干扰，但与文意相差甚
+远。【C】对①句 the justices should not swallow California'sargument whole（法官们不应该全盘接受加
+州观点）过度推导，得出"加州观点"违反了"宪法原则"，而实际上两者并非对立（violates一说错误）。
+【技巧总结】本题考查文中引用他人所做比较的目的，考生可从两个角度解题∶首先寻找引用比较
+（论据）服务的对象（论点），正确项应与其同义;其次研究比较本身（找到比较双方、比较点、比较结果
+等），正确项应是对 比较结果的概括。
+具体来看∶所考事例位于文末，其服务观点很容易确立为上句（第七段②句），【D】与该句同义，同时
+也概括了示例本身主要内容"法官们必须解决第四修正案如何适用数字信息的问题"，故为正确项。
+Text 3 《科学》努力加入推进论文
+统计审查的行列
+知识补充
+原文外教明读
+、文章总体分析
+本文选自 Nature《自然》2014年7月3日一篇题为 Science joins push to screen statistics in papers
+（《科学》参与推进论文统计审查）的文章。全文围绕"《科学》期刊增加论文统计审查"这一新举措展开
+论述，分析了举措出台的原因，列举了一些领域学者对该举措的看法，说明了此举对于科研发表以及学
+术研究的意义和它目前存在的局限性。
+二、语篇分析及试题精解: KZRZ2019
+T①The journal° Science is adding an extra round of
+《科学》期刊主编 玛 西娅·麦克 纳特
+statistical checks to its peer-review process, editor-in- 今天 宣布，杂志拟对其 同行评审程序增加
+chief Marcia McNutt announced today. ② The policy 额外的一轮统计审查。该政策仿 效 了其
+follows similar efforts from other journals, after widespread 它 杂志的类似举措，是出 于人们 对"数据
+concern that basic mistakes in data analysis are contributing to 分析中的基本错误导致许多业已发表的
+the irreproducibility of many published research findings.
+研究成果无法复制"的普遍担忧。
+...............-....⋯-
+·词汇注释与难句分析 
+①add..to...（把⋯⋯加入⋯⋯）
+①journal 【'as3∶nol】 n.日报;期刊，杂志;日志
+②peer-review process（同行评审程序）
+②statistical 【st?tstrk?l】a.统计的;统计学的
+③contribute to（造成，导致）
+③irreproducibility【i'rprodjus'bilat1】n.不可复制性
+● 经典搭配
+31
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 32 -----
+ 
+4语篇分析
+第一段引入话题，概述《科学》新举措及其背景原因。①an extra round of statistical checks;
+②irreproducibility。
+①句引出《科学》新举措;在同行评审程序上新增一轮统计审查。is adding...extra...checks to its
+peer-review process（is adding A to B以现在进行时态表示"意图将 A 添加进B中"，extra 意为 more than
+exists already，check 意为 the process of finding out if sth is corrct）明确革新对象"同行评审程序"（peer
+review process）以及举措内容"准备新增一轮统计审查"，反映了《科学》拟加强对科研论文的审查，同时
+触发悬念∶此举背后有何动因?【注 1;同行评审为一种审查程序，即作者的学术成果由同一领域的其他
+专家学者来加以评审，以确保科研发表的质量。注 2∶统计学主要通过利用概率论建立数学模型，收集所
+观察系统的数据，进行量化分析、总结，做出推断和预测，被广泛应用于各门学科之中。】
+②句概述《科学》新举措背后的原 因。句首 The policy 回指①句 adding.. extra.. statistical
+checks 这一举措;follows similar efforts from otherjournals（follow熟词僻意，指 to do the same thing as
+sb else"仿效"）表明许多期刊在此之前已经开始加强审查科研论文，其中 efforts凸显各大期刊保障论文
+质量的决心和努力，影射科研论文可能面临严峻的质量危机。after（语用功能为 because of sth that
+happened earlier"由于;既然"）引出《科学》采取新举措的原因;widespread concern（concern 意为"【尤指许
+多人共同的】担心;忧虑"）奠定"问题严峻"这一总基调，that 引出的同位语从句明确 concern 的内容，摆
+出问题∶数据分析中的基本错误导致已发表的研究结果不具有可复制性。【注∶reproducibility（可复制
+性）源于生物实验原则，即一项实验得到的结论，必须可以被其他人重复得出，才能证明其结论正确，而
+非偶然获得的错误结论。该原则同样也是科学研究中最重要的、受到科学家一致认可的准则，若现象或
+结果不能被别人重复，发现者声称的该科学发现就很可能是错误或伪造的。】
+【深层解读】隐性因果逻辑词（after、contribute to）明示两句间因果逻辑∶《科学》及其他许多期刊中，
+已发表的研究成果存在数据分析上的基本错误，换言之，这些研究结论有误，而这无疑有损期刊声誉及
+权威，因此各大期刊竞相加强科研论文评审，在原有同行评审基础上增加一项"统计审查"。 
+，真题精解
+31．从第一段可以得知
+31. It can be learned from Paragraph 1 that
+[A] Science intends to simplify its peer-review process 【A】《科学》想要简化其同行评审程序
+[B] journals are strengthening their statistical checks
+【B】 众期刊正加强其统计审查
+【C】 鲜有期刊因为数据分析错误受到指责
+[C] few journals are blamed for mistakes in data analysis
+[D] lack of data analysis is common in research projects 【D】 研究项目中缺乏数据分析很常见
+【精准定位】首段①句引入文章话题∶《科学》将在同行评审程序上额外增加一轮统计审查。②句表
+明此举仿效其它期刊类似做法以及背后原因。由此可推测其它期刊也在加强统计审查工作，【B】正确。
+【命题解密】正确项【B】是对首段的合理概括和同义改写，其中journals 是对 thejournal Science、from
+other journals 的概括，strengthening 对应 adding an extra round of statistical checks..。
+【A】中 simplify（简化）与①句 adding..extra...checks..相左;【C】与②句"《科学》效仿其他期刊，
+基于人们普遍担忧数据分析中的基本错误致使发表内容不可复制"暗含的"数据准确性问题堪忧"矛盾;
+【D】将原文"数据分析错误"偷换成"缺乏数据分析"，将"已发表的研究发现"偷换成"研究项目"。
+【技巧总结】题干只涉及段落而没有额外信息时，题目多半考查对段落主旨的把握。解题时首先要
+通读全段并梳理出段落主旨，然后分别将各项关键词（【A】中 peer-review procss，【B】中 statistical
+checks，【C】中 mistakes in data analysis，【D】中 data analysis）与之进行对比，最后锁定正确项。如本题，
+首段很明显聚焦科研发表的质量问题，因此首先排除"试图淡化问题"的「C和「D】;再横向对比选项发
+现只有【A】不涉及段中关键词"数据"，且 simplify 与"开篇呈现问题"的总基调相反，故为干扰项。
+32
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 33 -----
+ 
+Ⅱ 够"Readers must have confidence in the conclusions
+"读者 必须对我 们 期刊上发表的研
+published inourjournal,"writes McNutt in an editorialP.②究结论有信心，"麦克纳特在一篇社论
+Working with the American Statistical Association,the 中写道。该期刊与 美国统计协会合作，
+journal has appointed seven experts toa statistics board of 已任命七名专家组成一个统计评审编辑
+reviewing editors(SBoRE).③Manuscripts will be flagged 委员会（简称 SBoRE）。原稿将由该期刊
+up for additional scrutiny by the journal's internal editors, 的 内部编辑、或其现有评审编委会、或由
+or by its existing Board of Reviewing Editors or by outside 外部同行评审者做 出标记，以接受额外
+peer reviewers. ④The SBoRE panelwill then find external 审查。SBoRE 专家组随后会聘请外来的
+statisticians to review these manuscripts".
+统计学家来审查这些原稿。
+词汇注释与难句分析
+● 经典搭配
+①editorial 【edt'torol】?n.（报刊的）社论
+①have confidence in（对⋯⋯有信心）
+②scrutiny 【'skrutn】n.细看;仔细的观察;监督
+③panel 【'panol】 n.（由选定人员组成的）专门小组
+②work with（与⋯⋯合作）
+①statistician 【st?t1'stiJn】 n.统计学家，统计员
+③apoint...to...（使担任职位、职责）
+④flg up（做出标记.用标记表明）
+⑤manuscript 【'meenjoskript】n.手稿;原稿;底稿
+语篇分析
+第二、三段围绕新举措内容及其实施原因展开论述。
+第二段具体论述新举措的内容∶成立 SBoRE 小组负责统计审查。关 键词为∶①be flagged up;
+②additional srutiny。
+①句补充说明新举措出台原因∶增强读者对期刊所发表论文的信心。conclusions 指科研结论;must
+have confidence...强调主编决心的同时表明新举措的必要性，联系上段可推测某些已发表研究的不可
+复制性危及读者对期刊所发表的科研结论的信任。editorial指"社论"，即报纸或杂志就重大问题发表的
+评论文章，作者通常为主编或刊物所有者。
+②③④句介绍《科学》新增统计审查的具体程序。
+②句介绍负责统计审查的机构;统计评审编委会（SBoRE）。Working with the American Statistical
+Association表明《科学》此番"统计审查"由权威机构参与，凸显期刊"改革"的决心。has appointed seven
+experts to...引出由专家任职的负责统计审查的评审编委会;其中 statistics 修饰 board of reviewing
+editors（评审编辑委员会），进一步锁定委员会性质和审查范畴∶统计审查。
+③④句介绍统计审查的流程（③句 will、④句 wil then 串起流程链条）。
+③句介绍步骤一∶由相关人员标记出需接受额外审查的原稿。Manuscripts will be flagged up for...
+by...or by...or by...分别引出"对原稿做标记"的目的"额外审查"以及可参与标记的三类人员。
+Manuscripts指"（发表之前的）原稿";flag 本指"旗帜"，此处作动词，指"【用旗状物或书签】标示，标出
+【表示重要】";additional scrutiny 即指"新增的统计审查"，scrutiny 意为 careful and thorough examination
+of sth"认真彻底的审查"，突出强调新增审查力度之大，将严控一切含数据错误的论文发表。
+④句介绍步骤二∶SBoRE 专家组寻找外部统计学家审查被标记的原稿。pancl 意为"【针对某特别问
+题而选出的】专家小组"，体现 SBoRE成员的专业性。find external statisticians to review（其中external意
+为 coming from outside a particular place or organization"外来的，外部的"）侧面体现审稿的相对客观性
+同时也反向影射③句步骤一中"两类标记人员可以是杂志内部人员（the journal'sinternal editors、its
+existing...）"这一情况存在一定的隐患，为后文介绍新策的弱点埋下伏笔。
+【深层解读】本段 实为首段①句所述新举措内容的阐释∶本段借助近义表达（statistics、additional
+33
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 34 -----
+ 
+scrutiny、statisticians等）复现首段①句 statistical checks，明确本段与文首句"增加额外统计审查"间阐释
+关联∶成立 SBoRE 小组，聘请外部专家对被标记的原稿进行统计审查。
+真题精解
+32. The phrase "flagged up "(Para.2) is the closest in 32.短语"flagged up"（第 二 段）含义最 接
+近_
+meaning to
+__o
+【A】 发现
+[A] found
+【B】 修订
+[B]revised
+[C] marked
+【C】 标明
+[D stored
+【D】 存储
+【精准定位】第二段③④句介绍数据审查的具体流程。③句为流程一，原稿将会被_____，以接受额
+外审查（Manuscripts...be flagged up for...），其中 for...表目的;④句为流程二∶评审编委会请外来统
+计学家审查这些原稿（will then..．review these manuscripts）。结合末段语句"《科学》把一些论文交给
+统计学家的想法"可推知流程第一步应是"从众多稿件中挑出部分文稿进行额外审查"，而"挑出"这一动
+作必须依靠"标记"来完成，因此推测 flag up 为"做标记，标示"之意，【C】项 mark 符合题意。
+【命题解密】正确项【C】是基于上下文语义逻辑合理推断而来。文中 flagged up 之后的动作目的 for
+additional scrutiny（需要额外审查）暗示并非所有文稿需要统计审查，只挑出/标出需要额外审查的文稿，
+这也呼应了末段末句的"把部分论文交给统计学家"。考生还可以根据 flag 的常用词义"（信号/标志）
+旗"而推测出"做标记"这一含义。
+【A】利用④句中的 will then find设置干扰，但其后宾语为"统计专家"，与"稿件"无关;【B】利用编辑
+或研究者惯常行为"对原稿提出修改意见"，但此处关乎初稿数据准确性的审查，只有审查后才涉及"修
+正";【D】内涵为"存储，以备不时之需"，显然与"科研论文的审查"无关。
+【技巧总结】本题考查通过上下文推测词义的能力。推测词义时可以参考的线索有∶1.构词法;2.词
+语搭配及上下文中的近义词、反义词等相关词;3.上下文中的重述（如定义、解释、同位语等）;4.句子逻
+辑关系;5.常识。对于本题，结合 flagged up 的构词搭配、第二段的具体举措流程以及末段对举措的同义
+重述（Science's idea to pass some papers to statisticians）可推测出该词组所在句大意应为"由几类人标出
+部分论文交给统计学家进行额外审查"，进而推出词义。
+IⅢ Asked whether any particular papers had
+当被问及是否因为某些特定的论文而促
+impelled" the change,McNutt said: "The creation of 成了这次改变，麦克纳特说∶"'统计委员会'
+the' statistics board'was motivated by concerns 的创建是受对科学研究 中统计和数据分析应
+broadly with the application of statistics and data 用的广泛关切的驱动，也是《科学》为 提 升其
+analysis in scientific research and is part of Science's 发表研究的可复制性的全面努力的一部分。"
+overall drive to increase reproducibility in the research
+we publish."
+·词汇注释与难句分析
+ 经典搭配
+①impel 【um'pel】 v.推动、推进或敦促某人做某事
+②motivate 【'mout1vert】v.使有动机，诱导;刺激
+①concerns broadly with（广泛关切）
+②overall drive（全面的努力）
+③drive 【drarv】 n.驱动力;紧迫;压力
+Asked whether any particular papers had impelled the change,McNutt said:"The creation of the'statistics
+board'was motivated by concerns broadly with the application of statistics and data analysis in scientific research
+34
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 35 -----
+ 
+and is part of Science's overall drive to increase reproducibility in the research we publish."
+结构切分∶
+句子主干∶McNutt said: 
+HAsked whether any particular papers had impelled the change,
+主语 谓语伴随状语
+宾语从句个
+"The creation of the 'statistics board'was motivated by concerns broadly with the application
+主语
+谓语1
+of statistics and data analysis in scientific research and is part of Science's overall drive
+谓语2
+连词
+介词短语做后置定语修饰iconcerns
+o increase reproducibility in the research we publish."
+不定式做定语修饰drive
+功能注释∶主干为 McNutt said..，引出对问题的回答;Asked whether...为过去分词做伴随状语，
+说明问题的内容。said 引出宾语从句 The creation...was motivated by concerns...and is part of
+Science's overall drive..;其中，broadly with the application of..说明 concerns 的内容;to increase...后
+置定语，说明 drive（努力）的内容;we publish 为省略了 that 的定语从句，修饰 research。
+语篇分析.;
+第三段具体 论 述 新举 措的 动 因∶不是因为 个 别 问 题 论 文，而是出 于大 局 考虑。关 键 词 为∶
+①concerns;②to increase reproducibility。
+本段是由包含"一问一答"的独句构成。Asked whether...展示问题∶新举措出台是否源于某些（存
+在问题的）论文?其中impel（促使，驱使）为隐性因果逻辑词，any particular papers（专指的论文）暗指"发
+表在《科学》上的存在数据错误的论文"，the change指代"成立 SBoRE"这一改革措施。McNutt sai...引
+出回答∶一是因为科研中的统计和数据分析受到广泛关切，二是为了提升已发表研究的可复制性。The
+creation of the'statistics board'呼应 the change，同指新举措"创立 SBoRE";was motivated by...and is
+part of..呼应 had impelled，引出实施新举措的两重原因。诱因一 concerns broadly with...（broadly为
+泛指）与问话中的 any particular papers（particular 为专指）对立，表明新举措并非基于个别问题论文，而
+是从大局出发改善科研中日益普遍的数据问题。诱因二is part of Science's overall drive to...中，overall
+drive（drive 意为"【尤指为某一目的有组织的】努力"）凸显《科学》意欲改革的力度和决心;to increase
+reproducibility in...明确"努力"的方向，反向呼应首段的 the rreproducibility o...。
+【深层解读】本段为首段 ②句 所述新举措原 因的阐 述∶借助因果逻辑近 义表达（impelled、was
+motivated by、is part of...overall drive等）复现首段 after 以及 concerns broadly with...data analysis...
+复现首段 widespread concern...data analysis...，明确本段与首段②句间阐释关联∶成立 SBoRE小组的
+动因不是基于个别有问题的论文，而是出于大局考虑。到此可总结出前三段逻辑关系;首段概述"举措、
+原因"，第二、三段围绕首段两点分别展开说明。
+Ⅳ ④ Giovanni Parmigiani, a biostatistician at the
+哈佛 大学公共 卫生学院的生物统 计
+Harvard School of Public Health,a member of the SBoRE 学家、SBoRE 成员乔瓦尼·帕马强尼说，
+group,says he expects the board to"play primarily an 他期望该委员会"主要发挥某种咨 询作 
+advisory"role."②He agreed tojoin because he"found the 用"。他同意加入委员会是因为他"发现
+SBoRE 创立背后的远见新颖、独特的，而
+foresight*behind the establishment of the SBoRE to be
+且很可能会产 生一种持久的影响。这种
+novel,unique and likely to have a lasting impact.② This
+影响将不仅仅会遍及《科学》自己发表的
+impact will not only be through the publications in Science
+文章，也有望波及一大批可能想效法《科
+itself,but hopefully through a larger group of publishing
+学》此举的出版单位。"
+places that may want to model"their approachafter Science."
+3
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 36 -----
+ 
+。词汇注释与难句分析·
+①primarily 【'prarmoril】 ad.首先;主要地;根本上
+⑤approach 【o'prot】 n.（处理问题的）方法，态度
+②advisory 【od'varzori】 a.劝告的，忠告的;提供咨询的
+●经典搭配
+③foresight 【'fosart】n.先见;预见;深谋远虑
+①expet...to...（期望某人做某事）
+④model 【'modli】 v.模仿;以⋯⋯为模板
+.............-..
+....................................
+语篇分析
+第 四至六段分别介绍不同领域学者对新举措的看法。
+第四段介绍生物统计学家帕马强尼对新举措的评价。关键词为∶①advisory;②impact。
+①句指出 SBoRE 成员、生物统计学家帕马强尼对 SBoRE 角色的定位∶发挥咨询作用。同位语 a
+biostatistician...a member of the SBoRE group 明确人物"统计学相关"和"统计评审专家"的身份。副词
+primarily 限定 play an advisory role（其中 advisory 意为 having the role of giving professional advice"提供
+咨询服务的，顾问的"），强调委员会的主要功能应是"（为科研）提供专业建议和意见"。
+②③句援引帕马强尼原话说明其加入 SBoRE 的原因，指出成立 SBoRE 的积极意义。
+②句帕马强尼表明自己加入 SBoRE 的原因，表达对 SBoRE 的赞扬态度。foresight（先见之明）表明
+帕马强尼对"委员会成立"的赞许∶具有前瞻性意义;found the foresight...to be...继而说明这一"远见"
+的内涵，其中find 语用功能为 to discover that sth is true after you have tested it or experienced it"（检验
+或经历后）发现（某事属实）";novel（新颖的）、unique（极不寻常的;独特的）均为褒义词，强调委员会与众
+不同，意义非凡;likely to have a lasting impact凸显帕马强尼对"委员会影响力"的认同和赞扬。
+③句具体说明 SBoRE 影响的范围∶《科学》自身以及想要效仿《科学》的大批出版物。句首 This
+impact 紧承上句末alasting impact。will not only be through...but through..表明 SBoRE不仅将影响
+"《科学》所发表的文章"，还会影响到欲仿效《科学》此举的大批出版物，暗示∶SBoRE很可能会带动同行
+业共同提升科学出版内容的质量;其中 through 此处指"贯穿，遍布"，强调影响的范围之广。the
+publications in Science泛指"《科学》中发表的文章"。hopefully（有望，可望）与 that从句中的 may一同表
+明"更多出版物受到 SBoRE影响"是帕马强尼的期盼;a larger group of publishing places与 Scienceitself
+相对，指代"更多出版物（即发表科研论文的地方）"。model...after 意同首段 follow...from，指"仿效、
+效法";approach（方法，举措）此处具体指出版物为提升所发表文章的可复制性而推行的评审措施。
+【深层解读】本段引证人物1对 SBoRE 的积极评价;全段主体为人物 1的直接引语，通过抓取引语中
+an advisory role、a lasting impact、This impact等关键词可提炼出本段主旨∶人物1对 SBoRE 作用/影响
+的积极评价。
+真题精解
+33.乔瓦尼·帕马强尼认为，统计评审编辑
+33.Giovanni Parmigiani believes that the establishment of
+委员会的创立可能会
+the SBoRE may
+【A】 对所有同行构成威胁
+[A]pose a threat to all its peers
+【B】 遭到强烈反对
+[B] meet with strong opposition
+[C] increase Scie's circulation
+【C】 增加《科学》的发行量
+[D] set an example for other journals
+【D】为其他期刊杂志树立榜样
+【精准定位】第四段②③句指出，Parmigiani认为"SBoRE 的创立富有远见，且可能会产生持久影响。
+这种影响将不光是辐射《科学》中发表的内容，也有望波及更多想效仿《科学》的出版单位"，即会为其他
+期刊树起榜样，【D】正确。
+36
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 37 -----
+ 
+【命题解密】题干＋【D】是对 Parmigiani 观点的同义转述和改写，set an example for 对应第四段③句
+中 model their approach after，是变换角度的合理转述。
+【A】利用②句"Parmigiani 对《科学》此举的赞美（novel、unique）"臆造而来，但由③句可知"Parmigiani认
+为其他期刊可能会效仿《科学》，也即对同行带来积极影响";【B】利用②③句 have a lasting impact、through a
+larger group干扰，但与③句文意相悖;【C】错将③句 publications*发行物，出版物、刊物"所指的"文章/论文"
+曲解为"发行量"，该句意指《科学》新举措会提升文章质量，而未提及对期刊发行量的影响。
+【技巧总结】事实细节题的正确项往往是对原文信息的同义改写、总结概括、或合理引申，本题关键
+在于识别出 set an example for 是对第四段③句中 model their approach after 的同义转述。干扰项的常
+见设置方式有偷换概念（如【C】）、反向干扰（如【A】、【B】）等。
+V John Ioannidis, a physician who studies
+专攻研究 方 法论的医师约翰· 约安尼
+research methodology中， says that the policy is" a most 季斯说，该 规定 是"最令人欣慰的一 步 迈
+welcome step forward"and"long overdue ". ②"Most 进"，它"老早就应该出台"。"大部分期刊在
+journals are weak in statistical review,and this damages 统计审查方面都很薄弱，这种情况有损发表
+the quality of what they publish. OI think that,for the 内容的质量。我认为，对于当前大部分科研
+majority of scientific papers nowadays,statistical review 论文来说，统计审查比专家评审要更为关
+is moreessential than expert review,"he says. ④But he 键，"他说道。不过他也指出，生物医学类期
+noted that biomedical2 journals such as Annals of 刊，像《内科学年鉴》、《美国医学协会杂志》以
+Internal Medicine,the Journalof the American Medica 及《柳叶刀》等都对统计审查格外重视。
+Association and The Lancet pay strong attention to
+statistical review.
+。词汇注释与难句分析
+● 经典搭配
+①methodology 【me0o'dblad3i】n.方法学;方法论
+②overdue 【ovvoldju∶】 a.过期未完成的，迟到的;未兑现
+①long overdue（姗姗来迟，某事早该发生）
+的;早应完成的;期待已久的
+②for the majority of（对绝大多数⋯⋯而言）
+③biomedical 【barou'medkol】a.（有关）生物医学的
+③pay strong attention to（格外重视）
+.语篇分析 
+第五段介绍医师约安尼季斯对新举措的评价。关键词为 ∶most welcome。
+①句总述医师约安尼季斯对新举措的看法;令人欣慰的一次进步。a most welcome step forward
+（welcome意为"令人欣慰的、满意的";forward意为"向前地"）以及 long overdue（overdue指"早该发生的;
+早应完成的"）表明约安尼季斯对新举措的强烈支持，认为新举措早该出台。
+②③④句引 证①句，说明约安尼季斯赞成新举措的原因。
+②句指出现状∶大多数期刊统计审查薄弱，损害发表论文的质量。Most journals are weak in statistical
+review表明统计审查薄弱为期刊界总体态势;damages the quality of what they publish与前三段信息"数据
+问题导致发表内容不可复制"相呼应，即"发表内容面临质量危机"。
+③句引出结论∶对大部分发表论文来说，统计审查比专家评审更关键。比较级形式 more essential
+（essential意为"至关重要的"）明确安尼季斯观点∶统计审查比同行评审更关键，其中 the majority of
+scientific papers nowadays与②句 Most journals 呼应，expert review实指首段提及的 peer-review。
+④句做出让步∶生物医学类期刊非常重视统计审查。note为观点引出词，意为 to mention sth because it
+is important or interesting"特别提到;指出";such as...列举统计审查严格的生物医学类期刊。
+【深层解读】本段引 证人物 2 对 SBoRE 的积极评价∶借助关键词句 the policy、most welcome step
+37
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 38 -----
+ 
+forward、long overdue、statistical review is more essential、pay strong attention to statistical review可提炼出本
+段主旨∶人物 2 对新策/统计审查持支持态度。
+Ⅵ ①Professional scientists are expected to know how to
+专业的科学家应 当 知道如何分析数据，
+analyse data,but statistical errors are alarmingly common ;但是据细胞生物学家大卫·沃克斯所说，统
+in published research, according to David Vaux, a cell 计错误在已发表的研究 中令人震惊地普遍。
+biologist. ②Researchers should improve their standards,he 2012 年他写道，研 究人员 应该提高 他 们的
+wrote in 2012,but journals should also take a tougher line,
+水准，但期刊杂志也应该采取更为 严格的方
+"engaging reviewers who are statisticlly literate and editors 针，"让精通统计的评审专家以及 能够核实
+who can verifythe process".O Vaux says that Science's l此（研究）过程的编辑参与（审查）"。沃克斯
+idea to pass some papers to statisticians"has some merit", 说，《科学》要把 一 些 论文 交给统，计学家（审
+but a weakness is that it relies on the board of reviewing 查）这一想法"有一定优点，但是一个缺点在
+editors to identify the papers that need scrutiny'in the first 于，它首先要依 赖评审编 辑委员 会来鉴别
+plac". [423 words]
+'哪些论文 需要仔细评审'。
+..................................⋯..*..
+。词汇注释与难句分析。
+①be expected to do sth（理应做某事）
+①alarmingly 【o'la∶mipli】 ad.让人担忧地，令人惊恐地
+②literate 【'ltorot】a.精通、熟练、通晓的
+②be alarmingly common（惊人地普遍）
+③verify 【'verfa】v.核实
+③take a tough line（采取强硬、严厉措施）
+④merit 【'mert】?n.价值，优点
+④rely on sb to do sth（依赖某人做某事）
+⑤in the first place（首先）
+●经典搭配
+语篇分析
+第六段介绍细胞生物学家大卫·沃克斯对新举措的评价。关键词∶①has some merit;②a weakness。
+①句介绍沃克斯指出的问题∶已发表论文中的统计错误很普遍。前半句先指出正常情况∶科学家理
+应知道如何分析数据;被动语态 are expected to（被期望/要求）实际传达"应该"之意;后半句以 but 转而
+指出现实情况∶已发表的研究中普遍存在统计错误。alarmingly"令人担忧、恐惧的"修饰 common，强调
+统计错误普遍存在、论文质量堪忧。
+②句介绍沃克斯提出的对策∶研究者应提升自身水准，期刊应加强统计审查。本句承接上句"统计
+错误问题"，先以 Researchers should...引出对研究人员的要求;提升自身科研素质，严防统计数据方面
+的差错;后以but journals should also...引出强调的重点;（不光是研究者）期刊也应采取行动;任命两类
+人加入评审队伍;其中副词 statistically literate（literate 意为"熟练的，通晓的"）表示"在统计领域有专业
+水准的";verify the process（verify 意为"核实"）意指"跟进和监督整个评审程序"。
+③句表明沃克斯对新举措的态度∶有一定价值，但也有缺陷。句子借由 but 分成前后两部分，but 前
+Science'sidea to pass some papers to statisticians 实际呼应首段"《科学》欲额外增加一轮统计审查"、第二
+段④句（审查流程的第二步）"SBoRE小组把原稿交由外界统计专家审核"，并借 has some merit 表明沃
+克斯对此流程持有保留的赞许态度;but 后 the board of reviewing editors to identify'the papers that
+need scrutiny'呼应第二段③句（审查流程的第一步）"由期刊编辑、评审委员会或外部同行评审者标记需
+要接受额外审查的原稿"，并借aweaknessis..rely on sb to do sth"缺点在于⋯⋯依赖某人做某事"暗示
+沃克斯的不赞赏之处∶尽管审查程序严谨，审查人员专业，但原稿的第一步筛查却是由杂志内部的评审
+编委会全权掌控，难以避免主观因素，侧面表达了沃克斯对"《科学》新举措应进一步严谨完善"的期许。
+【深层解读】本段引证人物3 对 SBoRE 的中肯评价∶借助段内三句的关键词句 statistical errors are
+38
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 39 -----
+ 
+alarmingly common、engaging reviewers who are statistically literate、has some merit,but a weakness
+is...可提炼出本段主旨∶人物 3 对新举措持存有疑虑的支持态度。
+真题精解
+34. David Vaux holds that what Science is doing 34.大卫·沃克斯认为，《科 学》目前的举
+措___
+now
+【A】 增加了研究人员的工作量
+[A] adds to researchers' workload
+【B】 削弱了审稿人的作用
+[B] diminishes the role of reviewers
+【C】 有进一步改进的空间
+[C] has room for further improvement
+【D】 在可预见的未来会失败
+[D] is to fail in the foreseeable future
+【精准定位】第六段③句表明 David Vaux 对《科学》新举措的看法∶把一些论文交给统计学家（审查）
+的想法"有一定价值，但缺点在于，要先通过评审编委会来决定哪些论文需要细查"，言外之意即，编委会
+自身缺乏有效监管，这一想法还需要进一步完善，【C】正确。
+【命题解密】【C】是对人物引语中 has some merit，but a weakness is that 的合理引申和概括，room
+for further improvement 是对原文 weakness 的委婉表述。
+【A】利用②句中 Researchers should improve their standards 设置干扰，但联系①句可知"（研究者）提
+高水准"指的是"提高数据分析技能，减少统计错误"，而非"增加工作量";【B】与②句 engaging reviewers
+who are statistically literate矛盾，此处恰恰是"重视"审稿人（尤其精通统计的）的作用，而非"削弱"。
+【D】过度放大文中a weakness 而忽略 has some merit。
+【技巧总结】本题与上题解题思路类似，解题关键在准确定位（由题干定位至末句）并识别出正确项
+has room for further improvement 是对句中 has some merit，but a weakness is that 的合理引申和概括。
+全局真题精解
+35.以下哪一项是本文的最佳标题?
+35. Which of the following is the best title of the text?
+【A】《科学》加入推进论文统计审查
+[A] Science Joins Push to Screen Statistics in Papers
+[B] Professional Statisticians Deserve More Respect
+【B】 专业统计学家应该得到更多尊敬
+【C. 数据分析上了编辑书桌
+[C] Data Analysis Finds Its Way onto Editors'Desks
+[D] Statisticians Are Coming Back with Science
+【D】 统计学家随《科学》回来了
+【精准定位】文首段引入话题，概述《科学》新举措"增加额外统计审查"及其成因;第二三段阐释该举
+措具体内容及背景原因;第四至六段引三位专家之言对该举措予以评价。由此可知，"《科学》对其发表
+的论文增加统计审查"为全文论述主题，【A】为最佳题目。
+【命题解密】正确项是对文首段话题的完美契合，其中 screen"筛查，审查"对应 checks，joins push 对
+应 follow similar efforts from other journals;并且准确概括了文章的中心内容。
+【B】利用第六段①句 professonal 以及文中反复提及的 statisticians干扰，但选项侧重点为"专业统
+计学家未受到足够重视"，偏离文章论述中心;【C】强调的是"编辑担起新职责——数据分析"，但文章重
+心在于"统计审查";【D】言外之意即"以往统计学家不受期刊重视，如今正找回其地位"，但文中重在探讨
+"对论文质量的把关"，"统计学家"是作为重要把关者而出现的，并非全文关注的焦点。
+【技巧总结】标题题干扰项的典型特点是∶涉及文中关键词却重心偏离。本文首段首句（主题句）引
+入《科学》的一项新举措，后文均围绕此举措展开论述，故该举措是本文话题，【A】是对首段新举措
+Science is adding an extra round of statistical checks to its peer-review process 的同义改写。【B】【C】【D】
+虽涉及文中多次出现的词汇 statisticians、data analysis 等，但均偏离本文论述焦点——《科学》的新举措
+39
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 40 -----
+Y[φ.=5=
+ 
+Text 4 从"电话窃听案"看公共生活中的
+"道德目的缺失现象"
+知识补充
+原文外教朗读
+一、文章总体分析
+本文选自 The Guardian（《卫报》）2014年6月 26 日一篇题为 Asthe hacking trial proves，we lack
+moral purpose in public life（正如窃听审判所证实，我们的公共生活中缺乏道德目的）的文章。本文从
+"热议事件/案件"看"社会现象"∶以长期引发高度关注并结束判决的"《世界新闻报》窃听案"为切入点，
+对英国公共生活中大范围存在的"正直诚实缺失现象"进行了深入阐释。
+ 二、语篇分析及试题精解/x: KZRZ2019
+I ④Two years ago,Rupert Murdoch's daughter,
+两年前，鲁伯特·默多克之女伊丽 莎 白
+Elisabeth,spoke of the "unsettling" dearth" of integrity
+曾谈及"我们如此多的机构中令人担忧的诚
+across so many of our institutions".② Integrity had 实正直缺失（现象）"。她坚决认为，诚实正直
+collapsed, she argued, because of a collective
+的精神已崩塌，原 因 在于 这样一 种 共识∶社
+acceptance that the only " sorting mechanism"in society 会中唯一的"分选机制"应该是利润和市场。
+should be profit and the market.③But"it's us,human 但是"创造出我们想要的社会的是我们、人、
+beings,we the people who create the society we want,not 我们人民大众，而不是利润"。
+profit."
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+·词汇注释与难句分析
+●经典搭配
+①unsettling LAn'setlin】 a.使人不安的，混乱的
+②dearth 【d3∶0】 n. 缺乏，稀少
+①the dearth of （⋯⋯的缺失）
+③integrity 【integru】 n.正直，诚实;完整
+②speak of（谈及，论及）
+④collapse 【ko'l?ps】 v.倒塌;崩溃
+③collective acceptance（共同接受的理念）
+⑤collective【k?'lektuv】a.集体的;共同的;集合的
+④sorting mechanism（分选机制）
+语篇分析
+第一、二段援引报业大亨默多克之女昔日说辞提出现象（问题）∶诚实正直在公共机构中已沦丧。
+首段提出现象（问题）并揭示原因∶价值观扭曲，唯"利"是从。关键词为∶①collapsed;②profit and the
+market。
+①句提出问题。speak of（to mention sth）引出人物说辞;引号内虽为名词结构（dearth of integrity），
+但修饰语 unsetting（making one feel rather worried"相当令人担忧的"），以及状语 across so many of our
+institutions（across表示"遍及"）实质上发挥了"评述作用"，突显问题所在∶诚实正直是基本道德规范，对
+与民众息息相关的公共机构来说，更是一种社会责任与义务，却竟然普遍匮乏，民众安全危如累卵。
+institution 尤指"致力于教育、公共服务或文化的固定组织或机构";integrity意为 the quality of being
+honest and having strong moral principles"诚实、正直的品性"。
+②句说明问题原因。Integrity had collapsed复述上句问题（dearth of integrity），明确 dearth 所指;
+because of...表明诚实正直精神沦丧的原因∶人们生成一种共识（collective 意为 shared by all members of
+a group of people"共有的";acceptance指"相信、认可"）;同位语从句展示"共识"内容，社会中的分选机制
+（mechanism指 a special way of getting sth done within a particular system"处事办法，机制"）作为系统的
+40
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 41 -----
+ 
+分选排序方法，理应遵循客观，且以人为本，但限定语 only 以及 should be profit and the market（should
+用于强调做某事是明智的）突显公共机构价值观的扭曲∶利润和市场（即现实利益）才是唯一的导向。
+③句对问题加以批驳。转折词 But、强调句式（it is..who...）、同指词多重叠加（us、human beings、
+we、the people）以及取舍结构（it's..，not...）四种强调方式共用，尽显对公共机构失职的不满∶创建我
+们想要的社会的是"我们人、人民大众"，而不是"利益"，言外之意即，抛却对民众应尽的责任义务，把
+"利"当作唯一标准只会走向歧途，作茧自缚。注∶the people为专有称谓，表示"（区别于居于统治或特殊
+地位者的）民众，百姓"。
+【深层解读】一、从开篇把握全文话题。开篇时间线索 Two years ago 提示文章以"昔今对比"方式入
+题（后文将引入当前情形），这一方式通常旨在"突显今昔变化"，进而对"新情况"展开论述;但③句 But
+为引述之外的论述内容，加之②句 she argued（argue并非"无理争论"，而是"据理力争"）、had collapsed
+（已崩塌）体现出的问题之严重，暗中表明作者在"借其认同的说辞引出自己观点"，由此推测首段所述两
+年前提及的问题即是全文要批驳的对象∶很久前就受到公开警示，如今仍不见扭转。
+二、从细节洞悉文章焦点。首句 institutions 被 our 修饰，除传达讽刺之情（公共机构无视公众利益）
+外，还与 Murdoch's daughter（传媒大亨默多克之女）共同暗示文中的焦点机构为"媒体机构"。
+l ① Driving her point home,she continued: "It's
+为了阐明 自己的观点，她接着说∶"政
+increasingly apparent that the absence of purpose,of a 府、媒体或 商业机构中目的、以 及道 德信仰
+moral language within government,media or business 的缺失可能会成为资本主义与自由最危险
+could become one of the most dangerous goals for 的目标之一，这一点日 益明显。"她认为，这
+capitalism and freedom."②This same absence of moral 种道德目的缺失 正在伤及诸如新闻国际这
+purpose was wounding2 companies such as News 样的公司，使其更可能误入歧途，就像曾经
+International,she thought,making it more likely that it 大规模非法电话窃听的情形一样。
+would lose its way as it had with widespread illegal
+telephone hacking.
+词汇注释与难句分析*
+②the absence of （⋯⋯的匮乏/缺失）
+①absence 【'?bsons】 n.缺席，缺失;不存在
+③moral language/purpose（道德语言/目的）
+②wound 【wu∶nd】 v.伤及;伤害
+④lose one's way（迷失方向）
+●经典搭配
+⑤telephone hacking（电话窃听）
+①drive one's point home（彻底将观点阐释清楚）
+5语篇分析
+第二段说明现象的后果。关键词为∶①the most dangerous;②wounding。
+①句从国家社会层面说明正直缺失的可能恶果∶威胁资本主义与自由。Driving her point home，she
+continued（drive sth home指"把⋯⋯彻底讲明白"）承上引出人物进一步的说辞。the absence of purpose、
+（the absence）of a moral language within...呼应开篇 dearth of integrity across..，明确问题焦点∶各机构
+道德信仰缺失，一味逐利，却无视这样做的最终意义和价值。注∶purpose、language 有些抽象，两词并非
+指"目的"、"语言"本身，前者表示"做某事的原因"，即 meaning that is important and valuable to you"重要
+意义，有价值的意义";后者表示"（某群人的）信仰、观点和立场"。
+could become...引出问题可能酿成的严重后果∶追求利益和自由是资本主义，也是我们所期望的目
+标，但若将逐利当作唯一目标，崇尚不受道德约束的自由，则只会背离我们的初衷，危及资本主义与自由
+本身（可见本句是对上段末it's us...who create the society we want 的延展性解释，明确 Driving her point
+home所指）。最高级 the most dangerous辅以 increasingly apparent（apparent 意为 clear and obvious），强
+41
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 42 -----
+ 
+调问题及其影响日渐严峻，若不加遏制，"可能（could）"不久会变为"现实"。
+②句进而从公共机构自身层面说明正直缺失的已有恶果∶更易迷途堕落。This same absence of
+moral purpose（same指"前面提到的"）回指上句 the absence of purpose，of a moral language，以 this（正
+是、就是）限定 same（上述的），起到"加重语气、凸显批判对象"的功用。结果状语 making it more likely
+that...阐释"伤及（was wounding）"的具体方式;其中第一个it为形式宾语，that 从句为真正宾语，第二
+个it 回指 News International;lose its way（迷失方向）与①句 the absence of purpose形成呼应∶没有努力
+目标，一味逐利，自然会迷失方向。方式状语 as it had（lost its way）with..（with 语用功能为 used to
+say how sth happens"表示某事的发生方式"）通过类比已有实例进一步说明"如何迷失";widespread、
+illegal、hacking 勾画事件性质∶大范围触犯公民隐私的违法事件。
+【深层解读】两段由伊丽莎白说辞串起（Elisabeth spoke of..She argued...she continued.⋯.she
+thought...），drive sth home（表示"【反复、大声、愤怒地】把⋯⋯·讲透彻"）比上段 argue更进一步突显她
+对问题的担忧，同时也间接表明"人们对该问题置若罔闻"，加之 increasingly apparent 体现出的趋势性，
+共同暗示 如今问题可能更加恶化。
+本段两句"从宏观到具体"指出现象影响，②句"新闻国际公司、大规模非法电话窃听"等信息看似突
+兀，但一方面是对①句的深入阐释∶基层（公共机构）不稳则国家难安;另一方面，"文章至此仍未进入具
+体论述"、"说者身份"以及"①句将来时（could）→②句进行时（was wounding）、完成时 had（lost its way）"
+三条线索暗示两个信息并非单纯事例，而是全文即将讨论的对象。
+-真题精解
+36.根据前 两 段 可 知，伊 丽 莎白 对
+36.According to the first two paragraphs,Elisabeth was
+感到不安。
+upset by____.
+[A] the consequences of the current sorting mechanism A】现今分选机制造成的后果
+【B】 公司不道德行为造成的经济损失
+[B] companies'financial loss due to immoral practices
+[C] governmental ineffectiveness on moral issues
+【C】 政府在道德问题上的乏力
+[D] the wide misuse of integrity among institutions
+【D】 社会机构中广泛的正直的滥用
+【精准定位】第一段①句直接引述 Elisabeth 说辞∶我们如此多公共机构中都缺失诚实正直精神，这
+很令人担忧;②句说明她认为的原因∶"利润和市场应该是社会中唯一的分选机制"是一种共识，即当前
+分选机制以"利"为中心;第二段继续引述，阐释"以利为中心"的后果∶会威胁资本主义与自由，会让机构
+迷途堕落，可见，Elisabeth 担忧"一味重利的分选机制的影响"，【A】正确。
+【命题解密】题干＋正确项【A】是对前两段的概括∶题干中 upset 对应原文 unsettling，表明 Elisabeth
+的担忧态度;the consequences of the current"sorting mechanism"对应第二段①②句 could become one of
+the most dangerous goals、was wounding...，would lose its way...，是担忧的具体内容。
+【B】将第二段②句 wounding companies...lose its way...illegal telephone hacking 结合第一段关键
+词 profit 形成干扰，但原文逻辑为"道德缺失→行为不当"，而非"行为不当→经济损失"。【C】将第二段
+①句"政府机构道德缺失（the absence of...）"改为"政府在道德问题上无能"，把"政府"由"问题主体"篡
+改为"问题治理者"。【D】将原文正直诚实的"缺失（dearth）"偷换为"滥用、使用不当（misuse）"。
+【技巧总结】选项为较长的名词结构时，考虑先把信息"化整为零"，排除与文意完全不搭的内容并大
+致判断答案;然后再结合次要信息分析选项设置思路，确保推断无误。本题选项重心分别为∶【A】当前分
+选机制的后果/影响、【B】企业的经济损失、【C】政府的低效、不称职、【D】正直的误用/滥用。"企业"、"政
+府"在第二段首句同时提及，两者同属 our institutions，共性是"内部都缺失道德（within）"，完全不涉及
+"财政、经济"以及"政府执行力"问题;"正直"贯穿两段始终，但"使用不当"和文中"缺失"大相径庭。而
+【B】【C】【D】三项次要信息"因不道德行为、在道德问题上、在机构内部"均与文中要义有所挂钩，造成干
+扰。【A】中"分选机制"看似"太窄、不着调"，但核心词"影响、后果"辅以限定语"当前的"，使其内涵厚重，
+42
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 43 -----
+ 
+实际指代宏观的"社会/经济活动的方式、机制"。
+..⋯⋯⋯⋯
+Ⅲ ①As the hacking trialconcludes—finding guilty
+窃听审判终结的同 时——裁定《世界
+one ex-editor of the News of he World,Andy Coulson,
+新闻报》前主编安迪·柯尔逊合谋窃听电
+for conspiring to hack phones, and finding his 话罪名成立，而 其前任丽 贝卡·布鲁克斯
+predecessor,Rebekah Brooks,innocent of the same 被判无罪———更大范围的正直诚实缺失问
+charge—the wider issue of dearth of integrity still stands.
+题却依然存在。据悉，记者们窃听了多达
+②Journalists are known to have hacked the phones of up to 5 500 人的电话。正如 2001 年受雇于《世
+5,500 people.②This is hacking on an industrial scale,as 界新闻报》的电 话窃听关键人物格伦 ·穆
+was acknowledged by Glenn Mulcaire,the man hired by 凯尔所承认，这场窃听已经达到工业规模。
+the Newsof the World in 200l to be the point person for 其他人在候审。这一长 串事件 仍在逐渐
+展开。
+phone hacking. ④ Others await trial. ⑤ This long story
+still unfolds.
+·词汇注释与难句分析.
+$ ①find sb guilty for doing（判定某人某罪）
+①trial 【'trarol】 n.【法】审讯，审判
+②find sb innocent of the charge（判定某人就指控无罪）
+②conspire 【kon'sparo】 v. 阴谋策划
+③up to （高达）
+③predecessr 【'pridiseso】 n. 前任，前辈
+④on an industrial scale（呈现一定行业规模地）
+●经典搭配
+As the hacking trial concludes—finding guilty one ex-editor of the News of the World,Andy Coulson,
+for conspiring to hack phones,and finding his predecessor,Rebekah Brooks,innocent of the same charge—
+the wider issue of dearth of integrity still stands.
+结构切分∶
+finding guilty one ex-editorofthe New ofthe World,Andy Coulson,for conspiring tohack phones
+动名词短语1
+and finding his predecessor,Rebekah Brooks, innocent of the same charge
+连词
+动名词短语2
+解释说明
+让步状语从句
+句子主干
+the hacking trial concludes
+As
+the wider issue of dearth of integrity tillstands.
+连词
+谓语
+谓语
+主语
+主语
+功能注释;本句以 as 形成句内转折;前半句指出窃听案已作出结论，并以破折号内容具体说明案件
+结论。后半句转而指出，但更广泛的正直缺失问题依然存在（即∶正直缺失不仅仅体现于已经获罪的人
+员、并没有随案件的判决而结束）。
+-语篇分析
+第三至六段以具体案件"《世界新闻报》电话窃听丑闻"为切入点，指出现象如今更甚，由此深入论述现象。
+第三段从正面（窃听事实）抨击直接涉案的记者;实 际 犯案规模更大。关键词为∶wider...stil
+stands。
+①句过渡，将视角由"两年前"拉至"现在"∶案审结束，可正直缺失的现象依然大范围存在。句首 As
+（表示两事同时发生;主句 still 还赋予其"让步"内涵）凸显 concludes Vs still stands 这对矛盾∶终结=结
+束，现实却是"问题依旧"，其中 concludes"（尤指经过长时间的讨论之后）得出结论/作出判决"，暗示案
+情复杂难界定;stand 常用于表示"法律、提议等持续有效（still exists and has not been changed or
+43
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 44 -----
+ 
+canceled）"，此处主语为 issue（尤指牵涉许多人利益的社会/政治问题），由比较级 wider 修饰，表示"问题
+比审判暴露出的范围、程度更甚，但并未解决"。
+破折号内补充说明判决结论。find为法律用语，指"（官方的）裁决、判决";finding sb guilty for doing
+sth/of sth（文中 sb较长，故后置）和 finding sb innocent of the charge of doing sth（charge指"指控，罪
+名"）对比鲜明∶报纸前主编罪名成立，而其前任被认定无罪。注;2000—2007 年是《世界新闻报》窃听事
+件集中进行的时间，Rebekah Brooks 和 Andy Coulson分别为该报 2000—2003 年和 2003-2007年主编。
+②至⑤句揭示案件规模∶被窃听对象数量惊人、参与窃听记者人数众多。
+②③句说明"受害人（被窃听对象）数目之多"。up to 5，500（up to 指"多达"）与 on an industrial scale
+（on a/an...scale表示"呈/以⋯⋯的规模"）呼应第二段②句 widespread，强调窃听范围之大。定语从句
+as was acknowledged by...修饰整个主句，表明其真实性∶来自核心涉案者的供认，point person 意为"关
+键人物、某事件中打头阵的人物"。
+④⑤句说明"犯案记者数目之多"。others指代已被定罪之外的其他犯罪嫌疑人;await trial（候审）
+表明嫌疑者需分批审判，足见参与人员之多、关系之复杂。This story 即"电话窃听案"，long 与still
+unfolds（unfold意为 to be gradually made known"【故事等】逐渐明朗、展现"）勾画出"案件牵扯内容多、耗
+时久，正层层打开，违背道德者将被逐一问责"的情形。
+【深层解读】首句破折号之间的案审结论涉及"法律术语十人物姓名"，阅读稍有困难，可以先串起破
+折号两边内容，首先把握住段落要义以及在上下文中的作用。As..concludes，the wider..stll stands.
+印证之前推测，明确本文立足点∶通过《世界新闻报》的"电话窃听案"揭示更大范围的正直缺失现象;因
+此文意重点不在于案件的各个细节，而在于案件如何作为一个典型昭示现象，即"正直缺失并非个例，而
+是大范围问题"，带着这一原则阅读②至⑤句，很容易就捕捉到 up to 5，500、industrial scale、others、This
+long story 等表示"案件波及面大，涉案者多"的关键信息，把握作者用意。
+ 真题精解
+37.由第三段可推知
+37. It can be inferred from Paragraph 3 that
+[A] Glenn Mulcaire may deny phone hacking as a crime
+【A】格伦·穆凯尔可 能会否认电 话窃听
+为犯罪
+[B] more journalists may be found guilty of phone hacking 【B】 更多记者可能会因窃听电话获罪
+[C] Andy Coulson should be held innocent of the charge
+【C】 安迪·柯尔逊应该被判指控不成立
+[D] phone hacking will be accepted on certain occasions
+【D】 电话窃听在某些情况下将被允许
+【精准定位】第三段首句表明两位主编的判决情况，②至⑤句接着指出∶记者窃听人数多达 5500 人;
+其余的还在候审，案件事实仍在展开。可见，仍有许多犯案记者将受到法律制裁，【B】符合文意。
+【命题解密】【B】是对第三段④⑤句 Others await trial（其他人尚待审判）、This long story still unfolds
+（这一长串事件仍在展开）以及首句 the wider issue of dearth of integrity still stands 的明确解读。
+【A】与③句信息"案 件核心 人物 Glenn Mulcaire 承认电 话窃 听 已 达 到工业 规 模（as was
+acknowledged by...）"矛盾。【C】与①句信息"Andy Coulson 被判合谋电话窃听罪名成立（finding
+guilty...）"完全相悖。【D】利用现实情形"某些情况下（如破案时），可允许进行电话窃听"干扰，但脱离
+文意。
+【技巧总结】段落推断题的解答应以"段落/群、或文章主旨"为总指导。第三段继前两段"揭示负面
+现象"后引入具体案件，可知事例为现象服务，意在说明"现象严峻，亟待改变"，纵观选项，【C】和【D】属
+于"为窃听开脱"的内容，有违总体导向，【B】表明涉案群体庞大，能突显现象，【A】虽聚焦案件核心人物，
+AA
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 45 -----
+ 
+但全文仅此一处提及，且"认不认罪"属于个人主观行为，与全文探讨的现象/主旨没有实质性关联
+...........⋯....
+Ⅳ ④ In many respects, the dearth of moral
+在许多方面，道 德目的缺失不仅 仅体现为
+purpose frames" not only the fact of such widespread "如此大范围的电话 窃听"实情，还 体现 于审判
+phone hacking but the terms on which the trial took 所依据的措辞之中。其中揭露的惊人真相之一
+plac. ②One of the astonishing revelations was how 是丽 贝卡·布鲁克斯对于其新闻编辑室中所发
+little Rebekah Brooks knew of what went on in her 生的事竞几乎毫不知情，她几乎没想过要去问，
+newsroom,how little she thought to ask and the fact 而且事实上她从未询问过这些新闻报道的题材
+that she never inquired* how the stories arrived. ③The 到底是怎么来的。她成功辩词的核心便是她什
+core of her successful defence@ was that she knew 么都不知道。
+nothing.
+..........+*.........-................
+......*.....+..
+词汇注释与难句分析
+●经典搭配
+①frame 【freim】 v. 表述，表达;构筑，建造，设计，组成
+②revelation 【revler【on】 n.揭发，暴露
+①in many respects（在许多方面）
+②went on（进行，发生）
+③inquire 【in'kwao】 v.打听，询问;查究，查问
+④defence【d1'fens】 n. 辩护
+③the core of（⋯⋯的核心）
+One of the astonishing revelations was how ittle Rebekah Brooks knew of what went on in her
+newsroom,how little she thought to ask and the fact that she never inquired how the stories arrived.
+结构切分∶
+句子主干∶ Oneof th astonishing revelations was
+系动词
+主语
+表语从句
+表语1∶howlitle Rebekah Brooks knew of what went on in her newsroom
+谓语
+主语
+宾语从句
+表语2∶how itle
+e she thought to ask
+主语谓语
+同位语从句
+宾语从句
+表语3∶【
+she
+and the fact 
+that
+never inquired
+Hhow the stories arrived.
+连词 表语
+谓语
+引导词主语
+功能注释∶本句主干为 One of the astonishing revelations was...，表语为排比强调结构 how little..
+how little...and the fact that...。其中 that 引导的同位语从句解释说明 the fact，且其中又嵌含 how引
+导的从句做 inquired 的宾语。
+语篇分析
+第四至六段从侧面（庭审辩词）抨击间接涉案的管理层∶对问题毫不作为，推卸责任。
+第四段聚焦被裁定无罪的主编丽贝卡辩词，从中揭示道德缺失现象。关键词为∶how little。
+①句从上文（体现道德缺失的）窃听本身过渡至本段庭审辩词。并列递进结构 not only...but
+（also）...承上启下，such widespread phone hacking 回指上段内容;frame在其本意"构造，建造"的基础
+上引申出"造成、引起"之意，重申第二段所述因果关联∶道德目的缺失会让机构迷失方向，犯下错事;but
+引出作者重点揭示的问题，并辅以短语 in many respects，强调庭审辩词比案件本身更能揭示正直大范围
+45
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 46 -----
+ 
+缺失的问题，进一步明确上段①句 wider一词所指。the terms on which the trial took place 中，定语从句
+修饰 terms，介词前置，语义逻辑实为 the ral took place on the terms;其中 terms（意为"措辞、说法"）这
+里指案件嫌疑者在审判中的辩词/证词，介词 on表示"根据、以⋯⋯为基础"，take place指"发生、进行"。
+②③句以被判无罪的丽贝卡辩词为例对①句展开说明。one of the astonishing revelations
+（astonishing 意为 so surprising that itis difficult to believe）与①句 in many respects形成呼应∶嫌疑人辩
+词所揭示的种种道德缺失问题惊人到难以置信，而其中丽贝卡的辩词最为典型。全句表语部分以"排比
++感叹"句式 how itte she knew...how lttle she thought to..and the fact that she never...层层递进，
+强调时任主编丽贝卡的严重失职∶对编辑室中发生的事（窃听事件）几乎不知情（go on 意为"发生"）、也
+几乎没想问（think to do sth意为"设法、打算做某事"），甚至从不询问新闻的来源（story 此处指"新闻报
+道的题材";arrive 指"【新事物】出现"），而这理应是新闻总编的起码职责。
+③句 delence指"（法庭中的）辩护、辩词"，呼应首句 terms并囊括②句内容;successful照应上段审判
+结果finding...innocen...，该词在 core（核心、关键）、knew nothing 以及上句排比所构成的语境中生出
+讽刺意味∶"不知情"本属渎职，却成了"无罪"的关键理由，表现出作者对判决合理性的质疑。
+【深层解读】论述中的反复之处是作者欲强调的重点，②③句占据段落大半内容，how little，how
+little，she never...，knew nothing反复表明丽贝卡"毫不知情"，而这令人震惊（astonishing），暗示有违常理，
+作者对丽贝卡说辞持质疑态度∶身为总编，当真一无所知，还是说根本就是姑息纵容，甚至暗中支持?
+真题精解
+38. The author believes that Rebekah Brooks's38.作 者 认为 丽 贝 卡 ·布 鲁 克 斯 的 辩
+词 
+defencc
+_o
+A] was hardy convincing
+【A】 很难让人信服
+【B】 集中于无关紧要的问题上
+[B]centered on rivial isses
+[C] revealed a cunning personality
+【C】显露了其狡诈个性
+【D】 是某个阴谋的一部分
+[D] was part of a conspiracy
+【精准定位】第四段首句指出，不光窃听事实，审判中的辩词也体现道德缺失问题。②③句继而以
+Rebekah 的辩词为例说明（one of...revelations）∶（身为主编却）对编辑室中发生的事毫不了解，也不闻
+不问，甚至从不询问新闻内容来源。可见作者认为她无视道德，试图以不知情来推卸责任，【A】正确。
+【命题解密】【A】概括了排比强调结构 how little she knew...how little she thought...she never
+inquired 以及 astonishing 一词所反映的作者的质疑态度。
+【B】把反复出现的 how little...主观解读为"只关注鸡毛蒜皮，忽略/规避重点问题"，而末句
+sccesul表明其辩词成功为其赢得无罪判决，自然不会"无关紧要"。【C】根据②③句暗示的"其辩词有
+意推卸责任、极力强调自己不知情从而无罪"干扰，但该内容无法与"狡猾性格"绝对挂钩（无视律师角
+色、人性弱点等），且不是作者在段中想表达的重点。【D】从上段首句 conspiring to...（Andy 合谋进行电
+话窃听）衍生出"Rebekah 在酝酿阴谋"，在文中并无信息支撑。
+【技巧总结】The author believes/holds/implies...本质上属于"态度题"，对应的原文一定有非常明
+显的体现作者立场的情感词或特殊表达。文中 astonishing（惊讶得难以置信）结合"道德缺失"的论述背
+景，先行暗示作者对其辩词的负面态度，且很坚决，选项中【B】只体现"主次不分"，不涉及"大是大非";其
+余三项都契合"负面态度"，但【D】无从得知，【C】关注点在其"（有别于他人的）个人性格（personality）"，
+而文中讨论的是"人们当前普遍的行为倾向"。只有【A】与 how litle...how little...never...以及 in her
+newsroom 体现的"不可思议、岂有此理"之意吻合。
+46
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 47 -----
+ 
+V①In today's world,it has become normal that well-
+在当今社会，待遇优厚的高管无需对
+paid executives should not be accountable for what happens 发生在自己所运营机构中的事情负责，这
+in the organisations that they run.②Perhaps we should not 已经成为常态。或许我们不该如此惊讶。
+be so surprised. ③Fora generation,the collective doctrine 对这一代人而言，"社会的分选机制应该
+has been that the sorting mechanism of society should be 是利益"已是集体信条。重要的字眼是效
+profit.④ The words that have mattered are efficiency,
+率、弹性、股东利益、商业友好、财富创造、
+flexibility,shareholder② value,business-friendly,wealth 销售额、影响力，以及对报纸来说的发行 
+generation，sales，impact and，in newspapers，circulation3.
+量。而退至边缘的字眼是公正、公平、宽
+⑤ Words degraded②to the margin have been justice, 容、均衡以及责任。
+fairness,tolerance,proportionality②and accountability.
+...............-.
+ 词汇注释与难句分析 
+（性），相称;成比例
+①accountable 【o'kauntobol】 a.负有责任的，应对自己
+的行为做出说明的;可解释的
+●经典搭配
+②doctrine 【'doktrin】 n.教条;教诲，教导
+①be ccountable for（对⋯⋯负责）
+③flexibility 【iflekst'brliti】n.弹性，机动性，灵活性
+②run an organization（管理某一组织）
+④shareholder 【'Jeoholdo】 n.股东;股票持有者
+③collective doctrine（集体信条）
+⑤circulation 【s∶kju'lerJon】 n.发行量;流通
+④degraded to the margin（被降至边缘）
+⑥degrade 【d'grerd】 v.降低，贬低;使降级
+⑦proportionality 【proupo∶jo'n?elti】 n.比例（性），均衡
+【 语篇分析
+第五段跳出案件，退而论述机构高管总体道德危机并揭示根本原因∶整代人价值观扭曲。关键词
+为 ∶①should not be accountable;②should be profit。
+①句以多重矛盾修辞展现荒谬现象∶管理者拿着高薪却无需对自己机构中的问题负责，而这竟成常
+态。what happens in the organisations 实指"突发的各种问题";should not be accountable（should功能为
+used to give sb an order to do sth"按要求必须"）为高管彻底免去应对问题的职责;完成时态 has become
+normal that..暗含作者对普遍既成事实的不满与无奈。run 取僻义"管理、经营"。
+②至⑤句解释上述荒谬现象之所以成为 必然的原因。
+②句过渡，以反讽口吻自答首句暗藏疑问。so surprised 与上句矛盾现象暗合，Perhaps we should
+not be..以委婉否定的形式传达明确用意∶这实属必然现象。
+③句随即亮明原因∶"利益为大"是当今社会的集体信条。这与首段②句遥遥呼应，重申伊丽莎白观
+点。Fora generation 呼应①句 In today's world，强调这是最近二、三十年间才出现的现象，以前并非如
+此，呼应首段 collapse 一词暗含的"突然（坍塌、瓦解）"之意。collective doctrine（doctrine 意为 a belief
+accepted as authoritative by some group or school信条，信仰"）在 collective acceptance的基础上进一步
+凸显当前社会对"社会分选机制理应为利益"的深信不疑。
+注∶①②③句中三个 should 语义有别∶①句 should not be 表示"对违背预期/要求之事表示惊讶";②
+句 should not 为常规用法，即"用于提供建议"，语气色彩较弱;③句 should be用于强调"理应如此，这是
+当然的正确方式"。
+④⑤句说明③句，具体展现人们价值观的扭曲。两句中 have mattered（matter 为动词，意为"【尤指
+对某人自己或对发生之事】重要，要紧"）和 degraded to the margin（degrade 意为"使降格、退化"）形成
+"升、降"对比∶利益被提升为"绝对中心"，一切绕其而行;道德目的降至"边缘"，无人关注。
+④句罗列人们追逐的对象（见利）∶效率、弹性、⋯⋯发行量等。efficiency（效率、效能）、flexibility（弹
+47
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 48 -----
+ 
+性、适应性）和 business-friendly（friendly 指"支持的、有利的"）原本为褒义，这里却用作贬义，指"为了逐
+利，盲目求快，随波逐流，生意至上"。and，in newspapers，circulation呼应文中聚焦案件，解答电话窃听
+的根本原因∶一味追求发行量，不惜窃取他人隐私，无视新闻职业伦理。
+⑤句罗列人们抛弃的对象（忘义）∶正义、公平、⋯⋯责任等。proportionality（意为 harmonious
+arrangement or relation of parts or elements within a whole"和谐，均衡"）这里指经济、环境、人等的和谐、
+均衡存在及发展;accountability 与①句 accountable 同根，意指"责任（感）"。
+【深层解读】段首的 In today's world（在当今社会;world指"我们生活的社会"）并非简单的地点/时
+间状语，而是起"风向标"作用∶论述由点及面，即;从"上述具体案件"过渡至"当前社会普遍状况"，加之
+③句信息与首段交叠，可以明确全文布局∶开篇提出现象→以具体事例论证现象→回应开篇重申现象，
+为终结全文、升华主题做好准备。④⑤句中罗列多个词汇，不乏抽象内容，但只要把握大方向"人们重利
+益轻道德"便不难发现两句罗列词汇分别是对"利益"和"道德"的概括。
+真题精解
+39.作者 认为 ，当今 集 体信 奉 的原 则体现
+39. The author holds that the current collective doctrine
+了___.。
+show
+【A】 边缘化的生活方式
+[A] a marginalized lifestyle
+【B】 不公的财富分配情况
+[B] unfar wealth distribution
+【C】 普遍扭曲的价值观
+[C] generally distorted values
+【D】 一套死板的道德准则
+[D] a rigid moral cod
+【精准定位】第五段①句指出如今高管们拿着高薪却不尽职责已成常态。②③句指出原因∶如今社会
+奉行"利益为大"的信条。④⑤句列举的词汇分别对应"利益"和"道德"，并表明人们重前者（have
+mattered），轻后者（degraded to the margin）。可见作者认为当前人们重利轻德，价值观已扭曲，【C】正确。
+【命题解密】【C】既提炼了④⑤句所述信条表现中所蕴含的作者批驳和愤懑之情，又反映了①句所述
+这一信条所导致的畸形现象。
+【A】将⑤句被边缘化的对象由"道德相关内容（justice，fairness，tolerance..）"偷换为"生活方式（a
+lifestyle）"，脱离语境。【B】将①句 well-paid executives 和⑤句 fairness糅杂形成干扰，但文意实为"高管
+待遇优厚却严重失职"以及"正向价值观被降至边缘"，并不涉及"财富分配公平与否"这一问题。【D】受
+degraded（使堕落、降级）字面含义干扰，以为作者认为当前人们的道德信仰"死板、已落伍（rigid指"【规
+章、制度等】 僵死不变的）"，而文意实为"道德已遭摒弃，道德信仰已不再"。
+【技巧总结】本题考查"作者对当前集体信奉的原则的看法"，题干直接对应的第五段③句与首段②
+句契合，均落脚于"profit"，再结合罗列词语的共性可判断∶作者批判的矛头指向"唯利是从"这一共识，
+四个选项分别指向"生活条件/行为/习惯、财富分配、价值观、道德准则"，只有【C】和【D】符合，而
+distorted和 rigid 两者中明显前者体现"变化、堕落"，与题干 current 暗中吻合。
+Ⅵ @The purpose of editing the Nevcs of the World
+编辑《世界新闻报》的目的不 是为了增进
+was not to promotereader understanding,to be fair in what 读者的了解认知，不是为了体现所 写内容的
+was written or to betrayany common humanity.② I 公正，也不是为了彰显共同的人性。而是为
+was to ruin lives in the quest for circulation and impact. 了发行量和影响力毁掉他人的生活。布鲁克
+③Ms Brooks may or may not have had suspicions2about 斯女士或许曾经，也或许未曾就她的记者们
+how her journalists got their stories,but she asked no 如何获取他们的新闻题材有过怀疑，但她不
+questions,gave no instructions—nor received traceable 曾问过任何问题，不 曾做过任何指示——也
+recorded answers. [462 words]
+不曾得到任何可追踪、有记录的回答。
+48
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 49 -----
+ 
+ 词汇注释与难句分析
+经典搭配
+①betray 【bl'trei】 v.暴露（不易发觉的东西）;流露
+①promote understanding（促进理解）
+②humanity 【hjo'meent1】 n. 人性（不可数）
+③quest 【kwest】n.（历时较久的）寻求，探索，追求
+②betray common humanity（暴露共同的人性）
+④suspicion 【so'sprJon】 n.怀疑;嫌疑;疑心
+③in the quest for（追求⋯·⋯）
+⑤traceable 【'treisobl】 a.可追踪的，可 溯源的
+④have suspicions about（对⋯⋯.有怀疑）
+ 语篇分析
+第六段回归案件，直接批判《世界新闻报》及其时任管理者丽贝卡。关键词为∶to ruin lives。
+①②句从新闻伦理角度对《世界新闻报》进行反讽和批判。The purpose of editing...was not to...（not）
+to..or to..It was to...融合"反语"、"排比"、"取舍"等特殊强调结构，突显作者对事件的极度愤慨。
+①句侧面批驳∶完全背离了新闻的使命与责任。to promote reader understanding（促进读者对世界、
+社会、生活等各方面的了解;understanding指"了解、认识"）为新闻编辑的主要职责;to be fair in what
+was written（内容不偏不倚、客观公正）属于新闻编辑的职业道德;to betray common humanity（弘扬善，
+曝光恶）则指新闻媒体的社会责任，其中 betray 意为"暴露、展现 【尤其是不易发觉的事实】"）。
+②句直接批判∶为了发行量和影响力不惜牺牲他人生活。ruin（意为"完全地糟蹋掉"）表明窃听事件
+的恶劣程度∶被窃听者多达数千人，涉及人数更是不计其数，许多人因此生活尽毁;in the quest for原本
+带有"执着、努力追求（幸福、真理等）"的褒义色彩，此处含强烈贬义;为了利而迷失自我、且愈走愈远。
+③句对丽贝卡作出总结性批判∶玩忽职守、窃听事件（纵使被判无罪也）难辞其咎。may or may not
+have had suspicions...，but she..体现让步转折逻辑∶其部分辩词不能确定是否属实（表推测的 may 实
+际上传达作者的确信态度∶不相信她从没怀疑过"），但"对万事不闻不问"已属严重失职，不容辩驳。排
+比否定形式 asked no questions，gave no instructions—nor...（nor 用于引出另一否定内容，补充前句）历
+数并突显丽贝卡身为管理的严重不作为，其中 traceable（可追踪/查出的）、recorded（被记录的）强化这一
+批判∶没有任何证据显示她履行过基本职责。
+【深层解读】末段对《世界新闻报》及其管理者进行批判，为"电话窃听案"画下句号，但从全文来看，
+该案为"例证"，作者意在通过此案揭示"公共机构（本文实际聚焦新闻媒体机构）正直诚实精神缺失"这
+一丑恶现象，引导人们做出积极改变;故末段并非"单纯批判某报某人道德沦丧"，而是"借收尾事例升华
+主题 、收束全篇"∶新闻工作者应反思"一味逐利、无视道德"的行为和风气，重塑道德意识。
+真题精解
+40. 以下哪一项是末段所暗示的内 容?
+40.Which of the following is suggested in the last paragraph?
+【A】 稿子的质量居于首要地位。
+[A] The quality of writings is of primary importance.
+[B] Moral awareness matters in editing a newspaper.
+【B】 道德意识对于报纸编辑非常重要。
+[C] Common humanity is central to news reporting.
+【C】 共同的人性对新闻报道最为重要。
+【D】 新 闻 工 作 者需要更 严 格 的行业
+[D] Journalists need stricter industrial regulations.
+规定。
+【精准定位】第六段①②句对《世界新闻报》的电话窃听行为予以强烈谴责;编辑新闻的目的不是为
+了增进读者认知，客观公正地呈现事实，展现共同的人性，而是为了追求发行量和影响力，不惜以人们的
+生活为代价。可见，作者通过正向批驳反向强调"正义、人性等道德"对于报纸编辑的重要性，【B】正确。
+【命题解密】【B】是从末段①②句对《世界新闻报》错误做法的批驳中反向推知的正确方式，是对 to
+be fair in what was written、to betray common humanity、not to ruin lives...的准确概括。
+【A】利用①句 to promote reader understanding 干扰，但该内容意在表明新闻编辑的基本职责"集散
+信息，传播新闻，以提升读者认知"，并非探讨"新闻写作的水平、质量"。【C】将①句暗含信息"展示共同
+49
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 50 -----
+ 
+人性是新闻编辑的使命之一"夸大为"共同人性是新闻报道的核心"。【D】过度推测文意;全文主要从"道
+德目的"层面阐释现象/问题，虽然通过谴责现象表达了期许，但并未"建议制定硬性的行业规定"。
+【技巧总结】针对末段的题目（尤其当该题为文章最后一道题时）均与主旨直接相关，命题人有意"梳
+理全文，给定结论"，因此在判断细节之外，必须要宏观考虑全文（作者）用意。本题选项虽然都围绕"新
+闻编辑"，视角不算宏观，但仍可以"以小观大"。【A】、【C】重心分别落在"新闻的写作质量、内容题材"
+上，偏离作者"揭示社会道德缺失问题，引导人们做出改变"的终极目的，只有【B】符合这一目的。【D】侧
+重"解决问题"，属于常见收尾形式，但全文探讨的是社会伦理道德问题，并不存在硬性的解决办法（不是
+某行行规所能应对的），作者仅能"批评、呼吁、引导"。
+Part B 阅读的方法
+知识补充
+原文外教朗读
+一、文章总体分析
+本文摘自 2006年出版的一本书作∶Ways of Reading∶ Advanced Reading Skills for Students of
+English Literature《阅读的方法∶英语文学专业高级阅读技巧》。文章通过评论"阅读过程"指出，不同读
+者对相同文本存在多元化解读，而多元化解读对于社会信仰和价值观的讨论具有重要意义。全文可分
+为三大部分∶第一段引出话题"如何进行阅读"，并介绍阅读理解的基本过程。第二、三段对阅读过程进
+行评论∶不仅包括被动接收信息，还包括主动推理和解决问题，不同读者对相同文本的解读不尽相同。
+第四、五段进而分述影响读者对文本解读的两个因素∶个人背景信息、读者对文本的特殊兴趣。 
+觉二、语篇分析
+I How does your reading proceed"? Clearly you try to
+你的 阅读是如何得 以持续前进 的?
+comprehend,in the sense of identifying meanings for 显然，你会运用已掌握的英语语法知识，
+individual words and working out relationships between 设法从"确定每个单词含义、并理清词与
+them,drawing on your implicit knowledge of English 词之间关系"的角度去努力理解（文本）。
+(41)
+你开始为
+You begin to
+grammar. (41))
+文本推理出一个语境，比如，确定 涉及何
+infer a context for the text,for instance,by making
+种言语事件∶说者是谁，在对谁说，什么时
+decisions about what kind of speech event is involved: Who
+间，什么地点。
+is making the utterance,to whom,when and where.
+。 词汇注释与难句分析"
+● 经典搭配
+①proceed 【pro'si∶d】 v（某事）得以持续做/从事/进行
+②comprehend 【kDmpr'hend 】 v.理解，领悟（复杂或
+①in the sense of 从某种含义/角度/意义上来说
+困难的事物）
+②work out 理解，设法弄懂某事
+③implicit 【im'plist 】 a.内化的，内隐的，已经掌握的
+③draw on（为某种目的）利用，动用（经验、知识等）
+④utterance 【'Atorons】n.言论，言辞
+④speech event（语言学中的）言语事件
+【语篇分析
+第一段提出文章探讨主题"阅读如何得以持续前进"，并总体介绍阅读的基本过程。
+50
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 51 -----
+ 
+①句开篇设问、提出全文话题∶阅读如何得以持续前进?reading 为动作性名词，表示"阅读行为";
+proceed强调"进程（尤指停止或被打断后）继续推进";二者共同表明作者观点∶阅读是一个持续性的、不
+断推进的过程，这一过程并非畅通无阻，而是需要阅读者付出努力。
+②至末句进而介绍阅读的基本过程。②句介绍初级环节∶从词汇入手理解文本。Clearly 奠定本句
+基调∶这是最直接、最表层的理解（即初级环节）。句子可分为三个层次理解。句子主干以 try to（努力、
+设法去做）、comprehend（"理解复杂或困难的事情"）表明阅读第一步"理解文本"，且暗示这并非轻而易
+举。方式状语 in the sense of...说明理解文本的具体角度;从词汇入手，确定每个单词的含义，并理清词
+与词之间关系。另一层方式状语 drawing on...则明确这一过程所借助的"工具";读者已经内化的英语
+语法规则。
+随后为空格 41。空格后句子说明阅读的高级环节∶给文本推理出一个语境。You begin to 提示本环
+节以前述环节为基础，属于更高层级的阅读理解。本句与②句核心词汇形成对比 context VS individual
+words、infer/making decisions VS comprehend/identifying/working out，体现更大程度的"读者主动思
+考"，实现环节的推进∶由"客观解读文本"至""推理文本语境"。for instance...举例说明如何推理文本语
+境∶确定具体的言语事件（包括说者 、听者、时间 、地点等）。
+ The ways of reading indicated" here are without
+毫无疑问，这里所介绍的阅 读方法是不
+doubt kinds of comprehension. But they show
+同种类的理 解过程。但 它们 表明理解不仅
+comprehension to consist not just of passive assimilation*
+包括被动地吸收，还包括主动参与推理及问
+but of active engagement in inference and problem-
+题解决。推理 那些你认为 作者通过呈现给
+solving. You infer information you feel the writer has
+你具体证据和线索而邀请你去抓住的信息;
+invitedyou to grasp by presenting you with specific
+(42)
+evidence and clues;(42)___
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+·词汇注释与难句分析 ·
+④invite 【n'vat】 v.邀请，吸引，诱使
+①indicate 【'ndiket】 v.表明
+②comprehension 【kompr!'hen【n】 n.理解，理解/领
+● 经典搭配
+悟能力
+①present sb with sth 把某物呈现给某人
+③assimilation 【osimr'lelJon 】n.透彻理解（某思想或
+信息），吸收
+语篇分析 
+第二、三段对阅读理解过程进行评论∶不同读者的理解轨迹并不完全相同。
+第二段指出阅读过程不仅包括被动接收信息，更包括主动参与推理和问题解决。
+①句承上指出毋庸置疑的观点∶上述阅读方法是不同种类的理解过程。The ways of reading indicated
+here概指首段内容;without doubt 引出其中显而易见的、人们普遍认同的观点;kinds of comprchension
+（comprehension 意为 the act or processof comprehending"理解行为或过程";kinds of指一个种类里面有很多
+种）既体现差异、又体现共性，指出上述阅读方式有所不同，但均属"理解（过程）"范畴。
+②句转而（But）提出作者重在呈现的观点（人们可能并未意识到的方面）∶理解过程不仅包括被动接
+收信息，更包括主动参与推理及问题解决。句子以递进结构 consists notjust of...but of...连接互为补
+充的词对 passive assimilation 和 active engagement in...，评述指出阅读理解的完整过程"需要对文本的
+客观分析、被动吸收，但更重要的是超越文本、主动思考、推理隐含信息"（后者才是阅读的精髓）。
+③句进而指出哪些信息需要读者的主动推理∶你认为作者"邀请"你通过文中线索去抓取的信息。
+句中 you infer、you feel凸显读者的"主动性"、并暗示不同读者之间的"差异性"。has invited you to
+51
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 52 -----
+ 
+grasp、presenting you with specific evidence and clues 形象展现"在文本之中故意留下证据和线索，邀请、
+引诱读者进行推理、抓取深层信息，从而和自己产生共鸣"的作者，并侧面表明读者积极主动进行推理的
+必要性（这是作者的深层目的，是读者所应汲取的深层信息）。specific evidence and clues（specific 意为
+"明确的，具体的"）则说明推理过程受到作者行文构思和写作意图的制约。随后出现空格 42。
+Ⅲ Conceived" in this way,comprehension will not
+这样看 来，每位读者的理 解轨迹并不完
+follow exactly the same track for each reader. What is in 全相同。这 里所说的不是读取那些能够快速
+question is not the retrieval2 of an absolute, fixed or 读出且 能检验正误的绝对的、确 定的或"真实
+'true'meaning that can be read off and checked for 的"意思，也不是读取文本与世界的某些永恒
+accuracy, or some timeless relation of the text to the 联系。（43）
+world.(43)
+.⋯⋯........⋯......⋯....
+词汇注释与难句分析 ·
+● 经典搭配
+①conceive 【kon'siv】 v.想象，设想
+①in question 被谈及的，被讨论的
+②retrieval 【r'trivol 】 n.（计算机系统的）检索
+②read off 迅速读出或读完
+③timeless 【'taimlos】 a.永恒的，恒久的
+语篇分析 
+第三段进一步评论，指出阅读路径会因人而异，阅读的要义并非核验文本中的确定性信息。
+①句承上段指出每个人的阅读轨迹不尽相同。Conceived in this way 顺承第二段"阅读理解不仅包
+含被动吸收（每个人吸收的信息不尽相同），更包括主动推理（每个人对不同信息进行推理）"引出进一步
+评述。will not follow exactly the same track强调（所以）每位读者的理解轨迹并不完全相同。
+②句反面论证①句观点，排除对"阅读理解轨迹不同"的可能误读。What is in question 回应前句，
+以主语从句起到提醒强调的功用。is not...or...以否定排比结构进行全方位排除∶不是读取文本中绝
+对的、确定的、或"真实"的含义，也不是核验文本与世界的永恒关系"（呼之欲出的空格处信息即∶而是与
+读者个人及所处时代的联系）。注∶句中 retrieval本意为"（从电脑或其他存储设备中）读取、检索、还原
+信息"，这里用以比喻"读者读取、还原文字中的确定的信息"。随后出现空格 43。
+Ⅳ Such background material inevitably reflects
+这些 背景信息必然会反映出读者的个人特
+who we are.(44)
+__ This 质。（44）
+然而，这
+doesn't,however,make interpretation merely relative 并不会使读者解读仅具有相对意义，甚至毫无 
+or even pointless". Precisely because readers from 意义。恰恰是因为处于不同历史时期、来自不
+different historical periods,places and social 同地方、拥有不同社会经历的读者对页面上的
+experiences produce different but overlapping 相同文字———包括那些涉及人类基本关切的文
+readingsof the same words on the page—including 本——产生不同但却相互重叠的解读，关于这
+for texts that engage with fundamental human 些文本的辨论才在有关信仰和价值观的社会讨
+concerns—debates about texts can play an important 论 中起着重要作用。
+role in social discussion of beliefs and values.
+.......
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+词汇注释与难句分析 ·
+ ②overlapping 【iov?lepn】 a.重叠的，交叠的
+①pointless 【'pontlas】 a.无益的，毫无意义的
+52
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 53 -----
+ 
+③reading 【'ridi 】 n.（对某句话、事件等）理解，解读
+①engage with 与⋯⋯建立起密切的关系
+经典搭配
+Precisely because readers from different historical periods,places and social experiences produce
+different but overlapping readings of the same words on the page—including for texts that engage with
+fundamental human concerns—debates about texts can play an important role in social discussion of beliefs
+and values。
+功能注释∶本句为因果关系的主从复合句。主干为 debates..can play an important role in...，指
+出"对文本的辩论"意义重大;because 引导的从句说明原因。破折号内容补充说明 thesame words on
+the page。
+结构切分∶
+—including for texts that engage
+from different historical periods, places and social experiences|
+with fundamental human concerns-
+介词短语做后置定语
+插入语
+Precisely because readers produce different but overlapping readings of the same words on the page
+谓语
+宾语
+状语引导词主语
+原因状语从句
+句子主干∶  debates about texts can play an important rolein social discussion of beliefs and values
+谓语
+主语
+状语（表示在⋯⋯方面）
+语篇分析
+第 四、五段进而明确影响读者对文本解读的两个因素。
+第四段分析因素之一∶读者个人背景。
+首句承上启下∶上述背景信息必然反映读者的个人特质（即∶读者的背景信息影响其阅读理解，而不
+同读者背景信息又各具特质）。Such background material 回指上文，暗示上段空格处提及"个人背景信
+息"。reflects who we are中的 we与上文反复出现的 Your/you在本文均指"正在理解文本的读者";
+reflects 暗示因果关系∶"我们是谁"影响"我们有什么样的背景信息"，即∶背景信息因人而异。
+随后为空格 44。空格后第一句发生语义转折（however），指出"这"（This 回指空格内容）不会使读者
+解读仅具有相对意义，甚至毫无意义（句子整体观点可概括为∶"这"并不会使读者解读毫无价值）。
+interpretation（意为 the particular way sth is understood"【以 某 种方式】理解，解 释"）与 上 文
+comprehension 基本含义相同，但更强调不同读者对文本理解的独特性、个体性。
+空格后第二句进 而明确指出，读者千差 万 别的背景信息在文本解读中具有重要价值。本句以
+Precisely because（强调直接因果关系）、produce（暗含因果关系）形成逻辑链条∶读者背景信息不同→对
+同一文本作出不同、但交叠的解读（一千个人眼中有一千个哈姆雷特）→就文本内容可展开辩论、在就信
+仰和价值观的社会讨论中起到重要作用。句中 readers from different historical periods，places and social
+experiences 复现上文 background material 以及 who we are，指向本段论述焦点"读者个人背景"。play an
+important role强调"读者因背景信息不同而对同一文本信息作出不同解读"的积极作用。注∶句中
+reading 与首段首句 reading 含义不同，这 里指"结果∶对文本做出的最终解读"（同义 替换上文
+interpretation）。The same words on the page字面意思为"页面上相同的文字"，小可指"单词，句子"，大
+可指"篇章、书作"，和 different but overlapping readings 形成巨大落差，凸显不同读者对相同文字的解读
+差异。
+53
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 54 -----
+ 
+VHow we read a given text also depends to some
+如何阅读某一特定文本在一定程度上也
+extent on our particular interest in reading it.(45)
+取决于读者对阅读该文本的特殊兴趣。（45）
+Such dimensions" of reading
+这些层面的阅读
+suggest — as others introduced later in the book will 表明——以及其他在本书后文介绍的阅读层
+also do — that we bring an implicit(often 面也表明——读者会将某种潜在的（通常未被
+unacknowledged)agendato any act of reading. It 意识到的）动机带入到所有阅读行为中来。因
+doesn't then necessarily follow that one kind of reading 此没有必要认为一种阅读层面比另外一种更
+is fuller,more advanced and more worthwhile than 充分、更高级、更有价值。理想的情况是，不同
+another. Ideally,different kinds of reading inform
+层面的阅读方式相互影响，彼此之间互为有用
+each other,and act as useful reference points for and 的参考点，相互平衡。它们共同构成了读者整
+counterbalancesto one another. Together, they make 体读写能力或读者与 周围话语环境 关 系的阅
+up the reading component" of your overall literacy⑥,or 读部分。
+relationship to your surrounding textual environment.
+词汇注释与难句分析 ·
+①dimension 【dal'menfon】 n.维度
+④counterbalance 【'kaunto;b?elons】n.抗衡，平衡
+②agenda 【o'd3endo 】 n.（未言明的或潜在的）动机
+⑤component 【kom'poun?nt】 n.成分，组成部分
+③inform 【in'fo∶ m】 v.对⋯⋯有影响
+⑥literacy 【'litorosi】n.读写能力，文化水平
+语篇分析
+第五段分析影响文本解读的因素 之二∶读者对文本的特定兴趣。
+首句指出，阅读方式还取决于读者对文本的特定兴趣。also 提示本段与上段为并列关系，引出影响
+阅读的另一个人因素。our particular interest in reading it（particular 意为"特殊的、特定的";interest 此
+处结合"兴趣"与"私利"两重含义）指向不同读者阅读某一文本的目的。
+随后为空格 45。空格后第一句指出"上述不同层面的阅读（Such dimensions of reading 回指空格内
+容）表明我们会将某种潜在动机带入一切阅读行为。本句中 agenda 意为 usually unstated underlying
+motive"（未言明的或潜在的）动机"）暗中照应首句 our particular interest in reading it。any 则囊括一切
+阅读行为∶任何阅读行为都有潜在动机。
+空格后第二句顺而否定各种层面的阅读有必然的优劣之分。then 表明本句与上文为因果顺接逻
+辑∶因为一切阅读都不可避免带有潜在动机，所以没有必要区分优劣。部分否定 It doesn'tnecessarily
+follow that 说明"阅读的层面"（one kind of reading 回指 dimensions of reading）和"阅读的功效"（fuller/
+advanced/worthwhile）之间不存在必然联系。其中 follow意为"是⋯⋯的必然结果，理所当然"。
+空格后第三句转而指出各种层面的阅读之间的理想关系∶互相影响、互为参考、相互平衡。Ideally
+强调"理想情形"、暗示"实际情形"可能会有出入。
+空格后第四句进一步提升，指出不同层面的阅读共同构成读者整体读写能力或与周围话语环境关
+系的阅读部分。Together，they 表明本句将各种层面阅读看作一个整体，也即上文所述"阅读行为/阅读
+过程"。overall literacy 指"整体读写能力"，是其内在文化素养的体现。surrounding textual environment
+指一个人的"背景信息、阅读兴趣、阅读方式等"，是影响文本解读的外部因素。本句整体含义;不同的阅
+读方式共同构成读者的阅读行为，而读者的阅读行为又受读者所处特殊文本环境因素的影响。
+..。................................
+[A] Are we studying that text and trying to respond in
+【A】我们是在认真研读某一文 本并试图通
+a way that fulfils the requirement of a given course? 过某种方式来回应，以达到一 门指定课程的要
+Reading it simply for pleasure? Skimming it for 求?还是仅仅因为愉悦而阅读?抑或是为 了获
+取信息而浏览?乘火车或躺在床上时的阅读方
+information? Ways of reading on a train or in bed are likely
+式很可能与在研讨室中的阅读方式大相径庭。
+to differ considerably from reading in a seminar2room.
+54
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 55 -----
+ 
+词汇注释与难句分析 。
+①skim 【skim】v）浏览，略读
+ ② seminar 【'semiuna∶】 n. 研讨会，研讨课
+【A】 读者阅读目的和阅读环境影响其 阅读的方式。
+【要点解析】①前三句通过并列设问说明阅读目的不同（fulfils the requirement of a given course、for
+pleasure、for information），阅读方式也随之不同（studying"认真研读"、Reading"（一般）阅读"、Skimming
+"略读"）。第四句以直接列举的方式指出阅读环境/阅读目的不同（在火车上为了打发时间而阅读/在床
+上睡前随意阅读 VS在研讨室中为做某种研究而阅读），阅读方式也差异巨大。②选项提及读者在不同
+阅读目的和阅读环境下会存在多种阅读方式，可能是第五段空格后句 Such dimensions of reading"这些
+层面的阅读"的具体所指，另外，选项主旨"阅读目的"也与第五段空格后句"读者的任何阅读行为都有潜
+在动机驱使"（we bring an implicit agenda to any act of reading）内容相关。【可选空格】空 45。
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+[B] Factors such as the place and period in which we
+【B】 诸如 阅读的地点、时期，读者的性
+are reading, our gender, ethnicity, age and social class 别、种族、年龄和社会阶层这些因 素会促使
+will encourage us towards certain interpretations but at 读者倾向 于某 种解 读，但与此同 时会遮掩
+甚或阻绝其他解读。
+the same time obscure or even close off others.
+..................
+·词汇注释与难句分析·
+①obscure 【ob'kjuo】z. 遮掩，遮蔽
+ ①close off 使隔绝，阻绝
+● 经典搭配
+【B】读者的个人特质影响其对文本的解读。
+【要点解析】①主语部分 Factors such as...可概括为"读者个人因素/个人特质"，与第四段空格后第
+二句 readers from different historical periods，places and social experiences近义，且两者均强调读者个人因素
+影响其对文本的解读（encourage us towards...but...obscure...VS produce different but overlapping
+readings..），内容上密切相关。②Factors such as...也可能是第四段首句省略回指词 Such background
+material"这些背景信息"的具体所指，即选项也可能出现在第三段末。【可选空格】空 43 或 44。
+[C] If you are unfamiliar with words or idioms",you
+【C】 如果不熟悉某 些单词或.习语，你
+guess at their meaning, using clues presented in the 可以利用 上下 文 出现的 线索 来猜测词 义。
+context. On the assumption that they will become relevant 假设它 们在 后 文 中相 互联 系，你（在 阅读
+later,you make a mental note of discourse entities as well 时）将语篇 实 体 及其之 间可能的联 系记在
+as possible links between them.
+脑中.
+词汇注释与难句分析·
+①idiom 【'dlom】 n. 成语，习语，惯用语
+$ ①make a mental note 记在脑子里，记在心里
+?②discourse entity 语篇实体
+●经典搭配
+【C】 利用上下文线索猜测词义;记住文本中语篇实体及其可能存在的联系。
+【要点解析】①选项第一句关注"陌生词汇"，指导读者"在不知道词义的情况下如何猜测词义以理
+解文本"，与首段第二句"在知道词义的情况下如何确定词义及其关系以理解文本"互为补充，均从词
+55
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 56 -----
+ 
+汇入手去理解文本呈现的客观信息。②第二句由"词汇"（they回指前句 words or idioms）过渡到"语篇
+实体"，指导读者联系文本中的"语篇实体"来帮助阅读理解，是对文本内容的进一步归整和提炼，也即
+第二句与第一句存在递进关系;③选项提及"语篇实体"（指文本中的人、物、事件、过程、行为等）及其
+联系，与首段末句所述"文本语境"（说话人、听话人、时间、地点等）内容相关。【可选空格】空 41。
+[D] In effect,you try to reconstruct" the likely
+【D】 事 实上，你试图 重现任何给定句
+meanings or effects that any given sentence, image or 子、图像、引用 可 能蕴含的意思或 效果∶这
+reference2might have had: These might be the ones the 些可能是作者意欲表达的。
+author intended.
+...⋯........⋯.⋯.⋯..-⋯.
+。词汇注释与难句分析
+ ②reference 【'reforons】 n.引用，参考
+①reconstruet 【rikon'strAkt】 v.重构，重现
+【D】 读者应通过重构文本来揣摩作者的隐含之意。
+【要点解析】①首词 in effect"事实上"提示本句与前文所述主题相同，是对前文信息的进一步明确。
+②句 reconstruct the likely meaning or effects"重现可能的含义或效果"、the ones the author intended"作
+者欲表达的信息"均与文本隐含内容相关，需要读者进行推理，与第二段主旨词 inference/infer 相关;同
+时 any given sentence，image or reference也可能是空格后句 specific evidence and clues 的举例说明。【可
+选空格】空 42。
+....
+[E]You make further inferences,for instance,about
+【E】 读者继 续 深入推理，比如，文 本对
+how the text may be significant to you, or about its 你有何意 义，或 文本效度 如何—这 些推
+validity⑩— inferences that form the basis of a personal 理构成读者个人反 应的基 础，而 读者个人
+response for which the author will inevitably be far less 反应受到文本作者的影响必然要小得多。
+responsible.
+....-.-.....
+词汇注释与难句分析
+①validity 【vol'ldot】 n.有效性，正确性
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯.⋯⋯..⋯⋯
+【E】读者对文本进行的深入推理构成读者个人反应，而读者个人反应受到文本作者的影响较小。
+【要点解析】①You make further inferences提示上文提到了对文本内容的初步推理，第二段空格前句
+You infer information复现关键词 infer，可能与之形成递进关系;另外比较级 the author...befar less
+responsible提示前文所述读者初步推理受到文本作者的影响相对较大;② how the text may be
+significant to you、personal response表明选项所述的"进一步推理"已经超越给定文本本身，侧重文本对
+读者个人的价值和意义，必然存在个体差异性，也即每个读者对文本的推理不尽相同，与第三段首句"读
+者的阅读轨迹不尽相同"内容上可能相关。【可选空格】空 42。
+[ F] In plays, novels and narrative poems,
+【F】在戏剧、小说和叙事诗中，人物话
+characters speak as constructs" created by the author, 语都是基于作者的构思，不一定 是 作者个
+not necessarily as mouthpieces" for the author's own 人想法的代言人。
+thoughts.
+56
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 57 -----
+Y[φ.=5=
+ 
+ 词汇注释与难句分析
+①character 【'kerkt?】 n.（书电影中的）人物，角色
+证据得出的）构想，观念，概念
+ ③mouthpiece 【'mau0. pis】 n.代言人，喉舌
+②construct 【'konstrAkt 】 n.（根据不总是真实的各种
+【F】 作品中的人物话语虽是基于作者的构思，但不一定代表作者个人想法。
+【要点解析】①本句意在论述文学作品中的人物语言与作者个人想法之间的不对等。②句出现不
+同文学体裁"戏剧、小说、叙事诗"，可能是第五段空格后 Such dimensions of reading"不同层面的阅读"的
+具体所指。【可选空格】空 45。
+[G] Rather, we ascribe meanings to texts on the
+【G】 相反，我 们赋予 文本含义是基 于
+basis of interaction① between what we might call textual 我们称之为" 文本材料"和"语境材料"之间
+的相互 作 用，即"我 们 从 文 本的形 式结构
+and contextual material: between kinds of organization or
+（特别是其语言结构）中洞悉的各种组 织架
+patterning" we perceive in a text's formal structures(so
+构或行文模式"与"我们带入文本的各种背
+especially its language structures)and various kinds of
+景信息、社会知识、信 仰以及态度"之间的
+background,social knowledge,belief and attitude that we
+相互作用。
+bring to the text.
+词汇注释与难句分析
+④formal 【'fo∶mol 】a.形式上的，方式上的
+①interaction 【intor'?kJon 】 n.相互影响，相互作用
+②patterning 【'peton】 n.模式，形式
+● 经典搭配
+③perceive 【p?'siv】 v.察觉，注意到
+①ascribe A to B 认为 B具有 A（的特征）
+【G】"文本信息"和"语境信息"的相互作用是我们理解文本含义的基础。
+【要点解析】①选项指出"读者如何理解文本含义"（ascribe meanings to texts 意为"认为文本具有某
+含义"），引出两个新概念"文本材料"和"语境材料"，并分别解释∶前者指"文本的组织架构或行文模式"
+这类客观因素，后者指"读者代入文本的背景信息、个人认知、信仰态度等"主观因素，也即作者认为∶读
+者赋予文本某种意义（对文本持某种解读）是上述主、客观因素相互作用的结果。②首词 Rather（相反，
+而是）提示本句与上文为转折关系，且上文很可能否定一种说法，本句则给出作者认同的说法，第三段空
+格前句 What is in question is not...可在句式结构上与选项衔接。③选项末提及"读者个人背景、认知、
+信仰等"，可能是第四段首句 Such background material""这些背景信息"的具体所指。【可选空格】空 43。
+综上，各空格可能对应的选项为∶
+空44
+空42
+空45
+空43
+空.41
+CA][F]
+[B3]
+D]][E]
+[c]
+[B]][G]
+三、真题精解x: KZRZ2019
+41.本题考核的知识点是∶语义一致性十上下文逻辑衔接
+【空格推测】首段首句先提出问题"如何进行阅读"，第二句进而指出阅读初级环节"从词汇入手理解
+文本给定的信息"，空格后一句则指出阅读高级环节"推理文本语境"。推测空格很可能介绍前后两个阅
+读环节的中间环节或是两者的过渡。
+【答案敲定】由选项分析可知，【C】为本题备选项。
+【C】第一句先以 Ⅱ 从句假设情形"如果不知道词义该如何理解文本"，与上句"在知道词义的情况下
+如何理解文本"顺承衔接，互为补充，guess at their meaning（their 回指 words or idioms）与上句
+57
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 58 -----
+ 
+identifying meanings forindividual words同义复现;选项第二句引入新概念"语篇实体"，指导读者如何从
+语篇实体前后关联的角度来整体理解文本含义，可看作阅读过程的第二个环节。如此一来，选项与空格
+上下文话题上实现从"词（words）—语篇实体（discourse entities）—语境（context）"的过渡，思维上也从
+"确定词义以理解文本客观内容→记住语篇实体的联系以整体把握文本要义→推理语境以深入理解文
+本"依次推进，是为阅读理解的完整过程。故【C】与上下文衔接顺滑、逻辑通顺，为本题答案。
+42.本题考核的知识点是∶同义复现十上下文逻辑衔接
+【空格推测】第二段第二句提出段落主旨"阅读理解还包括主动推理和解决问题"，之后以一个分句
+具体论述"如何主动推理"，空格为另一个分句，也应对段落主旨作进一步阐释，应重点关注与 inference
+和 problem-solving有关的备选项。
+【答案敲定】由选项分析可知，【D】【E】为本题备选项。
+【D】中主旨词"重现可能的含义或效果"、"作者意欲表达的信息"虽与读者推理相关，且 In effect 体
+现的上下句间进一步明确的关系也说得通（推理文本中的证据线索隐含的信息，以揣摩作者意图→实际
+上（更确切地说），重现给定句子、图像或引用所隐含的意义或效果，这些可能是作者想要表达的），但选
+项与上句所述推理过程均拘泥于文本框架，很大程度上受制于作者，读者自主思考引申的空间不大，也
+即读者对文本的理解基本相同，与空格下文第三段"如此看来，读者的阅读轨迹不尽相同"前后矛盾，故
+排除。
+【E】 指出"读者应继续深入推理、超越文本本身"，是对段落主旨的进一步阐释，空格前句 You
+infer...和选项的 You make further inference...体现两者递进，完整说明"阅读过程中应如何进行推
+理";同时空格前句的初步推理强调"根据作者留下的证据和线索来推理文本中言而未明的信息"，显然
+受制于文本构思，受到作者影响较大，而选项侧重说明"读者基于个人实际情况而进行推理"，受作者影
+响相对较小，选项中 the author...be far lessresponsible所体现的前后比较关系成立。另外，【E】所述
+"读者对文本具有个人独特反应"也与空格下段"如此看来，读者阅读轨迹不尽相同"暗存因果，衔接合
+理，故【E】正确。
+43。本题考核的知识点是∶上下文逻辑衔接十词汇复现
+【空格推测】空格前句以否定排比句式（What is in qustion is not...or...or...）否定人们对阅读理解
+的一系列误解，推测空格很可能转折给出作者认为的阅读理解的真正内涵。
+【答案敲定】由选项分析可知，【B】【G】为本题备选项。
+【B】中Factors such as...列举读者个人背景信息，与第四段首句 Such background material 可能互为指
+代，但选项与空格前句 What is in question is not..存在逻辑断层，同时选项中"个人背景信息促使读者倾
+向某种解读"与空格前句"阅读理解不是读取、核验文本中显而易见的客观信息"关联不大，故排除。
+【G】以 Rather 转折指出阅读理解的正确内涵"基于'文本所呈现的客观信息'和'语境所体现的读者
+主观信息'的相互作用来理解文本含义""，与上句人们对阅读理解的误解"仅从文本客观信息角度来理解
+文本"形成合理转折逻辑，两句一反一正，共同阐释第三段首句主旨"每位读者的阅读轨迹不尽相同";另
+外【G】中提及读者的个人因素（various kinds of background，social knowledge，belief andattitude）也与第
+四段首句的 Such background material形成照应，故敲定【G】为答案。
+44。本题考核的知识点是∶代词指代十上下 文逻辑衔接
+【空格推测】第四段空格后两句转折（however）指出"读者千差万别的背景信息对文本理解具有积极
+作用"，故推测空格内容很可能暗示"读者背景信息对文本解读存在负面影响"。
+【答案敲定】由选项分析可知，【B】为本题备选项。
+【B】指出"读者的性别、种族、社会阶层等这些个人特质会影响其对文本的解读、使其带上明显个人
+主观色彩"，暗示读者个人特质可能不利于文本解读，能与空格下两句形成转折关系;同时 Factors such
+as...也呼应首句 Such background material、who we are，实现与上文的衔接，故敲定【B】为答案。
+58
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 59 -----
+ 
+45.本题考核的知识点是∶代词指代十上下文衔接
+【空格推测】空格上文提出观点"读者对文本的兴趣影响阅读方式"，结合空格后一句省略回指词
+Such dimensions of reading 可推测空格处提及不同层面的阅读，且它们与读者对文本的兴趣有关。
+【答案敲定】由选项分析可知，【A】【F】为本题备选项。
+【A】通过并列设问及直接举例的方式指出"读者的阅读目的不同（即，读者对文本兴趣不同），阅读方
+式和阅读深度也不同"，既例证说明了首句内容，也契合下文 Such dimensions of reading 的具体所指，与
+上下文衔接顺畅，故敲定为答案。
+【F】列举了几种文学体裁（戏剧、小说、叙事诗）可能会误导读者认为是下文中 Such dimensions of
+reading 所指代的内容，但选项内容"文学作品中的人物话语与作者个人想法并非等同"与段落首句"读
+者对文本的特殊兴趣影响阅读方式"并不相关，故排除。
+Part C 殖民地时期的美国
+知识补充
+原文外教朗读
+一、文章总体分析
+本文来源于历史学专著 An Outline of American History（《美国历史纲要》），讲述了17—18 世纪初
+期欧洲移民浪潮中，欧洲各民族人们历经航海艰辛来到美洲，创建了美国，影响了其特点和命运。
+ 二、语篇分析及试题精解
+I Within the span of a hundred years, in the
+在十七到十八世纪初期的一百年间，一
+seventeenth and early eighteenth centuries, a tide of 股移民浪潮——一次 史上重 大的民间 迁
+emigration—one of the great folk wanderings of
+徙———迅速从欧洲横扫 至 美 洲。（46）在各
+history—swept from Europe to America.(46) This
+种强大动机的推动下，这场迁移从荒野中造
+movement, driven by powerful and diverse
+就了一个民族，并循其本质塑造了一片全新
+motivations,built a nation out of a wildernessand,by
+大陆的特点，决定了它的命运。
+its nature,shaped the character and destiny of an
+uncharted continent.
+...........
+ 词汇注释与亮点表达，
+①span 【sp?n】 n.跨度;一段时间
+④motivation 【mout'ver【on】 n.动机;动力;诱因
+②wandering 【'wondorin】 n.流浪;漫游
+⑤wilderness 【'wrld?nns】n.荒野;（草木丛生的）荒地
+③diverse【dar'vss】 a.多种多样的;形形色色的
+⑥uncharted 【An'tjatrd】 a.未知的，图上未标明的
+1．within the span of 意为"在⋯⋯（—段时间）内"。Within the span of a few weeks，the new
+president pushed through great legislative changes.几周之内，新总统就促成多项重大立法改革。
+·语篇分析
+第一段讲述 17—18 世纪初期欧洲移民受各种动机驱使来到美洲，于荒野中造就了一个民族。
+第—句指出 17—18 世纪初期掀起的移民浪潮。插入语 one of the great folk wanderings of history
+突出这次移民浪潮的壮观浩大。sweep 一词表示移民迁徙之势很迅速。第二句以 built a nation...
+and...shaped...引出这次移民运动的结果和深远影响。This movement 回指 emigration，意指"这场迁
+移";driven by powerful and diverse motivations 表明此次移民运动的驱使动机有多种且强大。
+59
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 60 -----
+ 
+真题精解
+（46）This movement，driven by powerful and diverse motivations，（0.5 分）//built a nation out
+of a wilderness(0.5)// and,by its nature,shaped the character and destiny of an uncharted
+contint.（1分）
+本题考核的知识点是∶过去分词结构作状语、固定搭配。
+【解题步骤】
+1，句法分析
+This movement,driven by powerful and diverse motivations, built a nation out of a wilderness
+状语
+主语
+谓语1 宾语1
+过去分词结构做状语
+and, by its nature,shaped the character and destiny of an uncharted continent.
+宾语2
+状语谓语2
+并列连词
+2.句子注释
+过去分词结构 driven by powerful and diverse motivations 做状语，将主语与谓语分开，修饰整个句
+子;翻译时需将其提至句首位置，译为"在⋯⋯的推动下"，以符合汉语中将原因铺垫在前的习惯。
+3.词义确定
+（1）build与 road 等有形物体搭配时意为"修建";但此处跟 nation 一词连用，意为"造就"。
+（2）shape常见动词义为"使成为⋯⋯形状（或样子）"，当它跟抽象类名词如"想法，信仰等"连用，表示"形
+成（某种想法、信仰）;决定（某事物的发展方向）"，在此句中应按照搭配习惯译为"塑造特征，决定命运"。
+（3）byits nature 意为"就其本质而言"，即"按照这场迁移的本质（塑造⋯⋯）"，可译为"循其本质"。
+4。全句调整，得出译文
+在各种强大动机的推动下，这场迁移从荒野中造就了一个民族，并循其本质塑造了一片全新大陆的
+特点，决定了它的命运。
+........................⋯.⋯.
+(47)The United States is the product of two
+（47）合众国是两股主要 力量作用的产
+principal forces—the immigration of European peoples 物 ，一是具有不同思想、风俗和民族特点的
+with their varied ideas, customs, and national 欧洲各民 族 的迁入，二是一个新国家因改
+characteristics and the impact of a new country which 变了这些特性而 产生的影响。不可 避免
+modified these traits5. Of necessity",colonial America 地，殖民地时期的 美 洲 是 欧洲 的投 影。成
+was a projection" of Europe. Across the Atlantic came 群的英格兰人、法国人、德国人、苏格兰人、
+successivegroups of Englishmen,Frenchmen,Germans,
+爱尔 兰人、，荷兰人、瑞典人、和许多其他民
+Scots,Irishmen,Dutchmen,Swedes,and many others
+族的人络绎 不绝地横穿过大西洋，企图把
+who attempted to transplant"their habits and traditions to
+他们的习惯和传统照搬到新世界里。（48）
+the new world.(48)But the force of geographic
+但是美洲特有地理条 件的作用，不 同族群
+conditions peculiar2to America,the interplay of the
+间的相互影响，加上在一片 荒蛮新大 陆上
+varied national groups upon one another,and the sheer》
+维持旧大陆方式的巨大困难，所有这 一切
+difficulty of maintaining old-world ways in a raw, new
+引起了意义深远的变化。这 些变化是渐进
+continent caused significant changes.These changes were
+的，最初几乎不明 显。但结果 却形成了一
+gradual and at first scarcely visible. But the result was a
+种新的社会模式，尽管它在很多方面与欧
+new social pattern which,although it resembled European
+洲社会相似，但却具有明显的美国特色。
+society in many ways,had a character that was distinctly
+American.,
+60
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 61 -----
+ 
+∶- 汇注释与亮点表达
+⑥sucessive 【sok'sesv】 a.相继的，继承的，接替的
+①principal 【'prinsopol】 a.最重要的;主要的;首要的
+⑦transplant 【trens' pla∶nt】 v.移植;移种;移民，迁移
+②modify 【'modrfar】 v.改变，更改，改造;减轻，缓和
+③trait 【tret】n. 特点，特性，特征
+⑧peculiar 【pr'kju∶lo】 a.奇怪的，古怪的;异常的;特
+有的，特殊的
+④of necessty 必然，不可避免地
+⑨sheer 【【io】 a.完全的，全然的;绝对的
+⑤projection 【pro'd3ekJon】 n。心理投射;设计，规划
+1．of necessity意为"无法避免地"。Thisis，of necessity，a brief and incomplete account.这必然是一
+个简略的、不完整的描述。
+2.peculiar to 意为"（个人或团体）特有的，独具的"。a humour that is peculiar to American sitcoms
+美国情景喜剧特有的幽默。
+谱篇分析 
+第二段说明美洲在欧洲移民迁入及自身作用下所发生的变化。
+首句总起全段，指出合众国是两种主要力量作用下的产物。其中 European peoples 指的是欧洲各民
+族;modify 体现了众合国就如"文化大熔炉"，对欧美移民各类文化风俗兼收并蓄且对其进行修正。
+第二、三句解释首句中的其一方面。第二句中 Of necessity 突出移民影响力之无可避免性。第三句
+具体解释这种影响力是如何生成的∶欧洲移民将其习俗、传统照搬到美洲得以传播发展。successive
+groups of Englishmen...and many others列举多种种族的移民，旨在凸显移民群体背后的文化习俗种类
+繁多，呼应首句 varied一词;successive一词凸显移民活动如火如茶之盛况。attempt 意为"努力，尝试，
+企图（尤指困难的事情）"，表明欧洲各族移民对美洲竭力进行有意识的文化输出。
+后三句解释首句中的其二方面。第四句指出美洲发生了意义深远的变化，the force、the interplay、
+the sheer difficulty 引出造成这种变化的三种原因，old-world ways 指相对于美洲而言，欧洲的旧方式。
+第五句描述这些变化的特点∶渐进的（gradual），起初几乎不明显（scarcely visible）。第六句指出这种变化
+的结果就是一种新的社会模式。句首 But 引发转折，扭转第五句 gradual和 at first scarcely visible营造
+的舒缓节奏。以插入语 although 引导的让步状语从句突出主句重点∶这种新模式独具美国特色。
+真题精解
+（47）The United States is the product of two principal forces—（0.5分）/ the immigration of
+European peoples with their varied ideas，customs，and national characteristics（0.5分）//and the
+impact of a new country（0.5 分）//which modified these traits.（0.5 分）
+本题考核的知识点是∶同位语、介 词结构、后置定语、定语从句。
+【解题步骤】
+1.句法分析
+1
+The United States
+the product of two principal forces- the immigration
+主语
+系动词
+同位语1
+表语
+of European peoples with their varied ideas, customs,and national characteristics and the impact
+连词同位语2
+介词结构做后置 定语
+of a new country which modified these traits.
+后置定语
+定语从句做后置定语
+2.句子注释
+本句难点在于确定破折号后两个同位语之间的界限∶可通过两个of结构初步确定;仔细阅读后发现
+with...characteristics其实是对 European people的修饰。由于同位语较长且均为 of 结构，故可译为
+"的"字结构，即"⋯⋯的迁入/影响"，并增译"一是⋯⋯，二是⋯⋯"以明确两者并列。此外，the product of
+61
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 62 -----
+ 
+two principal forces可增译"作用"，即"两股主要力量作用下的产物"，以体现"力量发挥作用"的意味。
+the impact of a new country 可增译"产生"，即"新国家产生的影响"，以体现了"改变"的结果。
+3.词义确定
+（1）product 常见意义为"产品"，此处是指某种情境下的一种 product，可译为"产物，结果"。
+（2）people 做可数名词时意为"民族"，不可译为"人们"。
+4.全句调整，得出译文
+合众国是两股主要力量作用的产物——一是具有不同思想、风俗和民族特点的欧洲各民族的迁入，
+二是一个新国家因改变了这些特性而产生的影响。
+（48）But the force of geographic conditions peculiar to America，（0.5分）// the interplay of the
+varied national groups upon one another，（0.5分）//and the sheer difficulty of maintaining old-world
+ways in a raw，new continen（0.5 分）//caused significant changes.（0.5 分）
+本题考核的知识点是∶并列主语，后置定语。
+【解题步骤】
+1.句法分析
+But the force of geographic conditions peculiar to America, the interplay of the varied
+主语
+转折词 主语1
+后置定语
+后置定语
+national groups upon one another,
+the sheer difficulty of maintaining old-world ways
+and
+后置定语
+主语3
+并列连词
+后置定语
+in a raw, new continent caused significant changes.
+宾语
+谓语
+地点状语
+2.句子注释
+翻译本句时需注意将主语结构中的定语提前，译为"⋯⋯的作用/相互影响/的巨大困难"。同时，由
+于多个较长主语形成并列，所以可在谓语之前增译"所有这一切"，这样既概括了主语，又符合中文习惯。
+此外，主语 3 中的地点状语应提至该结构最前，这符合中文"先说时间地点后说事件"的习惯。
+3.词义确定
+（1）force 常见含义为"武力，暴力"、"力，力量"、"作用，影响"、"（法律的）效力"等等，这里根据定语
+"地理条件"应采取"作用，影响"的义项。
+（2）peculiar 意为"怪异的"或"特有的"，但 peculiar to 结构只有"（对某人/物）特有的"含义。
+（3）raw 与 new共同修饰 continent，由首段 wilderness（荒野）可确定它是形容新大陆的"蛮荒，原始"。
+4.全句调整，得出译文
+但是美洲特有地理条件的作用，不同族群间的相互影响，加上在一片荒蛮新大陆上维持旧大陆方式
+的巨大困难，所有这一切引起了意义深远的变化。
+Ⅲ(49)The first shiploadsof immigrants bound for
+（49）在十五、十六世纪的北 美大陆探险
+the territory which is now the United States crossed the 过去一百多年后，首批满载移民驶向今天合
+Atlantic more than a hundred years after the 15th-and- 众国这片疆土的船 只横穿 过了大西洋。与
+16th-century explorations of North America. In the 此同时，繁荣的西班牙的殖民地在墨西哥，
+meantime, thriving Spanish colonies had been established in 西印度群岛和南美洲已经建立起来。这些
+Mexico, the West Indies, and South America. These 奔赴北美 洲 的旅客乘坐的 船狭 小 又极其拥
+travelers to North America came in small, unmercifully 挤。在他们六 至十二周的航海中，他们靠微
+overcrowded craft. During their six- to twelve-week voyage,
+薄的食物 配给 生存。许多船沉没在暴风雨
+they survived on barely enough food allotted° to them. Many 中，许多乘客命丧于疾病，婴儿几乎无法在
+of the ships were lost in storms,many passengers died of
+62
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 63 -----
+ 
+disease,and infants rarely survived the journey. Sometimes 此次旅程中幸存下来。有时候风暴刮得 船
+storms blew the vessels far off their course, and often calm 远远偏离航线，而经常性的平静无风又带来
+brought unbearably long delay.
+难以忍受的长久性耽搁。
+词汇注释与亮点表达
+拨出，指定给
+①shipload 【'Jiplod】 n.船舶装货量;货物
+④unbearably 【nAn'beorobli】 ad.不能忍受地，无法容
+②thriving 【'0rarving】a. 兴旺的，旺盛的，繁荣的
+忍地
+③allot 【?'lpt】 v.（按份额）分配，分给;为特定用途而
+1.survive on意为"靠⋯⋯幸存下来"。I can't survive on $40 a week.一星期 40 美元，我无法维持生活。
+ 语篇分析
+第三段具体描述欧洲移民漂洋过海到 美洲的艰难航海历程。
+第一、二句说明移民背景。第一句指出首批欧洲移民来北美大陆的时间。the teritory指合众国疆
+土;the 15th-and-16th-century explorations of North America 指 15 至 16世纪哥伦布探索发现新大
+陆———北美洲。第二句指出同时期，西班牙的殖民地已如火如荼地在各地建立起来，凸显该时期南、北
+美洲殖民地的差异，暗示北美移民的艰辛。thriving 突出西班牙的殖民地的繁荣发展势头。
+第三句至第六句具体描述移民历程。第三句中 unmercifully crowded 突出其乘船漂渡的环境之糟
+糕。第四句指出移民者航海时间久，且缺少食物。survived on barely enough food 凸显其穷困潦倒的处
+境。第五六句描述了大海的变幻莫测及疾病突袭给移民者带来巨大挑战。第五句中 lost in storms、
+died of disease、rarely survived突出了漂洋过海要突破重重艰难险阻。第六句以 sometimes...and
+often...引出海的两种不利状况∶偶发性的暴风雨及经常性的平静无风。其中 unbearably修饰 long de-
+lay 凸显船只搁浅的日子让人束手无策难以忍受。
+ 真题精解
+（49）The first shiploads of immigrants bound for the teritory（0.5分）// which is now the United
+States（0.5 分）// crossed the Atlantic more than a hundred years after the 15th-and-16th-century
+explorations of North America.（1 分）
+本题考核的知识点是∶后置定语，定语从句，时间状语。
+【解题步骤】
+1.句法分析
+The first shiploads of immigrantsbound for the territory which is now the United States crossed
+谓语
+定语从句
+主语
+后置定语
+the Atlantic more than a hundred years after the 15th-and16th-century explorations of North America.
+时间状语
+宾语
+2.句子注释
+翻译本句时，需将时间状语提至句首。该状语较长，以 after 为界限，可分割成两部分理解∶the...
+explorations of...指对北美大陆的探险，more than..．after指距探险一百多年之后;因此整体可处理为"在
+探险过去一百多年后"，然后再补齐修饰语。
+3.词义确定
+（1）shipload意为"船舶运载量"，后面跟 immigrants一词，指船上满载移民，可译为"满载移民的船只"。
+63
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 64 -----
+ 
+（2）bound for somewhere 意为"驶向某地"。本句中的 somewhere=which is now the United States，直译
+是"今天是合众国（的这块地方）"，可进一步处理成更为紧凑的"今天合众国这片疆土"。
+4.全句调整，得出译文
+在十五、十六世纪的北美大陆探险过去一百多年后，首批满载移民驶向今天合众国这片疆土的船只横
+穿过了大西洋。
+IⅣ To the anxious travelers the sight of the American
+对于这些焦虑的旅客来说，看见美国海
+shore brought almost inexpressble0 relief. Said one 岸的那一刻带来的如释重 负之感几乎难以
+recorder of events,"The air at twelve leagues'distance 形容。某个事件记录员说道，"远在十二里
+smelt as sweet as a new-blown garden."The colonists' 格外的 空气闻起来跟新 盛开的花园一样芬
+first glimpse of the new land was a sight of dense woods. 芳。"这些殖民者第一眼警见的是这片新大
+(50) The virgin forest with its richness and variety of trees 陆上的茂 密 森林。（50） 郁郁葱葱、树种繁 多
+was a real treasure-house which extended from Maine all the 的原始森林是 一座 从缅 因一直向 南 绵 延 到
+way down to Georgia.Here was abundant" fuel and 佐治亚的天 然宝库。这 里 有丰富的 燃料和
+lumber.Here was the raw material of houses and furniture, 木材。这里有建造房子，家具和船 只以及生
+ships and potash",dyes and naval stores.[399 words]
+产钾碱，染料和松脂制品的原材料。
+.................
+.........................
+，词汇注释与亮点表达
+⑤abundant 【o'bAndont】 a.大量的，充足的
+①inexpressible 【ink'spresibol】 a.（感情）难以表达的，
+⑥lumber 【'lAmbo】n.木材
+无法形容的;不可胜言的
+⑦potash 【'pot?J】 n.碳酸钾，苛性钾;钾碱
+②relief 【r'li∶f】 n.缓解;宽慰
+⑧dye 【dar】n. 染料
+③league 【lig】 n.里格（长度单位，约等于 3 英里）
+⑨naval stores n.松脂制品（用于堵塞木船的缝隙）
+④dense 【dens】 a.密集的，稠密的;浓密的
+1.new-blown 意为"新开放的"。The garden is filled with new-blown flowers.花园里尽是刚开放的花
+朵。补充词组∶full-blown"盛开的"。a ful-blown rose 盛开的玫瑰。full-blown可引申为"具一切应有特
+征的;完善的"。a full-blown investigation 全面细致的调查。
+语篇分析
+第四段描述移民者初见原始美洲的喜悦之情，以及美洲森林及资源概况。
+第一、二句描述了移民者抵达目的地时的喜悦。本段首句继上文描述移民们航海的重重险阻之后，
+以 anxious travelers VSinexpressible relief凸显"久陷绝境下的焦虑不安之情"与"绝处逢生时的如释重
+负之感"的鲜明对比。第二句借事件记录员之话重现当年移民的心情，例证首句。
+第三句至第六句描述美洲资源概况。第三四句中以 a vista of dense woods、richness and variety of
+trees 凸显森林资源的丰富。第五六句展现新大陆资源充足，种类多。raw material of...之后列举出各
+种资源，尽显这片新土地在原始材料和资源方面应有尽有。
+（50）The virgin forest with its richness and variety of trees（0.5分）// was a real treasure-house
+（0.5分）// which extended from Maine（0.5 分）/all the way down to Georgia.（0.5分）
+64
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 65 -----
+ 
+本题考核的知识点是∶with 介词结构做后置定语，定语从句。
+【解题步骤】
+1.句法分析
+with its richness and variety of trees
+The virgin forest
+was
+a real treasure-house
+表语
+系动词
+主语
+后置定语
+which extended from Maine all the way down to Georgia.
+定语从句
+2.句子注释
+with结构后置修饰主语 The virgin forest，翻译时 应提前。which 引导的定 语从句修 饰表语
+treasure-house，由于长度较长，本可按原文语序译出，但仔细一读从句内容，发现它是对 The virgin forest
+生长状态的描述，因此考虑将其提前，即"⋯⋯的原始森林是一座从缅因⋯⋯的宝库"。
+3.词义确定
+（1）virgin 做形容词时有"未开发的，原始状态的"和"贞洁的，童贞的"含义，这里修饰"森林"，应取前
+一个义项，译为"原始森林"。
+（2）richness 和 variety 之间有所区别∶前者（"富足"）描述森林表现其"茂密";后者则侧重于树木"品
+种多样"。可译为"郁郁葱葱、树种繁多"的并列四字结构。
+（3）real有"真正的，天然的（品质正宗）"、"真实的，实在的（而非虚幻）"、"十足的，完全的（表示强
+调）"等多个义项，这里修饰"宝库"，应取第一个义项;又因为这里指"原始森林"，故可译为"天然"，凸显
+森林"自然形成而非人工种植"的特点。
+（4）extend可表示"时间/空间上的延伸"、"肢体的舒展"或"服务、优惠等的适用对象"，此处描述森
+林的覆盖状态，应译为"绵延"。
+4.全句调整，得出译文
+郁郁葱葱、树种繁多的原始森林是一座从缅因一直向南绵延到佐治亚的天然宝库。
+第三部分 写作
+.9..·.·....。..·。..
+知识补充
+Part A 推荐信
+一、审题谋篇
+1.解析题目指令，确定行文 要点
+抓取指令关键词
+归纳要点
+梳理信息
+You are going to host a club
+1.格式∶书信（推荐信）。
+1.写作话题∶读书会活动
+readig ssion'.
+2.语域∶①给读书会成员的电子
+2.写作类型∶电子邮件
+3.交际目的∶推荐一本书并
+Write an email of about 100
+邮件属于公务信函，应使用正式
+│说明理由
+words recommending a book
+语体;②因是同龄人之间的交流，
+4.写作对象∶读书会成员
+因此语言不必过于拘谨。
+to the club members'.
+3.内容要点∶①推荐一本书;②说
+5.写信人身份∶读书会组
+You should state reasons for
+织者
+明推荐这本书的理由。
+your recommendation3.
+65
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 66 -----
+ 
+2.罗列关键词
+①reading session 读书会;②recommend推荐;③talented有才能的;④female writer女作家
+3.行文思路
+第一段∶说明写作目的，并引出所要介绍的作品;
+第二段∶介绍此书的内容及特点;
+第三段∶表达期许，希望大家喜欢这本书。
+二、优秀范文赏析
+参考译文
+优秀范文
+亲爱的朋友们∶
+Dear Friends,
+①作为即将到来的读书会主持人，
+①As the host of the upcoming reading session,I am
+我向大家推荐一本平实但令人感动的
+writing to you to recommend a plain but moving book,We
+作品《我们仨》——作者是杨绛先生，当
+Three,written by Yang Jiang,one of the most talented
+代最有才气的女作家之一。
+contemporary female writers.
+①杨绛用其智慧和坚忍，向我们讲
+①With her great wisdom and perseverance,Yang Jiang
+述了她和已故女儿、丈夫 60 多年相守
+tells us the love and support between her late daughter,
+相助、相聚相失的经历。②借助"梦境"
+husband and her in more than 60 years, and their
+和"写实"，这本书向我们展现了生活的
+experiences of being happily together and heartbreakingly
+喜与悲。③另外，透过这个普通又不平
+apart. ②By depicting dreams as well as realities,this book
+凡的家庭，我们能看到当时的学者珍视
+shows us the sorrows and joys in life. ③ In addition,
+家庭、勤奋治学的人格魅力，体会到"快
+through this common but extraordinary family,we can see
+乐总是与烦恼相伴"的生活真谛。
+the personality of Chinese intellectuals at that time 
+cherishing their families and being diligent in their studies,
+and can deeply realize the true meaning of life that happines
+always comes along with troubles.
+①希望大家会和我一样爱上这本
+①I hope you will enjoy the book like me and share your
+书，并在读书会上分享你的感想。
+impressions of it during the session.
+诚挚的，
+Yours sincerely,
+李明
+Li Ming
+【篇章衔接】
+第一段（1 句）∶说明事由——介绍一本书，并指出书名及其作者。
+第二段（3 句）∶①②句介绍本书的主要内容，其中②句突出强调本书的写作方式。③句继而介绍本
+书的特点，也即作者对本书的评价（以 In addition 与前文衔接）。
+第三段 （1 句）;表达期许，期待大家喜欢这本书，并在读书会上分享感想。
+【必备表达】
+1.host 【n.】主持人
+6.heartbreakingly 【ad.】使人心碎地
+7. extraordinary 【a.】非凡的
+2. plain 【a.】 简单的，平实的
+8. intellectual 【n.】知识分子
+3. contemporary 【a.】当代的
+9. diligent 【a.】勤奋的
+4. perseverance【n.】坚持不懈
+5.late 【a.】已故的
+66
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 67 -----
+ 
+【活用外刊】
+What it doesn'tshow: the cultural phenomenon it has created — and the opportunities that have
+---Forbes
+come along with it.
+译文∶它没有展现出来的是∶它引起的文化现象，以及随之而来的机会。
+点拨∶come along with意为"随同，和⋯⋯一起"，常用于表示"A事物和 B事物一同出现"，或"A 事
+物随 B事物而来"。与之类似的还有 come together with 等表达。
+【精彩句式】
+through this common but extraordinary family,
+In addition,
+we can see
+主语 谓语1
+衔接词
+方式状语
+the personality of Chinese intelectuals at that time ——cherishing their families and being diligent
+同位语
+宾语1
+in their studies,
+can deeply realize the true meaning of life that happiness always
+and
+谓语2
+宾语2
+并列连词
+comes along with troubles.
+meaning的同位语从句
+句子成形步骤∶
+①写出简单句
+Through this family,we can see the personality of Chinese intellectuals.
+They cherish their families and work hard in their studies.
+We can also realize the meaning of life.
+Happiness always comes along with troubles.
+②利用破折号、连词等将简单句整合
+Through this family,we can see the personality of Chinese intellectuals— cherishing their families
+and working hard in their studies,and can also realize the meaning of life that happiness always comes
+along with troubles.
+③通过添加形容词、介词短语、副词，替换动词等增加表达精确性、内容饱满度及美感 
+Through this common but extraordinary family,we can see the personality of Chinese intellectuals at
+that time— cherishing their families and being diligent in their studies,and can deeply realize the true
+meaning of life that happiness always comes along with troubles.
+④增加衔接成分，连贯上下文
+In addition,through this common but extraordinary family,we can...
+【模板提炼】
+本模板由【优秀范文】提炼而来，适用于撰写推荐某本书的推荐信。
+Dear ___·
+As_____,I am writing to you to recommend ___.
+With_,___tells us___.By depicting___,_shows us___.In additin
+through ____, we can see____.
+I hope you will enjoy____ like me and share your impressions of it___.
+Yours sincerely,
+Li Ming
+67
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 68 -----
+ 
+三、写作储备
+【推荐信常用表达】
+（1）开头语
+晶I'd like to recommend sth to you.我想向你推荐⋯⋯
+晶I want to introduce you sth which will probably attract your interest.
+我向你介绍⋯⋯，它可能会引起你的兴趣。
+（2）发展部分
+●Its ...is very special. 它的⋯⋯很特别。
+It is recommendable for ...它因⋯⋯而值得推荐。
+The recommendation is given for...由于⋯⋯而做出这样的推荐。
+●Its appeal lies in..它的吸引力在于⋯⋯
+（3）结束语
+●If you...，you will immediately love it.如果你⋯⋯，你会马上喜欢上它。
+晶You shouldn't miss such a wonderful...你不应该错过如此好的⋯⋯
+四、写作练习
+请参考模板和话题词汇，按照下列要求，进行写作。
+Directions:
+You are going to holda university music festival.Write an email of about 100 words recommending a
+song to the participants.
+You should state reasons for your recommendation.
+You should write neatly on the ANSWER SHEET.
+Do not sign your own name at the end of the letter,use"Li Ming"instead
+Do not write the address. (10 points)
+Part B 手机时代的聚会
+一、审题谋篇
+1. 解析图画信息，推导图画寓意
+信息解析
+推导寓意
+细节信息
+原本应该亲切交 谈的朋友 聚会，却因
+桌子上菜饭放得整整齐齐，图片反映的是聚餐前的场景
+还没有人动筷
+大家习惯玩手机，而变得死气沉沉。
+手机让大家面对面交流的质量受到非
+四个人年 龄 相 仿，挨 在 一四个人是朋友关系
+常大的负面影响。手机的出现对人际
+起坐
+交往的负 面作用逐渐呈现，如何抵制
+习惯玩手机使人们 即使 在 一
+他们津津有味看着手机，却
+这样 的 影 响 是现 代 人 需 要关注 的
+没有跟周围的人说话
+问题。
+起也很难进行面对面交流
+2. 罗列关键词
+①dish 【n.】菜;②seat【v.】坐;③play with phones 玩手机;④smart phone智能手机;
+⑤face-to-face communication 面对面交流
+68
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 69 -----
+ 
+3. 行文思路
+第一段∶描述图片;
+第二段∶分析图片反映的问题;
+第三段∶总结前文，并提出建议。
+二、优秀范文赏析
+参考译文
+优秀范文
+①四个朋友聚在一起吃饭。②奇
+①Four friends get together to have a dinner. ②What's
+怪的是这四人似乎互相不认识，没有跟
+weird is that the four appear to be stranger to each other,not
+坐在旁边的朋友说话，而是完全沉浸在
+talking with friends seated beside but totally indulging in
+自己智能手机上。
+smart phones.
+①这幅图展现了一个对现代人来说
+①The picture reveals a typical scene for modern people.
+典型的一幕。②只要人们有机会放松一
+②Whenever people have a chance to relax,they will fish out
+下，他们就会掏出手机玩一会儿。③曾
+phones to play for a while.③ The warm face-to-face
+经认为理所当然的温暖的面对面交流被
+communication which was taken for granted has been
+智能手机粗暴地破坏了，变成了一种奢
+violently ruined by smart phones and become a luxury.④It
+侈。④对大多数人来说专注于面对面交
+is challenging or even impossible for many people to
+流是个挑战，甚至是不可能的任务。⑤
+concentrate on face-to-face communication.⑤As the quality
+随着人们之间情感交流质量恼人地大幅
+of emotional interaction between people suffer an annoying
+dramatic deterioration,more and more people arrive at an 下降，越来越多的人同意人们应该在与
+朋友和亲戚在一起的时候关闭手机。⑥
+agreement that people should shut down mobile phones when
+不幸的是，这只是个流传于智能手机中
+being with friends or relatives.⑥Unfortunately,it is only a
+的一个交流工具——微信上的理论性的
+theoretical opinion around the WeChat,a communication tool
+想法。⑦很少有人将之实施。
+on the smart phone. ⑦Few people apply it into life.
+①智能手机真的是最有争议的现
+① The smart phone is really the most controversial
+代发明，一方面带来让人愉悦的休闲和
+modern invention,bringing enjoyable relaxation and great
+方便，另一方面造成迷恋手机的问题以
+convenience on one hand and causing problematic phone
+及随之而来 的人际关系的疏离。②我
+addiction and consequent interpersonal isolation on the other
+们应该理性对待手机。③不应该将与
+hand. ② Rational attitude should be paid to the mobile
+朋友和亲人在一起的有限和宝贵的时
+phone. ③We should not squander the limited and precious
+间花在无生命的机器上。④应该关注
+time with friends and relatives on a lifeless machine. ④Due
+现实生活中的交流。
+importance should be attached to the contact in real life.
+【篇章衔接】
+第一段 （2 句）∶①句总述图片的情景;②句描写图片中的细节。
+第二段（7 句）∶①句由图片描写引入现象分析;②至④句通过今昔对比指出现象的问题;⑤至⑦句指
+出人们对现象的反应和仍然存在的问题。
+第三段（4句）∶①句对上文进行总结;②至④句针对问题提出建议，其中②句总述，③④句具体说明。
+【必备表达】
+6.deterioration 【n.】下降，恶化
+1. weird 【a.】奇怪的
+7.controversial 【a.】有争议的
+2.indulge in 沉迷、沉浸
+8.problematic 【a.】问题的
+3.fish out 掏出
+9.consequent 【a.】随之而来的
+4.challenging 【a.】充满挑战的
+10.interpersonal isolation 人际疏离
+5.emotional interaction 情感交流
+69
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 70 -----
+ 
+【活用外刊】
+1.There has been a lengthy negotiation to arrive at a free trade agreement——WHITEHOUSE
+译文∶达成自由贸易协定之前经历了漫长的谈判。
+点拨∶arrive at an agreement 意为"达成一致，同意"，可替换常用动词 agree/accept等，增加表达的灵活性。
+2.He said TV pundits squander far too much attention on the rhetoric of the candidates.——NPR
+译文∶他说电视专家在候选人的空谈上浪费了太多精力。
+点拨∶squander A on B意为"在⋯⋯浪费⋯⋯"，A可以是 money/time/resources/opportunities等。
+squander 可替换常用动词 waste。
+【精彩句式】
+1.What's weird is表语从句∶ that the four appear to be stranger to each other，
+谓语
+引导词 主语
+主语从句 系动词
+not talking with friends seated beside but totally indulging in smart phones.
+并列现在分词结构做状语
+句子成形步骤∶
+①写出简单句
+The four seem not to know about each other.
+They don't talk with others.
+They only play with smart phones.
+It is weird.
+②利用连词将简单句整合
+It is weird that the four seem not to know about each other,because they don't talk with others and
+only play with smart phones.
+③通过变换句式、替换动词等增加表达精确性、内容饱满度及美感 
+What's weird is that the four appear to be stranger to each other,not talking with friends seated
+beside but totally indulging in smart phones.
+点评句式发光点∶
+本句使用"主语从句十表语从句"的形式，强调出情景让人感到奇怪。
+As
+2. 时 间 状 语从 句∶
+the quality of emotionalinteraction between people
+引导词
+主语
+an annoying dramatic deterioration，more and more people arrive at an agreement 同位语从句∶
+主语
+宾语
+宾语
+谓语
+that people should shut down mobile phones when being with friends or relatives.
+引导词主语
+宾语
+谓语
+（现在分词时间状语）
+句子成形步骤∶
+①写出简单句
+The quality of communication declines.
+People are with friends or relatives.
+People should shut down mobile phones.
+More and more people agree about it.
+②利用连 词等将简单句整合
+As the quality of communication declines,more and more people agree that people should shut down
+70
+认准淘宝店铺∶ 光速考研工作室，赠送配套课程
+
+----- PAGE 71 -----
+ 
+mobile phones when they are with friends or relatives.
+③通过增加形容词、替换动词等增加表达精确性、内容饱满度及美感
+As the quality of emotional interaction between people suffer an annoying dramatic deterioration,
+more and more people arrive at an agreement that people should shut down mobile phones when being with
+friends or relatives.
+【思路拓展】
+图片描绘的是人们聚会时过度使用手机、导致面对面交流减少的现象，属干"批判引导类"话题。第
+一段描述图片后，第二、三段可从不同角度展开论述∶可如范文所示，第二段重点阐述现象的危害，以及
+人们对此想出的应对办法，第三段提出建议。另外，也可在第二段分析问题产生的原因，第三段针对原
+因提出相应的对策。
+【应用模板
+①正如我们从图中看到的，
+I ①As we can see from the picture,____. ②
+②
+（描述图片内容）.
+Il ① The phenomenon reflected in the picture is not rare
+①图片中的现象如今并不罕见，因
+为我们常常 读到___的新闻。②这
+nowadays，as we always read news that__（图片现象举
+种____频频发生的原因有很多。③
+例）.②Reasons why this kind of__（现象）occurs from
+其中一个可 能的原因是__。④另
+time to time are various.③One of the possible causes is
+一个原因是_____。
+____.④It is also owing to the fact that____.
+①然而无论如何，____从来不能
+Ⅲ①In any case，however，___（错误行为的原因）
+成为___的借口。②因此人们（或∶
+could never be the excuse for__（错误行为）.②Hence
+公 民/公 众）应 该___，以 避 免
+one（或∶citizens/the public）should___（措施）to prevent
+____。③另外，人们（或∶公民/公众）
+（图片反映的现象）from occurring.③Additionally，
+ 
+的努力应该辅 以____的帮助，比如，
+efforts of individuals（或∶citizens/the public）should be
+_____，这对于__意义重大。
+supplemented by__（措施），for example，（举例
+说明），which would be of great significance to______·
+模板注释∶该模板适用于"谴责批判类"话题作文，可适用于多数谴责批判类作文。该模板第二段主
+要分析现象产生的原因，随后第三段提出建议。
+三、写作储备
+【写作素材积累】
+Given technology's constant advancements,cell phones affect interpersonal relationships with
+unanticipated consequences.
+因为科技的持续进步，手机以无法预期的结果影响着人际关系。
+● As smart phones seep into public and private contexts,additional opportunities for conflict
+emerge. The involvement of smart phones in interpersonal conflict can be seen when a mother tells her
+child to put their phone away during dinner,or when spouses become angry because their partner is on the
+phone instead of talking to them. As smart phones become more integrated into daily social life,conflict
+may arise as an unintended consequence of the way new technology is used.
+随着智能手机进入公共和私人领域，更多冲突的机会出现了。当一位母亲让孩子吃饭时把手机放
+下，或者当配偶因另一半玩手机而没有与他们交流而生气时，会出现有智能手机参与的人际冲突。随着
+智能手机更多地进入社会生活，冲突将作为新科技使用中意外后果出现。
+71
+认准淘宝店铺∶光速考研工作室，赠送配套课程
+
+----- PAGE 72 -----
+ 
+四、写作练习
+请参考模板和话题词汇，按照下列要求，进行写作。
+Directions:
+Write an essay of 160-200 words based on the following picture.In your essay,you shoul
+1. describe the picture briefly,
+2. interpret its intended meaning, and
+3. give your comments.
+You should write neatly on the ANSWER SHEET.(20 points)
+【话题词汇】
+①visit parents 探望父母;
+②mobile phone adiction 沉迷手机;
+③generation gap 代沟;
+④help with housework 帮助做家务
+72
+认准淘宝店铺∶光速考研工作室，赠送配套课程
