@@ -14,23 +14,6 @@ python server.py 9000
 http://127.0.0.1:9000/
 ```
 
-
-## 在线部署
-
-这个项目可以直接部署到 GitHub Pages。仓库开启 Pages 后,选择:
-
-- Source: `Deploy from a branch`
-- Branch: `main`
-- Folder: `/ (root)`
-
-页面地址通常是:
-
-```text
-https://00lostin00.github.io/wordtml/
-```
-
-本地版和 GitHub Pages 版的 IndexedDB 互不相通。需要迁移进度时,用设置页里的“导出进度 / 导入进度”。
-
 ## 已有功能
 
 ### 学习与复习
