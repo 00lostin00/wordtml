@@ -49,3 +49,17 @@ export function statBlock(label, value, sub = "") {
     sub ? el("div", { class: "sub" }, sub) : null,
   ]);
 }
+
+export function achievementNotice(items = []) {
+  if (!items || !items.length) return null;
+  return el("div", { class: "achievement-notice" }, [
+    el("div", { class: "section-title" }, "新成就"),
+    ...items.map((item) => el("div", { class: "achievement-pop" }, [
+      el("div", { class: "achievement-mark" }, "✓"),
+      el("div", {}, [
+        el("div", { style: "font-weight:700" }, item.title || item.id),
+        el("div", { class: "label" }, item.desc || "已解锁"),
+      ]),
+    ])),
+  ]);
+}

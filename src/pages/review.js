@@ -5,7 +5,7 @@
  *
  * 选池子 + 选玩法 → 开一个 Session。
  */
-import { el } from "../ui/components.js";
+import { achievementNotice, el } from "../ui/components.js";
 import { store } from "../core/store.js";
 import { loadWordlist } from "../core/wordlist.js";
 import { listModes, getMode } from "../modes/_interface.js";
@@ -132,6 +132,7 @@ async function startSession(host, words, modeId, wordlistId, router) {
           el("button", { class: "ghost", onClick: () => router.go("/") }, "回首页"),
           el("button", { class: "primary", onClick: () => router.go("/review") }, "再复习一轮"),
         ]),
+        achievementNotice(summary.unlockedAchievements),
       ]));
     },
   });

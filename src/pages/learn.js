@@ -1,4 +1,4 @@
-import { el } from "../ui/components.js";
+import { achievementNotice, el } from "../ui/components.js";
 import { store } from "../core/store.js";
 import { loadWordlist } from "../core/wordlist.js";
 import { pickTodayBatch } from "../core/srs.js";
@@ -111,6 +111,7 @@ function showSummary(host, summary, router) {
       el("button", { class: "ghost", onClick: () => router.go("/") }, "回首页"),
       el("button", { class: "primary", onClick: () => location.reload() }, "再来一轮"),
     ]),
+    achievementNotice(summary.unlockedAchievements),
   ]));
 }
 

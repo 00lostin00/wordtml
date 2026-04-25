@@ -133,7 +133,7 @@ export async function settleMatch({ tierKey, summary, isDaily }) {
     win,
     isDaily: !!isDaily,
   });
-  await checkAchievements("rank", { tierKey, summary, win, delta, state });
+  const unlockedAchievements = await checkAchievements("rank", { tierKey, summary, win, delta, state });
 
   return {
     win,
@@ -143,6 +143,7 @@ export async function settleMatch({ tierKey, summary, isDaily }) {
     note,
     newState: state,
     newTier: tierByPoints(state.points),
+    unlockedAchievements,
   };
 }
 

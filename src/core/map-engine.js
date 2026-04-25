@@ -157,9 +157,9 @@ export async function recordNodeResult(chapterId, node, summary) {
 
   // 首次达到某星级给金币
   if (rewarded > 0) await store.addCoins(rewarded);
-  await checkAchievements("map", { chapterId, node, stars, summary });
+  const unlockedAchievements = await checkAchievements("map", { chapterId, node, stars, summary });
 
-  return { stars, previousBest: prev.bestStars, rewardedCoins: rewarded };
+  return { stars, previousBest: prev.bestStars, rewardedCoins: rewarded, unlockedAchievements };
 }
 
 function starReward(stars) {

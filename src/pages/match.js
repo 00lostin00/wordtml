@@ -2,7 +2,7 @@
  * 连连看。
  * 独立页面,一次展示 10 个英文和 10 个中文释义,点击两侧完成配对。
  */
-import { el } from "../ui/components.js";
+import { achievementNotice, el } from "../ui/components.js";
 import { store } from "../core/store.js";
 import { loadWordlist } from "../core/wordlist.js";
 import { pickTodayBatch } from "../core/srs.js";
@@ -192,7 +192,7 @@ async function finishMatch(host, router, wordlistId, words, state, startedAt) {
     correct: summary.correct,
     skipped: 0,
   });
-  await checkAchievements("session", { summary });
+  summary.unlockedAchievements = await checkAchievements("session", { summary });
 
   const acc = Math.round(summary.accuracy * 100);
   host.innerHTML = "";
@@ -207,6 +207,7 @@ async function finishMatch(host, router, wordlistId, words, state, startedAt) {
       el("button", { class: "ghost", onClick: () => router.go("/") }, "回首页"),
       el("button", { class: "primary", onClick: () => router.go("/match") }, "再来一组"),
     ]),
+    achievementNotice(summary.unlockedAchievements),
   ]));
 }
 

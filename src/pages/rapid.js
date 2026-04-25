@@ -2,7 +2,7 @@
  * 快速反应。
  * 用现有混合玩法 + Session timeLimit 做 30/60/90 秒限时连答。
  */
-import { el } from "../ui/components.js";
+import { achievementNotice, el } from "../ui/components.js";
 import { store } from "../core/store.js";
 import { loadWordlist } from "../core/wordlist.js";
 import { pickTodayBatch } from "../core/srs.js";
@@ -120,6 +120,7 @@ function renderResult(host, router, seconds, summary) {
       el("button", { class: "ghost", onClick: () => router.go("/rapid") }, "换时长"),
       el("button", { class: "primary", onClick: () => router.go("/rapid", { seconds }) }, "再来一轮"),
     ]),
+    achievementNotice(summary.unlockedAchievements),
   ]));
 }
 

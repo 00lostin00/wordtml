@@ -209,7 +209,7 @@ export class Session {
       correct: summary.correct,
       skipped: summary.skipped,
     });
-    await checkAchievements("session", { summary });
+    summary.unlockedAchievements = await checkAchievements("session", { summary });
     this.onFinish(summary);
   }
 }

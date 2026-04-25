@@ -4,7 +4,7 @@
  * 加载章节/词表/节点 → 选词 → 选玩法(单模式或混合) → 开 Session(可带 timeLimit)
  * → 结束后评星 + 落进度 + 给金币。
  */
-import { el } from "../ui/components.js";
+import { achievementNotice, el } from "../ui/components.js";
 import { store } from "../core/store.js";
 import { loadChapter, sliceNodeWords, recordNodeResult } from "../core/map-engine.js";
 import { loadWordlist } from "../core/wordlist.js";
@@ -145,6 +145,7 @@ function typeBadge(type) {
 
 function renderResult(host, router, chapter, node, summary, result) {
   host.innerHTML = "";
+  const unlockedAchievements = mergeAchievements(summary.unlockedAchievements, result.unlockedAchievements);
   const stars = result.stars;
   const starStr = "⭐".repeat(stars) + "☆".repeat(3 - stars);
   const acc = Math.round(summary.accuracy * 100);
@@ -167,6 +168,7 @@ function renderResult(host, router, chapter, node, summary, result) {
       el("button", { class: "ghost", onClick: () => router.go("/map", { chapter: chapter.id }) }, "回地图"),
       el("button", { class: "primary", onClick: () => location.reload() }, "再挑战"),
     ]),
+    achievementNotice(unlockedAchievements),
   ]));
 }
 
@@ -182,4 +184,17 @@ function formatDuration(ms) {
   const s = Math.round(ms / 1000);
   if (s < 60) return `${s}s`;
   return `${Math.floor(s / 60)}m${s % 60}s`;
+}
+
+function mergeAchievements(...groups) {
+  const seen = new Set();
+  const out = [];
+  for (const group of groups) {
+    for (const item of group || []) {
+      if (seen.has(item.id)) continue;
+      seen.add(item.id);
+      out.push(item);
+    }
+  }
+  return out;
 }

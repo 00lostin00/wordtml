@@ -4,7 +4,7 @@
  *   ?tier=xxx  直接开打指定段位
  *   ?daily=1   每日挑战(固定用当前段位)
  */
-import { el } from "../ui/components.js";
+import { achievementNotice, el } from "../ui/components.js";
 import { store } from "../core/store.js";
 import { loadWordlist } from "../core/wordlist.js";
 import {
@@ -164,6 +164,7 @@ async function runMatch(host, router, tierKey, isDaily) {
 
 function renderMatchResult(host, router, tier, summary, result) {
   host.innerHTML = "";
+  const unlockedAchievements = mergeAchievements(summary.unlockedAchievements, result.unlockedAchievements);
   const acc = Math.round(summary.accuracy * 100);
   const deltaStr = result.delta > 0 ? `+${result.delta}` : result.delta < 0 ? `${result.delta}` : "±0";
   const title = result.win ? "🎉 胜利" : summary.timedOut ? "⏱ 超时失败" : "失败";
@@ -188,6 +189,7 @@ function renderMatchResult(host, router, tier, summary, result) {
       el("button", { class: "ghost", onClick: () => router.go("/rank") }, "回段位大厅"),
       el("button", { class: "primary", onClick: () => router.go("/rank", { tier: result.newTier.key }) }, "再战一场"),
     ]),
+    achievementNotice(unlockedAchievements),
   ]));
 }
 
@@ -197,4 +199,17 @@ function stat(label, value, sub) {
     el("div", { class: "value" }, value),
     sub ? el("div", { class: "sub" }, sub) : null,
   ]);
+}
+
+function mergeAchievements(...groups) {
+  const seen = new Set();
+  const out = [];
+  for (const group of groups) {
+    for (const item of group || []) {
+      if (seen.has(item.id)) continue;
+      seen.add(item.id);
+      out.push(item);
+    }
+  }
+  return out;
 }
