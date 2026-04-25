@@ -1,88 +1,146 @@
 # wordtml
 
-**本地运行的单词记忆网站**。Python 起静态服务,SPA 前端,进度存在浏览器 IndexedDB 里。
+本地运行的单词记忆 SPA。前端是原生 ES Module,没有 build step;Python 只负责静态文件服务;学习进度存在浏览器 IndexedDB。
 
 ## 快速开始
 
 ```bash
-python server.py
+python server.py 9000
 ```
 
-浏览器会自动打开 http://127.0.0.1:8080/。
+然后打开:
 
-> 必须通过 HTTP 访问,不能直接双击 `index.html`(ES 模块不允许 `file://` 协议下相互 import)。
+```text
+http://127.0.0.1:9000/
+```
 
-## 当前进度
+必须通过 HTTP 访问,不要直接双击 `index.html`,否则浏览器会拦截 ES module 的本地 import。
 
-### ✅ Phase 1 — 骨架 + 1 种玩法 + SRS(已完成,能跑通完整闭环)
-- Python 静态服务
-- SPA 路由框架(hash-based)
-- IndexedDB 数据层(progress / wrongbook / settings / stats / sessions)
-- SRS 引擎(SM-2 简化版,5 段熟练度 / 6 档间隔)
-- 学习会话管理
-- 玩法:**英译中选择**
-- 页面:首页、学习、设置
-- 词表加载器 + 示例词表(40 词)
-- 数据导出 / 导入 / 清空
+## 在线部署
 
-### 🚧 Phase 2 — 基础玩法补全(未开)
-- 闪卡、中译英选择、拼写、听写、例句填空
-- 复习页(到期 + 错题本)
+这个项目可以直接部署到 GitHub Pages。仓库开启 Pages 后,选择:
 
-### 🚧 Phase 3 — 地图闯关(未开)
-- 5 主题世界:迷雾森林 / 风暴海岛 / 苍穹古堡 / 星海太空站 / 炽焰火山口
-- 关卡节点类型:普通 / 精英 / Boss / 宝箱 / 隐藏
-- 1–3 星评价 + 金币 + 道具系统
+- Source: `Deploy from a branch`
+- Branch: `main`
+- Folder: `/ (root)`
 
-### 🚧 Phase 4 — 段位赛(未开)
-- 青铜 → 王者,每段 I/II/III 三小段
-- 每日挑战、晋级赛、连胜积分
+页面地址通常是:
 
-### 🚧 Phase 5 — 趣味玩法 + 统计 + 成就(未开)
-- 单词拼图 / 连连看 / 单词消消乐
-- 热力图、正确率曲线、熟练度分布
-- 成就徽章墙
+```text
+https://00lostin00.github.io/wordtml/
+```
+
+本地版和 GitHub Pages 版的 IndexedDB 互不相通。需要迁移进度时,用设置页里的“导出进度 / 导入进度”。
+
+## 已有功能
+
+### 学习与复习
+
+- CET-6 主词表与示例 CET-4 词表
+- SM-2 简化版 SRS,5 档熟练度
+- 今日新词 + 到期复习
+- 错题本,连续答对 3 次自动移出
+- 数据导出、导入、清空
+
+### 基础玩法
+
+- 英译中选择
+- 中译英选择
+- 闪卡
+- 拼写
+- 听写
+- 单词拼图
+
+### 挑战玩法
+
+- 地图闯关:5 章主题地图、普通/精英/Boss/宝箱/隐藏节点、1-3 星评价
+- 段位赛:青铜到王者、每日挑战、连胜积分
+- 快速反应:`/rapid`,30/60/90 秒限时混合题
+- 连连看:`/match`,10 组英中配对,SVG 连线
+
+### 商店与道具
+
+- 金币经济
+- 提示、跳过、延时、透视 4 类道具
+- Boss/段位等限时场景支持延时道具
+
+### 统计与成就
+
+- `/stats` 学习统计
+- 近 30 天学习热力图
+- 正确率曲线
+- 熟练度分布环图
+- 章节进度
+- 段位历程
+- 成就墙
+
+### 词表浏览
+
+- `/browse` 当前词表浏览
+- 搜索 word / 中文释义
+- 按 band 过滤
+- 按熟练度过滤
+- 错题数优先排序
+- 单词详情侧栏
 
 ## 目录结构
 
-```
+```text
 wordtml/
-├── server.py                   Python 静态服务
-├── index.html                  入口 SPA
+├── server.py
+├── index.html
 ├── src/
-│   ├── app.js                  路由入口
-│   ├── router.js               hash 路由
+│   ├── app.js
+│   ├── router.js
 │   ├── core/
-│   │   ├── store.js            IndexedDB 封装
-│   │   ├── srs.js              间隔重复算法
-│   │   ├── session.js          学习会话
-│   │   └── wordlist.js         词表加载
+│   │   ├── achievements.js
+│   │   ├── items.js
+│   │   ├── map-engine.js
+│   │   ├── rank-engine.js
+│   │   ├── session.js
+│   │   ├── srs.js
+│   │   ├── store.js
+│   │   └── wordlist.js
 │   ├── modes/
-│   │   ├── _interface.js       玩法协议 + 注册表
-│   │   └── choice-en.js        英译中选择
+│   │   ├── _interface.js
+│   │   ├── choice-cn.js
+│   │   ├── choice-en.js
+│   │   ├── dictation.js
+│   │   ├── flashcard.js
+│   │   ├── mixed.js
+│   │   ├── puzzle.js
+│   │   └── spelling.js
 │   ├── pages/
+│   │   ├── browse.js
 │   │   ├── home.js
 │   │   ├── learn.js
-│   │   └── settings.js
+│   │   ├── map.js
+│   │   ├── match.js
+│   │   ├── rank.js
+│   │   ├── rapid.js
+│   │   ├── review.js
+│   │   ├── settings.js
+│   │   ├── shop.js
+│   │   ├── stage.js
+│   │   └── stats.js
 │   └── ui/
-│       ├── components.js       DOM 构造工具
+│       ├── components.js
 │       └── style.css
 └── data/
-    ├── schema.md               词表 JSON schema
+    ├── schema.md
+    ├── maps/
     └── wordlists/
-        ├── index.json          词表索引
-        └── sample-cet4.json    示例词表(40 词)
 ```
 
 ## 接入自己的词表
 
-1. 按 [data/schema.md](data/schema.md) 写一份 JSON,丢到 `data/wordlists/`。
-2. 在 `data/wordlists/index.json` 里登记一条。
+1. 按 [data/schema.md](data/schema.md) 写一份 JSON,放到 `data/wordlists/`。
+2. 在 `data/wordlists/index.json` 里登记。
 3. 刷新页面,去设置页切换词表。
 
 ## 扩展玩法
 
-每种玩法就一个文件。看 [src/modes/choice-en.js](src/modes/choice-en.js) 的结构,复制改一份:
+每种标准单题玩法是一个 mode 文件:
 
 ```js
 export default {
@@ -91,20 +149,42 @@ export default {
   description: "一句话介绍",
   render(ctx) {
     // ctx.word / ctx.pool / ctx.index / ctx.total
+    // ctx.items / ctx.hasTimer / ctx.useItem(kind)
     // 答完调 ctx.onAnswer({ correct, quality, responseMs })
     return domNode;
   },
 };
 ```
 
-然后在 [src/modes/_interface.js](src/modes/_interface.js) 注册一下就生效。会自动接入 SRS、错题本、统计。
+然后在 [src/modes/_interface.js](src/modes/_interface.js) 注册即可。标准 mode 会自动接入 SRS、错题本、统计、道具栏。
 
-## 数据存哪
+## 数据存储
 
-全在浏览器 IndexedDB,数据库名 `wordtml`。
-- 换电脑/清缓存之前,去**设置 → 数据管理 → 导出进度**,得到一个 JSON 备份。
-- 新环境用"导入进度"还原。
+IndexedDB 数据库名: `wordtml`。
 
-## 环境
+当前 store:
 
-Python 3.8+ 即可(`server.py` 只用标准库)。前端用原生 ES Module,无 build step。
+- `progress`
+- `wrongbook`
+- `settings`
+- `stats`
+- `sessions`
+- `mapProgress`
+- `economy`
+- `rankHistory`
+- `achievements`
+
+## 开发约定
+
+- 不引入 bundler / npm / TypeScript / 前端框架
+- 路径使用 forward slash
+- 词表 `word.id`、地图 `node.id`、章节 `chapter.id` 发布后不要改
+- 改 IndexedDB schema 时只新增 store 或 index,不要删除旧 store
+- 本地 OCR/PDF 中间产物和考试资料不提交
+
+## 验证
+
+```bash
+Get-ChildItem -Path src -Recurse -Filter *.js | ForEach-Object { node --check $_.FullName }
+python server.py 9000
+```
