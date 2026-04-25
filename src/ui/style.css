@@ -341,6 +341,44 @@ input:focus, select:focus, textarea:focus { border-color: var(--accent); }
 .pill.warn { color: var(--warn); border-color: rgba(242, 185, 74, 0.5); }
 .pill.err { color: var(--err); border-color: rgba(255, 106, 106, 0.5); }
 
+/* === puzzle mode === */
+.puzzle-answer {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 18px 0 14px;
+}
+.puzzle-slot,
+.puzzle-letter {
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.puzzle-slot {
+  border-style: dashed;
+  background: var(--bg);
+}
+.puzzle-slot.filled {
+  border-style: solid;
+  background: var(--bg-card);
+  border-color: var(--accent);
+}
+.puzzle-letters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.puzzle-letter:disabled {
+  opacity: 0.25;
+}
+
 /* === rapid page === */
 .rapid-card {
   padding: 18px;

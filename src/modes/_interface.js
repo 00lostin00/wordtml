@@ -24,6 +24,7 @@ import choiceCn from "./choice-cn.js";
 import flashcard from "./flashcard.js";
 import spelling from "./spelling.js";
 import dictation from "./dictation.js";
+import puzzle from "./puzzle.js";
 
 export const MODES = {
   [choiceEn.id]: choiceEn,
@@ -31,6 +32,7 @@ export const MODES = {
   [flashcard.id]: flashcard,
   [spelling.id]: spelling,
   [dictation.id]: dictation,
+  [puzzle.id]: puzzle,
   // 例句填空 (cloze) 需要词表里有 examples 才能开,当前 cet6 词表无例句,留到 Phase 5。
 };
 

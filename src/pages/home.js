@@ -73,7 +73,7 @@ export async function render(ctx) {
       modeCard("闪卡", "翻面自评熟练度", true, () => router.go("/learn", { mode: "flashcard" })),
       modeCard("拼写", "看释义敲单词", true, () => router.go("/learn", { mode: "spelling" })),
       modeCard("听写", "听发音敲单词", true, () => router.go("/learn", { mode: "dictation" })),
-      modeCard("例句填空", "需要带例句的词表", false),
+      modeCard("单词拼图", "乱序字母拼回单词", true, () => router.go("/learn", { mode: "puzzle" })),
     ]),
   ]));
 
@@ -84,6 +84,7 @@ export async function render(ctx) {
       modeCard("🏆 段位赛", "青铜→王者 · 限时混合", true, () => router.go("/rank")),
       modeCard("🛒 道具商店", "用金币购买提示/跳过/延时/透视", true, () => router.go("/shop")),
       modeCard("⚡ 快速反应", "30/60/90 秒限时连答", true, () => router.go("/rapid")),
+      modeCard("🧩 单词拼图", "点击字母完成拼写", true, () => router.go("/learn", { mode: "puzzle" })),
     ]),
   ]));
 }
