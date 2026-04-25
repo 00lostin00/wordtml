@@ -14,7 +14,6 @@ python server.py 9000
 http://127.0.0.1:9000/
 ```
 
-必须通过 HTTP 访问,不要直接双击 `index.html`,否则浏览器会拦截 ES module 的本地 import。
 
 ## 在线部署
 
@@ -183,13 +182,6 @@ IndexedDB 数据库名: `wordtml`。
 - `achievements`
 - `examAttempts`
 
-## 开发约定
-
-- 不引入 bundler / npm / TypeScript / 前端框架
-- 路径使用 forward slash
-- 词表 `word.id`、地图 `node.id`、章节 `chapter.id` 发布后不要改
-- 改 IndexedDB schema 时只新增 store 或 index,不要删除旧 store
-- 本地 OCR/PDF 中间产物和考试资料不提交
 
 ## 验证
 
