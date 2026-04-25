@@ -1,0 +1,79 @@
+{
+  "chapters": [
+    {
+      "id": "cet6-forest",
+      "name": "迷雾森林",
+      "subtitle": "第 1 章 · 入门高频词",
+      "description": "覆盖 CET-6 高频词前 500 个，适合建立第一轮熟悉度。",
+      "icon": "🌲",
+      "file": "cet6-forest.json",
+      "wordlistId": "cet6",
+      "wordRange": [
+        0,
+        500
+      ],
+      "wordCount": 500,
+      "playableWordCount": 498
+    },
+    {
+      "id": "cet6-island",
+      "name": "风暴海岛",
+      "subtitle": "第 2 章 · 进阶潮汐词",
+      "description": "覆盖第 501-1500 个词，开始混入更细的动作词和场景词。",
+      "icon": "🏝️",
+      "file": "cet6-island.json",
+      "wordlistId": "cet6",
+      "wordRange": [
+        500,
+        1500
+      ],
+      "wordCount": 1000,
+      "playableWordCount": 1000
+    },
+    {
+      "id": "cet6-castle",
+      "name": "苍穹古堡",
+      "subtitle": "第 3 章 · 中坚密令词",
+      "description": "覆盖第 1501-2500 个词，重点练低频但常考的抽象词。",
+      "icon": "🏰",
+      "file": "cet6-castle.json",
+      "wordlistId": "cet6",
+      "wordRange": [
+        1500,
+        2500
+      ],
+      "wordCount": 1000,
+      "playableWordCount": 999
+    },
+    {
+      "id": "cet6-space",
+      "name": "星海太空站",
+      "subtitle": "第 4 章 · 轨道强化词",
+      "description": "覆盖第 2501-3500 个词，简单词与专项词混合强化。",
+      "icon": "🚀",
+      "file": "cet6-space.json",
+      "wordlistId": "cet6",
+      "wordRange": [
+        2500,
+        3500
+      ],
+      "wordCount": 1000,
+      "playableWordCount": 1000
+    },
+    {
+      "id": "cet6-volcano",
+      "name": "炽焰火山口",
+      "subtitle": "第 5 章 · 终焰收官词",
+      "description": "覆盖第 3501-4763 个词，收束简单词、功能词和末段补漏。",
+      "icon": "🌋",
+      "file": "cet6-volcano.json",
+      "wordlistId": "cet6",
+      "wordRange": [
+        3500,
+        4763
+      ],
+      "wordCount": 1263,
+      "playableWordCount": 1263
+    }
+  ]
+}

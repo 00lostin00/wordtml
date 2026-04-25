@@ -1,0 +1,43 @@
+{
+  "wordlists": [
+    {
+      "id": "sample-cet4",
+      "name": "CET-4 示例词表",
+      "file": "sample-cet4.json",
+      "total": 40,
+      "description": "40 个示例单词，用来跑通框架。"
+    },
+    {
+      "id": "cet6",
+      "name": "CET-6 六级词汇",
+      "file": "cet6.json",
+      "total": 4763,
+      "version": "1.1.0",
+      "description": "CET-6 主词表，已基于 ECDICT 补全音标、词性、中文释义和英文释义；ID 保持稳定。",
+      "quality": {
+        "total": 4763,
+        "bandCounts": {
+          "1": 563,
+          "2": 722,
+          "3": 1360,
+          "4": 2118
+        },
+        "tagCounts": {
+          "高频词": 563,
+          "中频词": 722,
+          "低频词": 1360,
+          "简单词": 2118
+        },
+        "missingPhonetic": 15,
+        "missingPos": 2,
+        "missingDefsCn": 0,
+        "withDefsEn": 4748,
+        "excludedWordIds": [
+          "cet6-0129",
+          "cet6-0328",
+          "cet6-1892"
+        ]
+      }
+    }
+  ]
+}

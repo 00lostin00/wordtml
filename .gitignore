@@ -1,0 +1,34 @@
+# Local assistant / dependency scratch
+.claude/
+.deps/
+codex_continue.md
+
+# OCR / PDF extraction artifacts
+tmp_pdf_pages/
+tmp_cet6_extract/
+tmp_test_ocr_*/
+tools/extract_cet6_pdf.py
+tools/windows_ocr.ps1
+tools/clean_cet6_json.py
+
+# User's early raw artifact and backups
+/cet6.json
+data/wordlists/cet6.json.bak
+data/wordlists/*.pre-*.json
+data/external/
+data/reports/
+
+# Local exam/PDF reference materials
+cet_eg/
+KY_eg/
+
+# Runtime logs and caches
+*.log
+__pycache__/
+*.py[cod]
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

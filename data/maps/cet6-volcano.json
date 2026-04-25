@@ -1,0 +1,200 @@
+{
+  "id": "cet6-volcano",
+  "name": "炽焰火山口",
+  "subtitle": "第 5 章 · 终焰收官词",
+  "description": "覆盖第 3501-4763 个词，收束简单词、功能词和末段补漏。",
+  "icon": "🌋",
+  "wordlistId": "cet6",
+  "wordRange": [
+    3500,
+    4763
+  ],
+  "excludeWordIds": [],
+  "sourceVersion": "1.1.0",
+  "wordStats": {
+    "range": [
+      3500,
+      4763
+    ],
+    "total": 1263,
+    "playableTotal": 1263,
+    "bandCounts": {
+      "4": 1263
+    },
+    "missingPhonetic": 4,
+    "missingPos": 0,
+    "missingDefsCn": 0,
+    "excludedWordIds": []
+  },
+  "theme": {
+    "bg": "#3b1412",
+    "accent": "#ff6f3d",
+    "path": "#ff8a4f"
+  },
+  "nodes": [
+    {
+      "id": "5-1",
+      "type": "normal",
+      "name": "焦岩入口",
+      "mode": "choice-en",
+      "count": 10,
+      "x": 13,
+      "y": 89,
+      "requires": []
+    },
+    {
+      "id": "5-2",
+      "type": "normal",
+      "name": "黑曜石桥",
+      "mode": "choice-cn",
+      "count": 10,
+      "x": 32,
+      "y": 81,
+      "requires": [
+        "5-1"
+      ]
+    },
+    {
+      "id": "5-3",
+      "type": "normal",
+      "name": "硫磺裂谷",
+      "mode": "dictation",
+      "count": 10,
+      "x": 56,
+      "y": 74,
+      "requires": [
+        "5-2"
+      ]
+    },
+    {
+      "id": "5-4",
+      "type": "treasure",
+      "name": "熔岩宝箱",
+      "mode": "review",
+      "count": 10,
+      "x": 82,
+      "y": 68,
+      "requires": [
+        "5-3"
+      ]
+    },
+    {
+      "id": "5-5",
+      "type": "normal",
+      "name": "灰烬坡道",
+      "mode": "spelling",
+      "count": 10,
+      "x": 70,
+      "y": 58,
+      "requires": [
+        "5-3"
+      ]
+    },
+    {
+      "id": "5-6",
+      "type": "normal",
+      "name": "热浪风口",
+      "mode": "flashcard",
+      "count": 10,
+      "x": 48,
+      "y": 51,
+      "requires": [
+        "5-5"
+      ]
+    },
+    {
+      "id": "5-7",
+      "type": "normal",
+      "name": "赤焰矿洞",
+      "mode": "choice-en",
+      "count": 10,
+      "x": 25,
+      "y": 45,
+      "requires": [
+        "5-6"
+      ]
+    },
+    {
+      "id": "5-8",
+      "type": "elite",
+      "name": "熔铠统领",
+      "modes": [
+        "choice-cn",
+        "spelling"
+      ],
+      "count": 15,
+      "x": 15,
+      "y": 34,
+      "requires": [
+        "5-7"
+      ]
+    },
+    {
+      "id": "5-9",
+      "type": "normal",
+      "name": "赤晶平台",
+      "mode": "flashcard",
+      "count": 10,
+      "x": 38,
+      "y": 28,
+      "requires": [
+        "5-8"
+      ]
+    },
+    {
+      "id": "5-10",
+      "type": "normal",
+      "name": "火山祭坛",
+      "mode": "choice-cn",
+      "count": 10,
+      "x": 62,
+      "y": 23,
+      "requires": [
+        "5-9"
+      ]
+    },
+    {
+      "id": "5-11",
+      "type": "treasure",
+      "name": "余烬秘藏",
+      "mode": "review",
+      "count": 10,
+      "x": 80,
+      "y": 17,
+      "requires": [
+        "5-10"
+      ]
+    },
+    {
+      "id": "5-12",
+      "type": "boss",
+      "name": "熔核巨像 BOSS",
+      "modes": [
+        "choice-en",
+        "choice-cn",
+        "spelling",
+        "dictation"
+      ],
+      "count": 20,
+      "timeLimit": 150,
+      "x": 55,
+      "y": 9,
+      "requires": [
+        "5-10",
+        "5-11"
+      ]
+    },
+    {
+      "id": "5-h",
+      "type": "hidden",
+      "name": "凤凰余火",
+      "mode": "dictation",
+      "count": 10,
+      "x": 88,
+      "y": 7,
+      "requires": [
+        "5-12"
+      ]
+    }
+  ]
+}

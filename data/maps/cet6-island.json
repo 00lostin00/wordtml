@@ -1,0 +1,202 @@
+{
+  "id": "cet6-island",
+  "name": "风暴海岛",
+  "subtitle": "第 2 章 · 进阶潮汐词",
+  "description": "覆盖第 501-1500 个词，开始混入更细的动作词和场景词。",
+  "icon": "🏝️",
+  "wordlistId": "cet6",
+  "wordRange": [
+    500,
+    1500
+  ],
+  "excludeWordIds": [],
+  "sourceVersion": "1.1.0",
+  "wordStats": {
+    "range": [
+      500,
+      1500
+    ],
+    "total": 1000,
+    "playableTotal": 1000,
+    "bandCounts": {
+      "1": 63,
+      "2": 722,
+      "3": 215
+    },
+    "missingPhonetic": 4,
+    "missingPos": 0,
+    "missingDefsCn": 0,
+    "excludedWordIds": []
+  },
+  "theme": {
+    "bg": "#0f3550",
+    "accent": "#4fb7d8",
+    "path": "#6ec7e6"
+  },
+  "nodes": [
+    {
+      "id": "2-1",
+      "type": "normal",
+      "name": "浅滩登陆",
+      "mode": "choice-en",
+      "count": 10,
+      "x": 12,
+      "y": 88,
+      "requires": []
+    },
+    {
+      "id": "2-2",
+      "type": "normal",
+      "name": "贝壳礁",
+      "mode": "choice-cn",
+      "count": 10,
+      "x": 32,
+      "y": 80,
+      "requires": [
+        "2-1"
+      ]
+    },
+    {
+      "id": "2-3",
+      "type": "normal",
+      "name": "潮音洞",
+      "mode": "dictation",
+      "count": 10,
+      "x": 54,
+      "y": 72,
+      "requires": [
+        "2-2"
+      ]
+    },
+    {
+      "id": "2-4",
+      "type": "treasure",
+      "name": "沉船宝箱",
+      "mode": "review",
+      "count": 10,
+      "x": 78,
+      "y": 68,
+      "requires": [
+        "2-3"
+      ]
+    },
+    {
+      "id": "2-5",
+      "type": "normal",
+      "name": "椰林风道",
+      "mode": "flashcard",
+      "count": 10,
+      "x": 68,
+      "y": 56,
+      "requires": [
+        "2-3"
+      ]
+    },
+    {
+      "id": "2-6",
+      "type": "normal",
+      "name": "雨幕栈桥",
+      "mode": "spelling",
+      "count": 10,
+      "x": 45,
+      "y": 50,
+      "requires": [
+        "2-5"
+      ]
+    },
+    {
+      "id": "2-7",
+      "type": "normal",
+      "name": "蓝潮灯塔",
+      "mode": "choice-en",
+      "count": 10,
+      "x": 24,
+      "y": 43,
+      "requires": [
+        "2-6"
+      ]
+    },
+    {
+      "id": "2-8",
+      "type": "elite",
+      "name": "海盗副官",
+      "modes": [
+        "choice-cn",
+        "spelling"
+      ],
+      "count": 15,
+      "x": 14,
+      "y": 31,
+      "requires": [
+        "2-7"
+      ]
+    },
+    {
+      "id": "2-9",
+      "type": "normal",
+      "name": "珊瑚迷宫",
+      "mode": "flashcard",
+      "count": 10,
+      "x": 36,
+      "y": 26,
+      "requires": [
+        "2-8"
+      ]
+    },
+    {
+      "id": "2-10",
+      "type": "normal",
+      "name": "风眼平台",
+      "mode": "dictation",
+      "count": 10,
+      "x": 60,
+      "y": 22,
+      "requires": [
+        "2-9"
+      ]
+    },
+    {
+      "id": "2-11",
+      "type": "treasure",
+      "name": "海神遗馈",
+      "mode": "review",
+      "count": 10,
+      "x": 82,
+      "y": 18,
+      "requires": [
+        "2-10"
+      ]
+    },
+    {
+      "id": "2-12",
+      "type": "boss",
+      "name": "风暴船长 BOSS",
+      "modes": [
+        "choice-en",
+        "choice-cn",
+        "spelling",
+        "dictation"
+      ],
+      "count": 20,
+      "timeLimit": 170,
+      "x": 58,
+      "y": 10,
+      "requires": [
+        "2-10",
+        "2-11"
+      ]
+    },
+    {
+      "id": "2-h",
+      "type": "hidden",
+      "name": "月下蓝洞",
+      "mode": "flashcard",
+      "count": 10,
+      "x": 88,
+      "y": 8,
+      "requires": [
+        "2-12"
+      ]
+    }
+  ]
+}
