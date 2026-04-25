@@ -66,7 +66,7 @@ export async function render(ctx) {
   ]));
 
   host.appendChild(el("div", { class: "card", style: "margin-top:16px" }, [
-    el("div", { class: "section-title" }, "基础玩法 · Phase 2 已开 5 种"),
+    el("div", { class: "section-title" }, "基础玩法"),
     el("div", { class: "grid cols-3" }, [
       modeCard("英译中选择", "看单词选释义", true, () => router.go("/learn", { mode: "choice-en" })),
       modeCard("中译英选择", "看释义选单词", true, () => router.go("/learn", { mode: "choice-cn" })),
@@ -78,7 +78,7 @@ export async function render(ctx) {
   ]));
 
   host.appendChild(el("div", { class: "card", style: "margin-top:16px" }, [
-    el("div", { class: "section-title" }, "挑战入口 · Phase 3–4 已开"),
+    el("div", { class: "section-title" }, "挑战入口"),
     el("div", { class: "grid cols-3" }, [
       modeCard("🗺️ 地图闯关", "主题世界 · 关卡 + 星级", true, () => router.go("/map")),
       modeCard("🏆 段位赛", "青铜→王者 · 限时混合", true, () => router.go("/rank")),
