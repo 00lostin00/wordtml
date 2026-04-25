@@ -85,6 +85,7 @@ export async function render(ctx) {
       modeCard("🛒 道具商店", "用金币购买提示/跳过/延时/透视", true, () => router.go("/shop")),
       modeCard("⚡ 快速反应", "30/60/90 秒限时连答", true, () => router.go("/rapid")),
       modeCard("🧩 单词拼图", "点击字母完成拼写", true, () => router.go("/learn", { mode: "puzzle" })),
+      modeCard("🔗 连连看", "10 组英中配对", true, () => router.go("/match")),
     ]),
   ]));
 }

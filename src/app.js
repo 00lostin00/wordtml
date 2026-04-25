@@ -13,6 +13,7 @@ const routes = {
   "/stage":    (ctx) => page("stage", ctx),
   "/rank":     (ctx) => page("rank", ctx),
   "/shop":     (ctx) => page("shop", ctx),
+  "/match":    (ctx) => page("match", ctx),
   "/rapid":    (ctx) => page("rapid", ctx),
   "/stats":    (ctx) => page("stats", ctx),
   "/settings": (ctx) => page("settings", ctx),
