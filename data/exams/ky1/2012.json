@@ -1,0 +1,592 @@
+{
+  "id": "ky1-2012",
+  "type": "ky1",
+  "year": 2012,
+  "month": 12,
+  "set": 1,
+  "title": "2012年考研英语一真题",
+  "sections": [
+    {
+      "id": "cloze",
+      "type": "reading-mcq",
+      "title": "Section I · Use of English",
+      "minutes": 15,
+      "passages": [
+        {
+          "label": "Use of English",
+          "text": "Use of English\nDirections:\nRead the following text. Choose the best word(s) fbr each numbered blank and mark A,\nB, C or D on the ANSWER SHEET. (10 points)\nThe ethical judgments of the Supreme Court justices have become an important\nissue recently. The court cannot \n] \nits legitimacy as guardian of the rule of law\n\njustices behave like politicians. Yet, in several instances, justices acted in ways\nthat \n\nthe court5 s reputation fbr being independent and impartial.\nJustice Antonin Scalia, fbr example, appeared at political events. That kind of\nactivity makes it less likely that the court5 s decisions will be \n\nas impartial\njudgments. Part of the problem is that the justices are not \n\nby an ethics code. At\nthe very least, the court should make itself 6 \nto the code of conduct that \n\nto\nthe rest of the federal judiciary.\nThis and other similar cases \n\nthe question of whether there is still a \n\nbetween the court and politics.\nThe framers of the Constitution envisioned law \n\nhaving authority apart from\npolitics. They gave justices permanent positions \n\nthey would be free to \n\nthose in power and have no need to \n\npolitical support. Our legal system was\ndesigned to set law apart from politics precisely because they are so closely \n\nConstitutional law is political because it results from choices rooted in fundamental\nsocial \n\nlike liberty and property. When the court deals with social policy\ndecisions, the law it \n\nis inescapably political- which is why decisions split along\nideological lines are so easily \n\nas unjust.\nThe justices must \n\ndoubts about the court9 s legitimacy by making themselves\n\nto the code of conduct. That would make their rulings more likely to be seen as\nseparate from politics and, \n\nconvincing as law.\n2012年英语（一）试题第1 页共1 4 页",
+          "questions": [
+            {
+              "id": "q1",
+              "number": 1,
+              "stem": "Blank 1",
+              "options": {
+                "A": "emphasize",
+                "B": "maintain",
+                "C": "modify",
+                "D": "recognize 2."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "stem": "Blank 2",
+              "options": {
+                "A": "when",
+                "B": "lest",
+                "C": "before",
+                "D": "unless 3."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "stem": "Blank 3",
+              "options": {
+                "A": "restored",
+                "B": "weakened",
+                "C": "established",
+                "D": "eliminated 4."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "stem": "Blank 4",
+              "options": {
+                "A": "challenged",
+                "B": "compromised",
+                "C": "suspected",
+                "D": "accepted 5."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q5",
+              "number": 5,
+              "stem": "Blank 5",
+              "options": {
+                "A": "advanced",
+                "B": "caught EC] bound",
+                "C": "immune",
+                "D": "founded 6."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q6",
+              "number": 6,
+              "stem": "Blank 6",
+              "options": {
+                "A": "resistant",
+                "B": "subject",
+                "C": "leads",
+                "D": "prone 7."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q7",
+              "number": 7,
+              "stem": "Blank 7",
+              "options": {
+                "A": "resorts",
+                "B": "sticks",
+                "C": "deny",
+                "D": "applies 8."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q8",
+              "number": 8,
+              "stem": "Blank 8",
+              "options": {
+                "A": "evade",
+                "B": "raise",
+                "C": "similarity",
+                "D": "settle 9."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q9",
+              "number": 9,
+              "stem": "Blank 9",
+              "options": {
+                "A": "line",
+                "B": "barrier",
+                "C": "through",
+                "D": "conflict 10. LA] by"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q10",
+              "number": 10,
+              "stem": "Blank 10",
+              "options": {
+                "A": "so",
+                "B": "as",
+                "C": "provided",
+                "D": "towards 11."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q11",
+              "number": 11,
+              "stem": "Blank 11",
+              "options": {
+                "A": "serve",
+                "B": "since",
+                "C": "upset",
+                "D": "though 12."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q12",
+              "number": 12,
+              "stem": "Blank 12",
+              "options": {
+                "A": "confirm",
+                "B": "satisfy",
+                "C": "cultivate",
+                "D": "replace 13."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q13",
+              "number": 13,
+              "stem": "Blank 13",
+              "options": {
+                "A": "guarded",
+                "B": "express",
+                "C": "studied",
+                "D": "offer 14."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q14",
+              "number": 14,
+              "stem": "Blank 14",
+              "options": {
+                "A": "concepts",
+                "B": "followed",
+                "C": "divisions",
+                "D": "tied 15."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q15",
+              "number": 15,
+              "stem": "Blank 15",
+              "options": {
+                "A": "excludes",
+                "B": "theories",
+                "C": "shapes",
+                "D": "conventions 16."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q16",
+              "number": 16,
+              "stem": "Blank 16",
+              "options": {
+                "A": "dismissed",
+                "B": "questions",
+                "C": "ranked",
+                "D": "controls 17."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q17",
+              "number": 17,
+              "stem": "Blank 17",
+              "options": {
+                "A": "suppress",
+                "B": "released",
+                "C": "address",
+                "D": "distorted 18."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q18",
+              "number": 18,
+              "stem": "Blank 18",
+              "options": {
+                "A": "accessible",
+                "B": "exploit",
+                "C": "agreeable",
+                "D": "ignore 19."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q19",
+              "number": 19,
+              "stem": "Blank 19",
+              "options": {
+                "A": "by all means [B ] at all costs",
+                "B": "amiable",
+                "C": "in a word",
+                "D": "accountable 20."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q20",
+              "number": 20,
+              "stem": "Blank 20",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": "as a result"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section II Part A · Reading Comprehension",
+      "minutes": 70,
+      "passages": [
+        {
+          "label": "Text 1",
+          "text": "Come on一Everybody9 s doing it. That whispered message, half invitation and half\nforcing, is what most of us think of when we hear the words peer pressure. It usually\nleads to no good一drinking, drugs and casual sex. But in her new book Join the Club,\nTina Rosenberg contends that peer pressure can also be a positive force through what she\ncalls the social cure, in which organizations and officials use the power of group\ndynamics to help individuals improve their lives and possibly the world.\nRosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social\ncure in action: In South Carolina, a state-sponsored antismoking program called Rage\nAgainst the Haze sets out to make cigarettes uncool. In South Africa, an HIV-prevention\ninitiative known as loveLife recruits young people to promote safe sex among their peers.\nThe idea seems promising, and Rosenberg is a perceptive observer. Her critique of\nthe lameness of many public-health campaigns is spot-on: they fail to mobilize peer\npressure for healthy habits, and they demonstrate a seriously flawed understanding of\npsychology. ccDare to be different, please don't smoke! ” pleads one billboard campaign\naimed at reducing smoking among teenagers -  teenagersi who desire nothing more than\nfitting in. Rosenberg argues convincingly that public-health advocates ought to take a\npage from advertisers, so skilled at applying peer pressure.\nBut on the general effectiveness of the social cure, Rosenberg is less persuasive.\nJoin the Club is filled with too much irrelevant detail and not enough exploration of the\nsocial and biological factors that make peer pressure so powerful. The most glaring flaw\nof the social cure as it's presented here is that it doesn't work very well for very long.\nRage Against the Haze failed once state funding was cut. Evidence that the loveLife\nprogram produces lasting changes is limited and mixed.\nThere's no doubt that our peer groups exert enormous influence on our behavior.\nAn emerging body of research shows that positive health habits -  as well as negative\nones -  spread through networks of friends via social communication. This is a subtle\nform of peer pressure: we unconsciously imitate the behavior we see every day.\nFar less certain, however, is how successfully experts and bureaucrats can select our\npeer groups and steer their activities in virtuous directions. Ifs like the teacher who\nbreaks up the troublemakers in the back row by pairing them with better-behaved\nclassmates. The tactic never really works. And thafs the problem with a social cure\nengineered from the outside: in the real world, as in school, we insist on choosing our\nown firiends.\n2012年英语（一）试题第3 页共1 4 页",
+          "questions": [
+            {
+              "id": "q21",
+              "number": 21,
+              "stem": "According to the first paragraph, peer pressure often emerges as",
+              "options": {
+                "A": "a supplement to the social cure.",
+                "B": "a stimulus to group dynamics.",
+                "C": "an obstacle to social progress.",
+                "D": "a cause of undesirable behaviors."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q22",
+              "number": 22,
+              "stem": "Rosenberg holds that public-health advocates should",
+              "options": {
+                "A": "recruit professional advertisers.",
+                "B": "learn from advertisers5 experience.",
+                "C": "stay away from commercial advertisers.",
+                "D": "recognize the limitations of advertisements."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q23",
+              "number": 23,
+              "stem": "In the author's view, Rosenberg5s book fails to",
+              "options": {
+                "A": "adequately probe social and biological fectors.",
+                "B": "effectively evade the flaws of the social cure.",
+                "C": "illustrate the functions of state funding.",
+                "D": "produce a long-lasting social effect."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q24",
+              "number": 24,
+              "stem": "Paragraph 5 shows that our imitation of behaviors",
+              "options": {
+                "A": "is harmfiil to our networks of friends.",
+                "B": "will mislead behavioral studies.",
+                "C": "occurs without our realizing it.",
+                "D": "can produce negative health habits."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q25",
+              "number": 25,
+              "stem": "The author suggests in the last paragraph that the effect of peer pressure is",
+              "options": {
+                "A": "harmful.",
+                "B": "desirable.",
+                "C": "profound.",
+                "D": "questionable. 2012年英语（一）试题第4 页共1 4 页"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Text 2",
+          "text": "A deal is a deal一except, apparently, when Entergy is involved. The company, a\nmajor energy supplier in New England, provoked justified outrage in Vermont last week\nwhen it announced it was reneging on a longstanding commitment to abide by the state's\nstrict nuclear regulations.\nInstead, the company has done precisely what it had long promised it would not:\nchallenge the constitutionality of Vermont9 s rules in the federal court, as part of a\ndesperate effort to keep its Vermont Yankee nuclear power plant running. Ifs a stunning\nmove.\nThe conflict has been surfacing since 2002, when the corporation bought Vermont's\nonly nuclear power plant, an aging reactor in Vernon. As a condition of receiving state\napproval for the sale, the company agreed to seek permission from state regulators to\noperate past 2012. In 2006, the state went a step further, requiring that any extension of\nthe plant9s license be subject to the Vermont legislature's approval. Then, too, the\ncompany went along.\nEither Entergy never really intended to live by those commitments, or it simply\ndidn't foresee what would happen next. A string of accidents, including the partial\ncollapse of a cooling tower in 2007 and the discovery of an underground pipe system\nleakage, raised serious questions about both Vermont Yankee's safety and Entergy5s\nmanagement一especially after the company made misleading statements about the pipe.\nEnraged by Entergy's behavior, the Vermont Senate voted 26 to 4 last year against\nallowing an extension.\nNow the company is suddenly claiming that the 2002 agreement is invalid because\nof the 2006 legislation, and that only the federal government has regulatory power over\nnuclear issues. The legal issues in the case are obscure: whereas the Supreme Court has\nruled that states do have some regulatory authority over nuclear power, legal scholars\nsay the Vermont case will offer a precedent-setting test of how far those powers extend.\nCertainly, there are valid concerns about the patchwork regulations that could result if\nevery state sets its own rules. But had Entergy kept its word, that debate would be beside\nthe point.\nThe company seems to have concluded that its reputation in Vermont is already so\ndamaged that it has nothing left to lose by going to war with the state. But there should\nbe consequences. Pennission to run a nuclear plant is a public trust. Entergy runs 11\nother reactors in the United States, including Pilgrim Nuclear station in Plymouth.\nPledging to run Pilgrim safely, the company has applied for federal pennission to keep it\nopen for another 20 years. But as the Nuclear Regulatory Commission (NRC) reviews\nthe company9 s application, it should keep in mind what promises from Entergy are worth.\n2012年英语（一）试题第5 页共1 4 页",
+          "questions": [
+            {
+              "id": "q26",
+              "number": 26,
+              "stem": "The phraseccreneging on ” (Line 3, Para. 1) is closest in meaning to",
+              "options": {
+                "A": "condemning.",
+                "B": "reaffirming.",
+                "C": "dishonoring.",
+                "D": "securing."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q27",
+              "number": 27,
+              "stem": "By entering into the 2002 agreement, Entergy intended to",
+              "options": {
+                "A": "obtain protection from Vermont regulators.",
+                "B": "seek favor from the federal legislature.",
+                "C": "acquire an extension of its business license. [D [ get permission to purchase a power plant.",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q28",
+              "number": 28,
+              "stem": "According to Paragraph 4, Entergy seems to have problems with its",
+              "options": {
+                "A": "managerial practices.",
+                "B": "technical innovativeness.",
+                "C": "financial goals.",
+                "D": "business vision."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q29",
+              "number": 29,
+              "stem": "In the author's view, the Vermont case will test",
+              "options": {
+                "A": "Entergy's capacity to fillfill all its promises.",
+                "B": "the nature of states' patchwork regulations.",
+                "C": "the federal authority over nuclear issues.",
+                "D": "the limits of states5 power over nuclear issues."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q30",
+              "number": 30,
+              "stem": "It can be inferred from the last paragraph that",
+              "options": {
+                "A": "Entergy's business elsewhere might be affected.",
+                "B": "the authority of the NRC will be defied.",
+                "C": "Entergy will withdraw its Plymouth application.",
+                "D": "Vermont5S reputation might be damaged. 2012年英语（一）试题第6 页共1 4 页"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Text 3",
+          "text": "In the idealized version of how science is done, fects about the world are waiting to\nbe observed and collected by objective researchers who use the scientific method to\ncarry out their work. But in the everyday practice of science, discovery frequently\nfollows an ambiguous and complicated route. We aim to be objective, but we cannot\nescape the context of our unique life experiences. Prior knowledge and interests\ninfluence what we experience, what we think our experiences mean, and the subsequent\nactions we take. Opportunities for misinterpretation, error, and self-deception abound.\nConsequently, discovery claims should be thought of as protoscience. Similar to\nnewly staked mining claims, they are fiill of potential. But it takes collective scrutiny and\nacceptance to transform a discovery claim into a mature discovery. This is the credibility\nprocess, through which the individual researchefs me, here, now becomes the community's\nanyone, anywhere, anytime. Objective knowledge is the goal, not the starting point.\nOnce a discovery claim becomes public, the discoverer receives intellectual credit.\nBut, unlike with mining claims, the community takes control of what happens next.\nWithin the complex social structure of the scientific community, researchers make\ndiscoveries; editors and reviewers act as gatekeepers by controlling the publication\nprocess; other scientists use the new finding to suit their own purposes; and finally, the\npublic (including other scientists) receives the new discovery and possibly\naccompanying technology. As a discovery claim works its way through the community,\nthe interaction and confrontation between shared and competing beliefs about the\nscience and the technology involved transforms an individual5s discovery claim into the\ncommunity's credible discovery.\nTwo paradoxes exist throughout this credibility process. First, scientific work tends\nto focus on some aspect of prevailing knowledge that is viewed as incomplete or\nincorrect. Little reward accompanies duplication and confirmation of what is alreacfy known\nand believed. The goal is ne^-search^ not research. Not surprisingly, newly published\ndiscovery claims and credible discoveries that appear to be important and convincing will\nalways be open to challenge and potential modification or refiitation by fiiture researchers.\nSecond, novelty itself frequently provokes disbelief. Nobel Laureate and physiologist\nAlbert Szent-Gybrgyi once described discovery as “seeing what everybody has seen and\nthinking what nobody has thought.,, But thinking what nobody else has thought and\ntelling others what they have missed may not change their views. Sometimes years are\nrequired for truly novel discovery claims to be accepted and appreciated.\nIn the end, credibility \"happens“ to a discovery claim一a process that corresponds\nto what philosopher Annette Baier has described as the commons of the mind. \"We\nreason together, challenge, revise, and complete each other's reasoning and each other's\nconceptions of reason/5\n2012年英语（一）试题第7 页共1 4 页",
+          "questions": [
+            {
+              "id": "q31",
+              "number": 31,
+              "stem": "According to the first paragraph, the process of discovery is characterized by its",
+              "options": {
+                "A": "uncertainty and complexity.",
+                "B": "misconception and deceptiveness.",
+                "C": "logicality and objectivity.",
+                "D": "systematicness and regularity."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q32",
+              "number": 32,
+              "stem": "It can be inferred from Paragraph 2 that the credibility process requires",
+              "options": {
+                "A": "strict inspection.",
+                "B": "shared efforts.",
+                "C": "individual wisdom.",
+                "D": "persistent innovation."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q33",
+              "number": 33,
+              "stem": "Paragraph 3 shows that a discovery claim becomes credible after it",
+              "options": {
+                "A": "has attracted the attention of the general public.",
+                "B": "has been examined by the scientific community.",
+                "C": "has received recognition from editors and reviewers.",
+                "D": "has been frequently quoted by peer scientists."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q34",
+              "number": 34,
+              "stem": "Albert Szent-Gyorgyi would most likely agree that",
+              "options": {
+                "A": "scientific claims will survive challenges.",
+                "B": "discoveries today inspire fixture research.",
+                "C": "efforts to make discoveries are justified.",
+                "D": "scientific work calls fbr a critical mind."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q35",
+              "number": 35,
+              "stem": "Which of the following would be the best title of the text?",
+              "options": {
+                "A": "Novelty as an Engine of Scientific Development.",
+                "B": "Collective Scrutiny in Scientific Discovery.",
+                "C": "Evolution of Credibility in Doing Science.",
+                "D": "Challenge to Credibility at the Gate to Science. 2012年英语（一）试题第8 页共1 4 页"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Text 4",
+          "text": "If the trade unionist Jimmy Hoffa were alive today, he would probably represent\ncivil servants. When Hoffa9s Teamsters were in their prime in I960, only one in ten\nAmerican government workers belonged to a union; now 36% do. In 2009 the number of\nunionists in America's public sector passed that of their fellow members in the private\nsector. In Britain, more than half of public-sector workers but only about 15% of\nprivate-sector ones are unionized.\nThere are three reasons fbr the public-sector unions5 thriving. First, they can shut\nthings down without suffering much in the way of consequences. Second, they are\nmostly bright and well-educated. A quarter of America's public-sector workers have a\nuniversity degree. Third, they now dominate left-of-centre politics. Some of their ties go\nback a long way. Britain's Labor Party, as its name implies, has long been associated\nwith trade unionism. Its current leader, Ed Miliband, owes his position to votes from\npublic-sector unions.\nAt the state level their influence can be even more fearsome. Mark Baldassare of\nthe Public Policy Institute of California points out that much of the state's budget is\npatrolled by unions. The teachers5 unions keep an eye on schools, the CCPOA on prisons\nand a variety of labor groups on health care.\nIn many rich countries average wages in the state sector are higher than in the\nprivate one. But the real gains come in benefits and work practices. Politicians have\nrepeatedly46 backloadedpublic-sector pay deals, keeping the pay increases modest but\nadding to holidays and especially pensions that are already generous.\nReform has been vigorously opposed, perhaps most notoriously in education, where\ncharter schools, academies and merit pay all faced drawn-out battles. Even though there\nis plenty of evidence that the quality of the teachers is the most important variable,\nteachers9 unions have fought against getting rid of bad ones and promoting good ones.\nAs the cost to everyone else has become clearer, politicians have begun to clamp\ndown. In Wisconsin the unions have rallied thousands of supporters against Scott Walker,\nthe hardline Republican governor. But many within the public sector suffer under the\ncurrent system, too.\nJohn Donahue at Harvard's Kennedy School points out that the norms of culture in\nWestern civil services suit those who want to stay put but is bad fbr high achievers. The\nonly American public-sector workers who earn well above $250,000 a year are\nuniversity sports coaches and the president of the United States. Bankers5 fat pay packets\nhave attracted much criticism, but a public-sector system that does not reward high\nachievers may be a much bigger problem fbr America.\n2012年英语（一）试题第9 页共1 4 页",
+          "questions": [
+            {
+              "id": "q36",
+              "number": 36,
+              "stem": "It can be learned from the first paragraph that",
+              "options": {
+                "A": "Teamsters still have a large body of members.",
+                "B": "Jimmy Hoffa used to work as a civil servant.",
+                "C": "unions have enlarged their public-sector membership.",
+                "D": "the government has improved its relationship with unionists."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q37",
+              "number": 37,
+              "stem": "Which of the following is true of Paragraph 2?",
+              "options": {
+                "A": "Public-sector unions are prudent in taking actions.",
+                "B": "Education is required fbr public-sector union membership.",
+                "C": "Labor Party has long been fighting against public-sector unions.",
+                "D": "Public-sector unions seldom get in trouble fbr their actions."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q38",
+              "number": 38,
+              "stem": "It can be learned from Paragraph 4 that the income in the state sector is",
+              "options": {
+                "A": "illegally secured.",
+                "B": "indirectly augmented.",
+                "C": "excessively increased.",
+                "D": "fairly adjusted."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q39",
+              "number": 39,
+              "stem": "The example of the unions in Wisconsin shows that unions",
+              "options": {
+                "A": "often run against the current political system.",
+                "B": "can change people's political attitudes.",
+                "C": "may be a barrier to public-sector reforms.",
+                "D": "are dominant in the government."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q40",
+              "number": 40,
+              "stem": "John Donahue5s attitude towards the public-sector system is one of",
+              "options": {
+                "A": "Of course, it is precisely these superfluous things that define human culture and ultimately what it is to be human. Downloading and consuming culture requires great skills, but failing to move beyond downloading is to strip oneself of a defining constituent of humanity.",
+                "B": "Applications like , which allow users to combine pictures, words and other media in creative ways and then share them, have the potential to add stickiness by amusing, entertaming and enlightening others. tumblr.com",
+                "C": "Not only did they develop such a device but by the turn of the millennium they had also managed to embed it in a worldwide system accessed by billions of people every day.",
+                "D": "This is because the networked computer has sparked a secret war between downloading and uploading一between passive consumption and active creation一 whose outcome will shape our collective future in ways we can only begin to imagine. [E ] The challenge the computer mounts to television thus bears little similarity to one format being replaced by another in the maimer of record players being replaced by CD players. [F] One reason for the persistence of this pyramid of production is that fbr the past half-century, much of the world's media culture has been defined by a single medium—television一and television is defined by downloading. [G ] The networked computer offers the first chance in 50 years to reverse the flow, to encourage thoughtfill downloading and, even more importantly, meaningful uploading. 2012年英语（一）试题第12 页共14 页 PartC Directions: Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET 2. (10 points) Since the days of Aristotle, a search for universal principles has characterized the scientific enterprise. In some ways, this quest for commonalities defines science. Newton's laws of motion and Darwinian evolution each bind a host of different phenomena into a single explicatory framework. (46) In physics, one approach takes this impulse fbr unification to its extreme, and seeks a theory of everything—a single generative equation for all we see. It is becoming less clear, however, that such a theory would be a simplification, given the dimensions and universes that it might entail. Nonetheless, unification of sorts remains a major goal. This tendency in the natural sciences has long been evident in the social sciences too. (47) Here, Darwinism seems to ofifer justification, for if all humans share common origins, it seems reasonable to suppose that cultural diversity could also be traced to more constrained beginnings. Just as the bewildering variety of human courtship rituals might all be considered forms of sexual selection, perhaps the world5 s languages, music, social and religious customs and even histoiy are governed by universal features. (48) To filter out what is unique firom what is shared might enable us to understand how complex cultural behavior arose and what guides it inevolutionary or cognitive terms. That, at least, is the hope. But a comparative study of linguistic traits published online today supplies a reality check. Russell Gray at the University of Auckland and his colleagues consider the evolution of grammars in the light of two previous attempts to find universality in language. The most famous of these efforts was initiated by Noam Chomsky, who suggested that humans are bom with an innate language-acquisition capacity that dictates a universal grammar. A few generative rules are then sufficient to unfold the entire fundamental structure of a language, which is why children can learn it so quickly. (49) The second, by Joshua Greenberg” takes a more empirical approach to universality, identifidng traits (particularly in word order) shared by many languages, which are considered to represent biases that result fii)m cognitive constraints. Gray and his colleagues have put them to the test by examining four family trees that between them represent more than 2,000 languages. (50) Chomsky's grammar should show patterns of language change that are independent of the family tree or the pathway tracked through it- whereas Greenbergian universality predicts strong c o dependencies between particular types of word-order relations. Neither of these patterns is borne out by the analysis, suggesting that the structures of the languages are lineage­ specific and not governed by universals. 2012年英语（一）试题第13 页共14 页"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing-1",
+      "type": "writing",
+      "title": "Section III Part A · Writing",
+      "minutes": 20,
+      "directions": "51. Directions:\nSome international students are coming to your university. Write them an email in\nthe name of the Students' Union to\n1) extend your welcome and\n2) provide some suggestions for their campus life here.\nYou should write about 100 words on ANSWER SHEET 2.\nDo not sign your own name at the end of the letter. Use “Li Ming?? instead.\nDo not write the address. (10 points)\nPartB\n52. Directions：\nWrite an essay of 160-200 words based on the following drawing. In your essay\nyou should\n1) describe the drawing briefly,\n2) explain its intended meaning, and\n3) give your comments.\nYou should write neatly on ANSWER SHEET 2. (20 points)\n2012年英语（一）试题第14页共14页",
+      "prompt": ""
+    },
+    {
+      "id": "writing-2",
+      "type": "writing",
+      "title": "Section III Part B · Writing",
+      "minutes": 40,
+      "directions": "",
+      "prompt": ""
+    }
+  ]
+}

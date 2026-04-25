@@ -464,11 +464,220 @@ def parse_cet6_paper(text: str, slug: str) -> dict:
     }
 
 
+# ============================================================
+# KY1 (考研英语一)
+# ============================================================
+
+SECTION_MARK_RE = re.compile(r"^\s*(Section\s+[IVX]+|Part\s+[ABC])\s*$", re.M)
+
+
+def slice_between(text: str, start_pat: str, end_pat: str | None = None) -> str:
+    start = re.search(start_pat, text, re.M | re.I)
+    if not start:
+        return ""
+    if end_pat:
+        end = re.search(end_pat, text[start.end():], re.M | re.I)
+        if end:
+            return text[start.end():start.end() + end.start()].strip()
+    return text[start.end():].strip()
+
+
+def parse_option_rows(block: str, numbers: range) -> dict:
+    """处理 [A]/[B] 按列 OCR 的选项列表。"""
+    opts = {n: {} for n in numbers}
+    counters = {letter: 0 for letter in "ABCD"}
+    current_number = None
+    current_letter = None
+    for raw_line in block.splitlines():
+        line = raw_line.strip()
+        if not line:
+            continue
+        m = re.match(r"^(?:(\d{1,2})\s*[.．、])?\s*\[\s*([A-D])\s*\]\s*(.+)$", line)
+        if m:
+            number_s, letter, value = m.groups()
+            if number_s:
+                number = int(number_s)
+                counters[letter] = list(numbers).index(number) + 1 if number in numbers else counters[letter] + 1
+            else:
+                counters[letter] += 1
+                number = list(numbers)[counters[letter] - 1] if counters[letter] <= len(list(numbers)) else None
+            if number in opts:
+                opts[number][letter] = value.strip()
+                current_number = number
+                current_letter = letter
+            continue
+        if current_number in opts and current_letter:
+            opts[current_number][current_letter] = (opts[current_number][current_letter] + " " + line).strip()
+    return opts
+
+
+def parse_ky_cloze(block: str) -> dict:
+    opt_start = re.search(r"^\s*1\s*[.．、]?\s*\[\s*A\s*\]", block, re.M)
+    passage = block[:opt_start.start()].strip() if opt_start else block.strip()
+    option_block = block[opt_start.start():] if opt_start else ""
+    options = parse_option_rows(option_block, range(1, 21))
+    questions = []
+    for n in range(1, 21):
+        questions.append({
+            "id": f"q{n}",
+            "number": n,
+            "stem": f"Blank {n}",
+            "options": {k: options.get(n, {}).get(k, "") for k in "ABCD"},
+            "answer": None,
+            "explanation": "",
+        })
+    return {
+        "id": "cloze",
+        "type": "reading-mcq",
+        "title": "Section I · Use of English",
+        "minutes": 15,
+        "passages": [{"label": "Use of English", "text": passage, "questions": questions}],
+    }
+
+
+def parse_ky_reading_part_a(block: str) -> dict:
+    passages = []
+    matches = list(re.finditer(r"^\s*Text\s+([1-4])\s*$", block, re.M))
+    for idx, m in enumerate(matches):
+        label = f"Text {m.group(1)}"
+        start = m.end()
+        end = matches[idx + 1].start() if idx + 1 < len(matches) else len(block)
+        text_block = block[start:end].strip()
+        q_start = re.search(r"^\s*(\d{2})\s*[.．、]", text_block, re.M)
+        passage_text = text_block[:q_start.start()].strip() if q_start else text_block
+        q_block = text_block[q_start.start():] if q_start else ""
+        question_matches = list(re.finditer(r"(?ms)^\s*(\d{2})\s*[.．、]\s*(.*?)(?=^\s*\d{2}\s*[.．、]|\Z)", q_block))
+        questions = []
+        for qm in question_matches:
+            number = int(qm.group(1))
+            body = qm.group(2).strip()
+            opt_start = re.search(r"^\s*\[\s*A\s*\]", body, re.M)
+            stem = body[:opt_start.start()].strip() if opt_start else body
+            opts = {}
+            for om in re.finditer(r"(?ms)^\s*\[\s*([A-D])\s*\]\s*(.*?)(?=^\s*\[\s*[A-D]\s*\]|\Z)", body[opt_start.start():] if opt_start else ""):
+                opts[om.group(1)] = re.sub(r"\s+", " ", om.group(2)).strip()
+            if 21 <= number <= 40:
+                questions.append({
+                    "id": f"q{number}",
+                    "number": number,
+                    "stem": re.sub(r"\s+", " ", stem),
+                    "options": {k: opts.get(k, "") for k in "ABCD"},
+                    "answer": None,
+                    "explanation": "",
+                })
+        passages.append({"label": label, "text": passage_text, "questions": questions})
+    return {
+        "id": "reading-mcq",
+        "type": "reading-mcq",
+        "title": "Section II Part A · Reading Comprehension",
+        "minutes": 70,
+        "passages": passages,
+    }
+
+
+def parse_ky_part_b(block: str) -> dict:
+    labels = {}
+    option_start = re.search(r"^\s*\[\s*A\s*\]", block, re.M)
+    body = block[:option_start.start()].strip() if option_start else block.strip()
+    option_block = block[option_start.start():] if option_start else ""
+    for om in re.finditer(r"(?ms)^\s*\[\s*([A-G])\s*\]\s*(.*?)(?=^\s*\[\s*[A-G]\s*\]|\Z)", option_block):
+        labels[om.group(1)] = re.sub(r"\s+", " ", om.group(2)).strip()
+
+    q_matches = list(re.finditer(r"(?ms)^\s*\((4[1-5])\)\s*([A-Za-z][^\n]*)\n(.*?)(?=^\s*\(4[1-5]\)|\Z)", body))
+    questions = []
+    paragraphs = []
+    for qm in q_matches:
+        number = int(qm.group(1))
+        name = qm.group(2).strip()
+        text = qm.group(3).strip()
+        paragraphs.append({"label": str(number), "text": f"{name}\n{text}"})
+        questions.append({"id": f"q{number}", "number": number, "stem": name, "answer": None, "explanation": ""})
+    return {
+        "id": "new-question",
+        "type": "matching",
+        "title": "Section II Part B · New Question Type",
+        "minutes": 15,
+        "paragraphs": [{"label": k, "text": v} for k, v in sorted(labels.items())] or paragraphs,
+        "questions": questions,
+    }
+
+
+def parse_ky_translation(block: str) -> dict:
+    return {
+        "id": "translation",
+        "type": "translation",
+        "title": "Section II Part C · Translation",
+        "minutes": 20,
+        "targetLanguage": "zh",
+        "directions": "Translate the underlined segments into Chinese.",
+        "source": block.strip(),
+    }
+
+
+def parse_ky_writing(block: str) -> list:
+    part_a = slice_between(block, r"^\s*Part\s+A\s*$", r"^\s*Part\s+B\s*$")
+    part_b = slice_between(block, r"^\s*Part\s+B\s*$")
+    return [
+        {
+            "id": "writing-1",
+            "type": "writing",
+            "title": "Section III Part A · Writing",
+            "minutes": 20,
+            "directions": part_a.strip(),
+            "prompt": "",
+        },
+        {
+            "id": "writing-2",
+            "type": "writing",
+            "title": "Section III Part B · Writing",
+            "minutes": 40,
+            "directions": part_b.strip(),
+            "prompt": "",
+        },
+    ]
+
+
+def parse_ky1_paper(text: str, slug: str) -> dict:
+    cleaned = clean_text(text)
+    cloze = slice_between(cleaned, r"^\s*Section\s+I\b.*$", r"^\s*Section\s+II\b.*$")
+    reading_all = slice_between(cleaned, r"^\s*Section\s+II\b.*$", r"^\s*Section\s+III\b.*$")
+    part_a = slice_between(reading_all, r"^\s*Part\s+A\s*$", r"^\s*Part\s+B\s*$")
+    part_b = slice_between(reading_all, r"^\s*Part\s+B\s*$", r"^\s*Part\s+C\s*$")
+    part_c = slice_between(reading_all, r"^\s*Part\s+C\s*$")
+    writing = slice_between(cleaned, r"^\s*Section\s+III\b.*$")
+
+    year = int(slug) if slug.isdigit() else 0
+    sections = []
+    if cloze:
+        sections.append(parse_ky_cloze(cloze))
+    if part_a:
+        sections.append(parse_ky_reading_part_a(part_a))
+    if part_b:
+        sections.append(parse_ky_part_b(part_b))
+    if part_c:
+        sections.append(parse_ky_translation(part_c))
+    if writing:
+        sections.extend(parse_ky_writing(writing))
+
+    return {
+        "id": f"ky1-{slug}",
+        "type": "ky1",
+        "year": year,
+        "month": 12,
+        "set": 1,
+        "title": f"{year}年考研英语一真题",
+        "sections": sections,
+    }
+
+
 def find_paper_text(slug_dir: Path, slug: str = "") -> Optional[Path]:
     """slug 目录下挑一个 paper_*.txt。优先选文件名匹配 slug 年/月的,再挑最大的。"""
     candidates = sorted(slug_dir.glob("paper_*.txt"), key=lambda p: p.stat().st_size, reverse=True)
     if not candidates:
         return None
+    searchable = [p for p in candidates if "可复制搜索查词" in p.name]
+    if searchable:
+        return searchable[0]
     parts = slug.split("-")
     if len(parts) >= 2 and parts[0].isdigit() and parts[1].isdigit():
         year, month = parts[0], parts[1]
@@ -497,6 +706,8 @@ def parse_one(type_: str, slug: str, debug: bool = False) -> dict:
 
     if type_ == "cet6":
         result = parse_cet6_paper(text, slug)
+    elif type_ == "ky1":
+        result = parse_ky1_paper(text, slug)
     else:
         raise NotImplementedError(f"暂未支持类型:{type_}")
 
@@ -530,6 +741,8 @@ def main():
     if args.all:
         type_dir = RAW_BASE / args.type
         slugs = [p.name for p in sorted(type_dir.iterdir()) if p.is_dir()]
+        if args.type == "ky1":
+            slugs = [s for s in slugs if s.isdigit()]
         report = {"ok": [], "fail": []}
         for slug in slugs:
             try:

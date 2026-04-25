@@ -1,0 +1,674 @@
+{
+  "id": "ky1-2024",
+  "type": "ky1",
+  "year": 2024,
+  "month": 12,
+  "set": 1,
+  "title": "2024年考研英语一真题",
+  "sections": [
+    {
+      "id": "cloze",
+      "type": "reading-mcq",
+      "title": "Section I · Use of English",
+      "minutes": 15,
+      "passages": [
+        {
+          "label": "Use of English",
+          "text": "Directions:\nRead the following text. Choose the best word(s) for each numbered blank and mark A,\nB,C or D on the ANSWER SHEET.(10 points)\nThere's nothing more welcoming than a door opening for you.\n1 the need to\nbe touched to open or close, automatic doors are essential in.\n2 disabled access to\nbuildings and helping provide general.\n3 to commercial buildings.\nSelf-sliding doors began to emerge as a commercial product in 1960 after being\ninvented six years. 4 by Americans Dee Horton and Lew Hewitt. They.\n5 as\na novelty feature, but as their use has grown, their 6 have extended within our\ntechnologically advanced world. Particularly.\n7  in busy locations or during times\nof emergency, the doors.\n8  crowd management by reducing the obstacles put in\npeople's way.\n9 making access both in and out of buildings easier for people, the difference\nin the way many of these doors open helps reduce the total area .\n10  by them.\nAutomatic doors often open to the side, with the panels sliding across one another.\nReplacing swing doors, these\n11 smaller buildings to maximise the usable space\ninside without having to12 the way for a large, sticking-out door. There are many\ndifferent types of automatic door, with each13 specific signals to tell them when to\nopen.14 these methods differ, the main.\n15remain the same.\nEach automatic door system.\n16  the light, sound, weight or movement in\ntheir vicinity as a signal to open. Sensor types are chosen to.\n17  the different\nenvironments they are needed in.\n\n, a busy street might not.\n\n a motion-\nsensored door, as it would constantly be opening for passers-by. A pressure-sensitive\nmat would be more 20  to limit the surveyed area.\n2024-2",
+          "questions": [
+            {
+              "id": "q1",
+              "number": 1,
+              "stem": "Blank 1",
+              "options": {
+                "A": "Through",
+                "B": "Despite",
+                "C": "Besides",
+                "D": "Without"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "stem": "Blank 2",
+              "options": {
+                "A": "revealing",
+                "B": "demanding",
+                "C": "improving",
+                "D": "tracing"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "stem": "Blank 3",
+              "options": {
+                "A": "experience",
+                "B": "convenience",
+                "C": "guidance",
+                "D": "reference"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "stem": "Blank 4",
+              "options": {
+                "A": "previously",
+                "B": "temporarily",
+                "C": "successively",
+                "D": "eventually"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q5",
+              "number": 5,
+              "stem": "Blank 5",
+              "options": {
+                "A": "held on",
+                "B": "started out",
+                "C": "settled down",
+                "D": "went by"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q6",
+              "number": 6,
+              "stem": "Blank 6",
+              "options": {
+                "A": "relations",
+                "B": "volumes",
+                "C": "benefits",
+                "D": "sources"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q7",
+              "number": 7,
+              "stem": "Blank 7",
+              "options": {
+                "A": "useful",
+                "B": "simple",
+                "C": "flexible",
+                "D": "stable"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q8",
+              "number": 8,
+              "stem": "Blank 8",
+              "options": {
+                "A": "call for",
+                "B": "yield to",
+                "C": "insist on",
+                "D": "act as"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q9",
+              "number": 9,
+              "stem": "Blank 9",
+              "options": {
+                "A": "As well as",
+                "B": "In terms of",
+                "C": "Thanks to",
+                "D": "Rather than"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q10",
+              "number": 10,
+              "stem": "Blank 10",
+              "options": {
+                "A": "connected",
+                "B": "shared",
+                "C": "represented",
+                "D": "occupied"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q11",
+              "number": 11,
+              "stem": "Blank 11",
+              "options": {
+                "A": "allow",
+                "B": "expect",
+                "C": "require",
+                "D": "direct"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q12",
+              "number": 12,
+              "stem": "Blank 12",
+              "options": {
+                "A": "adopt",
+                "B": "lead",
+                "C": "clear",
+                "D": "change"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q13",
+              "number": 13,
+              "stem": "Blank 13",
+              "options": {
+                "A": "adapting to",
+                "B": "deriving from",
+                "C": "relying on",
+                "D": "pointing at"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q14",
+              "number": 14,
+              "stem": "Blank 14",
+              "options": {
+                "A": "Once",
+                "B": "Since",
+                "C": "Unless",
+                "D": "Although"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q15",
+              "number": 15,
+              "stem": "Blank 15",
+              "options": {
+                "A": "records",
+                "B": "positions",
+                "C": "principles",
+                "D": "reasons"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q16",
+              "number": 16,
+              "stem": "Blank 16",
+              "options": {
+                "A": "controls",
+                "B": "analyses",
+                "C": "produces",
+                "D": "mixes"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q17",
+              "number": 17,
+              "stem": "Blank 17",
+              "options": {
+                "A": "decorate",
+                "B": "compare",
+                "C": "protect",
+                "D": "complement"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q18",
+              "number": 18,
+              "stem": "Blank 18",
+              "options": {
+                "A": "In conclusion",
+                "B": "By contrast",
+                "C": "For example",
+                "D": "Above all"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q19",
+              "number": 19,
+              "stem": "Blank 19",
+              "options": {
+                "A": "identify",
+                "B": "suit",
+                "C": "secure",
+                "D": "include"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q20",
+              "number": 20,
+              "stem": "Blank 20",
+              "options": {
+                "A": "appropriate",
+                "B": "obvious",
+                "C": "impressive",
+                "D": "delicate"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section II Part A · Reading Comprehension",
+      "minutes": 70,
+      "passages": [
+        {
+          "label": "Text 1",
+          "text": "Nearly 2,000 years ago, as the Romans began to pull out of Scotland, they left\nbehind a curious treasure: 10 tons of nails, nearly a million of the things. The nail\nhoard was discovered in 1960 in a four-metre-deep pit covered by two metres of\ngravel.\nWhy had the Romans buried a million nails? The likely explanation is that the\nwithdrawal was rushed, and they didn't want the local Caledonians getting their hands\non 10 tons of weapon-grade iron. The Romans buried the nails so deep that they would\nnot be discovered for almost two millennia.\nLater civilisations would value the skilled blacksmith's labour in a nail even more\nthan the raw material. As Roma Agrawal explains in her new delightful book Nuts and\nBolts, early 17th-century Virginians would sometimes burn down their homes if they\nwere planning to relocate. This was an attempt to recover the valuable nails, which\ncould be reused after sifting the ashes. The idea that one might burn down an entire\nhouse just to reclaim the nails underlines how scarce, costly and valuable the simple-\nseeming technology was.\nThe price of nails fell by 90etween the late 1700s and mid-1900s, as economist\nDaniel Sichel points out in a research paper. According to Sichel, although the falling\nprice of nails was driven partly by cheaper iron and cheaper energy, most of the credit\ngoes to nail manufacturers who simply found more efficient ways to turn steel into\nnails.\nNails themselves have changed over the years, but Sichel studied them because\nthey haven't changed much. Roman lamps and Roman chariots are very different\nfrom LED strips and sports cars, but Roman nails are still clearly nails. It would be\nabsurd to try to track the changing price of sports cars since 1695, but to ask the same\nquestion of nails makes perfect sense.\nI make no apology for being obsessed by a particular feature of everyday objects:\ntheir price.I am an economist, after all. After writing two books about the history\nof inventions, one thing I've learnt is that while it is the enchantingly sophisticated\ntechnologies that get all the hype, it's the cheap technologies that change the world.\nThe Gutenberg printing press transformed civilisation not by changing the nature\nof writing but by changing its cost—and it would have achieved little without a\nparallel collapse in the price of surfaces to write on, thanks to an often-overlooked\ntechnology called paper. Solar panels had a few niche uses until they became cheap;\nnow they are transforming the global energy system.\n2024-4",
+          "questions": [
+            {
+              "id": "q21",
+              "number": 21,
+              "stem": "The Romans buried the nails probably for the sake of.",
+              "options": {
+                "A": "saving them for future use",
+                "B": "kecping them from rusting",
+                "C": "letting them grow in value",
+                "D": "hiding them from the locals"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q22",
+              "number": 22,
+              "stem": "The example of early 17th-century Virginians is used to.",
+              "options": {
+                "A": "highlight the thriftiness of early American colonists",
+                "B": "illustrate the high status of blacksmiths in that period",
+                "C": "contrast the attitudes of different civilisations towards nails",
+                "D": "show the preciousness of nail-making technology at that time"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q23",
+              "number": 23,
+              "stem": "What played the major role in lowering the price of nails after the late 1700s?",
+              "options": {
+                "A": "Increased productivity.",
+                "B": "Wider use of new energies.",
+                "C": "Fiercer market competition.",
+                "D": "Reduced cost of raw materials."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q24",
+              "number": 24,
+              "stem": "It can be learmed from Paragraph 5 that nails",
+              "options": {
+                "A": "have undergone many technological improvements",
+                "B": "have remained basically the same since Roman times",
+                "C": "are less studied than other everyday products",
+                "D": "are one of the world's most significant inventions"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q25",
+              "number": 25,
+              "stem": "Which of the following best summarises the last two paragraphs?",
+              "options": {
+                "A": "Cheap technologies bring about revolutionary change.",
+                "B": "Technological innovation is integral to economic success.",
+                "C": "Technology defines people's understanding of the world.",
+                "D": "Sophisticated technologies develop from small inventions. 2024-5"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Text 2",
+          "text": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing\nup more contented children, researchers have suggested. The idea is based on studies\nof communities such as the Kung of Botswana, where each child is cared for by many\nadults. Kung children as young as four will help to look after younger ones and \"baby-\nwearing\", in which infants are carried in slings, is considered the norm.\nAccording to Dr Nikhil Chaudhary, an evolutionary anthropologist at Cambridge\nUniversity, these practices, known as alloparenting, could lead to less anxiety for\nchildren and parents.\nDr Annie Swanepoel, a child psychiatrist, believes that there are ways to\nincorporate them into western life. In Germany, one scheme has paired an old people's\nhome with a nursery. The residents help to look after the children, an arrangement akin\nto alloparenting. Another measure could be encouraging friendships between children\nin diferent school years to mirror the unsupervised mixed-age playgroups in hunter-\ngatherer communities.\nIn a paper published in the Journal of Child Psychology and Psychiatry,\nresearchers said that the western nuclear family was a recent invention which broke\nwith evolutionary history. This abrupt shift to an\"intensive mothering narrative\",\nwhich suggests that mothers should manage childcare alone, was likely to have\nbeen harmful.“Such narratives can lead to maternal exhaustion and have dangerous\nconsequences,” they wrote.\nBy contrast, in hunter-gatherer societies adults other than the parents can provide\nalmost half of a child's care. One previous study looked at the Efé people of the\nDemocratic Republic of Congo. It found that infants had an average of 14 alloparents\na day by the time they were 18 weeks old and were passed between caregivers eight\ntimes an hour.\nChaudhary said that parents now had less childcare support from family and social\nnetworks than during most of humans'evolutionary history, but introducing additional\ncaregivers could reduce stress and maternal depression, which could have a“knock-on”\nbenefit to a child's wellbeing. An infant born to a hunter-gatherer society could have\nmore than ten caregivers—this contrasts starkly to nursery settings in the UK where\nregulations call for a ratio of one carer to four children aged two to three.\nWhile hunter-gatherer children learnt from observation and imitation in mixed-\nage playgroups, researchers said that western \"instructive teaching\", where pupils are\nasked to sit still, may contribute to conditions such as attention deficit hyperactivity\ndisorder. Chaudhary said that Britain should explore the possibility that older siblings\nhelping their parents \"might also enhance their own social development\".\n2024-6",
+          "questions": [
+            {
+              "id": "q26",
+              "number": 26,
+              "stem": "According to the first two paragraphs, alloparenting refers to the practice of",
+              "options": {
+                "A": "sharing childcare among community members",
+                "B": "assigning babies to specific adult caregivers",
+                "C": "teaching parenting skills to older children",
+                "D": "carrying infants around by their parents"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q27",
+              "number": 27,
+              "stem": "The scheme in Germany is mentioned to illustrate.",
+              "options": {
+                "A": "an attempt to facilitate intergenerational communication",
+                "B": "an approach to integrating alloparenting into western society",
+                "C": "the conventional parenting style in western culture",
+                "D": "the differences between western and African ways of living"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q28",
+              "number": 28,
+              "stem": "According to Paragraph 4, the \"intensive mothering narrative\".",
+              "options": {
+                "A": "alleviates parenting pressures",
+                "B": "consolidates family relationships",
+                "C": "results in the child-centred family",
+                "D": "departs from the course of evolution"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q29",
+              "number": 29,
+              "stem": "What can be inferred about the nurseries in the UK?",
+              "options": {
+                "A": "They tend to fall short of official requirements.",
+                "B": "They have difficulty finding enough caregivers.",
+                "C": "They ought to improve their carer-to-child ratio.",
+                "D": "They should try to prevent parental depression."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q30",
+              "number": 30,
+              "stem": "Which of the following would be the best title for the text?",
+              "options": {
+                "A": "Instructive teaching: a dilemma for anxious parents",
+                "B": "For a happier family, learn from the hunter-gatherers",
+                "C": "Mixed-age playgroup, a better choice for lonely children",
+                "D": "Tracing the history of parenting: from Africa to Europe 2024-7"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Text 3",
+          "text": "A Polish digital artist who uses classical painting styles to create dreamy fantasy\nlandscapes, Greg Rutkowski has made illustrations for games such as Dungeons &\nDragons and Magic: The Gathering. And he's become a sudden hit in the new world of\ntext-to-image AI generation.\nHis distinctive style is now one of the most commonly used prompts in the new\nopen-source AI art generator Stable Diffusion. The tool, along with other popular\nimage-generation Al models, allows anyone to create impressive images based on text\nprompts.For example, type in\"Wizard with sword and a glowing orb of magic fire\nfights a fierce dragon Greg Rutkowski,” and the system will produce something that\nlooks not a million miles away from works in Rutkowski's style.\nBut these open-source programs are built by scraping images from the Internet,\noften without permission and proper attribution to artists. As a result, they are raising\ntricky questions about ethics and copyright. And artists like Rutkowski have had\nenough.\nAccording to the website Lexica, which tracks over 10 million Stable Diffusion\nimages and prompts, Rutkowski's name has been used as a prompt around 93,000\ntimes. Rutkowski was initially surprised but thought it might be a good way to reach\nnew audiences. Then he tried searching for his name to see if a piece he had worked on\nhad been published. The online search brought back work that had his name attached\nto it but wasn't his.\n“It's been just a month. What about in a year? I probably won't be able to find\nmy work out there because the Internet will be flooded with Al art,\" Rutkowski said.\n“That's concerning.”\nOther artists besides Rutkowski have been surprised by the apparent popularity of\ntheir work in text-to-image generators—and some are now fighting back.\nKarla Ortiz, an illustrator based in San Francisco who found her work in Stable\nDiffusion's data set, has been raising awareness about the issues around Al art and\ncopyright. Artists say they risk losing income as people start using AI-generated\nimages based on copyrighted material for commercial purposes. But it's also a lot\nmore personal, Ortiz says, arguing that because art is so closely linked to a person, it\ncould raise data protection and privacy problems.\n“There is a coalition growing within artist industries to figure out how to tackle or\nmitigate this,” says Ortiz. The group is in its early days of mobilization, which could\ninvolve pushing for new policies or regulation. One suggestion is that Al models could\nbe trained on images in the public domain, and AI companies could forge partnerships\nwith museums and artists, Ortiz says.\n2024-8",
+          "questions": [
+            {
+              "id": "q31",
+              "number": 31,
+              "stem": "What can be learned about Rutkowski from the first two paragraphs?",
+              "options": {
+                "A": "He is enthusiastic about using AI models.",
+                "B": "He is popular with users of an AI art generator.",
+                "C": "He attracts admiration from other illustrators.",
+                "D": "He specializes in classical painting digitalization."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q32",
+              "number": 32,
+              "stem": "The problem with open-source AI art generators is that they.",
+              "options": {
+                "A": "lack flexibility in responding to prompts",
+                "B": "produce artworks in unpredictable styles",
+                "C": "make unauthorized use of online images",
+                "D": "collect user information without consent"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q33",
+              "number": 33,
+              "stem": "After searching online, Rutkowski found",
+              "options": {
+                "A": "a unique way to reach audiences",
+                "B": "a new method to identify AI images",
+                "C": "AI-generated work bearing his name",
+                "D": "heated disputes regarding his copyright"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q34",
+              "number": 34,
+              "stem": "According to Ortiz,AI companies are advised to.",
+              "options": {
+                "A": "campaign for new policies or regulation",
+                "B": "offer their services to public institutions",
+                "C": "strengthen their relationships with AI users",
+                "D": "adopt a different strategy for AI model training"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q35",
+              "number": 35,
+              "stem": "What is the text mainly about?",
+              "options": {
+                "A": "Artists' responses to AI art generation.",
+                "B": "AI's expanded role in artistic creation.",
+                "C": "Privacy issues in the application of AI.",
+                "D": "Opposing views on AI development. 2024-9"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Text 4",
+          "text": "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity\nof its natural construction, the interaction of fresh and saline waters, and the mix of\nland and water. The shallows provide homes for hundreds of species while storing\nfloodwaters, filtering pollutants from water, and protecting nearby communities from\npotentially destructive storm surges.\nAll this was put at great risk late last month, when the U.S. Supreme Court issued\na ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA)\nfar less authority to regulate wetlands and waterways. Specifically, a 5-4 majority\ndecided that wetlands protected by the EPA under its Clean Water Act authority\nmust have a“continuous surface connection”to bodies of water. This narrowing\nof the regulatory scope was a victory for builders, mining operators and other\ncommercial interests often at odds with environmental rules. And it carries“significant\nrepercussions for water quality and flood control throughout the United States,\" as\nJustice Brett Kavanaugh observed.\nIn Maryland, the good news is that there are many state laws in place that provide\nwetlands protections. But that's a very shortsighted view, particularly when it comes\nto the Chesapeake Bay. The reality is that water, and the pollutants that so often come\nwith it, don't respect state boundaries. The Chesapeake draws from a 64,000-square-\nmile watershed that extends into Virginia, Pennsylvania, New York, West Virginia,\nthe District of Columbia and Delaware. Will those jurisdictions extend the same\nprotections now denied under Sackett v.EPA? Perhaps some, but all? That seems\nunlikely,\nIt is too easy, and misleading, to see such court rulings as merely standing up for\nthe rights of land owners when the consequences can be so dire for their neighbors.\nAnd it's a reminder that the EPA's involvement in the Chesapeake Bay Program has\nlong been crucial as the means to transcend the influence of deep-pocketed special\ninterests in neighboring states. Pennsylvania farmers, to use one telling example,\naren't thinking about next year's blue crab harvest in Maryland when they decide\nwhether to spread animal waste on their fields, yet the runoff into nearby creeks can\nhave enormous impact downstream.\nAnd so we would call on state lawmakers from Richmond to Albany to consider\nreviewing their own wetlands protections and see for themselves the enormous\nstakes involved. We can offer them a visit to Blackwater National Wildlife Refuge in\nDorchester County where bald eagles fly over tidal marshes so shallow you could not\npaddle a boat across them but teaming with aquatic life. It's worth the scenic drive.\n2024-10",
+          "questions": [
+            {
+              "id": "q36",
+              "number": 36,
+              "stem": "The Chesapeake Bay is described in Paragraph 1 as",
+              "options": {
+                "A": "a valuable natural environment _·",
+                "B": "a controversial conservation area",
+                "C": "a place with commercial potential",
+                "D": "a headache for nearby communities"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q37",
+              "number": 37,
+              "stem": "The U.S.Supreme Court's ruling in the ldaho case",
+              "options": {
+                "A": "reinforces water pollution control",
+                "B": "weakens the EPA's regulatory power",
+                "C": "will end conflicts among local residents",
+                "D": "may face opposition from mining operators"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q38",
+              "number": 38,
+              "stem": "How does the author feel about the future of the Chesapeake Bay?",
+              "options": {
+                "A": "Worried.",
+                "B": "Puzzled.",
+                "C": "Relieved.",
+                "D": "Encouraged."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q39",
+              "number": 39,
+              "stem": "What can be inferred about the EPA's involvement in the Chesapeake Bay Program?",
+              "options": {
+                "A": "It has restored the balance among neighboring jurisdictions.",
+                "B": "It has triggered a radical reform in commercial fisheries.",
+                "C": "It has set a fine example of respecting state authorities.",
+                "D": "It has ensured the coordination of protection efforts."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q40",
+              "number": 40,
+              "stem": "The author holds that the state lawmakers should",
+              "options": {
+                "A": "be cautious about the influence of land owners",
+                "B": "attach due importance to wetlands protections",
+                "C": "recognize the need to expand wildlife refuges",
+                "D": "improve the wellbeing of endangered species 2024-11"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "new-question",
+      "type": "matching",
+      "title": "Section II Part B · New Question Type",
+      "minutes": 15,
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "It is clear that the countries of origin have never been compensated for the stolen artifacts."
+        },
+        {
+          "label": "B",
+          "text": "It is a flawed line of reasoning to argue against returning artifacts to their countries of origin."
+        },
+        {
+          "label": "C",
+          "text": "Museum visitors can still learn as much from artifacts' copies after the originals are returned."
+        },
+        {
+          "label": "D",
+          "text": "Reproductions, even if perfectly made, cannot take the place of the authentic objects."
+        },
+        {
+          "label": "E",
+          "text": "The real value of artifacts can only be recognized in their countries of origin rather than anywhere else."
+        },
+        {
+          "label": "F",
+          "text": "Ways to get artifacts from other countries must be decent and lawful."
+        },
+        {
+          "label": "G",
+          "text": "Concern over security is no excuse for refusing to return artifacts to their countries of origin. 2024-13"
+        }
+      ],
+      "questions": [
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Hannah",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Buck",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Sara",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Victor",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Julia",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Section II Part C · Translation",
+      "minutes": 20,
+      "targetLanguage": "zh",
+      "directions": "Translate the underlined segments into Chinese.",
+      "source": "Directions:\nRead the following text carefully and then translate the underlined segments into\nChinese. Write your answers on the ANSWER SHEET. (10 points)\n“Elephants never forget”—or so they say—and that piece of folklore seems to\nhave some foundation.\nThe African savanna elephant, also known as the African bush elephant, is\ndistributed across 37 African countries. They move between a variety of habitats,\nincluding forests, grasslands, woodlands, wetlands and agricultural land. (46) They\nsometimes travel more than sixty miles to find food or water, and are very good\nat working out where other elephants are—even when they are out of sight. Using\ntracking devices, researchers have shown that they have“remarkable spatial acuity.”\nWhen finding their way to waterholes, they headed off in exactly the right direction,\non one occasion from a distance of roughly thirty miles. What is more, they almost\nalways seem to choose the nearest waterhole.(47) The researchers are convinced that\nthe elephants always know precisely where they are in relation to all the resources\nthey need, and can therefore take shortcuts, as well as following familiar routes.\nAlthough the cues used by African elephants for long-distance navigation are not\nyet understood, smell may well play a part.\nElephants are very choosy eaters, but until recently little was known about how\nthey selected their food. (48) One possibility was that they merely used their eyes and\ntried out the plants they found, but that would probably result in a lot of wasted time\nand energy, not least because their eyesight is actually not very good.\n(49)The volatile chemicals produced by plants can be carried a long way, and\nthey are very characteristic: Each plant or tree has its own particular odor signature.\nWhat is more, they can be detected even when they are not actually visible. New\nresearch suggests that smell is a crucial factor in guiding elephants—and probably\nother herbivores—to the best food resources.\nThe researchers first established what kinds of plant the elephants preferred either\nto eat or avoid when foraging freely. They then set up a\"food station\" experiment,\nin which they gave the elephants a series of choices based only on smell. (50) The\nexperiment showed that elephants may well use smell to identify patches of trees that\nare good to eat, and secondly to assess the quality of the trees within each patch. Free-\nranging elephants presumably also use this information to locate their preferred food.\nTheir well-developed hippocampal structures may enable elephants, like rats and\npeople, to construct cognitive maps.\n2024-14"
+    },
+    {
+      "id": "writing-1",
+      "type": "writing",
+      "title": "Section III Part A · Writing",
+      "minutes": 20,
+      "directions": "51. Directions:\nRead the following email from an international student and write a reply.\nDear Li Ming,\nI've got a class assignment to make an oral report on an ancient Chinese\nscientist, but I'm not sure how to prepare for it. Can you give me some\nadvice? Thank you for your help.\nYours,\nPaul\nWrite your answer in about 100 words on the ANSWER SHEET.\nDo not use your own name in your email; use\"Li Ming\" instead.(10 points)",
+      "prompt": ""
+    },
+    {
+      "id": "writing-2",
+      "type": "writing",
+      "title": "Section III Part B · Writing",
+      "minutes": 40,
+      "directions": "52.Directions;\nWrite an essay based on the picture and the chart below. In your essay, you\nshould\n1)describe the picture and the chart briefly,\n2) interpret the implied meaning, and\n3) give your comments.\nWrite your answer in 160-200 words on the ANSWER SHEET. (20 points)\n市民健身区\nP\n某市近三年公园数量\n(单位：座)\n\n家门\n新建的小公\n真不错!\n\n2020年\n2021年\n2022年\n2024-15",
+      "prompt": ""
+    }
+  ]
+}

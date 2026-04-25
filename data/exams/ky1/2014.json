@@ -1,0 +1,300 @@
+{
+  "id": "ky1-2014",
+  "type": "ky1",
+  "year": 2014,
+  "month": 12,
+  "set": 1,
+  "title": "2014年考研英语一真题",
+  "sections": [
+    {
+      "id": "cloze",
+      "type": "reading-mcq",
+      "title": "Section I · Use of English",
+      "minutes": 15,
+      "passages": [
+        {
+          "label": "Use of English",
+          "text": "Use of English \nDirections: \nRead the following text. Choose the best word(s) for each numbered blank and \nmark A, B, C or D on the ANSWER SHEET. (10 points) \nAs many people hit middle age, they often start to notice that their memory \nand mental clarity are not what they used to be. We suddenly can't remember \n\nwe put the keys just a moment ago, or an old acquaintance's name, or the \nname of an old band we used to love. As the brain \n\nwe refer to these \noccurrences as \"senior moments.\" \n\nseemingly innocent, this loss of mental \nfocus can potentially have a(n) \n\nimpact on our professional, social, and \npersonal \n\nNeuroscientists, experts who study the nervous system, are increasingly \nshowing that there's actually a lot that can be done. It \n\nout that the brain \nneeds exercise in much the same way our muscles do, and the right mental \n\ncan significantly improve our basic cognitive \n\n. Thinking is \nessentially a \n\nof making connections in the brain. To a certain extent, our \nability to \n\nin making the connections that drive intelligence is inherited. \n\nbecause these connections are made through effort and practice, \nscientists believe that intelligence can expand and fluctuate \n\nmental \neffort. \nNow, a new Web-based company has taken it a step \n\nand \ndeveloped the first \"brain training program\" designed to actually help people \nimprove and regain their mental \n\nThe Web-based program \n\nyou to systematically improve your \nmemory and attention skills. The program keeps \n\nof your progress and \nprovides detailed feedback \n1 7 \nyour performance and improvement. Most \nimportantly, it \n\nmodifies and enhances the games you play to \n\non \nthe strengths you are developing - much like a(n) \n\nexercise routine \nrequires you to increase resistance and vary your muscle use. \n** ( - ) ij\\;;¥! \n.1. \n( \f 14 Yi) \n\n1. [AJ that\n[BJ when \n[CJ why \n[DJ where \n2. [AJ fades\n[BJ improves \n[CJ collapses \n[DJ recovers \n3. [AJ Unless\n[BJ While \n[CJ Once \n[DJ If \n4. [ A J damaging\n[BJ limited \n[CJ uneven \n[DJ obscure \n5. [ A J relationship \n[BJ environment [ CJ wellbeing\n[DJ outlook \n6. [AJ figures\n[BJ finds \n[CJ points \n[DJ turns \n7. [ A J responses\n[BJ associations [ CJ workouts \n[DJ roundabouts \n8. [AJ genre\n[BJ criterion \n[ CJ circumstances [DJ functions \n9. [AJ channel\n[BJ process \n[CJ condition \n[DJ sequence \n10. [AJ persist\n[BJ feature \n[CJ excel \n[DJ believe \n11. [AJ However \n[BJ Moreover \n[ CJ Otherwise \n[DJ Therefore \n12. [AJ according to \n[BJ regardless of [CJ apart from\n[DJ instead of \n13. [AJ back\n[BJ further \n[CJ aside \n[DJ around \n14. [AJ framework\n[BJ stability \n[CJ flexibility \n[DJ sharpness \n15. [AJ hurries\n[BJ reminds \n[CJ allows \n[DJ forces \n16. [AJ order\n[BJ track \n[CJ pace \n[DJ hold \n17. [AJ on\n[BJ to \n[CJ for \n[DJ with \n18. [AJ habitually\n[BJ constantly \n[CJ irregularly \n[DJ unusually \n19. [AJ carry\n[BJ put \n[CJ build \n[DJ take \n20. [AJ idle\n[BJ risky \n[CJ familiar \n[DJ effective",
+          "questions": [
+            {
+              "id": "q1",
+              "number": 1,
+              "stem": "Blank 1",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "stem": "Blank 2",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "stem": "Blank 3",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "stem": "Blank 4",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q5",
+              "number": 5,
+              "stem": "Blank 5",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q6",
+              "number": 6,
+              "stem": "Blank 6",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q7",
+              "number": 7,
+              "stem": "Blank 7",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q8",
+              "number": 8,
+              "stem": "Blank 8",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q9",
+              "number": 9,
+              "stem": "Blank 9",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q10",
+              "number": 10,
+              "stem": "Blank 10",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q11",
+              "number": 11,
+              "stem": "Blank 11",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q12",
+              "number": 12,
+              "stem": "Blank 12",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q13",
+              "number": 13,
+              "stem": "Blank 13",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q14",
+              "number": 14,
+              "stem": "Blank 14",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q15",
+              "number": 15,
+              "stem": "Blank 15",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q16",
+              "number": 16,
+              "stem": "Blank 16",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q17",
+              "number": 17,
+              "stem": "Blank 17",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q18",
+              "number": 18,
+              "stem": "Blank 18",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q19",
+              "number": 19,
+              "stem": "Blank 19",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q20",
+              "number": 20,
+              "stem": "Blank 20",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing-1",
+      "type": "writing",
+      "title": "Section III Part A · Writing",
+      "minutes": 20,
+      "directions": "5 1. Directions: \nWrite a letter of about 100 words to the president of your university, \nsuggesting how to improve students' physical condition. \nYou should include the details you think necessary. \nYou should write neatly on the ANSWER SHEET. \nDo not sign your own name at the end of the letter. Use \"Li Ming\" instead. \nDo not write the address. (10 points) \nPartB \n52. Directions:\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should \n1)\ndescribe the drawing briefly,\n2)\ninterpret its intended meaning, and\n3)\ngive your comments.\nYou should write neatly on the ANSWER SHEET. (20 points) \n\n* ( -) -i.i\\;¥! \n. 14. \n( \f 14:vf) \n.... --",
+      "prompt": ""
+    },
+    {
+      "id": "writing-2",
+      "type": "writing",
+      "title": "Section III Part B · Writing",
+      "minutes": 40,
+      "directions": "",
+      "prompt": ""
+    }
+  ]
+}

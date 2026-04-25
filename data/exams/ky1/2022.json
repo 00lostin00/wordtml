@@ -1,0 +1,674 @@
+{
+  "id": "ky1-2022",
+  "type": "ky1",
+  "year": 2022,
+  "month": 12,
+  "set": 1,
+  "title": "2022年考研英语一真题",
+  "sections": [
+    {
+      "id": "cloze",
+      "type": "reading-mcq",
+      "title": "Section I · Use of English",
+      "minutes": 15,
+      "passages": [
+        {
+          "label": "Use of English",
+          "text": "Use of English\nDirections:\nRead the following text. Choose the best word(s) for each numbered blank and mark A,\nB ,C orD  on the ANSWER SHEET. (10 points)\nThe idea that plants have some degree of consciousness first took root in the early\n2000s. the term “plant neurobiology\" was \n] \naround the notion that some aspects of\nplant behavior could be \n\nto intelligence in animals. \n\nplants lack brains, the\nfiring of electrical signals in their stems and leaves nonetheless triggered responses that\n\nconsciousness , researchers previously reported.\nBut such an idea is untrue, according to a new opinion article. Plant biology is\ncomplex and fascinating, but it \n\nso greatly from that of animals that so-called\n\nof plants9 intelligence is inconclusive, the authors wrote.\nBeginning in 2006, some scientists have \n\nthat plants possess neuron-like cells\nthat interact with hormones and neurotransmitters, \n\n\"a plant nervous system,\n\nto that in animals,“ said lead study author Lincoln Taiz. \"They \n\nclaimed\nthat plants have cbrain-like command centers' at their root tips.”\nThis \n\nmakes sense if you simplify the workings of a complex brain, \n\nit to an array of electrical pulses; cells in plants also communicate through electrical\nsignals. \n\nthe signaling in a plant is only \n\nsimilar to the firing in a\ncomplex animal brain, which is more than “a mass of cells that communicate by\nelectricity,Taiz said.\n“ For consciousness to evolve, a brain with a threshold \n\nof complexity and\ncapacity is required,he \n\n. “ Since plants don't have nervous systems, the \n\nthat they have consciousness are effectively zero.,,\nAnd what's so great about consciousness, anyway? Plants can't run away from\n\n, so investing energy in a body system which \n\na threat and can feel pain\nwould be a very \n\nevolutionary strategy, according to the article.\n2022年英语（一）试题第1 页共14页",
+          "questions": [
+            {
+              "id": "q1",
+              "number": 1,
+              "stem": "Blank 1",
+              "options": {
+                "A": "coined",
+                "B": "discovered",
+                "C": "collected",
+                "D": "issued"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "stem": "Blank 2",
+              "options": {
+                "A": "attributed",
+                "B": "directed",
+                "C": "compared",
+                "D": "confined"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "stem": "Blank 3",
+              "options": {
+                "A": "Unless",
+                "B": "When",
+                "C": "Once",
+                "D": "Though"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "stem": "Blank 4",
+              "options": {
+                "A": "coped with",
+                "B": "consisted of",
+                "C": "hinted at",
+                "D": "extended to"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q5",
+              "number": 5,
+              "stem": "Blank 5",
+              "options": {
+                "A": "suffers",
+                "B": "benefits",
+                "C": "develops",
+                "D": "differs"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q6",
+              "number": 6,
+              "stem": "Blank 6",
+              "options": {
+                "A": "acceptance",
+                "B": "evidence",
+                "C": "cultivation",
+                "D": "creation"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q7",
+              "number": 7,
+              "stem": "Blank 7",
+              "options": {
+                "A": "doubted",
+                "B": "denied",
+                "C": "argued",
+                "D": "requested"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q8",
+              "number": 8,
+              "stem": "Blank 8",
+              "options": {
+                "A": "adapting",
+                "B": "forming",
+                "C": "repairing ED] testing",
+                "D": "sensitive"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q9",
+              "number": 9,
+              "stem": "Blank 9",
+              "options": {
+                "A": "analogous",
+                "B": "essential",
+                "C": "suitable",
+                "D": "even"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q10",
+              "number": 10,
+              "stem": "Blank 10",
+              "options": {
+                "A": "just",
+                "B": "ever",
+                "C": "still",
+                "D": "demand"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q11",
+              "number": 11,
+              "stem": "Blank 11",
+              "options": {
+                "A": "restriction",
+                "B": "experiment",
+                "C": "perspective",
+                "D": "exposing"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q12",
+              "number": 12,
+              "stem": "Blank 12",
+              "options": {
+                "A": "attaching",
+                "B": "reducing",
+                "C": "returning",
+                "D": "Otherwise"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q13",
+              "number": 13,
+              "stem": "Blank 13",
+              "options": {
+                "A": "However",
+                "B": "Moreover",
+                "C": "Therefore",
+                "D": "imaginarily"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q14",
+              "number": 14,
+              "stem": "Blank 14",
+              "options": {
+                "A": "temporarily",
+                "B": "literally",
+                "C": "superficially",
+                "D": "load"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q15",
+              "number": 15,
+              "stem": "Blank 15",
+              "options": {
+                "A": "list",
+                "B": "level",
+                "C": "label",
+                "D": "added"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q16",
+              "number": 16,
+              "stem": "Blank 16",
+              "options": {
+                "A": "recalled",
+                "B": "agreed",
+                "C": "questioned",
+                "D": "control"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q17",
+              "number": 17,
+              "stem": "Blank 17",
+              "options": {
+                "A": "chances",
+                "B": "risks",
+                "C": "excuses ED] assumptions",
+                "D": "recognizes"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q18",
+              "number": 18,
+              "stem": "Blank 18",
+              "options": {
+                "A": "danger",
+                "B": "failure",
+                "C": "warning",
+                "D": "easy"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q19",
+              "number": 19,
+              "stem": "Blank 19",
+              "options": {
+                "A": "represents",
+                "B": "includes",
+                "C": "reveals",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q20",
+              "number": 20,
+              "stem": "Blank 20",
+              "options": {
+                "A": "humble",
+                "B": "poor",
+                "C": "practical",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section II Part A · Reading Comprehension",
+      "minutes": 70,
+      "passages": [
+        {
+          "label": "Text 1",
+          "text": "People often complain that plastics are too durable. Water bottles, shopping bags,\nand other trash litter the planet, from Mount Everest to the Mariana Trench, because\nplastics are everywhere and don't break down easily. But some plastic materials change\nover time. They crack and frizzle. They \"weep\" out additives. They melt into sludge.\nAll of which creates huge headaches for institutions, such as museums, trying to\npreserve culturally important objects. The variety of plastic objects at risk is dizzying:\nearly radios, avant-garde sculptures, celluloid animation stills from Disney films, the\nfirst artificial heart.\nCertain artifacts are especially vulnerable because some pioneers in plastic art didn't\nalways know how to mix ingredients properly, says Thea van Oosten, a polymer chemist\nwho, until retiring a few years ago, worked for decades at the Cultural Heritage Agency\nof the Netherlands. \"It's like baking a cake: If you don't have exact amounts, it goes\nwrong,“ she says. \"The object you make is already a time bomb.^^\nAnd sometimes, it's not the artist's fault. In the 1960s, the Italian artist Piero Gilardi\nbegan to create hundreds of bright, colorful foam pieces. Those pieces included small\nbeds of roses and other items as well as a few dozen “ nature c arp ets一 large rectangles\ndecorated with foam pumpkins, cabbages, and watermelons. He wanted viewers to walk\naround on the carpets- which meant they had to be durable.\nUnfortunately, the polyurethane foam he used is inherently unstable. It's especially\nvulnerable to light damage, and by the mid-1990s, Gilardi's pumpkins, roses, and other\nfigures were splitting and crumbling. Museums locked some of them away in the dark.\nSo van Oosten and her colleagues worked to preserve Gilardi's sculptures. They\ninfused some with stabilizing and consolidating chemicals. Van Oosten calls those\nchemicals <c sunscreensbecause their goal was to prevent further light damage and\nrebuild worn polymer fibers. She is proud that several sculptures have even gone on\ndisplay again, albeit sometimes beneath protective cases.\nDespite success stories like van Oosten's, preservation of plastics will likely get\nharder. Old objects continue to deteriorate. Worse, biodegradable plastics,designed to\ndisintegrate, are increasingly common.\nAnd more is at stake here than individual objects. Joana Lia Ferreira, an assistant\nprofessor of conservation and restoration at the NOVA School of Science and\nTechnology, notes that archaeologists first defined the great material ages of human\nhistory- Stone Age, Iron Age, and so on- after examining artifacts in museums. We\nnow live in an age of plastic, she says, “and what we decide to collect today, what we\ndecide to preserve...will have a strong impact on how in the future we'll be seen.^^\n2022年英语（一）试题第3 页共14页",
+          "questions": [
+            {
+              "id": "q21",
+              "number": 21,
+              "stem": "According to Paragraph 1, museums are faced with difficulties in",
+              "options": {
+                "A": "maintaining their plastic items.",
+                "B": "obtaining durable plastic artifacts.",
+                "C": "handling outdated plastic exhibits.",
+                "D": "classifying their plastic collections."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q22",
+              "number": 22,
+              "stem": "Van Oosten believes that certain plastic objects are",
+              "options": {
+                "A": "immune to decay.",
+                "B": "improperly shaped.",
+                "C": "inherently flawed.",
+                "D": "complex in structure."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q23",
+              "number": 23,
+              "stem": "Museums stopped exhibiting some of Gilardi's artworks to",
+              "options": {
+                "A": "keep them from hurting visitors.",
+                "B": "duplicate them for future display.",
+                "C": "have their ingredients analyzed.",
+                "D": "prevent them from further damage."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q24",
+              "number": 24,
+              "stem": "The author thinks that preservation of plastics is",
+              "options": {
+                "A": "costly.",
+                "B": "unworthy.",
+                "C": "unpopular.",
+                "D": "challenging."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q25",
+              "number": 25,
+              "stem": "In Ferreira's opinion, preservation of plastic artifacts",
+              "options": {
+                "A": "will inspire future scientific research.",
+                "B": "has profound historical significance.",
+                "C": "will help us separate the material ages.",
+                "D": "has an impact on today's cultural life. 2022年英语（一）试题第4 页共14页"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Text 2",
+          "text": "As the latest crop of students pen their undergraduate application form and weigh\nup their options, it may be worth considering just how the point, purpose and value of a\ndegree has changed and what Generation Z need to consider as they start the third stage\nof their educational journey.\nMillennials were told that if you did well in school, got a decent degree, you would\nbe set up for life. But that promise has been found wanting. As degrees became\nuniversal, they became devalued. Education was no longer a secure route of social\nmobility. Today, 28 per cent of graduates in the UK are in non-graduate roles, a\npercentage which is double the average among the OECD countries.\nThis is not to say that there is no point in getting a degree, but rather stress that a\ndegree is not for everyone, that the switch from classroom to lecture hall is not an\ninevitable one and that other options are available.\nThankfully, there are signs that this is already happening, with Generation Z\nseeking to learn from their millennial predecessors, even if parents and teachers tend to\nbe still set in the degree mindset. Employers have long seen the advantages of hiring\nschool leavers who often prove themselves to be more committed and loyal employees\nthan graduates. Many too are seeing the advantages of scrapping a degree requirement\nfor certain roles.\nFor those for whom a degree is the desired route, consider that this may well be the\nfirst of many. In this age of generalists, it pays to have specific knowledge or skills.\nPostgraduates now earn 40 per cent more than graduates. When more and more of us\nhave a degree, it makes sense to have two.\nIt is unlikely that Generation Z will be done with education at 18 or 21; they will\nneed to be constantly up-skilling throughout their career to stay employable. It has been\nestimated that this generation, due to the pressures of technology, the wish for personal\nfulfilment and desire for diversity, will work for 17 different employers over the course\nof their working life and have five different careers. Education, and not just knowledge\ngained on campus, will be a core part of Generation Z's career trajectory.\nOlder generations often talk about their degree in the present and personal tense: 'I\nam a geographer' or CI am a classist9. Their sons or daughters would never say such a\nthing; it's as if they already know that their degree won't define them in the same way.\n2022年英语（一）试题第5 页共14页",
+          "questions": [
+            {
+              "id": "q26",
+              "number": 26,
+              "stem": "The author suggests that Generation Z should",
+              "options": {
+                "A": "be careful in choosing a college.",
+                "B": "be diligent at each educational stage.",
+                "C": "reassess the necessity of college education.",
+                "D": "postpone their undergraduate application."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q27",
+              "number": 27,
+              "stem": "The percentage of UK graduates in non-graduate roles reflects",
+              "options": {
+                "A": "Millennial's opinions about work.",
+                "B": "the shrinking value of a degree.",
+                "C": "public discontent with education.",
+                "D": "the desired route of social mobility."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q28",
+              "number": 28,
+              "stem": "The author considers it a good sign that",
+              "options": {
+                "A": "Generation Z are seeking to earn a decent degree.",
+                "B": "school leavers are willing to be skilled workers.",
+                "C": "employers are taking a realistic attitude to degrees.",
+                "D": "parents are changing their minds about education."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q29",
+              "number": 29,
+              "stem": "It is advised in Paragraph 5 that those with one degree should",
+              "options": {
+                "A": "make an early decision on their career.",
+                "B": "attend on-the-job training programs.",
+                "C": "team up with high-paid postgraduates.",
+                "D": "further their studies in a specific field."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q30",
+              "number": 30,
+              "stem": "What can be concluded about Generation Z from the last two paragraphs?",
+              "options": {
+                "A": "Lifelong learning will define them.",
+                "B": "They will make qualified educators.",
+                "C": "Degrees will no longer appeal to them.",
+                "D": "They will have a limited choice of jobs. 2022年英语（一）试题第6 页共14页"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Text 3",
+          "text": "Enlightening, challenging, stimulating, fun. These were some of the words that\nNature readers used to describe their experiences of art-science collaborations in a series\nof articles on partnerships between artists and researchers. Nearly 40% of the roughly\n350 people who responded to an accompanying poll said they had collaborated with\nartists; and almost all said they would consider doing so in future.\nSuch an encouraging result is not surprising. Scientists are increasingly seeking out\nvisual artists to help them communicate their work to new audiences. \"Artists help\nscientists reach a broader audience and make emotional connections that enhance\nlearning,one respondent said.\nOne example of how artists and scientists have together rocked the senses came last\nmonth when the Sydney Symphony Orchestra performed a reworked version of Antonio\nVivaldi's The Four Seasons. They reimagined the 300-year-old score by injecting the\nlatest climate prediction data for each season- provided by Monash University's Climate\nChange Communication Research Hub. The performance was a creative call to action\nahead of November's United Nations Climate Change Conference in Glasgow, UK.\nBut a genuine partnership must be a two-way street. Fewer artists than scientists\nresponded to the Nature poll; however, several respondents noted that artists do not\nsimply assist scientists with their communication requirements. Nor should their work be\nconsidered only as an object of study. The alliances are most valuable when scientists\nand artists have a shared stake in a project, are able to jointly design it and can critique\neach other's work. Such an approach can both prompt new research as well as result in\npowerful art.\nMore than half a century ago, the Massachusetts Institute of Technology opened its\nCenter for Advanced Visual Studies (CAVS) to explore the role of technology in culture.\nThe founders deliberately focused their projects around light~~hence the \"visual studies'\nin the name. Light was a something that both artists and scientists had an interest in, and\ntherefore could form the basis of collaboration. As science and technology progressed,\nand divided into more sub-disciplines, the centre was simultaneously looking to a time\nwhen leading researchers could also be artists, writers and poets, and vice versa.\nNature9 s poll findings suggest that this trend is as strong as ever, but, to make a\ncollaboration work, both sides need to invest time, and embrace surprise and challenge.\nThe reach of art-science tie-ups needs to go beyond the necessary purpose of research\ncommunication, and participants must not fall into the trap of stereotyping each other.\nArtists and scientists alike are immersed in discovery and invention, and challenge and\ncritique are core to both, too.\n2022年英语（一）试题第7 页共14页",
+          "questions": [
+            {
+              "id": "q31",
+              "number": 31,
+              "stem": "According to Paragraph 1, art-science collaborations have",
+              "options": {
+                "A": "caught the attention of critics.",
+                "B": "received favourable responses.",
+                "C": "promoted academic publishing.",
+                "D": "sparked heated public disputes."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q32",
+              "number": 32,
+              "stem": "The reworked version of The Four Seasons is mentioned to show that",
+              "options": {
+                "A": "art can off er audiences easy access to science.",
+                "B": "science can help with the expression of emotions.",
+                "C": "public participation in science has a promising future.",
+                "D": "art is effective in facilitating scientific innovations."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q33",
+              "number": 33,
+              "stem": "Some artists seem to worry that in the art-science partnership",
+              "options": {
+                "A": "their role may be underestimated.",
+                "B": "their reputation may be impaired.",
+                "C": "their creativity may be inhibited.",
+                "D": "their work may be misguided."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q34",
+              "number": 34,
+              "stem": "What does the author say about CAYS?",
+              "options": {
+                "A": "It was headed alternately by artists and scientists.",
+                "B": "It exemplified valuable art-science alliances.",
+                "C": "Its projects aimed at advancing visual studies.",
+                "D": "Its founders sought to raise the status of artists."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q35",
+              "number": 35,
+              "stem": "In the last paragraph, the author holds that art-science collaborations",
+              "options": {
+                "A": "are likely to go beyond public expectations.",
+                "B": "will intensify interdisciplinary competition.",
+                "C": "should do more than communicating science.",
+                "D": "are becoming more popular than before. 2022年英语（一）试题第8 页共14页"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Text 4",
+          "text": "The personal grievance provisions of New Zealand's Employment Relations Act\n2000 (ERA) prevent an employer from firing an employee without good cause. Instead,\ndismissals must be justified. Employers must both show cause and act in a procedurally\nfair way.\nPersonal grievance procedures were designed to guard the jobs of ordinary workers\nfrom 4 unjustified dismissals”. The premise was that the common law of contract lacked\nsufficient safeguards for workers against arbitrary conduct by management. Long gone\nare the days when a boss could simply give an employee contractual notice.\nBut these provisions create difficulties for businesses when applied to highly paid\nmanagers and executives. As countless boards and business owners will attest,\nconstraining firms from firing poorly performing, high-earning managers is a handbrake\non boosting productivity and overall performance. The difference between C-grade and\nA-grade managers may very well be the difference between business success or failure.\nBetween preserving the jobs of ordinary workers or losing them. Yet mediocrity is no\nlonger enough to justify a dismissal.\nConsequently- and paradoxically- laws introduced to protect the jobs of ordinary\nworkers may be placing those jobs at risk.\nIf not placing jobs at risk, to the extent employment protection laws constrain\nbusiness owners from dismissing underperforming managers, those laws act as a\nconstraint on firm productivity and therefore on workers9 wages. Indeed, in “An\nInternational Perspective on New Zealand's Productivity Paradox” (2014), the\nProductivity Commission singled out the low quality of managerial capabilities as a\ncause of the country's poor productivity growth record.\nNor are highly paid managers themselves immune from the harm caused by the\nERA'S unjustified dismissal procedures. Because employment protection laws make it\ncostlier to fire an employee, employers are more cautious about hiring new staff.\nThis makes it harder for the marginal manager to gain employment. And firms pay staff\nless because firms carry the burden of the employment arrangement going wrong.\nSociety also suffers from excessive employment protections. Stringent job dismissal\nregulations adversely affect productivity growth and hamper both prosperity and overall\nwell-being.\nAcross the Tasman Sea, Australia deals with the unjustified dismissal paradox by\nexcluding employees earning above a specified <chigh-income threshold“ from the\nprotection of its unfair dismissal laws. In New Zealand, a 2016 private members9 Bill\ntried to permit firms and high-income employees to contract out of the unjustified\ndismissal regime. However, the mechanisms proposed were unwieldy and the Bill was\nvoted down following the change in government later that year.\n2022年英语（一）试题第9 页共14页",
+          "questions": [
+            {
+              "id": "q36",
+              "number": 36,
+              "stem": "The personal grievance provisions of the ERA are intended to",
+              "options": {
+                "A": "punish dubious corporate practices.",
+                "B": "improve traditional hiring procedures.",
+                "C": "exempt employers from certain duties.",
+                "D": "protect the rights of ordinary workers."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q37",
+              "number": 37,
+              "stem": "It can be learned from Paragraph 3 that the provisions may",
+              "options": {
+                "A": "hinder business development.",
+                "B": "undermine managers9 authority.",
+                "C": "affect the public image of the firms.",
+                "D": "worsen labor-management relations."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q38",
+              "number": 38,
+              "stem": "Which of the following measures would the Productivity Commission support?",
+              "options": {
+                "A": "Imposing reasonable wage restraints.",
+                "B": "Enforcing employment protection laws.",
+                "C": "Limiting the powers of business owners.",
+                "D": "Dismissing poorly performing managers."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q39",
+              "number": 39,
+              "stem": "What might be an effect of ERA’S unjustified dismissal procedures?",
+              "options": {
+                "A": "Highly paid managers lose their jobs.",
+                "B": "Employees suffer from salary cuts.",
+                "C": "Society sees a rise in overall well-being.",
+                "D": "Employers need to hire new staff."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q40",
+              "number": 40,
+              "stem": "It can be inferred that the “high-income thresholdin Australia",
+              "options": {
+                "A": "has secured managers9 earnings.",
+                "B": "has produced undesired results.",
+                "C": "is beneficial to business owners.",
+                "D": "is difficult to put into practice. 2022年英语（一）试题第10页共14页"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "new-question",
+      "type": "matching",
+      "title": "Section II Part B · New Question Type",
+      "minutes": 15,
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Zoos, which spare no effort to take care of animals, should not be subjected to unfair criticism."
+        },
+        {
+          "label": "B",
+          "text": "TO pressure zoos to spend less on their animals would lead to inhumane outcomes for the precious creatures in their care."
+        },
+        {
+          "label": "C",
+          "text": "While animals in captivity deserve sympathy, zoos play a significant role in starting young people down the path of related sciences."
+        },
+        {
+          "label": "D",
+          "text": "ZOOS save people trips to wilderness areas and thus contribute to wildlife conservation."
+        },
+        {
+          "label": "E",
+          "text": "For wild animals that cannot be returned to their natural habitats, zoos offer the best alternative."
+        },
+        {
+          "label": "F",
+          "text": "ZOOS should have been closed down as they prioritize money making over animals9 well-being."
+        },
+        {
+          "label": "G",
+          "text": "Mairis distorts our findings, which actually prove that zoos serve as an indispensable link between man and nature. 2022年英语（一）试题第12页共14页"
+        }
+      ],
+      "questions": [
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Teri Byrd:___________________________",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Karen R. Sime:___________________________",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Greg Newberry:___________________________",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Dean Gallea:___________________________",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "John Fraser:___________________________",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Section II Part C · Translation",
+      "minutes": 20,
+      "targetLanguage": "zh",
+      "directions": "Translate the underlined segments into Chinese.",
+      "source": "Directions:\nRead the following text carefully and then translate the underlined segments into\nChinese. Write your answers on the ANSWER SHEET. (10 points)\nBetween 1807 and 1814 the Iberian Peninsula (comprising Spain and Portugal) was\nthe scene of a titanic and merciless struggle. It took place on many different planes:\nbetween Napoleon's French army and the angry inhabitants; between the British, ever\nkeen to exacerbate the emperor's difficulties, and the marshals sent from Paris to try to\nkeep them in check; between new forces of science and meritocracy and old ones of\nconservatism and birth. (46) It was also、and this is unknown even to many people well\nread about the period, a battle between those who made codes and those who broke them.\nI first discovered the Napoleonic code-breaking battle a few years ago when I was\nreading Sir Charles Oman's epic History o f the Peninsular War. In volume V he had\nattached an appendix, “The Scovell Ciphers.^^ (47) It listed many documents in code\nthat had been captured fiom the French army of Spain、and whose secrets had been\nrevealed by the work of one George Scovell, an officer in British headquarters. Oman\nrated Scovell9 s significance highly, but at the same time, the general nature of his History\nmeant that (48) he could not analyze cacefiilly what this obscure officer may or may not\nhave contributed to that great struggle between nations or indeed tell us anything much\nabout the man himself. Keen to read more, I was surprised to find that Oman's appendix,\npublished in 1914, was the only considered thing that had been written about this secret\nwar.\nI became convinced that this story was every bit as exciting and significant as that\nof Enigma and the breaking of German codes in the Second World War. The question\nwas , could it be told?\nStudying Scovell's papers at the Public Record Office, London, I found that he had\nleft an extensive journal and copious notes about his work in the peninsula. What was\nmore, many original French dispatches had been preserved in this collection, which, I\nrealized, was priceless. (49) There may have been many spies and intelligence officers\nduring the Napoleonic Wars, but it is usually extremely difficult to find the material they\nactually provided or worked on.\nAs I researched ScovelFs story, I found far more of interest besides his intelligence\nwork. His status in Lord Wellington's headquarters and the recognition given to him for\nhis work were bound up with the class politics of the army at the time. His story of\nself-improvement and hard work would make a fascinating biography in its own right,\nbut represents something more than that. (50) Just as the code-breaking has its wider\nrelevance in the struggle for Spain, so his attempts to make his way up the promotion\nladder speak volumes about British society.\n2022年英语（一）试题第13页共14页"
+    },
+    {
+      "id": "writing-1",
+      "type": "writing",
+      "title": "Section III Part A · Writing",
+      "minutes": 20,
+      "directions": "51. Directions:\nWrite an email to a professor at a British university, inviting him/her to organize a\nteam for the international innovation contest to be held at your university.\nYou should write about 100 words on the ANSWER SHEET.\nDo not use your own name in the email; Use \"Li Ming,9 instead. (10 points)",
+      "prompt": ""
+    },
+    {
+      "id": "writing-2",
+      "type": "writing",
+      "title": "Section III Part B · Writing",
+      "minutes": 40,
+      "directions": "52. Directions:\nWrite an essay of 160-200 words based on the picture below. In your essay,\nyou should\n1) describe the picture briefly,\n2) interpret the implied meaning, and\n3) give your comments.\nWrite your answer on the ANSWER SHEET. (20 points)\n2022年英语（一）试题第14页共14页",
+      "prompt": ""
+    }
+  ]
+}

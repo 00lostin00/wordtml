@@ -127,8 +127,9 @@ function renderSection(s, answers) {
 }
 
 function renderWriting(s, answers) {
+  const answerKey = s.id || "writing";
   const root = el("div");
-  root.appendChild(el("h3", { style: "margin-top:0" }, "✍️ Part I · Writing"));
+  root.appendChild(el("h3", { style: "margin-top:0" }, `✍️ ${s.title || "Writing"}`));
   if (s.directions) {
     root.appendChild(el("div", { class: "label", style: "margin-bottom:12px; line-height:1.7" }, s.directions));
   }
@@ -142,10 +143,10 @@ function renderWriting(s, answers) {
     style: "width:100%; font-size:15px; line-height:1.7",
     placeholder: "在此处写作(150–200 词)…",
   });
-  ta.value = answers.writing || "";
+  ta.value = answers[answerKey] || "";
   const wc = el("div", { class: "label", style: "margin-top:6px; text-align:right" }, "0 词");
   ta.addEventListener("input", () => {
-    answers.writing = ta.value;
+    answers[answerKey] = ta.value;
     const words = (ta.value.trim().match(/\S+/g) || []).length;
     wc.textContent = `${words} 词 · ${ta.value.length} 字符`;
   });
@@ -212,7 +213,7 @@ function renderBankedCloze(s, answers) {
 
 function renderMatching(s, answers) {
   const root = el("div");
-  root.appendChild(el("h3", { style: "margin-top:0" }, "🔍 Reading Section B · 段落匹配"));
+  root.appendChild(el("h3", { style: "margin-top:0" }, `🔍 ${s.title || "Reading Section B · 段落匹配"}`));
 
   // 段落(可折叠)
   const parasBox = el("details", { open: "true", style: "margin-bottom:16px" });
@@ -249,7 +250,7 @@ function renderMatching(s, answers) {
 
 function renderReadingMcq(s, answers) {
   const root = el("div");
-  root.appendChild(el("h3", { style: "margin-top:0" }, "📖 Reading Section C · 仔细阅读"));
+  root.appendChild(el("h3", { style: "margin-top:0" }, `📖 ${s.title || "Reading Section C · 仔细阅读"}`));
   for (const psg of s.passages || []) {
     root.appendChild(el("div", { class: "section-title", style: "margin-top:24px" }, psg.label));
     root.appendChild(el("div", {
@@ -292,7 +293,8 @@ function renderMcqItem(q, answers, kind) {
 
 function renderTranslation(s, answers) {
   const root = el("div");
-  root.appendChild(el("h3", { style: "margin-top:0" }, "🌏 Part IV · Translation"));
+  const toChinese = s.targetLanguage === "zh";
+  root.appendChild(el("h3", { style: "margin-top:0" }, `🌏 ${s.title || "Translation"}`));
   if (s.directions) {
     root.appendChild(el("div", { class: "label", style: "margin-bottom:12px" }, s.directions));
   }
@@ -303,7 +305,7 @@ function renderTranslation(s, answers) {
   const ta = el("textarea", {
     rows: "10",
     style: "width:100%; font-size:15px; line-height:1.7",
-    placeholder: "在此处用英语翻译…",
+    placeholder: toChinese ? "在此处写中文译文…" : "在此处用英语翻译…",
   });
   ta.value = answers.translation || "";
   const wc = el("div", { class: "label", style: "margin-top:6px; text-align:right" }, "0 词");
@@ -329,7 +331,7 @@ async function submit(host, exam, answers, router, startedAt) {
   let scorableObj = 0, correctObj = 0;
   let writingChars = 0, translationChars = 0;
   for (const s of exam.sections || []) {
-    if (s.type === "writing") writingChars = (answers.writing || "").length;
+    if (s.type === "writing") writingChars += (answers[s.id || "writing"] || "").length;
     else if (s.type === "translation") translationChars = (answers.translation || "").length;
     else {
       const allQ = s.questions || s.passages?.flatMap((p) => p.questions || []) || [];

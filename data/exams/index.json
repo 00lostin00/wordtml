@@ -1282,13 +1282,655 @@
         "reading-matching 题数 0",
         "reading-matching 段数"
       ]
+    },
+    {
+      "id": "ky1-2025",
+      "type": "ky1",
+      "year": 2025,
+      "month": 12,
+      "set": 1,
+      "title": "2025年考研英语一真题",
+      "file": "ky1/2025.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "ok",
+        "new-question": "bad",
+        "translation": "ok",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "new-question 题数 0",
+        "new-question 段数",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
+    },
+    {
+      "id": "ky1-2024",
+      "type": "ky1",
+      "year": 2024,
+      "month": 12,
+      "set": 1,
+      "title": "2024年考研英语一真题",
+      "file": "ky1/2024.json",
+      "completeness": 1.0,
+      "label": "complete",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "ok",
+        "new-question": "ok",
+        "translation": "ok",
+        "writing-1": "ok",
+        "writing-2": "ok"
+      },
+      "issues": []
+    },
+    {
+      "id": "ky1-2023",
+      "type": "ky1",
+      "year": 2023,
+      "month": 12,
+      "set": 1,
+      "title": "2023年考研英语一真题",
+      "file": "ky1/2023.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "ok",
+        "new-question": "bad",
+        "translation": "ok",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "new-question 题数 0",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
+    },
+    {
+      "id": "ky1-2022",
+      "type": "ky1",
+      "year": 2022,
+      "month": 12,
+      "set": 1,
+      "title": "2022年考研英语一真题",
+      "file": "ky1/2022.json",
+      "completeness": 1.0,
+      "label": "complete",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "ok",
+        "new-question": "ok",
+        "translation": "ok",
+        "writing-1": "ok",
+        "writing-2": "ok"
+      },
+      "issues": []
+    },
+    {
+      "id": "ky1-2021",
+      "type": "ky1",
+      "year": 2021,
+      "month": 12,
+      "set": 1,
+      "title": "2021年考研英语一真题",
+      "file": "ky1/2021.json",
+      "completeness": 0.67,
+      "label": "partial",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "ok",
+        "new-question": "bad",
+        "translation": "missing",
+        "writing-1": "ok",
+        "writing-2": "ok"
+      },
+      "issues": [
+        "new-question 题数 0",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "ky1-2020",
+      "type": "ky1",
+      "year": 2020,
+      "month": 12,
+      "set": 1,
+      "title": "2020年考研英语一真题",
+      "file": "ky1/2020.json",
+      "completeness": 0.83,
+      "label": "near-complete",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "ok",
+        "new-question": "bad",
+        "translation": "ok",
+        "writing-1": "ok",
+        "writing-2": "ok"
+      },
+      "issues": [
+        "new-question 题数 0"
+      ]
+    },
+    {
+      "id": "ky1-2019",
+      "type": "ky1",
+      "year": 2019,
+      "month": 12,
+      "set": 1,
+      "title": "2019年考研英语一真题",
+      "file": "ky1/2019.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
+    },
+    {
+      "id": "ky1-2018",
+      "type": "ky1",
+      "year": 2018,
+      "month": 12,
+      "set": 1,
+      "title": "2018年考研英语一真题",
+      "file": "ky1/2018.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "bad",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "ok",
+        "writing-2": "bad"
+      },
+      "issues": [
+        "reading-mcq 题数 19",
+        "new-question 缺",
+        "translation 缺",
+        "writing-2 prompt 短"
+      ]
+    },
+    {
+      "id": "ky1-2017",
+      "type": "ky1",
+      "year": 2017,
+      "month": 12,
+      "set": 1,
+      "title": "2017年考研英语一真题",
+      "file": "ky1/2017.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "bad",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "ok",
+        "writing-2": "bad"
+      },
+      "issues": [
+        "reading-mcq 题数 0",
+        "new-question 缺",
+        "translation 缺",
+        "writing-2 prompt 短"
+      ]
+    },
+    {
+      "id": "ky1-2016",
+      "type": "ky1",
+      "year": 2016,
+      "month": 12,
+      "set": 1,
+      "title": "2016年考研英语一真题",
+      "file": "ky1/2016.json",
+      "completeness": 0.83,
+      "label": "near-complete",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "ok",
+        "new-question": "bad",
+        "translation": "ok",
+        "writing-1": "ok",
+        "writing-2": "ok"
+      },
+      "issues": [
+        "new-question 题数 0"
+      ]
+    },
+    {
+      "id": "ky1-2015",
+      "type": "ky1",
+      "year": 2015,
+      "month": 12,
+      "set": 1,
+      "title": "2015年考研英语一真题",
+      "file": "ky1/2015.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "bad",
+        "writing-2": "bad"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 prompt 短",
+        "writing-2 prompt 短"
+      ]
+    },
+    {
+      "id": "ky1-2014",
+      "type": "ky1",
+      "year": 2014,
+      "month": 12,
+      "set": 1,
+      "title": "2014年考研英语一真题",
+      "file": "ky1/2014.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "ok",
+        "writing-2": "bad"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-2 prompt 短"
+      ]
+    },
+    {
+      "id": "ky1-2013",
+      "type": "ky1",
+      "year": 2013,
+      "month": 12,
+      "set": 1,
+      "title": "2013年考研英语一真题",
+      "file": "ky1/2013.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "bad",
+        "writing-2": "bad"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 prompt 短",
+        "writing-2 prompt 短"
+      ]
+    },
+    {
+      "id": "ky1-2012",
+      "type": "ky1",
+      "year": 2012,
+      "month": 12,
+      "set": 1,
+      "title": "2012年考研英语一真题",
+      "file": "ky1/2012.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "ok",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "ok",
+        "writing-2": "bad"
+      },
+      "issues": [
+        "new-question 缺",
+        "translation 缺",
+        "writing-2 prompt 短"
+      ]
+    },
+    {
+      "id": "ky1-2011",
+      "type": "ky1",
+      "year": 2011,
+      "month": 12,
+      "set": 1,
+      "title": "2011年考研英语一真题",
+      "file": "ky1/2011.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "ok",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "ok",
+        "writing-2": "bad"
+      },
+      "issues": [
+        "new-question 缺",
+        "translation 缺",
+        "writing-2 prompt 短"
+      ]
+    },
+    {
+      "id": "ky1-2010",
+      "type": "ky1",
+      "year": 2010,
+      "month": 12,
+      "set": 1,
+      "title": "2010年考研英语一真题",
+      "file": "ky1/2010.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "ok",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "ok",
+        "writing-2": "bad"
+      },
+      "issues": [
+        "new-question 缺",
+        "translation 缺",
+        "writing-2 prompt 短"
+      ]
+    },
+    {
+      "id": "ky1-2009",
+      "type": "ky1",
+      "year": 2009,
+      "month": 12,
+      "set": 1,
+      "title": "2009年考研英语一真题",
+      "file": "ky1/2009.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
+    },
+    {
+      "id": "ky1-2008",
+      "type": "ky1",
+      "year": 2008,
+      "month": 12,
+      "set": 1,
+      "title": "2008年考研英语一真题",
+      "file": "ky1/2008.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
+    },
+    {
+      "id": "ky1-2007",
+      "type": "ky1",
+      "year": 2007,
+      "month": 12,
+      "set": 1,
+      "title": "2007年考研英语一真题",
+      "file": "ky1/2007.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
+    },
+    {
+      "id": "ky1-2006",
+      "type": "ky1",
+      "year": 2006,
+      "month": 12,
+      "set": 1,
+      "title": "2006年考研英语一真题",
+      "file": "ky1/2006.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
+    },
+    {
+      "id": "ky1-2005",
+      "type": "ky1",
+      "year": 2005,
+      "month": 12,
+      "set": 1,
+      "title": "2005年考研英语一真题",
+      "file": "ky1/2005.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
+    },
+    {
+      "id": "ky1-2004",
+      "type": "ky1",
+      "year": 2004,
+      "month": 12,
+      "set": 1,
+      "title": "2004年考研英语一真题",
+      "file": "ky1/2004.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
+    },
+    {
+      "id": "ky1-2003",
+      "type": "ky1",
+      "year": 2003,
+      "month": 12,
+      "set": 1,
+      "title": "2003年考研英语一真题",
+      "file": "ky1/2003.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
+    },
+    {
+      "id": "ky1-2002",
+      "type": "ky1",
+      "year": 2002,
+      "month": 12,
+      "set": 1,
+      "title": "2002年考研英语一真题",
+      "file": "ky1/2002.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
+    },
+    {
+      "id": "ky1-2001",
+      "type": "ky1",
+      "year": 2001,
+      "month": 12,
+      "set": 1,
+      "title": "2001年考研英语一真题",
+      "file": "ky1/2001.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "ok",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
+    },
+    {
+      "id": "ky1-2000",
+      "type": "ky1",
+      "year": 2000,
+      "month": 12,
+      "set": 1,
+      "title": "2000年考研英语一真题",
+      "file": "ky1/2000.json",
+      "completeness": 0.0,
+      "label": "paper-only",
+      "sectionStatus": {
+        "cloze": "missing",
+        "reading-mcq": "missing",
+        "new-question": "missing",
+        "translation": "missing",
+        "writing-1": "missing",
+        "writing-2": "missing"
+      },
+      "issues": [
+        "cloze 缺",
+        "reading-mcq 缺",
+        "new-question 缺",
+        "translation 缺",
+        "writing-1 缺",
+        "writing-2 缺"
+      ]
     }
   ],
   "summary": {
-    "total": 53,
-    "complete": 4,
-    "near": 9,
-    "partial": 16,
-    "paperOnly": 24
+    "total": 79,
+    "complete": 6,
+    "near": 11,
+    "partial": 22,
+    "paperOnly": 40
   }
 }

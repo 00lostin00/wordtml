@@ -1,0 +1,300 @@
+{
+  "id": "ky1-2013",
+  "type": "ky1",
+  "year": 2013,
+  "month": 12,
+  "set": 1,
+  "title": "2013年考研英语一真题",
+  "sections": [
+    {
+      "id": "cloze",
+      "type": "reading-mcq",
+      "title": "Section I · Use of English",
+      "minutes": 15,
+      "passages": [
+        {
+          "label": "Use of English",
+          "text": "Use of English \nDirections: \nRead the following text. Choose the best word(s) for each numbered blank and \nmark A, B, C or D on the ANSWER SHEET. (10 points) \nPeople are, on the whole, poor at considering background information when \nmaking individual decisions. At first glance this might seem like a strength that \n_1_ the ability to make judgments which are unbiased by _2_ \nUri Simonsohn speculated that an inability to consider the big \n\nfactors. But Dr \nwas leading \ndecision-makers to be biased by the daily samples of information they were working \nwith. _4Ű_, he theorised that a judge \n\nof appearing too soft -ű6- cnme \nmight be more likely to send someone to prison \n\nhe had already sentenced five \nor six other defendants only to forced community service on that day. \nTo __ 8_ this idea, he turned to the university-admissions process. In theory, \nthe _9_ of an applicant should not depend on the few others \n\nrandomly for \ninterview during the same day, but Dr Simonsohn suspected the truth was \n\nHe studied the results of 9,323 MBA interviews \n\nby 31 admissions \nofficers. The interviewers had \n\napplicants on a scale of one to five. This \nscale \n\nnumerous factors into consideration. The scores were \n\nused\n---\nin conjunction with an applicant's score on the Graduate Management Admission Test, \nor GMAT, a standardised exam which is \ndecision on whether to accept him or her. \n\nout of 800 points, to make a \nDr Simonsohn found if the score of the previous candidate in a daily series of \ninterviewees was 0.75 points or more higher than that of the one Ų1ų7- that, then \nthe score for the next applicant would -=-1=-8- by an average of 0.075 points. This \nmight sound small, but to -Ŵ1ŵ9- the effects of such a decrease a candidate would \nneed 30 more GMAT points than would otherwise have been \n20 . \n.1. \n(-3¾-14 yf) \n\n1. [AJ grants\n2. [AJ minor\n3. [AJ issue\n4. [AJ Above all\n5. [AJ fond\n6. [AJ in\n7. [AJ if\n8. [AJ test\n9. [ A J decision\n10. [AJ found\n11. [ A J otherwise \n12. [AJ inspired\n13. [AJ assigned\n14. [AJ put\n15. [AJ instead\n16. [ A J selected\n17. [AJ below\n18. [AJjump\n19. [AJ achieve \n20. [AJ necessary\nPartA \nDirections: \n[BJ submits \n[BJ external \n[BJ vision \n[B] On average\n[BJ fearful \n[B] for\n[B] until\n[B] emphasize\n[B] quality\n[BJ studied \n[BJ defensible \n[B] expressed\n[BJ rated \n[B] got\n[BJ then \n[BJ passed \n[B] after\n[B] float\n[BJ undo \n[B] possible",
+          "questions": [
+            {
+              "id": "q1",
+              "number": 1,
+              "stem": "Blank 1",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "stem": "Blank 2",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "stem": "Blank 3",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "stem": "Blank 4",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q5",
+              "number": 5,
+              "stem": "Blank 5",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q6",
+              "number": 6,
+              "stem": "Blank 6",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q7",
+              "number": 7,
+              "stem": "Blank 7",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q8",
+              "number": 8,
+              "stem": "Blank 8",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q9",
+              "number": 9,
+              "stem": "Blank 9",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q10",
+              "number": 10,
+              "stem": "Blank 10",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q11",
+              "number": 11,
+              "stem": "Blank 11",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q12",
+              "number": 12,
+              "stem": "Blank 12",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q13",
+              "number": 13,
+              "stem": "Blank 13",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q14",
+              "number": 14,
+              "stem": "Blank 14",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q15",
+              "number": 15,
+              "stem": "Blank 15",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q16",
+              "number": 16,
+              "stem": "Blank 16",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q17",
+              "number": 17,
+              "stem": "Blank 17",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q18",
+              "number": 18,
+              "stem": "Blank 18",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q19",
+              "number": 19,
+              "stem": "Blank 19",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q20",
+              "number": 20,
+              "stem": "Blank 20",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing-1",
+      "type": "writing",
+      "title": "Section III Part A · Writing",
+      "minutes": 20,
+      "directions": "",
+      "prompt": ""
+    },
+    {
+      "id": "writing-2",
+      "type": "writing",
+      "title": "Section III Part B · Writing",
+      "minutes": 40,
+      "directions": "",
+      "prompt": ""
+    }
+  ]
+}

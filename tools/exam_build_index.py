@@ -24,14 +24,29 @@ CET6_EXPECTED = {
     "translation": {"source_min": 80},
 }
 
+KY1_EXPECTED = {
+    "cloze": {"q": 20},
+    "reading-mcq": {"q": 20},
+    "new-question": {"q": 5, "para_min": 7},
+    "translation": {"source_min": 80},
+    "writing-1": {"prompt_min_chars": 30},
+    "writing-2": {"prompt_min_chars": 30},
+}
+
+EXPECTED_BY_TYPE = {
+    "cet6": CET6_EXPECTED,
+    "ky1": KY1_EXPECTED,
+}
+
 
 def grade_exam(exam: dict) -> dict:
+    expected = EXPECTED_BY_TYPE.get(exam.get("type"), CET6_EXPECTED)
     sections_by_id = {s["id"]: s for s in exam.get("sections", [])}
     score = 0
     issues = []
     section_status = {}
 
-    for sid, rule in CET6_EXPECTED.items():
+    for sid, rule in expected.items():
         s = sections_by_id.get(sid)
         if not s:
             section_status[sid] = "missing"
@@ -66,7 +81,7 @@ def grade_exam(exam: dict) -> dict:
         if ok:
             score += 1
 
-    full_count = len(CET6_EXPECTED)
+    full_count = len(expected)
     return {
         "score": score,
         "max": full_count,

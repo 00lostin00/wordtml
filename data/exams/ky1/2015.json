@@ -1,0 +1,300 @@
+{
+  "id": "ky1-2015",
+  "type": "ky1",
+  "year": 2015,
+  "month": 12,
+  "set": 1,
+  "title": "2015年考研英语一真题",
+  "sections": [
+    {
+      "id": "cloze",
+      "type": "reading-mcq",
+      "title": "Section I · Use of English",
+      "minutes": 15,
+      "passages": [
+        {
+          "label": "Use of English",
+          "text": "Use of English \nRead the following text. Choose the best word( s) for each numbered blank and \nmark A, B, C orD on the ANSWER SHEET. (10 points) \nThough not biologically related, friends are as \"related\" as fourth cousins, \nsharing about 1 % of genes. That is \n\na study, published from the University \nof California and Yale University in the Proceedings of the National Academy of \nSciences, has \n2 . \nThe study is a genome-wide analysis conducted \n\n1,932 unique subjects \nwhich \n\npairs of unrelated friends and unrelated strangers. The same people \nwere used in both \n\nWhile 1 % may seem \n\n, it is not so to a geneticist. As James Fowler, \nprofessor of medical genetics at UC San Diego, says, \"Most people do not even \n\ntheir fourth cousins but somehow manage to select as friends the people \nwho \n\nour kin.\" \nThe study \n\nfound that the genes for smell were something shared in \nfriends but not genes for immunity. Why this similarity exists in smell genes is \ndifficult to explain, for now. \n\n, as the team suggests, it draws us to similar \nenvironments but there is more \n\nit. There could be many mechanisms \nworking together that \n\nus in choosing genetically similar friends \n\n\"functional kinship\" of being friends with \n\nOne of the remarkable findings of the study was that the similar genes seem \nto be evolving \n\nthan other genes. Studying this could help \n\nwhy \nhuman evolution picked pace in the last 30,000 years, with social environment \nbeing a major \n\nfactor. \nThe findings do not simply explain people's \n\nto befriend those of \nsimilar \n\nbackgrounds, say the researchers. Though all the subjects were \ndrawn from a population of European extraction, care was taken to \nall subjects, friends and strangers, were taken from the same population. \n.1. \n(-3¾-14 yf) \n\nthat",
+          "questions": [
+            {
+              "id": "q1",
+              "number": 1,
+              "stem": "Blank 1",
+              "options": {
+                "A": "when",
+                "B": "why",
+                "C": "how",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "stem": "Blank 2",
+              "options": {
+                "A": "defended",
+                "B": "concluded",
+                "C": "withdrawn",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "stem": "Blank 3",
+              "options": {
+                "A": "for",
+                "B": "with",
+                "C": "on",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "stem": "Blank 4",
+              "options": {
+                "A": "compared",
+                "B": "sought",
+                "C": "separated 5. [AJ tests [BJ objects [CJ samples",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q5",
+              "number": 5,
+              "stem": "Blank 5",
+              "options": {
+                "A": "",
+                "B": "miss",
+                "C": "unreliable",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q6",
+              "number": 6,
+              "stem": "Blank 6",
+              "options": {
+                "A": "insignificant [BJ unexpected",
+                "B": "observe",
+                "C": "seek",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q7",
+              "number": 7,
+              "stem": "Blank 7",
+              "options": {
+                "A": "visit",
+                "B": "responses",
+                "C": "favor 9. [AJ again [BJ also [CJ instead",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q8",
+              "number": 8,
+              "stem": "Blank 8",
+              "options": {
+                "A": "resemble [BJ influence",
+                "B": "remember [CJ understand",
+                "C": "Likewise 11. [AJ about [BJ to [CJ from",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q9",
+              "number": 9,
+              "stem": "Blank 9",
+              "options": {
+                "A": "",
+                "B": "religious",
+                "C": "confuse",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q10",
+              "number": 10,
+              "stem": "Blank 10",
+              "options": {
+                "A": "Meanwhile [BJ Furthermore",
+                "B": "show",
+                "C": "missions 15. [AJ later [BJ slower",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q11",
+              "number": 11,
+              "stem": "Blank 11",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "faster 16. [ A J forecast",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q12",
+              "number": 12,
+              "stem": "Blank 12",
+              "options": {
+                "A": "drive",
+                "B": "",
+                "C": "controllable",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q13",
+              "number": 13,
+              "stem": "Blank 13",
+              "options": {
+                "A": "according to [BJ rather than [CJ regardless of",
+                "B": "",
+                "C": "ethnic",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q14",
+              "number": 14,
+              "stem": "Blank 14",
+              "options": {
+                "A": "chances",
+                "B": "",
+                "C": "prove",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q15",
+              "number": 15,
+              "stem": "Blank 15",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q16",
+              "number": 16,
+              "stem": "Blank 16",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q17",
+              "number": 17,
+              "stem": "Blank 17",
+              "options": {
+                "A": "unpredictable [BJ contributory",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q18",
+              "number": 18,
+              "stem": "Blank 18",
+              "options": {
+                "A": "endeavor [BJ decision [ CJ arrangement",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q19",
+              "number": 19,
+              "stem": "Blank 19",
+              "options": {
+                "A": "political",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q20",
+              "number": 20,
+              "stem": "Blank 20",
+              "options": {
+                "A": "see",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing-1",
+      "type": "writing",
+      "title": "Section III Part A · Writing",
+      "minutes": 20,
+      "directions": "",
+      "prompt": ""
+    },
+    {
+      "id": "writing-2",
+      "type": "writing",
+      "title": "Section III Part B · Writing",
+      "minutes": 40,
+      "directions": "",
+      "prompt": ""
+    }
+  ]
+}

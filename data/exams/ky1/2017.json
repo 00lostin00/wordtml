@@ -1,0 +1,307 @@
+{
+  "id": "ky1-2017",
+  "type": "ky1",
+  "year": 2017,
+  "month": 12,
+  "set": 1,
+  "title": "2017年考研英语一真题",
+  "sections": [
+    {
+      "id": "cloze",
+      "type": "reading-mcq",
+      "title": "Section I · Use of English",
+      "minutes": 15,
+      "passages": [
+        {
+          "label": "Use of English",
+          "text": "Use of English \nRead the following text. Choose the best word(s) for each numbered blank and \nmark A, B, C or D on the ANSWER SHEET. (10 points) \nCould a hug a day keep the doctor away? The answer may be a resounding \n'yes! \" \n\nhelping you feel close and \n\nto people you care about, it \nturns out that hugs can bring a \n\nof health benefits to your body and mind. \nBelieve it or not, a warm embrace might even help you \n\ngetting sick this \nwinter. \nIn a recent study \n\nover 400 healthy adults, researchers from Carnegie \nMellon University in Pennsylvania examined the effects of perceived social \nsupport and the receipt of hugs \n\nthe participants' susceptibility to \ndeveloping the common cold after being \n\nto the virus. People who \nperceived greater social support were less likely to come \n\nwith a cold, and \nthe researchers \n\nthat the stress-reducing effects of hugging \n\nabout \n32 percent of that beneficial effect. \n\namong those who got a cold, the ones \nwho felt greater social support and received more frequent hugs had less severe \n\n\"Hugging protects people who are under stress from the \n\nrisk for \ncolds that's usually \n\nwith stress,\" notes Sheldon Cohen, a professor of \npsychology at Carnegie. Hugging \"is a marker of intimacy and helps \n\nthe \nfeeling that others are there to help \n\ndifficulty.\" \nSome experts \n\nthe stress-reducing, health-related benefits of hugging \nto the release of oxytocin, often called \"the bonding hormone\" \n\nit \npromotes attachment in relationships, including that between mothers and their \nnewborn babies. Oxytocin is made primarily in the central lower part of the brain, \nand some of it is released into the bloodstream. But some of it \n\nin the \nbrain, where it \n\nmood, behavior and physiology. \n.1. \n(-3¾-14 yf)",
+          "questions": [
+            {
+              "id": "q1",
+              "number": 1,
+              "stem": "Blank 1",
+              "options": {
+                "A": "Unlike",
+                "B": "Besides",
+                "C": "Despite",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "stem": "Blank 2",
+              "options": {
+                "A": "connected",
+                "B": "restricted",
+                "C": "equal",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "stem": "Blank 3",
+              "options": {
+                "A": "choice",
+                "B": "view",
+                "C": "lesson",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "stem": "Blank 4",
+              "options": {
+                "A": "recall",
+                "B": "forget",
+                "C": "avoid",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q5",
+              "number": 5,
+              "stem": "Blank 5",
+              "options": {
+                "A": "collecting",
+                "B": "involving",
+                "C": "guiding",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q6",
+              "number": 6,
+              "stem": "Blank 6",
+              "options": {
+                "A": "of [BJ in [CJ at",
+                "B": "exposed",
+                "C": "lost",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q7",
+              "number": 7,
+              "stem": "Blank 7",
+              "options": {
+                "A": "devoted",
+                "B": "along",
+                "C": "down",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q8",
+              "number": 8,
+              "stem": "Blank 8",
+              "options": {
+                "A": "across",
+                "B": "required",
+                "C": "restored",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q9",
+              "number": 9,
+              "stem": "Blank 9",
+              "options": {
+                "A": "calculated [BJ denied [CJ doubted",
+                "B": "Still",
+                "C": "Rather 12. [AJ defeats",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q10",
+              "number": 10,
+              "stem": "Blank 10",
+              "options": {
+                "A": "served",
+                "B": "symptoms",
+                "C": "tests 13. [ A J minimized [BJ highlighted [CJ controlled 14. [ A J equipped",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q11",
+              "number": 11,
+              "stem": "Blank 11",
+              "options": {
+                "A": "Even",
+                "B": "associated [CJ presented 15. [AJ assess [BJ moderate [CJ generate",
+                "C": "in the way of 17. [ A J transfer",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q12",
+              "number": 12,
+              "stem": "Blank 12",
+              "options": {
+                "A": "",
+                "B": "commit",
+                "C": "attribute 18. [AJ because",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q13",
+              "number": 13,
+              "stem": "Blank 13",
+              "options": {
+                "A": "",
+                "B": "unless",
+                "C": "though 19. [AJ emerges [BJ vanishes [CJ remains 20. [ A J experiences [BJ combines [CJ justifies",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q14",
+              "number": 14,
+              "stem": "Blank 14",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q15",
+              "number": 15,
+              "stem": "Blank 15",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q16",
+              "number": 16,
+              "stem": "Blank 16",
+              "options": {
+                "A": "in the face of [B] in the form of",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q17",
+              "number": 17,
+              "stem": "Blank 17",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q18",
+              "number": 18,
+              "stem": "Blank 18",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q19",
+              "number": 19,
+              "stem": "Blank 19",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q20",
+              "number": 20,
+              "stem": "Blank 20",
+              "options": {
+                "A": "",
+                "B": "",
+                "C": "",
+                "D": ""
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section II Part A · Reading Comprehension",
+      "minutes": 70,
+      "passages": []
+    },
+    {
+      "id": "writing-1",
+      "type": "writing",
+      "title": "Section III Part A · Writing",
+      "minutes": 20,
+      "directions": "5 1. Directions: \nYou are to write an email to James Cook, a newly-arrived Australian \nprofessor, recommending some tourist attractions in your city. Please give reasons \nfor your recommendation. \nYou should write neatly on the ANSWER SHEET. \nDo not sign your own name at the end of the email. Use \"Li Ming\" instead. \nDo not write the address. (10 points) \nPartB \n52. Directions:\nWrite an essay of 160-200 words based on the following pictures. In your\nessay, you should \n1 ) describe the pictures briefly, \n2 ) interpret the meaning, and \n3) give your comments.\nYou should write neatly on the ANSWER SHEET. (20 points) \n\u0015* ( - ) iA.\u0016 \n.14. \n(-3l 14 yf )",
+      "prompt": ""
+    },
+    {
+      "id": "writing-2",
+      "type": "writing",
+      "title": "Section III Part B · Writing",
+      "minutes": 40,
+      "directions": "",
+      "prompt": ""
+    }
+  ]
+}

@@ -1,234 +1,109 @@
 {
   "ok": [
     {
-      "slug": "2015-12-1",
-      "sections": 6
+      "slug": "2000",
+      "sections": 0
     },
     {
-      "slug": "2015-12-2",
+      "slug": "2001",
+      "sections": 1
+    },
+    {
+      "slug": "2002",
+      "sections": 1
+    },
+    {
+      "slug": "2003",
+      "sections": 1
+    },
+    {
+      "slug": "2004",
+      "sections": 1
+    },
+    {
+      "slug": "2005",
+      "sections": 1
+    },
+    {
+      "slug": "2006",
+      "sections": 1
+    },
+    {
+      "slug": "2007",
+      "sections": 1
+    },
+    {
+      "slug": "2008",
+      "sections": 1
+    },
+    {
+      "slug": "2009",
+      "sections": 1
+    },
+    {
+      "slug": "2010",
+      "sections": 4
+    },
+    {
+      "slug": "2011",
+      "sections": 4
+    },
+    {
+      "slug": "2012",
+      "sections": 4
+    },
+    {
+      "slug": "2013",
       "sections": 3
     },
     {
-      "slug": "2015-12-3",
-      "sections": 6
-    },
-    {
-      "slug": "2016-06",
+      "slug": "2014",
       "sections": 3
     },
     {
-      "slug": "2016-06-2",
-      "sections": 6
-    },
-    {
-      "slug": "2016-06-3",
+      "slug": "2015",
       "sections": 3
     },
     {
-      "slug": "2016-12-1",
+      "slug": "2016",
       "sections": 6
     },
     {
-      "slug": "2016-12-2",
+      "slug": "2017",
+      "sections": 4
+    },
+    {
+      "slug": "2018",
+      "sections": 4
+    },
+    {
+      "slug": "2019",
+      "sections": 1
+    },
+    {
+      "slug": "2020",
       "sections": 6
     },
     {
-      "slug": "2016-12-3",
+      "slug": "2021",
       "sections": 5
     },
     {
-      "slug": "2017-06-1",
+      "slug": "2022",
       "sections": 6
     },
     {
-      "slug": "2017-06-2",
+      "slug": "2023",
+      "sections": 4
+    },
+    {
+      "slug": "2024",
       "sections": 6
     },
     {
-      "slug": "2017-06-3",
-      "sections": 6
-    },
-    {
-      "slug": "2017-12-1",
-      "sections": 6
-    },
-    {
-      "slug": "2017-12-2",
-      "sections": 5
-    },
-    {
-      "slug": "2017-12-3",
-      "sections": 6
-    },
-    {
-      "slug": "2018-06-1",
-      "sections": 6
-    },
-    {
-      "slug": "2018-06-2",
-      "sections": 6
-    },
-    {
-      "slug": "2018-06-3",
-      "sections": 5
-    },
-    {
-      "slug": "2018-12-1",
-      "sections": 6
-    },
-    {
-      "slug": "2018-12-2",
-      "sections": 3
-    },
-    {
-      "slug": "2018-12-3",
-      "sections": 6
-    },
-    {
-      "slug": "2019-06-1",
-      "sections": 6
-    },
-    {
-      "slug": "2019-06-2",
-      "sections": 6
-    },
-    {
-      "slug": "2019-06-3",
-      "sections": 6
-    },
-    {
-      "slug": "2019-12-1",
-      "sections": 2
-    },
-    {
-      "slug": "2019-12-2",
-      "sections": 2
-    },
-    {
-      "slug": "2019-12-3",
-      "sections": 2
-    },
-    {
-      "slug": "2020-07",
-      "sections": 6
-    },
-    {
-      "slug": "2020-12",
-      "sections": 0
-    },
-    {
-      "slug": "2020-12-1",
-      "sections": 1
-    },
-    {
-      "slug": "2020-12-2",
-      "sections": 1
-    },
-    {
-      "slug": "2020-12-3",
-      "sections": 2
-    },
-    {
-      "slug": "2021-12-1",
-      "sections": 6
-    },
-    {
-      "slug": "2021-12-2",
-      "sections": 6
-    },
-    {
-      "slug": "2021-12-3",
-      "sections": 6
-    },
-    {
-      "slug": "2022-06",
-      "sections": 0
-    },
-    {
-      "slug": "2022-06-1",
-      "sections": 0
-    },
-    {
-      "slug": "2022-06-2",
-      "sections": 0
-    },
-    {
-      "slug": "2022-06-3",
-      "sections": 0
-    },
-    {
-      "slug": "2022-09",
-      "sections": 3
-    },
-    {
-      "slug": "2022-12-1",
-      "sections": 1
-    },
-    {
-      "slug": "2022-12-2",
-      "sections": 1
-    },
-    {
-      "slug": "2022-12-3",
-      "sections": 2
-    },
-    {
-      "slug": "2023-03",
-      "sections": 3
-    },
-    {
-      "slug": "2023-12-1",
-      "sections": 6
-    },
-    {
-      "slug": "2023-12-2",
-      "sections": 6
-    },
-    {
-      "slug": "2023-12-3",
-      "sections": 6
-    },
-    {
-      "slug": "2024-06-1",
-      "sections": 0
-    },
-    {
-      "slug": "2024-06-2",
-      "sections": 0
-    },
-    {
-      "slug": "2024-06-3",
-      "sections": 0
-    },
-    {
-      "slug": "2024-12-1",
-      "sections": 6
-    },
-    {
-      "slug": "2024-12-2",
-      "sections": 6
-    },
-    {
-      "slug": "2024-12-3",
-      "sections": 6
+      "slug": "2025",
+      "sections": 4
     }
   ],
-  "fail": [
-    {
-      "slug": "2019-12",
-      "err": "找不到 paper:D:\\wordtml\\data\\exams\\_raw\\cet6\\2019-12"
-    },
-    {
-      "slug": "2020-09-1",
-      "err": "找不到 paper:D:\\wordtml\\data\\exams\\_raw\\cet6\\2020-09-1"
-    },
-    {
-      "slug": "2020-09-2",
-      "err": "找不到 paper:D:\\wordtml\\data\\exams\\_raw\\cet6\\2020-09-2"
-    },
-    {
-      "slug": "2022-12",
-      "err": "找不到 paper:D:\\wordtml\\data\\exams\\_raw\\cet6\\2022-12"
-    }
-  ]
+  "fail": []
 }

@@ -1,0 +1,638 @@
+{
+  "id": "ky1-2020",
+  "type": "ky1",
+  "year": 2020,
+  "month": 12,
+  "set": 1,
+  "title": "2020年考研英语一真题",
+  "sections": [
+    {
+      "id": "cloze",
+      "type": "reading-mcq",
+      "title": "Section I · Use of English",
+      "minutes": 15,
+      "passages": [
+        {
+          "label": "Use of English",
+          "text": "Use of English\nDirections:\nRead the following text. Choose the best word(s) for each numbered blank and mark A,\nB, C orD  on the ANSWER SHEET. (10 points)\nEven if families don't sit down to eat together as frequently as before, millions of\nBritons will nonetheless have got a share this weekend of one of the nation's great\ntraditions: the Sunday roast. \n] \na cold winter's day, few culinary pleasures can \n\nit. Yet as we report now, the food police are determined that this \n\nshould be rendered\nyet another guilty pleasure \n\nto damage our health.\nThe Food Standards Authority (FSA) has \n\na public warning about the risks of\na compound called acrylamide that forms in some foods cooked \n\nhigh temperatures.\nThis means that people should \n\ncrisping their roast potatoes, reject thin-crust pizzas\nand only \n\ntoast their bread. But where is the evidence to support such alarmist\nadvice? \n\nstudies have shown that acrylamide can cause neurological damage in\nmice, there is no \n\nevidence that it causes cancer in humans.\nScientists say the compound is \n\nto cause cancer but have no hard scientific\nproof. \n\nthe precautionary principle, it could be argued that it is \n\nto follow\nthe FSA advice. \n\nit was rumoured that smoking caused cancer for years before\nthe evidence was found to prove a \n\n.\nDoubtless a piece of boiled beef can always be \n\nup on Sunday alongside\nsome steamed vegetables, without the Yorkshire pudding and no wine. But would life be\nworth living? \n\nthe FSA says it is not telling people to cut out roast foods \n\n,\nbut to reduce their lifetime intake. However, its \n\nrisks coming a cross as being\npushy and overprotective. Constant health scares just \n\nwith no one listening.\n2020年英语（一）试题第1 页共14页",
+          "questions": [
+            {
+              "id": "q1",
+              "number": 1,
+              "stem": "Blank 1",
+              "options": {
+                "A": "In On",
+                "B": "express",
+                "C": "Till",
+                "D": "Towards"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "stem": "Blank 2",
+              "options": {
+                "A": "match",
+                "B": "concern",
+                "C": "satisfy",
+                "D": "influence"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "stem": "Blank 3",
+              "options": {
+                "A": "patience",
+                "B": "guaranteed",
+                "C": "surprise",
+                "D": "enjoyment"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "stem": "Blank 4",
+              "options": {
+                "A": "intensified",
+                "B": "received",
+                "C": "compelled",
+                "D": "privileged"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q5",
+              "number": 5,
+              "stem": "Blank 5",
+              "options": {
+                "A": "ignored",
+                "B": "by",
+                "C": "issued",
+                "D": "cancelled 6."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q6",
+              "number": 6,
+              "stem": "Blank 6",
+              "options": {
+                "A": "under",
+                "B": "avoid",
+                "C": "for",
+                "D": "at 7."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q7",
+              "number": 7,
+              "stem": "Blank 7",
+              "options": {
+                "A": "forget",
+                "B": "regularly",
+                "C": "finish",
+                "D": "regret 8."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q8",
+              "number": 8,
+              "stem": "Blank 8",
+              "options": {
+                "A": "easily",
+                "B": "Since",
+                "C": "partially",
+                "D": "initially 9."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q9",
+              "number": 9,
+              "stem": "Blank 9",
+              "options": {
+                "A": "If",
+                "B": "external",
+                "C": "While",
+                "D": "Unless"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q10",
+              "number": 10,
+              "stem": "Blank 10",
+              "options": {
+                "A": "conclusive",
+                "B": "bound",
+                "C": "secondary",
+                "D": "negative"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q11",
+              "number": 11,
+              "stem": "Blank 11",
+              "options": {
+                "A": "likely",
+                "B": "At the cost of",
+                "C": "insufficient",
+                "D": "slow"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q12",
+              "number": 12,
+              "stem": "Blank 12",
+              "options": {
+                "A": "In addition to",
+                "B": "fortunate",
+                "C": "On the basis of",
+                "D": "In contrast to"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q13",
+              "number": 13,
+              "stem": "Blank 13",
+              "options": {
+                "A": "interesting",
+                "B": "combination",
+                "C": "urgent",
+                "D": "advisable"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q14",
+              "number": 14,
+              "stem": "Blank 14",
+              "options": {
+                "A": "As usual ：B] After all EC] By definition",
+                "B": "used",
+                "C": "resemblance",
+                "D": "In particular"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q15",
+              "number": 15,
+              "stem": "Blank 15",
+              "options": {
+                "A": "connection",
+                "B": "gradually",
+                "C": "saved",
+                "D": "pattern"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q16",
+              "number": 16,
+              "stem": "Blank 16",
+              "options": {
+                "A": "made",
+                "B": "competition",
+                "C": "To be fair",
+                "D": "served"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q17",
+              "number": 17,
+              "stem": "Blank 17",
+              "options": {
+                "A": "To be brief ：B] For instance",
+                "B": "",
+                "C": "reluctantly",
+                "D": "In general"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q18",
+              "number": 18,
+              "stem": "Blank 18",
+              "options": {
+                "A": "entirely",
+                "B": "",
+                "C": "experience",
+                "D": "carefully"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q19",
+              "number": 19,
+              "stem": "Blank 19",
+              "options": {
+                "A": "promise",
+                "B": "",
+                "C": "open up",
+                "D": "campaign"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q20",
+              "number": 20,
+              "stem": "Blank 20",
+              "options": {
+                "A": "follow up end up",
+                "B": "",
+                "C": "",
+                "D": "pick up"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section II Part A · Reading Comprehension",
+      "minutes": 70,
+      "passages": [
+        {
+          "label": "Text 1",
+          "text": "A group of Labour MPs, among them Yvette Cooper, are bringing in the new year\nwith a call to institute a UK \"town of culture^^ award. The proposal is that it should sit\nalongside the existing city of culture title, which was held by Hull in 2017, and has been\nawarded to Coventry for 2021. Cooper and her colleagues argue that the success of the\ncrown for Hull, where it brought in £220m of investment and an avalanche of arts, ought\nnot to be confined to cities. Britain's towns, it is true, are not prevented from applying,\nbut they generally lack the resources to put together a bid to beat their bigger competitors.\nA town of culture award could, it is argued, become an annual event, attracting funding\nand creating jobs.\nSome might see the proposal as a booby prize for the fact that Britain is no longer\nable to apply for the much more prestigious title of European capital of culture, a sought-\nafter award bagged by Glasgow in 1990 and Liverpool in 2008. A cynic might speculate\nthat the UK is on the verge of disappearing into an endless fever of self^celebration in its\ndesperation to reinvent itself for the post-Brexit world: after town of culture, who knows\nwhat will follow- village of culture? Suburb of culture? Hamlet of culture?\nIt is also wise to recall that such titles are not a cure-all. A badly run \"year of\nculture^^ washes in and out of a place like the tide, bringing prominence for a spell but\nleaving no lasting benefits to the community. The really successful holders of such titles\nare those that do a great deal more than fill hotel bedrooms and bring in high-profile arts\nevents and good press for a year. They transform the aspirations of the people who live\nthere; they nudge the self-image of the city into a bolder and more optimistic light. It is\nhard to get right, and requires a remarkable degree of vision, as well as cooperation\nbetween city authorities, the private sector, community groups and cultural organisations.\nBut it can be done: Glasgow's year as European capital of culture can certainly be seen\nas one of a complex series of factors that have turned the city into the powerhouse of\nart, music and theatre that it remains today.\nA \"town of culture“ could be not just about the arts but about honouring a town's\npeculiarities- helping sustain its high street, supporting local facilities and above all\ncelebrating its people. Jeremy Wright, the culture secretary, should welcome this positive,\nhope-filled proposal, and turn it into action.\n2020年英语（一）试题第3 页共14页",
+          "questions": [
+            {
+              "id": "q21",
+              "number": 21,
+              "stem": "Cooper and her colleagues argue that a “town of culture“ award could",
+              "options": {
+                "A": "consolidate the town-city ties in Britain.",
+                "B": "promote cooperation among Britain's towns.",
+                "C": "increase the economic strength of Britain's towns.",
+                "D": "focus Britain's limited resources on cultural events."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q22",
+              "number": 22,
+              "stem": "According to Paragraph 2, the proposal might be regarded by some as",
+              "options": {
+                "A": "a sensible compromise.",
+                "B": "a self^deceiving attempt.",
+                "C": "an eye-catching bonus.",
+                "D": "an inaccessible target."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q23",
+              "number": 23,
+              "stem": "The author suggests that a title holder is successful only if it",
+              "options": {
+                "A": "endeavours to maintain its image.",
+                "B": "meets the aspirations of its people.",
+                "C": "brings its local arts to prominence.",
+                "D": "commits to its long-term growth."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q24",
+              "number": 24,
+              "stem": "Glasgow is mentioned in Paragraph 3 to present",
+              "options": {
+                "A": "a contrasting case.",
+                "B": "a supporting example.",
+                "C": "a background story.",
+                "D": "a related topic."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q25",
+              "number": 25,
+              "stem": "What is the author's attitude towards the proposal?",
+              "options": {
+                "A": "Skeptical.",
+                "B": "Objective.",
+                "C": "Favourable.",
+                "D": "Critical. 2020年英语（一）试题第4 页共14页"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Text 2",
+          "text": "Scientific publishing has long been a licence to print money. Scientists need\njournals in which to publish their research, so they will supply the articles without\nmonetary reward. Other scientists perform the specialised work of peer review also for\nfree, because it is a central element in the acquisition of status and the production of\nscientific knowledge.\nWith the content of papers secured for free, the publisher needs only to find a\nmarket for its journal. Until this century, university libraries were not very price sensitive.\nScientific publishers routinely report profit margins approaching 40% on their operations,\nat a time when the rest of the publishing industry is in an existential crisis.\nThe Dutch giant Elsevier, which claims to publish 25% of the scientific papers\nproduced in the world, made profits of more than £900m last year, while UK\nuniversities alone spent more than £210m in 2016 to enable researchers to access their\nown publicly funded research; both figures seem to rise unstoppably despite increasingly\ndesperate efforts to change them.\nThe most drastic, and thoroughly illegal, reaction has been the emergence of Sci-\nHub, a kind of global photocopier for scientific papers, set up in 2012, which now\nclaims to offer access to every paywalled article published since 2015. The success of\nSci-Hub, which relies on researchers passing on copies they have themselves legally\naccessed, shows the legal ecosystem has lost legitimacy among its users and must be\ntransformed so that it works for all participants.\nIn Britain the move towards open access publishing has been driven by funding\nbodies. In some ways it has been very successful. More than half of all British\nscientific research is now published under open access terms: either freely available from\nthe moment of publication, or paywalled for a year or more so that the publishers can\nmake a profit before being placed on general release.\nYet the new system has not worked out any cheaper for the universities. Publishers\nhave responded to the demand that they make their product free to readers by charging\ntheir writers fees to cover the costs of preparing an article. These range from around\n£500 to $5,000. A report last year pointed out that the costs both of subscriptions and\nof these “article preparation costs“ had been steadily rising at a rate above inflation. In\nsome ways the scientific publishing model resembles the economy of the social internet:\nlabour is provided free in exchange for the hope of status, while huge profits are made by\na few big firms who run the market places. In both cases, we need a rebalancing of\npower.\n2020年英语（一）试题第5 页共14页",
+          "questions": [
+            {
+              "id": "q26",
+              "number": 26,
+              "stem": "Scientific publishing is seen as “a licence to print money,, partly because",
+              "options": {
+                "A": "its funding has enjoyed a steady increase.",
+                "B": "its marketing strategy has been successful.",
+                "C": "its payment for peer review is reduced.",
+                "D": "its content acquisition costs nothing."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q27",
+              "number": 27,
+              "stem": "According to Paragraphs 2 and 3, scientific publishers like Elsevier have",
+              "options": {
+                "A": "thrived mainly on university libraries.",
+                "B": "gone through an existential crisis.",
+                "C": "revived the publishing industry.",
+                "D": "financed researchers generously."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q28",
+              "number": 28,
+              "stem": "How does the author feel about the success of Sci-Hub?",
+              "options": {
+                "A": "Relieved.",
+                "B": "Puzzled.",
+                "C": "Concerned.",
+                "D": "Encouraged."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q29",
+              "number": 29,
+              "stem": "It can be learned from Paragraphs 5 and 6 that open access terms",
+              "options": {
+                "A": "allow publishers some room to make money.",
+                "B": "render publishing much easier for scientists.",
+                "C": "reduce the cost of publication substantially.",
+                "D": "free universities from financial burdens."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q30",
+              "number": 30,
+              "stem": "Which of the following characterises the scientific publishing model?",
+              "options": {
+                "A": "Trial subscription is offered.",
+                "B": "Labour triumphs over status.",
+                "C": "Costs are well controlled.",
+                "D": "The few feed on the many. 2020年英语（一）试题第6 页共14页"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Text 3",
+          "text": "Progressives often support diversity mandates as a path to equality and a way to\nlevel the playing field. But all too often such policies are an insincere form of virtue­\nsignaling that benefits only the most privileged and does little to help average people.\nA pair of bills sponsored by Massachusetts state Senator Jason Lewis and House\nSpeaker Pro Tempore Patricia Haddad, to ensure \"gender parity“ on boards and\ncommissions, provide a case in point.\nHaddad and Lewis are concerned that more than half the state-government boards\nare less than 40 percent female. In order to ensure that elite women have more such\nopportunities, they have proposed imposing government quotas. If the bills become law,\nstate boards and commissions will be required to set aside 50 percent of board seats for\nwomen by 2022.\nThe bills are similar to a measure recently adopted in California, which last year\nbecame the first state to require gender quotas for private companies. In signing the\nmeasure, California Governor Jerry Brown admitted that the law, which expressly\nclassifies people on the basis of sex, is probably unconstitutional.\nThe US Supreme Court frowns on sex-based classifications unless they are\ndesigned to address an \"important“ policy interest, Because the California law applies to\nall boards, even where there is no history of prior discrimination, courts are likely to rule\nthat the law violates the constitutional guarantee of \"equal protection.”\nBut are such government mandates even necessary? Female participation on\ncorporate boards may not currently mirror the percentage of women in the general\npopulation, but so what?\nThe number of women on corporate boards has been steadily increasing without\ngovernment interference. According to a study by Catalyst, between 2010 and 2015 the\nshare of women on the boards of global corporations increased by 54 percent.\nRequiring companies to make gender the primary qualification for board\nmembership will inevitably lead to less experienced private sector boards. That is\nexactly what happened when Norway adopted a nationwide corporate gender quota.\nWriting in The New Republic. Alice Lee notes that increasing the number of\nopportunities for board membership without increasing the pool of qualified women to\nserve on such boards has led to a \"golden skirt“ phenomenon, where the same elite\nwomen scoop up multiple seats on a variety of boards.\nNext time somebody pushes corporate quotas as a way to promote gender equity,\nremember that such policies are largely self-serving measures that make their sponsors\nfeelgood but do little to help average women.\n2020年英语（一）试题第7 页共14页",
+          "questions": [
+            {
+              "id": "q31",
+              "number": 31,
+              "stem": "The author believes that the bills sponsored by Lewis and Haddad will",
+              "options": {
+                "A": "help little to reduce gender bias.",
+                "B": "pose a threat to the state government.",
+                "C": "raise women's position in politics.",
+                "D": "greatly broaden career options."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q32",
+              "number": 32,
+              "stem": "Which of the following is true of the California measure?",
+              "options": {
+                "A": "It has irritated private business owners.",
+                "B": "It is welcomed by the Supreme Court.",
+                "C": "It may go against the Constitution.",
+                "D": "It will settle the prior controversies."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q33",
+              "number": 33,
+              "stem": "The author mentions the study by Catalyst to illustrate",
+              "options": {
+                "A": "the harm from arbitrary board decisions.",
+                "B": "the importance of constitutional guarantees.",
+                "C": "the pressure on women in global corporations.",
+                "D": "the needlessness of government interventions."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q34",
+              "number": 34,
+              "stem": "Norway9 s adoption of a nationwide corporate gender quota has led to",
+              "options": {
+                "A": "the underestimation of elite women's role.",
+                "B": "the objection to female participation on boards.",
+                "C": "the entry of unqualified candidates into the board.",
+                "D": "the growing tension between labor and management."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q35",
+              "number": 35,
+              "stem": "Which of the following can be inferred from the text?",
+              "options": {
+                "A": "Women5s needs in employment should be considered.",
+                "B": "Feasibility should be a prime concern in policymaking.",
+                "C": "Everyone should try hard to promote social justice.",
+                "D": "Major social issues should be the focus of legislation. 2020年英语（一）试题第8 页共14页"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Text 4",
+          "text": "Last Thursday, the French Senate passed a digital services tax, which would impose\nan entirely new tax on large multinationals that provide digital services to consumers or\nusers in France. Digital services include everything from providing a platform for selling\ngoods and services online to targeting advertising based on user data, and the tax applies\nto gross revenue from such services. Many French politicians and media outlets have\nreferred to this as a \"GAFA tax,“ meaning that it is designed to apply primarily to\ncompanies such as Google, Apple, Facebook and Amazon- in other words, multinational\ntech companies based in the United States.\nThe digital services tax now awaits the signature of President Emmanuel Macron,\nwho has expressed support for the measure, and it could go into effect within the next\nfew weeks. But it has already sparked significant controversy, with the United States\ntrade representative opening an investigation into whether the tax discriminates against\nAmerican companies, which in turn could lead to trade sanctions against France.\nThe French tax is not just a unilateral move by one country in need of revenue.\nInstead, the digital services tax is part of a much larger trend, with countries over the\npast few years proposing or putting in place an alphabet soup of new international tax\nprovisions. These have included Britain's DPT (diverted profits tax), Australia's MAAL\n(multinational antiavoidance law), and India's SEP (significant economic presence) test,\nto name but a few. At the same time, the European Union, Spain, Britain and several\nother countries have all seriously contemplated digital services taxes.\nThese unilateral developments differ in their specifics, but they are all designed to tax\nmultinationals on income and revenue that countries believe they should have a right to tax,\neven if international tax rules do not grant them that right. In other words, they all share a\nview that the international tax system has failed to keep up with the current economy.\nIn response to these many unilateral measures, the Organization for Economic\nCooperation and Development (OECD) is currently working with 131 countries to reach\na consensus by the end of 2020 on an international solution. Both France and the United\nStates are involved in the organization's work, but France's digital services tax and the\nAmerican response raise questions about what the future holds for the international tax\nsystem.\nFrance's planned tax is a clear warning: Unless a broad consensus can be reached\non reforming the international tax system, other nations are likely to follow suit, and\nAmerican companies will face a cascade of different taxes from dozens of nations that\nwill prove burdensome and costly.\n2020年英语（一）试题第9 页共14页",
+          "questions": [
+            {
+              "id": "q36",
+              "number": 36,
+              "stem": "The French Senate has passed a bill to",
+              "options": {
+                "A": "regulate digital services platforms.",
+                "B": "impose a levy on tech multinationals.",
+                "C": "protect French companies9 interests.",
+                "D": "curb the influence of advertising."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q37",
+              "number": 37,
+              "stem": "It can be learned from Paragraph 2 that the digital services tax",
+              "options": {
+                "A": "will prompt the tech giants to quit France.",
+                "B": "aims to ease international trade tensions.",
+                "C": "is apt to arouse criticism at home and abroad.",
+                "D": "may trigger countermeasures against France."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q38",
+              "number": 38,
+              "stem": "The countries adopting the unilateral measures share the opinion that",
+              "options": {
+                "A": "the current international tax system needs upgrading.",
+                "B": "redistribution of tech giants' revenue must be ensured.",
+                "C": "tech multinationals9 monopoly should be prevented.",
+                "D": "all countries ought to enjoy equal taxing rights."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q39",
+              "number": 39,
+              "stem": "It can be learned from Paragraph 5 that the OECD's current work",
+              "options": {
+                "A": "is being resisted by US companies.",
+                "B": "is faced with uncertain prospects.",
+                "C": "needs to be readjusted immediately.",
+                "D": "needs to involve more countries."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q40",
+              "number": 40,
+              "stem": "Which of the following might be the best title for this text?",
+              "options": {
+                "A": "France leads the charge on Digital Tax",
+                "B": "France Is Confronted with Trade Sanctions",
+                "C": "France Demands a Role in the Digital Economy",
+                "D": "France Says \"NO\" to Tech Multinationals 2020年英语（一）试题第10页共14页"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "new-question",
+      "type": "matching",
+      "title": "Section II Part B · New Question Type",
+      "minutes": 15,
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Eye fixations are brief."
+        },
+        {
+          "label": "B",
+          "text": "TOO much eye contact is instinctively felt to be rude."
+        },
+        {
+          "label": "C",
+          "text": "Eye contact can be a friendly social signal."
+        },
+        {
+          "label": "D",
+          "text": "Personality can affect how a person reacts to eye contact."
+        },
+        {
+          "label": "E",
+          "text": "Biological factors behind eye contact are being investigated."
+        },
+        {
+          "label": "F",
+          "text": "Most people are not comfortable holding eye contact with strangers."
+        },
+        {
+          "label": "G",
+          "text": "Eye contact can be aggressive. In a social situation, eye contact with another person can show that you are paying attention in a friendly way. But it can also be antagonistic, such as when a political candidate turns toward their competitor during a debate and makes eye contact that signals hostility. Here9s what hard science reveals about eye contact: 41. We know that a typical infant will instinctively gaze into its mother's eyes, and she will look back. This mutual gaze is a major part of the attachment between mother and child. In adulthood, looking at someone else in a pleasant way can be a complimentary sign of paying attention. It can catch someone's attention in a crowded room, “Eye contact and smiles^^ can signal availability and confidence, a common-sense notion supported in studies by psychologist Monica Moore. 42. Neuroscientist Bonnie Auyeung found that the hormone oxytocin increased the amount of eye contact from men toward the interviewer during a brief interview when the direction of their gaze was recorded. This was also found in high-functioning men 2020年英语（一）试题第n 页共14页 with some autistic spectrum symptoms, who may tend to avoid eye contact. Specific brain regions that respond during direct gaze are being explored by other researchers, using advanced methods of brain scanning. 43. With the use of eye-tracking technology, Julia Minson of the Harvard Kennedy School of Government concluded that eye contact can signal very different kinds of messages, depending on the situation. While eye contact may be a sign of connection or trust in friendly situations, it's more likely to be associated with dominance or intimidation in adversarial situations. \"Whether you9re a politician or a parent, it might be helpful to keep in mind that trying to maintain eye contact may backfire if you9re trying to convince someone who has a different set of beliefs than you,“said Minson. 44. When we look at a face or a picture, our eyes pause on one spot at a time, often on the eyes or mouth. These pauses typically occur at about three per second, and the eyes then jump to another spot, until several important points in the image are registered like a series of snapshots. How the whole image is then assembled and perceived is still a mystery although it is the subject of current research. 45. In people who score high in a test of neuroticism, a personality dimension associated with self-consciousness and anxiety, eye contact triggered more activity associated with avoidance,according to the Finnish researcher Jari Hietanen and colleagues. ctOur findings indicate that people do not only feel different when they are the centre of attention but that their brain reactions also differ.\" A more direct finding is that people who scored high for negative emotions like anxiety looked at others for shorter periods of time and reported more comfortable feelings when others did not look directly at them. 2020年英语（一）试题第12页共14页"
+        }
+      ],
+      "questions": []
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Section II Part C · Translation",
+      "minutes": 20,
+      "targetLanguage": "zh",
+      "directions": "Translate the underlined segments into Chinese.",
+      "source": "Directions:\nRead the following text carefully and then translate the underlined segments into\nChinese. Write your answers on the ANSWER SHEET. (10 points)\nFollowing the explosion of creativity in Florence during the 14th century known as\nthe Renaissance, the modem world saw a departure from what it had once known. It\nturned from God and the authority of the Roman Catholic Church and instead favoured\na more humanistic approach to being. Renaissance ideas had spread throughout Europe\nwell into the 17th century,with the arts and sciences flourishing extraordinarily among\nthose with a more logical disposition. (46) with the Church's teachings and ways of\nthinking being eclipsed by the Renaissance, the gap between the Medieval and modem\nperiods had been bridged、leading to new and unexplored intellectual territories.\nDuring the Renaissance, the great minds of Nicolaus Copernicus, Johannes Kepler\nand Galileo Galilei demonstrated the power of scientific study and discovery. (47)\nBefore each of their revelations, many thinkers at the time had sustained more ancient\nways of thinking, including the geocentric view that the Earth was at the centre of our\nuniverse. Copernicus theorized in 1543 that all of the planets that we knew of revolved\nnot around the Earth, but the Sun, a system that was later upheld by Galileo at his own\nexpense. Offering up such a theory during a time of high tension between scientific and\nreligious minds was branded as heresy, and any such heretics that continued to spread\nthese lies were to be punished by imprisonment or even death.\n(48) Despite attempts by the Church to suppress this new generation of logicians\nand rationalists, more explanations for how the universe fiinctioned were being made\nat a rate that the people could no longer ignore. It was with these great revelations that a\nnew kind of philosophy founded in reason was bom.\nThe Church5s long-standing dogma was losing the great battle for truth to\nrationalists and scientists. This very fact embodied the new ways of thinking that swept\nthrough Europe during most of the 17th century. (49) As many took on the duty of\ntrying to integrate reasoning and scientific philosophies into the world, the Renaissance\nwas over and it was time for a new era -  the Age of Reason.\nThe 17th and 18th centuries were times of radical change and curiosity, Scientific\nmethod, reductionism and the questioning of Church ideals was to be encouraged, as\nwere ideas of liberty, tolerance and progress. (50) Such actions to seek knowledge and\nto understand what information we already knew were captured by the Latin phrase\n'sapere aude' or 'dare to know： after Immanuel Kant used it in his essay \"An Answer to\nthe Question: What is Enlightenment? \nIt was the purpose and responsibility of great\nminds to go forth and seek out the truth, which they believed to be founded in knowledge.\n2020年英语（一）试题第13页共14页"
+    },
+    {
+      "id": "writing-1",
+      "type": "writing",
+      "title": "Section III Part A · Writing",
+      "minutes": 20,
+      "directions": "51. Directions:\nThe student Union of your university has assigned you to inform the international\nstudents about an upcoming singing contest. Write a notice in about 100 words.\nWrite your answer on the ANSWER SHEET.\nDo not use your own name in the notice. (10 points)",
+      "prompt": ""
+    },
+    {
+      "id": "writing-2",
+      "type": "writing",
+      "title": "Section III Part B · Writing",
+      "minutes": 40,
+      "directions": "52. Directions:\nWrite an essay of 160-200 words based on the pictures below. In your essay,\nyou should\n1) describe the pictures briefly,\n2) interpret the implied meaning, and\n3) give your comments.\nWrite your answer on the ANSWER SHEET. (20 points)\n习惯\n2020年英语（一）试题第14页共14页",
+      "prompt": ""
+    }
+  ]
+}
