@@ -83,7 +83,7 @@ export async function render(ctx) {
       modeCard("🗺️ 地图闯关", "主题世界 · 关卡 + 星级", true, () => router.go("/map")),
       modeCard("🏆 段位赛", "青铜→王者 · 限时混合", true, () => router.go("/rank")),
       modeCard("🛒 道具商店", "用金币购买提示/跳过/延时/透视", true, () => router.go("/shop")),
-      modeCard("⚡ 快速反应", "30/60/90 秒连答 · Phase 5", false),
+      modeCard("⚡ 快速反应", "30/60/90 秒限时连答", true, () => router.go("/rapid")),
     ]),
   ]));
 }

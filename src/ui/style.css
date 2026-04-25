@@ -341,6 +341,29 @@ input:focus, select:focus, textarea:focus { border-color: var(--accent); }
 .pill.warn { color: var(--warn); border-color: rgba(242, 185, 74, 0.5); }
 .pill.err { color: var(--err); border-color: rgba(255, 106, 106, 0.5); }
 
+/* === rapid page === */
+.rapid-card {
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-card);
+  cursor: pointer;
+  transition: border-color 0.15s, transform 0.12s;
+}
+.rapid-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+.rapid-time {
+  margin: 8px 0 2px;
+  font-size: 36px;
+  font-weight: 800;
+}
+.rapid-card button {
+  margin-top: 14px;
+  width: 100%;
+}
+
 /* === stats page === */
 .stats-heatmap {
   display: grid;
