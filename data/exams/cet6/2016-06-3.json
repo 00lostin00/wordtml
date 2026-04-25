@@ -22,6 +22,318 @@
       "questions": []
     },
     {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to\nselect one word for each blank from a list of choices given in a word bank\nfollowing the passage. Read the passage through carefully before making\nyour choices. Each choice in the bank is identified by a letter. Please\nmark the corresponding letter for each item on Answer Sheet 2 with a\nsingle line through the centre. You may not use any of the words in the\nbank more than once.\nQuestions 26 to 35 are based on the following passage.\nLet’s say you love roller-skating. Just the thought of 26 on your roller-skates\nbrings a smile to your face. You also know that roller-skating is excellent exercise.\nYou have a\n\nattitude toward it.\nThis description of roller-skating 28 the three components of an attitude: affect,\ncognition, and behavior. You love the activity; ifs great fun. These feelings 29 the\naffective or emotional component; they are an important ingredient in attitudes. The\nknowledge we have about the object constitutes the cognitive component of an\nattitude. You understand the health 30 that the activity can bring. Finally, attitudes\nhave a behavioral component. Our attitudes 31 us to go outside to enjoy\nroller-skating.\nNow, we don't want to leave you with the 32 that these three components always\nwork together 33 . They don't; sometimes they clash. For example, Let’s say you love\npizza (affective component); however, you have high cholesterol and understand\n(knowledge component) that eating pizza may be bad for your health. Which behavior\nwill your attitude result in, eating pizza or 34 it? The answer depends on which\ncomponent happens to be stronger. If you are walking past a pizza restaurant at\nlunchtime, your emotions and feelings probably will be stronger than your knowledge\nthat pizza may not be the best food for your health. In that instance, you have pizza\n\nfor lunch. If you are at home trying to decide where to go for dinner, however, the\nknowledge component may 35 , and you decide to go where you can eat a healthier\nmeal.",
+      "wordBank": {
+        "A": "Avoiding",
+        "B": "Benefits",
+        "C": "Highlight",
+        "D": "Illustrates",
+        "E": "Impression",
+        "F": "Improves",
+        "G": "Inquiring",
+        "H": "Perfectly",
+        "I": "Positive",
+        "J": "Prevail",
+        "K": "Primarily",
+        "L": "Prompt",
+        "M": "Specifications",
+        "N": "Strapping",
+        "O": "Typical"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Not many young people eligible for voting are interested in local or national\nelections these days.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Parents are concerned that their children may get involved in criminal\noffences once they reach their teens.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Even during the turbulent years of last century, youth rebellion was often\nexaggerated in the media.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Teenagers of today often turn to their parents for advice on such important\nmatters as career choice.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "The incidence of teenage crime and misbehavior is decreasing nowadays.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Young people should have lofty ideals in life and strive to be leaders.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Some young people like to keep something to themselves and don't want\n\ntheir parents to know about it.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "It is beneficial to encourage young people to explore the broader world and\nget ready to make it a better place.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Many teenagers now offer to render service to the needy.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Interviews with students find many of them are only concerned about\npersonal matters.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nManufacturers of products that claim to be environmentally friendly will face\ntighter rules on how they are advertised to consumers under changes proposed by the\nFederal Trade Commission.\nThe commission's revised \"Green Guides\" warn marketers against using labels\nthat make broad claims, like \"eco-friendly\". Marketers must qualify their claims on\nthe product packaging and limit them to a specific benefit, such as how much of the\nproduct is recycled.\n\"This is really about trying to cut through the confusion that consumers have\nwhen they are buying a product and that businesses have when they are selling a\nproduct,” said Jon Leibowitz, chairman of the commission.\nThe revisions come at a time when green marketing is on the rise. According to a\nnew study, the number of advertisements with green messages in mainstream\nmagazines has risen since 1987, and peaked in 2008 at 10.4%. In 2009, the number\ndropped to 9%.\nBut while the number of advertisements may have dipped, there has been a rapid\nspread of eco-labeling. There are both good and bad players in the eco-labeling game.\nIn the last five years or so, there has been an explosion of green claims and\nenvironmental claims. It is clear that consumers don't always know what they are\ngetting.\nA handful of lawsuits have been filed in recent years against companies accused\nof using misleading environmental labels. In 2008 and 2009, class-action lawsuits (集\n体诉讼)were filed against SC Johnson for using \"Greenlist\" labels on its cleaning\nproducts. The lawsuits said that the label was misleading because it gave the\nimpression that the products had been certified by a third party when the certification\nwas the company's own.\n\"We are very proud of our accomplishments under the Greenlist system and we\nbelieve that we will prevail in these cases,\" Christopher Beard, director of public\naffairs for SC Johnson, said, while acknowledging that “this has been an area that is\n\ndifficult to navigate”.\nCompanies have also taken it upon themselves to contest each other's green\nclaims.\nDavid Mallen, associate director of the Council of Better Business Bureau, said\nin the last two years the organization had seen an increase in the number of claims\ncompanies were bringing against each other for false or misleading environmental\nproduct claims.\n\"About once a week, I have a client that will bring up a new certification I've\nnever even heard of and I'm in this industry,\" said Kevin Wilhelm, chief executive\nofficer of Sustainable Business Consulting. t4Ifs kind of a Wild West, anybody can\nclaim themselves to be green.,, Mr. Wilhelm said the excess of labels made it difficult\nfor businesses and consumers to know which labels they should pay attention to.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What do the revised “Green Guides” require businesses to do?",
+              "options": {
+                "A": "Manufacture as many green products as possible.",
+                "B": "Indicate whether their products are recyclable.",
+                "C": "Specify in what way their products are green.",
+                "D": "Attach green labels to all of their products."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What does the author say about consumers facing an explosion of green claims?",
+              "options": {
+                "A": "They can easily see through the businesses5 tricks.",
+                "B": "They have to spend lots of time choosing products.",
+                "C": "They have doubt about current green certification.",
+                "D": "They are not clear which products are truly green."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What was SC Johnson accused of in the class-action lawsuits?",
+              "options": {
+                "A": "It gave consumers the impression that all its products were truly green.",
+                "B": "It gave a third party the authority to label its products as environmentally friendly.",
+                "C": "It misled consumers to believe that its products had been certified by a third party.",
+                "D": "It sold cleaning products that were not included in the official \"Greenlist\"."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "How did Christopher Beard defend his company's labeling practice?",
+              "options": {
+                "A": "There were no clear guidelines concerning green labeling.",
+                "B": "His company's products had been well received by the public.",
+                "C": "It was in conformity to the prevailing practice in the market.",
+                "D": "No law required the involvement of a third party in certification."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What does Kevin Wilhelm imply by saying \"It's kind of a Wild West\" (Lines 2-3, Para. 11)?",
+              "options": {
+                "A": "Businesses compete to produce green products.-",
+                "B": "Each business acts its own way in green labeling.",
+                "C": "Consumers grow wild with products labeled green.",
+                "D": "Anything produced in the West can be labeled green."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\n\nAmerica's education system has become less a ladder of opportunity than a\nstructure to transmit inequality from one generation to the next.\nThat’s why school reform is so critical. This is an issue of equality, opportunity\nand national conscience. lt5s not just about education, but about poverty and justice.\nIt’s true that the main reason inner-city schools do poorly isn't teachers' unions,\nbut poverty. Southern states without strong teachers’ unions have schools at least as\nawful as those in union states. Some Chicago teachers seem to think that they\nshouldn't be held accountable until poverty is solved. There5re steps we can take that\nwould make some difference, and Mayor Rahm Emanuel is trying some of them—yet\nthe union is resisting.\nI'd be sympathetic if the union focused solely on higher compensation. Teachers\nneed to be much better paid to attract the best college graduates to the nation's worst\nschools. But, instead, the Chicago union seems to be using its political capital\nprimarily to protect weak performers.\nThere's solid evidence that there are huge differences in the effectiveness of\nteachers. The gold standard study by Harvard and Columbia University scholars\nfound that even in high-poverty schools, teachers consistently had a huge positive or\nnegative impact.\nGet a bottom 1% teacher, and the effect is the same as if a child misses 40% of\nthe school year. Get a teacher from the top 20%, and it's as if a child has gone to\nschool for an extra month or two.\nThe study found that strong teachers in the fourth through eighth grades raised\nthe skills of their students in ways that would last for decades. Just having a strong\nteacher for one elementary year left pupils a bit less likely to become mothers as\nteenagers, a bit more likely to go to college and earning more money at age 28.\nHow does one figure out who is a weak teacher? Yes, that's a challenge. But\nresearchers are improving systems to measure a teacher's performance throughout the\nyear, and, with three years of data, ifs usually possible to tell which teachers are\nfailing.\nUnfortunately, the union in Chicago is insisting that teachers who are laid\noff-often for being ineffective—should get priority in new hiring. That’s an insult to\nstudents.\nTeaching is so important that it should be like other professions, with high pay\nand good working conditions but few job protections for bottom performers.\nThis isn't a battle between garment workers and greedy bosses. The central\nfigures in the Chicago schools strike are neither strikers nor managers but 350,00O\nchildren. Protecting the union demand sacrifices those students, in effect turning a\nblind eye to the injustice in the education system.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What do we learn about America's education system?",
+              "options": {
+                "A": "It provides a ladder of opportunity for the wealthy.",
+                "B": "It contributes little to the elimination of inequality.",
+                "C": "It has remained basically unchanged for generations.",
+                "D": "It has brought up generations of responsible citizens."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What is chiefly responsible for the undesirable performance of inner-city schools?",
+              "options": {
+                "A": "Unqualified teachers.",
+                "B": "Unfavorable learning environment.",
+                "C": "Lack of financial resources.",
+                "D": "Subconscious racial discrimination."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does the author think the union should do to win popular support?",
+              "options": {
+                "A": "Assist the city government in reforming schools.",
+                "B": "Give constructive advice to inner-city schools.",
+                "C": "Demand higher pay for teachers.",
+                "D": "Help teachers improve teaching."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What is the finding of the gold standard study by Harvard and Columbia University scholars?",
+              "options": {
+                "A": "Many inner-city school teachers are not equal to their jobs.",
+                "B": "A large proportion of inner-city children often miss classes.",
+                "C": "Many students are dissatisfied with their teachers.",
+                "D": "Student performance has a lot to do with teachers."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "Why does the author say the Chicago union's demand is an insult to students?",
+              "options": {
+                "A": "It protects incompetent teachers at the expense of students.",
+                "B": "It underestimates students5 ability to tell good teachers from poor ones.",
+                "C": "It makes students feel that they are discriminated against in many ways.",
+                "D": "It totally ignores students' initiative in the learning process."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "translation",
       "type": "translation",
       "title": "Part IV Translation",

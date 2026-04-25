@@ -56,7 +56,7 @@ def clean_text(raw: str) -> str:
 
 # Part 锚点:支持 ASCII (I, II, III, IV) 和 Unicode 罗马数字 (Ⅰ, Ⅱ, Ⅲ, Ⅳ)
 PART_RE = re.compile(
-    r"^\s*Part\s+(I{1,3}V?|IV|[ⅠⅡⅢⅣ])\s*\n+\s*([A-Z][A-Za-z ]+?)\s*\n",
+    r"^\s*Part\s+([A-ZⅠⅡⅢⅣ]{1,4})\s*\n+\s*([A-Z][A-Za-z ]+?)\s*\n",
     re.M,
 )
 
@@ -89,7 +89,7 @@ def split_parts(text: str) -> dict:
 # Writing
 # ============================================================
 
-DIRECTIONS_RE = re.compile(r"Directions:\s*(.+?)(?=\n\n|$)", re.S)
+DIRECTIONS_RE = re.compile(r"Directions\s*[:：]\s*(.+?)(?=\n\n|$)", re.S)
 
 
 def parse_writing(block: str) -> dict:
@@ -333,7 +333,7 @@ def parse_reading_mcq(block: str) -> dict:
     Section C 仔细阅读:Passage One/Two,每篇配 5 题。
     """
     # 切 Passage One / Passage Two
-    psg_split = re.split(r"^\s*Passage (One|Two|Three)\s*$", block, flags=re.M)
+    psg_split = re.split(r"^\s*Pass\S*\s+(One|Two|Three)\s*$", block, flags=re.M)
     passages = []
     if len(psg_split) >= 3:
         # 切完是 [前缀, 'One', body1, 'Two', body2, ...]
@@ -411,7 +411,7 @@ def parse_reading_mcq(block: str) -> dict:
 def parse_translation(block: str) -> dict:
     # Directions 单独抽:从 "Directions:" 到 "Answer Sheet" 那行结束
     dir_match = re.search(
-        r"Directions:\s*(.+?Answer Sheet[^\n]*)",
+        r"Directions\s*[:：]\s*(.+?Answer Sheet[^\n]*)",
         block, re.S,
     )
     directions = dir_match.group(1).strip() if dir_match else ""
@@ -675,9 +675,6 @@ def find_paper_text(slug_dir: Path, slug: str = "") -> Optional[Path]:
     candidates = sorted(slug_dir.glob("paper_*.txt"), key=lambda p: p.stat().st_size, reverse=True)
     if not candidates:
         return None
-    searchable = [p for p in candidates if "可复制搜索查词" in p.name]
-    if searchable:
-        return searchable[0]
     parts = slug.split("-")
     if len(parts) >= 2 and parts[0].isdigit() and parts[1].isdigit():
         year, month = parts[0], parts[1]
@@ -694,6 +691,9 @@ def find_paper_text(slug_dir: Path, slug: str = "") -> Optional[Path]:
             for p in candidates:
                 if kw in p.name:
                     return p
+    searchable = [p for p in candidates if "可复制搜索查词" in p.name]
+    if searchable:
+        return searchable[0]
     return candidates[0]
 
 

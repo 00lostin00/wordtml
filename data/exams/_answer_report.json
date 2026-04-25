@@ -38,14 +38,62 @@
     },
     {
       "type": "cet6",
+      "slug": "2020-12-2",
+      "status": "ok",
+      "answers_found": 10,
+      "changed": 10,
+      "filled": 10,
+      "total": 51,
+      "issues": [
+        "答案覆盖 10/51"
+      ]
+    },
+    {
+      "type": "cet6",
+      "slug": "2022-12-1",
+      "status": "ok",
+      "answers_found": 37,
+      "changed": 33,
+      "filled": 33,
+      "total": 51,
+      "issues": [
+        "答案覆盖 33/51"
+      ]
+    },
+    {
+      "type": "cet6",
+      "slug": "2022-12-2",
+      "status": "ok",
+      "answers_found": 35,
+      "changed": 19,
+      "filled": 19,
+      "total": 37,
+      "issues": [
+        "答案覆盖 19/37"
+      ]
+    },
+    {
+      "type": "cet6",
+      "slug": "2022-12-3",
+      "status": "ok",
+      "answers_found": 12,
+      "changed": 12,
+      "filled": 12,
+      "total": 30,
+      "issues": [
+        "答案覆盖 12/30"
+      ]
+    },
+    {
+      "type": "cet6",
       "slug": "2023-03",
       "status": "ok",
       "answers_found": 22,
-      "changed": 11,
-      "filled": 11,
-      "total": 16,
+      "changed": 16,
+      "filled": 16,
+      "total": 46,
       "issues": [
-        "答案覆盖 11/16"
+        "答案覆盖 16/46"
       ]
     },
     {
@@ -298,16 +346,6 @@
     },
     {
       "type": "cet6",
-      "slug": "2020-12-2",
-      "status": "warn",
-      "answers_found": 10,
-      "changed": 0,
-      "filled": 0,
-      "total": 0,
-      "issues": []
-    },
-    {
-      "type": "cet6",
       "slug": "2020-12-3",
       "status": "warn",
       "answers_found": 11,
@@ -389,36 +427,6 @@
       "issues": [
         "未抽到答案"
       ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2022-12-1",
-      "status": "warn",
-      "answers_found": 37,
-      "changed": 0,
-      "filled": 0,
-      "total": 0,
-      "issues": []
-    },
-    {
-      "type": "cet6",
-      "slug": "2022-12-2",
-      "status": "warn",
-      "answers_found": 35,
-      "changed": 0,
-      "filled": 0,
-      "total": 0,
-      "issues": []
-    },
-    {
-      "type": "cet6",
-      "slug": "2022-12-3",
-      "status": "warn",
-      "answers_found": 12,
-      "changed": 0,
-      "filled": 0,
-      "total": 0,
-      "issues": []
     },
     {
       "type": "cet6",

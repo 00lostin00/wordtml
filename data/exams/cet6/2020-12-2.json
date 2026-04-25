@@ -11,8 +11,656 @@
       "type": "writing",
       "title": "Part I Writing",
       "minutes": 30,
-      "directions": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop effective communication skills. You should write at least 150 words but no more than 200 words. Part H Listening Comprehension (30 minutes) Section A Directions: In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre. Questions 1 to 4 are based on the conversation you have just heard. 1. A) A driving test. B) A video game. 2. A) He found it instructive and realistic. C) Traffic routes. D) Cargo logistics. B) He bought it when touring Europe. C) He was really drawn to its other versions. D) He introduced it to his brother last year. 3. A) Traveling all over the country. B) Driving from one city to another. 4. A) Clearer road signs. B) More people driving safely. C) Stricter traffic rules. C) The details in the driving simulator. D) The key role of the logistics industry. D) More self-driving trucks on the road. Questions 5 to 8 are based on the conversation you have just heard. 5. A) It isn’t so enjoyable as he expected. B) It isn’t so motivating as he believed. C) It doesn’t enable him to earn as much money as he used to. D) It doesn’t seem to offer as much freedom as he anticipated. 6. A) Not all of them care about their employees’ behaviors. B) Few of them are aware of their employees’ feelings. C) Few of them offer praise and reward to their employees. D) Not all of them know how to motivate their employees. 7. A) Job satisfaction. B) Self-awareness. C) Autonomy. 8. A) The importance of cultivating close relationships with clients. B) The need for getting recommendations from their managers. C) The advantages of permanent full-time employment. D) The way to explore employees’ interests and talents. D) Money. Section B Directions: In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A ), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre. A&2020^12£ 24",
+      "directions": "For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop effective communication skills. You should write at least 150 words but no more than 200 words.",
       "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "He found it instructive and realistic.",
+            "B": "He bought it when touring Europe.",
+            "C": "Traffic routes.",
+            "D": "Cargo logistics."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "Clearer road signs.",
+            "B": "More people driving safely.",
+            "C": "The details in the driving simulator.",
+            "D": "The key role of the logistics industry."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "It isn’t so enjoyable as he expected.",
+            "B": "It isn’t so motivating as he believed.",
+            "C": "It doesn’t enable him to earn as much money as he used to.",
+            "D": "It doesn’t seem to offer as much freedom as he anticipated."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Not all of them care about their employees’ behaviors.",
+            "B": "Few of them are aware of their employees’ feelings.",
+            "C": "Few of them offer praise and reward to their employees.",
+            "D": "Not all of them know how to motivate their employees."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "The importance of cultivating close relationships with clients.",
+            "B": "The need for getting recommendations from their managers.",
+            "C": "The advantages of permanent full-time employment.",
+            "D": "The way to explore employees’ interests and talents."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "Consumers visualize their activities in different weather.",
+            "B": "Good weather triggers consumers’ desire to go shopping.",
+            "C": "Weather conditions influence consumers’ buying behavior.",
+            "D": "Consumers’ mental states change with the prices of goods."
+          },
+          "answer": "C",
+          "explanation": "】细节推断题．短文开头提到，一项新研究揭｜ 们心目中的价值，即消费者的内心想象增加了产品 示了晴天或下雪天如何影响消费者的行为．因此｜ 在消费者心目中的价值． 答案为C）.根据短文内容可知，消费者会想象自I"
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "Active consumption.",
+            "B": "Direct correlation.",
+            "C": "Individual association.",
+            "D": "Mental visualization."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Enabling them to simplify their mathematical formulas.",
+            "B": "Helping them determine what to sell and at what price.",
+            "C": "Enabling them to sell their products at a higher price.",
+            "D": "Helping them advertise a greater variety of products."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "A naturally ventilated office is more comfortable.",
+            "B": "A cool office will boost employees’ productivity.",
+            "C": "Office air-conditioning should follow guidebooks.",
+            "D": "Air-conditioning improves ventilation in the office."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "People in their comfort zone of temperature are more satisfied with their productivity.",
+            "B": "People in different countries vary in their tolerance to uncomfortable temperatures.",
+            "C": "Twenty-two degrees is the optimal temperature for office workers.",
+            "D": "There is a range of temperatures for people to feel comfortable."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "They tend to favor lower temperatures.",
+            "B": "They suffer from rapid temperature changes.",
+            "C": "They are not bothered by temperature extremes.",
+            "D": "They become less sensitive to high temperatures."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "It overlooked the possibility that emotions may be controlled.",
+            "B": "It ignored the fact that emotions are personal and subjective.",
+            "C": "It classified emotions simply as either positive or negative.",
+            "D": "It measured positive and negative emotions independently."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "Sitting alone without doing anything seemed really distressing.",
+            "B": "Solitude adversely affected the participants’ mental well-being.",
+            "C": "Sitting alone for 15 minutes made the participants restless.",
+            "D": "Solitude had a reductive effect on high-arousal emotions."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "It proved hard to depict objectively.",
+            "B": "It went hand in hand with sadness.",
+            "C": "It helped increase low-arousal emotions.",
+            "D": "It tended to intensify negative emotions."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "It uses up much less energy than it does in deep thinking.",
+            "B": "It remains inactive without burning calories noticeably.",
+            "C": "It continues to bum up calories to help us stay in shape.",
+            "D": "It consumes almost a quarter of the body’s total energy."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Much of the consumption has nothing to do with conscious activities.",
+            "B": "It has something to do with the difficulty of the activities in question.",
+            "C": "Energy usage devoted to active learning accounts for a big part of it.",
+            "D": "A significant amount of it is for performing difficult cognitive tasks."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "It is believed to remain basically constant.",
+            "B": "It is a prerequisite for any mental activity.",
+            "C": "It is conducive to relieving mental exhaustion.",
+            "D": "It is thought to be related to food consumption."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Job candidates rarely take it seriously.",
+            "B": "Job seekers tend to have a ready answer.",
+            "C": "Job seekers often feel at a loss where to start in answering it.",
+            "D": "Job candidates can respond freely due to its open-ended nature."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "Follow their career coaches’ guidelines.",
+            "B": "Strive to take control of their narrative.",
+            "C": "Do their best to impress the interviewer.",
+            "D": "Repeat the information on their resume."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "To reflect on their past achievements as well as failures.",
+            "B": "To produce examples for different interview questions.",
+            "C": "To discuss important details they are going to present.",
+            "D": "To identify a broad general strength to elaborate on."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Getting acquainted with the human resources personnel.",
+            "B": "Finding out why the company provides the job opening.",
+            "C": "Figuring out what benefits the company is able to offer them.",
+            "D": "Tailoring their expectations to the company’s long-term goal."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions; In this section, there is a passage with ten blanks. You are required to select one word for each \nblank from a list of choices given in a word bank following the passage. Read the passage through carefully \nbefore making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding \nletter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the \nwords in the bank more than once.\nVirtually every activity that entails or facilitates in-person human interaction seems to be in the midst \nof a total meltdown as the coronavirus \noutbreak erases Americans’ desire to travel. Amtrak\nsays bookings are down 50 precent and cancelations are up 300 percent. Hotels in San Francisco are \nexperiencing\n26  rates between 70 and 80 percent. Broadway goes dark on Thursday night.\nUniversities, now emptying their campuses, have never tried online learning on this\n27 . White­\ncollar companies like Amazon, Apple, and the New York Times are asking employees to work from home \nfor the\n28 future.\nBut what happens after the coronavirus?\nIn some ways, the answer iss All the old normal stuff. The pandemic \nwill take lives,\n\neconomies and destroy routines, but it will pass. Americans will never stop going to basketball \ngames. They won’t stop going on vacation. They’ll meet to do business. No decentralizing technology so \nfar—not telephones, not television, and not the internet—has dented that human desire to shake hands, \ndespite technologists’\n30___ to the contrary.\nYet there are real reasons to think that things will not return to the way they were last week. Small \n\ncreate small societal shifts; big ones change things for good. The New York transit strike of\nA&2020 4£12Jj 26\n\n1980 is\n32___ with prompting several long-term changes in the city, including bus and bike lanes, and\nwomen wearing sports shoes to work. The Spanish flu pandemic of 1918 prompted the development of \nnational health care in Europe.\nHere and now, this might not even be a question of\n33 . It’s not clear that the cruise industry \nwill\n34 . Or that public transit won’t go broke without\n35 assistance. The infrastructure \nmight not even be in place to do what we were doing in 2019.",
+      "wordBank": {
+        "A": "credentials",
+        "F": "foreseeable",
+        "K": "subtle",
+        "B": "credited",
+        "G": "predictions",
+        "L": "summoned",
+        "C": "cumulative",
+        "H": "preference",
+        "M": "survive",
+        "D": "disruptions",
+        "I": "scale",
+        "N": "vacancy",
+        "E": "federal",
+        "J": "strangle",
+        "O": "wedge"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Our world is full of—mostly untold—stories of slow hope, driven by the idea that change is possible. \nThey are ‘slow’ in their unfolding, and they are slow because they come with setbacks."
+        },
+        {
+          "label": "B",
+          "text": "At the beginning of time—so goes the myth—humans suffered, shivering in the cold and dark until the \ntitan ( g. A) Prometheus stole fire from the gods. Just as in the myth, technology—first fire and stone \ntools, and later farming, the steam engine and industry, fossil fuels, chemicals and nuclear power— \nhas allowed us to alter and control the natural world. The myth also reminds us that these advances \nhave come at a price: as a punishment for Prometheus’ crime, the gods created Pandora, and they gave \nher a box filled with evils and curses. When Pandora’s box was opened, it unleashed swarms of diseases \nand disasters upon humankind."
+        },
+        {
+          "label": "C",
+          "text": "Today we can no longer ignore the ecological curses that we have released in our search for warmth and \ncomfort. In engineering and exploiting and transforming our habitat, we have opened tens of \nthousands of Pandora’s boxes. In recent decades, environmental threats have expanded beyond \nregional boundaries to have global reach and, most hauntingly, are multiplying at a dizzying rate. On \na regular basis, we are reminded that we are running out of time. Year after year, faster and faster, \nconsumption outpaces the biological capacity of our planet. Stories of accelerated catastrophe multiply. \nWe fear the breakdown of the electric grid, the end of non-renewable resources, the expansion of \ndeserts, the loss of islands, and the pollution of our air and water."
+        },
+        {
+          "label": "D",
+          "text": "Acceleration is the signature of our time. Populations and economic activity grew slowly for much of\nhuman history. For thousands of years and well into early modern times, world economies saw no \ngrowth at all, but from around the mid-19 th century and again, in particular, since the mid-20 th, the \nreal GDP has increased at an enormous speed, and so has human consumption. In the Middle Ages, \nhouseholds in Central Europe might have owned fewer than 30 objects on average? in 1900, this \nnumber had increased to 400, and in 2020 to 15,000. The acceleration of human production, \nconsumption and travel has changed the animate and inanimate spheres. It has echoed through natural \nprocesses on which humans depend. Species extinction, deforestation, damming of rivers, occurrence \nof floods, the depletion of ozone, the degradation of ocean systems and many other areas are all \nexperiencing acceleration. If represented graphically, the curve for all these changes looks rather like \nthat well-known hockey stick: with little change over millennia \nand a dramatic upswing over\nthe past decades."
+        },
+        {
+          "label": "E",
+          "text": "Some of today’s narratives about the future seem to suggest that we too, like Prometheus, will be saved\nA 2020 \n\nby a new Hercules, a divine engineer, someone who will mastermind, manoeuvre and manipulate our \nplanet. They suggest that geoengineering, cold fusion or faster-than-light spaceships might transcend \nonce and for all the terrestrial constraints of rising temperatures, lack of energy, scarcity of food, lack \nof space, mountains of waste, polluted water—you name it."
+        },
+        {
+          "label": "F",
+          "text": "Yet, if we envisage our salvation to come from a deus ex machina 0^®^), from a divine engineer \nor a tech solutionist who will miraculously conjure up a new source of energy or another cure-all with \nrevolutionary potency, we might be looking in the wrong place. The fact that we now imagine our \nplanet as a whole does not mean that the ‘rescue’ of our planet will come with one big global stroke of \ngenius and technology. It will more likely come by many small acts. Global heating and environmental \ndegradation are not technological problems. They are highly political issues that are informed by \npowerful interests. Moreover, if history is a guide, then we can assume that any major transformations \nwill once again be followed by a huge set of unintended consequences. So what do we do?"
+        },
+        {
+          "label": "G",
+          "text": "This much is clear: we need to find ways that help us flatten the hockey-stick curves that reflect our \never-faster pace of ecological destruction and social acceleration. If we acknowledge that human \nmanipulation of the Earth has been a destructive force, we can also imagine that human endeavours \ncan help us build a less destructive world in the centuries to come. We might keep making mistakes. \nBut we will also keep learning from our mistakes."
+        },
+        {
+          "label": "H",
+          "text": "To counter the fears of disaster, we need to identify stories, visions and actions that work quietly \ntowards a more hopeful future. Instead of one big narrative, a story of unexpected rescue by a larger- \nthan-life hero, we need multiple stories: we need stories, not only of what Rob Nixon of Princeton \nUniversity has called the ‘slow violence’ of environmental degradation (that is, the damage that is \noften invisible at first and develops slowly and gradually), but also stories of what I call ‘slow hope’."
+        },
+        {
+          "label": "I",
+          "text": "We need an acknowledgement of our present ecological plight but also a language of positive change, \nvisions of a better future. In The Principle of Hope (1954-1959), Ernst Bloch, one of the leading \nphilosophers of the future, wrote that ‘ the most tragic form of loss... is the loss of the capacity to \nimagine that things could be different’. We need to identify visions and paths that will help us imagine \na different, more just and more ecological world. Hope, for Bloch, has its starting point in fear, in \nuncertainty, and in crisis: it is a creative force that goes hand in hand with utopian (J»4€/p6(r) \n‘wishful images’. It can be found in cultural products of the past—in fairy tales, in fiction, in \narchitecture, in music, in the movies—in products of the human mind that contain ‘the outlines of a \nbetter world’. What makes us ‘authentic’ as humans are visions of our ‘potential’. In other words: \nliving in hope makes us human."
+        },
+        {
+          "label": "J",
+          "text": "The power of small, grassroots movements to make changes that spread beyond their place of origin can\nbe seen with the Slow Food movement, which began in Italy in the 1980s. The rise of fast-food \nrestaurants after the Second World War produced a society full of cheap, industrially made foodstuffs. \nUnder the leadership of Carlo Petrini, the Slow Food movement began in Piedmont, a region of Italy \nwith a long history of poverty, violence and resistance to oppression. The movement transformed it \ninto a region hospitable to traditional food cultures—based on native plants and breeds of animals. \nToday, Slow Food operates in more than 160 countries, poor and rich. It has given rise to thousands of \nprojects around the globe, representing democratic politics, food sovereignty, biodiversity and \nsustainable agriculture."
+        },
+        {
+          "label": "K",
+          "text": "The unscrupulous (commodification of food and the destruction of foodstuffs will \ncontinue to devastate soils, livelihoods and ecologies. Slow Food cannot undo the irresistible \ndevelopments of the global food economy, but it can upset its theorists, it can ‘speak differently’, and \nit can allow people and their local food traditions and environments to flourish. Even in the United \nStates—the fast-food nation—small farms and urban gardens are on the rise. The US Department of \nAgriculture provides an Urban Agriculture Toolkit and, according to a recent report, American \nmillennials --ft) are changing their diets. In 2017, 6 per cent of US consumers claimed to be \nstrictly vegetarian, up from 1 per cent in 2014. As more people realise that ‘eating is an agricultural \nact’, as the US poet and environmental activist Wendell Berry put it in 1989, slow hope advances.\nA& 2020"
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "It seems some people today dream that a cutting-edge new technology might save them from the \npresent ecological disaster.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "According to one great thinker, it is most unfortunate if we lose the ability to think differently.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Urgent attention should be paid to the ecological problems we have created in our pursuit of a \ncomfortable life.",
+          "answer": "D",
+          "explanation": "［定位E由题于中的ecological problems和a I dramatic increase是对原文中acceleration的同 六级2020年12月 40 义表达，题于中的The deterioration of the 民ological system是对原文中Species extinction, deforestation, damming of rivers, occ 町ren 臼of flα对s, the depletion of ozone, the degradation of ocean systems and many other ar回s 的归纳概 括，故答案为D)."
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Even in the fast-food nation America, the number of vegetarians is on the rise.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "The deterioration of the ecological system is accelerating because of the dramatic increase of human \nproduction and consumption.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "It is obvious that solutions must be found to curb the fast worsening environment and social \nacceleration.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Many people believe changing the world is possible, though it may take time and involve setbacks.",
+          "answer": "A",
+          "explanation": "】同义转述题．定位段指出，我们的世界充 满了几乎不为人知的缓慢希望的故事，这是由 “ 改 变是可能的 ”这一理念所驱动的．它们进展 “ 缓 慢 ”，而之所以缓慢，是因为它们伴随着挫折而来． 题于中的it may take time and involve setbacks 是对定位段中they 缸e slow because they come with setbacks 的同义转述，故答案为Aλ"
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "It might be wrong to expect that our world would be saved at one stroke with some miraculous \ntechnology.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "It is human nature to cherish hopes for a better world.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Technology has given us humans the power to change the natural world, but we have paid a price for \nthe change.",
+          "answer": "B",
+          "explanation": "】同义转述题．定位句指出，正如神话中所 说，科技使我们能够改变和控制自然世界，但是这 些进韭是有代价的．题于中的given us humans the power to change 对应定位句中的allowed 因 to alter缸叫control ，题干中的严id a price是对定 位句中come at a price 的同义转述，故答案为B). 参考译文f千 二 组慢的希盟 A) (42）我们的世界充满了几乎不为人知的缀’监希望的故事，这是由 “改变是可能的 ”这一思念所驱动的。 它们进展 “组住户，而之所以缓慢，是因为它们伴随着挫折而来． B）按照神话中所毡，在时阳之初，人类遭受苦难，在寒冷和黑暗中颤抖，直到巨人普罗米修斯从众神那里 伽来了火0 (4!i）正如神话中所说，科技一一首先是火和石器，后来是农业、蒸汽机和工业、化石燃料、 化学制品ω及院能一一使我们能够改变和控制自然世界。神话还提醒我们，这些进步是有代价的g作 如对普罗米修昕罪行的惩罚，众神创造了潘多拉，他们给了她一个装满邪忠和诅咒的盒子．当潘多拉 的盒子被打开忡，它向人类释放大量的疾病和灾难． C) (38）今天，注们不能再忽视我们在寻求温暖和舒适时所释放的生态诅咒．在设计、开发和改造我们的 栖息地的赳程书，我们已经打开了数以万计的潘多拉盒子．近几十年来，环境威胁已经超出区域界 限，扩展到全部范围，而且，最令人困扰的是，威胁正以令人眩晕的速度增长．我们会定期地受到提 醒I：我们的时间不多了．年复一年，越来越快，消耗超过了我们这个星球的生物容量．灾难加速的事 扣层出不穷．战们担心也网崩溃，不可再生资源枯蝇，沙漠扩张，岛屿消失，我们的空气和水受到 衍染． 六级2020年12月 41 D）加速是我们这个时代的标志．在人类历史的大部分时间里，人口和经济活动增长缓慢．几千年来，直 到近代早斯，世界经济根本没有增长，但从19世宅中叶开始，特别是20世纪中叶以来，实际国内生产 总值（GDP）以惊人的速度培长，人报和耗ι在快速增长。程中世纪，中欧的家庭平均拥有的吻品可能 少于30件；在1900年，运；个散平增加"
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nVegetarians would prefer not to be compelled to eat meat. Yet the reverse compulsion (?£&) is \nhidden in the proposals for a new plant-based “planetary diet. ” Nowhere is this more visible than in India.\nEarlier this year, the EAT-Lancet Commission released its global report on nutrition and called for a \nglobal shift to a more plant-based diet and for “ substantially reducing consumption of animal source \nfoods.” In countries like India, that call could become a tool to aggravate an already tense political \nsituation and stress already undernourished populations.\nThe EAT report presumes that “traditional diets” in countries like India include little red meat, which \nmight be consumed only on special occasions or as minor ingredients in mixed dishes.\nIn India, however, there is a vast difference between what people would wish to consume and what \nthey have to consume because of innumerable barriers around class, religion, culture, cost, geography, \netc. Policymakers in India have traditionally pushed for a cereal-heavy “vegetarian diet” on a meat-eating \npopulation as a way of providing the cheapest sources of food.\nCurrently, under an aggressive Hindu nationalist government, Muslims, Christians, disadvantaged \nclasses and indigenous communities are being compelled to give up their traditional foods.\nNone of these concerns seem to have been appreciated by the EAT-Lancet Commission’s \nrepresentative, Brent Loken, who said “India has got such a great example” in sourcing protein from \nplants.\nBut how much of a model for the world is India’s vegetarianism? In the Global Hunger Index 2019, \nthe country ranks 102nd out of 117. Data from the National Family Health Survey indicate that only 10 \npercent of infants of 6 to 23 months are adequately fed.\nWhich is why calls for a plant-based diet modeled on India risk offering another whip with which to \nbeat already vulnerable communities in developing countries.\nA diet directed at the affluent West fails to recognize that in low-income countries undernourished \nchildren are known to benefit from the consumption of milk and other animal source foods, improving \ncognitive functions, while reducing the prevalence of nutritional deficiencies as well as mortality.\nA& 2020 \n\nEAT-Lancet claimed its intention was to “spark conversations” among all Indian stakeholders. Yet \nvocal critics of the food processing industry and food fortification strategies have been left out of the \ndebate. But the most conspicuous omission may well be the absence of India’s farmers.\nThe government, however, seems to have given the report a thumbs-up. Rather than addressing \nchronic hunger and malnutrition through an improved access to wholesome and nutrient-dense foods, the \ngovernment is opening the door for company-dependent solutions, ignoring the environmental and \neconomic cost, which will destroy local food systems. It’s a model full of danger for future generations.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What is more visible in India than anywhere else according to the passage?",
+              "options": {
+                "A": "People’s positive views on the proposals for a “planetary diet. ”",
+                "B": "People’s reluctance to be compelled to eat plant-based food.",
+                "C": "People’s preferences for the kind of food they consume.",
+                "D": "People’s unwillingness to give up their eating habits."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What would the EAT-Lancet Commission’s report do to many people in countries like India?",
+              "options": {
+                "A": "Radically change their dietary habits.",
+                "B": "Keep them further away from politics.",
+                "C": "Make them even more undernourished.",
+                "D": "Substantially reduce their food choices."
+              },
+              "answer": "C",
+              "explanation": "】推理判断题．定位段第二句提到，对于印 度这样的国家，这种呼吁会加剧原本已经紧张的 政治局面，增加原本已经营养不良的人群的压力。 由此可知，这项呼吁会加剧印度这样的国家中大 多数人的营养不良问题，故答案为C). E避错E 第五段指出，在激进的印度教民族主义政 府的推动下，穆斯林、基督教徒、弱势阶层和土著 居民都不得不放弃他们的传统食物，但由此不能 推断这个报告会彻底改变印度这样的国家中大多 数人的饮食习惯，故排除A）.第二段第二句指 出，对于印度这样的国家，这种呼吁会加剧原本已 经紧张的政治局面，而非会让印度这样的国家中 大多数人远离政治，故排除B）.第二段第一句指 出，今年早些时候，《EAT－柳叶刀》委员会发布了 其全球营养报告，呼吁全球应转向多以植物为基 础的饮食，同时 “大幅度减少动物源食品的摄入 ”， 而非这项报告大幅度减少人们的食物选择，故排 除D)."
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What do we learn from the passage about food consumption in India?",
+              "options": {
+                "A": "People’s diet will not change due to the EAT-Lancet report.",
+                "B": "Many people simply do not have access to foods they prefer.",
+                "C": "There is a growing popularity of a cereal-heavy vegetarian diet.",
+                "D": "Policymakers help remove the barriers to people’s choice of food."
+              },
+              "answer": "B",
+              "explanation": "】推理判断题．定位句指出，在印度，阶级、 宗教、文化、成本、地理等方面存在数不清的障碍， 所以人们想要摄入的食物和不得不摄入的食物之 间存在着巨大的差异．由此可推断，许多人根本 无法获得自己喜欢的食物，故答案为B). E避错】第五段指出，在激进的印度教民族主义政 府的推动下，穆斯林、基督敌徒、弱势阶层和土著 居民都不得不放弃他们的传统食物，由此可知这 份报告会改变印度人的饮食，故排除A）.第四段 第二句指出，印度的政策制定者一直向食肉人群 推行以谷物为主的 “素食主义者饮食 ”，但并不能 由此推断以谷物为主的素食饮食越来越受欢迎， 故排除C）.第四段第一句指出，在印度，阶级、宗 教、文化、成本、地理等方面存在数不清的障碍，所 以人们想要摄入的食物和不得不摄入的食物之间 存在着巨大的差异，但并不能由此推断政策制定 者帮助人们消除食物选择方面的障碍，故排 除D)."
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What does the passage say about a plant-based diet modeled on India?",
+              "options": {
+                "A": "It may benefit populations whose traditional diet is meat-based.",
+                "B": "It may be another blow to the economy in developing countries.",
+                "C": "It may help narrow the gap between the rich and poor countries. .",
+                "D": "It may worsen the nourishment problem in low-income countries."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "How does the Indian government respond to the EAT-Lancet Commission’s proposals?",
+              "options": {
+                "A": "It accepts them at the expense of the long-term interests of its people.",
+                "B": "It intends them to spark conversations among all Indian stakeholders.",
+                "C": "It gives them approval regardless of opposition from nutrition experts.",
+                "D": "It welcomes them as a tool to address chronic hunger and malnutrition."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nBack in 1964, in his book Games People Play, psychiatrist Eric Berne described a pattern of \nconversation he called “Why Don’t You—Yes But”, which remains one of the most irritating aspects of \neveryday social life. The person adopting the strategy is usually a chronic complainer. Something is \nterrible about their relationship, job, or other situation, and they moan about it ceaselessly, but find some \nexcuse to dismiss any solution that’s proposed. The reason, of course, is that on some level they don’t want \na solution; they want to be validated in their position that the world is out to get them. If they can “win” \nthe game—dismissing every suggestion until their interlocutor \ngives up in annoyance—they get to\nfeel pleasurably righteous (6$) in their resentments and excused from any obligation to change.\nPart of the trouble here is the so-called responsibility/fault fallacy \nWhen you’re feeling hard\ndone by—taken for granted by your partner, say, or obliged to work for a half-witted boss—it’s easy to \nbecome attached to the position that it’s not your job to address the matter, and that doing so would be an \nadmission of fault. But there’s a confusion here. For example, if I were to discover a newborn at my front \ndoor, it wouldn’t be my fault, but it most certainly would be my responsibility. There would be choices to \nmake, and no possibility of avoiding them, since trying to ignore the matter would be a choice. The point\n2020 ^12^ \n\nis that what goes for the baby on the doorstep is true in all cases s even if the other person is 100% in the \nwrong, there’s nothing to be gained, long-term, from using this as a justification to evade responsibility.\nShould you find yourself on the receiving end of this kind of complaining, there’s an ingenious way to \nshut it down—which is to agree with it, ardently. Psychotherapist Lori Gottlieb describes this as “over­\nvalidation”. For one thing, you’ll be spared further moaning, since the other person’s motivation was to \nconfirm her beliefs, and now you’re confirming them. But for another, as Gottlieb notes, people \nconfronted with over-validation often hear their complaints afresh and start arguing back. The notion that \nthey’re utterly powerless suddenly seems unrealistic—not to mention rather annoying—so they’re prompted \ninstead to generate ideas about how they might change things.\n“And then, sometimes, something magical might happen,” Gottlieb writes. The other person “might \nrealise she’s not as trapped as you are saying she is, or as she feels.” Which illustrates the irony of the \nresponsibility/fault fallacy: evading responsibility feels comfortable, but turns out to be a prison; whereas \nassuming responsibility feels unpleasant, but ends up being freeing.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What is characteristic of a chronic complainer, according to psychiatrist Eric Berne?",
+              "options": {
+                "A": "They only feel angry about their ill treatment and resent whoever tries to help.",
+                "B": "They are chronically unhappy and ceaselessly find fault with people around them.",
+                "C": "They constantly dismiss others’ proposals while taking no responsibility for tackling the problem.",
+                "D": "They  lack   the   kn w e g a d   basic   skills   required   for   successful   conversations   with   their   interlocutors."
+              },
+              "answer": "C",
+              "explanation": "】细节辨认题．定位句指出，采取这种策略 的人通常是一个习惯性抱怨的人．这种策略就是 文章首句中精神病学家埃里克·伯恩描述的对话 模式．紧接着第三句描述了习惯性抱怨的人的特 征：他们的人际关系、工作或其他情况出现了糟糕 的事情，他们不停地抱怨，然而却找借口拒绝他人 提议的任何解决方案．第五句又指出，他们可以 免除任何做出改变的义务．选项C）中的dismiss other ’s prop创als 对应原文中的dismiss any solution that ’s prop倡“，选项C）中的taking no responsibility 对应原文中的excused from any obligation ，由此可确定答案为C). E避错】文中未提及A） ＂他们只对自己受到的虐待 感到愤怒，对试图帮助他们的人心怀怨恨 ”、盼 “他 们长期不快乐，不停地找周围人的过错 ”和D） “他 们缺乏与对话者成功交谈所需的知识和基本技 能 ”，故均排除．"
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What does the author try to illustrate with the example of the newborn on one’s doorstep?",
+              "options": {
+                "A": "People tend to think that one should not be held responsible for others’ mistakes.",
+                "B": "It is easy to become attached to the position of overlooking one’s own fault.",
+                "C": "People are often at a loss when confronted with a number of choices.",
+                "D": "A distinction should be drawn between responsibility and fault."
+              },
+              "answer": "D",
+              "explanation": "】推理判断题．定位句举例z如果我发现一 个新生儿在我家门口，这不是我的错，但肯定是我 的责任．定位句前一句指出，这里存在混淆．这 个混滑就是本段首句提到的责任／过错谬论．因 此，作者举新生儿的例子是用来说明责任和过错 的区别，故答案为D). E避错】文中未提及A） “人们倾向于认为一个人不 应该为别人的错误负责 ’和盼 “人们很容易执着 于忽视自己错误的立场飞故均排除．第二段第五 句提到人们要做出选择，而且不可能避免它们，因 为试图忽略这一问题将是一种选择。由此并不能 推断出人们在面对很多选择时经常会不知所措， 故排除C). 目.（定位】由题干中的the author ad悦se和chronic complainers定位到第三段首句． A) （精析E细节辨认题。定位句提到，如果你发现自 己是这种抱怨的接收方，有一个巧妙的方法来阻 止它一一那就是热情地赞同它．也就是说，通过 赞同他们来阻止他们继续抱怨，因此答案为Aλ E避错】选项B）是根据定位句中ardently设置的 干扰，定位句是指通过热情地赞同对方来阻止对 方继续抱怨，B） “热情而同情地倾听他们的抱怨 ” 属于过度推断，故排除．文中没有提及C） “要求 他们用进一步的证据来确认他们的信念 ”和D） “说 服他们澄清他们造成的混淆 ”，故排除．"
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does the author advise people to do to chronic complainers?",
+              "options": {
+                "A": "Stop them from going further by agreeing with them.",
+                "B": "Listen to their complaints ardently and sympathetically.",
+                "C": "Ask them to validate their beliefs with further evidence.",
+                "D": "Persuade them to clarify the confusion they have caused."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What happens when chronic complainers receive over-validation?",
+              "options": {
+                "A": "They are motivated to find ingenious ways to persuade their interlocutor.",
+                "B": "They are prompted to come up with ideas for making possible changes.",
+                "C": "They are stimulated to make more complaints.",
+                "D": "They are encouraged to start arguing back."
+              },
+              "answer": "B",
+              "explanation": "】推理判断题．定位句指出，心理治疗师 洛瑞·戈特利布将其描述为 “过度确认 ”。定位句 中的this 是指首句中提出的 “热情地赞同对方来 阻止抱怨 ” 这个方法．·接下来，文中用For one thing引出了抱怨接收方的感受z你将幸兔子进一 步的抱怨．用But for another引出了习惯性抱怨 者的反应z他们经常会重新昕到他们的抱怨，然后 开始反驳．末句提到习惯性抱怨者最后反而被激 发出关于如何改变事物的想法，故答案为B). E避错】A）是根据第三段首句中an ingenious way 设置的干扰，但并未提到习惯性抱怨者被激励着 去寻找巧妙的方法来说服他们的对话者，故排除． C）是根据第三段第四句中complaints afresh设置 的干扰，但此处是指习惯性抱怨者重新听到他们 的抱怨，而不是他们受到剌激，发出更多的抱怨， 故排除. D）是根据第三段第四句中starting arguing back设置的干扰，但文中并没有提及习惯 性抱怨者被鼓励开始反驳，属于过度推断，故 排除．"
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "How can one stop being a chronic complainer according to the author?",
+              "options": {
+                "A": "Analysing the so-called responsibility/fault fallacy.",
+                "B": "Avoiding hazardous traps in everyday social life.",
+                "C": "Assuming responsibility to free oneself.",
+                "D": "Awaiting something magical to happen."
+              },
+              "answer": "C",
+              "explanation": "】推理判断题．定句提到，逃谴责任感觉很 舒服，但结果却是一座监狱；而承担责任会让人不 愉快，但最终会得到解脱．换言之，应承担责任解 放自己，故答案为C）。 E避错】文中未提及A） “分析所谓的责任／过错谬 误 ”、B） ＂避免日常社会生活中的危险陷阱 ”和 D) “等待奇迹发生 ”，故排除． ：：参考译文i:Ț－·.：：丁...., ::i 回翻到1964年，精神病学家埃里克·伯恩在他的著作《人间游戏》中描述了一种他称之为 “ 你为什么 不呢一－是的，但是 ”的对话模式，这仍然是日常社会生活中最令人恼火的方面之一 0 (51-1）采取这种策 略的人遇常是一个弓惯性抱怨的人．他们的人际关系、工作或其他情况出现了糟糕的事情，他们不停地抱 怨，然而卅挡借口拒绝他人提议的任何解决方案．当然，原因是在某种程度上他们不想要解决方案；他们 希望自己的地位得回认可，全世界都去理解他们。（51-2）如果他们能 “赢”这场游戏一一拒绝每一个建议， 直到他仕的对话者在恼怒中放弃一一他们就会在他们的怨恨中感到心安理得，并且可以免除任何做出改 辈盟主主A 六级－2020年.12月”.45 这里的部分问题是所谓的责任／过错谬论．当你感到很为难一一比如说，被你的搭档视为理所当然， 或者被迫为一个愚维的老板工作－一仿很容易陷入这样的境地E解决问题不是你的职责，而这样做就是承 认错误. (52）但这nt存在温涌。ffl如，如果我发现一个新生儿在我家门口，这不是我的错，但肯定是我的 重鱼牟人们要做出沾择，而且不可能量自己它们，因为试图忽略这一问题将是一种选择．关键是，发生在家 门口婴儿身上的事情在任何情况下都E真实的：即使另一个人完全错了，从长远来看，用这个作为逃避责 任的理由也不会育什么好处川 (53）如果你˒H! €:I己是这种植怨自l接收方，有一个巧妙的方法来阻止它一一那就是热情地赞同它－ (54）心理治疗师在甜·戈待）˓j布将其陆述为“过度确认”．一方面，你将幸免于进一步的抱怨，因为对方的 动机是要确认她抱住念，而你现在正在啕认。但另一方面，戈特利布指出，面对过度确认的人们经常会重 新昕到他们的抱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You \nshould write your answer on Answer Sheet 2.",
+      "source": "",
+      "reference": "",
+      "explanation": ""
     }
   ]
 }

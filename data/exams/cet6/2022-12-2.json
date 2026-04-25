@@ -11,8 +11,468 @@
       "type": "writing",
       "title": "Part I Writing",
       "minutes": 30,
-      "directions": "",
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence u In an era o f information explosion, it is vitally important to develop the ability to think critically and make rational choices. M You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
       "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "She is eccentric like any other artist.",
+            "B": "She is a very nice and intelligent artist.",
+            "C": "It was donated by the artist herself.",
+            "D": "It was displayed at a retirement party."
+          },
+          "answer": "B",
+          "explanation": "】细节推断题。男士说，画家丹尼尔• 格雷 戈里一点儿都不古怪。接着句（8）提到，她非常平 易近人，也特别聪明。选项中用近义词nice替代 了原文中的easygoing,保留了原文中的 intelligent，并且没看采用原文中的“ one of the most. ..”这样的表达方式，而是直接使用副词very 来修饰形容词nice和intelligent,但这些小的变化 并不改变意思的表达。因此答案为B）。 Section B Questions 9 to 11 are based on the passage you have just heard. Forgiveness is the release of resentment or anger. Forgiveness doesn't mean reconciliation. We don't have to return to the same relationship, nor do we have to accept the same harmful behaviors from an offender. (9) Forgiveness is vitally important for the mental health of certain victims. It propels people forward rather than keeping them emotionally engaged in an injustice or trauma. Carrying the hurt or anger of an offense leads the body to release stress chemicals. Eliminating the perpetual flow of those chemicals may also explain why forgiveness provides physical health benefits. There are scenarios in whic"
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "It is vital to one's mental health.",
+            "B": "It leads to reconciliation and peace.",
+            "C": "It promotes interpersonal relationship.",
+            "D": "It keeps one from traumatic experience."
+          },
+          "answer": "A",
+          "explanation": "】细节辨认题。句（9）提到，宽恕对某些受害 者的心理健康至关重要。因此答案为A）。本题各 选项中干扰性最强的是D）, 因为文中提到了 it propels people forward rather than keeping them emotionally engaged in an injustice or trauma,但 原文中所表达的意思是“使这些人不再深陷于那 些情感上的偏颇或创伤不可自拔”，而D ）选项中 所表达含义是“让他们不经受痛苦难忘的经历”， 故排除D）。"
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "It is generally recognised as a world heritage site.",
+            "B": "It is the fastest way to reach the city's south side.",
+            "C": "It constitutes a source of revenue for the city.",
+            "D": "It helps reduce traffic jams in the city centre."
+          },
+          "answer": "D",
+          "explanation": "】细节辨认题。句（14）说，经过改造重新开 通运营后,格拉斯哥地铁的命运发生了重大变化， 作为其他交通方式的可行性替代方案，该地铁大 大缓解了市中心的交通堵塞。因此答案为D）。"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "They are usually crowded.",
+            "B": "They use high-tech systems.",
+            "C": "They accept smartcards only.",
+            "D": "They are colourfully decorated."
+          },
+          "answer": "B",
+          "explanation": "】细节辨认题。句（15）提到,所有地铁站都 使用了智能卡售票机和智能闸机等高科技系统。 因此答案为B）。 Section C Questions 16 to 18 are based on the recording you have just heard. If you visit the Great Smoky Mountains National Park, chances are you will remember the roadside or 英语菌的笔记 campground bears above all else. Bears are the most popular animals in a number of our national parks. In these mountains, where the population of bears runs into the hundreds, opportunities to observe these large wild animals are plentiful during the summer. (16) Since national parks are wildlife sanctuaries where no disturbance of the native animals is allowed, years of protection have served to break down the wild bears' fear of humans. Now, instead of depending on their own resources for a living, many bears patrol park roads and campgrounds. They give the garbage cans a frequent going over. An occasional offer of food from a park visitor, an illegal "
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "Share their food with the bear they see.",
+            "B": "Be prepared to run into a hungry bear.",
+            "C": "Try to be friendly with the bear they meet.",
+            "D": "Refrain from teasing bears with cubs."
+          },
+          "answer": "B",
+          "explanation": "】细节推断题。句（18）提到,虽然徒步旅行 者在公园小路上遇到熊的概率很小，但这也不是 绝对不可能发生的事情，因为熊似乎有某种天赋, 能够看出来人们身上是否有吃的,而且他还可能 会坚持索要。由此推测，讲话者是想告诉那些在 公园小路上徒步旅行的人,他们还是有可能会碰 上需要食物的大熊的。因此答案为B）。 Questions 19 to 21 are based on the recording you have just heard. Why do we form opinions or attitudes about someone or something without really knowing much about them? Just hearing something good or bad about a person, a place or thing can influence our opinions positively or negatively. But letting the opinions of another person determine what our opinions will be is dangerous. (19) Forming opinions about someone or something before really knowing them well is called prejudice. “ Pre-” means before and ”-judice“ refers to judgment. Hence, prejudice means to judge before having adequate knowledge. We can be prejudiced toward or against someone or something. In either case, we are only allowing ourselves to see half of the picture. Very"
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "It refers to opinions that are radical and widespread.",
+            "B": "It means making judgments without adequate knowledge.",
+            "C": "It refers to deep-rooted beliefs about someone or something.",
+            "D": "It means sticking to one's judgments even when proved wrong."
+          },
+          "answer": "B",
+          "explanation": "】细节辨认题。句（19）提到,在真正了解某 人或某事之前形成对他们的看法被称为偏见。也 就是说，没有足够的信息就做出判断，即为偏见。 因此答案为B）o 选项中用adequate knowledge 对原文中的really knowing them well进行了同 义转述。"
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "They often lead to war between religious groups.",
+            "B": "They keep certain occupations from thriving.",
+            "C": "They allow myths and half-truths to persist.",
+            "D": "They prevent us from getting to the truth."
+          },
+          "answer": "D",
+          "explanation": "】细节推断题。由问题中的dangerous一词 可以比较容易地找到答案在句（20）,讲话者提到， 偏见很危险，因为它们使我们无法了解某人或某 事的真相。因此答案为D）。"
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "When we start to feel superior.",
+            "B": "When we mix with prejudiced people.",
+            "C": "When we live in an isolated neighborhood.",
+            "D": "When we try to keep up with those around us."
+          },
+          "answer": "A",
+          "explanation": "】细节辨认题。句（21）提到，当我们的自豪 感开始转变为优越感时，我们就会开始形成带有 偏见的态度。因此答案为A）。 Questions 22 to 25 are based on the recording you have just heard. (22)When I started high school, it was a shock. I had spent eight years fighting my way to be the most popular kid in the Catholic school student body. I had been a big, tough 8th grader and suddenly I was a lonely 9th grader bullied by the big, tough 12th grade seniors who ran the high school. I realized then that it's nice to strive for something, but that you also have to enjoy the moment you're in and be happy where you are. Rock and roll had always been an important part of my life. I remember my friends and I used to drive around until the late hours of the nights listening to the music of Rock and Roll Legends. (23)During those teenage years, I built friendships that I thought would last a lifetime. Most people that age think the same thing, but people drif"
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Motivated.",
+            "B": "Disappointed.",
+            "C": "Perplexed.",
+            "D": "Shocked."
+          },
+          "answer": "D",
+          "explanation": "】细节辨认题。根据句（22）,讲话者提到他 刚上高中的时候，就感到特别震惊。因此答案 为D）。"
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "They would change with the passage of time.",
+            "B": "They would benefit young people's adult life.",
+            "C": "They would help kids grow.",
+            "D": "They would last a lifetime."
+          },
+          "answer": "A",
+          "explanation": "】细节推断题。根据句（23）,讲话者说，很多 人在十几岁的时候都认为那时候形成的友谊可以 持续一生，但其实,慢慢地，工作、家庭、悲剧事件 会让人们逐渐疏远，友谊也不复存在。虽然原文 中没有提到时间的推移，但其他三个选项都无法 从原文中找到依据，所以只有A）选项与讲座中的 这段话意思相近。因此答案为A）。"
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "He had become mature.",
+            "B": "He suffered poor health.",
+            "C": "He had lots of stories to tell.",
+            "D": "He regretted leaving Vietnam."
+          },
+          "answer": "A",
+          "explanation": "】细节推断题。根据句(24-1),讲话者先是 说他感觉在越南的那14个月，他好像活了有10 辈子。句(24-2)提到，在他看来，他以前的那些朋 友都特别幼稚，关心的也都是在他看来十分幼稚 的事情，换句话说，讲话者在越南的经历让他变得 比朋友们都要成熟。因此答案为A )。"
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Make friends with his students.",
+            "B": "Show his students how to do their best.",
+            "C": "Help his students get through the growing pains.",
+            "D": "Share his personal experience with his students."
+          },
+          "answer": "C",
+          "explanation": "】细节辨认题。根据句(25),讲话者说，作为 一名教师，“我”会尽力帮助学生渡过难关。选项 中用growing pains替代了原文中的rough spots o 因此答案为C)。 Part H Reading Comprehension Section A 【文章来源】本文选自2012年10月2 5 日刊登在M I T Sloan Management Review (《麻省理工斯隆管理评论》)上一 篇标题为\"Building Your Company's Capabilities Through Global Expansion”(《通过全球扩张建设公司能力》)的 文章。 【结构框图】 第1段指出，企业全球战略家的任务是建立一个能力平台，并系统地 厂①：升级和更新这些能力，从而领先于竞争对手。 本文主要介绍了成功企业是 如何通过开发、更新和增强 其核心能力的系统化过程来 建立和维持其国际影响力。 K_____________________________ > : 第2、3 段以苹果、宜家、西班牙电信公司为例具体说明这些全球赢受,： ：是如何来建设、升级和更新这些能力的。 ： 、____________________________________________________________ / 第4 段指出创造全球优势并非易事，需要大量的战略和运营技巧。 ： 【词性分析】 名 词：C) clusters串，束;一群人；G) instances例子,实例；J) revenues (政府的)税收；(公司的)收益；L) ship (大)船;舰 动 词:C) clusters聚集；E) exploiting开发;利用;H) rehabilitated修复；使(建筑物或地区)恢复原状； I) reproduced 复制;再现；K) safeguarding 保护,保卫；L) ship (用船、飞机、卡车等)运送；N) transcend 超出，超越(通常的界限)；O) undergoing经历，经受 形容词：A) aesthetic美学的，审美的；B) appropr"
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions ：\n In this section, there is a passage with ten blanks. You are required to select one word for each\nblank from a list of choices given in a word bank following the passage. Read the passage through carefully\nbefore making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding\nletter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the\nwords in the bank more than once.\nThe task of the global strategist of a business is to build a platform of capabilities derived from the\nresources, experiences and innovations of units operating in multiple locations, to transplant those\ncapabilities wherever \n\n, and then to systematically upgrade and renew them—ahead of the\ncompetition.\nApple is an outstanding case of a company whose unique capabilities give it a worldwide \n\nadvantage, particularly with respect to its ability to build platforms from a product base that integrates\nfunctional and \n\ndesign. Apple has been able to leverage and exploit its California-based design and\nmarketing advantages successfully throughout the world. IKEA is another such case. The do-it-yourself\nfurniture and houseware company first developed a compelling set of capabilities to design, manufacture\nand \n\nfurniture at low cost and sell it in a novel way in Sweden. Later, IKEA successfully \n\nthis formula in many other countries.\nBy contrast, Telefonica, a Spanish telecommunications company that is now the world's fifth largest\ntelecom by \n\n, first developed its special advantage abroad. In 1989 and 1990, Telefonica had the\nopportunity to enter Chile and Argentina, countries that shared many institutional and cultural\ncharacteristics with its home country but that were \n\nmore rapid market reform. Throughout the\n1990s, Telefonica took what it learned in Chile and Argentina about reconstructing former state-owned\ntelecoms to other Latin American countries that were privatizing their state telecoms and deregulating\ntheir telecom markets.\nThese examples might lead the reader to believe that creating a global advantage is an easy task. But\nmany other \n\nof expensive failed experiments suggest that creating a lasting global advantage actually\nrequires a great deal of \n\nand operational finesse (技巧).Our research suggests that global winners\ntypically create and sustain their international presence through a systematic process of \n\n, renewing\nand enhancing their core capabilities.",
+      "wordBank": {
+        "A": "aesthetic",
+        "I": "reproduced",
+        "B": "appropriate",
+        "J": "revenues",
+        "C": "clusters",
+        "K": "safeguarding",
+        "D": "competitive",
+        "L": "ship",
+        "E": "exploiting",
+        "M": "strategic",
+        "F": "fiscal",
+        "N": "transcend",
+        "G": "instances",
+        "O": "undergoing",
+        "H": "rehabilitated"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": "A",
+          "explanation": "题。 A ) 【语法判断】空格后面是名词design,前面是并列 连词and,and前面是形容词functional, 由此可推 断,空格处应该也是一个形容词，和functional呈 并列关系。 【语义判断】空格所在句指出，苹果公司的产品融 合了两方面的设计,functional “实用的”是其中的 一个设计特征，那么空格处的形容词也应该用来 描述某种特征，形容词中，aesthetic “美学的，审美 的”符合文意，故答案为A) aesthetico"
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": "D",
+          "explanation": "题。 J）［语法判断】空格前为介词by,后面再无内容，因 此可推断空格处是一个名词，和介词by构成介词 短语。 【语£ 判断】空格所在句提到西班牙电信公司 （Telefonica）目前是世界第五大电信公司，介词by 在这里应该表方式，“从……方面/就……而言”可 以衡量出它是第五大电信公司，复数名词中， revenues” （政府的）税收;（公司的）收益”用在这里 表示“按收益来算”，符合语义，故答案为Do"
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "What do we lose when natural spaces and species disappear? Increasingly, research has shown that as\nspecies and ecosystems vanish, it also chips away at our ability to preserve what remains- - because we\nno longer understand what we're losing."
+        },
+        {
+          "label": "B",
+          "text": "You probably see it all the time. The neighbor who puts pesticides on his lawn rather than deal with\nannoying bees. The politician who votes against wildlife protection because she's never seen a wolf in\nthe wild. The corporation that wants to bulldoze (用推土机推平)the habitat of a rare frog."
+        },
+        {
+          "label": "C",
+          "text": "At best this can be termed “the extinction of experience,M where our cultural and natural histories fade\nfrom our memories and therefore our reality. At its worst it becomes something even more concerning：\n“biophobia,“ the fear of living things and a complete aversion to nature."
+        },
+        {
+          "label": "D",
+          "text": "This isn't the fiction of living in a cold, empty dystopia (绝望的世界).Sadly, it's becoming a way of\nlife for too many people—especially children. A recent study in Japan paints a striking portrait of this\nproblem. A survey of more than 5, 300 school children in the Tochigi Prefecture examined their\nperception of 14 local insect species and one spider. The results? A collective \"ew!\" Most of the\nstudents saw the species as things to dislike or fear, or even as sources of danger. The less experience\nthe students had with nature, the more negative their feelings."
+        },
+        {
+          "label": "E",
+          "text": "The results were published earlier this year in the journal Biological Conservation. Lead researcher\nMasashi Soga with the University of Tokyo says the study stemmed from observations about today's\nnature-deficient children. \"Humans inherently avoid dangerous organisms such as bees, but children\nthese days avoid even harmless insects such as butterflies and dragonflies (蜻蜓)，“he says. \"I have\nlong wondered why so many of today's children react like this.”"
+        },
+        {
+          "label": "F",
+          "text": "Although the children's reactions were somewhat expected, the new study did contain an unexpected\nfinding：\n Many of the surveyed children revealed that their parents also expressed fear or disgust of the\nsame animals. In fact these parental emotions were strong enough to overwhelm any positive\nexperiences the children might have gained from direct experiences in nature. As Soga and his\ncoauthors wrote in their paper, “Our results suggest that there is likely a feedback loop in which an\nincrease in people who have negative attitudes towards nature in one generation will lead to a further\nincrease in people with similar attitudes in the next generation.v"
+        },
+        {
+          "label": "G",
+          "text": "And that's possibly the greater threat posed by extinction of experience. Soga suggests the generational\nloss- a condition previously dubbed environmental generational amnesia (遗忘)- could chip away at\nour societal ability to preserve what we're losing. \"I believe that increased biophobia is a major, but\ninvisible, threat to global biodiversity,v Soga says. \"As the number of children who have biophobia\nincreases, public interest and support for biodiversity conservation will gradually decline. Although\nmany conservation biologists still consider that preventing the loss of wildlife habitat is the most\nimportant way to conserve biodiversity, I think preventing increased biophobia is also important for\nconservation.w"
+        },
+        {
+          "label": "H",
+          "text": "What's to be done about this? The paper makes several recommendations, the most obvious of which is\nthat children should experience nature more often. The authors also suggest establishing policies to\nguide these natural experiences and increasing educational programs about the natural world."
+        },
+        {
+          "label": "I",
+          "text": "Helping parents to see species around them in a new light would make a difference, too. And, of\ncourse, maintaining support for preserving the wild spaces where these “scary“ creatures live is the\n英语菌的笔记\n\nmost important thing of all. That's a point reinforced by another recent study, which found that wild\nspaces located within urban areas—and the plants and animals that thrive in them—are particularly\nimportant for human health and well-being."
+        },
+        {
+          "label": "J",
+          "text": "Published in the journal Frontiers in Sustainable Cities, the study examined attitudes toward Discovery\nPark, the heavily forested 534-acre public park in Seattle, Washington. It found that the public had\nthe most appreciation for- and gained the most value from-  the wildest parts of the park. \"I have\nseen whales, seals, fish, eagles, shorebirds and many other sea creatures in their natural habitat,“ one\nsurvey participant wrote. \"Coming here with people has allowed me to connect and talk with them\nabout conversation that simply does not happen in everyday life,“ wrote another."
+        },
+        {
+          "label": "K",
+          "text": "The participants reported that their most valuable experiences in the park included encountering\nwildlife, walking through open spaces, exploring the beach and finding beautiful views. \"We saw that\na large majority of participants5 interactions, especially their most meaningful interactions, depended\non Discovery Park's relative wildness,w says lead author Elizabeth Lev, a master's student in the\nuniversity of Washington's Human Interaction with Nature Lab. This is only possible because the park\nis relatively wild. After all, you can't enjoy watching birds if there are no birds to follow? gaze at the\nsunset if it's obscured by skyscrapers；\n or stop and smell the flowers if they don't have room to grow.\nL) And yet even this long-protected space could someday become less hospitable to nature. Over the past\nfew years a lot of people and organizations have suggested developing parts of Discovery Park or the\nneighboring area. Most recently a plan proposed building 34 acres of much-needed affordable housing\nand parking spaces adjacent to the park, bringing with them noise, traffic and pollution.\nM) If anything like that happened, both the park and the people of Seattle could lose something vital. And\nthat would continue the trend of chipping away at Seattle's—and the world's—natural spaces, leaving\njust tiny pocket parks and green-but-empty spaces that offer little real value to wildlife, plants or\npeople.\nN) “It is true that any interaction with nature is better than none, but I don't want people to be satisfied\nwith any small bit of grass and trees,“ Lev says. \"We have been in this cycle of environmental\ngenerational amnesia for a long time, where the baseline keeps shifting and we don't even realize what\nwe're losing until it's gone. If we can get people to understand how much meaning and value can come\nfrom having more experiences with more wild forms of nature, then maybe we can stop this cycle and\nmove toward conserving and restoring what we have left.w\nO) Building this understanding in an ever-more fearful and disconnected world may be the biggest\nchallenge. Peter Kahn, the senior author of Lev's paper and the director of the Human Interaction\nwith Nature Lab, made several suggestions for bridging this gap in this 2011 book, Technological\nNature. They echo the recommendation about getting children into nature, but also include telling\nstories of how things used to be, imagining what things might be like in the future, and developing a\ncommon language about nature, “a way of speaking about wild and domestic interaction patterns, and\nthe meaningful, deep and often joyful feelings that they generate.w\nP) No matter what techniques we use, this growing field of research illustrates that saving nature requires\nencouraging people to experience it more often and more deeply. That calls for additional research一\nLev and her coauthors have published a toolkit that other municipalities can follow to study the value of\ntheir own wild spaces—and clear communication of the results. \"If we can continue to show people the\nbenefits of these wild spaces,“ Lev says, “maybe people will begin to see more value in keeping these\nareas undeveloped- for the sake of our mutual benefit.”"
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "A new study found parents5 aversion to certain animals would pass on to their children.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "The disappearance of species and ecological systems erodes our ability to keep what is left.",
+          "answer": "A",
+          "explanation": "】同义转述题。A）段最后一句提到,越来越 多的研究表明，随着物种和生态系统的消亡，这也 逐步削弱了我们保护剩余资源的能力。题干中的 the disappearance of species and ecological systems 对应原 文中的 species and ecosystems vanish,题干中的 erodes our ability 和 keep what is left 分别是对原文中 chips away at our ability 和preserve what remains的同义转述，故答案为 A）。"
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "A study showed that the wildest areas of Discovery Park appealed most to the public.\n英语菌的笔记",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "The fear of living organisms is becoming more worrisome.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Preventing the increase in children's fear of living creatures is also important for conserving\nbiodiversity.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Research shows that more and deeper experience people have with nature will help save it.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Though humans naturally tend to avoid dangerous animals, today's children try to stay away from even\nharmless ones.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Development in and around Discovery Park could cause heavy losses to the park and the local\nresidents.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "A large survey of school children found that their negative feelings grew as their experience with\nnature diminished.",
+          "answer": "D",
+          "explanation": "】同义转述题。D）段第四句提到一项对杨 木县5 300多名学龄儿童的调查，研究了他们对 14种当地昆虫和1 种蜘蛛的看法。由5 300多名 学龄儿童可知，这是一项大型调查。然后该段最 后一句指出调查结果发现学生对自然的体验越 少，他们的感受就越负面。题干中的a large survey of school children 对应原文中的 a survey of more than 5, 300 school children,题干中的 their negative feelings grew as their experience with nature diminished 是对原文中 the less experience the students had with nature, the more negative their feelings 的同义转述,故答案 为D）。"
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Elizabeth Lev believes increased contact with more wildlife helps conserve biodiversity.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nIf there's one rule that most parents cling to in the confusing, fast-changing world of kids and media,\nit's \"No screens before age 2 .”\nAs of today, that rule has been thrown out the window.\nThe American Academy of Pediatrics (AAP), which first issued that recommendation back in 1999,\nhas extensively updated and revised its guidelines for children and adolescents to reflect new research and\nnew habits.\nThe new guidelines, especially for very young children, shift the focus from WHAT is on the screen\nto WHO else is in the room. And in doing so, they raise some intriguing points about the future of learning\nfrom media.\nFor babies younger than 18 months, AAP still says no screens at all are the best idea一with one\nnotable exception：\n Live video chat. Surveys indicate that families already popularly believe that ”Face\ntime doesn't c o u n t o r  at least that the benefit of virtual visits with grandparents or other relatives\noutweighs the potential cost of exposing babies to the laptop or smartphone.\nThe AAP doesn't cite positive evidence that infants actually get something out of this kind of\n“conversation” , the way that they clearly do from live social interaction. But there's some observational\nresearch that infants as young as six months old are emotionally engaged by playing live peekaboo (躲猫猫\n游戏)with Grandma online.\nFor infants and toddlers (学步儿童)，ages 15 months to 2 years old, there's limited evidence from a\ncouple of very small studies that they can learn new words from educational media, if and. only if parents\nare watching alongside them, repeating what the video says and/or drawing attention to what is on the\n英语菌的笔记\n\nscreen. In other words, treating a video or an app like a picture book is the best bet.\nThe flip side of this is that many studies have actually shown poorer language skills correlated with\nearlier solo viewing of “educational“ videos. There's also research that shows language delays in children\nwho watch more TV and start watching earlier. In both cases, the problem seems to be media replacing\ninteraction with people. For this reason, the new AAP guideline has changed from “avoid all screens\nunder age 2\" to \"avoid solo media use in this age group.M\nFor preschoolers ages 2 to 5, there's more evidence that they have the ability to transfer knowledge\nfrom screens to the real world, including early literacy and math. For this age group, AAP recommends\nno more than an hour a day of screen use. And, just as with younger children, they want care-givers to\ntake part in screen time：\n uCo-view with your children, help children understand what they are seeing, and\nhelp them apply what they learn to the world around them.w",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What do we learn about the “No screens under 2\" rule?",
+              "options": {
+                "A": "It has met more and more resistance from parents.",
+                "B": "It has proved helpful to children's healthy growth.",
+                "C": "It confuses parents with regard to kids5 education.",
+                "D": "It has been discarded in line with recent research."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What do the new AAP guidelines advocate?",
+              "options": {
+                "A": "Young children should be accompanied by parents during screen time.",
+                "B": "Parents should be emotionally involved in their children's upbringing.",
+                "C": "Young children should watch videos carefully selected by parents.",
+                "D": "Parents should protect their children from too much media exposure."
+              },
+              "answer": "A",
+              "explanation": "】推理判断题。文章第四段第一句指出，这 项新的指导方针，特别是针对非常年幼的儿童的 部分,将重点从屏幕上的内容转向房间里的其他 英语菌的笔记 人。文章第七段第一句指出，只有当父母和孩子 一起观看视频，并且对孩子重复视频中的内容，或 者提示孩子注意屏幕上的内容时,孩子才能从教 育媒体中学到新单词。由此可知,新指南提倡在 看屏幕期间，年幼的孩子应该有父母陪伴,故答案 为A）。 【避错】第四段第一句指出，新指南提倡在看屏幕 期间，年幼的孩子应该有父母陪伴,但这并不能说 明，父母应该在情感上参与孩子的成长,B）选项为 过度推理，故排除;根据第四段第一句可知，新指 南提倡的是陪伴，而不是强调孩子具体观看的视 频内容,C）项表述与原文不符，故排除;本文第二 段明确指出2 岁以下不适合看屏幕的规则已经不 适用了，同时根据第五至七段可知，新指南建议在 家长的陪同下，孩子可以观看视频,而非父母应该 保护孩子免受过多的媒体曝光,D）项表述与原文 不符，故排除。"
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What do families think of live video chat according to surveys?",
+              "options": {
+                "A": "It should not be regarded as screen time.",
+                "B": "It helps babies to develop their verbal skills.",
+                "C": "It is not as harmful as playing games on laptops.",
+                "D": "It is a good substitute for video viewing."
+              },
+              "answer": "A",
+              "explanation": "】推理判断题。文章第五段第二句指出，调 查显示，美国家庭已经普遍认为“实时视频聊天没 事''，或者至少他们认为云端看望祖父母或其他亲 戚的好处要大于让婴儿接触笔记本电脑或智能手 机的潜在危害。由此可知，调查表明，家庭认为实 时视频聊天不应被视为屏幕时间，故答案为A）。 【避错】定位句并未提及美国家庭认为和家人实时 视频聊天有助于婴儿发展他们的语言技能,B）项 表述与原文不符，故排除;根据定位句可知，“实时 视频聊天没事”，或者至少他们认为云端看望祖父 母或其他亲戚的好处，要大于让婴儿接触笔记本 电脑或智能手机的潜在危害。这里是指与家人实 时聊天的好处大于孩子接触电脑或者手机，文章 没有把实时视频聊天和在电脑上打游戏的危害做 比较,故排除C）项;根据定位句可知，美国家庭认 为实时视频聊天不算屏幕时间，但该调查并没有 指出美国家庭认为实时视频聊天可以替代视频观 看,D）项为过度推理，故排除。"
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What do researches find about kids solo viewing educational videos?",
+              "options": {
+                "A": "It arouses their interest in language learning.",
+                "B": "It works no better than reading picture books.",
+                "C": "It hampers their development of language skills.",
+                "D": "It helps them acquire independent learning skills."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What does the author say about preschoolers ages 2 to 5?",
+              "options": {
+                "A": "They can understand pretty well what they see on the screen.",
+                "B": "They can learn on their own without much parental guidance.",
+                "C": "They can make use of educational videos to develop digital literacy.",
+                "D": "They can relate what they learn on the screen to real life situations."
+              },
+              "answer": "D",
+              "explanation": "】推理判断题。文章最后一段第一句指出， 对于2 至5 岁的学龄前儿童，有更多证据表明他 们有能力将知识从屏幕转移到现实世界,包括早 期识字和数学。由此可知,2 至5 岁的学龄前儿童 可以将屏幕上学到的内容与现实生活情境联系起 来，故答案为D）。 【避错】最后一段第一句指出，2 至5 岁的学龄前 儿童可以将屏幕上学到的内容与现实生活情境联 系起来，而非可以很好地理解他们在屏幕上看到 的内容，故排除A）项;最后一段最后一句指出，正 如与更年幼的孩子一起观看一样,该指南希望照 顾者也能参与到屏幕时间中，与孩子共同观看,而 非孩子可以在没有父母指导的情况下自学，故排 除B）项;文章最后一段第一句指出，对于2 至5 岁 的学龄前儿童，有更多证据表明他们有能力将知 识从屏幕转移到现实世界，包括早期识字和数学, 文中提到的是数学,而不是digital literacy\"数字 素养”，故排除C）项。 参考译文 （51-1）如果说在混乱、快速变化的儿童和媒体世界中,有一条规则是大多数父母所坚持的，那么这条 规则一定是，在孩子未满2 周岁之前，应该限制孩子看屏幕。 （51⑵但从今天起，这条规则就不适用了。 美国儿科学会早在1999年就首次发布了这条建议。但为了反映最新的研究发现以及人们的新习惯， 该学会对有关儿童和青少年的指导方针进行了广泛的更新和修订。 （52-1）这项新的指导方针,特别是针对非常年幼的儿童的部分，将重点从屏幕上的内容转向房间里的 其他人。通过这种转变，他们提出了一些有关未来从媒体学习的有趣观点。 美国儿科学会仍然认为18个月以下的婴儿不适合看屏幕— 但有一个明显的例外:实时视频聊天。 （53）调查显示，美国家庭已经普遍认为“实时视频聊天没事”，或者至少他们认为云端看望祖父母或其他 亲戚的好处要大于让婴儿接触笔记本电脑或智能手机的潜在危害。 美国儿科学会并没有直接的证据能说明婴儿确实可以从这种“对话”中获得和真实社交中一样的收 获。但有一些观察研究表明,6 个月大的婴儿与奶奶在网上玩实时躲猫猫的游戏,在情感上也很投入。 英语菌的笔记 对于15个月到2 岁的婴儿和学步儿童，"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You\nshould write your answer on Answer Sheet 2.",
+      "source": "黄土高原(the Loess Plateau)是中国第三大高原，面积约6 0 万平方公里，平均海拔1 000—2 000米，绝大部分覆盖着50—80 米厚的黄土，是世界上黄土分布最集中、覆盖厚度最大的区域。这是大自然创造的一个奇迹,在世界上也是绝无仅有的。黄土高原是中华民族的发祥地之一。早在5 500年前，人们就已经在黄土高原上开始农耕。随着农耕业的持续发展，黄土高原人口不断增加，在秦汉时期就成为中国的政治和经济中心。如今，随着西部大开发战略的实施，黄土高原地区的经济得到了迅速发展。英语菌的笔记",
+      "reference": "",
+      "explanation": ""
     }
   ]
 }

@@ -348,6 +348,318 @@
       ]
     },
     {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are<requii^d to\nselect one word for each blank from a list of choices given in a word\nbank following the passage. Read the passage through carefully before\nmaking your choices. Each choice in the bank is identified by a letter.\nPlease mark the corresponding letter for each item on Answer Sheet 2\nwith a single line through the centre. You may not use any of the words in\nthe bank more than once.\nQuestions 26 to 35 are based on the following passage.\nPursuing a career is an essential part of adolescent development. \"The adolescent\nbecomes an adult when he 26 a real job.\" To cognitive researchers like Piaget,\nadulthood meant the beginning of an 27 .\nPiaget argued that once adolescents enter the world of work, their newly\nacquired ability to form hypoth-eses allows them to create representations that are too\nideal. The 28 of such ideals, without the tempering of the reality of a job or profession,\nrapidly leads adolescents to become 29 of the non-idealistic world and to press for\nreform in a characteristically adolescent way. Piaget said: \"True adaptation to society\ncomes 30 when the adolescent reformer attempts to put his ideas to work.\"\nOf course, youthful idealism is often courageous, and no one likes to give up\ndreams. Perhaps, taken 31 out of context, Piaget’s statement seems harsh. What he\nwas 32 . however, is the way reality can modify idealistic views. Some people refer to\nsuch modification as maturity. Piaget argued that attaining and accepting a vocation is\none of the best ways to modify idealized views and to mature.\nAs careers and vocations become less available during times of 33 , adolescents\nmay be especially hard hit. Such difficult economic times may leave many\nadolescents 34 about their roles in society. For this reason, community interventions\nand government job programs that offer summer and vacation work are not only\n\neconomically 35 but also help to stimulate the adolescent's sense of worth.",
+      "wordBank": {
+        "A": "Automatically",
+        "B": "Beneficial",
+        "C": "Capturing",
+        "D": "Confused",
+        "E": "Emphasizing",
+        "F": "Entrance",
+        "G": "Excited",
+        "H": "Existence",
+        "I": "Incidentally",
+        "J": "Intolerant",
+        "K": "Occupation",
+        "L": "Promises",
+        "M": "Recession",
+        "N": "Slightly",
+        "O": "Undertakes"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Examples show that both rich and poor countries exploited the environment\nfor economic progress.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Environmental protection and improvement benefit people all over the world.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "It is not necessarily true that economic growth will make our world cleaner.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "The common theme of the UN reports is the relation between environmental\nprotection and economic growth.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Development agencies disagree regarding how to tackle environment issues\nwhile ensuring economic progress.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "It is difficult to find solid evidence to prove environmental friendliness\ngenerates more profits than exploiting the natural environment.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Sustainable management of ecosystems will prove rewarding in the long run.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "A politician noted for being cautious asserts that sustainable human\ndevelopment depends on the natural environment.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Poor countries will have to bear the cost for rich nations' economic\ndevelopment.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "One recent study warns us of the danger of the exhaustion of natural\nresources on Earth.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nInteractive television advertising, which allows viewers to use their remote\ncontrols to click on advertisements, has been pushed for years：Nearly a decade ago\nit was predicted that viewers of “Friends\", a popular situation comedy, would soon be\nable to purchase a sweater like Jennifer Aniston's with a few taps on their remote\ncontrol. \"It's been the year of interactive television advertising for the last ten or\ntwelve years,\" says Colin Dixon of a digital-media consultancy.\nSo the news that Cablevision, an American cable company, was rolling out\ninteractive advertisements to all its customers on October 6th was greeted with some\nskepticism. During commercials, an overlay will appear at the bottom of the screen,\nprompting viewers to press a button to request a free sample or order a catalogue.\nCablevision hopes to allow customers to buy things with their remote controls early\nnext year.\nTelevision advertising could do with a boost. Spending fell by 10% in the first\nhalf of the year. The popularization of digital video recorders has caused advertisers\nto worry that their commercials will be skipped. Some are turning to the Internet,\nwhich\nis\ncheaper\nand\noffers\nconcrete\nmeasurements\nlike\nclick-through\nrates—specially important at a time when marketing budgets are tight. With the\nlaunch of interactive advertising, \"many of the dollars that went to the Internet will\ncome back to the TV,\" says David Kline of Cablevision. Or so the industry hopes.\n\nIn theory, interactive advertising can engage viewers in a way that 30-second\nspots do not. Unilever recently ran interactive campaign for its Axe deodorant^ 臭剂)，\nwhich kept viewers engaged for more than three minutes on average.\nThe amount spent on interactive advertising on television is still small. Magna,\nan advertising agency, reckons it will be worth about $138 million this year. That falls\nfar short of the billions of dollars people once expected it to generate. But DirecTV,\nComcast and Time Warner Cable have all invested in it. A new effort led by Canoe\nVentures, a coalition of leading cable providers, aims to make interactive advertising\navailable across America later this year. BrightLine iTV, which designs and sells\ninteractive ads, says interest has surged: it expects its revenues almost to triple this\nyear. BSkyB, Britain's biggest satellite-television service, already provides 9 million\ncustomers with interactive ads.\nYet there are doubts whether people watching television, a \"lean back\" medium,\ncrave interaction. Click- through rates have been high so far (around 3-4%, compared\nwith less than 0.3% online), but that may be a result of the novelty. Interactive ads\nand viewers might not go well together.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What does Colin Dixon mean by saying \"It's been the year of interactive television advertising for the last ten or twelve years\" (Line 4, Para. 1)?",
+              "options": {
+                "A": "Interactive television advertising will become popular in 10-12 years.",
+                "B": "Interactive television advertising has been under debate for the last decade or so.",
+                "C": "Interactive television advertising is successful when incorporated into situation comedies.",
+                "D": "Interactive television advertising has not achieved the anticipated results."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What is the public's response to Cablevision's planned interactive TV advertising program?",
+              "options": {
+                "A": "Pretty positive.",
+                "B": "Totally indifferent.",
+                "C": "Somewhat doubtful.",
+                "D": "Rather critical."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What is the impact of the wide use of digital video recorders on TV advertising?",
+              "options": {
+                "A": "It has made TV advertising easily accessible to viewers.",
+                "B": "It helps advertisers to measure the click-through rates.",
+                "C": "It has placed TV advertising at a great disadvantage.",
+                "D": "It enables viewers to check the sales items with ease."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What do we learn about Unilever's interactive campaign?",
+              "options": {
+                "A": "It proves the advantage of TV advertising.",
+                "B": "It has done well in engaging the viewers.",
+                "C": "It helps attract investments in the company.",
+                "D": "It has boosted the TV advertising industry."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "How does the author view the hitherto high click-through rates?",
+              "options": {
+                "A": "They may be due to the novel way of advertising.",
+                "B": "They signify the popularity of interactive advertising.",
+                "C": "They point to the growing curiosity of TV viewers.",
+                "D": "They indicate the future direction of media reform."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nWhat can be done about mass unemployment? All the wise heads agree: there\nare no quick or easy answers. There's work to be done, but workers aren't ready to do\nit—they're in the wrong places, or they have the wrong skills. Our problems are\n\"structural,\" and will take many years to solve.\nBut don't bother asking for evidence that justifies this bleak view. There isn't any.\nOn the contrary, all the facts suggest that high unemployment in America is the result\nof inadequate demand. Saying that there're no easy answers sounds wise, but ifs\nactually foolish: our unemployment crisis could be cured very quickly if we had the\nintellectual clarity and political will to act. In other words, structural unemployment is\na fake problem, which mainly serves as an excuse for not pursuing real solutions.\nThe fact is job openings have plunged in every major sector, while the number of\nworkers forced into part-time employment in almost all industries has soared.\nUnemployment has surged in every major occupational category. Only three states,\nwith a combined population not much larger than that of Brooklyn, have\nunemployment rates below 5%. So the evidence contradicts the claim that we're\nmainly suffering from structural unemployment. Why, then, has this claim become so\npopular?\nPart of the answer is that this is what always happens during periods of high\nunemployment-in part because experts and analysts believe that declaring the problem\ndeeply rooted, with no easy answers, makes them sound serious.\nI’ve\nbeen\nlooking\nat\nwhat\nself-proclaimed\nexperts\nwere\nsaying\nabout\nunemployment during the Great Depression; it was almost identical to what Very\nSerious People are saying now. Unemployment cannot be brought down rapidly,\ndeclared one 1935 analysis, because the workforce is \"unadaptable and untrained. It\ncannot respond to the opportunities which industry may offer.\" A few years later, a\nlarge defense buildup finally provided a fiscal stimulus adequate to the economy's\nneeds—and suddenly industry was eager to employ those \"unadaptable and\nuntrained\" workers.\nBut now, as then, powerful forces are ideologically opposed to the whole idea of\ngovernment action on a sufficient scale to jump-start the economy. And that,\nfundamentally, is why claims that we face huge structural problems have-been\nmultiplying: they offer a reason to do nothing about the mass unemployment that is\ncrippling our economy and our society.\nSo what you need to know is that there's no evidence whatsoever to back these\nclaims. We aren't suffering from a shortage of needed skilled; we're suffering from a\nlack of policy resolve. As 1 said, structural unemployment isn't a real problem, ifs an\n\nexcuse—a reason not to act on America's problems at a time when action is\ndesperately needed.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What does the author think is the root cause of mass unemployment in America?",
+              "options": {
+                "A": "Corporate mismanagement.",
+                "B": "Insufficient demand.",
+                "C": "Technological advances.",
+                "D": "Workers' slow adaptation."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What does the author think of the experts' claim concerning unemployment?",
+              "options": {
+                "A": "Self-evident.",
+                "B": "Thought-provoking.",
+                "C": "Irrational.",
+                "D": "Groundless."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does the author say helped bring down unemployment during the Great Depression?",
+              "options": {
+                "A": "The booming defense industry.",
+                "B": "The wise heads, benefit package.",
+                "C": "Nationwide training of workers.",
+                "D": "Thorough restructuring of industries."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What has caused claims of huge structural problems to multiply?",
+              "options": {
+                "A": "Powerful opposition to governments stimulus efforts.",
+                "B": "Very Serious People's attempt to cripple the economy.",
+                "C": "Evidence gathered from many sectors of the industries.",
+                "D": "Economists' failure to detect the problems in time."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What is the author's purpose in writing the passage?",
+              "options": {
+                "A": "To testify to the experts, analysis of America's problems.",
+                "B": "To offer a feasible solution to the structural unemployment.",
+                "C": "To show the urgent need for the government to take action.",
+                "D": "To alert American workers to the urgency for adaptation."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "translation",
       "type": "translation",
       "title": "Part IV Translation",

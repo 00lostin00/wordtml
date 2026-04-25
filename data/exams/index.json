@@ -213,21 +213,18 @@
       "set": 0,
       "title": "2023年3月大学英语六级真题(第1套)",
       "file": "cet6/2023-03.json",
-      "completeness": 0.33,
-      "label": "paper-only",
+      "completeness": 0.83,
+      "label": "near-complete",
       "sectionStatus": {
         "writing": "ok",
         "listening": "bad",
-        "reading-banked": "missing",
-        "reading-matching": "missing",
-        "reading-mcq": "missing",
+        "reading-banked": "ok",
+        "reading-matching": "ok",
+        "reading-mcq": "ok",
         "translation": "ok"
       },
       "issues": [
-        "listening 题数 16",
-        "reading-banked 缺",
-        "reading-matching 缺",
-        "reading-mcq 缺"
+        "listening 题数 16"
       ]
     },
     {
@@ -238,23 +235,18 @@
       "set": 1,
       "title": "2022年12月大学英语六级真题(第1套)",
       "file": "cet6/2022-12-1.json",
-      "completeness": 0.0,
-      "label": "paper-only",
+      "completeness": 0.83,
+      "label": "near-complete",
       "sectionStatus": {
-        "writing": "bad",
-        "listening": "missing",
-        "reading-banked": "missing",
-        "reading-matching": "missing",
-        "reading-mcq": "missing",
-        "translation": "missing"
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "ok",
+        "reading-matching": "ok",
+        "reading-mcq": "ok",
+        "translation": "ok"
       },
       "issues": [
-        "writing prompt 短",
-        "listening 缺",
-        "reading-banked 缺",
-        "reading-matching 缺",
-        "reading-mcq 缺",
-        "translation 缺"
+        "listening 题数 21"
       ]
     },
     {
@@ -265,23 +257,19 @@
       "set": 2,
       "title": "2022年12月大学英语六级真题(第2套)",
       "file": "cet6/2022-12-2.json",
-      "completeness": 0.0,
-      "label": "paper-only",
+      "completeness": 0.67,
+      "label": "partial",
       "sectionStatus": {
-        "writing": "bad",
-        "listening": "missing",
-        "reading-banked": "missing",
-        "reading-matching": "missing",
-        "reading-mcq": "missing",
-        "translation": "missing"
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "ok",
+        "reading-matching": "ok",
+        "reading-mcq": "bad",
+        "translation": "ok"
       },
       "issues": [
-        "writing prompt 短",
-        "listening 缺",
-        "reading-banked 缺",
-        "reading-matching 缺",
-        "reading-mcq 缺",
-        "translation 缺"
+        "listening 题数 12",
+        "reading-mcq 题数 5"
       ]
     },
     {
@@ -292,23 +280,19 @@
       "set": 3,
       "title": "2022年12月大学英语六级真题(第3套)",
       "file": "cet6/2022-12-3.json",
-      "completeness": 0.0,
-      "label": "paper-only",
+      "completeness": 0.67,
+      "label": "partial",
       "sectionStatus": {
-        "writing": "bad",
+        "writing": "ok",
         "listening": "bad",
-        "reading-banked": "missing",
-        "reading-matching": "missing",
-        "reading-mcq": "missing",
-        "translation": "missing"
+        "reading-banked": "ok",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
       },
       "issues": [
-        "writing prompt 短",
         "listening 题数 0",
-        "reading-banked 缺",
-        "reading-matching 缺",
-        "reading-mcq 缺",
-        "translation 缺"
+        "reading-matching 段数"
       ]
     },
     {
@@ -577,22 +561,19 @@
       "set": 2,
       "title": "2020年12月大学英语六级真题(第2套)",
       "file": "cet6/2020-12-2.json",
-      "completeness": 0.17,
-      "label": "paper-only",
+      "completeness": 0.67,
+      "label": "partial",
       "sectionStatus": {
         "writing": "ok",
-        "listening": "missing",
-        "reading-banked": "missing",
-        "reading-matching": "missing",
-        "reading-mcq": "missing",
-        "translation": "missing"
+        "listening": "bad",
+        "reading-banked": "ok",
+        "reading-matching": "ok",
+        "reading-mcq": "ok",
+        "translation": "bad"
       },
       "issues": [
-        "listening 缺",
-        "reading-banked 缺",
-        "reading-matching 缺",
-        "reading-mcq 缺",
-        "translation 缺"
+        "listening 题数 21",
+        "translation 中文短"
       ]
     },
     {
@@ -1011,10 +992,10 @@
       "set": 1,
       "title": "2017年6月大学英语六级真题(第1套)",
       "file": "cet6/2017-06-1.json",
-      "completeness": 0.5,
+      "completeness": 0.67,
       "label": "partial",
       "sectionStatus": {
-        "writing": "bad",
+        "writing": "ok",
         "listening": "bad",
         "reading-banked": "ok",
         "reading-matching": "bad",
@@ -1022,7 +1003,6 @@
         "translation": "ok"
       },
       "issues": [
-        "writing prompt 短",
         "listening 题数 24",
         "reading-matching 段数"
       ]
@@ -1080,10 +1060,10 @@
       "set": 1,
       "title": "2016年12月大学英语六级真题(第1套)",
       "file": "cet6/2016-12-1.json",
-      "completeness": 0.67,
-      "label": "partial",
+      "completeness": 0.83,
+      "label": "near-complete",
       "sectionStatus": {
-        "writing": "bad",
+        "writing": "ok",
         "listening": "ok",
         "reading-banked": "ok",
         "reading-matching": "bad",
@@ -1091,7 +1071,6 @@
         "translation": "ok"
       },
       "issues": [
-        "writing prompt 短",
         "reading-matching 段数"
       ]
     },
@@ -1149,20 +1128,18 @@
       "set": 0,
       "title": "2016年6月大学英语六级真题(第1套)",
       "file": "cet6/2016-06.json",
-      "completeness": 0.5,
-      "label": "partial",
+      "completeness": 0.83,
+      "label": "near-complete",
       "sectionStatus": {
         "writing": "ok",
         "listening": "ok",
-        "reading-banked": "missing",
-        "reading-matching": "missing",
-        "reading-mcq": "missing",
+        "reading-banked": "ok",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
         "translation": "ok"
       },
       "issues": [
-        "reading-banked 缺",
-        "reading-matching 缺",
-        "reading-mcq 缺"
+        "reading-matching 段数"
       ]
     },
     {
@@ -1195,21 +1172,19 @@
       "set": 3,
       "title": "2016年6月大学英语六级真题(第3套)",
       "file": "cet6/2016-06-3.json",
-      "completeness": 0.33,
-      "label": "paper-only",
+      "completeness": 0.67,
+      "label": "partial",
       "sectionStatus": {
         "writing": "ok",
         "listening": "bad",
-        "reading-banked": "missing",
-        "reading-matching": "missing",
-        "reading-mcq": "missing",
+        "reading-banked": "ok",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
         "translation": "ok"
       },
       "issues": [
         "listening 题数 0",
-        "reading-banked 缺",
-        "reading-matching 缺",
-        "reading-mcq 缺"
+        "reading-matching 段数"
       ]
     },
     {
@@ -1929,8 +1904,8 @@
   "summary": {
     "total": 79,
     "complete": 6,
-    "near": 11,
-    "partial": 22,
-    "paperOnly": 40
+    "near": 15,
+    "partial": 24,
+    "paperOnly": 34
   }
 }

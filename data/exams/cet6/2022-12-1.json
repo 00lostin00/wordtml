@@ -11,8 +11,656 @@
       "type": "writing",
       "title": "Part I Writing",
       "minutes": 30,
-      "directions": "",
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence uWith the application o f information technology in education, college students can now learn in more diverse and efficient ways. w You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
       "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "She hasn't started writing it.",
+            "B": "She hasn't decided on a topic.",
+            "C": "She is proofreading the first draft.",
+            "D": "She is working on the references."
+          },
+          "answer": "A",
+          "explanation": "】细节辨认题。对话一开始,男士询问女士 的论文进度，女士在句(1)中回答说她还没开始写。 因此答案为A )。"
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "He lent many books to the man for reference.",
+            "B": "He offered the man advice on resource hunting.",
+            "C": "He published a lot in a number of reputable journals.",
+            "D": "He told the man to be selective when using e-resources."
+          },
+          "answer": "B",
+          "explanation": "】细节辨认题。句(2)中男士提到，他在开始 写论文之前先和教授讨论了去哪里找资料的问题。 基于这个讨论，他在图书馆找到了参考书，并在网 上找到了大量知名期刊文章。因此答案为B )。"
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "He didn't think her dissertation topic viable.",
+            "B": "He wasn't interested in her dissertation topic.",
+            "C": "He didn't want her to rush through her dissertation.",
+            "D": "He wasn't specific about the length of her dissertation."
+          },
+          "answer": "A",
+          "explanation": "】细节辨认题。女士认为自己无法开始写论 文是因为自己的题目不可行。根据句(3 )可知，她 的教授确实在一开始的时候提醒她可能会找不到 足够的资料。因此答案为A )。"
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "Change her research methodology.",
+            "B": "Narrow down her dissertation topic.",
+            "C": "Consult her professor more.",
+            "D": "Follow the man's advice."
+          },
+          "answer": "D",
+          "explanation": "】细节推断题。男士认为女士的论文题目太 过狭窄，如果将题目扩大可能会找到更多资料。根 据句(4)可知，女士认为扩大题目是个好主意,她会 将对其他地区的民间传说的描述囊括进来。由此 可知，女士会听从男士的建议。因此答案为D )。 Questions 5 to 8 are based on the conversation you have just heard. W ： Today, on Book Talk, we are lucky enough to host John Robbins and discuss his new book, Why Americans Are Fat and How We Can Lose Weight. (5-D John isn't just a respected writer； he's also one of the rare celebrity authors writing about science today. M： Thanks for having me, Rebecca, but I'm hardly a celebrity. W ： That's very modest of you to say, (5-2Considering that your four books have sold a total of seven million copies worldwide, and they've been translated into 12 different languages. What makes people so fascinated with your work? M ： (6)Well, people read my books because more than 60% of Americans are overweight or obese. And other countries are facing similar problems. Basically, we all want t"
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "He has translated 12 books.",
+            "B": "He is a well-known nutritionist.",
+            "C": "His books sell well worldwide.",
+            "D": "His latest book sold a million copies."
+          },
+          "answer": "C",
+          "explanation": "】细节推断题。句（5-1）中女士介绍说，约翰 不仅是一位受人尊敬的作家,还是当今为数不多的 撰写科学类文书的名人作家之一。根据句（5-2）可 知,男士的4 部著作在全球总共售出了 700万册， 并被翻译成12种不同的语言。由此可知,男士的 著作畅销全世界。因此答案为C）。"
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "The desire of Americans to try exotic cuisines.",
+            "B": "The demand for information about food safety.",
+            "C": "The fact that over half of Americans are overweight.",
+            "D": "The fact that science books are difficult to read."
+          },
+          "answer": "C",
+          "explanation": "】细节推断题。女士问男士是什么让人们对 他的书作如此着迷。男士在句（6）中回答，人们读 他的书是因为超过60%的美国人超重或肥胖，其 他国家也面临类似的问题。总的来说，大家都想知 道如何解决问题。也就是说,超过一半美国人都超 重的事实让人们都想知道如何解决这个问题，这也 就驱动了男士去写相关的书。因此答案为C）。"
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "The general public.",
+            "B": "Those who are overweight.",
+            "C": "Those who want to lose weight.",
+            "D": "The medical community."
+          },
+          "answer": "D",
+          "explanation": "】细节辨认题。男士在句（7）中明确提到，他 的上一部书主要是为医学界写的。因此答案为 D）o"
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "Switch to a vegetarian diet.",
+            "B": "Follow a personalized diet.",
+            "C": "Adhere to doctors' advice.",
+            "D": "Cut carbohydrate intake."
+          },
+          "answer": "B",
+          "explanation": "】细节推断题。句（8）中男士提到，他认为每 个人都需要考虑自己的新陈代谢,吃适合自己身体 需求的东西。他不提倡单一饮食。有些人应该比 其他人摄入更多的碳水化合物。不同的人对蛋白 质和脂肪的需求量不同。也就是说,男士建议人们 遵循个性化饮食。因此答案为B）。 Section B Questions 9 to 11 are based on the passage you have just heard. Stress is often depicted as negative, but research shows that moderate amounts of it can be beneficial for your brain and your body. First, the benefits for the brain. Studies have shown that short periods of stress can actually bolster cognitive functioning. ⑼Researchers discovered that placing rats in a stressful situation for just a few hours doubled the growth of new brain cells. The rats also did better on a memory test later on. Scientists think the same thing happens in humans. But how does stress improve memory? It's simple. When your brain cells multiply, your memory can improve. Viewed from a biological perspective, this makes sense, (10) because animals that are better at remem"
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "The rate of their growth increased dramatically.",
+            "B": "The growth of their new brain cells doubled.",
+            "C": "They began to show signs of depression.",
+            "D": "They began to get irritated and restless."
+          },
+          "answer": "B",
+          "explanation": "What did researchers discover about rats placed B）【精析】细节辨认题。句（9）中提到，研究人员发 briefly in a stressful situation? 现，将老鼠置于压力状态下几个小时就会使它们 英语菌的笔记 新的脑细胞的生长翻倍。因此答案为B）。"
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Produce a surprising healing effect.",
+            "B": "Weaken one's immunity in the long run.",
+            "C": "To make good sense of them.",
+            "D": "To reflect on their causes."
+          },
+          "answer": "C",
+          "explanation": "】细节辨认题。句（I D 中明确提到,科学家 承认，长期的压力会让人更容易生病。因此答案 为C）。 Questions 12 to 15 are based on the passage you have just heard. (⑵For many managers and people who work in leadership positions, dealing with emails is a dilemma. It's likely the unpredictable, uncontrollable and ongoing nature of day-to-day email in terms of volume, importance and urgency contributes to their levels of anxiety and to diminished leadership skills. That's because it's not unusual for many leaders to prioritize email management over people management. An obsession with managing their inbox prevents them from dealing with their employees. (13)As a result, they ignore the issues that might only be mild problems at first, until unfortunately, they inevitably transform into a major problem or crisis by virtue of neglect. (14)As leaders, they are expected to motivate and inspire their team in pursuit of longer term strategic go"
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Cultivate self-control.",
+            "B": "Filter their email boxes.",
+            "C": "Lacking the ability to relate to their staff.",
+            "D": "Spending too much time handling email."
+          },
+          "answer": "A",
+          "explanation": "】细节辨认题。短文中提到,领导者必须从 其他任务中转移资源来查看、过滤和回复电子邮 件。根据句（15）可知，这一问题的解决方法是培 养自制力,就像肌肉一样— 随着时间的推移，肌 肉可以通过锻炼得到加强或改善。因此答案 为A）。 Section C Questions 16 to 18 are based on the recording you have just heard. In last week's lecture, we talked about the problems caused by poor eating habits, focusing on how medical professionals are trying to solve these problems. Today, we'll continue with the topic, but focus on research from a different field—marketing. Now, what can marketing tell us about improving nutrition? Well, (16)a team of marketing professors has studied the importance of the visual aspect of food and how that influences food choices. Those marketing experts assert that the impact of the appearance of food is greater than we might presume, and might hold the key to encouraging better eating. So how important is the appearance of food? Research shows that just seeing an appealing photograph of a"
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "The key to increasing healthy food supply.",
+            "B": "The best way to improve marketing research.",
+            "C": "The impact of advertisements on consumption.",
+            "D": "The importance of the appearance of food."
+          },
+          "answer": "D",
+          "explanation": "】细节辨认题。句（16）中提到，一个营销教 授团队研究了食物视觉方面的重要性以及它如何 影响食物选择。因此答案为D）。"
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "By focusing on the nutrients in different foods.",
+            "B": "By emphasizing the diversity of food.",
+            "C": "By stressing pleasing aesthetics of food.",
+            "D": "By winning the support of marketing professors."
+          },
+          "answer": "A",
+          "explanation": "】细节辨认题。根据句（17）可知，医疗专业 人员试图通过关注不同食物中的营养成分和强调 碳水化合物、脂肪、糖和卡路里等的含量来对抗肥 胖流行病。因此答案为A）。"
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "They can attract customers with the healthy qualities of their products.",
+            "B": "They can boost sales of healthy foods by making them visually appealing.",
+            "C": "They can turn to marketing professors for advice.",
+            "D": "They can rely on advertising for sales promotion."
+          },
+          "answer": "B",
+          "explanation": "】细节辨认题。讲座中提到了一个通过强调 胡萝卜的外观和口感而成功将胡萝卜的销售量提 高的案例。句（18）中讲话者提到，研究人员认为， 其他公司可以通过类似的广告来增加健康食品的 销量,将他们的产品描述为有吸引力和快乐的源 泉。因此答案为B）。 Questions 19 to 21 are based(HI the recording you have just heard. The household cleaning products industry really began to take off in the 1950s. Prior to that resourceful housewives, who had grown up in a less prosperous era, relied on substances that they used in their kitchens such as vinegar used to clean windows. Today, the household cleaning products industry is worth billions of dollars a year and is dominated by large global companies. (19)In recent years, however, many countries have witnessed a surge in the number of small businesses and companies offering more environment-friendly cleaning products, and they're doing good business, too. One reason for this is that consumers are becoming more aware of environment and sustainability issues. They also want to"
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "It has witnessed a spectacular surge in demand.",
+            "B": "It has met much criticism from environmentalists.",
+            "C": "It has seen more small businesses offering environment-friendly products.",
+            "D": "It has experienced increasingly fierce competition among global companies."
+          },
+          "answer": "C",
+          "explanation": "】细节辨认题。句Q9）中提到，近年来，许多 国家提供更多环保清洁产品的小公司的数量激 增，而且他们的生意也做得很好。因此答案 为C）。"
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Consumers now know much more about technology.",
+            "B": "Their mass production has sharply reduced the price.",
+            "C": "Consumers tend to favor all that is novel.",
+            "D": "Their quality has been greatly improved."
+          },
+          "answer": "A",
+          "explanation": "】细节推断题。根据句（20）可知，过去，人们 可能会对声称能够达到惊人的清洁效果的新产品 持怀疑态度,但他们现在相信技术有能力完成曾 经被认为不可能的事情。也就是说，消费者现在 对技术有了更多的了解，所以新兴清洁产品会畅 销。因此答案为A）。"
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Purchasing only this kind of products for home cleaning.",
+            "B": "Writing positive comments about them on social media.",
+            "C": "Demonstrating on TV how effective these products are.",
+            "D": "Telling one another about their incomparable virtues."
+          },
+          "answer": "B",
+          "explanation": "】细节辨认题。根据句（21）可知，顾客通过 在社交媒体上留言（称赞它们的优点）来为这些产 品进行营销。因此答案为B）。 Questions 22 to 25 are based on the recording you have just heard. Throwing spare change into a fountain is a time-honored ritual： throw a penny into the water, and your wish might come true. But all that money has to go somewhere. (22)Otherwise, the growing piles of pennies, quarters and euros could clog up the fountain's works. Today, Fm going to talk about where all the coins go. Well, the coins collected can go to all sorts of different places—from fountain maintenance to charity or public service. (23) In New York City, for example, coins collected from fountains in public parks often go towards the fountains' maintenance itself, though entrepreneurs who don't mind getting their hands wet often get to it first. There are over 50 beautiful, decorative display fountains in New York City parks. They are cleaned by the parks, s"
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Increasing cleaners5 workload.",
+            "B": "Blocking the fountains, works.",
+            "C": "Breaking a time-honored ritual.",
+            "D": "Polluting the fountains5 water."
+          },
+          "answer": "B",
+          "explanation": "】细节推断题。讲座开头提到，将零钱扔进 喷泉是一种历史悠久的仪式:把一便士扔进水里， 你的愿望可能会实现。但这些钱都得去往别处。 根据句（22）可知，否则的话，越来越多的便士、美 分和欧元可能会堵塞喷泉装置。因此答案为B） 0"
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "They are occasionally retrieved by curious tourists.",
+            "B": "They are regularly donated to charity organizations.",
+            "C": "They are mostly used for the fountains5 maintenance.",
+            "D": "They are usually used as wages for fountain cleaners."
+          },
+          "answer": "C",
+          "explanation": "】细节辨认题。句（23）中明确提到,在纽约 市，从公园里的喷泉中收集的硬币通常用于喷泉 的维护。因此答案为C）。"
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "It is invested in a series of businesses.",
+            "B": "It is used exclusively for its maintenance.",
+            "C": "It is used to run a supermarket for the needy.",
+            "D": "It is estimated to be about $ 40,000 a month."
+          },
+          "answer": "C",
+          "explanation": "】细节辨认题。讲座中提到,数百年来都有 游客把硬币扔进罗马著名的特雷维喷泉,罗马官 英语菌的笔记 员要求每晚都要清理喷泉，据报道,每天都会收集 到高达4 000美元的世界各地的零钱。根据句 （24）可知，每天晚上收集到的大部分钱都用于一 家为有需要的人经营的超市。因此答案为C）。"
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "He was arrested for stealing money from four fountain cleaners.",
+            "B": "He was sentenced to 34 years5 imprisonment.",
+            "C": "He collected rare coins from around the world.",
+            "D": "He stole a lot of money from a fountain with a magnetic stick."
+          },
+          "answer": "D",
+          "explanation": "】细节辨认题。句（25）中提到，当局最终抓 住了一个名叫托马斯• 摩根的臭名昭著的小偷, 并禁止他进入喷泉，因为他用一根磁力棒在至少 34年的时间里从喷泉中捞出了数千美元的零钱。 因此答案为D）。 Part J[ Reading Comprehension Section A 【文章来源】本文选自2020年3 月1 7 日刊登在Cable News Network （CNN）（美国有线电视新闻网）上一篇标题 为\"We Cling to American Rugged Individualism at Our Peril\"（《我们坚持美国坚定的个人主义，但要承担风险》） 的文章。 【结构框图】 第1、2 段回忆了作者在课堂中遇到的危险事件：一个患有精神分裂 ____ I--0 ：症的女人出现在教室并表示自己有枪，之后被制服并送进医院。 本文主要介绍了作者在美国］： '--------------------------------------------------------------------- 做访问诗人时遭遇的危险。 ■\"： ,--------------------------------------------------------------------- k---------------------------- 7 ：小，第3 段描述了作者女儿遇到的危险事件：在作者的丈夫送女儿去参加 '-①：日间露营的路上，一个女人差点儿把孩子带走。 【词性分析】 名 词:A） access （使用或见到的）机会,权利；通道;D） dedication献身;奉献；I） network关系网;人际网;互 联网 动 词:A） access到达;进入;使用；E） escorted护送;护卫；F） froze （因害怕等）不动,停住;吓呆；（使）冻结;冷 藏；D network （使）联网;建立人际关系网；J） overriding视为比… …更重要;否决；M） stifled （使）窒 息;压制；N） struck侵袭;爆发;撞击;行进；O） terrifying使害怕"
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions：\n In this section, there is a passage with ten blanks. You are required to select one word for each\nblank from a list of choices given in a word bank following the passage. Read the passage through carefully\nbefore making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding\nletter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the\nwords in the bank more than once.\nDuring the summer, when I was a visiting poet at a residency out of state, an angry, confused woman\nwandered into my class and said：\n ”I have three guns and I want to use them.\" We all \n\n. It wasn't\nclear if she had the guns, but we each know that, when we teach in America, we are already in danger.\nI was dizzy with fear. The woman, who later turned out to be a schizophrenic (精神分裂症患者)\nwithout \n\nto her medications, was, by some force, wrestled out and \n\naway, then put in a\nhospital for observation, in a step that was actually safer for everyone than any one of us pressing charges.\nMy class went on；\n we talked about poems. But despite the fact that the rest of our days on campus passed\n\n, I was rattled. I couldn't shake the sense that in this country we always live at \n\nrisk.\nA few months later, crisis \n\nagain. While my husband was locking his bike to drop off our\n3-year-old daughter for her preschool-aged day camp, a different woman approached. Swiftly and for no\n32 reason, she bent down, picked up our daughter, and began to carry her down the street. It was so\nfast and confusing that my daughter \n\ncried. My husband, in a burst of speed, chased the woman and\nreclaimed our daughter. The woman, clearly confused, retreated into the public library. A \n\nof\nhomeless people who generally know the other homeless in the area said they did not recognize the\nwoman. The woman was so clearly unwell that when she was taken into custody she was incoherent.\nHeartbreakingly, she called our daughter by the name of someone else's child. Each part of the episode\nwas haunting as it was \n\n.\n英语菌的笔记",
+      "wordBank": {
+        "H": "indignant",
+        "A": "access",
+        "B": "apparent",
+        "C": "barely",
+        "D": "dedication",
+        "E": "escorted",
+        "F": "froze",
+        "G": "incredible",
+        "I": "network",
+        "J": "overriding",
+        "K": "peacefully",
+        "L": "presumably",
+        "M": "stifled",
+        "N": "struck",
+        "O": "terrifying"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": "A",
+          "explanation": "题。 A ）【语法判断】空格前后的词分别为without和to, 说明此处应是一个介词短语，可推断出空格处是 一个名词。 【语义判断】空格所在句的意思是闯入教室的女人 后来被证明患有精神分裂症，空格所在介词短语 用来进一步描述提到的这个女人，介词to 后面提 到“药物”，结合空格所在段内容可推断出这个女 人应该没有进行药物治疗。此处应指“未获得药 物治疗”,access \" （使用的）机会，权利”符合句意， 故答案为A）。"
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Michael Wardian pushed forward into the penetrating arctic (北极的)wind, fighting the urge to speed\nup. Too much effort and he'd begin to sweat, which, he was told, would only increase the risk of\nhypothermia (体温过低)."
+        },
+        {
+          "label": "B",
+          "text": "At the 2014 North Pole Marathon, the temperature dipped to minus-22 degrees F, with a wind chill\nthat made it feel even colder. Along the route, armed guards wandered the large sheets of floating ice\nto minimize the risk of polar bear attacks."
+        },
+        {
+          "label": "C",
+          "text": "“I like to do stuff that scares m e,“ Wardian said. With ice frozen to his beard, Wardian crossed the\nfinish line that April afternoon in a winning time of 4 hours 7 minutes and 40 seconds, almost two\nhours slower than his personal best over 26.2 miles. The race for Wardian, however, was less about\nthe result than overcoming his aversion to the cold."
+        },
+        {
+          "label": "D",
+          "text": "In a few days, Wardian will once again compete in an unfamiliar territory and below-freezing\ntemperatures. He will line up Monday in Antarctica (南极)for the first leg of the World Marathon\nChallenge—joining 32 other adventure seekers on an unusual journey where participants travel through\ndifferent time zones and climates to run seven marathons on seven continents in seven days."
+        },
+        {
+          "label": "E",
+          "text": "An elite ultra-runner, Wardian has his sights on breaking the event's record average marathon time of\n3：32：\n 25 set last January by U. S. Marine Corps captain Daniel Cartica. Wardian, a 42-year-old\nArlington resident, is a record-breaking racer, known in the ultra-running community for seeking\ntough courses and setting world records. Last year, he ran 1,254. 65 miles in 47 races. The World\nMarathon Challenge, like most of Wardian's running goals, will be about pushing his limits. \"I love\ndiverse and unique challenges,w he said. 'T m  definitely interested in seeing what I can handle and\nwhat my body can accept. That drives m e.”"
+        },
+        {
+          "label": "F",
+          "text": "Something about the way Richard Donovan carried himself appealed to Wardian. Perhaps it was the\nsense of adventure Donovan displayed when they first met at the 2010 50K Championships in Galway,\nIreland, where Donovan was the race director. The two hit it off, and soon Wardian was participating\nin Donovan's events. It was at the North Pole Marathon, a race that Donovan organizes, that Wardian\nfirst heard about the Irishman's plan for the World Marathon Challenge- a challenge that Donovan\nhimself completed in 2009 and 2012. “I knew that many people had a goal of running seven marathons\non seven continents during any time period,“ Donovan, 50, said. \"I felt the natural extension to this\nidea would be to try to achieve it within a seven-day period.w"
+        },
+        {
+          "label": "G",
+          "text": "Wardian started saving for the trip in 2014, connecting with sponsors and getting approval from his\nwife, Jennifer, before committing. Registration for the event costs 36, 000 euros, which covers\n英语菌的笔记\n\ninternational charter flights to each of the seven marathon locations：\n Union Glacier (Antarctica),\nPunta Arenas, Chile ( South America), Miami ( North America), Madrid (Europe), Marrakesh,\nMorocco (Africa), Dubai (Asia) and Sydney (Australia). The challenge is a test of both physical\nstrength and mental fitness. Sleeping on a crammed plane, adjusting to different time zones and\nfinding food to eat (Wardian is a vegetarian) would make it an exhausting trip over a month, let alone\na week. \"The key to a race like this is getting comfortable being uncomfortable,w said Becca Pizzi, last\nyear's women's champion. \"The highs of the race are incredibly high, and the lows incredibly low. ”"
+        },
+        {
+          "label": "H",
+          "text": "Since turning it into an organized event in 2015, Donovan has attracted a variety of runners. This\nyear's challenge will feature a far more elite field, which includes Ryan Hall, America's fastest\nmarathon runner. Despite his proven track record, Hall said he has no time goals and that he still\nsuffers from the same fatigue issues that forced him to leave the professional ranks in 2015. Hall plans\nto run with his friend, Pastor Matthew Barnett of The Dream Center in Los Angeles- one of the six\nAmerican men who will be competing. \"I don't expect to run a step with Mike, but I will be excited to\nsee how he does,“ said the 34-year-old Hall, who began weight-lifting after retiring. \"If I finish within\nan hour of him in each marathon, I'd be surprised.w"
+        },
+        {
+          "label": "I",
+          "text": "Instead, 43-year-old Petr Vabrousek, an elite Czech Ironman champion, is expected to be Wardian's\nclosest challenger. To others on the trip, simply finishing will be its own reward. Sinead Kane of\nIreland is aiming to become the first blind person to complete the challenge. And Beth Ann Telford, a\n47-year-old federal government worker from Fairfax and the only American female in this year's mix,\nis using the event as a platform to raise money for cancer research. It's a cause with a personal\nconnection to Telford, who was diagnosed with brain cancer in 2004. “Doing something Hke this is\ndefinitely the hardest challenge that I've ever done except for the chemotherapy and brain surgery,w\nshe said. \"It's going to raise awareness... I just wanted to do something that is epic and this certainly is\nright up there.M Wardian, too, hopes his involvement will give him a platform to promote a cause. He\nrecently became an ambassador for the United Nations Women's HeForShe initiative to fight\ninequalities faced by women and girls worldwide."
+        },
+        {
+          "label": "J",
+          "text": "On a chilly December afternoon, Wardian wove through Washington's crowded sidewalks on the way\nhome from his full-time job as an international ship broker. His elastic, 6-foot frame bounced gently\nand efficiently off the ground with each step of the hilly six-mile trip back to Arlington. This is a daily\nroutine during the week for Wardian, who started racing professionally in 2003 and runs seven days a\nweek, often multiple times a day. When he travels, he prefers to explore new places on his feet."
+        },
+        {
+          "label": "K",
+          "text": "But in some ways, Wardian still has trouble thinking of himself as a runner. For the majority of his\nchildhood, Wardian devoted his energy to becoming a Division I lacrosse (长曲棍球)player- a dream\nhe realized when he was recruited to play at Michigan State University. <( Once he decides to do\nsomething, he just works at it until he does it,“ Michaefs younger sister, Mariele, said. \"Once he\ndecides to do it, it's usually something that's going to happen. He's always been like that. He's a very\nmotivated individual.w\nL) It was only a year or so ago that Wardian realized that he had been a runner longer than a lacrosse\nplayer. It was not until he ran in the 2004 U. S. Olympic Marathon Trials—the first of three for\nWardian- that he felt that he was a legitimate runner. Now more than 10 years and numerous ultra­\nmarathon national titles and world records later, he embraces that identity. Wardian wants to see how\nfar his legs can take him, one epic challenge at a time. \"I want to always keep doing things that are\nexciting, adventurous, different and most importantly, probably things Fm not the best a t,“ Wardian\nsaid, u because if you5re not seeking things out that are challenging and difficult for you, then you're\nnot growing... So I hope maybe people see what I do, and say, 'Okay, I want to do something\ndifferent or try something new... Fm going to do something that scares m e.' That's what Fm hoping\npeople will take from it.”\n英语菌的笔记"
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Wardian regards the various extraordinary challenges as a test of his physical endurance.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Wardian hopes his participation in the seven-day marathon series will contribute to a worthy cause.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Wardian is going to join over thirty other runners in a week-long marathon series.",
+          "answer": "D",
+          "explanation": "】同义转述题。D）段定位句提到，他将与32 名其他探险者一起踏上一段不同寻常的旅程，参 与者在7 天内穿越不同的时区和气候，在7 大洲 跑7 场马拉松。可知题干是对定位句信息的转述。 题干中的over thirty other runners对应原文中的 32 other adventure seekers,题干中的 a week-long marathon series 是对原文中“seven marathons... in seven days”的同义转述，故答案为D）。"
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Over-exertion in extreme cold can lower one's body temperature to a dangerous point.",
+          "answer": "A",
+          "explanation": "】细节归纳题。A）段第一句提到北极刺骨 的风，第二句又指出，沃迪恩被告知，如果他过度 发力，会开始出汗，而这样只会增加体温过低的风 险。可知题干是对本句的同义转述。题干中的 over-exertion 对应原文中的 too much effort,题 干中的 lower one's body temperature to a dangerous point 是对原文中 increase the risk of hypothermia的转述，故答案为A）o"
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Wardian was very much impressed by a race director's sense of adventure.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Once Wardian sets his mind on something, he is determined to make it happen.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "One top American marathoner quit his running career because of his physical condition.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "To many of the week-long marathon participants, completing the race will be a success in itself.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "For Wardian, the marathon in the Arctic was more about how to triumph over the extreme cold.",
+          "answer": "C",
+          "explanation": "】同义转述题。前文提到沃迪恩是在北极参 加马拉松，而C）段的定位句提到,沃迪恩参加这 次比赛,与其说是为了成绩,不如说是为了克服他 对寒冷的厌恶。题干中的the marathon in the Arctic对应定位句中的the race,题干中的more about 对应原文中的 less about the result than,题 干中的 triumph over the extreme cold 对应原文 中的 overcoming his aversion to the cold,故答案 为C）。"
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "To participate in the seven-day marathon series, Wardian had to raise a lot of money and have his\nwife's support.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nMany people associate their self-worth with their work. The more successful their career, the better\nthey feel about themselves. Work-related self-esteem is therefore a worthy ideal to pursue with vigor,\nright? Well, not always. According to recent research, in which psychologists interviewed 370 full-time\nworkers over a period of three weeks, the reality is a little more complicated. And it involves negative as\nwell as positive consequences.\nIt's natural to be drawn towards pleasure and to step away from pain. In the workplace, if that\npleasure comes from a triumph which swells our self-respect, people will try to repeat the\naccomplishment. But repeating that accomplishment is often not realistic, which can lead to severe\nnegative emotional consequences when it doesn't reoccur. This form of motivation is widely regarded as a\nnegative type of motivation. It can hinder other more positive motivation types, such as completing a task\npurely because it's fulfilling or enjoyable.\nWhat consumes the employee instead is a pressing need to feel mighty and sure of themselves. They\nthen take on only tasks and objectives which serve that ego-driven need. As a result, to avoid feelings of\nshame and worthlessness associated with failure, they extend themselves to such a degree that there's a\nsubsequent adverse effect on their well-being. This internal pressure to succeed at all costs demands a lot of\neffort. It depletes their energy, culminating in disproportionate levels of damaging sentiment.\nThose negative emotions mount into heightened anxiety, impacting their ability to make the most of\ntheir personal life. Their desire to avoid feeling inferior ends up making them feel inferior when it comes\nto their diminished capacity for friendship and leisure. They end up dissatisfied both at work and outside\nof it.\nBut thankfully, for those people compelled almost entirely by this specific form of motivation, the\nnews isn't all bad, or bad at all. The study also discovered several positive outcomes that can actually\noutweigh the harmful ones. Though these types of employees are motivated by the desire to avoid negative\nconsequences, they are also motivated by the excitement of pursuing emotional rewards. This excitement\nmakes pursuing goals enjoyable and stimulates pleasure and pride that would result from success. An effcet\nof the positive motivation is that it neutralizes the existence of negative motivation.\nSure, it affects people's personal lives to what could be deemed an unhealthy extent, because leisure\nactivities are often seen as a part of life that must be sacrificed to manage work and family demands.\nHowever, the way people feel about their work has less to do with whether they're motivated by the\npreservation of self-esteem but more with the fact that they're simply motivated.\n英语菌的笔记",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What does the author say about the pursuit of work-related self-esteem?",
+              "options": {
+                "A": "It may result in negative motivation.",
+                "B": "It contributes to one's accomplishments.",
+                "C": "It can increase one's vigor as one keeps trying.",
+                "D": "It costs too much emotionally and psychologically."
+              },
+              "answer": "A",
+              "explanation": "】事实细节题。文章首段指出，根据最近的 研究，追求与工作相关的自尊会同时产生积极和 消极的结果。第二段第二至四句又指出，如果人 们因工作成就增强了自尊心而感到快乐，就会试 图重复这种成就，但这往往并不现实，因为如果没 有再取得这样的成就，就可能会导致严重的负面 情绪后果。因此这种形式的动机被广泛认为是一 种消极的动机。由此可知,作者认为追求与工作 相关的自尊可能导致消极的动机，故答案为A）。 【避错】文章第二段第二句指出，工作中获得成就 英语菌的笔记 可能会增强人们的自尊,从而激励他们不断追求 这种可以增强自尊的成就，因此可以推断出，是这 种成就进一步推动人们对增强自尊的追求，而非 这种追求有助于人们的成就,B）项与文章意思不 符，故排除;第二段第三句指出，这种对与工作相 关的自尊的追求很可能会带来负面的情绪，因此 C）项中“可以增强人的活力”说法不准确，故排除； 整篇文章虽然指出这种追求可能会使人产生极大 的破坏性情绪，但第五段也指出在这个过程中,人 们也能获得情感回报，并因此获得激励和快乐，总 而言之，这种追求既有消极后果，又有积极结果， D）项与文章意思不符，故排除。"
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What do employees tend to do in pursuing work-related self-esteem?",
+              "options": {
+                "A": "Take on tasks well beyond their actual capabilities.",
+                "B": "Strive to succeed at the expense of their well-being.",
+                "C": "Resort to all means regardless of the consequences.",
+                "D": "Exaggerate their sense of shame and worthlessness."
+              },
+              "answer": "B",
+              "explanation": "】事实细节题。文章第三段第三、四句提到， 为了避免与失败相关的羞耻感和无价值感，员工 非常拼命，不惜一切代价获得成功,这不利于他们 获得幸福。由此可知，员工在追求与工作相关的 自尊时往往是以牺牲幸福为代价的，故答案 为B）。 【避错】文章第三段前两句指出，员工内心迫切想 要感觉到自己的强大和自信，于是他们只完成那 些满足自我驱动需求的任务和目标,A）项“承担远 远超出其实际能力的任务”不符合原文意思，故排 除;文章第三段第四句提到,这些员工不惜一切代 价想要获得成功，但这指的是他们不惜牺牲自己 的幸福,C）项的表述偏贬义,意思是员工可能会选 择采取不光彩的手段来获得成功,不符合原文意 思，故排除;第三段第三句提到，为了避免与失败 相关的羞耻感和无价值感,这些员工会拼命努力 追求目标，说明员工努力的目的恰恰是为了避免 这种羞耻感和无价值感,D）项不符合原文意思，故 排除。"
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What do we learn about people over-concerned with work-related self-esteem?",
+              "options": {
+                "A": "They may often feel inferior to their colleagues.",
+                "B": "They cannot enjoy their personal life to the full.",
+                "C": "They are never satisfied with their achievements.",
+                "D": "They have their own view of friendship and leisure."
+              },
+              "answer": "B",
+              "explanation": "】事实细节题。文章第四段第一句指出，这 些负面情绪上升为高度焦虑，影响了他们尽情享 受个人生活的能力。由此可知，这些员工过度关 注与工作相关的自尊，以至于无法充分享受个人 生活，故答案为B）o 【避错】第四段第二句提到,这些员工想要避免自 卑的渴望最终却让他们在交友和休闲能力下降时 感到自卑,A）项将文章意思扩大到“常常觉得自己 不如同事”，不符合原文意思，故排除;第二段第二 句指出，如果人们因工作成就增强了自尊而感到 快乐，就会试图重复这种成就，这只是为了不断增 强自尊，而非因为不满足于自己的成就,C）项不符 合原文意思,故排除;第四段第二句只提及他们在 交友和休闲能力下降时感到自卑,并未提及他们 对友谊和休闲有什么看法,故排除D）项。 4 9 .1 定位】由题干中的good news和recent research 定位到第五段。 A ）【精析】事实细节题。第五段第二至四句提到，该 研究还发现了几个积极的结果，那就是:尽管这种 类型的员工的动机是避免消极后果,但他们也会 被追求情感回报的兴奋感所激励。这种兴奋感使 追求目标变得愉快,并激发了成功带来的快乐和 自豪感。由此可知，研究新发现的好消息就是:追 求目标也可能是一种享受和快乐，故答案为A ）。 【避错】第五段第三句提到,尽管这种类型的员工 的动机是避免消极后果，但他们也会被追求情感 回报的兴奋感所激励，但这只是说明追求目标可 以带来让人兴奋的情感回报，并未指出它因此而 值得所付出的痛苦,故排除B ）项;第五段最后一 句提到，积极动机有一个作用，即它可以抵消消极 动机的存在,但这不能说明消极后果是可以避免 的,C ）项与文章意思不符，故排除;根据全文内容 来看，实现增强自尊的目标需要不断努力,但是否 只要不断努力就能实现这一目标,文章中并未提 及，而且由第四段第二句可知,员工越是在工作中 想增强自尊、摆脱自卑，在生活中面对自己交友和 休闲能力减弱的情况时反而越自卑,D ）项不符合 原文意思，故排除。 5 0 .【定位】由题干中的last paragraph定位到最后 一•段。 D ）【精析】推理判断题。最后一段最"
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What is the good news we learn from the recent research?",
+              "options": {
+                "A": "The pursuit of goals may turn out to be enjoyable and pleasant.",
+                "B": "The emotional rewards from goal pursuit are worth the pains taken.",
+                "C": "The negative consequences of goal pursuit can mostly be avoided.",
+                "D": "The goal of swelling self-esteem can be achieved if one keeps trying."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What can we infer from the last paragraph?",
+              "options": {
+                "A": "Workers have to make sacrifices to preserve self-esteem.",
+                "B": "Self-esteem swells when workers are strongly motivated.",
+                "C": "Pursuit of goals affects people's personal lives to an unhealthy extent.",
+                "D": "People feel positive about their work as long as they are motivated."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nDegradation of the world's natural resources by humans is rapidly outpacing the planet's ability to\nabsorb the damage, a recent UN environmental study has found. The study concludes that without radical\naction the level of prosperity that millions of people in the developed world count on will be impossible to\nmaintain or extend to poorer countries.\nWater scarcity is the curse of some of the poorest regions on Earth, leaving developing countries\nincreasingly unable to feed themselves, and causing hardship for millions of people. There appears little\nprospect of this desperate situation being remedied without radical action being taken. Water resources are\nunder increasing threat from population growth, climate change, rapid urbanization, rising levels of\nconsumption, and the degradation of lands that previously provided a natural replenishment (补充)of\nwater resources.\nThe rate of damage to the natural environment was found to increase globally, despite concerted\nefforts to persuade governments to take measures to improve the condition. \"If current trends continue,\nand the world fails to improve patterns of production and consumption, then the state of the world's\nenvironment will continue to decline,w warned UN executive director Achim Steiner.\nHe said the tools for improving the environment for millions of people existed in developed countries,\nbut were in danger of not being used.\nThe study found that basic measures to tackle some of the key causes of environmental damage were\nstill not being taken. These included measures to reduce air pollution, to control the damage to marine\neco-systems, which can have a huge effect on fish stocks on which hundreds of millions of people depend；\nand to curb the degradation of land where modern agricultural methods were pursued without regard to the\n英语菌的笔记\n\nlonger-term consequences.\nDespite the recent global agreement on cutting greenhouse gas emissions, global carbon output\ncontinues to rise. This will put a long-term strain on the ability of developing economics to feed their own\npeople. Climate change is aggravated by the emissions of greenhouse gases from chemical and natural\nfertilisers used in agriculture which increased by more than a quarter between 2000 and 2010. Other\nproblem areas identified in the report included glaciers, which provide vital water resources for millions of\npeople, but which are shrinking as the climate warms.\nIn rich countries, these problems have built up over decades and centuries while economic growth was\npursued at the expense of the environment. Subsequent efforts to remedy the environment have met with\npartial success. But in developing countries, the path of future development has more potential to change,\nwhich has encouraged international institutions to devise more sustainable growth pathways that are\nsupposed both to alleviate poverty and preserve the environment.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What is the major finding of the UN environmental study?",
+              "options": {
+                "A": "Human activity has rendered Mother Earth almost uninhabitable.",
+                "B": "Humans are doing more damage to the earth than it can cope with.",
+                "C": "Environmental problems have considerably weakened human prosperity.",
+                "D": "Environmental damage is more serious in developed countries these days."
+              },
+              "answer": "B",
+              "explanation": "】事实细节题。文章首段第一句指出，最近 一项联合国环境研究发现,人类对世界自然资源 的破坏正快速超过地球承受伤害的能力。由此可 知,人类对地球造成的破坏已经超出了地球所能 承受的范围，故答案为B)o 【避错】首段第二句指出,如果不采取激进行动，发 达国家数百万人赖以维系的繁荣水平将无法维 持，而非指人类活动使得地球母亲几乎不适宜居 住，也非指目前环境问题已经严重削弱了人类的 繁荣,也无法推断出发达国家的环境破坏更加严 重,故排除A )、C)和D )。"
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What is said about water scarcity in some of the poorest regions?",
+              "options": {
+                "A": "It is getting so serious that there is little hope of solution.",
+                "B": "It largely accounts for their slow economic development.",
+                "C": "It can hardly be relieved if no drastic measures are taken.",
+                "D": "It is primarily caused by the acceleration of climate change."
+              },
+              "answer": "C",
+              "explanation": "】事实细节题。文章第二段第二句指出，如 果不采取激进的行动,这种令人绝望的情况几乎 无法得到改善。由此可知，如果不采取严厉措施, 很难缓解缺水问题，故答案为C )o 【避错】根据第二段第二句可知，如果采取严厉的 措施，缺水问题是可以得到缓解的,而非解决的希 望渺茫,A)项表述与原文矛盾，故排除;第二段第 一句指出，缺水对于地球上一些最贫穷地区来说 无异于诅咒，使发展中国家越来越无法自给自足， 造成数百万人贫困,但并没有说明缺水是贫穷地 区经济发展缓慢的主要原因,B)项为过度推理，故 排除;本文第二段第三句指出，气候变化等几个因 素造成了水资源问题，但并未说明气候变化加速 是缺水的主要原因，D ) 项表述与原文不符，故 排除. 英语菌的笔记"
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does Achim Steiner say about the environmental condition?",
+              "options": {
+                "A": "It will deteriorate worldwide.",
+                "B": "It is attracting global attention.",
+                "C": "It is being slowly remedied globally.",
+                "D": "It will shrink the world's population."
+              },
+              "answer": "A",
+              "explanation": "】推理判断题。文章第三段第二句指出，联 合国执行主任阿希姆• 施泰纳警告道:“如果目前 的趋势继续持续下去，并且全世界的生产方式和 消费模式也不改进的话，那么全世界的环境将会 继续恶化。”由此可知，阿希姆• 施泰纳认为全球 环境会继续恶化，故答案为A）o 【避错】阿希姆•施泰纳并未提及有关环境状况正 引起全球的关注,B）项为无中生有，故排除;第三 段第一句指出，尽管人们齐心协力说服各国政府 采取措施改善环境,但全球自然环境破坏的速度 仍在加快，可知环境问题并没有在全球慢慢得到 解决,故排除C）项；阿希姆• 施泰纳并未提及全 球人口的问题，故排除D）项。"
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What is the dilemma developing countries face?",
+              "options": {
+                "A": "They cannot modernise farming without causing land degradation.",
+                "B": "They cannot promote industrialisation without polluting waterways.",
+                "C": "They cannot boost crop yields without causing greenhouse gas emissions.",
+                "D": "They cannot catch up with rich countries without sacrificing the environment."
+              },
+              "answer": "A",
+              "explanation": "】事实细节题。文章第六段第一至三句指 出,全球碳排放量一直居高不下，这对发展中经济 体养活本国人民将会造成长期的压力。在2000 年至2010年期间，农业生产中化学肥料和天然肥 料的使用量增加了四分之一以上,其所产生的温 室气体排放加剧了气候变化。由此可知，发展中 国家要想提高作物产量，需要借助现代化农业手 段,这一定会造成温室气体排放，故答案为O 0 【避错】第五段指出,在一些追求采用现代农业方 法而不计长期后果的地区,需要遏制土地退化问 题,A）项与原文相反，故排除;本文并未提及工业 化和水污染的问题,B）项为无中生有，故排除;最 后一段第一句指出发达国家牺牲环境去追求经济 增长,最后一句指出发展中国家发展经济要兼顾 环境问题，但并未提及发展中国家需要牺牲环境， 才能赶上富裕国家,故排除D）项。"
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What should developing countries do in their future development according to the passage?",
+              "options": {
+                "A": "They turn to developed countries for the assistance they need.",
+                "B": "They remedy environmental damage by slowing economic growth.",
+                "C": "They avoid damaging interference from international institutions.",
+                "D": "They improve people's livelihood without harming the environment."
+              },
+              "answer": "D",
+              "explanation": "】推理判断题。文章最后一段最后一句指 出,在发展中国家，未来的发展道路充满了变数， 这鼓励了国际机构设计更多的可持续增长途径， 既能减少贫困，又能保护环境。由此可知,发展中 国家要走可持续经济增长道路，在保护环境的前 提下，发展经济，改善人们的生活，故答案为D）o 【避错】文中并未提及有关发展中国家向发达国家 寻求援助的内容,A）项为无中生有，故排除;最后 一段最后一句指出，发展中国家要走可持续经济 增长道路，兼顾经济和环境,并没有指出要通过减 缓经济增长来弥补对环境的破坏,B）项为过度推 理，故排除;文章最后一段最后一句指出，在发展 中国家，未来的发展道路充满了变数,这鼓励了国 际机构设计更多的可持续增长途径，而非要避免 受到国际机构的破坏性干预,故排除C）项。 参考译文 （51）最近一项联合国环境研究发现,人类对世界自然资源的破坏正快速超过地球承受伤害的能力。 该研究的结论是,如果不采取激进行动，发达国家数百万人赖以维系的繁荣水平将无法维持，同时，那些较 贫穷的国家也无法发展到这种繁荣水平。 缺水对于地球上一些最贫穷地区来说无异于诅咒，使发展中国家越来越无法自给自足,造成数百万人 贫困。（52）如果不采取激进的行动,这种令人绝望的情况几乎无法得到改善。人口增长、气候变化、城市 化的快速发展、人们消费水平的提高以及土地退化（以前这些土地可以为水资源提供自然的补充）等因素 都日益威胁水资源。 尽管人们齐心协力说服各国政府采取措施改善环境，但全球自然环境破坏的速度仍在加快。（53）联 合国执行主任阿希姆•施泰纳警告道:“如果目前的趋势继续持续下去，并且全世界的生产方式和消费模 式也不改进的话,那么世界环境将会继续恶化。” 他说，发达国家已有可以改善数百万人赖以生存的环境的方法,但这种方法却可能不会得到采纳。 研究发现，那些能够解决破坏环境关键问题的基本措施仍然没有得到采纳。这些措施包括减少空气 污染,控制对海洋生态系统的破坏，这能够对数亿人赖以生存的鱼类资源产生巨大影响;在一些追求采用 现代农业方法而不计长期后果的地区，需要遏制土地退化问题。 （54）尽管最近全球一致同意"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You\nshould write your answer on Answer Sheet 2.",
+      "source": "青藏高原(the Qinghai-Tibet Plateau)位于中国西南部，面积约230万平方公里，平均海拔4 000米以上,被称为“世界屋脊青藏高原自然资源丰富，风景秀丽，拥有多种珍稀野生动物。青藏高原气温很低，形成了大面积高山冰川。这里是亚洲许多著名河流的源头，是中国和东南亚的主要淡水供应源。青藏高原对全球生态系统至关重要。由于气候变化的影响，青藏高原的冰川正在加速融化。中国一直在努力保护青藏高原的生态系统，草地覆盖率不断增加，许多濒危物种得到更为有效的保护。英语菌的笔记",
+      "reference": "",
+      "explanation": ""
     }
   ]
 }

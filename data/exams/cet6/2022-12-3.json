@@ -11,7 +11,7 @@
       "type": "writing",
       "title": "Part I Writing",
       "minutes": 30,
-      "directions": "",
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Today increasing importance is being attached to cultivating college studentteam s p ir it.Y o u can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
       "prompt": ""
     },
     {
@@ -20,6 +20,353 @@
       "title": "Part II Listening Comprehension",
       "minutes": 30,
       "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions ：\n In this section, there is a passage with ten blanks. You are required to select one word for each\nblank from a list of choices given in a word bank following the passage. Read the passage through carefully\nbefore making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding\nletter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the\nwords in the bank more than once.\nAmerican colleges and universities are using 64 percent less coal than they did a decade ago, burning\n700,000 tons last year, down from 2 million tons in 2008, the U. S. Energy Information Administration\n(EIA) said in a report \n\nyesterday.\nAll 57 schools that were burning coal in 2008 are using less now, and 20 have \n\ncoal completely,\nEIA found.\nMost universities have turned to natural gas as a \n\n, with state funding backing the fuel switch.\nWhile academic institutions use less than 0.1 percent of U. S. coal burned for power, campus coal use\nhas a history dating back to the 1800s when \n\nto power was scarce.\nMany universities still operate their own power plants. The Public Utility Regulatory Policies Act of\n1978 encouraged more electricity generation by allowing institutions to sell \n\npower to utilities.\nBut EIA noted many coal-fired universities have signed onto the American College and University\nPresidents Climate Commitment, which was launched in 2007.\nAbout 665 schools are part of the program, which aims to \n\ngreenhouse gas emissions. Thirty\npercent of the participants have pledged to be carbon \n\nwithin 20 years.\nThe Sierra Club's Beyond Coal campaign, which also leads campaigns for universities to withdraw\ntheir \n\nin coal and other fossil fuels, lists 22 schools that have pledged to move “beyond coal,“\nincluding Clemson University, Indiana University, Ohio University, Penn State University, the University\nof Louisville and the University of Tennessee, Knoxville.\nThe largest coal use \n\nat colleges were in Michigan, Missouri, Tennessee and Indiana. Indiana's\nuniversities alone cut coal \n\nby 81 percent between 2008 and 2015.\nDuring the same period, Michigan made an 80 percent cut and Tennessee cut back by 94 percent at\nstate institutions.\n英语菌的笔记",
+      "wordBank": {
+        "A": "abandoned",
+        "I": "neutral",
+        "B": "access",
+        "J": "reductions",
+        "C": "consumption",
+        "K": "released",
+        "D": "contrive",
+        "L": "replacement",
+        "E": "duplications",
+        "M": "slash",
+        "F": "investments",
+        "N": "surplus",
+        "G": "mobilized",
+        "H": "negligent",
+        "O": "void"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": "B",
+          "explanation": "题。 B ) 【语法判断】空格所在部分是一个定语从句，修饰 前面的时间the 1800s,该从句包含系动词w as和 表语scarce,但主语不完整，由此可推断空格处应 填入一个名词，并且是单数名词或不可数名词,和 后面的to power组成名词短语。 【语义判断】空格所在句的前半句和后半句语义上 是相对的，前半句的意思是这些学术机构实际煤 炭使用量很小，即需求量并不大,后半句则提到19 世纪时的状况，那时电力的 是匮乏的。 在所有单数/不可数名词中，B) access\"使用的机 会”用在这里表示“能得到电力供应的机会是很少 的”，符合语境，故答案为B )。"
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": "D",
+          "explanation": "题。 I ) 【语法判断】由句子结构可判断，空格处的词应和 前面的carbon共同组成名词短语，作to b e 的表 语，由此可知，空格处应该填入一个名词。 【语义判断】上文已经提到高校承诺要实施有利于 气候的行动，即减少温室气体排放,而下文再次提 及了相关的“超越煤炭运动”，说明空格所在处的 词也与此相关。备选项中的名词D neutral和 carbon是固定搭配，carbon neutral表示“碳中 和”，符合语境，故答案为D 。"
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "In 1913, classical music sparked a riot in Paris. Igor Stravinsky was introducing his revolutionary “Rite\nof Spring^' ballet to the world, with its discordant melodies and unorthodox choreography (编舞)，and\nthe purists in the crowd expressed their disapproval loud and clear. It might have been classical music's\nversion of the time Bob Dylan went electric at the Newport Folk Festival. \"The noise, fighting, and\nshouting in the audience got so loud,\" NPR's music reporter Miles Hoffman said of the Stravinsky\ndebut, “that the choreographer had to shout out the numbers to the dancers so that they knew what\nthey were supposed to do.”"
+        },
+        {
+          "label": "B",
+          "text": "It's difficult to imagine a similar disturbance occurring today within America's sacred symphony halls.\nIn fact, it's hard to picture any kind of disruptive activity at all (unless someone5s cell phone happens\nto go off, and then you'd better watch your back). A mannerly aura (氛围)hangs over most classical\nproceedings, and many of the genre's biggest supporters would have it no other way."
+        },
+        {
+          "label": "C",
+          "text": "Today, Western audiences for classical music and opera and ballet are almost always well dressed,\nolder, respectful, achingly silent and often very wealthy (one has to be able to afford most tickets).\nBut as many of America's most storied \"highbrow” (高雅的)institutions struggle financially—the\nPhiladelphia Orchestra's much-publicized rebound from bankruptcy is just one recent example—\nclassical music fans and theorists are wondering how the medium can weave itself into the 21st\ncentury's cultural fabric without sacrificing its integrity."
+        },
+        {
+          "label": "D",
+          "text": "For example, should we feel OK “clapping^' during classical music events, even if nobody else is? Why\nshouldn't we cheer for something great, like we do at a rock concert? The Huffington Post recently ran\na Great Debate on this issue and many commenters came out on the side of silence. \"There is no more\nrewarding experience in life than being part of an audience where everybody is leaning forward in\nsilence, thoroughly carried away by a great performance of a masterpiece,“ one commenter wrote.\n“Why is it so difficult for folks to develop an appreciation and understanding for the mannerisms and\ntraditions of classical music?” asked another."
+        },
+        {
+          "label": "E",
+          "text": "The truth is that classical music audiences weren't always so polite. Robert Greenberg, an award-\nwinning composer, said that when Beethoven first performed his 7th Symphony, audiences forced the\norchestra to perform encores (重演)of certain movements immediately, applauding wildly. And in the\nlast few decades, he said, many audiences at opera performances have abandoned pretenses, yelling\n“Bravo\" when they feel like it."
+        },
+        {
+          "label": "F",
+          "text": "\"I don't think there's anything wrong with an audience showing their enthusiasm for a proper moment\nby applauding, showing their joy,“ Greenberg said, noting that the stuffiness in concert halls is ”one\naspect of contemporary concert etiquette“ he doesn't understand. \"Instead of waiting half an hour to\n英语菌的笔记\n\nshow enthusiasm, why not show it every eight or nine minutes?”\nG） Until the rules about behavior and clothing change, it's hard to imagine multitudes of young people\nfilling concert halls on their own accord. They're probably more likely to head to Central Park to\nwatch a free performance with a bottle of wine and their friends. \"I think anyone should be able to\ncome into a performance dressed any way they like, and be comfortable any way they like, sitting in\nthat seat ready to enjoy themselves,“ Greenberg said. a Because it's enjoyable.M\nH） Greenberg stressed that he doesn't want people to start respecting the music less, and he's not\nsuggesting that we ''dumb down“ the experience. Rather, it's about opening up “access”. When operas\nfirst instituted subtitles （字幕）during shows, he said, many purists didn't like the idea, believing that\nthe audience should instead study the works before attending. But now it's commonplace to find titles\non the seatback in front of you—choose a language, sit back, and understand what's going on.\nI） Allison Vulgamore, president of the Philadelphia Orchestra, is certainly looking to the future. She\nsays certain u classics concerts“ dedicated to the old masters will always exist, but not every program\nhas to feature Beethoven and Brahms一or even a stage and seats. \"We're trying to introduce different\nkinds of concerts in different ways,“ she said. \"We are an interactive society now, where people like\nto learn.”\nJ） As the Philadelphia Orchestra rebounds from its financial straits, it is also aiming to experiment,\nwithout alienating the loyalists. Vulgamore pointed to Cirque de la Symphonic, a recent offering in\nwhich jugglers （玩杂耍的人）and acrobats （杂技演员）interacted with musicians. An upcoming\ncollaboration with New York City's Ridge Theatre, meanwhile, will feature a u suspended dance\ninstallation“ and other theatrical elements occurring in conjunction with an orchestral piece.\nK） The orchestra also continues to offer $ 25 annual memberships to Philadelphia students, who can buy\nrush tickets to every concert on the schedule. \"Students line up for the concerts they want, and we get\nroughly 300 or 350 kids a night coming to these. They take any of the open seats available, 5 minutes\nbefore the concert starts,w Vulgamore said. \"It's like the running of the bulls, that energy when the\ndoors open.w\nL） Greenberg thinks that youthful energy needs to be harvested. Conductors don5t have to be arrogant and\nuntouchable- they can be accessible. Perhaps there could even be a “bit of humor“ about them, he\nsuggested, and an abandoning of pretension within the high-art institutions themselves. \"On one hand,\nthese organizations are all saying the same thing：\n we want more general audiences, to break down\ncultural barriers,w he said. \"But then they come up with some very snooty （目中无人的）thing that\nmakes you crazy.”\nM） John Terauds, a critic who has covered Toronto's classical music scene extensively, also wants to do\naway with the stuffiness. He suggested that the warmer an audience is, the better the musicians\nthemselves will respond. \"But the producer or organizer has to let everyone know it's OK,\" he said.\n\"It's OK to enjoy yourself.w At the Toronto Symphony Orchestra, for example, conductor Peter\nOundjian often stops between pieces, taking a moment to talk about the composer or the music in a\nvery amiable way. And some nights, Terauds said, “at least a third“ of the audience consists of\nstudents who have purchased cheaper tickets. On these nights, the energy of the room drastically\nshifts. It becomes a less intimidating place.\nN） Back in February, Terauds wrote on his blog about how going to classical performances can be\nintimidating. Certain people “think they have to dress up,“ he wrote. \"They think they have to know\nsomething about the music before they go. And, Fm sure, sitting in a seat, trembling in fear that this\nmight be the wrong time to applaud, is also one of the factors. w\nO） Everyone in the classical world agrees on the need for increased waccessibility,w but achieving it is\noften easier said than done. Nowadays, there are unknown, unorthodox opera singers wowing （博\n得.的喝彩）viewers on TV programs like \"America's Got Talent\" and \"The Voice”. What can\n英语菌的笔记\n\nhigher institutions do with any of that? And if they appeal to these outlets, do they risk compromising\nthe integrity or the intelligence of the music?\nP) Vulgamore seems to understand this. She thinks an organization can have it both ways, claiming the\nnew while keeping the old. And as she reorganizes the Philadelphia Orchestra, she will attempt to do\njust that. \"The world's most respected musicians brought together as an orchestra will always exist,“\nshe said. \"But it's essential that we be willing to experiment and fail.”"
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "It was not a rare occurrence that audiences behaved wildly while listening to classical music.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Some high-art institutions don't actually mean it when they say they want more general audiences.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "The theatre was in chaos when an unconventional ballet was first put on stage in the capital of France.",
+          "answer": "A",
+          "explanation": "】同义转述题。A）段定位句提到，1913年， 在巴黎，伊戈尔• 斯特拉文斯基向世界展示了他 革命性的芭蕾舞《春之祭》，旋律不和谐,编舞非正 统，人群中的纯粹主义者大声而明确地表达了他 们的不满，因而引发了一场骚乱。题干中的was in chaos对应原文中的sparked a riot；题干中的 unconventional 是原文中 unorthodox 的同义词； 题干中的was first put on stage是对原文中 introducing的同义转述，题干中的the capital of France对应原文中的Paris,故答案为A）o"
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "According to one critic, the audience's warm response would encourage the musicians to do a better\njob.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Many commenters argued for the audience enjoying classical music quietly.",
+          "answer": "D",
+          "explanation": "】细节推断题。D）段定位句首先提出问题： 我们是否应该觉得在古典音乐活动中“鼓掌”是可 以接受的，即使其他人没有这样做？为什么我们 不能像在摇滚音乐会上那样为伟大的作品欢呼 呢？接着提到，《赫芬顿邮报》最近就这个问题进 行了一场大辩论，许多评论员都站在“保持安静” 一边。由此可推断,许多评论员认为听众应该安 静地去欣赏古典音乐。该段最后两句展示了其中 两位评论员的观点,从中也可以看出他们赞成传 统的欣赏古典音乐的方式。题干中的many commenters直接对应原文内容;题干中的argued fo r正好和原文中的came out on the side of silence形成呼应，故答案为D）o"
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "What appears on the seatback screen makes it unnecessary for the audience to study the works\nbeforehand.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "It is generally accepted that there should be no disturbance from the audience during classical music\nperformance.",
+          "answer": "B",
+          "explanation": "】细节归纳题。B）段第一句衔接上文，表示 很难想象今天在美国神圣的交响乐大厅内会发生 类似的骚乱,接着提到平时在欣赏古典音乐表演 时即便手机响了也得当心。最后一句又指出，大 多数古典音乐的表演过程都被一种彬彬有礼的氛 围笼罩着。由此可知，题干是对B）段的归纳概 括:这种骚乱在古典音乐表演中极为罕见，说明人 们都认方在欣赏表演的过程中观众不可以有干扰 性的行为。题干中的there should be no disturbance 对应原文中的 it's difficult to imagine a similar disturbance；题干中的 during classical music performance 对应原 文中的 hangs over most classical proceedings,故答案为 B）„"
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Higher institutions will be concerned about compromising the integrity of classical music if they have\nto resort to the television medium.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Heavily discounted rush tickets help attract many young students to attend classical concerts.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "The formalities of high-art theatres can intimidate some people attending a performance.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nHow can one person enjoy good health, while another person looks old before her time? Humans have\nbeen asking this question for thousands of years, and recently, it's becoming clearer and clearer to\nscientists that the differences between people's rates of aging lie in the complex interactions among genes,\nsocial relationships, environments and lifestyles. Even though you were born with a particular set of\ngenes, the way you live can influence how they express themselves. Some lifestyle factors may even turn\ngenes on or shut them off.\nDeep within the genetic heart of all our cells are telomeres, or repeating segments of noncoding DNA\nthat live at the ends of the chromosomes (染色体). They form caps at the ends of the chromosomes and\nkeep the genetic material together. Shortening with each cell division, they help determine how fast a cell\nages. When they become too short, the cell stops dividing altogether. This isn't the only reason a cell can\nage—there are other stresses on cells we don't yet understand very well- but short telomeres are one of the\nmajor reasons human cells grow old. We've devoted most of our careers to studying telomeres, and one\nextraordinary discovery from our labs is that telomeres can actually lengthen.\nScientists have learned that several thought patterns appear to be unhealthy for telomeres, and one of\nthem is cynical hostility. Cynical hostility is defined by high anger and frequent thoughts that other people\ncannot be trusted. Someone with hostility doesn't just think, “I hate to stand in long lines\"；\n they think,\n“Others deliberately sped up and beat me to my rightful position in the line!”—and then get violently\nagitated. People who score high on measures of cynical hostility tend to get more heart disease, metabolic\ndisease and often die at younger ages. They also have shorter telomeres. In a study of British civil\nservants, men who scored high on measures of cynical hostility had shorter telomeres than men whose\nhostility scores were low. The most hostile men were 30% more likely to have short telomeres.\n英语菌的笔记\n\nWhat this means：\n aging is a dynamic process that could possibly be accelerated or slowed—and, in\nsome aspects, even reversed. To an extent, it has surprised us and the rest of the scientific community that\ntelomeres do not simply carry out the commands issued by your genetic code. Your telomeres are listening\nto you. The foods you eat, your response to challenges, the amount of exercise you get, and many other\nfactors appear to influence your telomeres and can prevent premature aging at the cellular level. One of\nthe keys to enjoying good health is simply doing your part to foster healthy cell renewal.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What have scientists come to know better today?",
+              "options": {
+                "A": "Why people age at different rates.",
+                "B": "How genes influence the aging process.",
+                "C": "How various genes express themselves in aging.",
+                "D": "Why people have long been concerned about aging."
+              },
+              "answer": "A",
+              "explanation": "到的就是人们衰老速度差异的原因，故答案 为A）o 【避错】文章第二段介绍了基因对衰老过程的影 响,但这并不是科学家最近的新发现,B）项不符合 题意，故排除;文章首段第三句指出，人们的生活 方式会影响基因的表达方式，但并未提及各种基 因是如何表达自己的,故排除C）项；文章首段前 两句提到，人们一直在思考为何每个人以不同的 速度变老,说明他们一直关注衰老问题，但文章未 提及人们为何关注,而且这也并非科学家最近的 新发现，故排除D）项。"
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "Why are some lifestyle factors considered extremely important?",
+              "options": {
+                "A": "They may shorten the process of cell division.",
+                "B": "They may determine how genes function.",
+                "C": "They may affect the lifespan of telomeres.",
+                "D": "They may account for the stresses on cells."
+              },
+              "answer": "B",
+              "explanation": "】事实细节题。文章首段第三、四句提到，即 使你生来就有一组特定的基因，你的生活方式也 会影响它们的表达方式。一些生活方式方面的因 素甚至可能会打开或关闭这些基因。由此可知， 生活方式方面的因素甚至可以决定基因是否能发 挥作用，因此极其重要，故答案为B）o 【避错】文章第二段第三句提到，细胞中的端粒会 随着细胞分裂而不断缩短,此处并未提及生活方 式方面的因素与细胞分裂有何关系,A）项张冠李 戴,且逻辑错误，故排除;文章第三段第一句提到， 几种思维模式似乎会对端粒产生不利影响，结合 下文可知这种不利影响就是会让端粒变得更短， 即影响其寿命，但这种影响的主体是“思维模式， 而非“生活方式”，这里出现张冠李戴的情况，故排 除C）项;文章第二段第五句提到，科学家们还不太 了解细胞受到的其他压力，并未提及生活方式相 关因素,D）项与文章意思不符，故排除。"
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What have the author and his colleagues discovered about telomeres?",
+              "options": {
+                "A": "Their number affects the growth of cells.",
+                "B": "Their length determines the quality of life.",
+                "C": "Their shortening process can be reversed.",
+                "D": "Their health impacts the division of cells."
+              },
+              "answer": "C",
+              "explanation": "】推理判断题。文章最后一段第一句指出， 衰老是一个动态的过程，有可能加速或减缓,而且 在某些方面甚至可以逆转。通过前文可知，端粒 的缩短是细胞衰老的主要原因之一，由此可推断 出细胞衰老过程就是端粒缩短过程，而这个过程 是可以被逆转的，故答案为C）。 【避错】文章并未提及端粒的数量和健康对细胞的 影响,而且关联的信息也只涉及生活方式方面的 英语菌的笔记 因素对端粒的影响，故排除A）、D）项；第二段第三 句指出，端粒随着每次细胞分裂而缩短，帮助决定 细胞老化的速度，因此端粒的长度决定了细胞的 衰老程度，而非生活质量,B）项不符合文章意思， 故排除。"
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What have scientists learned about cynical hostility?",
+              "options": {
+                "A": "It may lead to confrontational thought patterns.",
+                "B": "It may produce an adverse effect on telomeres.",
+                "C": "It may cause people to lose their temper frequently.",
+                "D": "It may stir up agitation among those in long lines."
+              },
+              "answer": "B",
+              "explanation": "】事实细节题。第三段第一句指出，科学家 们已经了解到，有几种思维模式似乎会对端粒产 生不利影响，其中之一就是愤世嫉俗的敌意。由 此可知答案为B）。 【避错】第三段第二句指出，愤世嫉俗的敌意往往 会让人们高度愤怒，或者缺乏对其他人的信任,而 非产生对抗性的思维模式,A）项不符合文章意思， 故排除;同样的，这种思维模式只是容易让人很愤 怒，但愤怒并不一定通过发脾气表现出来,这样的 推论不合理,故排除C）项;第三段举例说明怀有 愤世嫉俗的敌意的人在排长队时容易变得暴躁不 安，这只是说他们会产生这样的心理状态,而不是 说他们会把这种敌意表现出来并引起躁动,D）项 不符合文章意思，故排除。 参考译文"
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What do we learn from the last paragraph about the process of aging?",
+              "options": {
+                "A": "It may vary from individual to individual.",
+                "B": "It challenges scientists to explore further.",
+                "C": "It depends on one's genetic code.",
+                "D": "It may be controlled to a degree."
+              },
+              "answer": "D",
+              "explanation": "】推理判断题。文章最后一段第一句提到， 衰老是一个动态的过程,有可能加速或减缓,而且 在某些方面甚至可以逆转;最后一句又提到,享受 良好健康的关键之一就是简单地尽你自己的一份 力来促进有益于健康的细胞更新。说明衰老的过 程是可以发生改变的，而且我们可以通过自己的 努力来促进有益健康的细胞更新,从而延缓衰老。 由此可推断衰老的过程在一定程度上是可以得到 控制的，故答案为D）。 【避错】文章第一段就提到衰老的过程因人而异， 但这不是从最后一段能获取或推断出的信息，故 排除A）项;文章中介绍了科学家为探索人类细胞 衰老过程所做的实验及其发现，最后一段也提到 了新的发现，即：衰老是一个动态的过程,有可能 加速或减缓,而且在某些方面甚至可以逆转,但并 未提到科学家之后需要进一步探索什么,B）项不 符合文章意思，故排除;文章前两段都提到基因层 面上影响衰老过程的因素,说明遗传密码会影响 衰老过程,但不是决定性的影响,而且这不是最后 一段中可以得出的结论,故排除C）项。 （46）为什么一个人可以享受健康，而另一个人却看起来未老先衰？几千年来，人类一直在追问这个问 题。最近;W 家们越来越清楚地认识到，人们衰老速度的差异在于基因、社会关系、环境和生活方式之间 复杂的相互作用。（47）即使你生来就有一组特定的基因,你的生活方式也会影响它们的表达方式。一些 生活方式方面的因素甚至可能会打开或关闭这些基因。 在我们所有细胞的遗传核心深处都有端粒，或者是生活在染色体末端的非编码D N A 的重复片段。 它们在染色体的末端形成一些帽子，将遗传物质保持在一起。它们随着每次细胞分裂而缩短，帮助决定细 胞老化的速度。当它们变得太短时，细胞会完全停止分裂。这并不是细胞老化的唯一原因— 我们还不 太了解细胞受到的其他压力，但短端粒是人类细胞衰老的主要原因之一。我们在大部分职业生涯中都致 力于研究端粒，而我们实验室的一个非凡发现是，端粒实际上可以延长。 （49）科学家们已经了解到，有几种思维模式似乎会对端粒产生不利影响,其中之一就是愤世嫉俗的敌 意。愤世嫉俗的敌意是指高度的愤怒和经常认为其他人不可信任的想法"
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nScientists have created by accident an enzyme ( 酶) that breaks down plastic drinks bottles. The\nbreakthrough could help solve the global plastic pollution crisis by enabling for the first time the full\nrecycling of bottles.\nThe new research was spurred by the discovery in 2016 of the first bacterium that had naturally\nevolved to eat plastic at a waste dump in Japan. Scientists have now revealed the detailed structure of the\ncrucial enzyme produced by the bug.\nAn international team then adjusted the enzyme to see how it had evolved, but tests showed they had\naccidentally made the molecule even better at breaking down the plastic used for drinks bottles. \"What\nactually turned out was we improved the enzyme, which was a bit of a shock,“ said head researcher Prof.\nMcGeehan, at the University of Portsmouth, UK.\nCurrently, the enzyme takes a few days to start breaking down the plastic, far faster than the\ncenturies it takes in the oceans, but the researchers are optimistic this can be speeded up even further and\nbecome a viable large-scale process.\n“What we are hoping to do is use this enzyme to turn this plastic back into its original components, so\nwe can literally recycle it back to plastic,“ said McGeehan. \"It means we won't need to dig up any more\noil and, fundamentally, it should reduce the amount of plastic in the environment.n\nAbout 1 million plastic bottles are sold each minute around the globe and, with just 14% recycled,\nmany end up in the oceans where they have polluted even the remotest parts, harming marine life and\n英语菌的笔记\n\npotentially people who eat seafood. wPlastic is incredibly resistant to degradation,\nsaid McGeehan. \"It is\none of these wonder materials that has been made a little bit too well.\nCurrently those bottles that are recycled can only be turned into opaque fibres for clothing or carpets,\nwhile the new enzyme indicates a way to recycle old clear plastic bottles back into new clear plastic\nbottles.\n“You are always up against the fact oil is cheap, so plastic is cheap,“ said McGeehan. \"It is so easy\nfor manufacturers to generate more of that stuff, rather than even try to recycle, but I believe there is a\npublic interest here：\n perception is changing so much that companies are starting to look at how they can\nproperly recycle these bottles.w\nProf. Adisa Azapagic, at the University of Manchester in the UK, agreed the enzyme could be useful\nbut added：\n ”A full life-cycle assessment would be needed to ensure that the technology does not solve one\nenvironmental problem- waste- at the expense of others, including additional greenhouse gas emissions.w",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What do we learn from the passage about an enzyme scientists have created?",
+              "options": {
+                "A": "It was identified during a lab experiment accident.",
+                "B": "It may make full recycling of plastic bottles a reality.",
+                "C": "It was a breakthrough made with persistent efforts.",
+                "D": "It may initiate a radical reform in plastic industry."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What does the passage say about the bug that produces the important enzyme?",
+              "options": {
+                "A": "It has a natural ability to consume plastics.",
+                "B": "It is a bacterium that reproduces at a high rate.",
+                "C": "It is essential to the recycling of plastic bottles.",
+                "D": "It has a chemical structure unknown to scientists."
+              },
+              "answer": "A",
+              "explanation": "】事/细节题。第二段第二句提到了 bug, 由上下文可知，这里的bug就是指前一句中提到 的bacterium。第二段首句指出，这种细菌是第一 种自然进化出的以塑料为食的细菌，可知它具有 消耗塑料的天然能力，故答案为A）o 【避错】文章只在第四段提到细菌中的酶分解塑 料的速度，而没有介绍细菌的繁殖速度，故排除 B）；C）似是而非，读者易根据这种细菌启发了新 研究这一信息，就推断它是塑料瓶回收的关键，但 原文对这种细菌的评价仅是启发作用,后文也介 绍，细菌中的这种酶是经过改良之后增强了分解 作用,才为实现塑料完全回收提供条件的，可知 O 的表述在原文中并无直接依据,故排除；D）与 定位句所说的“科学家已经描绘出这种细菌产生 的关键酶的详细结构”这一信息恰好相反，故排 除。"
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "By adjusting the enzyme produced by the bug, the s c i e n t i s t s .",
+              "options": {
+                "A": "made it more effective by chance",
+                "B": "discovered an extraordinary chemical",
+                "C": "altered its basic molecular composition",
+                "D": "found its evolutionary process sped up"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What does Prof. McGeehan say about the recycling of plastic bottles?",
+              "options": {
+                "A": "Manufacturers are implementing it on an increasingly larger scale.",
+                "B": "It generates huge business opportunities for plastic manufacturers.",
+                "C": "It has aroused persistent interest among the general public.",
+                "D": "Manufacturers are beginning to explore ways of doing it."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What is Prof. Adisa Azapagic's advice concerning the application of the enzyme?",
+              "options": {
+                "A": "Developing technologies to address greenhouse gas emissions.",
+                "B": "Considering the extra cost involved in producing the enzyme.",
+                "C": "Assessing its possible negative impact on the environment.",
+                "D": "Studying the full life cycle of the enzyme as the first step."
+              },
+              "answer": "C",
+              "explanation": "】推理判断题。在该段引用这位教授的话 中，提及需要进行一个全生命周期的评估，目的在 于确保新的塑料分解技术不会以引起其他环境问 题为代价，可知评估的目的在于这项新技术会不 会对环境造成负面影响，故答案为C）o 【避错】定位句中提到了额外的温室气体排放，是 举例说明新分解技术可能产生的负面环境影响， ■而不是要开发减排技术，故排除选项A ）；原文只 提到要验证是否有额外的温室气体排放,而未提 到成本问题,故排除B）；原文只提到需要进行一 个全生命周期的评估，并未具体指出全生命周期 评估是什么事项的第一步,D ）项扩大了文章意 思，故排除。 参考译文 （51）科学家偶然制出了一种能分解塑料饮料瓶的酶。这一突破将首次实现塑料瓶的完全回收，从而 有助于解决全球塑料污染危机。 （52）2016年，在日本的一个垃圾场发现了第一种自然进化出的以塑料为食的细菌，从而启发了本项 新研究。科学家现在已经揭示了这种虫子产生的关键酶的详细结构。 （53）随后，一个国际研究小组对这种酶进行了调整,以观察它是如何进化的，但测试结果显示,他们意 外地增强了这种分子分解饮料瓶所用的塑料时的作用。英国朴茨茅斯大学的首席研究员麦吉汉教授说: “事实证明,我们改良了这种酶,这有点令人震惊。” 目前,这种酶尚需几天的时间才能开始分解塑料，这比在海洋中需要几个世纪的时间要快得多，但研 究人员乐观地认为,这一过程还可以进一步加快，并可以大规模进行。 “我们希望用这种酶将塑料变回原来的成分，这样就是真正把它再循环成塑料,”麦克汉说，“这意味 着我们不需要再开采更多的石油,从根本上讲，它应该会减少环境中的塑料含量」 全球每分钟售出约100万个塑料瓶，其中只有14%得以回收，许多塑料瓶最终进入海洋，甚至污染了 最偏远的地区，危害了海洋生物和可能食用海鲜的人。“塑料非常耐降解，”麦吉汉说，“这是神奇材料的一 种，制作得有点太好了。” 英语菌的笔记 目前，这些被回收的瓶子只能变成不透明的纤维,用于制作衣服或地毯，而这种新的酶则表明,有办法 能将旧的透明塑料瓶回收制成新的透明塑料瓶。 “人们总是否认这样一个事实，即石油很便宜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You\nshould write your answer on Answer Sheet 2.",
+      "source": "云贵高原(the Yunnan-Guizhou Plateau)大部分位于云南、贵州省境内，总面积约5 0 万平方公里，平均海拔2 000—4 000米，是中国第四大高原。云贵高原西高东低，河流众多，形成了许多又深又陡的嵯合(canyon)o 峡谷中许多地方土壤肥沃，非常有利于多种农作物生长。云贵高原独特的自然环境造就了生物和文化的多样性。它是中国森林和矿产资源类型十分丰富的地区，也是古人类起源的重要地区。云贵高原是中国少数民族数量最多的地区，各民族都保留了自己丰富多彩的文化传统。英语菌的笔记",
+      "reference": "",
+      "explanation": ""
     }
   ]
 }

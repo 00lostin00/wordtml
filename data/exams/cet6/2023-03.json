@@ -231,6 +231,363 @@
       ]
     },
     {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank\nfrom a list of choices given in a -word bank following the passage. Read the passage through carefully before\nmaking your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for\neach item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank\nmore than once.\nUnthinkable as it may be, humanity, every last person, could someday be wiped from the face of the Earth.\nWe have learned to worry about asteroids (小行星)and super volcanoes, but the more likely \n26 . according\nto Nick Bostrom, a professor of philosophy at Oxford, is that we humans will destroy ourselves.\nProfessor Bostrom, who directs Oxfdrd's Future of Humanity Institute, has argued over the course of several\npapers that human \n\nrisks are poorly understood and, worse still, \n\nunderestimated by society. Some\nof these existential risks are fairly well known, especially the natural ones. But others are \n\nor even exotic.\nMost worrying to Bostrom is the subset of existential risks that \n\nfrom human technology, a subset that he\nexpects to grow in number and potency over the next century.\nDespite his concerns about the risks \n\nto humans by technological progress, Bostrom is no luddite (科\n技进步反对者).In fact, he is a longtime \n\nof trans-humanism- the effort to improve the human condition,\nand even human nature itself, through technological means. In the long run he sees technology as a bridge, a\nbridge we humans must cross with great care, in order to reach new and better modes of being. In his work,\nBostrom uses the tools of philosophy and mathematics, in \n33 . probability theory, to try and determine how\nwe as a 34 might achieve this safe passage. What follows is my conversation with Bostrom about some of the\nmost interesting and worrying existential risks that humanity might \n\nin the decades and centuries to come,\nand about what we can do to make sure we outlast them.\n\n• 2023年3 月六级真题（第一套）・\n英语菌的笔记",
+      "wordBank": {
+        "A": "advocate",
+        "I": "particular",
+        "B": "arise",
+        "J": "posed",
+        "C": "emphasized",
+        "K": "scenario",
+        "D": "encounter",
+        "L": "severely",
+        "E": "essential",
+        "M": "shrewdly",
+        "F": "evaporation",
+        "N": "species",
+        "G": "extinction",
+        "H": "obscure",
+        "O": "variety"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "The fog still chills the morning air and the cable cars still climb halfway to the stars. Yet on the ground, the\nBay area has changed greatly since singer Tony Bennet left his heart here. Silicon Valley and the tech industry\nhave led the region into a period of unprecedented wealth and innovation. But existing political and land\nlimits have caused an alarming housing crisis and astronomical rise in social and economic difference."
+        },
+        {
+          "label": "B",
+          "text": "While the residents of most cities display pride and support for their home industries, drastic market\ndistortions in the San Francisco Bay Area have created boiling resentment in the region towards the tech\nindustry. A vocal minority is even calling on officials to punish those who are benefitting from the economic\nand housing boom. If this boom and its consequences are not resolved, a drastic increase in social and\neconomic difference may have a profound impact on the region for generations. A history and analysis of this\ntransformation may hold invaluable insights about the opportunities. Perils of tech cities are currently being\ncultivated across the US, and indeed around the world."
+        },
+        {
+          "label": "C",
+          "text": "According to a recent study, San Francisco ranks first in California fbr economic difference. The average\nincome of the top 1% of households in the city averages $3.6 million. This is 44 times the average income\nof those at the bottom, which stands at $81,094. The top 1% of the San Francisco peninsula's share of total\nincome now extends to 30.8% of the region's income. This was a dramatic jump from 1989, where it stood at\n15.8%."
+        },
+        {
+          "label": "D",
+          "text": "The region's economy has been fundamentally transformed by the technology industry springing from Silicon\nValley. Policies pushed by Mayor Ed Lee provided tax breaks fbr tech companies to set up shop along the\ncity's long-neglected Mid-Market area. The city is now home to Twitter, Uber, Airbnb, Pinterest, Dropbox\nand others. In short, the Bay Area has become a global magnet fbr those with specialized skills, which has\nin turn helped fuel economic enthusiasm, and this economic growth has reduced unemployment to 3.4%, an\nadmirable feat."
+        },
+        {
+          "label": "E",
+          "text": "In spite of all that, the strength of the recent job growth, combined with policies that have traditionally limited\nhousing development in the city and throughout the peninsula, did not help ease the affordability crisis. In\n2015 alone, the Bay Area added 64,000 in jobs. In the same year, only 5,000 new homes were built."
+        },
+        {
+          "label": "F",
+          "text": "With the average house in the city costing over $1.25 million and average flat prices over $1.11 million, the\nminimum qualifying income to purchase a house has increased to $254,000. Considering that the average\n• 2023年3 月六级真题（第一套）•\n\n英语菌的笔记\n\nhousehold income in the city currently stands at around $80,000, it is not an exaggeration to say that the\ndream of home ownership is now beyond the grasp of the vast majority of today's people who rent."
+        },
+        {
+          "label": "G",
+          "text": "For generations, the stability and prosperity of the American middle class has been anchored by home\nownership. Studies have consistently shown that the value of land has overtaken overall income growth, thus\nproviding a huge advantage to property owners as a vehicle of wealth building. When home prices soar above\nthe reach of most households, the gap between the rich and the poor dramatically increases."
+        },
+        {
+          "label": "H",
+          "text": "If contributing factors leading to housing becoming less than affordable are not resolved over multiple\ngenerations, a small elite will control a vast share of the country's total wealth. The result? A society where\nthe threat of class warfare would loom large. A society's level of happiness is tied less to measures of\nquantitative wealth and more to measures of qualitative wealth. This means that how a person judges their\nsecurity in comparison to their neighbors9 has more of an impact on their happiness than their objective\nstandard of living. At the same time, when a system no longer provides opportunities for the majority to\nparticipate in wealth building, it not only robs those who are excluded from opportunities, but also deprives\nthem of their dignity."
+        },
+        {
+          "label": "I",
+          "text": "San Francisco and the Bay Area have long been committed to values which embrace inclusion and rejection\nof mainstream culture. To see these values coming apart so publicly adds insult to injury for a region\nonce defined by its progressive social fabric. In the face of resentment, it is human to want revenge. But\ndeteriorating policies such as heavily taxing technology companies or real estate developers are not likely to\nshift the balance."
+        },
+        {
+          "label": "J",
+          "text": "The housing crisis is caused by two primary factors: the growing desirability of the Bay Area as a place\nto live due to its excellent economy, and our limited housing stock. Although the city is experiencing an\nunprecedented boom in new housing, more units are sorely needed. Protection policies were originally\ndesigned to suppress bad development and boost historic preservation in our urban areas. Now, too many\ndevelopers are experiencing excessive delays. Meanwhile, there are the land limitations of the Bay Area to\nconsider. The region is surrounded by water and mountains. Local governments need to aid development as\nwell. This means increasing housing density throughout the region and building upwards while streamlining\nthe approval process."
+        },
+        {
+          "label": "K",
+          "text": "Real estate alone will not solve the problem, of course. Transportation, too, needs to be updated and\ninfrastructure extended to link distant regions to Silicon Valley and the city. We need to build an effective\nhigh-speed commuting system linking the high-priced and crowded Bay Area with the low-priced and low-\ndensity Central Valley. This would dramatically reduce travel times. And based on the operating speeds of\nhovering trains used in countries such as Japan or Spain, high-speed rail could shorten the time to travel\nbetween San Francisco and California's capital, Sacramento, or from Stockton to San Jose, to under 30\nminutes. This system would bring once distant regions within reasonable commute to heavy job centers.\nThe city also needs to update existing transportation routes combined with smart home-building policies\nthat dramatically increase housing density in areas surrounding high-speed rail stations. By doing so, we\nwill be able to build affordable housing within acceptable commuting distances for a significant bulk of the\nworkforce.\nL) Our threatening housing crisis forces the difficult question of what type of society we would like to be. Will\nit be one where the elite command the vast bulk of wealth and regional culture is defined by an aggressive\nbusiness world? We were recently treated to a taste of the latter, when local tech employee Justin Keller wrote\nan open letter to the city complaining about having to see homeless people on his way to work.\n\n• 2023年3 月六级真题（第一套）・\n英语菌的笔记\n\nM) It doesn't have to be this way. But solutions need to be implemented now, before angry crowds grow from a\nnuisance to serious concern. It may take less than you might think. And in fact, the solutions to our housing\ncrisis are already fairly clear. We need to increase the density of housing units. We need to use existing\ntechnology to shorten travel times and break the land limits. There is a way to solve complex social and\neconomic problems without abandoning social responsibility. This is the Bay Area's opportunity to prove that\nit can innovate more than just technology."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "San Francisco city government offered tax benefits to attract tech companies to establish operations in a less\ndeveloped area.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "The fast rise in the prices of land and houses increases the economic inequality among people.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "San Francisco has been found to have the biggest income gap in California between the rich and the poor.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "The higher rate of employment, combined with limited housing supply, did not make it any easier to buy a\nbouse.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "When people compare their own living standard with others', it has a greater impact on their sense of\ncontentment.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Improved transport networks connecting the city to distant outlying areas will also help solve the housing\ncrisis.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Average incomes in the Bay Area make it virtually impossible for most tenant families to buy a home.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Innovative solutions to social and economic problems should be introduced before it is too late.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Residents of the San Francisco Bay Area strongly resent the tech industry because of the economic inequality\nit has contributed to.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "One way to deal with the housing crisis is fbr the government to simplify approval procedures for housing\nprojects.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nThe suggestion that people should aim fbr dietary diversity by trying to eat a variety of foods has been a\nbasic public health recommendation fbr decades in the United States and elsewhere. Now, however, experts are\nwarning that aiming for a diverse diet may actually lead to just eating more calories, and, thus, to obesity. One\nissue is that people may not interpret “variety“ the way nutritionists intend. This problem is highlighted by new\nresearch conducted by the American Heart Association. Researchers reviewed all the evidence published related\nto dietary diversity and saw a correlation between dietary diversity and a greater intake of both healthy and\nunhealthy foods. This had implications for obesity, as researchers found a greater prevalence of obesity amongst\npeople with a greater dietary diversity.\nOne author of the new study explained that their findings contradict standard dietary advice, as most dietary\nguidelines around the world include a statement of eating a variety of foods. But this advice does not seem to be\nsupported by science, possibly because there is little agreement about the meaning of “dietary diversity,which\n• 2023年3 月六级真题（第一套）•\n\n英语菌的笔记\n\nis not clearly and consistently defined. Some experts measure dietary diversity by counting the number of food\ngroups eaten, while others look at the distribution of calories across individual foods, and still others measure\nhow different the foods eaten are from each other.\nAlthough the findings of this new study contradict standard dietary advice, they do not come as a surprise\nto all of the researchers involved. Dr. Rao, one of the study authors, noted that, after 20 years of experience in\nthe field of obesity, he has observed that people who have a regimented lifestyle and diet tend to be thinner and\nhealthier than people with a wide variety of consumption. This anecdotal evidence matches the conclusions of the\nstudy, which found no evidence that dietary diversity promotes healthy body weight or optimal eating patterns,\nand limited evidence shows that eating a variety of foods is actually associated with consuming more calories,\npoor eating patterns and weight gain. Further, there is some evidence that a greater variety of food options in a\nsingle meal may delay people's feeling of fullness and actually increase how much they eat.\nBased on their findings, the researchers endorse a diet consisting of a limited number of healthy foods such\nas vegetables, fruits, grains, and poultry. They also recommend that people simultaneously endeavor to restrict\nconsumption of sweets, sugar and red meat. The researchers stress, however, that their dietary recommendations\ndo not imply dietary diversity is never positive, and that, in the past, diversity in diets of whole, unprocessed\nfood may have actually been very beneficial.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What has been a standard piece of dietary advice for decades?",
+              "options": {
+                "A": "People should diversify what they eat.",
+                "B": "People should have a well-balanced diet.",
+                "C": "People should cultivate a healthy eating habit.",
+                "D": "People should limit calorie intake to avoid obesity."
+              },
+              "answer": "A",
+              "explanation": "， 析： 第一段第一句指出，几十年来，在美国和其他地方，人们应该通过设法吃多种食物来力求实现饮食多 样性，这种说法一直是一项基本的公共健康建议。由此可知A项正确，题干中的for decades原词复现， dietary advice是对原文中的public health recommendation的同义转述。、 B 、C两项原文均未提及；原文提 到卡路里是说人们按照建议做到饮食多样化，实际上可能导致只是摄入了更多的卡路里，并因此导致肥 胖，D项与原文不符，而且也不是原文所说的饮食建议，故排除。"
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What did the new research by the American Heart Association find?",
+              "options": {
+                "A": "Unhealthy food makes people gain weight more easily.",
+                "B": "Dietary diversity is positively related to good health.",
+                "C": "People seeking dietary diversity tend to eat more.",
+                "D": "Big eaters are more likely to become overweight."
+              },
+              "answer": "C",
+              "explanation": "？第一段第四句提及美国心脏协会的新研究，随后在下文具体介绍新发现，即饮食多样化与摄入更多的健康 析 和不健康食品之间存在关联性，由此可知C项正确。A项看似正确，但原文只提及追求饮食多样化可能会导 致摄入更多健康与不健康食品，并没有指出不健康食品是否更容易使人们增加体重，故排除。原文指出， 研究人员发现在饮食更为多样化的人群中，肥胖更为普遍，B项与原文相反，故排除。原文说的是“饮食 多样化”和“肥胖”二者间的关系，吃得多不等同于饮食多样化，D项混淆了概念，故排除。"
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What could help to explain the contradiction between the new findings and the common public health recommendation?",
+              "options": {
+                "A": "There is little consensus on the definition of dietary diversity.",
+                "B": "The methods researchers use to measure nutrition vary greatly.",
+                "C": "Conventional wisdom about diet is seldom supported by science.",
+                "D": "Most dietary guidelines around the world contradict one another."
+              },
+              "answer": "A",
+              "explanation": "释新的发现和常见的公共健康建议之间的矛盾? A）对饮食多样化的定义没有什么共识。 B）研究人员用来衡量营养的方法差别很大。 C）关于饮食的传统观点很少得到科学的支持。 D）世界上大多数的饮食指南都是相互矛盾的。 定？根据题干信息词contradiction、findings和, 位， icommon public health recommendation可将答案线索定位至第二段 第—句，common public health recommendation是又寸原文中的standard dietary advice的同义替换。 解$ 析i 第二段第一句指出，这项新研究的一位作者解释说，他们的发现与标准的饮食建议相矛盾，因为世界各地 的大多数饮食指南都包括摄入多种食物的说法。随后解释矛盾的原因：但是这种建议似乎没有科学支持， 可能是因为对“饮食多样化”的含义没有什么一致的看法，它没有明确和一致的定义。因此A项正确。原 文指出，专家使用不同的方法衡量饮食多样化，而非B项所说的营养，故排除。C项同义替换原文中的this advice does not seem to be supported by scien ce,但这只是现象，背后的原因还是对“饮食多样化”的定义 不一致，故排除。D项原文没有提及，故排除。 4 9 .拉奥博士在对肥胖进行了20年的研究后发现了什么? A）没有明确的最佳饮食模式的定义。 B）摄入多样化的食物可能对健康无益。 C）饮食模式和体重增加密切相关。 D）饮食多样化促进健康体重。 定？ 位j 解： 析： 根据题干信息词Dr. Rao和20 years of research on obesity可将答案线索定位至第三段第二句。"
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What did Dr. Rao find after 20 years of research on obesity?",
+              "options": {
+                "A": "There is no clear definition of optimal eating patterns.",
+                "B": "Diversified food intake may not contribute to health.",
+                "C": "Eating patterns and weight gain go hand in hand.",
+                "D": "Dietary diversity promotes healthy body weight."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What does the passage say about people who eat a great variety of food?",
+              "options": {
+                "A": "They are more likely to eat foods beneficial to their health.",
+                "B": "They don't have any problems getting sufficient nutrition.",
+                "C": "They don't feel they have had enough until they overeat.",
+                "D": "They tend to consume more sweets, sugar and red meat.  • 2023年3 月六级真题（第一套）・ 英语菌的笔记"
+              },
+              "answer": "B",
+              "explanation": "析1 根据题干信息词eat a great variety of food可将答案线索定位至第三段最后一句。 第三段最后一句提及，此外，有一些证据表明，在一餐中有更多的食物选择可能会推迟人们的饱腹感，实际 上会增加他们的食量，C项是对该句的同义转述。C项中的don't feel they have had enough同义替换原文的delay people's feeling of fullness, overeat 同义替换原文中的increase how much they eat。A项涉及最后一■段内容，但原 文是说在过去，吃多种天然的、未加工的食物实际上可能是非常有益的，不是说饮食多样的人都会更可能 吃对健康有益的食物，故排除。B项文中未提及，故排除。“甜食、糖和红肉”出现在研究人员的建议部 分，是建议限制这些食物的摄入，并未提及饮食多样的人是否往往吃更多这些食物，故排除D项。 Passage Two ® •概览• 本文节选自The New York Times （《纽约时报》）于2016年7月15日发表的一篇文章。文章指出，刚 出生的小鸭在没有经过任何训练的前提下就能理解“相同”与“不同”的概念，它们通过一种名为“铭 印”的快速学习识别它们的母亲。这种区分抽象概念的能力对更多种动物的生存来说至关重要。我们需 要更加深入地理解其他动物的思维能力。 2 8 六级2023.3 （ 合一套 英语菌的笔记 图 •全文翻译• ［51］从相同和不同的事物中做出推论的能力被视为抽象智慧思维的基石， 这一能力曾经被认为是人类独有的。然而，一项新的研究已经表明，心理学家 们所说的“区分同异”的能力存在于通常被视为不聪明的生物中：新生的小鸭。 爱荷华大学的实验心理学家爱德华• 沃瑟曼对这项研究写了独立评论，他 说，［52］这项周四发表在《科学》杂志上的研究挑战了我们对拥有鸟脑意味着 什么的看法。 他说：“事实上，鸟类非常聪明，我们的问题很大程度上在于如何让它们与 我们‘交谈’，或者告诉我们它们到底有多聪明。” 这篇新论文的共同作者安东尼• 马丁尼奥和亚历克斯• 卡塞尔尼克设计了 一"
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nThe ability to make inferences from same and different, once thought to be unique to humans, is viewed as a\ncornerstone of abstract intelligent thought. A new study, however, has shown that what psychologists call same-\ndifferent discrimination is present in creatures generally seen as unintelligent: newborn ducklings ( 4、鸭).\nThe study, published Thursday in Science, challenges our idea of what it means to have a birdbrain, said\nEdward Wasserman, an experimental psychologist at the University of Iowa who wrote an independent review of\nthe study.\n“In fact, birds are extremely intelligent and our problem pretty much lies in figuring out how to get them to\n'talk' to us, or tell us how smart they really are,“ he said.\nAntone Martinho and Alex Kacelnik, co-authors of the new paper, devised a clever experiment to better test\nbird intelligence.\nFirst, they took 1-day-old ducklings and exposed them to a pair of moving objects. The two objects were\neither the same or different in shape or color. Then they exposed each duckling to two entirely new pairs of\nmoving objects.\nThe researchers found that about 70% of the ducklings preferred to move toward the pair of objects that\nhad the same shape or color relationship as the first objects they saw. A duckling that was first shown two green\nspheres, in other words, was more likely to move toward a pair of blue spheres than a mismatched pair of orange\nand purple spheres.\nDucklings go through a rapid learning process called imprinting shortly after birth—it's what allows them to\nidentify and follow their mothers.\nThese findings suggest that ducklings use abstract relationships between sensory inputs like color, shape,\nsounds and odor to recognize their mothers, said Dr. Kacelnik.\nBy studying imprinting, the authors of this study have shown for the first time that an animal can learn\nrelationships between concepts without training, said Jeffrey Katz, an experimental psychologist at Auburn\nUniversity who was not involved in the study.\nPrevious studies have suggested that other animals, including pigeons, dolphins, honeybees and some\nprimates (灵长类动物)，can discern same from different, but only after extensive training.\nAdding ducklings to the list- particularly untrained newborn ducklings-\nsuggests that the ability to\ncompare abstract concepts “is far more necessary to a wider variety of animals' survival than we previously\nthought,\" Dr. Martinho said. He believes the ability is so crucial because it helps animals consider context when\nidentifying objects in their environment.\nIfs clear from this study and others like it that' \"animals process and appreciate far more of the intricacies in\ntheir world than we've ever understood,Dr. Wasserman said. \"We are in a revolutionary phase in terms of our\nability to understand the minds of other animals.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "In what way were humans thought to be unique?",
+              "options": {
+                "A": "Being capable of same-different discrimination.",
+                "B": "Being able to distinguish abstract from concrete.",
+                "C": "Being a major source of animal intelligence.",
+                "D": "Being the cornerstone of the creative world."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What do we learn from the study published in Science?",
+              "options": {
+                "A": "Our understanding of the bird world was biased.",
+                "B": "Our communication with birds was far from adequate. • 2023年3 月六级真题（第一套）•  英语菌的笔记",
+                "C": "Our knowledge about bird psychology needs updating.",
+                "D": "Our conception of birds5 intelligence was wrong."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What did the researchers discover about most ducklings from their experiment?",
+              "options": {
+                "A": "They could associate shape with color.",
+                "B": "They could tell whether the objects were the same.",
+                "C": "They preferred colored objects to colorless ones.",
+                "D": "They reacted quickly to moving objects."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What was novel about the experiment in the study reported in Science?",
+              "options": {
+                "A": "The ducklings were compared with other animals.",
+                "B": "It was conducted by experimental psychologists.",
+                "C": "The animals used received no training.",
+                "D": "It used a number of colors and shapes."
+              },
+              "answer": "B",
+              "explanation": "•» 析： 第九段提到，实验心理学家杰弗里•卡茨表示，这项研究首次表明动物可以在没有经过训练的情况下学习 概念之间的关系。接着第十段提到，先前的研究表明，其他一些动物只有经过大量的训练，才能分辨出相 同和不同。这两部分内容前后对比，指出这项实验与先前研究相比的新奇之处，即使用的小鸭没有接受过 训练，故选项C正确。原文没有提到实验对小鸭与其他动物进行了比较，故选项A排除。这项实验的设计 者是安东尼• 马丁尼奥和亚历克斯•卡塞尔尼克，原文没有交待他们的学术身份，故排除选项B 。原文提 到实验过程中给小鸭呈现形状和颜色相同或不同的移动物体，但这只是实验的一种手段，并不是其新奇之 处，故也排除选项D。 5 5 .我们从沃瑟曼博士在文章结尾对动物思维研究的评论中了解到了什么? A）研究方法正在更新。 B）研究变得越来越复杂了。 C）研究正在吸引更多公众的关注。 D）研究正在取得显著进展。 定■»根据题干信息词Dr. Wasserman、animal minds和at the end of the passage可将答案线索定位于最后一段。 位j 解:最后一段最后一句提到，就我们理解其他动物的思维的能力而言，我们正处于一个变革的阶段。也就是 析 说，我们关于动物思维能力的研究正在取得进步，故选项D正确。原文没有提到研究方法或者吸引公众关 3 0 六级2023.3 （ 合一套 英语菌的笔记 注的信息，故选项A 、C均排除。选项B是根据原文词汇intricacies设置的干扰项，原文是说动物处理和理 解它们世界中的复杂事物远比我们曾经了解的要多，而不是关于动物思维的研究越来越复杂，故也排除。 Part IV £ Translation @ •难词译注• 地理学家geographer 徒步跋涉on foot; trek 荒远偏僻的remote 见闻 observations 详纽3 in detail 后人 posterity; later generations 实地调查 field investigations 文献 literature; document 地形 terrain •"
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What do we learn from Dr. Wasserman's comment on the study of animal minds at the end of the passage?",
+              "options": {
+                "A": "Research methods are being updated.",
+                "B": "It is getting more and more intricate.",
+                "C": "It is attracting more public attention.",
+                "D": "Remarkable progress is being made."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "translation",
       "type": "translation",
       "title": "Part IV Translation",
