@@ -16,6 +16,7 @@
  * 配置示例见 data/maps/cet6-forest.json。
  */
 import { store } from "./store.js";
+import { checkAchievements } from "./achievements.js";
 
 const MAP_BASE = "data/maps";
 let indexCache = null;
@@ -156,6 +157,7 @@ export async function recordNodeResult(chapterId, node, summary) {
 
   // 首次达到某星级给金币
   if (rewarded > 0) await store.addCoins(rewarded);
+  await checkAchievements("map", { chapterId, node, stars, summary });
 
   return { stars, previousBest: prev.bestStars, rewardedCoins: rewarded };
 }

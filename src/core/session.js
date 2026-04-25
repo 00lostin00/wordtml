@@ -10,6 +10,7 @@
 import { store } from "./store.js";
 import { newProgress, grade } from "./srs.js";
 import { normalizeEconomy } from "./items.js";
+import { checkAchievements } from "./achievements.js";
 
 export class Session {
   /**
@@ -208,6 +209,7 @@ export class Session {
       correct: summary.correct,
       skipped: summary.skipped,
     });
+    await checkAchievements("session", { summary });
     this.onFinish(summary);
   }
 }

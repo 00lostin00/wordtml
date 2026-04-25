@@ -9,6 +9,7 @@
  * 胜负判定:错词数 <= tier.maxWrong → 胜,否则败。超时同样算败。
  */
 import { store } from "./store.js";
+import { checkAchievements } from "./achievements.js";
 
 const BIG_TIERS = [
   { big: "bronze",   label: "🥉 青铜", color: "#b87333" },
@@ -132,6 +133,7 @@ export async function settleMatch({ tierKey, summary, isDaily }) {
     win,
     isDaily: !!isDaily,
   });
+  await checkAchievements("rank", { tierKey, summary, win, delta, state });
 
   return {
     win,

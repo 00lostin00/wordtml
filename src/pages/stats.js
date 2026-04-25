@@ -9,6 +9,7 @@ import {
   getMapIndex, loadChapter, getChapterProgress, chapterCompletion,
 } from "../core/map-engine.js";
 import { tierByPoints } from "../core/rank-engine.js";
+import { ACHIEVEMENTS, checkAchievements } from "../core/achievements.js";
 
 const DAY_MS = 24 * 60 * 60 * 1000;
 const BOX_LABELS = ["陌生", "学习中", "熟悉", "掌握", "永久"];
@@ -18,13 +19,16 @@ export async function render(ctx) {
   host.innerHTML = "";
 
   const activeId = await store.getSetting("activeWordlist", "cet6");
-  const [statsRows, sessions, progressRows, wrongRows, rank, rankHistory] = await Promise.all([
+  await checkAchievements("stats-view");
+
+  const [statsRows, sessions, progressRows, wrongRows, rank, rankHistory, achievementRows] = await Promise.all([
     store.all("stats"),
     store.all("sessions"),
     store.all("progress"),
     store.all("wrongbook"),
     store.getSetting("rank", null),
     store.all("rankHistory"),
+    store.all("achievements"),
   ]);
 
   let wordTotal = 0;
@@ -73,12 +77,36 @@ export async function render(ctx) {
   ]));
 
   host.appendChild(await renderChapterProgress());
+  host.appendChild(renderAchievements(achievementRows));
 
   host.appendChild(el("div", { class: "grid cols-3", style: "margin-top:16px" }, [
     statBlock("学习场次", sessions.length, sessions.length ? `最近 ${formatDateTime(latestSessionTime(sessions))}` : "暂无会话"),
     statBlock("已掌握", mastered, learned ? `${Math.round((mastered / learned) * 100)}% 已学词` : "先学几个词"),
     statBlock("段位积分", rank ? rank.points || 0 : 0, `${currentRank.label} · 最高 ${rank ? rank.highest || 0 : 0}`),
   ]));
+}
+
+function renderAchievements(rows) {
+  const unlocked = new Map(rows.map((row) => [row.id, row]));
+  const unlockedCount = unlocked.size;
+  return el("div", { class: "card", style: "margin-top:16px" }, [
+    el("div", { class: "row between" }, [
+      el("div", { class: "section-title", style: "margin:0" }, "成就墙"),
+      el("span", { class: "pill" }, `${unlockedCount}/${ACHIEVEMENTS.length}`),
+    ]),
+    el("div", { class: "achievement-grid" }, ACHIEVEMENTS.map((achievement) => {
+      const row = unlocked.get(achievement.id);
+      return el("div", { class: "achievement-card" + (row ? " unlocked" : "") }, [
+        el("div", { class: "row between" }, [
+          el("span", { class: "pill" }, achievement.group),
+          el("span", { class: "achievement-mark" }, row ? "✓" : "·"),
+        ]),
+        el("div", { class: "achievement-title" }, achievement.title),
+        el("div", { class: "label" }, achievement.desc),
+        row ? el("div", { class: "sub" }, `解锁 ${formatDateTime(row.unlockedAt)}`) : null,
+      ]);
+    })),
+  ]);
 }
 
 function renderHeatmap(days, statsByDate) {

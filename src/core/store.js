@@ -10,9 +10,10 @@
  *   - mapProgress  key: nodeKey    value: { nodeKey, chapterId, nodeId, bestStars, bestAccuracy, attempts, firstClearedAt, lastAttemptAt }
  *   - economy      key: "main"     value: { coins, items: { hint, skip, extend, xray } }
  *   - rankHistory  key: autoInc    value: { at, tierKey, points, highest, delta, win, isDaily }
+ *   - achievements key: id         value: { id, unlockedAt, event }
  */
 const DB_NAME = "wordtml";
-const DB_VERSION = 3;
+const DB_VERSION = 4;
 const DEFAULT_ITEMS = { hint: 0, skip: 0, extend: 0, xray: 0 };
 
 const STORES = {
@@ -24,6 +25,7 @@ const STORES = {
   mapProgress: { keyPath: "nodeKey", indexes: [["chapterId", "chapterId"]] },
   economy: { keyPath: "key" },
   rankHistory: { keyPath: "id", autoIncrement: true, indexes: [["at", "at"]] },
+  achievements: { keyPath: "id", indexes: [["unlockedAt", "unlockedAt"]] },
 };
 
 let dbPromise = null;
