@@ -35,6 +35,7 @@ export class Session {
     this.results = [];
     this.startedAt = Date.now();
     this.timedOut = false;
+    this.finished = false;
     this._timer = null;
   }
 
@@ -178,6 +179,8 @@ export class Session {
   }
 
   async #finish() {
+    if (this.finished) return;
+    this.finished = true;
     if (this._timer) {
       clearInterval(this._timer);
       this._timer = null;
