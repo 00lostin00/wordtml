@@ -6,6 +6,7 @@ codex_continue.md
 # OCR / PDF extraction artifacts
 tmp_pdf_pages/
 tmp_cet6_extract/
+tmp_exam_ocr/
 tmp_test_ocr_*/
 tools/extract_cet6_pdf.py
 tools/windows_ocr.ps1
@@ -24,6 +25,9 @@ KY_eg/
 
 # Runtime logs and caches
 *.log
+wordtml.db
+wordtml.db-shm
+wordtml.db-wal
 __pycache__/
 *.py[cod]
 

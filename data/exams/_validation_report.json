@@ -1,515 +1,632 @@
 {
-  "ok": [],
-  "warn": [
+  "ok": [
     {
-      "type": "cet6",
-      "slug": "2016-06-2",
-      "issues": [
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/55)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2016-06",
-      "issues": [
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/55)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2016-12-1",
-      "issues": [
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/55)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2016-12-2",
-      "issues": [
-        "[reading-matching] paragraphs 0 < 9",
-        "[reading-mcq] passages 1 < 2",
-        "[answers] 答案完全未填(0/55)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2017-06-2",
-      "issues": [
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/55)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2017-12-1",
-      "issues": [
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/55)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2018-12-1",
-      "issues": [
-        "[reading-banked] wordBank 5/15",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/55)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2019-06-1",
-      "issues": [
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案覆盖率 69% (38/55)"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2019-06-2",
-      "issues": [
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案覆盖率 67% (37/55)"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2023-12-1",
-      "issues": [
-        "[answers] 答案覆盖率 50% (28/55)"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2023-12-2",
-      "issues": [
-        "[answers] 答案覆盖率 45% (25/55)"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2024-12-1",
-      "issues": [
-        "[answers] 答案完全未填(0/55)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2024-12-2",
-      "issues": [
-        "[answers] 答案完全未填(0/55)— 等 Step 2.5 从 key 抽"
-      ]
+      "type": "ky1",
+      "slug": "2024"
     }
   ],
+  "warn": [],
   "fail": [
     {
-      "type": "cet6",
-      "slug": "2015-12-1",
+      "type": "ky1",
+      "slug": "2000",
       "issues": [
-        "[listening] 题数 24 ≠ 25",
-        "[reading-matching] 题数 0 ≠ 10",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/44)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2015-12-2",
-      "issues": [
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] section 缺失",
         "[reading-mcq] section 缺失",
-        "[answers] 答案完全未填(0/25)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2015-12-3",
-      "issues": [
-        "[reading-matching] 题数 0 ≠ 10",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/45)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2016-06-3",
-      "issues": [
-        "[listening] 题数 0 ≠ 25",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/30)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2016-12-3",
-      "issues": [
-        "[listening] section 缺失",
-        "[reading-banked] wordBank 6/15",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/30)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2017-06-1",
-      "issues": [
-        "[listening] 题数 24 ≠ 25",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/54)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2017-06-3",
-      "issues": [
-        "[listening] 题数 0 ≠ 25",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/30)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2017-12-2",
-      "issues": [
-        "[listening] section 缺失",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/30)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2017-12-3",
-      "issues": [
-        "[listening] 题数 0 ≠ 25",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/30)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2018-06-1",
-      "issues": [
-        "[writing] prompt+directions 太短 (0<30)",
-        "[listening] 题数 0 ≠ 25",
-        "[reading-banked] wordBank 0/15",
-        "[reading-mcq] 题数 0 ≠ 10",
-        "[answers] 答案完全未填(0/20)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2018-06-2",
-      "issues": [
-        "[writing] prompt+directions 太短 (0<30)",
-        "[listening] 题数 0 ≠ 25",
-        "[reading-banked] wordBank 0/15",
-        "[reading-mcq] 题数 0 ≠ 10",
-        "[answers] 答案完全未填(0/20)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2018-06-3",
-      "issues": [
-        "[writing] prompt+directions 太短 (0<30)",
-        "[listening] section 缺失",
-        "[reading-banked] wordBank 0/15",
-        "[reading-mcq] 题数 0 ≠ 10",
-        "[answers] 答案完全未填(0/20)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2018-12-2",
-      "issues": [
-        "[writing] section 缺失",
-        "[listening] section 缺失",
-        "[reading-banked] wordBank 5/15",
-        "[reading-matching] paragraphs 0 < 9",
-        "[translation] section 缺失",
-        "[answers] 答案完全未填(0/30)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2018-12-3",
-      "issues": [
-        "[listening] 题数 0 ≠ 25",
-        "[reading-banked] wordBank 5/15",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/30)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2019-06-3",
-      "issues": [
-        "[listening] 题数 0 ≠ 25",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案覆盖率 43% (13/30)"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2019-12-1",
-      "issues": [
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
-        "[reading-mcq] section 缺失"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2019-12-2",
-      "issues": [
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
-        "[reading-mcq] section 缺失"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2019-12-3",
-      "issues": [
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
-        "[reading-mcq] section 缺失"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2020-07",
-      "issues": [
-        "[listening] 题数 24 ≠ 25",
-        "[reading-banked] wordBank 5/15",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/54)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2020-12-1",
-      "issues": [
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
-        "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
         "[translation] section 缺失"
       ]
     },
     {
-      "type": "cet6",
-      "slug": "2020-12-2",
+      "type": "ky1",
+      "slug": "2001",
       "issues": [
-        "[listening] 题数 21 ≠ 25",
-        "[translation] source 中文过短 (0<80)",
-        "[answers] 答案覆盖率 19% (10/51)"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2020-12-3",
-      "issues": [
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
         "[reading-mcq] section 缺失",
-        "[translation] source 中文过短 (0<80)"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2020-12",
-      "issues": [
-        "[writing] section 缺失",
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
-        "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
         "[translation] section 缺失"
       ]
     },
     {
-      "type": "cet6",
-      "slug": "2021-12-1",
+      "type": "ky1",
+      "slug": "2002",
       "issues": [
-        "[listening] 题数 24 ≠ 25",
-        "[reading-banked] wordBank 9/15",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/54)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2021-12-2",
-      "issues": [
-        "[listening] 题数 16 ≠ 25",
-        "[reading-banked] wordBank 8/15",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/46)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2021-12-3",
-      "issues": [
-        "[listening] 题数 0 ≠ 25",
-        "[reading-banked] wordBank 0/15",
-        "[reading-matching] paragraphs 0 < 9",
-        "[answers] 答案完全未填(0/30)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2022-06-1",
-      "issues": [
-        "[writing] section 缺失",
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
         "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
         "[translation] section 缺失"
       ]
     },
     {
-      "type": "cet6",
-      "slug": "2022-06-2",
+      "type": "ky1",
+      "slug": "2003",
       "issues": [
-        "[writing] section 缺失",
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
         "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
         "[translation] section 缺失"
       ]
     },
     {
-      "type": "cet6",
-      "slug": "2022-06-3",
+      "type": "ky1",
+      "slug": "2004",
       "issues": [
-        "[writing] section 缺失",
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
         "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
         "[translation] section 缺失"
       ]
     },
     {
-      "type": "cet6",
-      "slug": "2022-06",
+      "type": "ky1",
+      "slug": "2005",
       "issues": [
-        "[writing] section 缺失",
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
         "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
         "[translation] section 缺失"
       ]
     },
     {
-      "type": "cet6",
-      "slug": "2022-09",
+      "type": "ky1",
+      "slug": "2006",
       "issues": [
-        "[listening] 题数 19 ≠ 25",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
         "[reading-mcq] section 缺失",
-        "[answers] 答案完全未填(0/19)— 等 Step 2.5 从 key 抽"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2022-12-1",
-      "issues": [
-        "[listening] 题数 21 ≠ 25",
-        "[answers] 答案覆盖率 64% (33/51)"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2022-12-2",
-      "issues": [
-        "[listening] 题数 12 ≠ 25",
-        "[reading-mcq] 题数 5 ≠ 10",
-        "[reading-mcq] passages 1 < 2",
-        "[answers] 答案覆盖率 51% (19/37)"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2022-12-3",
-      "issues": [
-        "[listening] 题数 0 ≠ 25",
-        "[reading-matching] paragraphs 6 < 9",
-        "[answers] 答案覆盖率 40% (12/30)"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2023-03",
-      "issues": [
-        "[listening] 题数 16 ≠ 25",
-        "[answers] 答案覆盖率 34% (16/46)"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2023-12-3",
-      "issues": [
-        "[listening] 题数 0 ≠ 25",
-        "[answers] 答案覆盖率 23% (7/30)"
-      ]
-    },
-    {
-      "type": "cet6",
-      "slug": "2024-06-1",
-      "issues": [
-        "[writing] section 缺失",
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
-        "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
         "[translation] section 缺失"
       ]
     },
     {
-      "type": "cet6",
-      "slug": "2024-06-2",
+      "type": "ky1",
+      "slug": "2007",
       "issues": [
-        "[writing] section 缺失",
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
         "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
         "[translation] section 缺失"
       ]
     },
     {
-      "type": "cet6",
-      "slug": "2024-06-3",
+      "type": "ky1",
+      "slug": "2008",
       "issues": [
-        "[writing] section 缺失",
-        "[listening] section 缺失",
-        "[reading-banked] section 缺失",
-        "[reading-matching] section 缺失",
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
         "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
         "[translation] section 缺失"
       ]
     },
     {
-      "type": "cet6",
-      "slug": "2024-12-3",
+      "type": "ky1",
+      "slug": "2009",
       "issues": [
-        "[listening] 题数 0 ≠ 25",
-        "[answers] 答案完全未填(0/30)— 等 Step 2.5 从 key 抽"
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
+        "[translation] section 缺失"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2010",
+      "issues": [
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q33 选项不全:['A', 'B', 'C', 'D']",
+        "[new-question] section 缺失",
+        "[translation] section 缺失"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2011",
+      "issues": [
+        "[reading-mcq] q29 选项不全:['A', 'B', 'C', 'D']",
+        "[new-question] section 缺失",
+        "[translation] section 缺失"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2012",
+      "issues": [
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q27 选项不全:['A', 'B', 'C', 'D']",
+        "[new-question] section 缺失",
+        "[translation] section 缺失"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2013",
+      "issues": [
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
+        "[translation] section 缺失"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2014",
+      "issues": [
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
+        "[translation] section 缺失"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2015",
+      "issues": [
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
+        "[translation] section 缺失"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2016",
+      "issues": [
+        "[new-question] 题数 0 ≠ 5"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2017",
+      "issues": [
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] 题数 0 ≠ 20",
+        "[reading-mcq] passages 0 < 4",
+        "[new-question] section 缺失",
+        "[translation] section 缺失"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2018",
+      "issues": [
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] 题数 19 ≠ 20",
+        "[reading-mcq] passages 1 < 4",
+        "[reading-mcq] q21 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q22 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q23 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q24 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q25 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q26 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q27 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q28 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q29 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q30 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q31 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q32 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q33 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q34 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q35 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q36 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q38 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q39 选项不全:['A', 'B', 'C', 'D']",
+        "[new-question] section 缺失",
+        "[translation] section 缺失"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2019",
+      "issues": [
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] section 缺失",
+        "[new-question] section 缺失",
+        "[translation] section 缺失"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2020",
+      "issues": [
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[new-question] 题数 0 ≠ 5"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2021",
+      "issues": [
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[new-question] 题数 0 ≠ 5",
+        "[translation] section 缺失"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2022",
+      "issues": [
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2023",
+      "issues": [
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[new-question] 题数 0 ≠ 5"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2025",
+      "issues": [
+        "[writing-1] section 缺失",
+        "[writing-2] section 缺失",
+        "[cloze] q1 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q2 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q4 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q5 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q6 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q7 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q8 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q9 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q10 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q12 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q13 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q14 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q15 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q16 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q21 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q22 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q23 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q24 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q25 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q26 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q27 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q28 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q29 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q30 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q31 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q32 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q33 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q34 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q35 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q36 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q37 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q38 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q39 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q40 选项不全:['A', 'B', 'C', 'D']",
+        "[new-question] 题数 0 ≠ 5"
       ]
     }
   ]

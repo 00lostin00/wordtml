@@ -26,7 +26,7 @@
                 "C": "on behalf of",
                 "D": "with regard to"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -39,7 +39,7 @@
                 "C": "compete with",
                 "D": "decide on"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -52,7 +52,7 @@
                 "C": "arrange",
                 "D": "postpone"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -65,7 +65,7 @@
                 "C": "Above all",
                 "D": "For example"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -78,7 +78,7 @@
                 "C": "After",
                 "D": "Unless"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -91,7 +91,7 @@
                 "C": "from",
                 "D": "through"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -104,7 +104,7 @@
                 "C": "so",
                 "D": "but"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -117,7 +117,7 @@
                 "C": "copy",
                 "D": "create"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -130,7 +130,7 @@
                 "C": "wrapping",
                 "D": "tying"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -143,7 +143,7 @@
                 "C": "hiding",
                 "D": "serving"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -156,7 +156,7 @@
                 "C": "collection",
                 "D": "union"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -169,7 +169,7 @@
                 "C": "live",
                 "D": "deal"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -182,7 +182,7 @@
                 "C": "for",
                 "D": "if"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -195,7 +195,7 @@
                 "C": "challenge",
                 "D": "avoid"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -208,7 +208,7 @@
                 "C": "viewed",
                 "D": "exposed"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -221,7 +221,7 @@
                 "C": "whenever",
                 "D": "wherever"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -234,7 +234,7 @@
                 "C": "shaped",
                 "D": "pushed"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -247,7 +247,7 @@
                 "C": "donated",
                 "D": "divided"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -260,7 +260,7 @@
                 "C": "warms",
                 "D": "breaks"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -273,7 +273,7 @@
                 "C": "so that",
                 "D": "in that"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             }
           ]
@@ -300,7 +300,7 @@
                 "C": "Websites about dieting would thrive.",
                 "D": "The fashion industry would decline."
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -313,7 +313,7 @@
                 "C": "losing faith in.",
                 "D": "doing harm to."
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -326,7 +326,7 @@
                 "C": "Models are no longer under peer pressure.",
                 "D": "New standards are being set in Denmark."
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -339,7 +339,7 @@
                 "C": "showing little concern for health factors.",
                 "D": "setting a high age threshold for models."
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -352,7 +352,7 @@
                 "C": "A Dilemma for the Starving Models in France",
                 "D": "A Challenge to the Fashion Industry’s Body Ideals 英语（一）试题 .5. （共14 页）"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             }
           ]
@@ -371,7 +371,7 @@
                 "C": "didn’t start till the Shakespearean age.",
                 "D": "has brought much benefit to the NHS."
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -384,7 +384,7 @@
                 "C": "effectively reinforced.",
                 "D": "gradually destroyed."
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -397,8 +397,8 @@
                 "C": "Ukip may gain from its support for rural conservation.",
                 "D": "The Liberal Democrats are losing political influence."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "答--如何得出正解 找关键词:Paragraphs.回文定位:短据关键词可定位至三段，本题要亲短硅舫林断「，仗需满三段内 容进行解题.比对匹配:三段❶句提到，在下一届选举中，各大党派似乎都不可能赞同“乡村需要持续不断 的保护”这一观点；❷句提到，保守党的规划改革明确将优先权给予了乡村开发而非保护，甚至批准在当地 居民可能会反对的地方进行“计划外”建设；❸句提到,’可持续发展的理念已经被界定为有利可图的发展； .句提到，工党也想在当地议会反对开发的地方终止地方规划；,句提到，自由民主党在乡村保护问题上保 持沉默；❻❼句提到，独立党意识到这是一个机会，并与那些恳求在使用绿地上有更周全方法的人统一战线； 该党所发起的保护英格兰乡村运动使许多地方保守党胆战心惊.由此可推知，独立党认为支持乡村保护可为下 一届选举赢得民众支持，从中获益，D选项属于合理推断，故正确. [路径二]从选项的角度解答一如何排除干扰 A找关键词:-函ur.回文定位:金氨关键词可定位至三段•句.比对匹配:该句薰到，工秃应短在苗地 理舍校对近岌的鸠我冬 *螟遗通\"光不提避工笼坦反对步发麽到攻走:故排嗟 A, 找关键词:The Conservatives和“off-plan\" building.回文定位:根据关键词可定位至三段❷句.比对匹 B配:该句提到，保守党的规划改革明确将优先权给予了乡村开发而非保护，甚至批准在当地居民可能会 _更丝的地方理色:'也野T一建重’苴劣可卸保或赏卖度':!t刻处:建设，一一B选现表述与此招免一故挑宛 C技圣谪:The Liberal DemocratSo回旻孟位:根据关键词可定位至三段❺句.比对匹配:该句提到，自 由民主党在乡村保护问题上保持沉默.这并不能说明其正在失去政治影响力，故排除C."
             },
             {
               "id": "q29",
@@ -410,8 +410,8 @@
                 "C": "highlights his firm stand against lobby pressure.",
                 "D": "reveals a strong prejudice against urban areas."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "住房危机的必要性 五段❶句 D. 揭露其对城市地区的强烈偏见 五段❸句 15 > [路径一]从题干的角度解答一如何得出正解 找关键词:George Osbome和preference.回文定位:根据关键词可定位至五段❸❸句，其中preference与五段 8句中的favours相对应.比对匹配:❸句提到，迫于游说团体的压力，George Osbome支持在乡村新建房屋， 而非在城市翻新和重建；.句提到，他支持郊外购物场所而不是商业街.由此可知，George Osborne支持在乡 村新建房屋以及在城郊建设购物场所，但由此无法判断正确答案，故需联系下文.辐射匹配:❼句提到，在建 筑物不超越村镇边界且尊重村镇特点的地方，它们发展得最好；❸❾句指出，我们没有破坏城市的保护区，为 什么要去破坏乡村的保护区呢？综上可推知，作者对George Osbome的偏好表示不满，认为其破坏了乡村的保 护区，忽视了乡村地区的特色，B选项表述与此相符，故正确. [路径二]从选项的角度解答一如何排除干扰 顶关键词:lobby pressureo回文定位:根据关键词可定位至五段❸句.比对匹配:该句指出，迫于游说 A囹俺的年力, George Osborne支特查多杖新建房屋’一四见他感丛了遮说剧俺「而韭区四避堤陞体,散排隧A’ 迎关函瓦-housing crisis:百:菠在；屈羸美赢荷走&喜函.瓦疏元能；袤荷锤到,W唯膏总 C机”等同于“混凝土草地”的观点只是游说之词，即“解决住房危机的关键在于建造更多的房屋”只是 避说黄的观点一，一些妙迷提及奥新由的佩好以次作苞町速佩好应持堕否度，一一故推堡C’ ■屈-美跆虱against浦urban:面:菠匝诫福笑谥曲靛&堇备函，丘鼾低虱-函谯？George D Osborne支持在乡村新建房屋，而非在城市翻新和重建.此处并未提及他对城市地区有偏见的相关信息， J故排除D."
             },
             {
               "id": "q30",
@@ -423,7 +423,7 @@
                 "C": "the town-and-country planning in Britain.",
                 "D": "the political life in today’s Britain. 英语（一）试题 .7. （共14 页）"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             }
           ]
@@ -442,7 +442,7 @@
                 "C": "approval.",
                 "D": "uncertainty."
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -455,8 +455,8 @@
                 "C": "winning trust from consumers.",
                 "D": "raising the quality of its products."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "答一如何得出正解 找关键词:Paragraph 2.CSR和companyo回文定位:根据关键词可定位至二段••句,其中company与二段 .句中的firms和firm相对应.比对匹配:二段•句指出，根据咨询公司EPG的评估，美国和英国最大的公 司每年在CSR上的支出总计超过150亿美元；二段•句指出，消费者可能会将CSR支出视为公司产品质量高 的“信号”.由此可初步判断A选项正确，但需联系上下文做进一步验证.辐射匹配:二段♦句中的This指 代二段•句中的spend more than $15 billion a year on CSR, 即在CSR方面的大量支出.此外，二段❷句中的in thme ways表明，下文将从三个方面详细说明在CSR上的支出如何帮助公司增加自身价值.二段.句提到，消 费者可能愿意购买某个公司的产品，以一种间接的方式捐助其所资助的公益事业；二段❺句提到，CSR带来的 “光环效应”会为公司赢得消费者更多的关注.结合二段❸句可知，CSR能够帮助公司赢得消费者的信任. 综上所述，CSR正是通过赢得消费者的信任来帮助公司的，故A正确. [路径二]从选项的角度解一如何排除干扰 找关键词:malpractices.回文定位「柜据美而可定位至一段®句，其与该句中的corruption相对应. B比对匹配:该句提到，至少在公司因行贿而被起诉时，CSR可能会为其创造货币价值，但并未提及CSR 可以防范公司的不法行为，故排除B. C「C斑质甬蓉色天市无注运初-支市开采痕反荏向亏诽窿]defamed）而笑颉信点]故排谣\" -液主或商Equality而「p赢ucts；百安2忘-版宓诲向苛定反至潘❸面「住好匹旎:'液面搪瓦-浦贾 D者可能会将CSR支出视为公司产品质量高的“信号”，即“产品质量高”是消费者在CSR支出的影响 下产生的主观想法，文中并未提及CSR本身能提高产品质量的相关信息，故排除D."
             },
             {
               "id": "q33",
@@ -468,7 +468,7 @@
                 "C": "more lasting.",
                 "D": "less severe."
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -481,7 +481,7 @@
                 "C": "increases the chance of being penalized.",
                 "D": "constitutes part of the investigation."
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -494,7 +494,7 @@
                 "C": "Companies’ financial capacity for it has been overestimated.",
                 "D": "It has brought much benefit to the banking industry. 英语（一）试题 .9. （共14 页）"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             }
           ]
@@ -513,7 +513,7 @@
                 "C": "the pressure from its investors.",
                 "D": "the complaints from its readers."
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -526,7 +526,7 @@
                 "C": "seek new sources of readership.",
                 "D": "aim for efficient management."
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -539,7 +539,7 @@
                 "C": "will have the cost of printing reduced.",
                 "D": "expands the popularity of the paper."
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -552,7 +552,7 @@
                 "C": "aggressiveness better meets challenges.",
                 "D": "legacy businesses are becoming outdated."
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -565,7 +565,7 @@
                 "C": "Keep Your Newspapers Forever in Fashion",
                 "D": "Cherish the Newspaper Still in Your Hand 英语（一）试题 .11. （共14 页）"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             }
           ]

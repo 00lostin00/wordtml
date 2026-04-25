@@ -1,6 +1,77 @@
 {
   "exams": [
     {
+      "id": "cet6-2025-12-1",
+      "type": "cet6",
+      "year": 2025,
+      "month": 12,
+      "set": 1,
+      "title": "2025年12月大学英语六级真题(第1套)",
+      "file": "cet6/2025-12-1.json",
+      "completeness": 0.83,
+      "label": "near-complete",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "missing",
+        "reading-banked": "ok",
+        "reading-matching": "ok",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 缺"
+      ]
+    },
+    {
+      "id": "cet6-2025-12-2",
+      "type": "cet6",
+      "year": 2025,
+      "month": 12,
+      "set": 2,
+      "title": "2025年12月大学英语六级真题(第2套)",
+      "file": "cet6/2025-12-2.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "ok",
+        "reading-mcq": "bad",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 22",
+        "reading-banked wordBank",
+        "reading-mcq 题数 9"
+      ]
+    },
+    {
+      "id": "cet6-2025-12-3",
+      "type": "cet6",
+      "year": 2025,
+      "month": 12,
+      "set": 3,
+      "title": "2025年12月大学英语六级真题(第3套)",
+      "file": "cet6/2025-12-3.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺"
+      ]
+    },
+    {
       "id": "cet6-2024-12-1",
       "type": "cet6",
       "year": 2024,
@@ -224,7 +295,30 @@
         "translation": "ok"
       },
       "issues": [
-        "listening 题数 16"
+        "listening 题数 19"
+      ]
+    },
+    {
+      "id": "cet6-2022-12",
+      "type": "cet6",
+      "year": 2022,
+      "month": 12,
+      "set": 0,
+      "title": "2022年12月大学英语六级真题(第1套)",
+      "file": "cet6/2022-12.json",
+      "completeness": 0.67,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "ok",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-matching 段数"
       ]
     },
     {
@@ -303,21 +397,18 @@
       "set": 0,
       "title": "2022年9月大学英语六级真题(第1套)",
       "file": "cet6/2022-09.json",
-      "completeness": 0.33,
-      "label": "paper-only",
+      "completeness": 0.83,
+      "label": "near-complete",
       "sectionStatus": {
         "writing": "ok",
         "listening": "bad",
-        "reading-banked": "missing",
-        "reading-matching": "missing",
-        "reading-mcq": "missing",
+        "reading-banked": "ok",
+        "reading-matching": "ok",
+        "reading-mcq": "ok",
         "translation": "ok"
       },
       "issues": [
-        "listening 题数 19",
-        "reading-banked 缺",
-        "reading-matching 缺",
-        "reading-mcq 缺"
+        "listening 题数 20"
       ]
     },
     {
@@ -328,23 +419,18 @@
       "set": 0,
       "title": "2022年6月大学英语六级真题(第1套)",
       "file": "cet6/2022-06.json",
-      "completeness": 0.0,
-      "label": "paper-only",
+      "completeness": 0.83,
+      "label": "near-complete",
       "sectionStatus": {
-        "writing": "missing",
-        "listening": "missing",
-        "reading-banked": "missing",
-        "reading-matching": "missing",
-        "reading-mcq": "missing",
-        "translation": "missing"
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "ok",
+        "reading-matching": "ok",
+        "reading-mcq": "ok",
+        "translation": "ok"
       },
       "issues": [
-        "writing 缺",
-        "listening 缺",
-        "reading-banked 缺",
-        "reading-matching 缺",
-        "reading-mcq 缺",
-        "translation 缺"
+        "listening 题数 0"
       ]
     },
     {
@@ -429,6 +515,29 @@
       ]
     },
     {
+      "id": "cet6-2021-12",
+      "type": "cet6",
+      "year": 2021,
+      "month": 12,
+      "set": 0,
+      "title": "2021年12月大学英语六级真题(第1套)",
+      "file": "cet6/2021-12.json",
+      "completeness": 0.67,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "ok",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked wordBank"
+      ]
+    },
+    {
       "id": "cet6-2021-12-1",
       "type": "cet6",
       "year": 2021,
@@ -501,6 +610,55 @@
       ]
     },
     {
+      "id": "cet6-2021-06",
+      "type": "cet6",
+      "year": 2021,
+      "month": 6,
+      "set": 0,
+      "title": "2021年6月大学英语六级真题(第1套)",
+      "file": "cet6/2021-06.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "bad",
+        "reading-mcq": "bad",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked wordBank",
+        "reading-matching 段数",
+        "reading-mcq 题数 9"
+      ]
+    },
+    {
+      "id": "cet6-2021",
+      "type": "cet6",
+      "year": 2021,
+      "month": 0,
+      "set": 0,
+      "title": "2021年0月大学英语六级真题(第1套)",
+      "file": "cet6/2021.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "ok",
+        "reading-mcq": "bad",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked wordBank",
+        "reading-mcq 题数 9"
+      ]
+    },
+    {
       "id": "cet6-2020-12",
       "type": "cet6",
       "year": 2020,
@@ -508,23 +666,19 @@
       "set": 0,
       "title": "2020年12月大学英语六级真题(第1套)",
       "file": "cet6/2020-12.json",
-      "completeness": 0.0,
-      "label": "paper-only",
+      "completeness": 0.67,
+      "label": "partial",
       "sectionStatus": {
-        "writing": "missing",
-        "listening": "missing",
-        "reading-banked": "missing",
-        "reading-matching": "missing",
-        "reading-mcq": "missing",
-        "translation": "missing"
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "ok",
+        "reading-mcq": "ok",
+        "translation": "ok"
       },
       "issues": [
-        "writing 缺",
-        "listening 缺",
-        "reading-banked 缺",
-        "reading-matching 缺",
-        "reading-mcq 缺",
-        "translation 缺"
+        "listening 题数 0",
+        "reading-banked wordBank"
       ]
     },
     {
@@ -603,13 +757,13 @@
       ]
     },
     {
-      "id": "cet6-2020-07",
+      "id": "cet6-2020-09",
       "type": "cet6",
       "year": 2020,
-      "month": 7,
+      "month": 9,
       "set": 0,
-      "title": "2020年7月大学英语六级真题(第1套)",
-      "file": "cet6/2020-07.json",
+      "title": "2020年9月大学英语六级真题(第1套)",
+      "file": "cet6/2020-09.json",
       "completeness": 0.5,
       "label": "partial",
       "sectionStatus": {
@@ -621,7 +775,54 @@
         "translation": "ok"
       },
       "issues": [
-        "listening 题数 24",
+        "listening 题数 0",
+        "reading-banked wordBank",
+        "reading-matching 段数"
+      ]
+    },
+    {
+      "id": "cet6-2020-07",
+      "type": "cet6",
+      "year": 2020,
+      "month": 7,
+      "set": 0,
+      "title": "2020年7月大学英语六级真题(第1套)",
+      "file": "cet6/2020-07.json",
+      "completeness": 0.67,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "ok",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 23",
+        "reading-banked wordBank"
+      ]
+    },
+    {
+      "id": "cet6-2019-12",
+      "type": "cet6",
+      "year": 2019,
+      "month": 12,
+      "set": 0,
+      "title": "2019年12月大学英语六级真题(第1套)",
+      "file": "cet6/2019-12.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
         "reading-banked wordBank",
         "reading-matching 段数"
       ]
@@ -702,6 +903,30 @@
       ]
     },
     {
+      "id": "cet6-2019-06",
+      "type": "cet6",
+      "year": 2019,
+      "month": 6,
+      "set": 0,
+      "title": "2019年6月大学英语六级真题(第1套)",
+      "file": "cet6/2019-06.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked wordBank",
+        "reading-matching 段数"
+      ]
+    },
+    {
       "id": "cet6-2019-06-1",
       "type": "cet6",
       "year": 2019,
@@ -769,6 +994,30 @@
       ]
     },
     {
+      "id": "cet6-2018-12",
+      "type": "cet6",
+      "year": 2018,
+      "month": 12,
+      "set": 0,
+      "title": "2018年12月大学英语六级真题(第1套)",
+      "file": "cet6/2018-12.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked wordBank",
+        "reading-matching 段数"
+      ]
+    },
+    {
       "id": "cet6-2018-12-1",
       "type": "cet6",
       "year": 2018,
@@ -825,6 +1074,30 @@
       "set": 3,
       "title": "2018年12月大学英语六级真题(第3套)",
       "file": "cet6/2018-12-3.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked wordBank",
+        "reading-matching 段数"
+      ]
+    },
+    {
+      "id": "cet6-2018-06",
+      "type": "cet6",
+      "year": 2018,
+      "month": 6,
+      "set": 0,
+      "title": "2018年6月大学英语六级真题(第1套)",
+      "file": "cet6/2018-06.json",
       "completeness": 0.5,
       "label": "partial",
       "sectionStatus": {
@@ -917,6 +1190,30 @@
       ]
     },
     {
+      "id": "cet6-2017-12",
+      "type": "cet6",
+      "year": 2017,
+      "month": 12,
+      "set": 0,
+      "title": "2017年12月大学英语六级真题(第1套)",
+      "file": "cet6/2017-12.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked wordBank",
+        "reading-matching 段数"
+      ]
+    },
+    {
       "id": "cet6-2017-12-1",
       "type": "cet6",
       "year": 2017,
@@ -981,6 +1278,30 @@
       },
       "issues": [
         "listening 题数 0",
+        "reading-matching 段数"
+      ]
+    },
+    {
+      "id": "cet6-2017-06",
+      "type": "cet6",
+      "year": 2017,
+      "month": 6,
+      "set": 0,
+      "title": "2017年6月大学英语六级真题(第1套)",
+      "file": "cet6/2017-06.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked wordBank",
         "reading-matching 段数"
       ]
     },
@@ -1050,6 +1371,31 @@
       "issues": [
         "listening 题数 0",
         "reading-matching 段数"
+      ]
+    },
+    {
+      "id": "cet6-2016-12",
+      "type": "cet6",
+      "year": 2016,
+      "month": 12,
+      "set": 0,
+      "title": "2016年12月大学英语六级真题(第1套)",
+      "file": "cet6/2016-12.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "bad",
+        "reading-mcq": "bad",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked wordBank",
+        "reading-matching 段数",
+        "reading-mcq 题数 5"
       ]
     },
     {
@@ -1128,18 +1474,22 @@
       "set": 0,
       "title": "2016年6月大学英语六级真题(第1套)",
       "file": "cet6/2016-06.json",
-      "completeness": 0.83,
-      "label": "near-complete",
+      "completeness": 0.17,
+      "label": "paper-only",
       "sectionStatus": {
-        "writing": "ok",
-        "listening": "ok",
+        "writing": "missing",
+        "listening": "bad",
         "reading-banked": "ok",
         "reading-matching": "bad",
-        "reading-mcq": "ok",
-        "translation": "ok"
+        "reading-mcq": "bad",
+        "translation": "missing"
       },
       "issues": [
-        "reading-matching 段数"
+        "writing 缺",
+        "listening 题数 0",
+        "reading-matching 段数",
+        "reading-mcq 题数 3",
+        "translation 缺"
       ]
     },
     {
@@ -1185,6 +1535,29 @@
       "issues": [
         "listening 题数 0",
         "reading-matching 段数"
+      ]
+    },
+    {
+      "id": "cet6-2016",
+      "type": "cet6",
+      "year": 2016,
+      "month": 0,
+      "set": 0,
+      "title": "2016年0月大学英语六级真题(第1套)",
+      "file": "cet6/2016.json",
+      "completeness": 0.67,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "bad",
+        "reading-matching": "ok",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked wordBank"
       ]
     },
     {
@@ -1256,6 +1629,725 @@
       "issues": [
         "reading-matching 题数 0",
         "reading-matching 段数"
+      ]
+    },
+    {
+      "id": "cet6-2015-06-1",
+      "type": "cet6",
+      "year": 2015,
+      "month": 6,
+      "set": 1,
+      "title": "2015年6月大学英语六级真题(第1套)",
+      "file": "cet6/2015-06-1.json",
+      "completeness": 0.67,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "ok",
+        "reading-banked": "missing",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "reading-banked 缺",
+        "reading-matching 段数"
+      ]
+    },
+    {
+      "id": "cet6-2015-06-2",
+      "type": "cet6",
+      "year": 2015,
+      "month": 6,
+      "set": 2,
+      "title": "2015年6月大学英语六级真题(第2套)",
+      "file": "cet6/2015-06-2.json",
+      "completeness": 0.67,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "ok",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 22",
+        "reading-matching 段数"
+      ]
+    },
+    {
+      "id": "cet6-2015-06-3",
+      "type": "cet6",
+      "year": 2015,
+      "month": 6,
+      "set": 3,
+      "title": "2015年6月大学英语六级真题(第3套)",
+      "file": "cet6/2015-06-3.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "ok",
+        "reading-matching": "bad",
+        "reading-mcq": "bad",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 24",
+        "reading-matching 段数",
+        "reading-mcq 题数 7"
+      ]
+    },
+    {
+      "id": "cet6-2014-12",
+      "type": "cet6",
+      "year": 2014,
+      "month": 12,
+      "set": 0,
+      "title": "2014年12月大学英语六级真题(第1套)",
+      "file": "cet6/2014-12.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "missing",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "listening 缺",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-2014-06",
+      "type": "cet6",
+      "year": 2014,
+      "month": 6,
+      "set": 0,
+      "title": "2014年6月大学英语六级真题(第1套)",
+      "file": "cet6/2014-06.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "missing",
+        "reading-banked": "bad",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 缺",
+        "reading-banked wordBank",
+        "reading-matching 题数 0"
+      ]
+    },
+    {
+      "id": "cet6-2013-12",
+      "type": "cet6",
+      "year": 2013,
+      "month": 12,
+      "set": 0,
+      "title": "2013年12月大学英语六级真题(第1套)",
+      "file": "cet6/2013-12.json",
+      "completeness": 0.5,
+      "label": "partial",
+      "sectionStatus": {
+        "writing": "missing",
+        "listening": "missing",
+        "reading-banked": "ok",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "writing 缺",
+        "listening 缺",
+        "reading-matching 题数 0",
+        "reading-matching 段数"
+      ]
+    },
+    {
+      "id": "cet6-2013-12-1",
+      "type": "cet6",
+      "year": 2013,
+      "month": 12,
+      "set": 1,
+      "title": "2013年12月大学英语六级真题(第1套)",
+      "file": "cet6/2013-12-1.json",
+      "completeness": 0.0,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "bad",
+        "listening": "missing",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "writing prompt 短",
+        "listening 缺",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-2013-12-2",
+      "type": "cet6",
+      "year": 2013,
+      "month": 12,
+      "set": 2,
+      "title": "2013年12月大学英语六级真题(第2套)",
+      "file": "cet6/2013-12-2.json",
+      "completeness": 0.0,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "bad",
+        "listening": "missing",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "writing prompt 短",
+        "listening 缺",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-2013-12-3",
+      "type": "cet6",
+      "year": 2013,
+      "month": 12,
+      "set": 3,
+      "title": "2013年12月大学英语六级真题(第3套)",
+      "file": "cet6/2013-12-3.json",
+      "completeness": 0.0,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "bad",
+        "listening": "missing",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "writing prompt 短",
+        "listening 缺",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-2013-06",
+      "type": "cet6",
+      "year": 2013,
+      "month": 6,
+      "set": 0,
+      "title": "2013年6月大学英语六级真题(第1套)",
+      "file": "cet6/2013-06.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "missing",
+        "listening": "missing",
+        "reading-banked": "bad",
+        "reading-matching": "bad",
+        "reading-mcq": "ok",
+        "translation": "ok"
+      },
+      "issues": [
+        "writing 缺",
+        "listening 缺",
+        "reading-banked wordBank",
+        "reading-matching 题数 0",
+        "reading-matching 段数"
+      ]
+    },
+    {
+      "id": "cet6-2013-06-1",
+      "type": "cet6",
+      "year": 2013,
+      "month": 6,
+      "set": 1,
+      "title": "2013年6月大学英语六级真题(第1套)",
+      "file": "cet6/2013-06-1.json",
+      "completeness": 0.0,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "bad",
+        "listening": "missing",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "writing prompt 短",
+        "listening 缺",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-2013-06-2",
+      "type": "cet6",
+      "year": 2013,
+      "month": 6,
+      "set": 2,
+      "title": "2013年6月大学英语六级真题(第2套)",
+      "file": "cet6/2013-06-2.json",
+      "completeness": 0.0,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "bad",
+        "listening": "missing",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "writing prompt 短",
+        "listening 缺",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-2013-06-3",
+      "type": "cet6",
+      "year": 2013,
+      "month": 6,
+      "set": 3,
+      "title": "2013年6月大学英语六级真题(第3套)",
+      "file": "cet6/2013-06-3.json",
+      "completeness": 0.0,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "bad",
+        "listening": "missing",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "writing prompt 短",
+        "listening 缺",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-2012-12",
+      "type": "cet6",
+      "year": 2012,
+      "month": 12,
+      "set": 0,
+      "title": "2012年12月大学英语六级真题(第1套)",
+      "file": "cet6/2012-12.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "listening 题数 15",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-2012-06",
+      "type": "cet6",
+      "year": 2012,
+      "month": 6,
+      "set": 0,
+      "title": "2012年6月大学英语六级真题(第1套)",
+      "file": "cet6/2012-06.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺"
+      ]
+    },
+    {
+      "id": "cet6-2012",
+      "type": "cet6",
+      "year": 2012,
+      "month": 0,
+      "set": 0,
+      "title": "2012年0月大学英语六级真题(第1套)",
+      "file": "cet6/2012.json",
+      "completeness": 0.0,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "missing",
+        "listening": "missing",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "writing 缺",
+        "listening 缺",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-2011-12",
+      "type": "cet6",
+      "year": 2011,
+      "month": 12,
+      "set": 0,
+      "title": "2011年12月大学英语六级真题(第1套)",
+      "file": "cet6/2011-12.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "missing",
+        "listening": "missing",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "ok"
+      },
+      "issues": [
+        "writing 缺",
+        "listening 缺",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺"
+      ]
+    },
+    {
+      "id": "cet6-2011-06",
+      "type": "cet6",
+      "year": 2011,
+      "month": 6,
+      "set": 0,
+      "title": "2011年6月大学英语六级真题(第1套)",
+      "file": "cet6/2011-06.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 15",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺"
+      ]
+    },
+    {
+      "id": "cet6-2010-12",
+      "type": "cet6",
+      "year": 2010,
+      "month": 12,
+      "set": 0,
+      "title": "2010年12月大学英语六级真题(第1套)",
+      "file": "cet6/2010-12.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "bad",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "ok"
+      },
+      "issues": [
+        "writing prompt 短",
+        "listening 题数 0",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺"
+      ]
+    },
+    {
+      "id": "cet6-2010-06",
+      "type": "cet6",
+      "year": 2010,
+      "month": 6,
+      "set": 0,
+      "title": "2010年6月大学英语六级真题(第1套)",
+      "file": "cet6/2010-06.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 2",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺"
+      ]
+    },
+    {
+      "id": "cet6-2009-12",
+      "type": "cet6",
+      "year": 2009,
+      "month": 12,
+      "set": 0,
+      "title": "2009年12月大学英语六级真题(第1套)",
+      "file": "cet6/2009-12.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 15",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺"
+      ]
+    },
+    {
+      "id": "cet6-2009-06",
+      "type": "cet6",
+      "year": 2009,
+      "month": 6,
+      "set": 0,
+      "title": "2009年6月大学英语六级真题(第1套)",
+      "file": "cet6/2009-06.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺"
+      ]
+    },
+    {
+      "id": "cet6-2008-12",
+      "type": "cet6",
+      "year": 2008,
+      "month": 12,
+      "set": 0,
+      "title": "2008年12月大学英语六级真题(第1套)",
+      "file": "cet6/2008-12.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 0",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺"
+      ]
+    },
+    {
+      "id": "cet6-2008-06",
+      "type": "cet6",
+      "year": 2008,
+      "month": 6,
+      "set": 0,
+      "title": "2008年6月大学英语六级真题(第1套)",
+      "file": "cet6/2008-06.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "listening 题数 15",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-2007-12",
+      "type": "cet6",
+      "year": 2007,
+      "month": 12,
+      "set": 0,
+      "title": "2007年12月大学英语六级真题(第1套)",
+      "file": "cet6/2007-12.json",
+      "completeness": 0.0,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "bad",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "writing prompt 短",
+        "listening 题数 0",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-2007-06",
+      "type": "cet6",
+      "year": 2007,
+      "month": 6,
+      "set": 0,
+      "title": "2007年6月大学英语六级真题(第1套)",
+      "file": "cet6/2007-06.json",
+      "completeness": 0.17,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "listening 题数 15",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-2000",
+      "type": "cet6",
+      "year": 2000,
+      "month": 0,
+      "set": 0,
+      "title": "2000年0月大学英语六级真题(第1套)",
+      "file": "cet6/2000.json",
+      "completeness": 0.0,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "missing",
+        "listening": "missing",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "missing"
+      },
+      "issues": [
+        "writing 缺",
+        "listening 缺",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺",
+        "translation 缺"
+      ]
+    },
+    {
+      "id": "cet6-unknown",
+      "type": "cet6",
+      "year": 0,
+      "month": 0,
+      "set": 0,
+      "title": "0年0月大学英语六级真题(第1套)",
+      "file": "cet6/unknown.json",
+      "completeness": 0.33,
+      "label": "paper-only",
+      "sectionStatus": {
+        "writing": "ok",
+        "listening": "bad",
+        "reading-banked": "missing",
+        "reading-matching": "missing",
+        "reading-mcq": "missing",
+        "translation": "ok"
+      },
+      "issues": [
+        "listening 题数 23",
+        "reading-banked 缺",
+        "reading-matching 缺",
+        "reading-mcq 缺"
       ]
     },
     {
@@ -1902,10 +2994,10 @@
     }
   ],
   "summary": {
-    "total": 79,
+    "total": 123,
     "complete": 6,
-    "near": 15,
-    "partial": 24,
-    "paperOnly": 34
+    "near": 17,
+    "partial": 42,
+    "paperOnly": 58
   }
 }

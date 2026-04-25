@@ -26,7 +26,7 @@
                 "C": "Besides",
                 "D": "Without"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -39,7 +39,7 @@
                 "C": "improving",
                 "D": "tracing"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -52,7 +52,7 @@
                 "C": "guidance",
                 "D": "reference"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -65,7 +65,7 @@
                 "C": "successively",
                 "D": "eventually"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -78,7 +78,7 @@
                 "C": "settled down",
                 "D": "went by"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -91,7 +91,7 @@
                 "C": "benefits",
                 "D": "sources"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -104,7 +104,7 @@
                 "C": "flexible",
                 "D": "stable"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -117,7 +117,7 @@
                 "C": "insist on",
                 "D": "act as"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -130,7 +130,7 @@
                 "C": "Thanks to",
                 "D": "Rather than"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -143,7 +143,7 @@
                 "C": "represented",
                 "D": "occupied"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -156,7 +156,7 @@
                 "C": "require",
                 "D": "direct"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -169,7 +169,7 @@
                 "C": "clear",
                 "D": "change"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -182,7 +182,7 @@
                 "C": "relying on",
                 "D": "pointing at"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -195,7 +195,7 @@
                 "C": "Unless",
                 "D": "Although"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -208,7 +208,7 @@
                 "C": "principles",
                 "D": "reasons"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -221,7 +221,7 @@
                 "C": "produces",
                 "D": "mixes"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -234,7 +234,7 @@
                 "C": "protect",
                 "D": "complement"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -247,7 +247,7 @@
                 "C": "For example",
                 "D": "Above all"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -260,7 +260,7 @@
                 "C": "secure",
                 "D": "include"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -273,7 +273,7 @@
                 "C": "impressive",
                 "D": "delicate"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             }
           ]
@@ -300,7 +300,7 @@
                 "C": "letting them grow in value",
                 "D": "hiding them from the locals"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -313,7 +313,7 @@
                 "C": "contrast the attitudes of different civilisations towards nails",
                 "D": "show the preciousness of nail-making technology at that time"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -326,7 +326,7 @@
                 "C": "Fiercer market competition.",
                 "D": "Reduced cost of raw materials."
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -339,7 +339,7 @@
                 "C": "are less studied than other everyday products",
                 "D": "are one of the world's most significant inventions"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -352,7 +352,7 @@
                 "C": "Technology defines people's understanding of the world.",
                 "D": "Sophisticated technologies develop from small inventions. 2024-5"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             }
           ]
@@ -371,7 +371,7 @@
                 "C": "teaching parenting skills to older children",
                 "D": "carrying infants around by their parents"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -384,7 +384,7 @@
                 "C": "the conventional parenting style in western culture",
                 "D": "the differences between western and African ways of living"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -397,7 +397,7 @@
                 "C": "results in the child-centred family",
                 "D": "departs from the course of evolution"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -410,7 +410,7 @@
                 "C": "They ought to improve their carer-to-child ratio.",
                 "D": "They should try to prevent parental depression."
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -423,7 +423,7 @@
                 "C": "Mixed-age playgroup, a better choice for lonely children",
                 "D": "Tracing the history of parenting: from Africa to Europe 2024-7"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             }
           ]
@@ -442,7 +442,7 @@
                 "C": "He attracts admiration from other illustrators.",
                 "D": "He specializes in classical painting digitalization."
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -455,7 +455,7 @@
                 "C": "make unauthorized use of online images",
                 "D": "collect user information without consent"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -468,7 +468,7 @@
                 "C": "AI-generated work bearing his name",
                 "D": "heated disputes regarding his copyright"
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -481,7 +481,7 @@
                 "C": "strengthen their relationships with AI users",
                 "D": "adopt a different strategy for AI model training"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -494,7 +494,7 @@
                 "C": "Privacy issues in the application of AI.",
                 "D": "Opposing views on AI development. 2024-9"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             }
           ]
@@ -513,7 +513,7 @@
                 "C": "a place with commercial potential",
                 "D": "a headache for nearby communities"
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -526,7 +526,7 @@
                 "C": "will end conflicts among local residents",
                 "D": "may face opposition from mining operators"
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -539,7 +539,7 @@
                 "C": "Relieved.",
                 "D": "Encouraged."
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -552,7 +552,7 @@
                 "C": "It has set a fine example of respecting state authorities.",
                 "D": "It has ensured the coordination of protection efforts."
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -565,7 +565,7 @@
                 "C": "recognize the need to expand wildlife refuges",
                 "D": "improve the wellbeing of endangered species 2024-11"
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             }
           ]
@@ -612,35 +612,35 @@
           "id": "q41",
           "number": 41,
           "stem": "Hannah",
-          "answer": null,
+          "answer": "B",
           "explanation": ""
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "Buck",
-          "answer": null,
+          "answer": "F",
           "explanation": ""
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "Sara",
-          "answer": null,
+          "answer": "D",
           "explanation": ""
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "Victor",
-          "answer": null,
+          "answer": "C",
           "explanation": ""
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "Julia",
-          "answer": null,
+          "answer": "G",
           "explanation": ""
         }
       ]

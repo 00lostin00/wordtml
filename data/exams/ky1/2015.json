@@ -26,7 +26,7 @@
                 "C": "how",
                 "D": ""
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -39,7 +39,7 @@
                 "C": "withdrawn",
                 "D": ""
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -52,7 +52,7 @@
                 "C": "on",
                 "D": ""
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -65,7 +65,7 @@
                 "C": "separated 5. [AJ tests [BJ objects [CJ samples",
                 "D": ""
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -78,7 +78,7 @@
                 "C": "unreliable",
                 "D": ""
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -91,7 +91,7 @@
                 "C": "seek",
                 "D": ""
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -104,7 +104,7 @@
                 "C": "favor 9. [AJ again [BJ also [CJ instead",
                 "D": ""
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -117,7 +117,7 @@
                 "C": "Likewise 11. [AJ about [BJ to [CJ from",
                 "D": ""
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -130,7 +130,7 @@
                 "C": "confuse",
                 "D": ""
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -143,7 +143,7 @@
                 "C": "missions 15. [AJ later [BJ slower",
                 "D": ""
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -156,7 +156,7 @@
                 "C": "faster 16. [ A J forecast",
                 "D": ""
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -169,7 +169,7 @@
                 "C": "controllable",
                 "D": ""
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -182,7 +182,7 @@
                 "C": "ethnic",
                 "D": ""
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -195,7 +195,7 @@
                 "C": "prove",
                 "D": ""
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -208,7 +208,7 @@
                 "C": "",
                 "D": ""
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             },
             {
@@ -221,7 +221,7 @@
                 "C": "",
                 "D": ""
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -234,7 +234,7 @@
                 "C": "",
                 "D": ""
               },
-              "answer": null,
+              "answer": "B",
               "explanation": ""
             },
             {
@@ -247,7 +247,7 @@
                 "C": "",
                 "D": ""
               },
-              "answer": null,
+              "answer": "A",
               "explanation": ""
             },
             {
@@ -260,7 +260,7 @@
                 "C": "",
                 "D": ""
               },
-              "answer": null,
+              "answer": "C",
               "explanation": ""
             },
             {
@@ -273,7 +273,7 @@
                 "C": "",
                 "D": ""
               },
-              "answer": null,
+              "answer": "D",
               "explanation": ""
             }
           ]

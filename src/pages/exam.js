@@ -6,6 +6,7 @@
 import { el } from "../ui/components.js";
 import { store } from "../core/store.js";
 import { loadExam } from "../core/exam-loader.js";
+import { examAttemptKey, trySaveExamAttempt } from "../core/local-db.js";
 
 export async function render(ctx) {
   const { host, router, query } = ctx;
@@ -113,7 +114,7 @@ function sectionTabLabel(s) {
 // Section 渲染器
 // =====================================================
 
-function renderSection(s, answers) {
+export function renderSection(s, answers) {
   switch (s.type) {
     case "writing":         return renderWriting(s, answers);
     case "listening":       return renderListening(s, answers);
@@ -126,7 +127,7 @@ function renderSection(s, answers) {
   }
 }
 
-function renderWriting(s, answers) {
+export function renderWriting(s, answers) {
   const answerKey = s.id || "writing";
   const root = el("div");
   root.appendChild(el("h3", { style: "margin-top:0" }, `✍️ ${s.title || "Writing"}`));
@@ -156,7 +157,7 @@ function renderWriting(s, answers) {
   return root;
 }
 
-function renderListening(s, answers) {
+export function renderListening(s, answers) {
   const root = el("div");
   root.appendChild(el("h3", { style: "margin-top:0" }, "🎧 Part II · Listening Comprehension"));
   root.appendChild(el("div", { class: "feedback warn", style: "text-align:left" },
@@ -169,7 +170,7 @@ function renderListening(s, answers) {
   return root;
 }
 
-function renderBankedCloze(s, answers) {
+export function renderBankedCloze(s, answers) {
   const root = el("div");
   root.appendChild(el("h3", { style: "margin-top:0" }, "📝 Reading Section A · 选词填空"));
 
@@ -186,24 +187,75 @@ function renderBankedCloze(s, answers) {
   }
   root.appendChild(wbBox);
 
-  // passage
-  root.appendChild(el("div", {
-    style: "padding:14px; background:var(--bg); border-radius:8px; line-height:1.85; white-space:pre-wrap; font-size:14px; max-height:300px; overflow-y:auto",
-  }, s.passage || ""));
+  // 收集题号 → blank node 映射,以便选项变化时刷新 passage 里的 box 内容
+  const questions = s.questions || [];
+  const numbers = questions.map((q) => q.number);
+  const blankNodes = new Map();   // qnum → DOM 节点(span)
+  const updateBlank = (qnum) => {
+    const node = blankNodes.get(qnum);
+    if (!node) return;
+    const sel = answers[qnum];
+    node.textContent = sel ? `${qnum} · ${wb[sel] || sel}` : `${qnum} · ___`;
+    node.style.background = sel ? "rgba(106,167,255,0.18)" : "rgba(242,185,74,0.18)";
+    node.style.color = sel ? "var(--accent)" : "var(--warn)";
+  };
 
-  // 26-35 题填空选择
-  root.appendChild(el("div", { class: "section-title", style: "margin-top:16px" }, "你的选择"));
+  // passage 里把 26-35 渲染成醒目方框(passage 缺数字也兜底:show 选项区)
+  const passage = s.passage || "";
+  const passageBox = el("div", {
+    style: "padding:14px; background:var(--bg); border-radius:8px; line-height:2; font-size:14px; max-height:340px; overflow-y:auto",
+  });
+  // 拆分:用题号正则切,把数字替换成 span
+  const numSet = new Set(numbers);
+  const parts = passage.split(/(\b\d{1,2}\b)/);
+  for (const part of parts) {
+    const n = Number(part);
+    if (numSet.has(n)) {
+      const blank = el("span", {
+        style: [
+          "display:inline-block",
+          "padding:2px 10px",
+          "margin:0 4px",
+          "border:1px dashed var(--warn)",
+          "border-radius:6px",
+          "font-weight:600",
+          "min-width:80px",
+          "text-align:center",
+          "vertical-align:middle",
+        ].join(";"),
+      }, "");
+      blankNodes.set(n, blank);
+      passageBox.appendChild(blank);
+      updateBlank(n);
+    } else {
+      passageBox.appendChild(document.createTextNode(part));
+    }
+  }
+  root.appendChild(passageBox);
+
+  // 缺失题号提示
+  const missing = numbers.filter((n) => !blankNodes.has(n));
+  if (missing.length) {
+    root.appendChild(el("div", { class: "feedback warn", style: "font-size:12px; margin-top:8px" },
+      `⚠️ 原文里这些题号没显示出来 (PDF 抽取漏了): ${missing.join(", ")} — 直接看下方选择区作答即可`));
+  }
+
+  // 选择区(永远 26-35 完整列出)
+  root.appendChild(el("div", { class: "section-title", style: "margin-top:16px" }, "你的选择 (26-35)"));
   const grid = el("div", { class: "grid cols-2", style: "gap:8px" });
-  for (const q of s.questions || []) {
-    const sel = el("select", { style: "width:100%" }, [
+  for (const q of questions) {
+    const sel = el("select", { style: "flex:1" }, [
       el("option", { value: "" }, "—— 选择 ——"),
       ...Object.entries(wb).sort().map(([k, v]) =>
         el("option", { value: k }, `${k}) ${v}`)),
     ]);
     sel.value = answers[q.number] || "";
-    sel.addEventListener("change", () => answers[q.number] = sel.value);
+    sel.addEventListener("change", () => {
+      answers[q.number] = sel.value;
+      updateBlank(q.number);
+    });
     grid.appendChild(el("div", { class: "row", style: "gap:8px" }, [
-      el("strong", { style: "min-width:36px" }, String(q.number) + "."),
+      el("strong", { style: "min-width:36px; color:var(--accent)" }, String(q.number) + "."),
       sel,
     ]));
   }
@@ -211,7 +263,7 @@ function renderBankedCloze(s, answers) {
   return root;
 }
 
-function renderMatching(s, answers) {
+export function renderMatching(s, answers) {
   const root = el("div");
   root.appendChild(el("h3", { style: "margin-top:0" }, `🔍 ${s.title || "Reading Section B · 段落匹配"}`));
 
@@ -248,7 +300,7 @@ function renderMatching(s, answers) {
   return root;
 }
 
-function renderReadingMcq(s, answers) {
+export function renderReadingMcq(s, answers) {
   const root = el("div");
   root.appendChild(el("h3", { style: "margin-top:0" }, `📖 ${s.title || "Reading Section C · 仔细阅读"}`));
   for (const psg of s.passages || []) {
@@ -291,7 +343,7 @@ function renderMcqItem(q, answers, kind) {
   return wrap;
 }
 
-function renderTranslation(s, answers) {
+export function renderTranslation(s, answers) {
   const root = el("div");
   const toChinese = s.targetLanguage === "zh";
   root.appendChild(el("h3", { style: "margin-top:0" }, `🌏 ${s.title || "Translation"}`));
@@ -364,7 +416,11 @@ async function submit(host, exam, answers, router, startedAt) {
     totalScore,
     answerReady,
   };
-  await store.put("examAttempts", attempt);
+  const browserId = await store.put("examAttempts", attempt);
+  attempt.browserId = browserId;
+  attempt.mode = "exam";
+  attempt.localDbKey = examAttemptKey(attempt);
+  const localSaved = await trySaveExamAttempt(attempt);
 
   const feedback = answerReady
     ? el("div", { class: "feedback ok", style: "max-width:600px; margin:0 auto 16px" },
@@ -386,11 +442,140 @@ async function submit(host, exam, answers, router, startedAt) {
     feedback,
     el("div", { class: "feedback ok", style: "max-width:600px; margin:0 auto 16px" },
       `✓ 本次提交已记录 · ${formatDateTime(endedAt)}`),
+    localSaved
+      ? el("div", { class: "label", style: "margin-bottom:16px" }, "已同步到本地 SQLite 数据库。")
+      : el("div", { class: "label", style: "margin-bottom:16px" }, "本地 SQLite 暂不可用,已先保存在浏览器 IndexedDB。"),
     el("div", { class: "row", style: "justify-content:center; gap:8px" }, [
       el("button", { class: "ghost", onClick: () => router.go("/exams") }, "回真题列表"),
       el("button", { class: "primary", onClick: () => location.reload() }, "再做一遍"),
     ]),
   ]));
+
+  // 逐题对照(只在有答案库时显示)
+  if (answerReady) {
+    host.appendChild(renderReviewBoard(exam, answers));
+  }
+}
+
+// =====================================================
+// 提交后的逐题对照
+// =====================================================
+
+export function renderReviewBoard(exam, answers) {
+  const root = el("div", { class: "card", style: "margin-top:16px" });
+  root.appendChild(el("h3", { style: "margin-top:0" }, "📋 逐题查看"));
+  root.appendChild(el("div", { class: "label", style: "margin-bottom:12px" },
+    "✓ 答对  ✗ 答错  · 未作答  ☆ 暂无标准答案"));
+
+  for (const s of exam.sections || []) {
+    if (s.type === "writing" || s.type === "translation") {
+      root.appendChild(renderWritingReview(s, answers));
+      continue;
+    }
+    const allQ = s.questions || s.passages?.flatMap((p) => p.questions || []) || [];
+    if (!allQ.length) continue;
+    root.appendChild(renderSectionReview(s, allQ, answers));
+  }
+  return root;
+}
+
+function renderSectionReview(s, allQ, answers) {
+  const det = el("details", { style: "margin-top:8px; padding:10px 14px; background:var(--bg); border-radius:8px" });
+  // 算 section 内对错
+  let correct = 0, total = 0, scorable = 0;
+  for (const q of allQ) {
+    total += 1;
+    if (q.answer) {
+      scorable += 1;
+      if (answers[q.number] === q.answer) correct += 1;
+    }
+  }
+  const summary = scorable
+    ? `${sectionTabLabel(s)} · ${correct}/${scorable} 对`
+    : `${sectionTabLabel(s)} · 共 ${total} 题(暂无标准答案)`;
+  const sum = el("summary", { style: "cursor:pointer; font-weight:600; padding:4px 0" }, summary);
+  det.appendChild(sum);
+
+  const list = el("div", { style: "margin-top:8px" });
+  for (const q of allQ) {
+    list.appendChild(renderQuestionReview(q, answers));
+  }
+  det.appendChild(list);
+  return det;
+}
+
+function renderQuestionReview(q, answers) {
+  const userAns = answers[q.number] || "";
+  const correct = q.answer || "";
+  const noAnswer = !correct;
+  const noResponse = !userAns;
+  const isRight = !noAnswer && userAns === correct;
+
+  let mark, color;
+  if (noAnswer) { mark = "☆"; color = "var(--fg-faint)"; }
+  else if (noResponse) { mark = "·"; color = "var(--fg-dim)"; }
+  else if (isRight) { mark = "✓"; color = "var(--ok)"; }
+  else { mark = "✗"; color = "var(--err)"; }
+
+  const row = el("div", {
+    style: "display:flex; gap:10px; padding:8px 6px; border-bottom:1px solid var(--border); align-items:flex-start",
+  });
+  row.appendChild(el("div", {
+    style: `width:24px; flex:0 0 24px; font-weight:700; color:${color}; font-size:18px; line-height:1.2`,
+  }, mark));
+  row.appendChild(el("div", { style: "min-width:42px; color:var(--fg-dim)" }, String(q.number) + "."));
+
+  const body = el("div", { style: "flex:1; min-width:0" });
+  if (q.stem) {
+    body.appendChild(el("div", { style: "font-size:14px; margin-bottom:4px" }, q.stem));
+  }
+  // 答案对照
+  const answerLine = el("div", { class: "label", style: "margin-top:2px" });
+  if (noAnswer) {
+    answerLine.appendChild(el("span", {}, `你的: ${userAns || "—"} · 标准答案: 暂无`));
+  } else {
+    answerLine.appendChild(el("span", {}, `你的: `));
+    answerLine.appendChild(el("strong", {
+      style: `color:${noResponse ? "var(--fg-faint)" : (isRight ? "var(--ok)" : "var(--err)")}`,
+    }, userAns || "未答"));
+    answerLine.appendChild(el("span", {}, ` · 标准: `));
+    answerLine.appendChild(el("strong", { style: "color:var(--ok)" }, correct));
+  }
+  body.appendChild(answerLine);
+
+  // 解析(可折叠避免太长)
+  if (q.explanation) {
+    const exp = el("details", { style: "margin-top:6px" });
+    exp.appendChild(el("summary", { style: "cursor:pointer; color:var(--fg-dim); font-size:12px" }, "解析"));
+    exp.appendChild(el("div", {
+      style: "padding:8px 10px; background:var(--bg-card); border-left:2px solid var(--accent); margin-top:4px; font-size:13px; line-height:1.7; color:var(--fg-dim)",
+    }, q.explanation));
+    body.appendChild(exp);
+  }
+
+  row.appendChild(body);
+  return row;
+}
+
+function renderWritingReview(s, answers) {
+  const userText = answers[s.id || s.type] || "";
+  const ref = s.reference || "";
+  const det = el("details", { style: "margin-top:8px; padding:10px 14px; background:var(--bg); border-radius:8px" });
+  det.appendChild(el("summary", { style: "cursor:pointer; font-weight:600" },
+    `${sectionTabLabel(s)} · ${userText.length} 字符${ref ? "(有参考答案)" : "(无参考答案)"}`));
+  if (userText) {
+    det.appendChild(el("div", { class: "label", style: "margin-top:8px" }, "你的作答:"));
+    det.appendChild(el("div", {
+      style: "padding:10px; background:var(--bg-card); border-radius:6px; line-height:1.7; white-space:pre-wrap; margin-top:4px",
+    }, userText));
+  }
+  if (ref) {
+    det.appendChild(el("div", { class: "label", style: "margin-top:12px" }, "参考答案:"));
+    det.appendChild(el("div", {
+      style: "padding:10px; background:var(--bg-card); border-left:2px solid var(--accent); border-radius:6px; line-height:1.7; white-space:pre-wrap; margin-top:4px; font-size:13px",
+    }, ref));
+  }
+  return det;
 }
 
 function stat(label, value, sub) {

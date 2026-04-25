@@ -36,14 +36,28 @@ OUT_BASE = ROOT / "data" / "exams"
 # ============================================================
 
 PAGE_MARKER_RE = re.compile(r"^----- PAGE \d+ -----$", re.M)
-FOOTER_RE = re.compile(r"·20\d{2}年\d{1,2}月.*?(?:真题|六级|四级).*?·")
 PAGE_NUM_RE = re.compile(r"^\s*\d{1,3}\s*$", re.M)
+
+# 多种页眉/页脚污染模式(按需扩充):
+#   ·2023年12月六级真题(第一套)·         ← 老格式,带中点
+#   2024 年12 月英语六级真题第2 套         ← 新格式,空格分隔
+#   2024 年12 月英语六级真题第2 套  第7 页，共9 页
+#   六级 2023.12 | 第T              ← OCR 污染的页脚,T 实为"一"
+#   六级2023.12 ;第一套
+HEADER_PATTERNS = [
+    re.compile(r"·\s*20\d{2}\s*年\s*\d{1,2}\s*月.*?(?:真题|六级|四级).*?·"),
+    re.compile(r"^.*?20\d{2}\s*年\s*\d{1,2}\s*月.*?(?:真题|六级|四级).*?第\s*\d+\s*[套页].*$", re.M),
+    re.compile(r"^\s*第\s*\d+\s*页\s*[，,]\s*共\s*\d+\s*页.*$", re.M),
+    re.compile(r"^\s*(?:四级|六级)\s*20\d{2}[\.\s]\d{1,2}.*$", re.M),
+    re.compile(r"^\s*20\d{2}\s*年\s*\d{1,2}\s*月.*?(?:六级|四级).*$", re.M),
+]
 
 
 def clean_text(raw: str) -> str:
-    """去掉 page 标记 / 页脚 / 单独行的页码,统一空白。"""
+    """去掉 page 标记 / 页脚 / 页眉污染 / 单独行的页码,统一空白。"""
     t = PAGE_MARKER_RE.sub("\n", raw)
-    t = FOOTER_RE.sub("", t)
+    for pat in HEADER_PATTERNS:
+        t = pat.sub("", t)
     t = PAGE_NUM_RE.sub("", t)
     # 多空行折叠
     t = re.sub(r"\n{3,}", "\n\n", t)

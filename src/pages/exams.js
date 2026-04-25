@@ -5,6 +5,7 @@
 import { el } from "../ui/components.js";
 import { store } from "../core/store.js";
 import { getExamIndex, groupByYear, LABEL_INFO } from "../core/exam-loader.js";
+import { tryGetExamAttempts, trySyncExamAttempts } from "../core/local-db.js";
 
 export async function render(ctx) {
   const { host, router } = ctx;
@@ -24,7 +25,10 @@ export async function render(ctx) {
 
   const exams = idx.exams || [];
   const summary = idx.summary || {};
-  const attempts = await store.all("examAttempts");
+  const browserAttempts = await store.all("examAttempts");
+  trySyncExamAttempts(browserAttempts.map((attempt) => ({ ...attempt, mode: "exam" })));
+  const attempts = mergeAttempts(browserAttempts, await tryGetExamAttempts())
+    .filter((attempt) => (attempt.mode || "exam") === "exam");
   const latestByExam = latestAttemptMap(attempts);
 
   // 顶部统计
@@ -35,6 +39,7 @@ export async function render(ctx) {
       el("span", { class: "pill" }, `近完整 ${summary.near || 0}`),
       el("span", { class: "pill warn" }, `部分 ${summary.partial || 0}`),
       el("span", { class: "pill" }, `残缺 ${summary.paperOnly || 0}`),
+      el("button", { class: "ghost", onClick: () => router.go("/practice") }, "随机刷题"),
     ]),
   ]));
 
@@ -191,6 +196,17 @@ function latestAttemptMap(attempts) {
   return map;
 }
 
+function mergeAttempts(browserRows, localRows) {
+  const map = new Map();
+  for (const row of [...(browserRows || []), ...(localRows || [])]) {
+    const key = row.localDbId
+      ? `local:${row.localDbId}`
+      : `${row.examId || ""}:${row.mode || "exam"}:${row.endedAt || ""}:${row.startedAt || ""}`;
+    map.set(key, row);
+  }
+  return [...map.values()];
+}
+
 function countByType(exams) {
   const out = {};
   for (const exam of exams) out[exam.type] = (out[exam.type] || 0) + 1;
@@ -209,13 +225,38 @@ function countAttemptsByType(attempts, exams) {
 
 function attemptRow(attempt, exams) {
   const exam = exams.find((item) => item.id === attempt.examId);
-  return el("div", { class: "row between exam-attempt-row" }, [
+  // 点击 → 详情页
+  const goDetail = (router) => {
+    const q = { id: attempt.examId };
+    if (attempt.localDbId) q.lid = attempt.localDbId;
+    else if (attempt.endedAt) q.t = attempt.endedAt;
+    return q;
+  };
+  // 计算分数显示
+  const scorable = attempt.scorableObjective ?? 0;
+  const correct = attempt.correctObjective ?? 0;
+  const scorePill = scorable > 0
+    ? el("span", { class: "pill ok" }, `✓ ${correct}/${scorable} · ${attempt.totalScore || 0}分`)
+    : el("span", { class: "pill" }, `${attempt.answeredObjective || 0}/${attempt.totalObjective || 0} 题`);
+  const row = el("div", {
+    class: "row between exam-attempt-row",
+    style: "cursor:pointer; padding:8px 4px; border-radius:6px; transition:background .12s",
+    onClick: () => {
+      const q = { id: attempt.examId };
+      if (attempt.localDbId) q.lid = attempt.localDbId;
+      else if (attempt.endedAt) q.t = attempt.endedAt;
+      location.hash = "#/attempt?" + new URLSearchParams(q).toString();
+    },
+  }, [
     el("div", {}, [
       el("div", { style: "font-weight:700" }, exam ? exam.title : attempt.examId),
       el("div", { class: "label" }, formatDateTime(attempt.endedAt)),
     ]),
-    el("span", { class: "pill" }, `${attempt.answeredObjective}/${attempt.totalObjective} 客观题`),
+    scorePill,
   ]);
+  row.addEventListener("mouseenter", () => row.style.background = "var(--bg)");
+  row.addEventListener("mouseleave", () => row.style.background = "");
+  return row;
 }
 
 function mini(label, value) {

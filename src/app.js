@@ -18,6 +18,9 @@ const routes = {
   "/stats":    (ctx) => page("stats", ctx),
   "/exams":    (ctx) => page("exams", ctx),
   "/exam":     (ctx) => page("exam", ctx),
+  "/attempt":  (ctx) => page("attempt", ctx),
+  "/practice": (ctx) => page("practice", ctx),
+  "/random":   (ctx) => page("random", ctx),
   "/settings": (ctx) => page("settings", ctx),
 };
 

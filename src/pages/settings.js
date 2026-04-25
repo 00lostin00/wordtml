@@ -1,6 +1,7 @@
 import { el } from "../ui/components.js";
 import { store } from "../core/store.js";
 import { getIndex } from "../core/wordlist.js";
+import { getLocalDbStatus } from "../core/local-db.js";
 
 export async function render(ctx) {
   const { host, router } = ctx;
@@ -9,6 +10,7 @@ export async function render(ctx) {
   const activeId = await store.getSetting("activeWordlist", "cet6");
   const dailyNew = await store.getSetting("dailyNew", 20);
   const dailyReviewCap = await store.getSetting("dailyReviewCap", 100);
+  const localDb = await loadLocalDbStatus();
 
   const wlSelect = el("select", {}, index.wordlists.map((w) =>
     el("option", { value: w.id }, `${w.name}(${w.total} 词)`)
@@ -41,7 +43,7 @@ export async function render(ctx) {
   const exportBtn = el("button", {}, "导出进度");
   const importInput = el("input", { type: "file", accept: "application/json", style: "display:none" });
   const importBtn = el("button", {}, "导入进度");
-  const resetBtn = el("button", { class: "ghost" }, "清空所有本地数据");
+  const resetBtn = el("button", { class: "ghost" }, "清空浏览器数据");
   const dataHint = el("div", { class: "feedback", style: "margin-top:8px" });
 
   exportBtn.addEventListener("click", async () => {
@@ -70,7 +72,7 @@ export async function render(ctx) {
   });
 
   resetBtn.addEventListener("click", async () => {
-    if (!confirm("真的要清空所有本地数据?此操作不可撤销。")) return;
+    if (!confirm("真的要清空浏览器 IndexedDB 数据?SQLite 数据库不会被删除。")) return;
     for (const name of ["progress", "wrongbook", "settings", "stats", "sessions", "mapProgress", "economy", "rankHistory", "achievements", "examAttempts"]) {
       await store.clear(name);
     }
@@ -81,9 +83,24 @@ export async function render(ctx) {
 
   host.appendChild(el("div", { class: "card", style: "margin-top:16px" }, [
     el("h3", { style: "margin-top:0" }, "📦 数据管理"),
+    localDb.ok
+      ? el("div", { class: "feedback ok", style: "text-align:left; margin-bottom:12px" },
+          `SQLite 已启用: ${localDb.dbPath} · 做题记录 ${localDb.examAttempts} 条 · 抽题历史 ${localDb.practiceHistory} 条`)
+      : el("div", { class: "feedback warn", style: "text-align:left; margin-bottom:12px" },
+          `SQLite 暂不可用: ${localDb.error}`),
+    el("div", { class: "label", style: "margin-bottom:12px" },
+      "导出/导入按钮管理浏览器 IndexedDB。SQLite 数据库保存在项目根目录,清浏览器数据不会删除它。"),
     el("div", { class: "row", style: "gap:8px; flex-wrap:wrap" }, [exportBtn, importBtn, resetBtn, importInput]),
     dataHint,
   ]));
+}
+
+async function loadLocalDbStatus() {
+  try {
+    return await getLocalDbStatus();
+  } catch (e) {
+    return { ok: false, error: e.message };
+  }
 }
 
 function row(label, ctrl) {
