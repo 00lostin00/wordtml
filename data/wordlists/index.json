@@ -1,6 +1,13 @@
 {
   "wordlists": [
     {
+      "id": "kaoyan",
+      "name": "考研英语核心词汇",
+      "file": "kaoyan.json",
+      "total": 4698,
+      "description": "合并自 KaoYan_1 与 KaoYan_2，共 4698 词，含音标、多义释义、例句，按频率分 3 档。"
+    },
+    {
       "id": "sample-cet4",
       "name": "CET-4 示例词表",
       "file": "sample-cet4.json",
