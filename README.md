@@ -150,15 +150,3 @@ server {
 听力题目结构存在但无音频，不影响其他题型使用。
 
 ---
-
-## 不要提交到 git 的文件
-
-```
-*.env          # API Key 等敏感配置
-wordtml.db     # 本地数据库
-cet_eg/        # 原始音频和 PDF（体积大）
-KY_eg/
-data/exams/_raw/
-```
-
-以上均已写入 `.gitignore`。
