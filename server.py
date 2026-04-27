@@ -32,8 +32,9 @@ def _load_env():
 
 _load_env()
 
-PORT = int(sys.argv[1]) if len(sys.argv) > 1 else 8080
-DB_PATH = ROOT / "wordtml.db"
+PORT = int(os.environ.get("WORDTML_PORT") or (sys.argv[1] if len(sys.argv) > 1 else 8080))
+HOST = os.environ.get("WORDTML_HOST") or (sys.argv[2] if len(sys.argv) > 2 else "127.0.0.1")
+DB_PATH = Path(os.environ.get("WORDTML_DB_PATH") or (ROOT / "wordtml.db"))
 
 
 def db():
@@ -196,6 +197,13 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 json_response(self, {"ok": True, "items": [practice_from_row(row) for row in rows]})
                 return
 
+            if parsed.path == "/api/ai-chat/status":
+                json_response(self, {
+                    "ok": True,
+                    "enabled": bool(os.environ.get("DEEPSEEK_API_KEY", "")),
+                })
+                return
+
             json_response(self, {"ok": False, "error": "unknown endpoint"}, 404)
         except Exception as e:
             json_response(self, {"ok": False, "error": str(e)}, 500)
@@ -309,15 +317,18 @@ class ThreadingTCPServer(socketserver.ThreadingTCPServer):
 def main():
     with db():
         pass
-    with ThreadingTCPServer(("127.0.0.1", PORT), Handler) as httpd:
-        url = f"http://127.0.0.1:{PORT}/"
+    with ThreadingTCPServer((HOST, PORT), Handler) as httpd:
+        display_host = "127.0.0.1" if HOST in {"", "0.0.0.0", "::"} else HOST
+        url = f"http://{display_host}:{PORT}/"
         print(f"wordtml serving at {url}")
+        print(f"bind address: {HOST}:{PORT}")
         print(f"local database: {DB_PATH}")
         print("Ctrl+C to stop.")
-        try:
-            webbrowser.open(url)
-        except Exception:
-            pass
+        if os.environ.get("WORDTML_OPEN_BROWSER", "1") != "0" and display_host in {"127.0.0.1", "localhost"}:
+            try:
+                webbrowser.open(url)
+            except Exception:
+                pass
         try:
             httpd.serve_forever()
         except KeyboardInterrupt:

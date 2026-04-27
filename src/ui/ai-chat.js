@@ -100,6 +100,23 @@ async function sendMessage(userText, messagesEl, history) {
 }
 
 export function initAiChat() {
+  isChatAvailable().then((available) => {
+    if (available) mountAiChat();
+  });
+}
+
+async function isChatAvailable() {
+  try {
+    const res = await fetch("/api/ai-chat/status", { cache: "no-store" });
+    if (!res.ok) return false;
+    const data = await res.json();
+    return data.ok === true && data.enabled === true;
+  } catch {
+    return false;
+  }
+}
+
+function mountAiChat() {
   const { wrap, toggle } = buildSidebar();
   const messagesEl = document.getElementById("ai-messages");
   const inputEl    = document.getElementById("ai-input");

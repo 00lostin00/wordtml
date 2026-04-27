@@ -1,6 +1,6 @@
 # wordtml
 
-wordtml 是一个本地运行的英语学习网站。前端使用原生 ES Module，不需要 npm、打包器或前端框架；后端是一个轻量 Python 服务，用来托管静态页面，并提供本地 SQLite 接口保存做题记录。
+wordtml 是一个可本地运行、也可部署到自己网站上的英语学习网站。前端使用原生 ES Module，不需要 npm、打包器或前端框架；后端是一个轻量 Python 服务，用来托管静态页面，并提供本地 SQLite 接口保存做题记录。
 
 项目主要覆盖两类内容：
 
@@ -87,6 +87,98 @@ http://127.0.0.1:8080/
 
 ```text
 Ctrl+C
+```
+
+## 部署到自己的网站
+
+项目没有前端构建步骤，仓库里的 `index.html`、`src/`、`data/` 等文件就是浏览器需要的文件。部署时可以按需要选择静态部署或 Python 服务部署。
+
+### 方式一：静态部署
+
+适合部署到普通静态网站空间、Nginx、Apache、GitHub Pages、Cloudflare Pages 或自己的对象存储/CDN。静态部署不需要 Python，也不需要安装依赖。
+
+把仓库中这些内容上传到网站目录：
+
+```text
+index.html
+src/
+data/
+README.md
+```
+
+如果网站根目录就是这个项目，访问：
+
+```text
+https://你的域名/
+```
+
+如果部署在子目录，例如 `/wordtml/`，访问：
+
+```text
+https://你的域名/wordtml/
+```
+
+页面使用 hash 路由，所以刷新 `#/learn`、`#/exams`、`#/exam?id=...` 这类地址时，不需要额外的服务器路由配置。只要静态服务器能正常返回 `index.html`、`src/` 和 `data/` 下的文件，网站就能打开。
+
+静态部署可用内容：
+
+- 单词学习、复习、词表浏览、地图、段位、商店、统计等前端功能。
+- CET-6 和考研英语一真题浏览、整卷练习、随机刷题。
+- 浏览器 IndexedDB 本地保存的学习数据。
+
+静态部署不可用内容：
+
+- `server.py` 提供的 SQLite 记录接口。
+- `wordtml.db` 里的跨浏览器/跨设备本地记录。
+
+这些不可用项不会影响页面打开和做题，只是服务端保存能力不会启用。
+
+### 方式二：Python 服务部署
+
+适合部署在自己的服务器上，并且希望保留 `server.py` 提供的本地 SQLite 记录接口。
+
+服务器上进入项目目录后运行：
+
+```bash
+python server.py 9000 0.0.0.0
+```
+
+也可以用环境变量控制监听地址、端口和数据库位置：
+
+```bash
+WORDTML_HOST=0.0.0.0 WORDTML_PORT=9000 WORDTML_OPEN_BROWSER=0 python server.py
+```
+
+如果要把数据库放到固定目录：
+
+```bash
+WORDTML_DB_PATH=/var/lib/wordtml/wordtml.db WORDTML_HOST=0.0.0.0 WORDTML_PORT=9000 WORDTML_OPEN_BROWSER=0 python server.py
+```
+
+然后在 Nginx 里反向代理到本地端口，例如：
+
+```nginx
+server {
+    server_name example.com;
+
+    location / {
+        proxy_pass http://127.0.0.1:9000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+    }
+}
+```
+
+生产环境不要提交或公开这些本地文件：
+
+```text
+*.env
+wordtml.db
+wordtml.db-shm
+wordtml.db-wal
+tmp_*
+cet_eg/
+KY_eg/
 ```
 
 ## 页面入口
