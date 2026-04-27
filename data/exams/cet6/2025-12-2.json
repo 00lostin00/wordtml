@@ -1,0 +1,971 @@
+{
+  "id": "cet6-2025-12-2",
+  "type": "cet6",
+  "year": 2025,
+  "month": 12,
+  "set": 2,
+  "title": "2025年12月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “While striving for the Chinese Dream, young people enjoy more opportunities to realize their selAworth.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+      "prompt": "While striving for the Chinese Dream, young people enjoy more opportunities to realize their selAworth."
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "It is absurdly expensive.",
+            "B": "It is appropriately priced.",
+            "C": "It brings shame on the university.",
+            "D": "It caters to students and teachers."
+          },
+          "answer": "A",
+          "explanation": "到关于男士的什么信息？ A) 他在外交领域卓有建树。 B) 他担任本国驻维诺皮亚大使 0 他目前是一名电气工程师。 D) 他渴望获得媒体关注。 解， 男士作为节目嘉宾来到女士主持的节目， 对话开头女士介绍男士 “ 是我国资历最深、 最杰出的职业外交官之一 ”。 由此可知， A 项与对话内容相符",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "1. What do we learn about the man from the conversation? 从对话中我们可以了解到关于男士的什么信息？ A) 他在外交领域卓有建树。 B) 他担任本国驻维诺皮亚大使 0 他目前是一名电气工程师。 D) 他渴望获得媒体关注。 解， 男士作为节目嘉宾来到女士主持的节目， 对话开头女士介绍男士 “ 是我国资历最深、 最杰出的职业外交官之一 ”。 由此可知， A 项与对话内容相符",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "They never really appeal to her.",
+            "B": "They are never actually good value.",
+            "C": "They are within students5 budgets.",
+            "D": "They always come at a high speed."
+          },
+          "answer": "D",
+          "explanation": "对话中间， 女士问男士关于维诺皮亚共和国的最新动态。 男士表示自己知道的信息也有限， 但紧接着表示： “ 看起来维诺皮亚政府似乎正遭遇某种合法性危机， 临时过渡政府已成立， 直至国家元首人选达成共识 ” 由此可知， D 项与对话内容相符。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "the man say the go、 'ernment of Winopia is probablv undergoing? 男士表示维诺皮亚政府可能正在经历什么？ A) 政府人事改组。 B) 根本性改革。 0 某种政治转向。 D) 某种合法性危机解对话中间， 女士问男士关于维诺皮亚共和国的最新动态。 男士表示自己知道的信息也有限， 但紧接着表示： “ 看起来维诺皮亚政府似乎正遭遇某种合法性危机， 临时过渡政府已成立， 直至国家元首人选达成共识 ” 由此可知， D 项与对话内容相符。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "The food.",
+            "B": "The space.",
+            "C": "The speed.",
+            "D": "The environment."
+          },
+          "answer": "C",
+          "explanation": "4 对话中， 两人说到食堂的好处时， 男士明确表示： “ 其实， 这是食堂最好的地方之一， 就是速度快此可知， c 项为正确答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "3， What does the man say is one Of the best things about the canteen? 男士说食堂最好的一点是什么？ A) 食物。 B) 空间 0 速度。 D) 环境解 4 对话中， 两人说到食堂的好处时， 男士明确表示： “ 其实， 这是食堂最好的地方之一， 就是速度快此可知， c 项为正确答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "A complete refurnishing.",
+            "B": "A ruinous burning down.",
+            "C": "A substantial expansion.",
+            "D": "A massive renovation."
+          },
+          "answer": "A",
+          "explanation": "对话末尾， 女士向男士提问道： “ 您认为这份工作所需的关键技能是什么？ ” 接着男士就此问题展开了回答， 列举了一些他认为重要的技能， 比如勤奋工作和持续学习的能力等。 由此可知， A 项与对话内容相符。 Conversation TWO",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "4 ． What dO the speakers mainly discuss by the end Of the conversation? 对话结尾处， 说话双方主要讨论了什么内容？ A) 外交官所需的关键技能 B) 资深外交官的成长之路。 C) 外交语言与修辞艺术 D) 外交使节的贡献解对话末尾， 女士向男士提问道： “ 您认为这份工作所需的关键技能是什么？ ” 接着男士就此问题展开了回答， 列举了一些他认为重要的技能， 比如勤奋工作和持续学习的能力等。 由此可知， A 项与对话内容相符。 Conversation TWO",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "They have a poor work ethic.",
+            "B": "They don't get along with managers.",
+            "C": "They are struggling in the workplace.",
+            "D": "They aren't as varied as their predecessors."
+          },
+          "answer": "B",
+          "explanation": "对话开头， 男士就说道： “ 天不早了， 我们俩都已经面露疲态了。 我觉得今天就到这丿 L 吧， 明天早上再碰面。 ” 说明他建议两人工作到此为止的原因是他们都看起来很累了。 由此可知， B 项与对话内容相符",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "5 ． Why does the man suggest they cal} it a day? 男士为什么建议他们当天的工作就到此为止？ A) 他们已经完成了工作 B) 他们俩看起来都很累 C) 反正他们明天还可以再见面。 D) 他们俩都急于回家。 解对话开头， 男士就说道： “ 天不早了， 我们俩都已经面露疲态了。 我觉得今天就到这丿 L 吧， 明天早上再碰面。 ” 说明他建议两人工作到此为止的原因是他们都看起来很累了。 由此可知， B 项与对话内容相符",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Learning about the way they adhere to their own values.",
+            "B": "Recognizing how they try to strike a work-life balance.",
+            "C": "Knowing how they struggle to connect with managers.",
+            "D": "Understanding the way they seek career advancement."
+          },
+          "answer": "B",
+          "explanation": "肀对话中间， 男士表示这个项目拖了太久， 女士接着回应： “ 是啊， 整整两个月就围着同一份合同转， 确实有点难熬。 ” 由此可知， B 项与对话内容相符。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "6 ． What does the woman say is a little tough? 女士说什么事情有点难熬？ A) 董事会成员不够支持。 B) 为同一份合同投人了两个月时间 0 工作了两个月却毫无进展。 D) 男士长期专注于这个项目六级 2025 12 第一 3 解肀对话中间， 男士表示这个项目拖了太久， 女士接着回应： “ 是啊， 整整两个月就围着同一份合同转， 确实有点难熬。 ” 由此可知， B 项与对话内容相符。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "In terms of the number of hours spent.",
+            "B": "By the amount of work they perform.",
+            "C": "In terms of the work done in 8 hours.",
+            "D": "By the quality of the work they do."
+          },
+          "answer": "D",
+          "explanation": "4 对话中间两人都认为这个工作项目拖了太久， 很难熬， 接着女壬补充道： “ 不过我觉得运气好的话， 下周就能结束了。 ” 男士回应道： “ 哈！ 你恐怕是异想天开。 ” 随后补充了一些他的理由。 由此可知， D 项与对话内容相符 & What does the entire managerial hierarchy want to see according to the woman? 根据女士的说法， 整个管理层希望看到什么？ A) 减少合同修改次数 B) 获得董事会成员的更多支持。 0 项目早日落地实施。 D) 合同所有部分达成一致。 解， 对话最后， 男士对女士所说的工作会在两周内完成持消极态度， 女士则认为男士过于悲观， 并说道： 管理层都希望这个项目尽快落地， 董事会也几乎一致支持。 ” 由此可知， c 项与对话内容相符。 Section Passage One",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "e woman must be in thinking they'll finish by next week? 对于女士认为他们能在下周完成工作的想法， 男士说她肯定是怎样的？ A) 不专业的。 B) 鼓舞人心的。 0 杰出的。 D) 异想天开的。 解 4 对话中间两人都认为这个工作项目拖了太久， 很难熬， 接着女壬补充道： “ 不过我觉得运气好的话， 下周就能结束了。 ” 男士回应道： “ 哈！ 你恐怕是异想天开。 ” 随后补充了一些他的理由。 由此可知， D 项与对话内容相符 & What does the entire managerial hierarchy",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "Those whose culture facilitates their advancement.",
+            "B": "Those allowing them to do projects of their choice.",
+            "C": "Those whose values align with their own.",
+            "D": "Those refraining from discrediting their perspectives."
+          },
+          "answer": "C",
+          "explanation": "肀对话最后， 男士明确说道： “ 他们必须感受到有必要留在与自己的价值观一致的公主作。 ” 由此可知， c 项为正确答案。 其他三项中的文化、 自选项目和贬低观点对话中男士均未提及， 故全部排除 Secti01& Passage One",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "8 ． What companies does the man think would appeal to young workers? 男士认为什么样的公司会吸引年轻员工？ A) 那些企业文化促进他们晋升的公司。 B) 那些允许他们做自选项目的公司。 0 那些价值观与他们一致的公司。 D) 那些不贬低他们观点的公司。 解肀对话最后， 男士明确说道： “ 他们必须感受到有必要留在与自己的价值观一致的公主作。 ” 由此可知， c 项为正确答案。 其他三项中的文化、 自选项目和贬低观点对话中男士均未提及， 故全部排除 Secti01& Passage One",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "They may unconsciously help customers choose greener dishes.",
+            "B": "They may unintentionally encourage customers to eat meat.",
+            "C": "They raise customers' environmental awareness.",
+            "D": "They enable customers to eat in a healthy way."
+          },
+          "answer": "D",
+          "explanation": "决办法时。 B) 当两名员工分别听各自经理的命令时。 0 当两个人明显发生行为冲突时。 D) 当两个人对同一件事的描述不同时。 解文并买明确提豇当两个人对向过件事 ． 的描迷不一致时 《你彳良难知道该和俗谁选项 D 兜对这句话的向义转述， 故为正确答案。 其他三项均不是题干所问， 故全部排除",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "it be hard to know whom to believe? 什么时候彳艮难知道该相信谁？ A) 当两名员工针对他们的争执提出相反的解决办法时。 B) 当两名员工分别听各自经理的命令时。 0 当两个人明显发生行为冲突时。 D) 当两个人对同一件事的描述不同时。 解文并买明确提豇当两个人对向过件事 ． 的描迷不一致时 《你彳良难知道该和俗谁选项 D 兜对这句话的向义转述， 故为正确答案。 其他三项均不是题干所问， 故全部排除",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "By inviting them to taste different kinds of food.",
+            "B": "By observing the eating behaviour of strict vegetarians.",
+            "C": "By comparing participants eating vegetarian food frequently with those doing so rarely.",
+            "D": "By requiring participants to choose a meal as if they were feasting at a family gathering."
+          },
+          "answer": "A",
+          "explanation": "决的。 B) 它是如何发生的。 0 它是关于什么的 D) 它是什么时候被解决的。 解短文前半部分提到了作为例子的那场争执， 说话者在讲述具体的例子之前总结说： 我甚至都不记得那场争执的具体内容了， 但我却清楚地记得它的解决方式。 选项 A 是对这句话的总结概括， 故为正确选项。 选项 B 和 c 与短文中的 no longer even recall what the dispute was about 相矛盾， 故排除。 D 项短文未提及， 也排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "es the speaker definitely recall about the dispute mentioned as an example？ 关于作为例子提到的那场争执， 说话者确切记得什么？ 4 六级 2025 ． 12 第一 A) 它是如何被解决的。 B) 它是如何发生的。 0 它是关于什么的 D) 它是什么时候被解决的。 解短文前半部分提到了作为例子的那场争执， 说话者在讲述具体的例子之前总结说： 我甚至都不记得那场争执的具体内容了， 但我却清楚地记得它的解决方式。 选项 A 是对这句话的总结概括， 故为正确选项。 选项 B 和 c 与短文中的 no longer even r",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "They are less likely to choose a vegetarian dish.",
+            "B": "They find vegetarian dishes become more appealing.",
+            "C": "They tend to consume larger portions of unhealthy food.",
+            "D": "They are less likely to choose dishes recommended by chefs."
+          },
+          "answer": "C",
+          "explanation": "短文结尾部分提到， 说话者和另一位经理往最好的方面看待产生冲突的两人， 然后向前看， 故 C 为正确选项。 选项 B 中的 trled t0 ascertain the actual facts 与短文中的 might never ascertain the actual facts 相反， 故排除。 选项 A 和选项 D 短文未提及， 故排除。 Passage TWO",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "干预， 以免争执升级。 B) 他们试图查明事情的真相 0 他们往最好的方面看待两人， 然后向前看。 D) 他们劝说两人将冲突搁置在一边。 解短文结尾部分提到， 说话者和另一位经理往最好的方面看待产生冲突的两人， 然后向前看， 故 C 为正确选项。 选项 B 中的 trled t0 ascertain the actual facts 与短文中的 might never ascertain the actual facts 相反， 故排除。 选项 A 和选项 D 短文未提及， 故排除。 Passage TWO",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "They have found a solution to the global problem of air pollution.",
+            "B": "They have managed to freeze polluting particles to around -18℃.",
+            "C": "They have been seeking a way to prevent pollutants from penetrating indoors.",
+            "D": "They have been cooperating closely on developing a new type of air-conditioner."
+          },
+          "answer": "A",
+          "explanation": "短文开头提到， 对一些美国人来说， 外出就餐是一种难得的享受， 他们会提前规划和做预算。 但对另一些人而言， 这只是日常生活中司空见惯的事情。 而随着喜欢烹饪的美国人数量不断减少， 后一类人正在成为大多数。 选项 A 是对短文内容的合理总结， 故为正确选项。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "12 ． What dO an increasing number Of Americans dO according to the passage? 根据短文内容， 越来越多的美国人做什么？ A) 每天外出就餐。 B) 合理做预算。 C) 享受烹饪。 D) 去食品杂货店购物。 解短文开头提到， 对一些美国人来说， 外出就餐是一种难得的享受， 他们会提前规划和做预算。 但对另一些人而言， 这只是日常生活中司空",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "They can be costly and inefficient.",
+            "B": "They are constantly being perfected.",
+            "C": "They are by-products of health research.",
+            "D": "They can save over 40,000 lives each year."
+          },
+          "answer": "B",
+          "explanation": "爻前平部分提到璞通 · 笋迸行的一项调香、， 列举完一系列数据后 《尹总结谠： 烹饪和缝纫奥似， 故 B 项正确。 其他三项短文均未提及， 也都不是尹的观点， 故全部排除六级 2025 」 2 第一 5 ] 生 What will Americans be able to do by making their own lunch? 美国人通过自己做午餐将能够做什么？ A) 满足他们的口味。 B) 减少开支。 0 吃得更健康。 D) 培养新的爱好解短文最后以工作日买午餐为例， 指出人们买午餐平均每餐花费 10 美元， 而自制午餐花费更少。 一项调查显示， 人们自带在家里做好的午餐， 平均每餐只花 63 美元。 这说明自制午餐能减少开支， B 项是对这一部分的总结概括， 故为正确答案。 其他三项短文均未提及， 故全部排除",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "13 ． What does Eddie Yoon think cooking is akin to? 埃迪 · 尹认为烹饪类似于什么？ A) 购物 B） 缝纫。 0 自我娱乐。 D) 时装设计。 解爻前平部分提到璞通 · 笋迸行的一项调香、， 列举完一系列数据后 《尹总结谠： 烹饪和缝纫奥似， 故 B 项正确。 其他三项短文均未提及， 也都不是尹的观点， 故全部排除六级 2025 」 2 第一 5 ] 生 What will Americans be able to do by making",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "They keep their windows closed.",
+            "B": "They spend a lot more time indoors.",
+            "C": "They make more use of air-conditioners.",
+            "D": "They try various ways to purify indoor air."
+          },
+          "answer": "B",
+          "explanation": "文章中间部分提到， 当室外空气质量较差的时候， 人们往往会花更多的时间待在室内。 选项 B 几乎是这句话的原句复现， 故为正确选项。 其他三项的做法原文均未提及， 故全部排除。 巧 ． What did Professor Gang Pan Of the Chinese Academy Of Sciences say about their study? 对于他们的研究， 中国科学院的潘纲教授是如何评价的？ A) 它体现了消除室内污染的重要性。 B) 它可能会改变未来环境研究的方式。 C) 它展示了英国和中国科学家之间富有成效的合作 D) 它可能让家用电器额外具备空气净化器的功能。 解文章最后引用了潘纲教授的话， 他明确表示： 我们的研究让二件事可能成为现实， 加就是茬那些箜气质可能极差的地区， 给家用电器加上 “ 空气净化器 ” 的选项。 选项 D 是对这句话的同义转述， 故为正确选项。 Secti01& Recording One",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "14 ． What dO people tend to dO when outdoor air quality is poor? 当室外空气质量较差时， 人们往往会做什么？ A) 他们一直关着窗户。 B) 他们会花更多的时间待在室内。 0 他们会更多地使用空调。 D) 他们会尝试各种方法净化室内空气。 解文章中间部分提到， 当室外空气质量较差的时候， 人们往往会花更多的时间待在室内。 选项 B 几乎是这句话的原句复现， 故为正确选项。 其他三项的做法原文均未提及， 故全部排除。 巧 ． What did Professor Gang Pan",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "It shows the importance of eliminating indoor pollution.",
+            "B": "It may change the way of future environmental research.",
+            "C": "It demonstrates the fruitful cooperation between UK and Chinese scientists.",
+            "D": "It may make household appliances serve an additional air cleaner function."
+          },
+          "answer": "D",
+          "explanation": "肀短文最后一句明确提到， 美国人越来越不愿花时间下厨， 这给食品杂货行业带来了一系列挑战， 故 D 项正确。 其他三项中的 “ 便利性 ” “ 家庭财务状况 ” “ 反感 \" 在文中都有对应的词， 但这几项都是利用文中细节词汇设置的干扰项， 均非给食品杂货行业带来挑战的原因， 故全部排除。 Section« Recording One",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "llenges for America's grocery industry? 短文提到， 什么对美国的食品杂货行业意味着诸多挑战？ A) 人们对便利性的高度关注。 B) 人们日益恶化的家庭财务状况。 C) 人们对垃圾食品的强烈反感 D) 人们对烹饪的厌恶日益增加。 解肀短文最后一句明确提到， 美国人越来越不愿花时间下厨， 这给食品杂货行业带来了一系列挑战， 故 D 项正确。 其他三项中的 “ 便利性 ” “ 家庭财务状况 ” “ 反感 \" 在文中都有对应的词， 但这几项都是利用文中细节词汇设置的干扰项， 均非给食品杂货行业带来挑战的原因， 故全部排除。 Section«",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "It distinguishes different species of animals.",
+            "B": "It reflects distinct traits in animal behaviour.",
+            "C": "It demonstrates animals5 ability to recognise themselves.",
+            "D": "It gauges the level of intelligence of various animal species."
+          },
+          "answer": "B",
+          "explanation": "？ 在讲座并买， 讲话者便提到： “ 但导致行李最终遗失的首要原因是缺少身份标签， 航空公司无从确认行李归属。 ” 由此很容易得出正确答案为 B。 题干中的 the number bag lost 为原文复现",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "one reason a bag ends up lOSt according to this talk? 根据这篇讲话内容， 导致行李最终遗失的首要原因是什么？ 6 六级 2025 」 2 第一寫 A) 行李主人的航班因恶劣天气延误。 B) 行李缺少身份标签， 航空公司无法找到其主人。 0 航空公司工作人员输错了行李目的地标签编码。 D) 行李主人忘了去行李提取处取行李。 解？ 在讲座并买， 讲话者便提到： “ 但导致行李最终遗失的首要原因是缺少身份标签， 航空公司无从确认行李归属。 ” 由此很容易得出正确答案为 B。 题干中的 the number bag lost 为原文复",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "It meets few of the behavioural criteria set in the mirror test.",
+            "B": "It behaves similarly to animals capable of self-recognition.",
+            "C": "It removes marks from itself to show self-awareness.",
+            "D": "It matches children over 18 months in intelligence."
+          },
+          "answer": "A",
+          "explanation": "4 根据题干中的 sophisticated automated systems， 可快速定位至讲话中间。 选项 A 中的 torn off on the conveyor belt 属于原词复现， 且直接回答了题干所问， 故为正确答案。 选项 B、 c、 D 中的内容均属于无中生有， 可直接排除",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "What may happen to your baggage even when there are sophisticated automated systems? 即便机场配备了先进的自动化系统， 你的行李仍有可能出现什么状况？ A) 行李标签可能会在传送带上被扯掉。 B) 行李标签可能会卡在分拣机里 0 行李可能会被送往错误的目的地 D) 行李可能会被别人取走解 4 根据题干中的 sophisticated automated systems， 可快速定位至讲话中间。 选项 A 中的 torn off on the conveyor belt 属于原词复现， 且直接回答了题干所问， 故为正确",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "They have conclusively established the criteria of animal intelligence.",
+            "B": "They have advanced the concept of self-awareness to a higher level.",
+            "C": "They incorporate more perspectives than one.",
+            "D": "They raise more questions than answers."
+          },
+          "answer": "D",
+          "explanation": "吵讲话者在讲话末尾， 建议我们切勿在托运行李中存放真正贵重的物品， 同时在行李上标明姓名和电话号码， 以便工作人员和我们取得联系。 由此可知， 选项 D 为正确答案。 选项 A 原文没有提及， 可直接排除。 选项 B、 c 中的个别词讲话中虽有提及， 但其和讲话内容不符， 且与题干无关， 故均排除 Recording Two",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "advise us to dO at the end of the talk? 讲话者在讲话末尾建议我们做什么？ A) 竞拍那些彻底无法找回的物品。 B) 联系机场工作人员寻找自己遗失的行李。 0 登机前拿到航空公司工作人员的电话号码 D) 避免在托运行李中放人贵重物品。 解吵讲话者在讲话末尾， 建议我们切勿在托运行李中存放真正贵重的物品， 同时在行李上标明姓名和电话号码， 以便工作人员和我们取得联系。 由此可知， 选项 D 为正确答案。 选项 A 原文没有提及， 可直接排除。 选项 B、 c 中的个别词讲话中虽有提及， 但其和讲话内容不符， 且与题干无关， 故均排除 Reco",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "Small children are even more keen on screens than their elders.",
+            "B": "Both parents and children preferred to read electronic books.",
+            "C": "Parents differed from children in reading behavior.",
+            "D": "Children reading electronic books learned more."
+          },
+          "answer": "C",
+          "explanation": "讲话者在讲话开头就提到一个很多人可能都有的行为一 ． 一在和别人相处时使用智能手机， 紧接着说道： “ 有证据表明， 这种行为会对社交产生不利影响 \"。 由此很容易得出， 选项 C 为正确答案。 选项 A、 B、 D 中的内容讲话中均未提及， 故均排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "交产生不利影响。 D) 它可能会令人十分尴尬。 解讲话者在讲话开头就提到一个很多人可能都有的行为一 ． 一在和别人相处时使用智能手机， 紧接着说道： “ 有证据表明， 这种行为会对社交产生不利影响 \"。 由此很容易得出， 选项 C 为正确答案。 选项 A、 B、 D 中的内容讲话中均未提及， 故均排除。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "They came to conflicting conclusions.",
+            "B": "They were based on small samples.",
+            "C": "They yielded unanticipated findings.",
+            "D": "They were focused on younger kids."
+          },
+          "answer": "B",
+          "explanation": "根据题干中的关键词 the participants in the new study respond， 可将答案定位至讲话中间： 受试者对社交场合中使用手机的行为持负面态度。 选项 B 中的 a negative view 属于原词复现， 且直接回答了题干所问， 故为正确答案。 选项 A、 C、 D 中的内容讲话中均未提及， 可直接排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "nts in the new study respond regarding phone use during social interactions? 参与这项新研究的受试者对在社交场合中使用手机有何反应？ A) 他们认为这是不可避免的 B) 他们对此持否定态度。 0 他们担忧它所带来的影响。 D) 他们将其视为社会发展的标志。 解根据题干中的关键词 the participants in the new study respond， 可将答案定位至讲话中间： 受试者对社交场合中使用手机的行为持负面态度。 选项 B 中的 a negative view 属于原词复现， 且直接回答了题干所问",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Those that prove simple enough fbr them to comprehend.",
+            "B": "Those that produce both audio and visual effects on them.",
+            "C": "Those that draw their attention to the educational content.",
+            "D": "Those that contribute to their increased interest in reading."
+          },
+          "answer": "D",
+          "explanation": "， 根据题干中的关键词 result from the common behavior， 可将答案定位至讲话末尾： 即便我们试图与他人建！ 立联系， 这种普遍存在的行为仍可能引发社交疏离的恶性循环。 选项 D 为原词复现， 且直接回答了题干所问， 故为正确答案。 Recording Three",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "nes during face-to-face conversations? 讲话者指出， 面对面交谈时使用手机这种普遍行为， 可能会造成什么后果？ A) 社交形式变复杂。 B) 对一个人的自豪感造成不良影响 0 与他人关系不和睦。 D) 社交疏离的恶性循环。 解， 根据题干中的关键词 result from the common behavior， 可将答案定位至讲话末尾： 即便我们试图与他人建！ 立联系， 这种普遍存在的行为仍可能引发社交疏离的恶性循环。 选项 D 为原词复现， 且直接回答了题干所问， 故为正确答案。 Recording Three",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Foreseeing the possibility for regret later.",
+            "B": "Making proper use of the lessons learned.",
+            "C": "Keep ourselves from regretting them.",
+            "D": "Live with them for the time being."
+          },
+          "answer": "D",
+          "explanation": "肀讲话者在讲话末尾谈到财务因素时明确指出： “ 潜在的 B & B 经营者必须对收人机会有现实的认知。 ” 这与选项 D 完全一致， 故为正确答案。 讲话中提到， 经营 B & B 的初始成本通常较低， 所以这不是经营者需要担心的事情， 选项 A 不符合题干所问。 选项 B、 c 两项属于讲话细节内容， 也不是讲话者需要有 “ 现实认知 \" 的特定事项。 Part III Section&",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "speaker say potential B&B hosts must be realistic about? 讲话者说潜在的 B & B 经营者必须对什么有现实的认知？ A) 启动生意的成本。 B) 要接待的客人数量。 0 要提供的设施 D) 收人机会。 解肀讲话者在讲话末尾谈到财务因素时明确指出： “ 潜在的 B & B 经营者必须对收人机会有现实的认知。 ” 这与选项 D 完全一致， 故为正确答案。 讲话中提到， 经营 B & B 的初始成本通常较低， 所以这不是经营者需要担心的事情， 选项 A 不符合题干所问。 选项 B、 c 两项属于讲话细节内容， 也不是讲话者需要有 “ 现实认知",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank\nfrom a list of choices given in a word bank following the passage. Read the passage through carefully before\nmaking your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for\neach item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank\nmore than once.\nWe humans love to believe we are special, but science and technology have repeatedly proved this\nconviction wrong. People \n\nthought that humans were the only animals to use tools, to form teams or to\npropagate culture, but science has shown that other animals do each of these things.\nMeanwhile, technology has quashed ( 使无效),one by one, claims that \n\ntasks require a human brain.\nThe first adding machine was invented in 1623. This past year, a computer-generated work won an art contest. I\nbelieve the moment when computers meet and \n\nhuman intelligence is on the horizon.\nHow will human intelligence and creativity be valued when machines become smarter and more creative\nthan the brightest people? There will likely be a spectrum. In some \n\n、people still value humans doing\nthings, even if a computer can do it better. It's been a quarter of a century since a computer beat world champion\nGarry Kasparov, but human chess hasn't gone away.\nIn other fields, human skill will seem costly and \n30 . Take illustration fbr example: most readers don't\ncare whether the graphic \n\na magazine article was drawn by a person or a computer- they just want it to be\nrelevant, new and perhaps \n32 .\n• 2025年12月六级真题(第二套)・ \n\nAnd, of course, this question isn't black or white. Many fields will be a \n33 . where some humans find a\nlucky place, but most of the work is done by computers, like in manufacturing today, where, much of the work is\naccomplished by robots, but some humans must be there to \n34 the machines.\nIf history is any guide, ifs almost certain that advances in AI will cause more jobs to \n35 , that creative\nworkers with human-only skills will become richer but fewer in number, and that those who own creative\ntechnology will become the new ultra-rich.",
+      "wordBank": {
+        "A": "accompanying",
+        "I": "once",
+        "B": "cognitive",
+        "J": "oversee",
+        "C": "domains",
+        "K": "redundant",
+        "D": "entertaining",
+        "L": "stances",
+        "E": "evoking",
+        "M": "surpass",
+        "F": "hybrid",
+        "N": "tentatively",
+        "G": "impetus",
+        "H": "intuitive"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "． 你知道何时该明智地放弃吗？ A) 项目、 人际关系和工作未必总能按计划顺利进行一一而且往往不清楚何时该放弃。 我们常听人说 “ 半途而废者永无胜算 ”， 但有时候， ． 止损是最明智的决定。 六级 2025 ． 12 第二 29 B) 想想那段明明已走到尽头你却依然紧抓不放的感情， 或是那份尽管老板让你痛苦不堪你却仍在坚守的工作。 我们很多人都会试图抓住最后一丝希望， 觉得自己能让情况好转一一一无论是什么 “ 情况 \"。 虽然坚持不懈通常是一种极好的品质， 但它也可能让你在早已不值得的事情上过度投人 C) 作为一名高管教练， 我和许多富有热情、 勤奋肯干的领导者合作，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Projects, relationships, and jobs don't always work out as planned- and it's not always clear when to give up.\nWe've all repeatedly heard the saying that “quitters never win,“ but sometimes the best decision is to cut our\nlosses."
+        },
+        {
+          "label": "B",
+          "text": "Think about that relationship you held on to even after it had run its course or the job you stayed in despite\nyour boss making you miserable. Many of us try to hold onto the last ray of hope, thinking we can make it\nwork, whatever \"it\" is. And while perseverance is generally an excellent quality, it may also incline you to\nover-invest in something that is no longer a good idea."
+        },
+        {
+          "label": "C",
+          "text": "As an executive coach, I work with numerous passionate and hard-working leaders who don't want to Uquit.^^\nBut the smartest leaders learn to discern the difference between quitting too soon and holding onto something\nthat they shouldn't."
+        },
+        {
+          "label": "D",
+          "text": "We are all susceptible to the sunk-cost delusion, an unconscious bias that leads us to persist in an endeavor we\nhave already invested time, effort, or money into- even when abandoning it would be more beneficial. We\nrealize that we can't get back the resources we've given, so we persevere- investing in a project that should\nbe halted, staying in a relationship that should be over, or finishing a book we no longer enjoy and should\nput down, because we're already halfway through it. If quitting is “not your thing,5, you may be especially\nsusceptible to this bias."
+        },
+        {
+          "label": "E",
+          "text": "The sunk-cost delusion causes us to overly worry about what we511 lose if we move on and not think enough\nabout the costs of not moving on. To offset this bias, deliberately refocus your thinking on the gains so you\ncan more objectively weigh the alternatives. Ask yourself: What might I gain by cutting my losses now?\nWill you be happier or have time for another (better) opportunity? Then ask yourself: What will it cost me to\nsoldier on? For example, is it possible that you'll be throwing more good money after what you've already\n\n• 2025年12月六级真题(第二套)•\n\nlost? Or that you won't have the energy to capitalize on other promising possibilities?"
+        },
+        {
+          "label": "F",
+          "text": "The illusion of control can also interfere with our best judgment, leading us to overestimate our ability to\ncontrol events and attain a positive outcome. This bias gives us a sense of agency and can promote mental\nhealth. However, the bias can also result in escalating commitment to a losing course of action. Especially\nwhen combined with an \"I'm not a quitter“ mentality, feeling like we have more control over an event or\nperson than we do puts us at risk of doubling down when we should pull out."
+        },
+        {
+          "label": "G",
+          "text": "To counteract this bias, consider your situation and make a simple two-column list of what's in your control\nand what's not. Think rigorously. While you may be able to influence other people and various circumstances,\nyou can't force them to change or go your way."
+        },
+        {
+          "label": "H",
+          "text": "Getting clear on what you can control and what you can't is essential to making a quality decision about\nwhether to call it quits or persevere. With a written list in hand, you can ensure you focus on what you can\ncontrol and better assess whether your continued efforts are worth the expense. Expending effort and emotion\non things you can't control can be both draining and disempowering."
+        },
+        {
+          "label": "I",
+          "text": "Research indicates that people link their self-identity and social status to their commitments. And because we\nidentify with our commitments, withdrawing from one can feel like a threat to our identity or status."
+        },
+        {
+          "label": "J",
+          "text": "Take my client Ryan, a leader at a technology company. Ryan had invested two years and a lot of effort in a\ndesign project that wasn't delivering the needed outcomes, but the thought of abandoning it after all she had\nput in was hard to bear. As Ryan and I explored whether she should cancel the initiative she'd been leading\nor continue to persevere, she stated, “The thing is, I'm not a quitter.^^ This singular, fixed sense of self was\nclouding her judgment and limiting her choices for action."
+        },
+        {
+          "label": "K",
+          "text": "Our self-concept and identity are mental concepts that influence our behavior. If you strongly identify as not\nbeing a quitter, you can end up staying stuck in a course of action due to your narrow and rigid self-concept.\nTo overcome this kind of internal obstacle, recall your other positive traits and personality characteristics.\nAsk yourself: What additional strengths do I have (or aspire to have) that would be helpful to employ here?\nFor example, when I asked Ryan what other positive qualities from her personality she needed to leverage for\ndecision making, she replied, \"Discernment and bravery.^^\nL) Now, examine your situation through the lens of each of these facets of yourself. What does the discerning\npart of you say? The brave part? Considering your decision through these different characteristics will enable\nyou to see that you have more choices. Ifs also helpful to seek external sources of information, rather than\nrelying solely on your thinking and instincts. But it's important to think through whose opinions you solicit.\nM) Ideally, seek out people who are less invested in your decision than you are. If you're considering whether\nto shut down your entrepreneurial venture, for instance, reach out to other founders as opposed to just your\nbusiness partner. Similarly, if you're looking for love advice, ask someone removed from the ups and downs\nof your relationship instead of relying only on your best friend. In all cases, I recommend describing your\nsituation and following up with a question like: t4How would you manage this situation?^^\nN) Alternately, you could also seek out hard data that illuminates your real chance of success in whatever\nendeavor you are contemplating. Sticking with the example of the entrepreneurial venture, numbers are your\nbest friend. Use them to remove yourself from the love you have for this idea and consider your bum rate\nrelative to growth plan, industry growth rates, and other factors that predict start-up success. External sources\nof information can help you see angles and possibilities you might not have considered.\nO) When something that seemed so promising at the start doesn't turn out the way we imagined, we can become\noverly self^critical. Nobody likes to feel that they've made a poor decision, especially if making intelligent\n,2025年12月六级真题（第二套）•\n\ndecisions is a quality you hold in high esteem. The most effective strategy here is to give yourself a break.\nPracticing self-compassion increases your resilience (韧性)，emotional intelligence, compassion toward\nothers, and can boost your performance as well as help you develop a growth mindset.\nP) Instead of deliberating and criticizing yourself, fbcus instead on what you can learn from this situation. For\nexample, Ryan recognized she had developed various new skills and leadership capabilities from leading the\ndesign project. And despite ultimately deciding to drop it, she was still happy she had tried and grateful for\nwhat the experience taught her.\nQ) Undeniably, perseverance can help us succeed. But for your wellbeing, ifs important to learn how to\ndistinguish quitting too soon and clinging to a losing course of action. While letting go can be difficult, it will\nfree up your time, energy, and mental space to imagine new possibilities and pursue new opportunities."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Feeling like they have more control over something or someone than they do, people get more committed to\ntheir pursuit when they should give up.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "If you regard yourself as one who never quits, you may end up trapped in your course of action.",
+          "answer": "D",
+          "explanation": "· 46， 当人们急于追求个人成功时， 常常会发生什么？ A) 他们缺少可以倚靠的肩膀来哭诉 B) 他们没有能够倾诉衷肠的灵魂。 0 他们找不到可靠的朋友 D) 他们忽视与朋友的联系。 定根据题干信息词 are eager to pursue individual success 可将答案线索定位至第一段解 + 第一段第二句提到， 我们在急于追求个人成功的路上， 往往会失去朋友。 由果推因， 人们之所以会失去朋友， 是因为在急于追求个人成功的过程中， 忽视了与朋友的联系， 与朋友渐行渐远， 进而失去他们， D 项与此描述相符， 故为正确答案。 A、 B、 c 三项描述的是一种 “ 没有朋友 ” 的状态， 而文章描述的是在追求成功的过程中， 从 “ 有朋友 \" 到 “ 失去朋友 ” 的动态变化， 这三项与文章内容不符， 故排除。 47 ． 对于追求极端个人主义， 作者建议人们做什么？ A) 重新审视其有害影响。 B) 对失去挚爱之人满不在乎。 0 避开其中涉及的混乱和纷扰 D) 清除 （前进） 道路上的巨大障碍定根据题干信息词 radical individualism 可将答案线索定位至第三段解对于追求极端个人主义， 作者在第三段最后一句建议人们， 必须重新审视极端个人自由所带来",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "ifflcult jobs. . . are still done by humanso 3 & 壬对于渴望削减人工成木并提高利润的行业来说， 进一步自动化似乎已成必然 〔 餐鼕 D 由题干关键信息 More automation 和 eager to cut labour costs and raise profits 定位到 D 段。 D 段第二句提到， 在一个急于削减人工成本和提高利润的行业， 进一步的自动化似乎不可避免。 由此可",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "One of the author's clients found it hard to give up a design project, in which she had put in a lot of time and\neffort.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "The author suggests that one should direct their thoughts to the gains of quitting timely so as to move on.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "When making a decision, you'd better ask for opinions of those who have less stake in your decision.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "For people associating their identity with their commitments, quitting can feel like their identity is\nthreatened.",
+          "answer": "B",
+          "explanation": "· 46 作者对人类有何论述？ A) 人类若不相互合作便无法繁荣。 B) 人类拥有共同兴趣并信奉正义事业。 0 人类在不同的社会群体中有着相似的思维和行为方式。 D) 人类不通过斗争就无法获得独立。 定 + 根据题干信息词 human bemgs 可将答案线索定位至第一段。 · 皿统一， 使成一体 · diverseadj. 不同的， 多种多样的 · take on 呈现， 显出 · multifaceted adj. 多方面的 · facet 汛 （事物的） 部分， 方面 · adherence ” 坚持， 遵守， 遵循 · cohesiveness ” ． 凝聚力， 内聚力 · exclusivenessn. 排他性， 排外性 · autonomy ” ． 自主； 自主权 · reaction 反抗， 抗拒 · hindranc e n. 造成妨碍的人 （或事物） · in the light of 鉴于， 由于 · calculation n. 计算； 预测， 估算 · inclusive adj. 包容性强的 · vulnerableadj. 脆弱的， 易受一一伤害的解， 第一段第一句提到， 作为相互依存的个体， 我们无法脱离他人而蓬勃发展。 该句直接说明了相互合作对人类繁荣的必要性， A 项符合文意， 故为正确答案。 原文只是说人们喜欢与志同道合、 有共同兴趣， 或同样坚信某些事情的人共事， 但没有说全人类都拥有共同",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+            "sourceText": "。 它为捍卫人类尊严而战， 倾听并回应最弱势群体的呼声。 0 · 答案详解 · 46 作者对人类有何论述？ A) 人类若不相互合作便无法繁荣。 B) 人类拥有共同兴趣并信奉正义事业。 0 人类在不同的社会群体中有着相似的思维和行为方式。 D) 人类不通过斗争就无法获得独立。 定 + 根据题干信息词 human bemgs 可将答案线索定位至第一段。 · 皿统",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "People who regard highly the quality of making wise decisions do not feel good when they make a bad one.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "The wisest leaders learn to distinguish between giving up too soon and sticking with something irrationally.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "When people are thinking of an endeavor, they should dig out reliable data that tells them how likely they are\nto succeed.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Having a clear view of whafs in your control and whafs not is vital to making a good decision regarding\nwhether to give up or stick it out.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nAs interdependent beings we cannot thrive independent of others. We like to work with people who are like­\nminded, with whom we share a common interest, or who also believe in a cause we are serious about. This is\nevident in how we have organised ourselves into various collective groups such as nations, regions, communities,\norganisations, and families.\nDoes the group you belong to have a strong collective consciousness or shared beliefs? Is there\ninterdependence among its members? Do you consider this group a significant part of your existence? If your\nanswers are affirmative, then you are experiencing a micro version of solidarity.\nWhat is solidarity? Its simplest definition in the dictionary is: \"...a unifying opinion, feeling, purpose or\ninterest among a group of people.^^\n\n• 2025年12月六级真题（第二套）•\n\nIn this increasingly diverse society we live in, solidarity takes on a complex and multifaceted character as\nit forms bonds of interdependence among unique individuals living in a fast-changing environment and working\nwithin a complex division of labour.\nOne facet of solidarity fits well with the principles of communitarianism (社群主义).In this setting,\nindividuals give up their own interests to serve the common good. However, its strict adherence to social\ncohesiveness and exclusiveness restricts expression and practice of individual differences and preferences.\nConsequently, individuality and autonomy is sacrificed to maintain the unity of the group.\nSolidarity is also viewed as a reaction to the extreme emphasis on individualism and freedom of choice. It\ngoes against the liberal idea of unrestricted individuals who see society as a hindrance to their freedom to make\nchoices and to act according to what is good fbr them regardless of how these will affect others.\nBut despite its many facets, social theorists have viewed solidarity as a key factor in bringing about\norder and progress in society. They believe that for human society to survive as it becomes more diverse,\nmore new bonds need to be formed based on the differences. In the light of this, they regard a genuine\nsolidarity as more than just shallow relationships based on common interests. Solidarity is not just a product\nof strategic calculations of how much it will benefit the self. It is not an exclusive class founded on the you-\nand-me-against-the-world principle. Rather, it is inclusive and is not forced. Acting out of solidarity means\nsupporting and standing up for each other一in recognition that one's fate is in the fate of the other. It is a\nbond characterised by cooperative practices and strengthened by the concern for the well-being of others\nor the common good. It fights for the protection of human dignity and listens to and acts on the cries of the\nmost vulnerable.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What does the author say about human beings?",
+              "options": {
+                "A": "They cannot prosper without cooperating with each other.",
+                "B": "They share a common interest and believe in a just cause.",
+                "C": "They think and behave alike in different social groups.",
+                "D": "They cannot gain independence without fighting fbr it."
+              },
+              "answer": "D",
+              "explanation": "+ 第一段第二句提到， 我们在急于追求个人成功的路上， 往往会失去朋友。 由果推因， 人们之所以会失去朋友， 是因为在急于追求个人成功的过程中， 忽视了与朋友的联系， 与朋友渐行渐远， 进而失去他们， D 项与此描述相符， 故为正确答案。 A、 B、 c 三项描述的是一种 “ 没有朋友 ” 的状态， 而文章描述的是在追求成功的过程中， 从 “ 有朋友 \" 到 “ 失去朋友 ” 的动态变化， 这三项与文章内容不符， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+                "sourceText": "46， 当人们急于追求个人成功时， 常常会发生什么？ A) 他们缺少可以倚靠的肩膀来哭诉 B) 他们没有能够倾诉衷肠的灵魂。 0 他们找不到可靠的朋友 D) 他们忽视与朋友的联系。 定根据题干信息词 are eager to pursue individual success 可将答案线索定位至第一段解 + 第一段第二句提到， 我们在急于追求个人成功的路上， 往往会失去朋友。 由果推因， 人们之所以会失去朋友， 是因为在急于追求个人成功的过程中， 忽视了与朋友的联系， 与朋友渐行渐远， 进而失",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What do we learn about solidarity in an increasingly diverse society?",
+              "options": {
+                "A": "It gives rise to a complicated division of labour.",
+                "B": "It involves many aspects with great complexity.",
+                "C": "It brings individuals together as environment changes.",
+                "D": "It embraces the characteristics of different individuals."
+              },
+              "answer": "A",
+              "explanation": "对于追求极端个人主义， 作者在第三段最后一句建议人们， 必须重新审视极端个人自由所带来的危害。 A 项 Reexamine its detrimental effects 是对原文中 reevaluate the haml 的同义转述， 故为正确答案。 B 项是作者所批判的社会现象， 且与题干所问无关， 故排除。 c 项和 D 项是利用原文出现过的单词 （chaos、 turmoi",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+                "sourceText": "47 ． 对于追求极端个人主义， 作者建议人们做什么？ A) 重新审视其有害影响。 B) 对失去挚爱之人满不在乎。 0 避开其中涉及的混乱和纷扰 D) 清除 （前进） 道路上的巨大障碍定根据题干信息词 radical individualism 可将答案线索定位至第三段解对于追求极端个人主义， 作者在第三段最后一句建议人们， 必须重新审视极端个人自由所带来的危害。 A 项 Reexamine its detri",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What would we witness in the setting of communitarianism?",
+              "options": {
+                "A": "Ruling of social norms and ridding of individuality.",
+                "B": "Emphasis on the adherence to individual differences.",
+                "C": "Sacrifice of personal interests fbr the common good.",
+                "D": "Elimination of individualism and personal choices."
+              },
+              "answer": "D",
+              "explanation": "第五段第二句提到了这 —assumption （假设）， 并通过 that 引导的同位语从句对其进行了解释， 即 that winning or succeeding is a consequence Of working harder than the next person （获胜或成功是比他人更努力的结果）， D 项符合此描述， 故为正确答案。 A 项是对个人成就颂扬和称赞的社会行为， 而非假设， 故排除。 B 项原文未提及， 故排除。 c 项是个人成就产生的文化背景， 而非假设， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+                "sourceText": "48 ． 美国社会对个人成就的假设是什么？ A) 它理应得到颂扬和高度称赞 B) 它是实现个人梦想的可靠途径。 C) 它围绕个人主义文化展开。 D) 它反映了一个人非凡的努力。 定 + 根据题干信息词 assumption of personal achievement 可将答案线索定位至第五段解第五段第二句提到了这 —assumption （假设）， 并通过 that 引导的同位语从句对其进行了解释， 即 that winning or succeeding is a consequence Of",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What do social theorists think of solidarity?",
+              "options": {
+                "A": "It is especially relevant to the most vulnerable.",
+                "B": "It is most effective in protecting human dignity.",
+                "C": "A hindrance to social advancement.",
+                "D": "An inevitable end to liberal pursuits."
+              },
+              "answer": "B",
+              "explanation": "兮通读全文可知， 原文旨在强调人们在追求成功时不要以牺牲友谊为代价的观点。 其中， 第人提可， 我们不能对失去友谊这件事无动于衷， 因为友谊是我们的精神支柱； 最后一段提到， 在追求成功的道路上， 有人支持你、 爱你， 这远比任何最终结果都重要。 由此可看出， 友谊在追求成功的路上至关重要， 不容忽视， 否则会付出代价， B 项与原文表述相符， 故为正确答案。 原文只是提到要突破极限， 但并未提及突破极限是成功的必要条件， 故排除 A 项。 原文只是批判了极端个人自由所带来的危害， 以此来强调个人在追求成功时不要忽视集体 （朋友） 的支持， 但并未得出 “ 集体主义优于个人主义 \" 的结论， 故排除 c 项。 原文只是提到一些成功学专家会鼓动人们接受失去朋友， 但并未提到他们往往会把人引向毁灭， D 项属于过度推断， 故排除。 Passage TWO",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+                "sourceText": "50 ． 关于追求成功， 我们可以从文章中推断出什么？ A) 不突破极限， 没人能取得成功。 B) 没有人能承担得起忽视挚友的代价。 0 集体主义优于个人主义。 D) 成功学专家往往会把人引向毁灭。 定根据题干信息词 infer from the passage 可将答案线索定位至全文六级 2025 」 2 第一 15 解兮通读全文可知， 原文旨在强调人们在追求成功时不要以牺牲友谊为代价的观点。 其中， 第人提可， 我们不能对失去友谊这件事无动于衷",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nPeople who repeatedly give unwanted advice can be well-meaning and genuinely want to help. Others might\ndo this out of a sense of self-worth around the ability to influence others. One study found that people with a high\ntendency to seek power were more likely to give advice than those with an opposite tendency.\nUnder the guise (夕卜表)of unselfishness, people may be driven to give you unwanted advice because it\nmakes them feel powerful or in control. They may not be fully aware of this drive, however.\nThese people may also display a problematic degree of emotional vulnerability, becoming upset very\nquickly, and taking a long time to calm down. It is possible that their emotions were only validated in childhood\nwhen they were at their loudest, encouraging them to adopt responses to discomfort that are excessive in most\nsituations.\nWhen someone is giving advice in order to make themselves feel more powerful, there is underlying anxiety\nto their behavior that recipients of the advice tend to notice. It can be tempting in this situation to react harshly\nto the advice giver and to accuse them of being manipulative, but this approach might produce an undesirable\nresult.\nIf the act of giving advice is contributing actively to someone's feelings of self-worth, an outright (直率的)\nrejection may be perceived as a threat, activating their fight-or-flight response, possibly causing them to double\ndown on their validation-seeking behavior, or leading to a larger conflict.\nThe key is to validate without over-identifying. You can let them know that you have heard them and\nappreciate where they are coming from without taking on the potentially damaging narrative that you could not\nhave gotten by without their help. You had better say something like, “Thanks fbr the idea. I have my own plan\nfor handling this, but I really appreciate your perspective and will take it into consideration. Can I let you know\nwhen I need help in the future?^^\nIf you have trouble setting boundaries tactfully, prioritize working on your own ability to self-regulate. As\nuncomfortable as it may make you continuously receiving unwanted advice, if you can respond with compassion,\nthe situation will likely diffuse much faster.\nThough it is usually not the intended outcome of giving unsolicited advice, many who receive it often feel\nstressed, offended, or simply annoyed by unwanted suggestions. Setting a boundary in this regard, if you feel you\nneed one, is perfectly reasonable and something that can bring you increased emotional safety.\nIt is best to set boundaries in a way that takes into account the individual's underlying reasons for doing\nwhat they are doing to avoid unnecessary conflict and more stress.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What is the finding of one study about people who keep giving unsolicited advice?",
+              "options": {
+                "A": "They turn out to be well-meaning.",
+                "B": "They are genuinely kind-hearted.",
+                "C": "They are capable of influencing others.",
+                "D": "They are inclined to crave fbr power."
+              },
+              "answer": "D",
+              "explanation": "， 第一段最后一句提到： “ 一项研究发现， 相比于权力欲较弱的人， 权力欲较强的人更爱主动给出建议。 第二段第一句接着对此进行了进一步阐释： “ 这些人一一背后的驱动力其实是想借此获得掌控感， 彰显自身权力。 ” 选项 D 与此表述一致， 故为正确答案。 选项 A 和选项 B 都是文章开头提到的 “ 有些人 \" 的动机， 但不是该研究的具体发现； 选项 c 是权力寻求倾向可能带来的结果或自我感觉， 并非研究发现本身， 故这三项均排除",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+                "sourceText": "lf-regulate 自我调节 · compassion ” ． 同情， 怜悯 · diffuse 平息， 缓和 · unsolicited advice 自作主张的建议 · offended 口砌 ． 被冒犯的 0 他们具备影响他人的能力。 D) 他们往往渴望获得权力。 定吵根据题干信息词 one study 可以把答案线索初步定位至第一段最后一句解， 第一段最后一句提到： “ 一项研究发现， 相比于权力欲较弱的人， 权力欲较强的人更爱主动给出建议。 第二段第一句接着对此进行了进一步阐释： “ 这些人一一背后的驱动力其实是想借此获得掌控感， 彰显自身权力。 ” 选项 D 与此表述一致",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What is the problem with people who are driven to give you unsolicited advice?",
+              "options": {
+                "A": "They may be quick to upset others.",
+                "B": "They may be emotionally vulnerable.",
+                "C": "They want their voice to be the loudest.",
+                "D": "They respond to discomfort excessively."
+              },
+              "answer": "A",
+              "explanation": "到过去一十年里有关黑人学生的什么信息？ A) 他们在高等教育方面受到了不公对待。 0 他们的终身收人增加了数十亿美元。 B) 他们一直在为解决公平问题而奋力抗争。 D) 他们开始意识到种族歧视带来的后果。 定根据题干信息词 black students in the past 20 years 可将答案线索定位至第三段解第三段提到了花旗银行的一份报告， 该报告指出， 如果高等教育公平问题得到解决， 黑人学生的终身收人本可大幅增加。 这反向说明他们因不公平而遭受了巨大的经济损失。 选项 A 是这一数据隐含的核心事实， 故为正确答案。 选项 B 文中未提及； 选项 c 与原文虚拟语气 （could have increased） 矛盾； 选项 D 并非文中直接说明的内容， 故这三项均排除",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+                "sourceText": "52 ． 我们从文章中了解到过去一十年里有关黑人学生的什么信息？ A) 他们在高等教育方面受到了不公对待。 0 他们的终身收人增加了数十亿美元。 B) 他们一直在为解决公平问题而奋力抗争。 D) 他们开始意识到种族歧视带来的后果。 定根据题干信息词 black students in the past 20 years 可将答案线索定位至第三段解第三段提到了花旗银行的一份报告， 该报告指出， 如果高等教育公平问题得到",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What is the advice receiver tempted to do when noticing the advice giver's underlying anxiety?",
+              "options": {
+                "A": "Reveal the undesirable result of their approach.",
+                "B": "Refuse their advice in an undisguised manner.",
+                "C": "Bring their real motives to the surface.",
+                "D": "Accuse them of trying to control others.  • 2025年12月六级真题（第二套）•"
+              },
+              "answer": "D",
+              "explanation": "， 第四段提到， 当听建议的人注意到提议者行为背后的焦虑时， “ 很容易忍不住对这个提出建议的人做出强硬的回应， 指责对方在操控你， 但这种做法可能会适得其反 \"。 选项 D 是对原文 \"accuse them of being manipulative\" 的同义转述， 故为正确答案。 原文是说听建议的人强硬回应提议者的这种做法会适得其反， 选项 A 与此不符； 选项 B 是第五段讨论的 \"oufrlghtrejecuon\"， 虽可能发生， 但题干问的是看到提议者的 “ 焦虑 ” 时听建议的人的行为， 第四段明确指出 \"react harshly\"， 而不是 re e； 选项 C 在文中未明确提及， 故排除这三个选项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+                "sourceText": "53， 当注意到提议者潜在的焦虑时， 听建议的人忍不住做什么事？ A) 指出对方这种做法会适得其反 B) 毫不掩饰地拒绝对方的建议 0 戳穿对方的真实动机 D) 指责对方试图操控别人。 六级 2025 ． 12 第二響 35 定碜根据题干信息词 advice receiver tempted to do 和 underlymg anxiety 可以把答案线索定位至第四段解， 第四段提到， 当听建议的人注意到提议者行为背后的焦虑时， “ 很容易忍不住对这个提出建议的人做出强硬的回应， 指责对方在操控你， 但这种做法",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "How is the advice giver likely to react to the rejection of their advice?",
+              "options": {
+                "A": "They may regard it as a threat.",
+                "B": "They may modify their behavior.",
+                "C": "They get ready for a larger conflict.",
+                "D": "They begin to doubt their self-worth."
+              },
+              "answer": "D",
+              "explanation": "决其历史遗留的社会问题。 0 美国避免了自身的两极分化 B) 美国在推进种族平等的进程中不断拖延。 D) 美国的分裂程度日益加剧。 定根据题干信息词 most Americans 和 a recent， ey 可将答案线索定位至第七段解第七段明确提到： “ 近期一项调查显示， 77 ％ 的美国人认为， 美国 ' 正处于前所未有的分裂状态，。 ” 这直接对应选项 D, 故该选项为正确答案。 选项 A 是作者观点， 而不是调查的结果； 选项 B 是作者对现象的分析， 也不是调查的结果； 选项 c 与调查结果完全相反， 故这三项均排除",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+                "sourceText": "54， 根据近期的一项调查， 大多数美国人是如何看待美国这个国家的？ A) 美国被迫解决其历史遗留的社会问题。 0 美国避免了自身的两极分化 B) 美国在推进种族平等的进程中不断拖延。 D) 美国的分裂程度日益加剧。 定根据题干信息词 most Americans 和 a recent， ey 可将答案线索定位至第七段解第七段明确提到： “ 近期一项调查显示， 77 ％ 的美国人认为， 美国 ' 正处于前所未有的分裂状态，。 ” 这直接对应选项 D, 故该选项为正确答案。 选项 A 是作者观点， 而不是调查的结果； 选项 B 是作者对现象",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What should the advice receiver do to avoid unnecessary conflict?",
+              "options": {
+                "A": "Concede the advice is perfectly reasonable.",
+                "B": "Give their reasons for not taking the advice.",
+                "C": "Understand why the advice giver offers the advice.",
+                "D": "Explain their chosen way of handling the situation."
+              },
+              "answer": "B",
+              "explanation": "决美国的公平问题。 0 抑制他们的不容忍与歧视 D) 恢复社会秩序， 建设一个和谐国家。 定碜根据题干信息词 the suggest Americans do 及 “ 题文同序 \" 原则可将答案线索定位至最后两段解倒数第二段第二句提到， 面对种族不公， 我们绝不能视而不见。 同时， 最后一段也提到 “ 让我们承诺共同努力打破僵化的现状 ”， 这是在号召集体行动来解决美国的公平问题。 选项 B 是对这两段的合理概括， 故为正确答案。 选项 A 是目标， 而非具体行动建议； 选项 c 是行动的一部分， 但不够全面； 选项 D 中的 “ 建设一个和谐国家 \" 只是作者想要实现的愿景， 并非重点行动建议， 故这三项均排除六级 202 到",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-2/key_OCR_2025-12-2.txt",
+                "sourceText": "55 ． 作者建议美国人做什么？ A) 保障子孙后代的福祉。 B) 共同努力解决美国的公平问题。 0 抑制他们的不容忍与歧视 D) 恢复社会秩序， 建设一个和谐国家。 定碜根据题干信息词 the suggest Americans do 及 “ 题文同序 \" 原则可将答案线索定位至最后两段解倒数第二段第二句提到， 面对种族不公， 我们绝不能视而不见。 同时， 最后一段也提到 “ 让我们承诺共同努力打破僵化的现状",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You\nshould write your answer on Answer Sheet 2.",
+      "source": "中华民族崇尚自强自立的精神，这一精神深植于中国文化之中，是民族生存与发展的重要支撑。改革开放以来，中国在自强自立的征程上，持续加大科研投入，在信息技术、人工智能、航天工程等领域不断取得新突破。5G 网络覆盖全国，远程医疗发展迅速，电子支付的使用全球领先，嫦娥探月工程展现了航天领域引人注目的发展。自强自立精神成为推动国家现代化进程的强大动力，激励着中国人民为实现民族复兴(rejuvenation)的中国梦不断奋进。扫码看详解六级轻松过• 2025年12月六级真题(第二套)•",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

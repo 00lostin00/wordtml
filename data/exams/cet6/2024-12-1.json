@@ -30,8 +30,17 @@
             "C": "Going through a couple of issues the company faces.",
             "D": "Discussing the woman's annual performance review."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节归纳题。 男士总结了女士的表现， 包括工作努力、 守时、 勤奋、 有很强的分析能力和关注细节， 并提到， 公司， 包括他自己在内， 都对女士的工作效率和整体表现很满意。 句 （2） 中， 女士回应说自己很感谢这一认可。 D） 项中的 recognition 属于原词复现； merits 是对男士关于女士总体表现的描述的总结。 因此答案为 D)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "ded， are happy with your productivity and overall performance ． W： Thank you. （2 )I appreciate the recognition ． M： DO you agree， then， with this depiction SO far? W： Yeah， it， s a little simplistic perhaps， But that， s to be expected from this kind Of evaluation ． M： Sure ． Would you wa",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q2",
@@ -43,8 +52,17 @@
             "C": "The honesty of the manager.",
             "D": "The recognition of her merits."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节归纳题。 男士总结了女士的表现， 包括工作努力、 守时、 勤奋、 有很强的分析能力和关注细节， 并提到， 公司， 包括他自己在内， 都对女士的工作效率和整体表现很满意。 句 （2） 中， 女士回应说自己很感谢这一认可。 D） 项中的 recognition 属于原词复现； merits 是对男士关于女士总体表现的描述的总结。 因此答案为 D)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "2， What does the woman say she appreciates？ D) 〖 精析 〗 细节归纳题。 男士总结了女士的表现， 包括工作努力、 守时、 勤奋、 有很强的分析能力和关注细节， 并提到， 公司， 包括他自己在内， 都对女士的工作效率和整体表现很满意。 句 （2） 中， 女士回应说自己很感谢这一认可。 D） 项中的 recognition 属于原词复现； merits 是对男士关于女士总体表",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q3",
@@ -56,8 +74,17 @@
             "C": "Her inappropriate behavior at company meetings.",
             "D": "Her simplistic approach to dealing with others."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节推断题。 句 （3） 中， 男士提到， 有人对女士的沟通方式提出了抱怨。 也就是说， 她没能做到用合适的方式与同事互动， 从而引起了同事的抱怨。 因此答案为 B)O Why doesn， t the woman like to write long emails？ 4， C) 〖 精析 〗 细节推断题。 句 （4） 中， 女士说， 她不喜欢写冗长的电子邮件是因为她觉得这是浪费时间。 也就是说， 她不写冗长的电子邮件是为了节省时间。 因此答案为 C)O Questions 5 to 8 are based on the conversation you have just heard. M： SO tell me， why dO you wish to study medicine？ W： I， ve always wanted to be a doctor ． I come from a small town where healthcare was never the best ． And I think that had a profound effect on me ． (5)As a child， I remember thinking how great it would to serve the community and cure people！ M： What Other people or events in your life have shaped your interest in becoming a doctor？ W： Well， that， s hard to say. I would certainly say my parents have been a key factor ． （6） They always pushed 解析册 ． 2024 年 12 月六级真题 （一） 2 me to study hard ． And I certainly wouldn， t",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "3 ． What has gwen rise to some complaints about the womanQ B) 〖 精析 〗 细节推断题。 句 （3） 中， 男士提到， 有人对女士的沟通方式提出了抱怨。 也就是说， 她没能做到用合适的方式与同事互动， 从而引起了同事的抱怨。 因此答案为 B)O Why doesn， t the woman like to write long emails？",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q4",
@@ -69,8 +96,17 @@
             "C": "To save time.",
             "D": "To be frank."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节推断题。 句 （4） 中， 女士说， 她不喜欢写冗长的电子邮件是因为她觉得这是浪费时间。 也就是说， 她不写冗长的电子邮件是为了节省时间。 因此答案为 C)O Questions 5 to 8 are based on the conversation you have just heard. M： SO tell me， why dO you wish to study medicine？ W：",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "4， C) 〖 精析 〗 细节推断题。 句 （4） 中， 女士说， 她不喜欢写冗长的电子邮件是因为她觉得这是浪费时间。 也就是说， 她不写冗长的电子邮件是为了节省时间。 因此答案为 C)O Questions 5 to 8 are based on the conversation you have just heard. M： SO tell m",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q5",
@@ -82,8 +118,17 @@
             "C": "Obtain a doctoral degree in internal medicine.",
             "D": "Have a profound impact on people around her."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （5） 中， 女士提到， 她还是个孩子的时候就在想， 如果能服务社区， 治愈病人， 那该有多好啊！ 也就是说， 女士从小就希望能为社区提供医疗服务。 因此答案为 A)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "5， What does the woman say she has always wanted to do since childhood？ A) 〖 精析 〗 细节辨认题。 句 （5） 中， 女士提到， 她还是个孩子的时候就在想， 如果能服务社区， 治愈病人， 那该有多好啊！ 也就是说， 女士从小就希望能为社区提供医疗服务。 因此答案为 A)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q6",
@@ -95,8 +140,17 @@
             "C": "They have tried to create a positive learning environment.",
             "D": "They have pursued the family's dreams together with her."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 根据句 （6） 可知， 女士的父母总是督促她努力学习。 A） 项中的 constantly urged 是录音中 always pushed 的同义转述； study hard 属于原词复现。 因此答案为 A)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "6， What do we learn about the woman S parents from the conversation？ A) 〖 精析 〗 细节辨认题。 根据句 （6） 可知， 女士的父母总是督促她努力学习。 A） 项中的 constantly urged 是录音中 always pushed 的同义转述； study hard 属于原词复现。 因此答案为 A)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q7",
@@ -108,8 +162,17 @@
             "C": "It has a long history in the man's prestigious institution.",
             "D": "It is a medical branch both of her parents specialize in."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 男士问女士为什么想专攻内科， 女士在句 （7） 中回答说， 她觉得内科是最有趣的， 因为它涵盖很多内容， 而且把许多其他专业联系在一起。 B） 项中的 connects 和 broad coverage 分别是录音中 ties together 和 covers so much 的同义转述。 因此答案为 B)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "7， Why does the woman say she wants to choose Section B internal medicine as her specialty？ B) 〖 精析 〗 细节辨认题。 男士问女士为什么想专攻内科， 女士在句 （7） 中回答说， 她觉得内科是最有趣的， 因为它涵盖很多内容， 而且把许多其他专业联系在一起。 B） 项中的 connects 和 broad coverage 分别是录音中 ties togeth",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q8",
@@ -121,8 +184,17 @@
             "C": "Inconsistent.",
             "D": "Trustworthy."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节辨认题。 句 （8） 中， 男士说， 女士的学习成绩参差不齐。 她确实时不时得高分， 但并不是特别稳定。 因此答案为 C)O Questions 9 to 11 are based on the passage you have just heard. Logging into your email account can sometimes feel like trying to hack into the Pentagon. If you follow all Of the guidelines， you need to use a different password for every one Of your accounts； use an incomprehensible variety Of letters， numbers， and symbols； sign up for two-step verification； and change every password every time one Of them is compromised， (9)More often than not， you then have to choose phOtoS that include a street sign， as this apparently provides solid evidence to your computer that you are， in fact， a human being. lt， s no small wonder most Of us forget our passwords more Often than our keys ． （10） Now a new peer- reviewed study by researchers at Aalto University in Finland is attempting to figure out whY we forget",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "man describe the woman， s school grades？ 0 〖 精析 〗 细节辨认题。 句 （8） 中， 男士说， 女士的学习成绩参差不齐。 她确实时不时得高分， 但并不是特别稳定。 因此答案为 C)O Questions 9 to 11 are based on the passage you have just heard. Logging into your email account can sometimes feel like trying to hack into the Pentagon. If you follow all Of t",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q9",
@@ -134,8 +206,17 @@
             "C": "To provide evidence that passwords are forgotten.",
             "D": "To convince our computer that we are human."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 句 （9） 中提到， 通常情况下， 你必须选择包含路牌的照片， 因为这显然向你的电脑提供了确凿的证据， 证明你实际上是一个人。 解析册 · 2024 年 12 月六级真题 （一） 3 D） 项中的 convince our computer 是录音中 provides solid evidence to your computer 的同义转述。 因此答案为 D)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "9 ． Why do we often have t0 choose photos that include a street sign to 10g into our email accounts？ D) 〖 精析 〗 细节辨认题。 句 （9） 中提到， 通常情况下， 你必须选择包含路牌的照片， 因为这显然向你的电脑提供了确凿的证据， 证明你实际上是一个人。 解析册 · 2024 年 12 月六级真题 （一） 3 D） 项中的 convince our computer 是录音中 provides solid evidence to your",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q10",
@@ -147,8 +228,17 @@
             "C": "Reduce the intricacy of the password itself.",
             "D": "Explain the need for different email accounts."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节推断题。 句 （10） 中提到， 芬兰阿尔托大学的研究人员进行了一项新的同行评议研究， 试图找出我们忘记密码的原因， 以帮助结束这一令人沮丧的现象。 也就是说， 这些研究人员进行研究的目的是帮助人们记住自己的密码。 因此答案为",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "10 ． What dO researchers at a university in Finland aim to dO in their new study？ B) 〖 精析 〗 细节推断题。 句 （10） 中提到， 芬兰阿尔托大学的研究人员进行了一项新的同行评议研究， 试图找出我们忘记密码的原因， 以帮助结束这一令人沮丧的现象。 也就是说， 这些研究人员进行研究的目的是帮助人们记住自己的密码。 因此答案为",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q11",
@@ -160,8 +250,17 @@
             "C": "Explore the possibility of using simpler secret codes.",
             "D": "Take steps to encourage users to log in more often."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 句 （(1) 中提到， 研究人员建议网站提供更多的激励让用户频繁地登录， 以帮助他们记住自己的密码。 因此答案为 D)O Questions 12 to 15 are based on the passage you have j ust heard. (12)Four years ago， Jenny Weiner was in a fitness slump. She wanted to improve her physical and mental health ． However， her workouts lacked intensity without a proper training programme to follow ． When she went to the gym， her daily ritual predominantly involved easy exercise options like jogging； she avoided more formidable exercises like lifting weights， A personal trainer whO might push her was out Of the question. The extravagant cost was just unaffordable ． She then discm ℃ red the fitness phone app Shmmeretics. (13)To use the app， you first input your profile about your previous training experiences and preferences， as well as your desired goals ． A virtual coach then uses that information to suggest a personalised training regrme ． Af",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "11. What dO the researchers advise websites to dO at the end Of the passage？ D) 〖 精析 〗 细节辨认题。 句 （(1) 中提到， 研究人员建议网站提供更多的激励让用户频繁地登录， 以帮助他们记住自己的密码。 因此答案为 D)O Questions 12 to 15 are based on the passage you have j ust heard. (12)Four years ago， Jenny Weine",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q12",
@@ -173,8 +272,17 @@
             "C": "Her fitness fell into a slump.",
             "D": "Her business deteriorated."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节辨认题。 句 （12） 中提到， 4 年前， 珍妮 · 韦纳陷人了健康低谷。 C) 项中的 fitness 和 slump 属于原词复现。 因此答案为 C）。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "12， What was the problem Jenny Weiner encountered four years ago？ C) 〖 精析 〗 细节辨认题。 句 （12） 中提到， 4 年前， 珍妮 · 韦纳陷人了健康低谷。 C) 项中的 fitness 和 slump 属于原词复现。 因此答案为 C）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q13",
@@ -186,8 +294,17 @@
             "C": "Strengthen ties among users worldwide.",
             "D": "Select well-qualified human coaches."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 句 （13） 中提到， 为了使用该应用程序， 你首先输人你的个人资料， 包括你以前的锻炼经历和偏好， 以及你的预期目标。 然后一个虚拟教练使用这些信息来提出一个个性化的锻炼方案。 因此答案为 B)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "13 ． What can the fitness phone app SIimmeretics d0 according to the passage？ B) 〖 精析 〗 细节辨认题。 句 （13） 中提到， 为了使用该应用程序， 你首先输人你的个人资料， 包括你以前的锻炼经历和偏好， 以及你的预期目标。 然后一个虚拟教练使用这些信息来提出一个个性化的锻炼方案。 因此答案为 B)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q14",
@@ -199,8 +316,17 @@
             "C": "They are of no extreme intensity.",
             "D": "They keep her focused on her goal."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （14） 中提到， 韦纳女士现在发现这些锻炼很令人兴奋， 这是因为没有两个锻炼方案是完全相同的。 A) 项中的 never repeated 是录音中 no tWO are ever the same 的同义转述。 因此答案为 A)O 15， What dO some experts think Of fitness apps like Slimmeretics？ A) 〖 精析 〗 细节辨认题。 句 （15） 中提到， 一些专家认为应用程序不能取代人类私人教练。 A) 项中的 not able to take the place of 是录音中 cannot replace 的同义转述； human personal trainers 属于原词复现。 因此答案为 A)。 Questions 16 to 18 are based on the recording you have just heard. (16)All societies are held together by seven universal moral rules， which include deferring to superiors and respecting the property Of others， Oxford University has concluded. AIthough many cultures are moving towards more liberal， less hierarchical organizations， the new research suggests that traditional power structures and basic values Of charity and brotherhood are the cornerstones Of successful societies ． The huge study of 60 different cultures around the wor",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "14 ． Why does the passage say Jenny Weiner now Section C finds the workouts exciting？ A) 〖 精析 〗 细节辨认题。 句 （14） 中提到， 韦纳女士现在发现这些锻炼很令人兴奋， 这是因为没有两个锻炼方案是完全相同的。 A) 项中的 never repeated 是录音中 no tWO are ever the same 的同义转述。 因此答案为 A)O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q15",
@@ -212,8 +338,17 @@
             "C": "They cannot lead to optimal results with their mathematical approach.",
             "D": "They cannot match humans in arranging meticulous workout schedules."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （15） 中提到， 一些专家认为应用程序不能取代人类私人教练。 A) 项中的 not able to take the place of 是录音中 cannot replace 的同义转述； human personal trainers 属于原词复现。 因此答案为 A)。 Questions 16 to 18 are based on the recording you have just heard. (16)All societies are held together by seven universal moral rules， which include deferring to superiors and respecting the property Of others， Oxford University has concluded. AIthough many cultures are moving towards more libera",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "15， What dO some experts think Of fitness apps like Slimmeretics？ A) 〖 精析 〗 细节辨认题。 句 （15） 中提到， 一些专家认为应用程序不能取代人类私人教练。 A) 项中的 not able to take the place of 是录音中 cannot replace 的同义转述； human personal trainers 属于原词复现。 因此答案为 A)。 Questions 16 to 18 ar",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q16",
@@ -225,8 +360,17 @@
             "C": "All societies are kept together by seven basic moral rules.",
             "D": "Everyone everywhere shares a universal moral standard."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节辨认题。 句 （16） 中提到， 牛津大学得出结论称， 所有社会都是由 7 条普遍的道德准则维系在一起的， 其中包括服从上级和尊重他人的财产。 0 项中的 kept together 是录音中 held together 的同义转述。 因此答案为 C)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "16 ． What do we learn from the conclusion of the Oxford Umversity researchers？ C) 〖 精析 〗 细节辨认题。 句 （16） 中提到， 牛津大学得出结论称， 所有社会都是由 7 条普遍的道德准则维系在一起的， 其中包括服从上级和尊重他人的财产。 0 项中的 kept together 是录音中 held together 的同义转述。 因此答案为 C)O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q17",
@@ -238,8 +382,17 @@
             "C": "Make clear whether all societies faced the same moral issues.",
             "D": "Find out whether left-wing people still had a group loyalty."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 句 （17） 中提到， 发表在 《当代人类学》 上的这项研究是迄今为止规模最大、 最全面、 最广泛的道德调查， 其目的是找出不同的社会是否有不同版本的道德观。 因此答案为 B)。 1 & What does Harvey Whitehouse think social scientists should dO to test theories Of morality？ D) 〖 精析 〗 细节归纳题。 根据句 （",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "17 ． What did the new study by Oxford researchers aim to dO？ B) 〖 精析 〗 细节辨认题。 句 （17） 中提到， 发表在 《当代人类学》 上的这项研究是迄今为止规模最大、 最全面、 最广泛的道德调查， 其目的是找出不同的社会是否有不同版本的道德观。 因此答案为 B)。 1 & What does Harvey Whitehouse think social scientists should",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q18",
@@ -251,8 +404,17 @@
             "C": "Appreciate the foundational value of the existing data.",
             "D": "Carry out systematic field studies to gather new data."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "册 · 2024 年 12 月六级真题 （一） 5",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "18 ． 2） 可知， 合著者哈维 ． 怀特豪斯教授认为， 社会科学家现在应该着手实地检验这一理论， 而不是依靠旧数据。 如果他们认真对待道德理论的测试， 就需要去实地更系统地收集新数据。 因此答案为 D)O Questions 19 to 21 are based on the recording you have just heard. When it comes to fOOd， color IS money ． FOOd companies know that better color g1Ves better prices， SO they",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q19",
@@ -264,8 +426,17 @@
             "C": "They can be viewed as the windows to our soul.",
             "D": "They could mislead us in more ways than one."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （19） 中提到， 尽管我们都在谈论舌头， 但我们的眼睛确实可能是饮食体验中最重要的部分。 因此答案为 A)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "19 ． What does the speaker say about our eyes？ A) 〖 精析 〗 细节辨认题。 句 （19） 中提到， 尽管我们都在谈论舌头， 但我们的眼睛确实可能是饮食体验中最重要的部分。 因此答案为 A)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q20",
@@ -277,8 +448,17 @@
             "C": "It invariably determines how food sells.",
             "D": "It changes the way people taste food."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 句 （20） 中提到， 颜色实际上改变了我们品尝食物的方式。 因此答案为 D)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "20 ． What does color actually dO according to this D) 〖 精析 〗 细节辨认题。 句 （20） 中提到， 颜色实际上改变了我们品尝食物的方式。 因此答案为 D)O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q21",
@@ -290,8 +470,17 @@
             "C": "Identify distinct flavors.",
             "D": "Enrich the eating experience."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 句 （(1) 中提到， 大脑通过颜 B) 色进行预测。 因此答案为 B)O Questions 22 to 25 are based on the recording you have just heard. （22） Searching for meaning is something many Of us experience throughout our lives ． For some， this meaning iS religious， some political and some interpersonal. And having a sense Of",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "21. What does the brain use color to do？ 〖 精析 〗 细节辨认题。 句 （(1) 中提到， 大脑通过颜 B) 色进行预测。 因此答案为 B)O Questions 22 to 25 are based on the recording you have just heard. （22） Searching for meaning is something many Of us experience throughout our lives ． For so",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q22",
@@ -303,8 +492,17 @@
             "C": "Meaning.",
             "D": "Happiness."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节辨认题。 句 （22） 中提到， 寻找意义是我们许多人一生都在经历的事情。 因此答案为。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "22 ． What does the speaker say many Of us search for throughout our lives？ C) 〖 精析 〗 细节辨认题。 句 （22） 中提到， 寻找意义是我们许多人一生都在经历的事情。 因此答案为。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q23",
@@ -316,8 +514,17 @@
             "C": "They can affect people's experience of meaning.",
             "D": "They can ensure people's overall well-being."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节辨认题。 句 （23） 中提到， 多伦多大学的瑞亚 · 卡塔帕诺及其同事发现， 意义对富人幸福感的预测作用远远弱于穷人， 这表明经济资源会影响我们对意义的体验。 因此答案为 C)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "23 ． What do Rhia Catapano and colleagues find about economic resources？ C) 〖 精析 〗 细节辨认题。 句 （23） 中提到， 多伦多大学的瑞亚 · 卡塔帕诺及其同事发现， 意义对富人幸福感的预测作用远远弱于穷人， 这表明经济资源会影响我们对意义的体验。 因此答案为 C)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q24",
@@ -329,8 +536,17 @@
             "C": "It analysed cases from a daily poll of US residents.",
             "D": "It examined data collected from multiple countries."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 句 （24） 中提到， 第二项研究着眼于全球数据。 也就是说， 它研究了从多个国家收集到的数据。 因此答案为 D)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "24、 What dO we learn about Rhia Catapano and colleagues second study？ D) 〖 精析 〗 细节辨认题。 句 （24） 中提到， 第二项研究着眼于全球数据。 也就是说， 它研究了从多个国家收集到的数据。 因此答案为 D)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q25",
@@ -342,8 +558,17 @@
             "C": "They might be less easily affected by a community's overall feeling.",
             "D": "They might be less adversely impacted by failure to achieve a purpose."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 3 项研究都证明， 意义和幸福感之间的关系在资源较少的人中比在资源较多的人中更强。 根据句 （25） 可知， 这可能是因为富有的人有更多的机会获得其他的幸福来源。 因此答案为 A)O 解析册 ． 2024 年 12 月六级真题 （一） 6 Part Section A Reading Comprehension 〖 文章来源 〗 本文选自 2010 年 4 月 20 日刊登在网站 www. 山 “ /， com 上的一篇名为 \"On Conspicuous Consumption\" （《论炫耀性消费》） 的文章。 〖 结构框图 〗 本文主要介绍了随着经济的发展， 消费主义越来越深入人心。 〖 词性分析 〗： 第一段指出经济的发展使得人们的思想观念发生变化， 作者的生活观念, 也因其自身地位和经历而发生了巨大的改变。， 第二段指出整个世界都在借贷消费， 很多人因此变得富有， 但只要是不超出自己承受能力的消费就是值得称赞的。 名词： A) appeal 吸引力， 感染力； 上诉， 申诉； D) irony 具有讽刺意味的情况； 反语， 反话； E) layman 外行， 门外汉； I) meadow 草地； K) predator 捕食者； 捕食性动物； 剥削者； 掠夺者； L) rage 流行， 风行一时的事物； 暴怒， 狂怒； M) scrape 刮擦声； 擦伤， 擦痕动词： A) appeal 上诉， 申诉， 呼吁， 吁请； 有吸引力； J) mingle （尤指在社交场所） 应酬， 交际； （使） 混合； L) rage 发怒， 怒斥； 猛烈地继续， 激烈进行； M) scrape 艰难取得， 勉强获得； 擦坏， 刮坏； （使） 发出刺耳的刮擦声形容词： G) majestic 雄伟的， 壮观的； 威严的； H) malicious 怀有恶意的， 恶毒的； N) shrewd 精明的， 敏锐的； 判断准确的， 英明的； O) thrifty 节约的",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "25 ． Why dO meaning and happiness have a weaker relationship in those with more resources？ A) 〖 精析 〗 细节辨认题。 3 项研究都证明， 意义和幸福感之间的关系在资源较少的人中比在资源较多的人中更强。 根据句 （25） 可知， 这可能是因为富有的人有更多的机会获得其他的幸福来源。 因此答案为 A)O 解析册 ． 2024 年 12 月六级真题 （一） 6 Part Section A Reading Comprehension 〖 文",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -351,7 +576,7 @@
       "id": "reading-banked",
       "type": "banked-cloze",
       "title": "Section A · 选词填空",
-      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each \nblank from a list of choices given in a word bank following the passage. Read the passage through carefully \nbefore making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding \nletter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words \nin the bank more than once. \n \nWith the rapid progress in the economy, it is natural that people's ideology is bound for change. Being \n___26___ is no longer a virtue to some people, and they are not alone in holding this view. Each might have \ndifferent viewpoints on how to lead one's lifestyle: some prefer simplicity, some love luxuries, some spend \n___27___, some accumulate as much as they can like a country mouse. As I was born poor and in the \ncountryside, the simple rural life seldom loses its ___28___ to me, but as my station changes, I have an \nopportunity to ___29___ with the newly rich, an experience which has revolutionized my view of lifestyle. \n\n2024 年12 月英语六级真题第1 套  第4 页，共9 页\nIt is evil or sinful to spend little and to save much, an idea only recently being revealed to me. Actually the \nwhole world is in a ___30___ to borrow and to spend, with the USA leading the trend. The USA is still the \nrichest and most powerful country in the world, but the ___31___ is that they borrow money from us. Though a \n___32___ of economics, at least I know that investing with borrowed money will turn the borrower into the \n___33___ rather than the decent and kind lender. An apparent case is real estate. Those who are ___34___ and \nhave got loans from the bank become relatively rich by selling their purchased home at a price several folds \nhigher. Even education is not immune from this theory. Many of those poor parents who have the vision to send \ntheir children to college have benefited from this investment, even though they have to ___35___ a living. It is \nreasonable to conclude that spending is praiseworthy. supposing it is not beyond your means.",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each \nblank from a list of choices given in a word bank following the passage. Read the passage through carefully \nbefore making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding \nletter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words \nin the bank more than once. \n \nWith the rapid progress in the economy, it is natural that people's ideology is bound for change. Being \n___26___ is no longer a virtue to some people, and they are not alone in holding this view. Each might have \ndifferent viewpoints on how to lead one's lifestyle: some prefer simplicity, some love luxuries, some spend \n___27___, some accumulate as much as they can like a country mouse. As I was born poor and in the \ncountryside, the simple rural life seldom loses its ___28___ to me, but as my station changes, I have an \nopportunity to ___29___ with the newly rich, an experience which has revolutionized my view of lifestyle. \n\nIt is evil or sinful to spend little and to save much, an idea only recently being revealed to me. Actually the \nwhole world is in a ___30___ to borrow and to spend, with the USA leading the trend. The USA is still the \nrichest and most powerful country in the world, but the ___31___ is that they borrow money from us. Though a \n___32___ of economics, at least I know that investing with borrowed money will turn the borrower into the \n___33___ rather than the decent and kind lender. An apparent case is real estate. Those who are ___34___ and \nhave got loans from the bank become relatively rich by selling their purchased home at a price several folds \nhigher. Even education is not immune from this theory. Many of those poor parents who have the vision to send \ntheir children to college have benefited from this investment, even though they have to ___35___ a living. It is \nreasonable to conclude that spending is praiseworthy. supposing it is not beyond your means.",
       "wordBank": {
         "A": "appeal",
         "I": "meadow",
@@ -379,14 +604,32 @@
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "题。 B) 〖 【语法判断】 空格前是动词 spend， 其后可接名词作宾语， 也可跟副词起修饰说明的作用。 〖 【语义判断】 空格所在句列举了人们各种各样的生活方式， 为了突出其中的差异， 作者用了两两对比的方式， 先用 simplicity “ 简朴 ” 和 luxuries “ 奢侈品 ” 作对比， 再用 “ spend ” 与后面的 accumulate as much as they can 作对比， 与后面的 “ 尽力储存 ” 意思相反的是 “ 大力消费 ”， B） extravagantl 疒奢侈地， 浪费地； 过度地， 放纵地 ” 修饰 spend， 表示挥霍无度， 符合语义， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "27， 〖 考点 〗 副词辨析题。 B) 〖 【语法判断】 空格前是动词 spend， 其后可接名词作宾语， 也可跟副词起修饰说明的作用。 〖 【语义判断】 空格所在句列举了人们各种各样的生活方式， 为了突出其中的差异， 作者用了两两对比的方式， 先用 simplicity “ 简朴 ” 和 luxuries “ 奢侈品 ” 作对比， 再用 “ spend ” 与后面的 accumula",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "题。 A) 〖 【语法判断】 空格前是形容词性物主代词 its， 据此推断空格处是一个名词， 且能够与后面的介词 to 搭配使用。 〖 【语义判断】 空格所在句开头的 as 是一个连词， 意思是 “ 因为 ”， 作者用它提出原因： 自己出身贫寒， 生在农村， 根据因果逻辑关系可推断这里的意思是： 所以 “ 我 ” 很喜欢简朴的农村生活， 因此填人 A) appeal\" 吸引力 ”, appeal to sb ． 表示 “ 对某人的吸引力 ”， 放在本句中表示农村生活对作者很有吸引力， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "28 ． 〖 考点 〗 名词辨析题。 A) 〖 【语法判断】 空格前是形容词性物主代词 its， 据此推断空格处是一个名词， 且能够与后面的介词 to 搭配使用。 〖 【语义判断】 空格所在句开头的 as 是一个连词， 意思是 “ 因为 ”， 作者用它提出原因： 自己出身贫寒， 生在农村， 根据因果逻辑关系可推断这里的意思是： 所以 “ 我 ” 很喜欢简朴的农村生活， 因此填人 A) a",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q29",
@@ -397,38 +640,92 @@
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "题。 L) 〖 【语法判断】 空格前是不定冠词 a， 可知空格处是一个名词。 〖 【语义判断】 空格所在句的前一句提到少花钱多储解析册 · 2024 年 12 月六级真题 （一） 7 蓄是邪恶或者罪恶的， 可见人们现在对这种保守的消费观念有多摈弃， 空格所在句开头的 actually “ 实际上 ” 通常表示下文的语义比前文更进一层， 后面又提到 the whole world 以及 to borrow and to spend， 可见全世界都在借钱花， 大家都在做的事是一种流行， 因此填人 L) rage\" 流行， 风行一时的事物 ”， 恰当概括这一潮流， 后面的 trend 是对 rage 的同义替换， 前后呼应， 语义通顺。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "30 ． 〖 考点 〗 名词辨析题。 L) 〖 【语法判断】 空格前是不定冠词 a， 可知空格处是一个名词。 〖 【语义判断】 空格所在句的前一句提到少花钱多储解析册 · 2024 年 12 月六级真题 （一） 7 蓄是邪恶或者罪恶的， 可见人们现在对这种保守的消费观念有多摈弃， 空格所在句开头的 actually “ 实际上 ” 通常表示下文的语义比前文更进一层， 后面又提到 the who",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "题。 D) 〖 【语法判断】 空格前有定冠词 the， “ the 作整句的主语， 可知空格处是一个名词。 〖 【语义判断】 空格所在句的前半句提到美国仍然是世界上最富有、 最强大的国家， 后半句提到美国的钱是从我们这里借的， 前后内容对比明显、 反差巨大， 各名词选项里只有 irony “ 具有讽刺意味的情况 ” 能概括此处语义， 故 D） 为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "31. 〖 考点 〗 名词辨析题。 D) 〖 【语法判断】 空格前有定冠词 the， “ the 作整句的主语， 可知空格处是一个名词。 〖 【语义判断】 空格所在句的前半句提到美国仍然是世界上最富有、 最强大的国家， 后半句提到美国的钱是从我们这里借的， 前后内容对比明显、 反差巨大， 各名词选项里只有 irony “ 具有讽刺意味的情况 ” 能概括此处语义， 故 D） 为答案",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "题。 E) 〖 【语法判断】 空格前有不定冠词 a， 后面有介词短语 of economics 作后置定语， 可知空格处是一个名词。 〖 【语义判断】 空格前的 though 意思是 “ 虽然， 尽管 ”， 表让步， 后面提到 economics\" 经济学 ”， 下半句用 at least I know “ 至少我还知道 ” 说明作者具备经济学常识： 用借来的钱进行投资会让借款人变成社会中的 “， “ ．， 而不是正直善良的放款人。 可见作者这里使用了欲扬先抑的表达手法， 先退一步表明自己的无知， 再说自己具备的知识， 所以填人 E） layman “ 外行， 门外汉 ”， a layman of economics 表示 “ 经济学的门外汉 ”",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "32 ． 〖 考点 〗 名词辨析题。 E) 〖 【语法判断】 空格前有不定冠词 a， 后面有介词短语 of economics 作后置定语， 可知空格处是一个名词。 〖 【语义判断】 空格前的 though 意思是 “ 虽然， 尽管 ”， 表让步， 后面提到 economics\" 经济学 ”， 下半句用 at least I know “ 至少我还知道 ” 说明作者具备经济学常识： 用借来的钱",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "题。 K) 〖 【语法判断】 空格所在处是 turn sb ． into sb. 的结构， 空格前又有定冠词 the， 综合可推断空格处是一个名词。 〖 【语义判断】 空格前提到用借来的钱进行投资使借款人的身份发生了变化， 变化后的身份与后面正直善良的放款人形成对比， 分析各选项可知 K） predator “ 掠夺者 ” 符合语义， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "33， 〖 考点 〗 名词辨析题。 K) 〖 【语法判断】 空格所在处是 turn sb ． into sb. 的结构， 空格前又有定冠词 the， 综合可推断空格处是一个名词。 〖 【语义判断】 空格前提到用借来的钱进行投资使借款人的身份发生了变化， 变化后的身份与后面正直善良的放款人形成对比， 分析各选项可知 K） predator “ 掠夺者 ” 符合语义， 故为答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "题。 N) 〖 【语法判断】 空格前是系动词 are， 其后需要跟名词或形容词作表语。 〖 【语义判断】 空格处的词说明借贷买房者的特征， 后面具体说明他们做了什么： 通过借贷买房， 再以高出几倍的价格卖出， 变得相当富有， 可见这些人非常有头脑， 能够概括这些人特点的词是 N） shrewd “ 精明的 ”， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "34 ． 〖 考点 〗 形容词辨析题。 N) 〖 【语法判断】 空格前是系动词 are， 其后需要跟名词或形容词作表语。 〖 【语义判断】 空格处的词说明借贷买房者的特征， 后面具体说明他们做了什么： 通过借贷买房， 再以高出几倍的价格卖出， 变得相当富有， 可见这些人非常有头脑， 能够概括这些人特点的词是 N） shrewd “ 精明的 ”， 故为答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "题。 M) 〖 【语法判断】 空格所在处是 have to do sth ． 的结构， 据此可知空格处是一个动词。 〖 【语义判断】 前文举了精明的人借贷投资房地产并因此变得富有的例子， 接着又说教育也不能免俗， 许多有远见的贫困父母将子女送进了大学， 并从这项投资中获益匪浅。 与冒着风险借贷投资房地产类似的行为就是父母艰难维持生计将孩子送人大学读书， 因此填人 M) scrape “ 艰难取得， 勉强获得 ”， scrape a living 表示 “ 艰难维持生计 ”， 两种投资行为都是透支目前的生活， 为将来作打算， 类比合适， 符合文章意思。 参考译文随着经济的飞速发展， 人们的思想观念自然会发生变化。 对一些人来说， 节俭不再是一种美德， 而且持这种观点的人并不少。 对于如何过好自己的生活， 每个人可能都有不同的观点： 有人喜欢简朴， 有人喜欢奢侈品， 有人挥霍无度， 有人像乡下老鼠一样能储存多少就储存多少。 我出身贫寒， 生在农村， 因此简朴的农村生活对我很有吸引力， 但随着社会地位的变化， 我有机会与新富阶层打交道， 这种经历彻底改变了我的生活观念。 少花钱多储蓄是邪恶或者罪恶的， 我最近才明白这个道理。 事实上， 全世界都在流行借钱花， 美国是这股潮流的引领者。 美国仍然是世界上最富有、 最强大的国家， 但具有讽刺意味的是， 他们的钱是从我们这里借的。 虽然我是经济学的门外汉， 但至少还知道， 用借来的钱进行投资会让借款人变成社会中的掠夺者， 而不是正直善良的放款人。 一个明显的例子是房地产。 那些精明的人从银行贷到款后， 以高出几倍的价格出售所购房屋， 从而变得相当富有。 就连教育也不能免俗。 许多有远见的贫困父母将子女送进了大学， 尽管他们不得不勉强维持生计， 但也从这项投资中获益匪浅。 因此， 我们有理由得出结论， 只要没有超出自己的能力范围， 消费就是值得称赞的。 Section B 〖 文章来源 〗 本文选自 2018 年刊登在 BBC 上的一篇",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "35 ． 〖 考点 〗 动词辨析题。 M) 〖 【语法判断】 空格所在处是 have to do sth ． 的结构， 据此可知空格处是一个动词。 〖 【语义判断】 前文举了精明的人借贷投资房地产并因此变得富有的例子， 接着又说教育也不能免俗， 许多有远见的贫困父母将子女送进了大学， 并从这项投资中获益匪浅。 与冒着风险借贷投资房地产类似的行为就是父母艰难维持生计将孩子送人大学读书，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -443,7 +740,7 @@
         },
         {
           "label": "C",
-          "text": "Prof Azam-Ali explains that just four crops-wheat, maize, rice and soybean-provide two-thirds of the \nworld's food supply. \"We're dependent on these four.\" he says. \"But actually there're 7,000 crops we've \nbeen farming for thousands of years. We ignore all of those.\" Researchers are trying to unlock the potential \nof these ignored crops—plants they describe as forgotten, under-used or \"alternative\" as they are displaced \nby increasingly uniform diets fuelled by processed ingredients from the major crops. \n\n2024 年12 月英语六级真题第1 套  第5 页，共9 页"
+          "text": "Prof Azam-Ali explains that just four crops-wheat, maize, rice and soybean-provide two-thirds of the \nworld's food supply. \"We're dependent on these four.\" he says. \"But actually there're 7,000 crops we've \nbeen farming for thousands of years. We ignore all of those.\" Researchers are trying to unlock the potential \nof these ignored crops—plants they describe as forgotten, under-used or \"alternative\" as they are displaced \nby increasingly uniform diets fuelled by processed ingredients from the major crops."
         },
         {
           "label": "D",
@@ -471,7 +768,7 @@
         },
         {
           "label": "J",
-          "text": "Measuring crops by nutrition instead of yield is at the heart of the forgotten foods enterprise. Ever since the \n\"green revolution\" of the 1960s, high-yielding crops have dominated modern agriculture. That was in part a \ncrucial response to devastating famines at a time when the world needed to increase its food supply. Today \n\"nutrition is becoming a time bomb\", says Azam-Ali, as growing carbon dioxide levels strip crops of their \nminerals. Instead of bio-fortifying major crops we should be investing in those forgotten crops that are \nalready more nutritious, he asserts. \n\n2024 年12 月英语六级真题第1 套  第6 页，共9 页"
+          "text": "Measuring crops by nutrition instead of yield is at the heart of the forgotten foods enterprise. Ever since the \n\"green revolution\" of the 1960s, high-yielding crops have dominated modern agriculture. That was in part a \ncrucial response to devastating famines at a time when the world needed to increase its food supply. Today \n\"nutrition is becoming a time bomb\", says Azam-Ali, as growing carbon dioxide levels strip crops of their \nminerals. Instead of bio-fortifying major crops we should be investing in those forgotten crops that are \nalready more nutritious, he asserts."
         },
         {
           "label": "K",
@@ -483,15 +780,33 @@
           "id": "q36",
           "number": 36,
           "stem": "According to a senior researcher, we will have secure food supply if we rid ourselves of ignorance about \nnative crops.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "〗 同义转述题。 F） 段第二句引用新加坡国立大学水政策研究所高级研究员塞西莉亚 · 托塔哈达的话， 她认为， 世界上没有粮食不安全， 只有对粮食的无知， 结合上下文可知， 此话的意思是， 一旦消除了对许多替代食物的无知， 就能确保粮食供应。 由此可知， 题干是对 F) 段第二句的转述。 题干中的 secure food supply 对应原文中的 no f00d insecurity， 故答案为 F)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "36 ． 〖 定位 〗 由题干中的 secure 和 ignorance 定位到文章 F） 段第二句。 F) 〖 精析 〗 同义转述题。 F） 段第二句引用新加坡国立大学水政策研究所高级研究员塞西莉亚 · 托塔哈达的话， 她认为， 世界上没有粮食不安全， 只有对粮食的无知， 结合上下文可知， 此话的意思是， 一旦消除了对许多替代食物的无知， 就能确保粮食供应。 由此可知， 题干是对 F) 段第二句的转述。 题干中的 s",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "Most of the world's food supply comes from a tiny number out of thousands of crops that have been grown \nfor centuries.",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节归纳题。 C） 段第一句提到， 世界粮食供应的三分之二是仅由 4 种作物提供， 而第三句则指出， 实际上， 有 7 000 种作物人类已经种植了数千年。 题干是对上述两处信息的归纳， 其中的 most of 对应原文中的 two-thirds of， thousands of crops that have been grown for centuries 是对原文中 7， 0 開 crops we， ve been farming for thousands of years 的转述， 故答案为 C)O 3 & 〖 定位 〗 由题干中的 African women farmers 和 backyards 定位到文章 G） 段第二、 三句。 G) 〖 精析 〗 同义转述题。 G） 段定位部分提到， 在博士生的时候， 阿扎姆 ． 阿里通过在尼日尔遇到的女农民的劳作发现了替代作物。 当主要庄稼歉收时， 她们在自家后院种植庄稼来养家糊口。 题干是对该部分信息的转述。 题干中的 provide their family with food 是对原文中 feed their families 的同义转述， 题干中的 the staple crops failed 对应原文中的 the big crops failed， 故答案为 G)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "37 ． 〖 定位 〗 由题干中的 the world， s food supply 和 thousands of crops 定位到 C） 段第一、 三句。 0 〖 精析 〗 细节归纳题。 C） 段第一句提到， 世界粮食供应的三分之二是仅由 4 种作物提供， 而第三句则指出， 实际上， 有 7 000 种作物人类已经种植了数千年。 题干是对上述两处信息的归纳， 其中的 most of 对应原文中的 two-thirds of， thousands of crops that ha",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q38",
@@ -504,15 +819,33 @@
           "id": "q39",
           "number": 39,
           "stem": "High-yielding crops have occupied a dominant position in modern agriculture since the green revolution in \nthe last century.",
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "〗 同义转述题。 J） 段定位句提到， 自 20 世纪 60 年代的 “ 绿色革命 \" 以来， 高产作物主导了现代农业， 题干显然是对该句的转述。 题干中的 have occupied a dominant position in modern agriculture 是对原文中 have dominated modern agriculture 的转述， 题干中的 in the last century 是对原文中 the 1960S 的转述， 故答案为 J)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "39 ． 〖 定位 〗 由题干中的 high-yielding crops 和 green revolution 定位到 J） 段第二句。 J) 〖 精析 〗 同义转述题。 J） 段定位句提到， 自 20 世纪 60 年代的 “ 绿色革命 \" 以来， 高产作物主导了现代农业， 题干显然是对该句的转述。 题干中的 have occupied a dominant position in modern agriculture 是对原文中 have dominated modern",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "Growing alternative crops proved feasible in a variety of environments, but the critical question was \nwhether they would be marketable.",
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "〗 同义转述题。 H） 段定位部分提到， 一个又一个的项目帮助证明了这些作物在不同的环境中作为主食的替代品是可行的， 但这些作物是否能推向市场尚存疑问。 阿扎姆 ． 阿里说， 这是关键所在。 题干中的 feasible in a variety of environments 是对原文中 viable in different environments 的转述， 题干中的 the critical question was whether they would marketable 则对应原文中的 the question of whether these crops would marketable remained 和 that， s the critical thmg, 故答案为 H)",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "40 ． 〖 定位 〗 由题干中的 a variety of environments 和 marketable 定位到文章 H） 段第二至四句。 H) 〖 精析 〗 同义转述题。 H） 段定位部分提到， 一个又一个的项目帮助证明了这些作物在不同的环境中作为主食的替代品是可行的， 但这些作物是否能推向市场尚存疑问。 阿扎姆 ． 阿里说， 这是关键所在。 题干中的 feasible in a variety of environments 是对原文中 viable in",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q41",
@@ -525,8 +858,17 @@
           "id": "q42",
           "number": 42,
           "stem": "Urgent measures have to be taken to provide food for the projected world population without aggravating \nthe climate.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节归纳题。 D） 段定位部分提到， 到 2050 年， 世界必须多生产 50 ％ 的粮食来养活预计 100 亿全球人口， 想要满足这一需求而又不加剧气候变化， 就需要紧急解决方案。 题干是对这两处信息的归纳。 题干中的 urgent measures have to be taken 对应原文中的 calls for urgent solutions， 题干中的 without aggravating the climate 对应原文中的 without contributing t0 climate change， 故答案为 D)O 43， 〖 定位 〗 由题干中的 colomal rule marginalised 和 punishing 定位到文章 I) 段第二、 三句。 〖 精析 〗 细节推断题。 I) 段第二句提到， 在撒哈拉以南非洲和东南亚部分地区种植的班巴拉花生是在殖民统治时期遭到边缘化的， 随后一句介绍具体情况， 指出非洲女性会因为种植班巴拉花生而受到惩罚。 根据这两处信息可以推断出， 殖民者对种植当地作物的惩罚措施导致了其边缘化。 题解析册 · 2024 年 12 月六级真题 （一） 9 干中的 local crops 所指的就是原文中的 bambara groundnut， 题干中的 punishing Africans whO grew them 对应原文中的 African women who grew bambara groundnut were actually punished for growing it， 故答案为 1)0",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "42 ． 〖 定位 〗 由题干中的 urgent 和 the projected world population 定位到文章 D） 段第三、 四句。 D) 〖 精析 〗 细节归纳题。 D） 段定位部分提到， 到 2050 年， 世界必须多生产 50 ％ 的粮食来养活预计 100 亿全球人口， 想要满足这一需求而又不加剧气候变化， 就需要紧急解决方案。 题干是对这两处信息的归纳。 题干中的 urgent measures have to be taken 对应原文中的 call",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
@@ -539,13 +881,22 @@
           "id": "q44",
           "number": 44,
           "stem": "As existing crops are endangered by global warming, we can increase food security by bringing back the \nmany forgotten food crops.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "〗 同义转述题。 E） 段定位句提到， 在气候变暖威胁现有作物的时候， 恢复人类曾经吃过的各种作物也可以促进粮食安全。 题干中的 existing crops are endangered by gIObaI warming 是对原 《文中 warming climates threaten existing crops 的同义转述， 题干中的 increase food security 对应原文中的 boosts food security， 题干中的 many forgotten fOOd crops 对应原文中的 the variety Of crops humans once ate， 故答案为 E)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+            "sourceText": "44 ． 〖 定位 〗 由题干中的 exlsting crops 和 bringmg back 定位到文章 E） 段第三句。 E) 〖 精析 〗 同义转述题。 E） 段定位句提到， 在气候变暖威胁现有作物的时候， 恢复人类曾经吃过的各种作物也可以促进粮食安全。 题干中的 existing crops are endangered by gIObaI warming 是对原 《文中 warming climates threaten existing cr",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q45",
           "number": 45,
-          "stem": "Researchers are trying to find out how higher temperatures and CO, levels affect the nutritional composition \nof alternative crops. \n \n\n2024 年12 月英语六级真题第1 套  第7 页，共9 页",
+          "stem": "Researchers are trying to find out how higher temperatures and CO, levels affect the nutritional composition \nof alternative crops.",
           "answer": null,
           "explanation": ""
         }
@@ -570,8 +921,17 @@
                 "C": "spiritual elevation",
                 "D": "intense curiosity"
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "〗 同义转述题。 文章第一、 二段设置了一个情境： 想象自己是一个外星人， 看到地球上的人类看恐怖片的场景。 而第三段开头指出 “ They are clearly in a state of high arousa",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+                "sourceText": "46， 〖 定位 〗 由题干中的 clearly in a state of 定位到第三段第一句。 B) 〖 精析 〗 同义转述题。 文章第一、 二段设置了一个情境： 想象自己是一个外星人， 看到地球上的人类看恐怖片的场景。 而第三段开头指出 “ They are clearly in a state of high arousa",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -579,12 +939,21 @@
               "stem": "Why do many people seek out scary entertainment, according to the author's research?",
               "options": {
                 "A": "They gain experience in overcoming horror in real life.",
-                "B": "They find joy in going through simulated horrible experiences.   2024 年12 月英语六级真题第1 套  第8 页，共9 页",
+                "B": "They find joy in going through simulated horrible experiences.",
                 "C": "They have learned from hide-and-seek as kids the thrill involved.",
                 "D": "They have evolved to gain pleasure in escaping life-threatening situations."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "〗 细节归纳题。 文章第六段提到了作者对于为什么人类会寻求恐怖娱乐很感兴趣， 第七段提到作者对于这个问题的答案， 随后在第八段中， 作者详细阐释了自己的答案， 并提到了自己的研究结果： 人类在进化过程中， 愿意在安全的环境中去感受负面情绪， 并从中寻求乐趣。 而根据前 5 段中恐怖电影的例子以及第八段后面捉迷藏的例子可知， “ 安全的环境 ” 都是一些模拟的恐怖情形。 总结可得， 人们能够在模拟的恐怖经历中寻求快乐， 故答案为 B)O 〖 避错 〗 第十一段中提到了恐怖能够让我们与负面情绪共处， 并发展出应对负面情绪的策略， 但 A) “ 他们从克服现实生活中的恐惧中获得经验 ” 并非人类寻求恐怖娱乐的原因， 故排除； 第九段指出孩子们能够通过捉迷藏学会如何避免成为猎物， 并没有提到他们感受到了刺激， 故排除 C)； 第八段作者指出人们愿意在安全的环境中去感受负面情绪， 并从中寻找乐趣， 而非在真正遇到生命威胁的情况下， 故排除 D)O",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+                "sourceText": "47， 〖 定位 〗 由题干中的 seek out scary entertainment 和 the author， s research 定位到第八段第一句。 B) 〖 精析 〗 细节归纳题。 文章第六段提到了作者对于为什么人类会寻求恐怖娱乐很感兴趣， 第七段提到作者对于这个问题的答案， 随后在第八段中， 作者详细阐释了自己的答案， 并提到了自己的研究结果： 人类在进化过程中， 愿意在安全的环境中去感受负面情绪， 并从中寻求乐趣。 而根据前 5 段中恐怖电影的例子以及第八段后面捉迷藏的例子可知， “",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -596,8 +965,17 @@
                 "C": "How to keep themselves from catastrophic errors.",
                 "D": "How to turn a dangerous scenario into a safe one."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "〗 细节辨认题。 文章第八段第三句开始以儿童游戏中的捉迷藏为例支撑自己的观点。 而第九段开头提到了 gives the chlld crucial information， 即为孩子们提供了重要信息， 可知本句讲述孩子们能够从捉迷藏游戏中学到的知识， 即 how to avoid becommg prey “ 如何避免成为猎物 ”， 故答案为 A)O 〖 避错 〗 第八段提到了捉迷藏是对捕食者和猎物互动的一种模拟， 但这并非孩子们从中学到的东西， 故排除 B）； 第九段后半部分提到， 孩子们喜欢玩捉迷藏类似的活动是因为这类游戏给了他们一种安全地体验潜在灾难性场景的经历， 与 C） 选项所述 “ 避免犯下灾难性错误 ” 以及 D） 选项所述 “ 把危险的情况变安全 ” 不同， 故排除 C)、 D)O 49， 〖 定位 〗 由题干中的 gratifying to many people 定位到第十一段。 〖 精析 〗 细节归纳题。 第十一段开头提到了 C) “ Horror is pleasurable to many people ． ． ． ”， 其中 pleasurable 与题干中的 gratifying 为近义词， 后面是 because 引导的原因状语从句， 说明原因： 这一情绪让我们与负面情绪共处， 并发展出应对策略。 下一句补充说明我们体会到了真正的恐惧是什么感觉， 也学会了如何处理自己的负面情绪， 故答案为 C)。 〖 避错 〗 第十二段提到了 an ancient set of biological defence mechanisms “ 一套古老的生物防御杉制 ”、 use our evolved imagination to travel into virtual worlds that are full Of danger\" 运用进化来的想象力进人充满危险的虚拟世界 ”、 \"exploiting. ． an evolved fear system ” “ 利用进化的恐惧系统 ” 和 humans are uniquely i",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+                "sourceText": "48 ． 〖 定位 〗 由题干中的 hide-and-seek 定位到第九段。 A) 〖 精析 〗 细节辨认题。 文章第八段第三句开始以儿童游戏中的捉迷藏为例支撑自己的观点。 而第九段开头提到了 gives the chlld crucial information， 即为孩子们提供了重要信息， 可知本句讲述孩子们能够从捉迷藏游戏中学到的知识， 即 how to avoid becommg prey “ 如何避免成为猎物 ”，",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -609,8 +987,17 @@
                 "C": "It allows them to learn what fear feels like and how to tackle it.",
                 "D": "It activates their evolved fear system and their unique fantasy."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "〗 细节归纳题。 第十一段开头提到了 C) “ Horror is pleasurable to many people ． ． ． ”， 其中 pleasurable 与题干中的 gratifying 为近义词， 后面是 because 引导的原因状语从句， 说明原因： 这一情绪让我们与负面情绪共处， 并发展出应对策略。 下一句补充说明我们体会到了真正的恐惧是什么感觉， 也学会了如何处理自己的负面情绪， 故答案为 C)。 〖 避错 〗 第十二段提到了 an ancient set of biological defence mechanisms “ 一套古老的生物防御杉制 ”、 use our evolved imagination to travel into virtual worlds that are full Of danger\" 运用进化来的想象力进人充满危险的虚拟世界 ”、 \"exploiting. ． an evolved fear system ” “ 利用进化的恐惧系统 ” 和 humans are uniquely imagmative “ 人类的想象力是独一无二的 ”， 均是为了解释恐怖起作用的机制， 而非解释恐怖让人高兴的原因， 故排除 A)、 B)、 D)O",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+                "sourceText": "49， 〖 定位 〗 由题干中的 gratifying to many people 定位到第十一段。 〖 精析 〗 细节归纳题。 第十一段开头提到了 C) “ Horror is pleasurable to many people ． ． ． ”， 其中 pleasurable 与题干中的 gratifying 为近义词， 后面是 because 引导的原因状语从句， 说明原因： 这一情绪让我们与负面情绪共处， 并发展出应对策略。 下一句补充说明我们体会到了真正的恐惧是什么感觉， 也学会了如何处理自己",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q50",
@@ -622,14 +1009,23 @@
                 "C": "A profound sense of intense relief.",
                 "D": "A strong sense of being in control."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "〗 细节辨认题。 最后一段第二句提到 “ If you make it through the film in one piece ． ·。 ”， 原文中的 make it through 和 in one piece 分别与题干中的 \"watch. 。 · through ” 和 without being hurt 为同义词组。 因此后半句便是看完整部电影且未受到伤害的人的感受， 即你会体验到 a strong sense of mastery “ 一种强烈的掌控感 ”， 与 D） 选项为同义词组， 故答案为 D）。 〖 避错 〗 文章最后一段在讲述看完恐怖电影后的感受时只提到了掌控感， 并未提到 a strong sense of clear relevance “ 强烈的明确相关性 ”、 a profound sense of good fortune “ 强烈的好运感 ” 和 a profound sense Of intense relief\" 如释重负感 ”， 因此排除 A)、 B)、 C)。 参考译文想象一下， 你是一个外星人， 被派到地球上记录居住在这个星球上的哺乳动物的行为。 你无意中走进一家正在放映最新好莱坞恐怖电影的电影院。 （电影院里） 几十个人聚集在一个黑暗、 未加装饰的房间里。 他们都盯着一个长方形区域， 在这个区域， 光影的图案变化迅速。 （46） 他们显然处于高度兴奋的状态。 他们心跳加快， 偶尔会紧张地环顾四周， 有时会集体从座位上跳起来， 并发出尖锐的警告声。 最后， 灯光亮起， 长方形的屏幕变黑。 人们站起来离开房间， 谈笑风生， 并表现出高兴的样子。 解析册 ． 2024 年 12 月六级真题 （一） 12 为什么这些人类会自愿地将自己暴露在一种看起来非常不愉快的经历中？ 而又是为什么他们对屏幕上的光影产生如此强烈的反应？ 我对恐怖悖论很感兴趣， 即许多人寻求恐怖娱乐这一奇怪的事实。 我认为这个谜题的答案藏在人的本性中。 （47） 我的研究调查表明， 人类在进",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+                "sourceText": "50 ． 〖 定位 〗 由题干中的 if they watch a horror film through without being hurt 定位到文章最后一段 D) 〖 精析 〗 细节辨认题。 最后一段第二句提到 “ If you make it through the film in one piece ． ·。 ”， 原文中的 make it through 和 in one piece 分别与题干中的 \"watch. 。 · through ” 和 without being hurt 为同义词组。 因此后半句便",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
         {
           "label": "Passage Two",
-          "text": "Questions 51 to 55 are based on the following passage. \nAn awakening has been taking place in the physical world against the beauty model that has been dictated \nto us for years. But in the digital arena, social media determines what is considered beautiful. \nThe two opposing struggles are taking place in parallel. In the physical world, the struggle goes against the \nunderlying pressure exerted on women to conform to an unrealistic beauty ideal. As part of the struggle, \nvarious media outlets have presented women whose bodies don't correspond to the so-called ideal. All those \nwomen who had previously been excluded from the covers of magazines, television series and the public \nagenda, have become \"legitimate\". At the same time, a group of influencers have begun to upload to social \nmedia photos of themselves without makeup, and even photos in which they highlight supposed flaws. \nTechnology has reshaped our beauty ideal and is doing a great job communicating that message to the \nmasses. One of the bizarre legacies of the past decade is the popularity of the \"cyborg look\", which illustrates \nwhat Americans will look like in 2050. \nThe cyborg look spread rapidly. Today, however, the Instagram face has become the new beauty ideal. \nThe internalization of accepted beauty norms is much more effective when there is active involvement in \nthe learning process. The active involvement of users is reflected in the gamified ( 游戏化的) interaction \noffered by the social media platforms-the ability to like, write a comment, compare, share. \nOnce the desired beauty ideal has been internalized, users are given tools or features to change their \nappearance to suit the accepted beauty ideal such as editing the image, choosing the ideal filter, the right \nbackground. \nA survey conducted in the United States revealed that more than 50% filter the images before posting \nthem. And you will not be surprised to hear that the majority of them are women. One of the significant \nconsequences of obsessive filtering is the emerging tendency to treat oneself as an object to be observed and \nvalued, in the same way another person observes and judges from the side. \nThe effect of the filters is already far beyond amiable amusement. The filters and the entire game played \non the networks affect the mental health of the users. According to a study, apps like Instagram, Snapchat and \n\n2024 年12 月英语六级真题第1 套  第9 页，共9 页\nFaceTune allow users to achieve a level of perfection that was previously only observed in beauty magazines. \nEven though humanity has always cherished beauty, in the last decade our obsession with looks has \nreached an unprecedented peak. The time spent on social media creates an urge to achieve an impossible beauty \nideal so powerful that the only thing that can fix it is not cosmetic intervention, but mental health care.",
+          "text": "Questions 51 to 55 are based on the following passage. \nAn awakening has been taking place in the physical world against the beauty model that has been dictated \nto us for years. But in the digital arena, social media determines what is considered beautiful. \nThe two opposing struggles are taking place in parallel. In the physical world, the struggle goes against the \nunderlying pressure exerted on women to conform to an unrealistic beauty ideal. As part of the struggle, \nvarious media outlets have presented women whose bodies don't correspond to the so-called ideal. All those \nwomen who had previously been excluded from the covers of magazines, television series and the public \nagenda, have become \"legitimate\". At the same time, a group of influencers have begun to upload to social \nmedia photos of themselves without makeup, and even photos in which they highlight supposed flaws. \nTechnology has reshaped our beauty ideal and is doing a great job communicating that message to the \nmasses. One of the bizarre legacies of the past decade is the popularity of the \"cyborg look\", which illustrates \nwhat Americans will look like in 2050. \nThe cyborg look spread rapidly. Today, however, the Instagram face has become the new beauty ideal. \nThe internalization of accepted beauty norms is much more effective when there is active involvement in \nthe learning process. The active involvement of users is reflected in the gamified ( 游戏化的) interaction \noffered by the social media platforms-the ability to like, write a comment, compare, share. \nOnce the desired beauty ideal has been internalized, users are given tools or features to change their \nappearance to suit the accepted beauty ideal such as editing the image, choosing the ideal filter, the right \nbackground. \nA survey conducted in the United States revealed that more than 50% filter the images before posting \nthem. And you will not be surprised to hear that the majority of them are women. One of the significant \nconsequences of obsessive filtering is the emerging tendency to treat oneself as an object to be observed and \nvalued, in the same way another person observes and judges from the side. \nThe effect of the filters is already far beyond amiable amusement. The filters and the entire game played \non the networks affect the mental health of the users. According to a study, apps like Instagram, Snapchat and \n\nFaceTune allow users to achieve a level of perfection that was previously only observed in beauty magazines. \nEven though humanity has always cherished beauty, in the last decade our obsession with looks has \nreached an unprecedented peak. The time spent on social media creates an urge to achieve an impossible beauty \nideal so powerful that the only thing that can fix it is not cosmetic intervention, but mental health care.",
           "questions": [
             {
               "id": "q51",
@@ -641,8 +1037,17 @@
                 "C": "It has ushered in a new awakening.",
                 "D": "It is defined by social media."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "〗 事实细节题。 第一段第二句指出， 在数字领域， 社交媒体决定了什么是美。 故答案为 D)。 〖 避错 〗 A） 项是针对第一段第一句中的 dictated 和第二句中的 social media 设置的干扰项， 文章并未讨论决定数字媒体的品位的因素， 故排除 A) 项； 第一段第一句指出， 在现实世界中， 人们正在觉醒， 反抗多年以来强加给我们的美丽标准。 存在多年的是旧的、 传统的美丽标准， 而现实世界对这种标准的反抗以及数字世界对美丽标准的塑造都是近期的新趋势， 故排除 B） 项； 第一段和第二段指出， 在现实世界中， 人们正在觉醒， 反对传统的美丽标准， 但并未提及这种觉醒的来源， 而数字领域对美的标准的塑造是与现实世界的觉醒并行的， 不是这种觉醒的诱因， 故排除 C) 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+                "sourceText": "51. 〖 定位 〗 由题干中的 beauty in the digital arena 定位到第一段第二句。 D) 〖 精析 〗 事实细节题。 第一段第二句指出， 在数字领域， 社交媒体决定了什么是美。 故答案为 D)。 〖 避错 〗 A） 项是针对第一段第一句中的 dictated 和第二句中的 social media 设置的干扰项， 文章并未讨论决定数字媒体的品位的因素， 故排除 A) 项； 第一段第一句指出， 在现实世界中， 人们正在觉醒， 反抗",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -667,8 +1072,17 @@
                 "C": "It is being much talked about on social media.",
                 "D": "It is a perfect illustration of the ultimate beauty."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "〗 事实细节题。 第四段第二句指出， 如今， ' lnstagram 脸 ” 已成为新的美丽标准。 故答案选 A)。 〖 避错 〗 第三段第二句指出， 2050 年的美国人可能拥有 “ 半机械人外表 ”， B） 项与此意思不符， 故排除； C） 项未在文中明确提到， 虽然 “ lnstagram 脸 ” 是社交媒体上的热门趋势， 但文章的重点是它成了美丽标准， 而不是讨论的热点， 故排除 C） 项； 文章并没有说 \"lnstagram 脸 \" 准确诠释了什么是终极的美丽， 只是指出它是当前流行的美丽标准， 故排除 D) 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+                "sourceText": "53 ． 〖 定位 〗 由题干中的 the lnstagram face 定位到第四段第二句。 A) 〖 精析 〗 事实细节题。 第四段第二句指出， 如今， ' lnstagram 脸 ” 已成为新的美丽标准。 故答案选 A)。 〖 避错 〗 第三段第二句指出， 2050 年的美国人可能拥有 “ 半机械人外表 ”， B） 项与此意思不符， 故排除； C） 项未在文中明确提到， 虽然 “ lnstagram 脸 ” 是社交媒体上的热门趋势",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q54",
@@ -680,8 +1094,17 @@
                 "C": "A tendency to regard one's body as an object of observation and judgment.",
                 "D": "An increasing number of women filtering their images before uploading them."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "〗 事实细节题。 第七段第三句说明了过度使用滤镜的消极影响： 用户有把自己当作被观察和评价的对象的趋势。 故答案为 c）。 〖 避错 〗 第七段第一、 二句指出现在许多女性在发布照片前使用滤镜美化， 其目的是追求不可能达到的完美外貌， 但这不是过度使用滤镜美化的结果， 故排除 A） 项； 第五段指出， 社交媒体用户对美的追求体现在社交媒体平台上的游戏化互动， 并非指过度使用滤镜导致人们渴望把网络上的整个游戏变得对自己有利， 故排除 B）； D） 项同样也是女性在社交媒体上追求美的一种体现， 不是过度使用滤镜的结果， 故排除 D)O",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+                "sourceText": "54 ． 〖 定位 〗 由题干中的 obsessive filtering 定位到第七段第三句。 C) 〖 精析 〗 事实细节题。 第七段第三句说明了过度使用滤镜的消极影响： 用户有把自己当作被观察和评价的对象的趋势。 故答案为 c）。 〖 避错 〗 第七段第一、 二句指出现在许多女性在发布照片前使用滤镜美化， 其目的是追求不可能达到的完美外貌， 但这不是过度使用滤镜美化的结果， 故排除 A） 项； 第五段指出， 社交媒体用户对美的追",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q55",
@@ -693,8 +1116,17 @@
                 "C": "Their time spent on social media should be strictly controlled.",
                 "D": "Its root cause should be meticulously examined and analyzed."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "〗 推理判断题。 文章结尾强调了人们对外貌的痴迷已经达到空前的程度， 这种对不现实的美丽标准的追求会对人们的心理健康造成消极影响。 作者指出， 解决这一问题的方法不在于整容， 而在于心理健康干预。 故答案为 B)。 〖 避错 〗 文章并没有提到用整容手术或控制社交媒体使用时间等方法来解决因过度追求美貌而产生的心理健康问题， 故排除 A)、 C） 项； 文章对美国人对外表美的痴迷现象给出了分析， 结尾指出了解决措施， 并未呼吁探究分析这一现象的根本原因， 故排除 D) 项。 参考译文在现实世界中， 人们正在觉醒， 反抗多年以来强加给我们的美丽标准。 （(1) 然而， 在数字领域中， 社交媒体决定了什么是美。 这两场对立的斗争同时进行着。 （52） 在现实世界中， 这场斗争反对向女性施加潜在压力， 要求她们符合不切实际的美丽标准。 作为这场斗争的一部分， 各种媒体开始展示那些身材不符合所谓理想的女性形象。 那些曾经被排除在杂志封面、 电视剧和公众议题之外的女性， 都已经变得 “ 合乎理想 ” 了。 与此同时， 一些网络红人开始在网上上传自己的素颜照， 有的照片甚至凸显所谓的缺陷。 技术重塑了我们关于美丽的标准， 并且成功地将这一信息传播给大众。 过去 10 年的独特遗产之一是 “ 半机械人外表 ” 的流行， 它展示了 2050 年美国人可能是什么样子。 “ 半机械人外表 ” 迅速传播。 （53） 然而， 如今, \"lnstagram 脸 \" 已成为新的美丽标准。 当人们积极参与学习时， 他们对公认的美的标准的内化就会更有效。 用户的积极参与体现在社交媒体平台提供的游戏化互动上， 即点赞、 评论、 比较和分享照片的能力。 一旦理想的美丽标准被内化， 用户就会获得各种工具或功能， 例如编辑图片、 选择理想的滤镜和合适的背景来改变自己的外貌， 以符合公认的美丽标准。 一项在美国进行的调查显示， 超过 50 ％ 的人会在发布照片前使用滤镜美化。 而且其中大多数是女性， 这一结果并不令人惊",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-1/key_OCR_2024-12-1.txt",
+                "sourceText": "55 ． 〖 定位 〗 由题干中的 Americans， obsession with looks 定位到第九段第二句。 B) 〖 精析 〗 推理判断题。 文章结尾强调了人们对外貌的痴迷已经达到空前的程度， 这种对不现实的美丽标准的追求会对人们的心理健康造成消极影响。 作者指出， 解决这一问题的方法不在于整容， 而在于心理健康干预。 故答案为 B)。 〖 避错 〗 文章并没有提到用整容手术或控制社交媒体使用时间等方法来解决因过度追求美貌而产生的心理健康问题， 故排",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

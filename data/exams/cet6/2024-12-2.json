@@ -30,8 +30,17 @@
             "C": "Revising his graduation thesis.",
             "D": "His passion for Art History."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节推断题。 当女士问男士他想讨论什么事情时， 男士在句 （1) 中说， 关于自己的专业， 他改变了主意。 也就是说， 他有转换专业的想法， 想与女士就此进行讨论。 因此答案为 A)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "1. What did the man want to discuss with the、 v01 月 an？ A) 〖 精析 〗 细节推断题。 当女士问男士他想讨论什么事情时， 男士在句 （1) 中说， 关于自己的专业， 他改变了主意。 也就是说， 他有转换专业的想法， 想与女士就此进行讨论。 因此答案为 A)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q2",
@@ -43,8 +52,17 @@
             "C": "He doesn't think it will provide him with a living.",
             "D": "He thinks it nourishes the financially secure only."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节推断题。 女士问男士为什么要放弃艺术史的学习， 男士在句 （2） 中回答说他父亲目前的经济状况让他意识到， 更能解决经济问题的就业机会也许不是一件坏事， 并说， 艺术史滋养了他的灵魂， 却并不能为他提供餐盘上的食物。 由此可知， 男士放弃艺术史的学习是因为他觉得这个专业不能为他提供生存的保障。 因此答案为 C)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "2， Why does the man want to give up Art History？ C) 〖 精析 〗 细节推断题。 女士问男士为什么要放弃艺术史的学习， 男士在句 （2） 中回答说他父亲目前的经济状况让他意识到， 更能解决经济问题的就业机会也许不是一件坏事， 并说， 艺术史滋养了他的灵魂， 却并不能为他提供餐盘上的食物。 由此可知， 男士放弃艺术史的学习是因为他觉得这个专业不能为他提供生存的保障。 因此答案为 C)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q3",
@@ -56,8 +74,17 @@
             "C": "Investigate all possible ways to become a celebrity in the art world.",
             "D": "Strike a balance between intellectual pursuits and financial security."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （3） 中， 女士对男士说， 如果他一心想在艺术行业工作， 就需要更加坚定自信， 并且要开始与人交谈。 如果想成为博物馆和画廊界的名人， 建立人脉非常关键。 也就是说， 女士建议男士尽力去社交， 并建立艺术行业的人脉。 因此答案为 A)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "3 ． What does the woman advise the man to do？ A) 〖 精析 〗 细节辨认题。 句 （3） 中， 女士对男士说， 如果他一心想在艺术行业工作， 就需要更加坚定自信， 并且要开始与人交谈。 如果想成为博物馆和画廊界的名人， 建立人脉非常关键。 也就是说， 女士建议男士尽力去社交， 并建立艺术行业的人脉。 因此答案为 A)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q4",
@@ -69,8 +96,17 @@
             "C": "Determination.",
             "D": "Optimism."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 句 （4） 中， 男士说， 现在时间非常宝贵， 他没有社交生活， 并提到他快跟不上学习进度了， 而且今年年底就要交论文。 男士问女士： “ 我有这么多事情要做， 哪还能找到时间来收集工作信息呢？ ” 由此可知， 男士现阶段最缺的是时间。 因此答案为 B)O Questions 5 to 8 are based on the conversation you have just heard. M： （5） Have you decided yet what your end-of-semester business project will be onQ W： Yes， HOW about you？ M： Yes. GO on. You go first ． W: I am going t0 d0 it about beef ． M： Beef？ W： Yeah， beef ． I m going t0 design a business case study for a cow farm that supplies beef for the domestic market ． 解析册 · 2024 年 12 月六级真题 （二） 17 M： Wel",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "4 ． What does the man say he really lacks right now？ B) 〖 精析 〗 细节辨认题。 句 （4） 中， 男士说， 现在时间非常宝贵， 他没有社交生活， 并提到他快跟不上学习进度了， 而且今年年底就要交论文。 男士问女士： “ 我有这么多事情要做， 哪还能找到时间来收集工作信息呢？ ” 由此可知， 男士现阶段最缺的是时间。 因此答案为 B)O Questions 5 to 8 are",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q5",
@@ -82,8 +118,17 @@
             "C": "Their different approaches to a case study.",
             "D": "Their end-of-semester business projects."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 对话开头， 男士就询问女士期末的商业项目是否已经确定了。 接下来， 他们分别描述了自己的期末商业项目， 并对对方的项目发表了看法。 因此答案为 D)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "5， What are the speakers mainly talking about in the conversation D) 〖 精析 〗 细节辨认题。 对话开头， 男士就询问女士期末的商业项目是否已经确定了。 接下来， 他们分别描述了自己的期末商业项目， 并对对方的项目发表了看法。 因此答案为 D)O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q6",
@@ -95,8 +140,17 @@
             "C": "Raising cattle domestically.",
             "D": "Continuing to boost economic growth."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节归纳题。 根据句 （",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "6 ． What does the man say makes perfect sense？ C) 〖 精析 〗 细节归纳题。 根据句 （",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q7",
@@ -108,8 +162,17 @@
             "C": "Beef.",
             "D": "Carwashing."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节归纳题。 句 （",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "7 ． What business does the woman say has a vast and Section B continual market？ D) 〖 精析 〗 细节归纳题。 句 （",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q8",
@@ -121,8 +184,17 @@
             "C": "Consumers craving for professional service.",
             "D": "Well-off dealers seeking a profitable markup."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 句 （8） 中， 男士明确表示想让自己的商业项目迎合大城市中的高端消费者。 因此答案为 B)O Questions 9 to 11 are based on the passage you have just heard. lncreased television time for young children has long been linked with poorer progress in some areas Of development ． One possible way t0 counter those negative effects is talking while watching the screen ． (9)As a new study suggests， the more parents engaged in conversation with preschoolers during TV time， the more likely those children were to have higher curiosity levels when they reached kindergarten ． This was particularly true for children with socioeconomic disadvantages. Our findings reinforce the importance Of parent com℃ rsation to promote early childhood development and curiosity， ” said lead author Prachi Shah at University Of M1chigan Health C. S. Mott Children， s Hospita",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "8， WhO would the man S lmagined business cater to？ B) 〖 精析 〗 细节辨认题。 句 （8） 中， 男士明确表示想让自己的商业项目迎合大城市中的高端消费者。 因此答案为 B)O Questions 9 to 11 are based on the passage you have just heard. lncreased television time for young children ha",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q9",
@@ -134,8 +206,17 @@
             "C": "The more TV they watch the poorer their progress in development.",
             "D": "Their socioeconomic levels impact their academic achievement."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （9） 中提到， 一项新的研究表明， 在看电视时， 父母与学龄前儿童对话越多， 这些孩子在上幼儿园时好奇心水平就越高。 也就是说， 父母在儿童看电视时与他们进行对话可以增进他们的好奇心水平。 因此答案为 A)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "9 ． What do we learn from a new study about young children？ A) 〖 精析 〗 细节辨认题。 句 （9） 中提到， 一项新的研究表明， 在看电视时， 父母与学龄前儿童对话越多， 这些孩子在上幼儿园时好奇心水平就越高。 也就是说， 父母在儿童看电视时与他们进行对话可以增进他们的好奇心水平。 因此答案为 A)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q10",
@@ -147,8 +228,17 @@
             "C": "Kids' reading and math.",
             "D": "Kids' behavioral development."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 根据句 （10） 可知， 朴拉琪 · 沙阿的研究所关注的是儿童的好奇心水平。 因此答案为 B)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "10 ． What did Prachi Shah， s study specifically focus B) 〖 精析 〗 细节辨认题。 根据句 （10） 可知， 朴拉琪 · 沙阿的研究所关注的是儿童的好奇心水平。 因此答案为 B)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q11",
@@ -160,8 +250,17 @@
             "C": "It can arouse kids' interest in how people interact in real life.",
             "D": "It can widen the gap between kids from different economic statuses."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 句 （11） 中明确提到， 过多接触电视等媒体可能会取代游戏和亲子互动等探索性活动， 而这些活动被认为是培养孩子好奇心的关键。 也就是说， 看电视时间过长会减少孩子们花在探索性活动中的时间。 因此答案为 B)。 Questions 12 to 15 are based on the passage you have j ust heard. Humans are aspirational goal-seeking beings ． (12)Each Of us， according to research， has",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "11. What does the passage say about excessive media exposure？ B) 〖 精析 〗 细节辨认题。 句 （11） 中明确提到， 过多接触电视等媒体可能会取代游戏和亲子互动等探索性活动， 而这些活动被认为是培养孩子好奇心的关键。 也就是说， 看电视时间过长会减少孩子们花在探索性活动中的时间。 因此答案为 B)。 Questions 12 to 15 are based on the passage you h",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q12",
@@ -173,8 +272,17 @@
             "C": "Trying every means to beat others in terms of personal aspirations.",
             "D": "Being mindlessly driven to possess more and more material things."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 句 （12） 中提到， 据研究， 我们每个人生来就有获取的欲望。 这种获取的欲望的 “ 黑暗面 ” 是人类被无意识地驱使着想要拥有越来越多的 “ 东西 ”。 因此答案为 D）。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "12， What is the dark side Of our inborn drive to acqurre？ D) 〖 精析 〗 细节辨认题。 句 （12） 中提到， 据研究， 我们每个人生来就有获取的欲望。 这种获取的欲望的 “ 黑暗面 ” 是人类被无意识地驱使着想要拥有越来越多的 “ 东西 ”。 因此答案为 D）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q13",
@@ -186,8 +294,17 @@
             "C": "We might end up pursuing all the wrong things.",
             "D": "We might make a mess of our personal lives."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节辨认题。 根据句 （13） 可知， 如果不去有意识地、 深思熟虑地且有目的地控制这种与生俱来的获取欲望， 我们可能就会在无意识状态下追求那些错误的东西。 因此答案为 C)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "drive to acquire？ 0 〖 精析 〗 细节辨认题。 根据句 （13） 可知， 如果不去有意识地、 深思熟虑地且有目的地控制这种与生俱来的获取欲望， 我们可能就会在无意识状态下追求那些错误的东西。 因此答案为 C)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q14",
@@ -199,8 +316,17 @@
             "C": "They should include goals to help other people.",
             "D": "They should increase our sense of worthiness."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节辨认题。 句 （14） 中提到， 尽管在有意识的情况下所追求的目标包括获得那些能增加自己幸福感的东西， 但这些目标也应该包括在自己的各种生命角色中去帮助他人。 因此答案为 C）。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "14 ． What does the passage say about our intentional Section C aspirational goals？ C) 〖 精析 〗 细节辨认题。 句 （14） 中提到， 尽管在有意识的情况下所追求的目标包括获得那些能增加自己幸福感的东西， 但这些目标也应该包括在自己的各种生命角色中去帮助他人。 因此答案为 C）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q15",
@@ -212,8 +338,17 @@
             "C": "Abandoning all that life has to offer.",
             "D": "Spoiling your character and integrity."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （15） 中提到， 如果没有想要追求的目标， 你也就没有了奋斗的目标。 如果没有了奋斗的目标， 你就把自己置于随波逐流的危险境地， 而且无法去体验并享受生活所提供的一切。 因此答案为 A)O Questions 16 to 18 are b on the recording you have just heard. lt， S revision time for exams and dissertations， The pressure is on， SO you want all the help you can get to aid your memory and raise your grades ． (16)As a nutrition expert， I want to say that eating well can make a real difference to your revrsion regime—so what brain-boosting fOOd and drink would I recommend？ Coffee can have numerous benefits ． However， while coffee may make you more alert， individuals can build up a tolerance， meaning this is short-lived ． Coffee can also increase blood sugar and eventually cause lack Of focus and energy， lt's also worth noting that people react differently to coffee. Some people can drink it at midnight and go straight to sleep， whereas others get feelings Of anxi",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "15 ． What will you end up dOing without pursumg intentional aspirational goals？ A) 〖 精析 〗 细节辨认题。 句 （15） 中提到， 如果没有想要追求的目标， 你也就没有了奋斗的目标。 如果没有了奋斗的目标， 你就把自己置于随波逐流的危险境地， 而且无法去体验并享受生活所提供的一切。 因此答案为 A)O Questions 16 to 18 are b on the recording you have just h",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q16",
@@ -225,8 +360,17 @@
             "C": "Revision-conducting approaches.",
             "D": "Brain-boosting food and drink."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 讲座开头提到， 到了复习准备考试和 （提交） 论文的时间了。 压力很大， 所以你想要利用一切可以得到的辅助来帮助自己提高记忆力和成绩。 接着， 句 （16） 中提到， 作为一名营养学家， 讲话者想说的是， 吃得好可以对你的复习计划产生真实的影响， 并自然引出接下来要讲述的内容： 健脑食物和饮品。 因此答案为 D)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "16 ． What does the speaker recommend in this talk？ D) 〖 精析 〗 细节辨认题。 讲座开头提到， 到了复习准备考试和 （提交） 论文的时间了。 压力很大， 所以你想要利用一切可以得到的辅助来帮助自己提高记忆力和成绩。 接着， 句 （16） 中提到， 作为一名营养学家， 讲话者想说的是， 吃得好可以对你的复习计划产生真实的影响， 并自然引出接下来要讲述的内容： 健脑食物和饮品",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q17",
@@ -238,8 +382,17 @@
             "C": "Drinking it after 2 pm.",
             "D": "Consuming it with sugar."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节辨认题。 句 （17） 中， 讲话者明确指出， 下午 2 点以后就不要再饮用咖啡了。 因此答案为 C)。 HOW can we get sufficient nutrients according to",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "17 ． What does the speaker warn against about coffee？ 0 〖 精析 〗 细节辨认题。 句 （17） 中， 讲话者明确指出， 下午 2 点以后就不要再饮用咖啡了。 因此答案为 C)。 HOW can we get sufficient nutrients according to",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q18",
@@ -251,8 +404,17 @@
             "C": "By eating both oranges and frozen berries.",
             "D": "By getting components packaged in tablets."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 句 （18） 中， 讲话者说， 食物应该始终排在补充剂之前， 获得尽可能多的营养的关键是吃各种不同颜色的食物， 如冷冻浆果和深绿色蔬菜等。 最好是从食物和饮品中获得你需要的一切。 由此可知， 讲话者认为， 我们可以通过丰富多样的饮食来获取充分营养。 因此答案为 B)O Questions 19 to 21 are based on the recording you have j ust heard. (19)The late Swedish academic Hans RosIing has identified a worrying trend： not only dO many people across advanced economies have no idea that the world is becoming a much better place， but they actually even think the opposite ． ThiS is no wonder， when the news focuses on reporting catastrophes， terrorist attacks， wars， and famines ． WhO wants to hear about the fact that every day some 200， 000 people around the world are lifted above the $ 2-a-day poverty line？ Or that more than 300， 000 people get access t0 electricity and clean water for the first time every day？ These stories Of people in low-income countries simply don， t make for exciting news covera",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "18 ． the speaker？ B) 〖 精析 〗 细节辨认题。 句 （18） 中， 讲话者说， 食物应该始终排在补充剂之前， 获得尽可能多的营养的关键是吃各种不同颜色的食物， 如冷冻浆果和深绿色蔬菜等。 最好是从食物和饮品中获得你需要的一切。 由此可知， 讲话者认为， 我们可以通过丰富多样的饮食来获取充分营养。 因此答案为 B)O Questions 19 to 2",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q19",
@@ -264,8 +426,17 @@
             "C": "A significant part of the world is experiencing another great recession.",
             "D": "Many people have no idea of those living under miserable conditions."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节推断题。 根据句 （19） 可知， 已故瑞典学者汉斯 ． 罗斯林发现了一个令人担忧的趋势： 发达经济体内许多人不仅不知道世界正在变得更好， 他们还认为情况恰恰相反， 即发达经济体内很多人都认为世界正变得越来越糟。 因此答案为 A)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "19， What is the worrying trend the late Swedish academic has identified？ A) 〖 精析 〗 细节推断题。 根据句 （19） 可知， 已故瑞典学者汉斯 ． 罗斯林发现了一个令人担忧的趋势： 发达经济体内许多人不仅不知道世界正在变得更好， 他们还认为情况恰恰相反， 即发达经济体内很多人都认为世界正变得越来越糟。 因此答案为 A)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q20",
@@ -277,8 +448,17 @@
             "C": "It is the only way for all countries to share economic prosperity.",
             "D": "It has given more and more countries a rare chance to thrive."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〗 细节辨认题。 句 （20） 中， 讲话者说， 全球化是确保所有国家共享经济繁荣的唯一出路， 而不是只确保少数发达经济体的经济繁荣。 因此答案为 0。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "20 ． What does the speaker say about globalization？ C) 〖 精析 〗 细节辨认题。 句 （20） 中， 讲话者说， 全球化是确保所有国家共享经济繁荣的唯一出路， 而不是只确保少数发达经济体的经济繁荣。 因此答案为 0。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q21",
@@ -290,8 +470,17 @@
             "C": "Their living standards have been deteriorating.",
             "D": "They are experiencing a radical transformation."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 句 （21） 中提到， 事实上， 全球半数人口都可以被视为中产阶级， 这是自工业革命以来的第一次。 因此答案为 B)O Questions 22 to 25 are based 皿 the recording you have j ust heard. We all know that the sense Of smell is powerful. The delicious scent Of bread， for example， can act like a time machine ． One sniff can bring",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "21. What dO we learn about half Of the glObal population？ B) 〖 精析 〗 细节辨认题。 句 （21） 中提到， 事实上， 全球半数人口都可以被视为中产阶级， 这是自工业革命以来的第一次。 因此答案为 B)O Questions 22 to 25 are based 皿 the recording you have j ust heard. We all know that the sense Of sm",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q22",
@@ -303,8 +492,17 @@
             "C": "How scent particles revive memories forgotten.",
             "D": "Why the scent of bread has a strong mental impact."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 讲座以面包的香味可以引发人们的久远记忆切人， 引发了讲话者的问题一一为什么气味有时会引发强烈的记忆， 特别是情感记忆？ 之后， 讲话者一直在试图回答这一问题。 因此答案为 A)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "22 ． What question does the speaker try t0 answer in this talk？ A) 〖 精析 〗 细节辨认题。 讲座以面包的香味可以引发人们的久远记忆切人， 引发了讲话者的问题一一为什么气味有时会引发强烈的记忆， 特别是情感记忆？ 之后， 讲话者一直在试图回答这一问题。 因此答案为 A)O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q23",
@@ -316,8 +514,17 @@
             "C": "The interaction between chemical particles and the brain cells responsible for smell.",
             "D": "The sensations of scents going directly to the brain's emotional and memory centers."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 句 （23） 中提到， 气味是唯一能直达大脑情感和记忆中心的感觉。 它引发了情感、 记忆和气味之间的密切联系， 这就是气味引发的记忆比景象或声音引发的记忆更有感染力的原因。 因此答案为 D)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "23， What is said to result in an intimate connection between emotions， memories and scents？ D) 〖 精析 〗 细节辨认题。 句 （23） 中提到， 气味是唯一能直达大脑情感和记忆中心的感觉。 它引发了情感、 记忆和气味之间的密切联系， 这就是气味引发的记忆比景象或声音引发的记忆更有感染力的原因。 因此答案为 D)O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q24",
@@ -329,8 +536,17 @@
             "C": "Experience.",
             "D": "Context."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 句 （24） 中提到， 大脑是利用情境来赋予信息意义并找到记忆的。 因此答案为 D)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "24 ． What does the brain use to g1Ve meamng to information and find a memory？ D) 〖 精析 〗 细节辨认题。 句 （24） 中提到， 大脑是利用情境来赋予信息意义并找到记忆的。 因此答案为 D)O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q25",
@@ -342,8 +558,17 @@
             "C": "Being personal and individualistic.",
             "D": "Being dependent on relevant scenarios."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节归纳题。 句 （25） 中提到， 尽管气味带来的记忆具有特殊性， 但它们与其他记忆有着相同的缺点。 它们并不总是准确的， 而且会随着时间的推移而变化。 因此答案为 A)。 解析册 · 2024 年 12 月六级真题 （二） 21 Part Section A Reading Comprehension 〖 文章来源 〗 本文选自 2020 年 12 月 22 日刊登在 Psychology Today （《今日心理学》） 上的一篇名为 “ Four Characteristics of Effective Conversations ” （《有效交流的 4 个特点》） 的文章。 〖 结构框图 〗 《第一、 二段提出负能量会影响对话各方为达成共识所做的努力， 合作解决问题的谈话需要强有力的倾听技巧和平和的心态。 本文主要介绍了有效交流的技巧和特点。： 第三至七段进一步论述有效的交流还要具备对称性的特点， 并具体阐释： 了这一特点， 指出调整不对称的对话模式会使对话更有成效。 〖 词性分析 〗 名词： F) flips 轻抛； 空翻； 浏览； G） halt 停止， 暂停； 中止； K） scenano 可能出现的情况； 剧情梗概； L) shadow （坏） 影响； 阴影； 影子动词： C) elapses （时间） 消逝， 流逝； D) erode 逐渐毁坏； 损害； 削弱； E) flattered 奉承； 自命不凡； 使显得漂亮， 使显得出色； F) flips （话题、 活动或意见） 突然转换； （使） 快速翻转； G) halt （使） 停止， 停下； H) overburdened 使负担过重； I) predominates 占主导地位； 有最大影响 （或重要性）； J) propagate 传播； 宣传； 繁殖； L) shadow 跟踪， 尾随形容词： A) affectionate 表示关爱的； E) flattered （因受重视",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "25 ． What drawback dO memories Of scents share with Other memories？ A) 〖 精析 〗 细节归纳题。 句 （25） 中提到， 尽管气味带来的记忆具有特殊性， 但它们与其他记忆有着相同的缺点。 它们并不总是准确的， 而且会随着时间的推移而变化。 因此答案为 A)。 解析册 · 2024 年 12 月六级真题 （二） 21 Part Section A Reading Comprehension 〖 文章来源 〗",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -351,7 +576,7 @@
       "id": "reading-banked",
       "type": "banked-cloze",
       "title": "Section A · 选词填空",
-      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each \nblank from a list of choices given in a word bank following the passage. Read the passage through carefully \nbefore making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding \nletter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words \nin the bank more than once. \nEver been talking about something important with someone you care about and found the discussion \nfrustrating instead of fruitful? Negative energy can then cast a ___26___ over your efforts to build a shared \nunderstanding. \nIn fact collaborative problem-solving conversations require skills. Strong listening skills are essential. \nSprinkling in positivity via appreciation, ___27___ smiles, and warm comments helps. So does the essential \nability to keep your emotional tone in the calm zone. If the tone of a dialogue heats up and anger erupts, the \ndialogue ___28___ from collaborative to adversarial, and progress is likely to come to an immediate ___29___. \nIn addition, effective dialogue generally has another important characteristic: symmetry. \nSymmetry in dialogue refers to the balance of how much each partner talks. Are you each getting equal \nairtime? When one participant does most of the talking, this asymmetry or lack of balance tends to become \n\n2024 年12 月英语六级真题第2 套  第4 页，共9 页\nannoying to one or both of you. The silent partner ___30__ tires of only listening, while the talker can feel \n___31___. Usually, both would prefer more equal give and take. \nDifferent rates of speech and levels of voice volume can ___32___ symmetry as well. The faster or louder \npartner can easily begin taking up more airtime. The slower-talking or softer-voiced one can have trouble \ngetting the floor. \nConversations also lose balance when one partner's opinions count more than the other's. One person's \ninput may carry more sway because their style of expression is more ___33___. One viewpoint may tend to get \nlost because it is expressed more ___34___. \nIf either partner fairly consistently ___35___ or evaporates, modifying the pattern will be helpful. The \ndialogue will feel more productive, and at the same time, the relationship overall is likely to feel more positive.",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each \nblank from a list of choices given in a word bank following the passage. Read the passage through carefully \nbefore making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding \nletter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words \nin the bank more than once. \nEver been talking about something important with someone you care about and found the discussion \nfrustrating instead of fruitful? Negative energy can then cast a ___26___ over your efforts to build a shared \nunderstanding. \nIn fact collaborative problem-solving conversations require skills. Strong listening skills are essential. \nSprinkling in positivity via appreciation, ___27___ smiles, and warm comments helps. So does the essential \nability to keep your emotional tone in the calm zone. If the tone of a dialogue heats up and anger erupts, the \ndialogue ___28___ from collaborative to adversarial, and progress is likely to come to an immediate ___29___. \nIn addition, effective dialogue generally has another important characteristic: symmetry. \nSymmetry in dialogue refers to the balance of how much each partner talks. Are you each getting equal \nairtime? When one participant does most of the talking, this asymmetry or lack of balance tends to become \n\nannoying to one or both of you. The silent partner ___30__ tires of only listening, while the talker can feel \n___31___. Usually, both would prefer more equal give and take. \nDifferent rates of speech and levels of voice volume can ___32___ symmetry as well. The faster or louder \npartner can easily begin taking up more airtime. The slower-talking or softer-voiced one can have trouble \ngetting the floor. \nConversations also lose balance when one partner's opinions count more than the other's. One person's \ninput may carry more sway because their style of expression is more ___33___. One viewpoint may tend to get \nlost because it is expressed more ___34___. \nIf either partner fairly consistently ___35___ or evaporates, modifying the pattern will be helpful. The \ndialogue will feel more productive, and at the same time, the relationship overall is likely to feel more positive.",
       "wordBank": {
         "A": "affectionate",
         "I": "predominates",
@@ -373,44 +598,107 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "题。 答案详解 L) 〖 【语法判断】 空格所在句的主语是 negative energy， 谓语动词是 cast， 空格处是宾语， 前面有不定冠词 a， 据此可知空格处是一个名词。 〖 【语义判断】 空格所在句的前一句提到与你关心的人谈论重要的事情， 却发现讨论令人沮丧、 没有成效， 根据上文可推测空格所在句的意思： 负能量对双方达成共识不会有好的影响， 因此填人 L) shadow “ （坏） 影响； 阴影 ”， cast a shadow over “ 给 “ “ “ 蒙上阴影 \"， 比喻对事情产生负面影响， 符合文章意思， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "26， 〖 考点 〗 名词辨析题。 答案详解 L) 〖 【语法判断】 空格所在句的主语是 negative energy， 谓语动词是 cast， 空格处是宾语， 前面有不定冠词 a， 据此可知空格处是一个名词。 〖 【语义判断】 空格所在句的前一句提到与你关心的人谈论重要的事情， 却发现讨论令人沮丧、 没有成效， 根据上文可推测空格所在句的意思： 负能量对双方达成共识不会有好的影响， 因",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "题。 A) 〖 【语法判断】 空格与 smiles 合在一起构成名词性短语， 与 appreciation、 warm comments 并列作介词 via 的宾语， 据此推测空格处是一个形容词， 修饰名词 smiles。 〖 【语义判断】 空格所在句提到借助一些手段来传递积极的信息有助于交流的成功， 这些手段包括由衷的赞赏和热情的评论， 与这两个名词短语属于同一语义场的词是 A) affectionate “ 表示关爱的 ”， affectionate smiles “ 关切的微笑 ”， 符合句意， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "27， 〖 考点 〗 形容词辨析题。 A) 〖 【语法判断】 空格与 smiles 合在一起构成名词性短语， 与 appreciation、 warm comments 并列作介词 via 的宾语， 据此推测空格处是一个形容词， 修饰名词 smiles。 〖 【语义判断】 空格所在句提到借助一些手段来传递积极的信息有助于交流的成功， 这些手段包括由衷的赞赏和热情的评论， 与这两个名词短语属于同一",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "题。 F) 〖 【语法判断】 空格所在句主语是 the dialogue， 缺少谓语动词， dialogue 是单数， 据此推测空格处应为动词的第三人称单数形式。 〖 【语义判断】 空格所在句提到如果对话的语气升温， 愤怒爆发， 对话将从合作走向对抗， 能够表达这种转变的是 F) flips， 在这里的意思是 “ （话题、 活动或意见） 突然转换 ”， “ flip from ． · · to， · · ” 指 “ 从一个话题转换为另一个话题 ”， 符合文章意思， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "28， 〖 考点 〗 动词辨析题。 F) 〖 【语法判断】 空格所在句主语是 the dialogue， 缺少谓语动词， dialogue 是单数， 据此推测空格处应为动词的第三人称单数形式。 〖 【语义判断】 空格所在句提到如果对话的语气升温， 愤怒爆发， 对话将从合作走向对抗， 能够表达这种转变的是 F) flips， 在这里的意思是 “ （话题、 活动或意见） 突然转换",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "题。 G) 〖 【语法判断】 空格所在处是 “ come to + 名词 ” 的结构， 表示到达某种状态， 空格前是形容词 immediate， 可知空格处是这个结构中的名词部分。 〖 【语义判断】 空格前面半句提到对话的语气升温， 愤怒爆发， 对话将从合作走向对抗， 可想而知， 这种从好到坏的转变也会给已经取得的进展带来不好的影响， 因此填人 G) halt “ 停止， 暂停 ”， come to an immediate halt “ 立即停止 ”， 符合文章意思， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "29 ． 〖 考点 〗 名词辨析题。 G) 〖 【语法判断】 空格所在处是 “ come to + 名词 ” 的结构， 表示到达某种状态， 空格前是形容词 immediate， 可知空格处是这个结构中的名词部分。 〖 【语义判断】 空格前面半句提到对话的语气升温， 愤怒爆发， 对话将从合作走向对抗， 可想而知， 这种从好到坏的转变也会给已经取得的进展带来不好的影响， 因此填人 G)",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "题。 N) 〖 【语法判断】 空格所在句的主干为 partner tires of listening， 不缺必要的语法成分， 空格又在动词 tires 前面， 可推测空格处是一个副词， 修饰 tires。 〖 【语义判断】 本段首句指出对称性指的是双方说话的均衡程度， 空格前一句提到当一方参与者说了解析册 · 2024 年 12 月六级真题 （二） 22 谈话中的大部分内容的时候， 这种不对称或缺乏平衡往往会让你们中的一方或双方都感到恼火， 空格所在句提到： 沉默的一方会厌倦只听不说。 根据前一句中的 tends to “ 往往， 具有某种倾向或特征 ” 可知这里应填人副词 N) typically\" 通常， 般； 具有代表性地 ”， 符合文章意思。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "30， 〖 考点 〗 副词辨析题。 N) 〖 【语法判断】 空格所在句的主干为 partner tires of listening， 不缺必要的语法成分， 空格又在动词 tires 前面， 可推测空格处是一个副词， 修饰 tires。 〖 【语义判断】 本段首句指出对称性指的是双方说话的均衡程度， 空格前一句提到当一方参与者说了解析册 · 2024 年 12 月六级真题 （二） 22 谈话",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "题。 H) 〖 【语法判断】 空格处作系动词 feel 的表语， 应是一个形容词。 〖 【语义判断】 上一题提到双方不对称的对话中一直在听的一方感到恼火， 本题描述的是负责说话的一方的感受， 可想而知， 在对话中说个不停就意味着需要不停输出信息给对方， 也就是下一句中提到的 give， 这任务本该两方分担， 现在却是一方承担， H) overburdened\" 负担过重的 ” 符合说话的一方的感受， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "31. 〖 考点 〗 形容词辨析题。 H) 〖 【语法判断】 空格处作系动词 feel 的表语， 应是一个形容词。 〖 【语义判断】 上一题提到双方不对称的对话中一直在听的一方感到恼火， 本题描述的是负责说话的一方的感受， 可想而知， 在对话中说个不停就意味着需要不停输出信息给对方， 也就是下一句中提到的 give， 这任务本该两方分担， 现在却是一方承担， H) overburde",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "题。 D) 〖 【语法判断】 空格所在句主语为 different rates of speech and levels Of voice volume， 宾语为 symmetry， 缺少谓语动词， 空格前又有情态动词 can， 据此推测空格处是一个动词原形。 〖 【语义判断】 空格所在句提到不同的语速和音量会对对称性产生影响， 至于产生什么样的影响， 下文具体阐述： 语速快或声音大的一方很容易开始占用更多的发言时间， 而语速较慢或声音较小的一方则很难获得发言权。 可见语速和音量的不同会破坏对称性， 因此填人 D） erode “ 逐渐毁坏； 损害 ”。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "32 ． 〖 考点 〗 动词辨析题。 D) 〖 【语法判断】 空格所在句主语为 different rates of speech and levels Of voice volume， 宾语为 symmetry， 缺少谓语动词， 空格前又有情态动词 can， 据此推测空格处是一个动词原形。 〖 【语义判断】 空格所在句提到不同的语速和音量会对对称性产生影响， 至于产生什么样的影响， 下",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
@@ -421,8 +709,17 @@
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "题。 M) 〖 【语法判断】 空格处的词与副词 more 合在一起修饰 expressed， 据此可推测空格处是一个副词。 〖 【语义判断】 上一题提到表达果断有力的一方的观点更有影响力， 本题说的是观点被忽略的一方的表达方式， 与果断有力相反的表达方式是犹豫不决， 因此填人 M） tentatively “ 犹豫不定地， 踌躇地 ”",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "34 ． 〖 考点 〗 副词辨析题。 M) 〖 【语法判断】 空格处的词与副词 more 合在一起修饰 expressed， 据此可推测空格处是一个副词。 〖 【语义判断】 上一题提到表达果断有力的一方的观点更有影响力， 本题说的是观点被忽略的一方的表达方式， 与果断有力相反的表达方式是犹豫不决， 因此填人 M） tentatively “ 犹豫不定地， 踌躇地 ”",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
@@ -447,7 +744,7 @@
         },
         {
           "label": "D",
-          "text": "Look, it's okay if you don't know. There are probably loads of folks who walk around pretending they totally \nknow why that thing in the sky seems to get bigger and smaller at regular intervals but who totally do not. \n\n2024 年12 月英语六级真题第2 套  第5 页，共9 页"
+          "text": "Look, it's okay if you don't know. There are probably loads of folks who walk around pretending they totally \nknow why that thing in the sky seems to get bigger and smaller at regular intervals but who totally do not."
         },
         {
           "label": "E",
@@ -475,7 +772,7 @@
         },
         {
           "label": "K",
-          "text": "Getting two blue moons a year is rare, but we have individual blue moons every few years. Also, fun fact: \nnot actually blue. A moon can indeed take on a moody blue color, but this only happens when particles of \njust the right size disperse through the sky-and it has nothing to do with the moon's status as \"blue\". Big \n\n2024 年12 月英语六级真题第2 套  第6 页，共9 页\nclouds of ash from volcanic eruptions or fires can do the trick, but it doesn't happen often, and the stars \nwould certainly have to align for two such rare instances to occur at once. \nL) You may have heard that the super special second blue moon of 2018 was also a Paschal moon. This is true! \nThat just means it was the first full moon of spring, which is often used to determine the date of Easter \nSunday. All of this is just calendar nonsense and we refuse to go into it further. \nM) Sometimes you'll see a headline that promises a moon with so many qualifiers it makes your head spin. A \nsuper blue blood worm moon, perhaps? Or a super blood wolf moon? Lots of websites will tell you that \n\"wolf moon\" is the traditional name of the first full moon of the year in \"Native American\" cultures, which \nis kind of a weird thing to claim given that there are 573 registered Tribal Nations in the US alone today, \nnot to mention historically. The idea that hungry, howling wolves were such a universal constant in January \nthat all of North America with its different cultures, geographies, and languages spontaneously came up \nwith the same nickname is illogical. \nN) Many cultures have traditional names for the full moon in a given month or season, so there's quite a list to \ndraw from if you're trying to really juice up a story on a slightly-bigger-than-average view of the moon. But \nthese are all based on human calendars and activities and folklore, you will not go outside and see a pink \nmoon in April, though I wish it were so."
+          "text": "Getting two blue moons a year is rare, but we have individual blue moons every few years. Also, fun fact: \nnot actually blue. A moon can indeed take on a moody blue color, but this only happens when particles of \njust the right size disperse through the sky-and it has nothing to do with the moon's status as \"blue\". Big \n\nclouds of ash from volcanic eruptions or fires can do the trick, but it doesn't happen often, and the stars \nwould certainly have to align for two such rare instances to occur at once. \nL) You may have heard that the super special second blue moon of 2018 was also a Paschal moon. This is true! \nThat just means it was the first full moon of spring, which is often used to determine the date of Easter \nSunday. All of this is just calendar nonsense and we refuse to go into it further. \nM) Sometimes you'll see a headline that promises a moon with so many qualifiers it makes your head spin. A \nsuper blue blood worm moon, perhaps? Or a super blood wolf moon? Lots of websites will tell you that \n\"wolf moon\" is the traditional name of the first full moon of the year in \"Native American\" cultures, which \nis kind of a weird thing to claim given that there are 573 registered Tribal Nations in the US alone today, \nnot to mention historically. The idea that hungry, howling wolves were such a universal constant in January \nthat all of North America with its different cultures, geographies, and languages spontaneously came up \nwith the same nickname is illogical. \nN) Many cultures have traditional names for the full moon in a given month or season, so there's quite a list to \ndraw from if you're trying to really juice up a story on a slightly-bigger-than-average view of the moon. But \nthese are all based on human calendars and activities and folklore, you will not go outside and see a pink \nmoon in April, though I wish it were so."
         }
       ],
       "questions": [
@@ -483,64 +780,145 @@
           "id": "q36",
           "number": 36,
           "stem": "We cannot see the moon at times when it is positioned right between the earth and the sun.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "〗 同义转述题。 E） 段倒数第三句提到， 在新月期间， 我们看不见它， 因为我们的卫星正好位于我们和太阳之间。 本段首句提到了月球绕地球运行， 而后作者用 our planet 指代地球， 可推测 our satellite “ 我们的卫星 ” 指代月球。 题干中的 cannot see the moon 对应原文中的 it， s invisible， 题干中的 positioned 与原文中的 parked 为同义词， 故答案为 E）。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "36 ． 〖 定位 〗 由题干中的 right between the earth and the sun 定位到文章 E） 段倒数第三句。 E) 〖 精析 〗 同义转述题。 E） 段倒数第三句提到， 在新月期间， 我们看不见它， 因为我们的卫星正好位于我们和太阳之间。 本段首句提到了月球绕地球运行， 而后作者用 our planet 指代地球， 可推测 our satellite “ 我们的卫星 ” 指代月球。 题干中的 cannot see the moon",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "Volcanic eruptions may cause the moon to assume a moody blue color.",
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "〗 细节归纳题。 K） 段第三、 四句提到， 月亮确实可以呈现出忧郁的蓝色， 但这只发生在大小合适的粒子分散在天空中时一一但这与月亮的 “ 蓝色 ” 状态无关。 火山喷发或火灾产生的巨大火山灰云可以做到这一点， 不过这种情况并不经常出现。 从定位句可归纳出， 火山灰云能够导致天空中存在大小合适的粒子， 继而导致月亮出现忧郁的蓝色。 题干中的 cause 对应原文中的 can do the trick， 题干内容是对原文定位部分的概括和归纳， 故答案为 K）。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "37， 〖 定位 〗 由题干中的 volcanic eruptions 和 a moody blue color 定位到 K） 段第三、 四句。 K) 〖 精析 〗 细节归纳题。 K） 段第三、 四句提到， 月亮确实可以呈现出忧郁的蓝色， 但这只发生在大小合适的粒子分散在天空中时一一但这与月亮的 “ 蓝色 ” 状态无关。 火山喷发或火灾产生的巨大火山灰云可以做到这一点， 不过这种情况并不经常出现。 从定位句可归纳出， 火山灰云能够导致天空中存在大小合适的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "The moon will be closest to the earth when the supermoon occurs in February.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "〗 细节辨认题。 G） 段最后一句提到， 超级月亮实际上要到二月份出现时才会离我们最近。 原文中用到了 “ not. · unti",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "38， 〖 定位 〗 由题干中的 closest to the earth、 supermoon 和 February 定位到文章 G） 段最后一句。 G) 〖 精析 〗 细节辨认题。 G） 段最后一句提到， 超级月亮实际上要到二月份出现时才会离我们最近。 原文中用到了 “ not. · unti",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "There is nothing unusual about the super blood wolf moon, which will bear no resemblance to a bloody \nwolf head.",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 同义转述题。 B） 段第二句提到， 这个月亮并没有什么真正神秘或特别的地方， 它也不会像一个血淋淋的狼头一样出现在天空中， 或像任何类似的超出想象的东西。 题干中的 nothing unusual 是原文中 nothing truly mysterious or otherwise special 的同义转述； 题干中的 bear no resemblance to 是原文中 not look like 的同义词组， 故答案为 B)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "39 ． 〖 定位 〗 由题干中的 super blood wolf moon 和 a bloody wolf head 定位到 B） 段前两句。 B) 〖 精析 〗 同义转述题。 B） 段第二句提到， 这个月亮并没有什么真正神秘或特别的地方， 它也不会像一个血淋淋的狼头一样出现在天空中， 或像任何类似的超出想象的东西。 题干中的 nothing unusual 是原文中 nothing truly mysterious or otherwise special 的同义转述；",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "The moon will appear orange when the light reflecting from it travels through an atmosphere thicker than \nusual.",
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "〗 推理判断题。 H） 段定位句提到， 每当月亮升起或落下， 抑或是整夜低垂在地平线上时， 月亮看起来也可能会是橙色的一一一因为从月亮反射回来的光必须穿过更厚的大气层， 而大气层会散射更多的蓝光。 由此可以推断， 前面所提到的这些出现橙色月亮的情况均是由光穿过更厚的大气层引起的。 题干中的 appear 与原文中的 look 为同义词， 而题干中的 reflecting 是原文中 bouncing off 的同义转述， 故答案为 H)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "40， 〖 定位 〗 由题干中的 orange、 light 和 travels through an atmosphere thicker than usual 定位到文章 H) 段第三句。 H) 〖 精析 〗 推理判断题。 H） 段定位句提到， 每当月亮升起或落下， 抑或是整夜低垂在地平线上时， 月亮看起来也可能会是橙色的一一一因为从月亮反射回来的光必须穿过更厚的大气层， 而大气层会散射更多的蓝光。 由此可以推断， 前面所提到的这些出现橙色月亮的情况均是由光穿过更厚的大气层引起的。 题干中的 appear 与原",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "It is contrary to logic to claim the name of wolf moon originates from the cultures of American Indians.",
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "〗 细节归纳题。 M） 段倒数第二句提到， 许多网站会告诉你， “ 狼月 ” 是 “ 美洲原住民 ” 文化中一年第一个满月的传统名称。 下一句又提到， 所有拥有不同文化、 地理和语言的北美部落都自发地提出了同样的绰号， 这种想法是不合逻辑的。 归纳可得题干的含义。 题干中的 contrary to logic 对应原文中的 illogica",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "41. 〖 定位 〗 由题干中的 the name of wolf moon 和 the cultures of American lndians 定位到 M) 段最后两句。 M) 〖 精析 〗 细节归纳题。 M） 段倒数第二句提到， 许多网站会告诉你， “ 狼月 ” 是 “ 美洲原住民 ” 文化中一年第一个满月的传统名称。 下一句又提到， 所有拥有不同文化、 地理和语言的北美部落都自发地提出了同样的绰号， 这种想法是不合逻辑的。 归纳可得题干的含义。 题干中的 contrary to lo",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "As the moon's orbit is not a hundred-percent circle, its distance from the earth changes.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "〗 同义转述题。 F） 段第一句告诉我们， 月球与地球的距离并不总是完全相等的， 因为它的公转轨道不是完美的圆形。 原文中 because 引导的原因状语从句在主句之后， 而题干中则是引导原因状语从句并放在了主句之前。 此外， 题干中的 a hundred-percent circle 对应原文中的 perfectly circular， 题干中的 changes 是原文中 isn， t always exactly the same 的同义转述， 故答案为 F)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "42 ． 〖 定位 〗 由题干中的 orbit 和 distance from the earth changes 定位到文章 F） 段第一句。 F) 〖 精析 〗 同义转述题。 F） 段第一句告诉我们， 月球与地球的距离并不总是完全相等的， 因为它的公转轨道不是完美的圆形。 原文中 because 引导的原因状语从句在主句之后， 而题干中则是引导原因状语从句并放在了主句之前。 此外， 题干中的 a hundred-percent circle 对应原文中的 perfect",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "A full moon in a given month or season gets a specific name in different cultures.",
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "〗 同义转述题。 N） 段第一句指出， 许多文化都对特定月份或季节的满月有传统名称。 定位句用 many cultures 作主语， 指出不同的文化对特定月份或季节的满月有不同的名称， 而题干进行了语序调整， 以 a full moon 作为主语说明特定月份或季节的满月会在不同文化中有特定名称。 两者表达的含义相同， 故答案为 N)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "43 ． 〖 定位 〗 由题干中的 in a yven month or season 定位到文章 N） 段第一句。 N) 〖 精析 〗 同义转述题。 N） 段第一句指出， 许多文化都对特定月份或季节的满月有传统名称。 定位句用 many cultures 作主语， 指出不同的文化对特定月份或季节的满月有不同的名称， 而题干进行了语序调整， 以 a full moon 作为主语说明特定月份或季节的满月会在不同文化中有特定名称。 两者表达的含义相",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "There are likely lots of people who know absolutely nothing about why the moon appears to change its size \nregularly but act like they know.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 同义转述题。 D） 段第二句提到， 可能大街上有很多人会假装他们完全知道为什么天空中的那个东西似乎定期变大变小， 但其实他们完全不懂。 根据上一段结尾提到的 lunar event 可知 that thing “ 那个东西 ” 指代的是月亮。 题干中的 lots of people 对应原文中的 loads of folks， 题干中的 know absolutely nothing 是对原文中 totally d0 not 的同义转述， 均表明他们其实不懂， 而题干中的 act like they know 与原文中的 pretending they totally know 均表达这些人假装自己很懂， 题干中的 change its size 是对原文中 get bigger and smaller 的同义转述， 故答案为 D)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+            "sourceText": "44 ． 〖 定位 〗 由题干中的 know 和 why the moon appears to change its size 定位到文章 D） 段第 D) 〖 精析 〗 同义转述题。 D） 段第二句提到， 可能大街上有很多人会假装他们完全知道为什么天空中的那个东西似乎定期变大变小， 但其实他们完全不懂。 根据上一段结尾提到的 lunar event 可知 that thing “ 那个东西 ” 指代的是月亮。 题干中的 lots of people 对应原文中的 loads of folks",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q45",
@@ -558,7 +936,7 @@
       "passages": [
         {
           "label": "Passage One",
-          "text": "Questions 46 to 50 are based on the following passage. \nWith population increases and global urbanisation ever accelerating, much attention is focused on the \nsustainability of our cities and scarce attention is paid to the countryside. \nRural life is associated with closely-knit communities, sense of belonging, and a simple, tranquil life. Yet \n\n2024 年12 月英语六级真题第2 套  第7 页，共9 页\nwhilst some or all of these elements exist in the countryside, so do conservatism and a lack of employment \nopportunities. And it is mostly due to the latter that rural communities are suffering. Attracted by the improved \neconomics of urban areas, country-dwellers across the world are moving out, contributing to the excessive \ncrowdedness of densely populated cities, and leaving the countryside in desolation. \nSo how can the countryside ensure its survival among these changes; or should it at all? Due to both the \ndistance between residences and facilities and often intermittent public transport, those living in the countryside \nare heavier automobile users. Rural dwellers also use more energy maintaining their mostly detached buildings. \nWe may be piled up like boxes in the city, but this brings energy efficiency that the countryside cannot match. \nRural energy requirements result in higher carbon emissions per person than in the city, so it is actually \nirresponsible to endorse such a lifestyle choice. \nProtecting the countryside is a hot topic. Those who have made their fortunes in the city often buy second \nhomes in the countryside, visiting intermittently for a sample of a supposedly simple life. The side-effect of this \nis that house prices are pushed up due to increased demand, leaving them unaffordable for local people. A \nsolution has yet to be found for this challenge, for market forces are further forcing residents out of the \ncountryside. For those who believe in rural preservation, this is deplorable. \nWhilst an idealised view of the countryside is common, the reality is that rural life has continuously \nevolved. Industrialisation brought an increase in divisions of labour, changing social links between rural \npeople. The internet has introduced once foreign cultures into the countryside. Improved travel connections and \naffordability have made the world more accessible, creating a \"global village\". Considering these changes, \nsurely an evolving countryside is inevitable. \nPerhaps the countryside should also prepare itself for massive population increases in the future. With \ncities across the world growing rapidly, how will the current urban generation respond to the inevitable social \nchanges of mass urbanisation? Will the longing for a simpler life become stronger, fueling a rural renaissance? \nAs the world continues to urbanise, the voices calling for rural preservation may well grow louder. But \nchange is inevitable. We know that the world is going to see new cities emerging from the dust and current \ncities growing into megacities. but the future of the countryside is less clear.",
+          "text": "Questions 46 to 50 are based on the following passage. \nWith population increases and global urbanisation ever accelerating, much attention is focused on the \nsustainability of our cities and scarce attention is paid to the countryside. \nRural life is associated with closely-knit communities, sense of belonging, and a simple, tranquil life. Yet \n\nwhilst some or all of these elements exist in the countryside, so do conservatism and a lack of employment \nopportunities. And it is mostly due to the latter that rural communities are suffering. Attracted by the improved \neconomics of urban areas, country-dwellers across the world are moving out, contributing to the excessive \ncrowdedness of densely populated cities, and leaving the countryside in desolation. \nSo how can the countryside ensure its survival among these changes; or should it at all? Due to both the \ndistance between residences and facilities and often intermittent public transport, those living in the countryside \nare heavier automobile users. Rural dwellers also use more energy maintaining their mostly detached buildings. \nWe may be piled up like boxes in the city, but this brings energy efficiency that the countryside cannot match. \nRural energy requirements result in higher carbon emissions per person than in the city, so it is actually \nirresponsible to endorse such a lifestyle choice. \nProtecting the countryside is a hot topic. Those who have made their fortunes in the city often buy second \nhomes in the countryside, visiting intermittently for a sample of a supposedly simple life. The side-effect of this \nis that house prices are pushed up due to increased demand, leaving them unaffordable for local people. A \nsolution has yet to be found for this challenge, for market forces are further forcing residents out of the \ncountryside. For those who believe in rural preservation, this is deplorable. \nWhilst an idealised view of the countryside is common, the reality is that rural life has continuously \nevolved. Industrialisation brought an increase in divisions of labour, changing social links between rural \npeople. The internet has introduced once foreign cultures into the countryside. Improved travel connections and \naffordability have made the world more accessible, creating a \"global village\". Considering these changes, \nsurely an evolving countryside is inevitable. \nPerhaps the countryside should also prepare itself for massive population increases in the future. With \ncities across the world growing rapidly, how will the current urban generation respond to the inevitable social \nchanges of mass urbanisation? Will the longing for a simpler life become stronger, fueling a rural renaissance? \nAs the world continues to urbanise, the voices calling for rural preservation may well grow louder. But \nchange is inevitable. We know that the world is going to see new cities emerging from the dust and current \ncities growing into megacities. but the future of the countryside is less clear.",
           "questions": [
             {
               "id": "q46",
@@ -570,8 +948,17 @@
                 "C": "They are closely-knit communities.",
                 "D": "They are haunted by conservatism."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "〗 事实细节题。 文章首段提到全球城市化加速之后， 在段尾将话题转向农村， 而第二段具体阐述农村的现状， 该段最后一句分析指出， 世界各地的农村居民正在迁出， 使得城市更加拥挤， 而农村解析册 ． 2024 年 12 月六级真题 （二） 26 则一片荒凉， 故答案为 A）。 〖 避错 〗 根据第一段， 所谓的城市化加速是对全球整体趋势的表述， 并不是指农村地区的情况， 故排除 B） 项； 由定位段首句可知， c） 项所述是人们对乡村的印象， 并不是作者所讲的农村现状， 故排除； 作者在第二段第二句虽然提到了保守主义， 但他认为这并非影响农村的主要因素， 故而达不到 haunted （不断困扰） 的程度， 故排除 D) 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+                "sourceText": "46 ． 〖 定位 〗 由题干中的 rural areas 和 nowadays 定位到第二段。 A) 〖 精析 〗 事实细节题。 文章首段提到全球城市化加速之后， 在段尾将话题转向农村， 而第二段具体阐述农村的现状， 该段最后一句分析指出， 世界各地的农村居民正在迁出， 使得城市更加拥挤， 而农村解析册 ． 2024 年 12 月六级真题 （二） 26 则一片荒凉， 故答案为 A）。 〖 避错 〗 根据第一段， 所谓的城市化加速是对全",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -583,8 +970,17 @@
                 "C": "It is highly dependent upon heavy automobiles.",
                 "D": "It is a choice more affluent people will endorse."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "〗 观点态度题。 定位句指出， 支持农村这种生活方式的选择是不负责任的， 回溯前文此结论的论据， 本段第三、 四句指出， 因农村大多是独立的建筑， 需要使用更多的能源， 其能源效率无法与城市相比拟， 可知乡村生活方式能源效率低于城市， 故答案为 B)。 〖 避错 〗 A） 项是对第三段首句的曲解， 原文只是提出了农村应该如何适应变化以确保自身存在下去的问题， 并不是说乡村生活方式无法继续存在， 故排除； c） 项是根据定位段第二句设置的干扰， 原文的 heavier 所指的是依赖汽车的程度， 而不是使用重型汽车， 故排除； 根据第四段第二句， 有钱人会到农村买房， 体验所谓的简单生活， 但这与作者在第三段谈到的真正的乡村生活方式并不相同， 并非作者对乡村生活的看法， 故排除 D) 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+                "sourceText": "47 ． 〖 定位 〗 由题干中的 rural lifestyle 定位到第三段最后一句。 B) 〖 精析 〗 观点态度题。 定位句指出， 支持农村这种生活方式的选择是不负责任的， 回溯前文此结论的论据， 本段第三、 四句指出， 因农村大多是独立的建筑， 需要使用更多的能源， 其能源效率无法与城市相比拟， 可知乡村生活方式能源效率低于城市， 故答案为 B)。 〖 避错 〗 A） 项是对第三段首句的曲解， 原文只是提出了农村应",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -594,10 +990,19 @@
                 "A": "It is bound to mar the traditional rural life.",
                 "B": "It adversely impacts rural social stability.",
                 "C": "It hinders rural economies' revitalisation.",
-                "D": "It is detrimental to rural preservation.   2024 年12 月英语六级真题第2 套  第8 页，共9 页"
+                "D": "It is detrimental to rural preservation."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "〗 推理判断题。 定位句提到一些在城里发了财的人经常在农村购置第二套房子， 去体验所谓的简单生活， 在随后的第三、 四句直白地点明这样做的影响是负面的， 主要就在于推高房价， 令当地人负担不起， 迫使原本的农村居民迁出， 可见对农村的保护是不利的， 故答案为 D)。 〖 避错 〗 作者在定位段中谈及城市人在乡村购房的影响时， 并没有提到传统生活方式的问题， 故排除 A)； 定位段提到的不利影响， 主要是房价走高和人口迁出， 没有谈及社会稳定和经济振兴， 故排除 B） 项和 0 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+                "sourceText": "48 ． 〖 定位 〗 由题干中的 second home 定位到第四段第 D) 〖 精析 〗 推理判断题。 定位句提到一些在城里发了财的人经常在农村购置第二套房子， 去体验所谓的简单生活， 在随后的第三、 四句直白地点明这样做的影响是负面的， 主要就在于推高房价， 令当地人负担不起， 迫使原本的农村居民迁出， 可见对农村的保护是不利的， 故答案为 D)。 〖 避错 〗 作者在定位段中谈及城市人在乡村购房的影响时",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -609,8 +1014,17 @@
                 "C": "It is likely to embrace foreign cultures.",
                 "D": "It will become increasingly diversified."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "〗 事实细节题。 定位段第二至四句提到工业化和网络等现代技术对农村的影响， 最后一句总结称， 鉴于这些变化， 农村的不断发展是不可避免的， 故答案为 A）。 〖 避错 〗 B） 项是针对第五段首句前半部分设置的干扰， 作者在这里虽然提到了理想化， 但说的是人们对农村的理想化看法， 而非理想化的生活方式， 故排除； 定位段第三句谈及互联网时提到陌生文化被引人农村， 但没有提到农村的接受情况， 故排除 c） 项； 第五段第二、 三句只提到工业化加剧了劳动分工， 互联网将原本陌生的文化引人了农村， 并没有提及农村是否多样化， 故排除 D)O 50， 〖 定位 〗 由题干中的 the future of the countryside 定位到全文最后一句。 D) 〖 精析 〗 观点态度题。 定位句指出， 我们知道世界将见证新城市从尘埃中崛起， 现有城市将发展成为特大城市， 而农村的未来仍不明朗， 可见与城市相比， 农村的未来是人们不太容易想象的， 故答案为 D)O 〖 避错 〗 作者在谈及未来时没有提到当地人将会如何， 故排除 A）； B） 项显然与定位句表述相悖， 故排除； 由最后一段第二句可知， 整个世界的未来都是变化的， 作者并没有比较城乡哪个更会保持静态， 故排除 C)。 参考译文随着人口的增长和全球城市化的加速， 人们更多地关注城市的可持续性， 而鲜少关注农村的情况。 乡村生活与紧密交织的社区、 归属感和简单宁静的生活相联系。 然而， 尽管这些因素中的一些或全部在农村中确实存在， 但保守主义和缺乏就业机会也是现实。 农村社区渐趋退化的主要原因是后者。 （46） 受城市地区经济改善的吸引， 世界各地的农村居民正在迁出， 导致人口稠密的城市过度拥挤， 而农村则一片荒凉。 那么， 农村如何在这些变化中确保自身存在， 还是说无论有无变化都应该这样做？ 由于住宅和设施之间的距离以及间或中断的公共交通， 居住在农村的人们更多地使用汽车。 （47） 农村居民也使用更多的能源来",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+                "sourceText": "49 ． 〖 定位 〗 由题干中的 industrialisation 定位到第五段第二句并浏览至段尾。 A) 〖 精析 〗 事实细节题。 定位段第二至四句提到工业化和网络等现代技术对农村的影响， 最后一句总结称， 鉴于这些变化， 农村的不断发展是不可避免的， 故答案为 A）。 〖 避错 〗 B） 项是针对第五段首句前半部分设置的干扰， 作者在这里虽然提到了理想化， 但说的是人们对农村的理想化看法， 而非理想化的生活方式， 故排除； 定位",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q50",
@@ -622,14 +1036,23 @@
                 "C": "It is less likely to stay static.",
                 "D": "It is less easy to envisage."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "〗 观点态度题。 定位句指出， 我们知道世界将见证新城市从尘埃中崛起， 现有城市将发展成为特大城市， 而农村的未来仍不明朗， 可见与城市相比， 农村的未来是人们不太容易想象的， 故答案为 D)O 〖 避错 〗 作者在谈及未来时没有提到当地人将会如何， 故排除 A）； B） 项显然与定位句表述相悖， 故排除； 由最后一段第二句可知， 整个世界的未来都是变化的， 作者并没有比较城乡哪个更会保持静态， 故排除 C)。 参考译文随着人口的增长和全球城市化的加速， 人们更多地关注城市的可持续性， 而鲜少关注农村的情况。 乡村生活与紧密交织的社区、 归属感和简单宁静的生活相联系。 然而， 尽管这些因素中的一些或全部在农村中确实存在， 但保守主义和缺乏就业机会也是现实。 农村社区渐趋退化的主要原因是后者。 （46） 受城市地区经济改善的吸引， 世界各地的农村居民正在迁出， 导致人口稠密的城市过度拥挤， 而农村则一片荒凉。 那么， 农村如何在这些变化中确保自身存在， 还是说无论有无变化都应该这样做？ 由于住宅和设施之间的距离以及间或中断的公共交通， 居住在农村的人们更多地使用汽车。 （47） 农村居民也使用更多的能源来维护他们大多独立的建筑。 在城市里我们可能像箱子一样堆积在一起， 但这种状况所带来的能源效率却是农村无法比拟的。 农村的能源需求导致人均碳排放量高于城市， 因此支持这种生活方式的选择实际上是不负责任的。 保护农村是一个热门话题。 （48） 那些在城里发了财的人经常在农村购置第二套房子， 间歇性地去住住， 以体验所谓的简单生活。 其负面影响是， 由于需求增加， 房价被推高， 使当地人负担不起。 这一挑战的解决方案尚未找到， 因为市场力量正在进一步迫使居民离开农村。 对于那些相信应该保护农村的人们而言， 这是可悲的。 解析册 · 2024 年 12 月六级真题 （二） 27 虽然对农村的理想化看法很常见， 但现实是农村生活在不断发展。 工业化带来了劳动分工的增加，",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+                "sourceText": "50， 〖 定位 〗 由题干中的 the future of the countryside 定位到全文最后一句。 D) 〖 精析 〗 观点态度题。 定位句指出， 我们知道世界将见证新城市从尘埃中崛起， 现有城市将发展成为特大城市， 而农村的未来仍不明朗， 可见与城市相比， 农村的未来是人们不太容易想象的， 故答案为 D)O 〖 避错 〗 作者在谈及未来时没有提到当地人将会如何， 故排除 A）； B） 项显然与定位句表述相悖， 故排除； 由最后一段第",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
         {
           "label": "Passage Two",
-          "text": "Questions 51 to 55 are based on the following passage. \nStatements, like \"beauty is in the eye of the beholder (观看者)\", are rarely questioned. They've become so \nembedded in our consciousness that people think it's absurd to think otherwise. It might be useful, however, to \nat least push back on this assumption because people evaluate environment, situations, and people aesthetically. \nWe may find that we still believe it is correct, but we may also find that there is a lot more to the situation than \nyou suppose. \nA recent study exploring aesthetic taste was published in Cognition. The results from this study show that \npeople agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, \nor human-made objects. \nThe study found that shared taste was most common for faces and natural landscapes, but least common \namong works of architecture and art. The hypothesis is the commonly pleasing features, like proportion or \nsymmetry, are at work. \nPreferences for natural scenes might be learned through life experiences. Factors like habitability, safety, \nand openness might be preferred as people develop. Some of the details of landscapes change, but the basics are \nmore common, e.g., water, open spaces, and signs of care. \nArt and architecture, unlike natural spaces, do not have the same level of exposure. So, people do not have \nthe same level of shared taste. \nIt's possible that the lower amount of agreement in the shared taste of artifacts has to do more with \nelements of style, rather than \"behavioral consequences\". \nAll of the consequences seem reasonable (or at least possible), but I think there might be an interesting \nphilosophical conclusion that they did not draw. It seems that there is an objective ground to our aesthetic \npreferences or evaluations. I am not saying this would mean beauty is completely objective, just that there \ncould possibly be general objective principles at work, i.e., beauty is not simply in the eye of the beholder. \nNature exhibits some of the universal aesthetic features, such as radiance, in a common way throughout \nthe world. It's not exactly the same everywhere, but it is common. For example, a sunset is similar enough in \ndifferent places to warrant almost universal appeal. \nPossible universal principles of beauty—such as proportion, fittingness, radiance, and others—are general \ncategories, which allow for a wide array of embodiments. When people get involved in making artifacts in \narchitecture or art, they apply these very general concepts in unique ways. But the way they applied the \nprinciple may not have universal appeal. \nThis is why it's important to experience diverse cultures and their artifacts because it opens us up to \ndifferent ways of approaching or constructing beauty. And it is always good to question our assumptions. \n\n2024 年12 月英语六级真题第2 套  第9 页，共9 页",
+          "text": "Questions 51 to 55 are based on the following passage. \nStatements, like \"beauty is in the eye of the beholder (观看者)\", are rarely questioned. They've become so \nembedded in our consciousness that people think it's absurd to think otherwise. It might be useful, however, to \nat least push back on this assumption because people evaluate environment, situations, and people aesthetically. \nWe may find that we still believe it is correct, but we may also find that there is a lot more to the situation than \nyou suppose. \nA recent study exploring aesthetic taste was published in Cognition. The results from this study show that \npeople agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, \nor human-made objects. \nThe study found that shared taste was most common for faces and natural landscapes, but least common \namong works of architecture and art. The hypothesis is the commonly pleasing features, like proportion or \nsymmetry, are at work. \nPreferences for natural scenes might be learned through life experiences. Factors like habitability, safety, \nand openness might be preferred as people develop. Some of the details of landscapes change, but the basics are \nmore common, e.g., water, open spaces, and signs of care. \nArt and architecture, unlike natural spaces, do not have the same level of exposure. So, people do not have \nthe same level of shared taste. \nIt's possible that the lower amount of agreement in the shared taste of artifacts has to do more with \nelements of style, rather than \"behavioral consequences\". \nAll of the consequences seem reasonable (or at least possible), but I think there might be an interesting \nphilosophical conclusion that they did not draw. It seems that there is an objective ground to our aesthetic \npreferences or evaluations. I am not saying this would mean beauty is completely objective, just that there \ncould possibly be general objective principles at work, i.e., beauty is not simply in the eye of the beholder. \nNature exhibits some of the universal aesthetic features, such as radiance, in a common way throughout \nthe world. It's not exactly the same everywhere, but it is common. For example, a sunset is similar enough in \ndifferent places to warrant almost universal appeal. \nPossible universal principles of beauty—such as proportion, fittingness, radiance, and others—are general \ncategories, which allow for a wide array of embodiments. When people get involved in making artifacts in \narchitecture or art, they apply these very general concepts in unique ways. But the way they applied the \nprinciple may not have universal appeal. \nThis is why it's important to experience diverse cultures and their artifacts because it opens us up to \ndifferent ways of approaching or constructing beauty. And it is always good to question our assumptions.",
           "questions": [
             {
               "id": "q51",
@@ -641,8 +1064,17 @@
                 "C": "Many people have found it absurd.",
                 "D": "People have long been misled by it."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "〗 事实细节题。 文章首段第一句指出， 诸如 “ 美存在于观看者的眼中 ” 此类的说法， 鲜少遭到质疑。 由此可知， “ 美存在于观看者的眼中 ” 这种说法几乎从未被质疑过， 故答案为 A)。 〖 避错 〗 首段第三句提到人们会从审美角度来评价环境、 状况和人， 而不是从审美角度诠释这种说法， 故排除 B） 项； 首段第二句指出， 这些说法在我们的意识里已然根深蒂固， 以至于人们认为不这样想就很荒谬， 而非许多人认为这种说法很荒谬， 故排除 0 项； 首段第三句虽然提到至少推翻这一假设或许是有益的， 但最后一句表明我们可能会发现自己依旧相信该假设是正确的， 但也有可能会发现情况远比你想象的要复杂得多， 由此可知， 人们并非长期以来一直被这种说法误导， 故排除 D) 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+                "sourceText": "51. 〖 定位 〗 由题干中的 beauty is in the eye of the beholder 定位到首段第一句。 A) 〖 精析 〗 事实细节题。 文章首段第一句指出， 诸如 “ 美存在于观看者的眼中 ” 此类的说法， 鲜少遭到质疑。 由此可知， “ 美存在于观看者的眼中 ” 这种说法几乎从未被质疑过， 故答案为 A)。 〖 避错 〗 首段第三句提到人们会从审美角度来评价环境、 状况和人， 而不是从审美角度诠释这种说法， 故排除 B） 项； 首段第二",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -654,8 +1086,17 @@
                 "C": "There is less consensus on objects shaped by human craft.",
                 "D": "There is general agreement on what is pleasing to the eye."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "〗 事实细节题。 文章第二段第一句指出， 近期， 一项探讨审美品位的研究发表在 《认知》 杂志上。 紧接着第二句提到该研究的结果表明， 人们对自然物体的审美评价非常一致， 但对人工制品或人造物体的审美评价分歧极大。 由 dlsagree more 可知， 人们对人工制品的共识较少， 故答案为 C)。 〖 避错 〗 第二段指出研究结果表明了人们对自然物体和对人工制品的审美评价不同， 而不是人们的审美品位不同， 故排除 A） 项第三段提到， 人们对相貌和自然景观的共同品位最为常见， 但对建筑作品和艺术作品的共同品位则最为罕见， 原文对比了人们对自然美和人工美的共同品位是否常见， 并未对比自然美和人工美谁更美， 故排除 B） 项； 第二段第二句提到人们对自然物体的审美评价非常一致， 而非人们对于什么令人赏心悦目的看法普遍一致， 故排除 D) 项。 53， 〖 定位 〗 由题干中的 differ 和 aesthetic appraisal of artifacts 定位到第五段。 D) 〖 精析 〗 推理判断题。 文章第五段第二句指出， 人们对艺术和建筑的共同品位水平也不尽相同， 由句首的 so 可知上一句解释了原因： 与自然空间不同， 艺术和建筑没有相同的曝光程度， 也就是说原因是人工制品较少进人人们的视野， 故答案为 D)O 〖 避错 〗 第九段第一句提到了 a wide array of 解析册 · 2024 年 12 月六级真题 （二） 28 em diments， 但指的是美可能存在的普遍原则属于一般类别， 可以有各种各样的体现， 而不是人工制品有各种各样的设计， 故排除 A）； 第六段提到了 behavioral consequences， 原文是指人们对人工制品的共同品位一致性较低的原因更多地与风格要素有关， 而非 “ 行为后果 ”， B） 项表述与之矛盾， 故排除； 第五段对比了自然空间和人工制品的曝光程度， 并未对比人工制品和景观所占用的自然空间， 故排除 C) 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+                "sourceText": "52 ． 〖 定位 〗 由题干中的 a recent study exploring aesthetic taste 和 show 定位到第二段第一、 二句。 C) 〖 精析 〗 事实细节题。 文章第二段第一句指出， 近期， 一项探讨审美品位的研究发表在 《认知》 杂志上。 紧接着第二句提到该研究的结果表明， 人们对自然物体的审美评价非常一致， 但对人工制品或人造物体的审美评价分歧极大。 由 dlsagree more 可知， 人们对人工制品的共识较少， 故答案为 C)。 〖 避错 〗 第二段指出",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -667,8 +1108,17 @@
                 "C": "They take up much less natural space than landscapes.",
                 "D": "They come into people's view less often than natural spaces."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "〗 推理判断题。 文章第五段第二句指出， 人们对艺术和建筑的共同品位水平也不尽相同， 由句首的 so 可知上一句解释了原因： 与自然空间不同， 艺术和建筑没有相同的曝光程度， 也就是说原因是人工制品较少进人人们的视野， 故答案为 D)O 〖 避错 〗 第九段第一句提到了 a wide array of 解析册 · 2024 年 12 月六级真题 （二） 28 em diments， 但指的是美可能存在的普遍原则属于一般类别， 可以有各种各样的体现， 而不是人工制品有各种各样的设计， 故排除 A）； 第六段提到了 behavioral consequences， 原文是指人们对人工制品的共同品位一致性较低的原因更多地与风格要素有关， 而非 “ 行为后果 ”， B） 项表述与之矛盾， 故排除； 第五段对比了自然空间和人工制品的曝光程度， 并未对比人工制品和景观所占用的自然空间， 故排除 C) 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+                "sourceText": "53， 〖 定位 〗 由题干中的 differ 和 aesthetic appraisal of artifacts 定位到第五段。 D) 〖 精析 〗 推理判断题。 文章第五段第二句指出， 人们对艺术和建筑的共同品位水平也不尽相同， 由句首的 so 可知上一句解释了原因： 与自然空间不同， 艺术和建筑没有相同的曝光程度， 也就是说原因是人工制品较少进人人们的视野， 故答案为 D)O 〖 避错 〗 第九段第一句提到了 a wide array of 解析册 · 2024 年 12 月六级真题",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q54",
@@ -680,8 +1130,17 @@
                 "C": "It embodies beauty with a wide array of aesthetic features.",
                 "D": "It establishes the principles of beauty in a number of ways."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "〗 推理判断题。 文章第八段第一句提到， 自然界在全世界以一种共同的方式展示了一些普遍的审美特征。 紧接着第三句以日落为例进行说明： 不同地方的日落极为相似， 令其具备了近乎普遍的吸引力。 山此可推断出， 作者举日落的例子是用来说明它以一种相似的方式展示世界各地的审美特征， 故答案为 B)O 〖 避错 〗 第八段第一句和第二句提到了光辉， 但是用来说明其相似性所具备的普遍吸引力， 而非其灿烂光辉所创造的强大吸引力， 故排除 A)； 该段第一句指出自然界在全世界以一种共同的方式展示了一些普遍的审美特征， C） 项的 a wide array Of aesthetic features 和 D） 项的 in a number Of ways 分别与原文中的 the universal aesthetic features 和 in a common way 不符， 故均排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+                "sourceText": "54 ． 〖 定位 〗 由题干中的 sunset 定位到第八段第一句和 B) 〖 精析 〗 推理判断题。 文章第八段第一句提到， 自然界在全世界以一种共同的方式展示了一些普遍的审美特征。 紧接着第三句以日落为例进行说明： 不同地方的日落极为相似， 令其具备了近乎普遍的吸引力。 山此可推断出， 作者举日落的例子是用来说明它以一种相似的方式展示世界各地的审美特征， 故答案为 B)O 〖 避错 〗 第八段第一句和第二句提",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q55",
@@ -693,8 +1152,17 @@
                 "C": "The way their creators apply the principle of beauty may not be pleasing to everybody.",
                 "D": "Their creators interpret the universal principle of beauty each in their preferred way."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "〗 推理判断题。 文章第九段第一句提到美可能存在的普遍原则属于一般类别， 可以有各种各样的体现。 紧接着第二句和第三句以人工制品为例进行说明， 当人们参与建筑作品或艺术作品的制作时， 他们会以独特的方式应用这些非常普遍的概念， 然而他们应用这一原则的方式可能并不具有普遍的吸引力。 由此可知， 人工制品并不总是具有普遍吸引力的原因是其创造者应用美的原则的方式并不具有普遍的吸引力， 可能不会让每个人都满意， 故答案为 C)O 〖 避错 〗 第七段第三句提到 objective principles， 但是指作者认为美可能存在一些普遍的客观原则在发挥作用， 原文并未表明欣赏人工制品的美不受客观标准的约束， 故排除 A)； 第九段第一句提到美可能存在的普遍原则属于一般类别， 可以有各种各样的体现， B） 与原文表述相反， 故排除； 第九段第二句提到人工制品的创作者会以独特的方式应用这些非常普遍的概念， 而非以他们喜欢的方式诠释美丽的普遍概念， 故排除 D)O 参考译文 （(1) 诸如 “ 美存在于观看者的眼中 ” 此类的说法， 鲜少遭到质疑。 它们在我们的意识里已然根深蒂固， 以至于人们认为不这样想就很荒谬。 然而， 至少推翻这一假设或许是有益的， 因为人们会从审美角度来评价环境、 状况和人。 我们可能会发现自己依旧相信该假设是正确的， 但也有可能会发现情况远比你想象的要复杂得多。 近期， 一项探讨审美品位的研究发表在 《认知》 杂志上。 （52） 该研究的结果表明， 人们对自然物体的审美评价非常一致， 但对人工制品或人造物体的审美评价分歧极大。 研究发现， 人们对相貌和自然景观的共同品位最为常见， 但对建筑作品和艺术作品的共同品位则最为罕见。 这一假设是均衡或对称等常常令人愉悦的特征在发挥作用。 对自然景观的偏好可以通过生活经验习得。 宜居性、 安全性和开放性等因素可能会随着人类的发展而受到青睐。 景观的某些细节会发生变化， 但基本要素更为常见， 例如水、 开放空间和护理标志。 （",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2024-12-2/key_OCR_2024-12-2.txt",
+                "sourceText": "们会以独特的方式应用这些非常普遍的概念， 然而他们应用这一原则的方式可能并不具有普遍的吸引力。 由此可知， 人工制品并不总是具有普遍吸引力的原因是其创造者应用美的原则的方式并不具有普遍的吸引力， 可能不会让每个人都满意， 故答案为 C)O 〖 避错 〗 第七段第三句提到 objective principles， 但是指作者认为美可能存在一些普遍的客观原则在发挥作用， 原文并未表明欣赏人工制品的美不受客观标准的约束， 故排除 A)； 第九段第一句提到美可能存在的普遍原则属于一般类别， 可以有各种各样的体现， B） 与原文表述相反， 故排除； 第九段第二句提到人工制品的创作",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

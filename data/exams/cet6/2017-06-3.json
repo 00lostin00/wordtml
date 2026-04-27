@@ -47,62 +47,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】KOMHI",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "O",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】KOMHI",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】KOMHI",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】KOMHI",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】KOMHI",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】ELGBJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】ELGBJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】ELGBJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】ELGBJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】ELGBJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -116,71 +206,161 @@
           "id": "q36",
           "number": 36,
           "stem": "Middle school is a crucial period when students may become keenly\ninterested in advanced\nmathematics.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】FAIGL",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "Elite high school math competitions are attracting more interest\nthroughout the United States.",
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】FAIGL",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "Math circles provide students with access to advanced-math training by\nuniversity professors.",
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】FAIGL",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "Students may take advantage of online resources to learn to solve math\nproblems.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】FAIGL",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "The summer program run by a nonprofit organization has helped many\nunder served students learn advanced math.",
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】FAIGL",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "Winners of local contests will participate in the national math\ncompetition for free.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【41-45】EJBMH",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "Many schools don ’ t place academic competitions at the top of their\npriority list.",
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【41-45】EJBMH",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "Contestants of elite high school math competitions are mostly Asian\nand white students from well-off families.",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【41-45】EJBMH",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "Some math training programs primarily focus on raising students ’\nmath scores.",
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【41-45】EJBMH",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "Some intensive summer programs are very expensive but most of them\nprovide scholarships.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【41-45】EJBMH",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -203,8 +383,17 @@
                 "C": "They came up with a brand new set of design procedures.",
                 "D": "They made originality a top priority in their fashion design."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】BDCAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q47",
@@ -216,8 +405,17 @@
                 "C": "It represented genuine American art.",
                 "D": "It was a completely new invention."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】BDCAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q48",
@@ -229,8 +427,17 @@
                 "C": "Ease of care.",
                 "D": "Fabric quality."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】BDCAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q49",
@@ -242,8 +449,17 @@
                 "C": "A search for balance between tradition and novelty.",
                 "D": "The involvement of more women in fashion design."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】BDCAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q50",
@@ -255,8 +471,17 @@
                 "C": "They advocated equity between men and women.",
                 "D": "They became rivals of their Parisian counterparts."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】BDCAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         },
@@ -274,8 +499,17 @@
                 "C": "They have accelerated the reproduction of some harmful insects.",
                 "D": "They have changed the previous migration habits of certain birds."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】DDBCA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q52",
@@ -287,8 +521,17 @@
                 "C": "They help humans kill harmful insects.",
                 "D": "They are more likely to be at risk of dying."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】DDBCA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q53",
@@ -300,8 +543,17 @@
                 "C": "They may evolve new feeding habits.",
                 "D": "They may have trouble getting adequate food."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】DDBCA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q54",
@@ -313,8 +565,17 @@
                 "C": "They are not attracted to the rubbish dumps on their migration routes.",
                 "D": "They join the storks form Germany on rubbish dumps in Morocco."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】DDBCA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q55",
@@ -326,8 +587,17 @@
                 "C": "The spread of epidemics to their homeland.",
                 "D": "The damaging effect on bio-diversity."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-3/paper_卷三_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】DDBCA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         }

@@ -1,0 +1,35 @@
+{
+  "id": "cet6-2012-06",
+  "type": "cet6",
+  "year": 2012,
+  "month": 6,
+  "set": 0,
+  "title": "2012年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write a short essay entitled The Impact of the Internet on Interpersonal Communication. Your essay should start with a brief description of the picture. You should write at least 150 words but no more than 200 words. 作文标准版 The Impact of the Internet on Interpersonal Communication As is described in the picture, a father asks her daughter how her school today goes on. Instead of answering directly, the daughter tells her father to read her blog. It is common that youngsters nowadays incline to communicate with others on internet increasingly, and lack communication with people around them. With the development of Internet, it has influenced our society to a large extent, especially interpersonal communication. To begin with, we can communicate with others anytime via internet. Otherwise, we would have to arrange our schedules strictly in advance. Also, interpersonal communication through the internet is not restricted by space. For example, in most multinational corporations, instant messages and video conferences help colleagues solve problems timely and efficiently. Last but not least, the internet can greatly speed up our interpersonal communication. Whereas, there are also disadvantages that the internet brings to us. More and more people complained that they have lost face-to-face communicating skills. As a result, people become more and more indifferent to each other in real life. Some netizens who are immersed in virtual world even have difficulty in making friends in reality. In conclusion, communication through the internet could bring us both convenience and inconvenience. We should strike a balance between them and make the best of the internet. 【解析】 这次的六级写作是请考生谈谈网络对人际交流的影响。这个话题本身已是日常生活的热点， 考生并不陌生，有话可说。",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "Complete the sentences by translating into English the Chinese given in brackets. Please\nwrite your translation on Answer Sheet 2.",
+      "source": "82. I think that the meal is well worth $80 without a discount (没有折扣的情况下值80 美元).【点评】well worth，“值”，后跟动名词或名词；discount 折扣。83. Facing the fierce competition from other companies (面对来自其他公司的激烈竞争), the【点评】横线处要填的是一个非谓语从句，根据句意可知前后主语都是the automobilemanufacturer，因此用现在分词形式。have anything in common (几乎没有什么共同之处).【点评】have something in common 有共同点，注意表示否定时副词的使用。85. Only after many failures have I realized that I cannot succeed with luck merely (我才认识到仅凭运气是不能成功的).【点评】本题考查only 位于句首的倒装。这里强调的是过去的事情对现在造成的影响“不能成功”，因此应用现在完成时态。全国英语六级历年真题extinct from the earth (更多的物种就可能已经在地球上灭绝了).【点评】but for，“要不是，如果没有”，这里考查虚拟语气，后面应该用would + have done的形式，强调这种非真实的虚拟对将来可能发生的情况的影响。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

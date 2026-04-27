@@ -133,8 +133,17 @@
           "id": "q42",
           "number": 42,
           "stem": "Merian contributed greatly to people's better understanding of medicine and science.",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "医学和科学做出了巨大贡献。 （0 定位） 由题干关键词 people's better understanding 和 medicine and science 定位到原文 [ c ] 段画线处。 C] At a time when natural history was a valuable tool for discovery， Merian discovered facts about p ] 田 1 ld insects that were not preuously known. Her obsewations helped dismiss the popular belief that insects spontaneously emerged 什 om mud. The knowledge she collected over decades didnt just satisfy those curious about nature， but SO provided valuable insights mt0 medicine and science. She was the fiBt to bring together insects and 山 e 让 habitats， including f00d they ate， t0 a single ecological composition. ' 0） [ c ] 段第三句提到， 她几十年来收集的知识不仅满足了那些对自然好奇的人， 而且为医学和科学提供了宝贵的见解。 由此可见， 她几十年来收集的知识为人们更好地了解医学和科学做出了巨大贡献。 题干中的 people， s better understanding 对应原文中的 valuable ig， 故答案为 〔 C ]。 L ] Merian was c01Tect about the giant bird-eating 闢 ． Me 巧田 1 occasionally made mistakes in her drawings of insects",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-2/key_OCR_2018-12-2.txt",
+            "sourceText": "e. （0 还章） 梅里安为人们更好地了解医学和科学做出了巨大贡献。 （0 定位） 由题干关键词 people's better understanding 和 medicine and science 定位到原文 [ c ] 段画线处。 C] At a time when natural history was a valuable tool for discovery， Merian discovered facts about p ] 田 1 ld insects that were not preuously known. Her obsewations helped dismiss",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
@@ -191,8 +200,17 @@
                 "C": "It doesn't help students develop their literacy.",
                 "D": "There has hardly been any innovation for years."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "， 故排除；） “ 这并不能帮助学生们培养其读写能力 \"， 第五段最后一句提到了 the n 皿 1 丽 illiteracy, 但是指 《算数 101》 课程对于算数差的成年人是一种补救措施， 原文并未提到美国的数学教育能否帮助学生们培养其读写能力， 故排除； D） “ 多年来几乎没有任何创新 \"， 文中没有提到美国数学教育的创新问题， 故排除。 B)O （0 定位 〕 根据题干中的 Numeracy 101 定位到文章第五段第一句： tead， Hacker pushing for more courses like the one he teaches at Queens CoIIege： Numeracy 10L 和第 = 句： Such coumes Hacker argues， are a remedy for the numerical illiteracy of adUltS who have high-level math like algebra but are unable to calculate the price of， say， a carpet by area. （0 详解 〕 推理判断题。 文章第五段第一句指出， 相反， 哈克正在推广更多像他在皇后学院教授的一门课程： 《算数 101》。 接着第三句指出， 哈克认为， 这种课程对于算数差的成年人是一种补救措施， 他们虽然学完了像代数这样的高等数学， 但却无法按面积计算比如地毯之类的价格。 也就是说， 安德鲁 · 哈克的 《算数 101》 旨在让学生能够在实践中运用基础数学， 故答案为 B)。 （0 点喳） A) “ 让学生循序渐进地学习高等数学 \" 和 C) “ 为高等数学的学习打下坚实的基础 \"， 该段第句提到这种课程对于算数差的成年人是一种补救措施， 而！！ 这些人 00 学完了像代数这样的高等数学， 由此可知， 这门课只是补救措施， 而不是让学生循序渐进！ 学习高等数学或者为高等数学的学 0 打下基础， 故排除； 0）",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-2/key_OCR_2018-12-2.txt",
+                "sourceText": "s. （0 详@） 推理判断题。 定位句指出， “ 我们听到各方都说我们并没有教授足够的数学知识， 而中国人显然胜过我们， \" 哈克说道。 也就是说， 哈克认为人们普遍抱怨的是， 美国的数学教育不如中国， 故答案 《睛 〕 B) “ 数学教授们做得不好 \"， 定位句只提到 “ 各方都说我们并没有教授足够的数学知识 \"， 这里泛指数学教育工作者， 并没有特指数学教授， 该选项是对原文的曲解， 故排除；） “ 这并不能帮助学生们培养其读写能力 \"， 第五段最后一句提到了 the n 皿 1 丽 illiteracy, 但是指 《算数 101》 课程对于算数差的成年人是一种补",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -249,8 +267,17 @@
                 "C": "It provides retraining for registered nurses.",
                 "D": "It sets the trend in future robotics technology."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "） 事实细节题。 定位句指出， 就该潮流而言， 日本处于领先地位。 由上文可知， 该潮流是指用机器人代替空缺护理岗位的潮流。 也就是说， 日本在提供机器人护理方面处于领先地位， 选项中的 takes the lead 对应定位句中的 ahcad of the “ e， 故答案为 B)。 （0 〔 点睛） A) “ 日本送给老年人最好的药物 ”， 该段第二句提到， 丰桥技术科学大学开发的一种机器人医用推车 Terapio 可以递送药物， 而不是指日本递送药物， 并且原文并未提及是向老年人递送最好的药物， 故排除； C） “ 日本向注册护士提供再培训 \"， 原文并未提及， 故排除； D） “ 日本引领未来机器人技术的潮流 \"， 定位句指的是日本引领目前的机器人护理潮流， 而不是未来机器人技术的潮流， 该选项是对原文的曲解， 故排除。 52 C)。 （0 位） 由题干中的 Terapio 定位到文章第三段最后一句： This type of robot will likely be one of the fi1St to be implemented in hospitals because it has fairly minimal patient contact. （0 解） 事实细节题。 定位句指出， 这类机器人将可能是最早在医院得以付诸实现的机器人之一， 因为它与患者的接触相当少。 由第三段第二句可知， tms type of robot 就是指 Terapio 这类机器人， 也就是说 Terapio 与患者的接触相当少， 故答案为 0。 （",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-2/key_OCR_2018-12-2.txt",
+                "sourceText": "51 ． B)。 （0 位） 由题干中的 J 定位到文章第三段第一句： Japan ahead of the curve when it comes to this trend. （0 解） 事实细节题。 定位句指出， 就该潮流而言， 日本处于领先地位。 由上文可知， 该潮流是指用机器人代替空缺护理岗位的潮流。 也就是说， 日本在提供机器人护理方面处",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -262,8 +289,17 @@
                 "C": "It does not have much direct contact with patients.",
                 "D": "It has not revolutionized medical service in Japan."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-2/key_OCR_2018-12-2.txt",
+                "sourceText": "人最好的药物 ”， 该段第二句提到， 丰桥技术科学大学开发的一种机器人医用推车 Terapio 可以递送药物， 而不是指日本递送药物， 并且原文并未提及是向老年人递送最好的药物， 故排除； C） “ 日本向注册护士提供再培训 \"， 原文并未提及， 故排除； D） “ 日本引领未来机器人技术的潮流 \"， 定位句指的是日本引领目前的机器人护理潮流， 而不是未来机器人技术的潮流， 该选项是对原文的曲解， 故排除。 52 C)。 （0 位） 由题干中的 Terapio 定位到文章第三段最后一句： This type of robo",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -288,8 +324,17 @@
                 "C": "It likes to engage in everyday conversations with patients.",
                 "D": "It uses body language even more effectively than words."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "释说明， 这种会话式机器人伴侣的眼睛里有摄像头， 可以跟踪患者， 并在交互中使用适当的面部表情和肢体语言。 由此可知， Actroid F 的一个特别之处是它会像人类伴侣一样与患者进行互动， 故答案为 A)。 （0 点） B) “ 它运行时非常安静， 患者都意识不到它的存在 \"， 该段最后一句提到研究人员向 70 名患者询问了他们在机器人身边时感觉如何， 只有四名患者表示他们不喜欢机器人在身边， 而不是意识不到它的存在， 故排除； 0 “ 它喜欢与患者进行日常对话 \"， 原文并未提到日常对话， 故排除； D） “ 它使用肢体语言甚至比使用言语更有效 \"， 定位句第二句虽然提到 Actroid F 在交互中使用适当的面部表情和肢体语言， 但并未将肢体语言和言语的效果进行比较， 故排除。 2018 ． 12 / 23 （第 2 套）",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-2/key_OCR_2018-12-2.txt",
+                "sourceText": "54. A)。 （0 定位） 由题干中的 Actroid F 定位到文章第六段第一句和第二句： on the 1 ～ cute and more sca-1Y side 山 e 祀 is Actroid F， which is so human-like that some patients may not the difference. This conversati",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q55",
@@ -301,8 +346,17 @@
                 "C": "Robots will not make nurses redundant.",
                 "D": "Collaboration will not replace competition. Part IV                          Translation                            (30 minutes)  Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write  your answer on Answer Sheet 2.  中国越来越重视公共图书馆，并鼓励人们充分加以利用。新近公布的统计数字表明，中国的公共图书馆数量在 逐年增长。许多图书馆通过翻新和扩建，为读者创造了更为安静、舒适的环境。大型公共图书馆不仅提供种类繁多 的参考资料，而且定期举办讲座、展览等活动。近年来，也出现了许多数字图书馆，从而节省了存放图书所需的空 间。一些图书馆还推出了自助服务系统，使读者借书还书更加方便，进一步满足了读者的需求。  - 8 -"
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "） 推理判断题。 该段第一句指出， 机器人护士不会决定治疗过程或做出诊断， 紧接着第二句表明它们执行常规且费时费力的任务， 让护士有更多的时间去照顾有急需的患者， 最后一句总结说在护士行业机器人的融人将导致合作而非替代。 也就是说， 机器人与护士是合作而非替代的关系， 它们并不会导致护士们被解雇， 故答案为 C)。 （0 点， A)\" 医生和外科医生很快就会下岗 \"， 第一个定位句提到尽管离出现机器人诊疗医生和外科医生可能已为期不远了， 但机器人护士不会决定治疗过程或做出诊断， 由此可知， 诊疗医生和外科医生并不会因为机器人而很快下岗， 故排除； B） “ 机器人行业不久之后就会腾飞 ”， 原文并未提及机器人行业的发展前景， 故排除； D） “ 合作不会取代竞争 \"， 最后一个定位句提到的是机器人的融人将导致合作而非替代， 并未提及合作与竞争的关系， 故排除。 proJect [pra'd3ektJ 预计； 计划 unfilled [ flld] adj. （工作、 职位等） 空缺的 ahead of the curve 引领潮流的， 走在前端的 medication [ lmedllkelfan) 几药物 retrieve [n'tli： v] 检索 （储存于计算机的信息） cognit",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-2/key_OCR_2018-12-2.txt",
+                "sourceText": "C)。 （0 定@） 由题干中的 the 1 t paragmph 定位到文章最后一段： lt ' s important to note that robotic nurses don， t decide courses of treatment or make diagnoses （though robot doctors",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

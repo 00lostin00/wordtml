@@ -1,0 +1,1195 @@
+{
+  "id": "cet6-2023-06-1",
+  "type": "cet6",
+  "year": 2023,
+  "month": 6,
+  "set": 1,
+  "title": "2023年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "prompt": "Today there is a growing awareness that mental well-being needs to be given as much attention as physical health."
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "It was spacious and tranquil.",
+            "B": "It was warm and comfortable.",
+            "C": "It was shabby and solitary.",
+            "D": "It was tiny and noisy."
+          },
+          "answer": "A",
+          "explanation": "1 . 各项均为对 It 的评价（A、B 项为正面表达，C、D 项为负面表达），形容词 spacious、comfortable、shabby、 tiny 等提示 It 可能指代某一处所，结合后三题的复现词 dorm、apartment, 推测本题询问某一方说话人对其住宿条件的评价。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "1. A) It was spacious and tranqui",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "She no longer hates people talking loudly in the dorm.",
+            "B": "She misses her roommates she used to complain about.",
+            "C": "She begins to enjoy the movies she once found irritating.",
+            "D": "She finds the crowded dorm as cozy as her new apartment."
+          },
+          "answer": "A",
+          "explanation": "］D o 说话人在开篇介绍了一种新观点“友谊的益处不只适用于人们的社交生活，还适用于他们的工作”，随即发表评述“这（即上述观点）耐人寻味”并补充指出耐人寻味之处“工作对友谊的负面影响如此之大，友谊却对工作有益”, D 项准确概括新观点的内容，故正确。A 项利用 I 段②句 only one social engagement per week 干扰，但这是说话人的个人经历而非普遍现象，且说话人对此的态度是“满意”而非“耐人寻味”。B 项由 I 段①句后半部分所述“人们因工作而牺牲友谊”主观臆断出“虽然会牺牲工作之外的友谊，但也会增进同事间的友谊”，而说话人并未提及工作对同事间友谊的促进作用。C 项利用 I 段①句的 devoting 干扰，但录音中讲的是“将更多的时间奉献给工作“，而 devoted friends 意为, '忠诚的朋友”，存在明显的语义偏差。 2",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "2. A) She no longer hates people talking loudly in the dorm. B) It was warm and comfortable. B) She misses her roommates she used to complain about. C) It was shabby and solitary. C)",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "He found the apartment perfectly furnished.",
+            "B": "He had a feeling of despair and frustration.",
+            "C": "He had a similar feeling to the woman's.",
+            "D": "He felt the new place was like paradise."
+          },
+          "answer": "A",
+          "explanation": "了什么？ A）朋友对人们自尊心的影响。 C）如何更使人感到有重要性和价值。 B）朋友在职场中能起到多大的支持作用。 D）家庭关系对人们心理健康的作用。 ［设题要点］研究内容引出处（In an initial study of …）。 ［答案精析］AoH 段①句指出“美国一所大学的研究人员在他们的初步研究中分析了朋友对自尊心和幸福感的影响”，A 项所述包含在其中，故正确。B 项利用 H 段④句和 IV 段②句的 supportive friendships 干扰，但两处所述均与题干所问无关，且结合 H 段内容可知，研究人员并未研究朋友在职场中能提供多少支持。C 项利用 H 段⑤句 sentiments of value and worthiness 干扰，但该句仅提及“感到有重要性和价值”的积极作用，未提及达成的方式。D 项利用 II 段①句中的 family 干扰，由该句内容可知，研究人员分析的是“朋友— 相对于家人— 对自尊心和幸福感的影响”，即研究重点是“朋友起到的作用”，“家庭关系”仅为用作对比的因素。 ［设题要点］研究发现引出处(This follow-up study found that. . . ) o 2",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "3. A) H e found the apartment perfectly furnished.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "Go to see the woman's apartment.",
+            "B": "Make a phone call to his parents.",
+            "C": "Buy some furniture for the woman.",
+            "D": "Decorate the woman's apartment."
+          },
+          "answer": "A",
+          "explanation": "］A o 第 1 1 段男士表示，女士的公寓听起来小巧舒适，他非常想去看看，A 项与之对应，故正确。B 项利用第 H 段的 mom and dad 设置干扰，但将“父母也想去看看（女士的公寓）”窜改为“男士要给父母打电话“，makea phone call 无中生有。C、D 项则均利用第 1 0 段女士话语设置干扰，其中 C 项由 a sofa, a small table and chairs 臆测出“男士将为女士添置家具”，D 项由 decorated 臆测出“男士要帮女士装饰公寓卷四、全文翻译男：嗨，莉莉，新公寓怎么样？ 女：还行吧。 男：怎么回事？怎么会只是还行呢，上周你不是对它兴奋不已，还不断在网上发照片吗？ 女：嗯，上周我搬进去的时候，这间公寓看起来温暖又舒适，一个人住大小也正合适。但现在看来，它真的又小、又破、又孤寂。 男：啊，原来是这么回事。你想念你大学时的室友了，对吗？ 女:听起来很傻，因为我过去一直向你抱怨我们的宿舍有多拥挤，抱怨她们总干些让我恼火的事，比如深夜看电影不戴耳机，或者一大早就大声说话。但现在我非常想念她们。 男：当然会想。这很正常。回想我一开始有自己的独立住处时，我迫不及待地想要一个人住，远离我的幼稚室友以及他们所有讨人厌的习惯。但后来我开始想念他们，开始感到孤独，觉得我们的宿舍就像乐园一样， 尽管我们六个人挤在一个小房间里。 女：我以为只有我会有这种感觉呢。 男：你看，你以前都是和我们一起住在家里，之后又和三个室友住在一起，而这是你第一次独自居住。所以会很难适应。但你的第一套公寓是你人生中的一个里程碑，你应该为此庆祝一下。和我说说公寓的情况吧。 女：其实它并不差。事实上，它很小巧舒适，现在我已经把它装饰好了，它有我所需要的一切。我有一个可以做饭的厨房和一个完全属于我自己的浴室，然后还有一个房间，一头放着我的床，另一头放着沙发、小桌子和椅子。 男：听起来很小巧舒适，我真想去看看，爸妈也是！ 7 Conversation Two 大学目的与改革之争祥卜、听前预测",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "4. A) Go to see the woman's apartment. B) H e had a feeling of despair and frustration. B) Make a phone call to his parents. C) H e had a similar feeling to the woman's. C) Buy some f",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "He works as a literary critic.",
+            "B": "He hosts an educational program.",
+            "C": "He has initiated a university reform.",
+            "D": "He has published a book recently."
+          },
+          "answer": "A",
+          "explanation": "1 2 . 关于在科罗拉多建州之前，文章说了什么？ A）农民帮助美洲原住民种植庄稼。 C）那里有邮局。 B）那里有辽阔无边的大学校园。 D）移民在那里找到了金子。 18 ［设题要点］开篇点题处（Even before Colorado was. . . it had. . .） o ［答案精析］C o 首段首句直接指出“早在建州之前，科罗拉多就有邮局”，可见 C 项正确。A 项利用③句中 farmers, Native Americans 设置干扰，但句中并未提及二者之间的关联。B 项利用④句 a sprawling university campus 设置干扰，但该句谈及的是现如今的状况，而非科罗拉多建州之前的状况。D 项则利用段中 migrants、gold 设置干扰，却明显与③句“金子并未找到“相悖。 1 3 . 邮政服务对美国的西部扩张有何贡献？ A）它帮助促进了美国西部的经济。 C）它扩大了联邦政府的影响力。 B）它为许多淘金者提供了工作机会。 D）它将沙漠和平原地区的人联系在一起。 ［设题要点］事物的影响和作用处(As federa",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "5. A ) Heworks as a literary critic.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "It fails to keep up with the radical changes of society.",
+            "B": "It fails to ensure universities get sufficient resources.",
+            "C": "It has not prepared young people for the job market.",
+            "D": "It has not fostered the growth of the arts disciplines."
+          },
+          "answer": "A",
+          "explanation": "］C o 第 4 段首句男士先肯定自己支持彻底改革美国大学，后解释原因“高等教育的目的在于让年轻人为就业做好准备，而当前的教育体系没有做到这一点\"，题干+ C 项契合第 4 段首句。A 项杂糅第 3 段 radically changing 与第 4 段 don't match the needs of employers, 将男士观点“大学要彻底改革以满足雇主的需求\"曲解为\"社会环境已急剧变化而大学未跟上步伐\"。B 项源自第 4 段 resources. . . don't match the needs, 将所获资源不足的对象由“符合雇主需求的学科”偷换为“所有大学”。D 项与男士观点“大学将太多的资源分配给了人文学科（大学过多重视人文学科）”相悖。 ［设题要点］ 观点态度强调处(You're overstating m y point. M y argument is. . . ) o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "6. A ) It fails to keep up with the radical changes of society. B) H e hosts an educational program. B) It fails to ensure universities get sufficient resources. C) H e has in itiate",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "More of the budget should go to science and technology.",
+            "B": "The underfunded music discipline should be prioritized.",
+            "C": "Subdisciplines like sculpture should get more funding.",
+            "D": "Literature should get as much funding as engineering."
+          },
+          "answer": "A",
+          "explanation": "］A o 第 8 段男士指出女士夸大了他的观点，并进一步详述观点“需要将更多的预算用于科学、 工程等学科，削减文学、音乐等学科的资金”，意即“理工学科应被优先考虑，需获更多资助，人文学科则居次要地位，需少获资助”，由此可确定 A 项正确，排除与文意恰好相悖的 B、C、D 项。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "7. A) More of the budget should go to science and technology.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "Build a prosperous nation.",
+            "B": "Make skilled professionals.",
+            "C": "Create ingenious artists.",
+            "D": "Cultivate better citizens. Directions: In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversations and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the center."
+          },
+          "answer": "A",
+          "explanation": "］D o 第 9 段女士反驳男士“预算重理工轻人文”的建议，指出人文学科有其价值，可以帮助年轻人更深入地思考世界，成为更好的公民，创造更好的社会，D 项复现原文 makes them better citizens, 故正确。A 项将人文学科的作用由“创造更美好的社会”偷换为“建设繁荣的国家 B 项“培养技术熟练的专业人员”指向人文学科服务于学生就业，与第 9 段中女士观点“学习人文学科可能并不能让学生找到对口的工作” 不符。C 项利用碎片信息 arts、music、sculpture 和常识干扰，将女士自始至终强调的人文学科的作用“培养更好的公民”窜改为“培养具有创造力的艺术家”。 11 登四、全文翻译女：欢迎来到《读书漫谈》节目。今天的嘉宾是弗兰克• 琼斯。他是美国教育体系的批判者，同时也是新书《如何改革我们的大学》的作者。 男：你好，苏珊。 女：弗兰克，你支持对美国大学进行彻底改革，是吗？ 男：是的，我认为高等教育的目的在于让年轻人为就业做好准备，而我们目前的教育体系没有做到这一点。我们把太多的资源分配给了那些不符合雇主需求的学科。 女：我觉得你对教育的看法有点偏激了，弗兰克。大学的目的无疑是要让年轻人有能力充分参与公民生活，而不仅仅是找到一份高薪工作。 男：苏珊，许多年轻毕业生很难找到工作，更别说找到份好工作了。当今的就业市场形势十分严峻，对文科生来说尤其如此。 女：我同意年轻人找工作不容易，但你提议关停所有与科学技术无直接关联的院系，这真的能解决问题吗？ 男：你夸大了我的观点。我提议的是，我们需要将更多的预算用于科学、工程等学科。为此，我们需要削减文学、音乐等学科的资金。 女：但人文学科有其价值。它们是我们文化的重要组成部分。虽然学习文学、音乐或雕塑也许并不能让人找到对口的工作，但它可以帮助年轻人更深入地思考这个世界，让他们成为更好的公民，创造更美好的社会。 男：我同意人文学科对社会颇有价值，但如果就此认为不仅是最富才华的学生，而且是所有学生都应该在大学阶段学习人文学科，那就太过天真了。文科领域的竞争非常激烈，大多数文科生毕业后负债累累，他们拿到的学位在就业市",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "8. A ) Build a prosperous nation. B) The underfunded music discipline should be prioritized. B) Make sk illed p rofession als. C) Subdisciplines like sculpture should get m ore f",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "It is quite common.",
+            "B": "It is rarely noticed.",
+            "C": "It seldom annoys people.",
+            "D": "It occurs when one is alone."
+          },
+          "answer": "A",
+          "explanation": "A) It is quite common. B) It is rarely noticed. C) It seldom annoys people. D) It occurs when one is alone.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "A) It is quite common. B) It is rarely noticed. C) It seldom annoys people. D) It occurs when one is alone.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "Seeing things in black and white.",
+            "B": "Engaging in regular contemplation.",
+            "C": "Having a special understanding of creativity.",
+            "D": "Knowing how to make their mental batteries work."
+          },
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 根据句 （10） 可知， 所有伟大的专业人士都会定期反思。 因此答案为 B)。 选项中的 contemplation 是录音中 reflection 的同义转述。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "10. A) Seeing things in black and white. B) Engaging in regular contemplation. C) Having a special understanding of creativity. D) Knowing how to make their mental batteries work.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Engaging in intense activity.",
+            "B": "Fantasizing in one's down time.",
+            "C": "Working on a particular project.",
+            "D": "Reflecting during one's relaxation."
+          },
+          "answer": "A",
+          "explanation": "［D o 第二段末句指出，一些研究人员认为，真知灼见正是在一段时间的高强度活动之后的反思和放松期间产生的。D 项与之对应，是正确项。A 项断章取义，文章是说在高强度的活动之后的放松期间会产生真知灼见，而不是参与高强度活动本身。B 项利用第四段②句中的 fantasizing about howwe ' d like our lives to b e 干扰，但这既不是研究人员的发现，也不能帮助产生创意点子。C 项利用第三段首句中的 a particular project you're engaged i n 干扰，但同 A 项一样，单纯参与活动或工作对创意点子的产生并无帮助。 曙四、全文翻译你是否为自己没有时间进行真正的思考而烦恼过呢？并不是只有你会这样。各种各样的因素掺杂在一起，剥夺了我们反思自己、反思生活的时间。如今，我们的头脑被各种事情占据，很少有清静的时候。一般人每天会收到数百条短信和语音消息，而对于许多人来说，休假的那几周也会安排得满满当当，更可能被家庭活动占满，而留不出多少静下来思考的机会。 然而，所有优秀的职业人士的一个共同点就是定期反思。你若想给你的思维电池充电，用新的眼光来看待事物，并开发你的创造力，反思是必不可少的先决条件。几乎所有我研究过的优秀的咨询顾问都找到了远离世间喧嚣、思考人生和工作的方法。实际上，一些创造力领域内的研究人员认为，真知灼见正是在一段时间的高强度活动之后的反思和放松期间产生的。 要安排时间反思你的工作或你参与的某个项目。我通常会留半个小时。不要接电话。把你的文件放到一边。打草稿，列个表，给脑海里蹦出来的点子画“思维导图”。最后，写下一切你想出来的点子。 独处的时候，要停止担忧，去思考。我们很多的休息时间都被用来担忧生活中的麻烦事，或用来幻想我们所希望实现的生活。要利用高强度工作一段时间后的放松时刻来反思问题。这正是我们最富创造力的时候。 15 Passage Two 美国邮政是西进运动的主要推动者常一、听前预测 ［看选项关键词预测问题］",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "11. A) Engaging in intense activity. C) Working on a particular project. B) Fantasizing in one's down time. D) Reflecting during one's relaxation. ［看选项关键词预测问题］",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "Farmers helped Native Americans grow crops.",
+            "B": "There were expansive university campuses.",
+            "C": "There existed post offices.",
+            "D": "Migrants found gold there."
+          },
+          "answer": "A",
+          "explanation": "12. A) Farmers helped Native Americans grow crops.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "12. A) Farmers helped Native Americans grow crops.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "It helped to boost the economy in the American West.",
+            "B": "It provided job opportunities for many gold seekers.",
+            "C": "It extended the influence of the federal government.",
+            "D": "It kept people in the deserts and plains connected."
+          },
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （13） 中， 讲话者提到， 联邦政府的补贴和土地补助诱使人们进人沙漠和平原地区， 而邮政使他们保持联系。 因此答案为 D)。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "13. A) It helped to boost the economy in the American West. B) There were expansive university campuses. B) It provided job opportunities for many gold seekers. C) There existed post o",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "It employed Native Americans to work as postmen.",
+            "B": "It commissioned private wagons to carry the mail.",
+            "C": "It subsidized the locals who acted as postmasters.",
+            "D": "It centralized postal services in its remote areas."
+          },
+          "answer": "A",
+          "explanation": "〗 细节推断题。 句 （14） 中， 讲话者提到， 19 世纪中期， 邮政部门远不是中央集权的官僚机构。 为了跟上移民模式， 在现有业务中增加了邮政服务。 联邦政府委托私人运货车来运送邮件。 也就是说， 西部地区对邮政服务的需求增大， 联邦政府委托私人运货车来满足这一需求。 因此答案为 B)。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "14. A) It employed Native Americans to work as postmen.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "He analyzed interactive maps of mail routes.",
+            "B": "He read a large collection of books on the topic.",
+            "C": "He examined its historical trends with data science.",
+            "D": "He collected data about its impact on local business. Directions: In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passages and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D).  Then mark the corresponding letter on Answer Sheet 1 with a single line through the center."
+          },
+          "answer": "A",
+          "explanation": "/收集/研究”等研究工作相关。结合 A 项中的“分析邮递路线图”以及 1 4 题整体围绕的“邮政服务”可大胆推测 B、C、D 三项中的指代性表达 the top ic. its 很可能与“邮政服务”有关，综合推测本题可能问及 H e 在研究美国邮政服务过程中所做出的行为。 ［看选项复现词预测主题］选项复现词可分为两类：一、与“美国西进运动”相关的表达，如 Native Americans, Migrants found gold、American West Agold seekers、deserts and plains、remote areas;二、与''由 F 政月艮务”相关的表达，如 post offices、postmen、carry the mailApostmasterspostal services、mail routeso 结合试题预测可综合推断录音可能围绕美国西进运动以及邮政服务展开，其中涉及联邦政府的相关举措。 学二、录音分析 I ® Even before Colorado was a state, it had post offices. The first opened in 1859, in a settlement founded by migrants searching for gold. Life could be unpredictable at West— gold failed to appear 9 drought ruined farmers and settlers clashed with Native Americans. On the settlement's location now stands a sprawling university campus. Amid all the changes, one feature remained constant— the postal service. 引出话题：西进运动中的美国邮政服务。话语标记词：Even before Colorado was a state.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "15. A) He analyzed interactive maps of mail routes. B) It commissioned private wagons to carry the mai",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "Higher levels of anxiety may improve people's memory.",
+            "B": "Some experiences are easier to remember than others.",
+            "C": "Most people tend to remember things selectively.",
+            "D": "Simple things may leave a deep impression on one's memory."
+          },
+          "answer": "A",
+          "explanation": "〗 细节推断题。 句 （16） 中， 讲话者提到， 一项新的研究表明， 焦虑程度较高的人可能比焦虑程度较低的人更能记住某些信息。 也就是说， 较高的焦虑水平可能会提高人们的记忆力。 因此答案为 A)。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "16. A) Higher levels of anxiety may improve peopled memory. B) Some experiences are easier to remember than others. C) Most people tend to remember things selectively. D) Simple things",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "They classified the participants' mindset.",
+            "B": "They showed some photos to the participants.",
+            "C": "They measured the participants' anxiety levels.",
+            "D": "They tested the size of the participants' vocabulary."
+          },
+          "answer": "A",
+          "explanation": "17. A) They classified the participantsJ mindset. B) They showed some photos to the participants. C) They measured the participants? anxiety levels. D) They tested the size of the participants? vocabulary.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "17. A) They classified the participantsJ mindset. B) They showed some photos to the participants. C) They measured the participants? anxiety levels. D) They tested the size of the part",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "Anxiety has become a serious problem for an increasing number of people.",
+            "B": "Extreme levels of anxiety can adversely affect cognitive performance.",
+            "C": "People diagnosed with anxiety disorder may forget things selectively.",
+            "D": "There is no direct correlation between memory and levels of anxiety."
+          },
+          "answer": "A",
+          "explanation": "I In last week's lecture, we discussed reasons why people forget things. This week, we will discuss a surprising reason why we might remember some things— anxiety. 由上节课的主题引出本节课的主题。话语标记词：In last week's lecture, we discussed. . . This week, we will discuss. . . o 核心语义词：a surprising reason remember anxietyo ①句回顾上节课的主题：人们为何会忘事。 In last week's lecture 略重读，reasons why people forget things 顿挫读出，点明上节课的主题。 ②句概述本节课的主题：焦虑能让我们记住事情。 This week 略重读，discuss a surprising reason 语调先升后降，why we might remember some things 缓速读出后停顿? anxiety 重读，共同点明本节课的主题。 20 H Think about something as simple as buying a coffee. That may not seem like an experience that would makea deep impression on your mem ory, but anxiety could change that. 回 In fact, anew study suggests that people with higher anxiety levels might remember certain information better than people with lower anxiety levels. That's because higher levels of anx",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "18. A) Anxiety has become a serious problem for an increasing number of people. B) Extreme levels of anxiety can adversely affect cognitive performance. C) People diagnosed with anxiet",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "They compare products from different companies before making a choice.",
+            "B": "They get information from other consumers' postings and comments.",
+            "C": "They lose patience when their phone call is no promptly answered.",
+            "D": "They expect to get instantaneous responses to their inquiry."
+          },
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 讲话者先提到了过去的消费者： 必须要拨打电话号码并且耐心等待才能获得他们想要的信息。 接着在句 （19） 中描述了如今的消费者： 他们想要立即得到信息。 因此答案为 D)。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "19. A) They compare products from different companies before making a choice. B) They get information from other consumers' postings and comments. C) They lose patience when their phon",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Giving them rewards on the spot.",
+            "B": "Broadening their scope of interest.",
+            "C": "Speaking directly to their emotions.",
+            "D": "Focusing on the details of the product."
+          },
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 讲话者提到， 我们的注意力持续时间变短， 如果不能在几秒钟内吸引我们的注意力， 我们就会转向下一条内容。 根据句 （20） 可知， 营销人员需要找到直接与消费者的情感进行对话的方法， 而且需要尽快弄清楚要怎么做到这一点。 也就是说， 要快速吸引消费者的注意力就要直接与他们的情感对话。 因此答案为 C)。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "20. A) Giving them rewards on the spot.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Change the rules of the game in the market every year.",
+            "B": "Keep up with the latest technological developments.",
+            "C": "Learn from technological innovators to do business.",
+            "D": "Make greater efforts to build up consumers’ confidence."
+          },
+          "answer": "A",
+          "explanation": "］DoI 段④至⑦句对比过去和如今的消费者在消费习惯上的差异，⑤⑥句指出“如今的消费者希望即刻获取信息，他们会去公司的社交媒体页面留言提问并希望立即得到答复”，D 项与之相符，故正确。 A 项利用⑦句的 another company 和常识“人们购物前会货比三家”设置干扰，原文指的是消费者对回复时间有所要求（倾向于应答更快的公司），而非比较不同公司的产品。B 项将⑥句所述消费者获取信息的方式由 “亲自去公司社交媒体页面发表评论并留下问题”偷换为“阅读其他消费者的帖子和评论”。C 项由④句 call a phone number 和⑦句杂糅而来，但④句涉及“过去的消费者”，而非题干所问\"如今的消费者”，且由⑦句可知， 如今的消费者是通过社交媒体（而非电话）与公司沟通。 2",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "21. A) Change the rules of the game in the market every year. B) Broadening their scope of interest. B) Keep up with the latest technological developments. C) Speaking directly to thei",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "People have only one social engagement per week.",
+            "B": "Working together enhances friendship.",
+            "C": "Few people have devoted friends.",
+            "D": "Friendships benefit work."
+          },
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （22） 中提到， 你可能惊讶地发现， 友谊的好处超越了人们的社交生活， 进人到工作中， 当考虑到人们因为投人到工作中的时间延长而到了牺牲友谊或至少牺牲与朋友在一起的时间的程度时， 这是非常有趣的。 也就是说， 人们常常因为工作而牺牲友谊， 但事实上友谊对工作有益处， 这非常有趣。 因此答案为 D)。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "22. A) People have only one social engagement per week.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "The impact of friends on people's self-esteem.",
+            "B": "How supportive friends can be in the workplace.",
+            "C": "How to boost one's sense of value and worthiness.",
+            "D": "The role of family ties in people's mental well-being."
+          },
+          "answer": "A",
+          "explanation": "23 . A、D 项为名词短语，核心义指向“朋友的影响”和“家庭关系的作用“；B、C 项为 How 引导的从句或不定式短语，前者指向程度大小，后者指向方法、手段。各项关键词 self-esteem、supportive、sense of value and worthiness 和 mental well-being 均指向心理层面，又由于听力录音常涉及研究，故可推测本题询问某项研究的具体主题或内容（侧重朋友/家人对个人心理层面的影响）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "23. A) The impact of friends on people's self-esteem. B) Working together enhances friendship. B) How supportive friends can be in the workplace. C) Few people have devoted friends.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "They show little interest in their friends' work.",
+            "B": "They tend to be much more difficult to make.",
+            "C": "They are more trustworthy and reliable.",
+            "D": "They increase people's job satisfaction."
+          },
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （24） 中提到， 追踪研究发现， 工作之外的朋友甚至会提升人们的工作满意 20 四年 6 月六级真题第 1 套第 6 页淘宝店誦： 叮当考研度。 因此答案为 D)O",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "24. A) They show little interest in their friends, work.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Allow employees to have a flexible work schedule.",
+            "B": "Encourage employees to be friends with colleagues.",
+            "C": "Help employees balance work and family responsibilities.",
+            "D": "Organize activities to nourish friendships outside of work."
+          },
+          "answer": "A",
+          "explanation": "I 回 You might be surprised to learn that the benefits of friendships extend beyond people's social life and into their work, which is interesting when considering the extent to which people sacrifice friendships ? or at least the time they spend with friends ? because of the extended hours they're devoting to work. Just last week, I was remarking to a colleague that I'm content with only one social engagement per week. But according to recent research, that's evidently not enough. 28 开门见山，直接阐述新发现：友谊对工作有益。话语标记词：You might be surprised to learn that. . . which is. . . because of. . . Just last week, I was. . . But according to recent research. . . o 核心'语义词:benefits of friendship worksacrifice friendships extended hours they're devoting to work Aonly one social engagement per wee k not enough o ①句阐述新发现及其耐人寻味之处 o surprised Jearn 均拖音重读后微顿，提示引出出人意料的新观点。 benefits of friendships 升调读出后微顿, extend b",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "25. A) Allow employees to have a flexible work schedule. B) They tend to be much more difficult to make. B) Encourage employees to be friends with colleagues. C) They are more trustwor",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each \nblank from a list of choices given in a word bank following the passage. Read the passage through carefully \nbefore making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding \nletter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the \nwords in the bank more than once. \nScientists recently examined studies on dog intelligence and compared them with research into the \nminds of other intelligent animals. The researchers found that dogs are among the more intelligent \ncarnivores ( 食肉动物), social hunters and domestic animals, but that their intelligence does not \n___26___ other intelligent animals in any of those categories. Though a significant body of research has \nexamined dog cognition ___27___, the authors of this new study found little to warrant the ___28___ of \nwork that has been devoted to the topic. \nStephen Lea, lead author of the new study, argues that many researchers seem to have designed \ntheir studies to ___29___ how clever dogs are, rather than simply to study dogs' brains. Lea and a \ncolleague examined more than 300 studies of dog cognition, comparing the studies' results with those \nfrom research into other animals. The researchers made specific comparisons between the different \nspecies in different categories of intelligence. These comparisons ___30___ that dogs are intelligent, but \ntheir intelligence is not as ___31___ as some researchers might have believed. \nIn many areas, though, comparisons were not possible. For example, the researchers noted that \nboth dogs and cats are known to be able to recognize and ___32___ human voices. But the investigators \ncould not find any data to indicate which species can remember a greater number of ___33___ human \nvoices, so it was impossible to compare the two on that front. However, not all researchers agree \n___34___ with the findings of this study. Zachary Silver, an American researcher, believes the authors \nof the new study ___35___ the idea that an excessive amount of research has been devoted to dogs, as \nthe field of dog cognition is young, and there is much to be learned about how dogs think.",
+      "wordBank": {
+        "A": "affirmed",
+        "I": "overstated",
+        "B": "approximately",
+        "J": "pledge",
+        "C": "completely",
+        "K": "previously",
+        "D": "differentiate",
+        "L": "prospective",
+        "E": "distinct",
+        "M": "prove",
+        "F": "domain",
+        "N": "surpass",
+        "G": "formidable",
+        "O": "volume",
+        "H": "outperformed"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": "N",
+          "explanation": "题。 N) 〖 【语法判断】 空格前是助动词的否定结构 does not， 空格后是一个名词结构 other intelligent anim 小， 是宾语， 说明空格处缺少的是本句的谓语动词， 该谓语动词为动词原形， 且为及物动词。 〖 【语义判断】 空格前一句提到研究者们发现， 在智商较高的食肉动物、 群居捕猎兽以及家畜当中， 狗都位列其中， 说明狗的智商较高， 空格所在句却用 but 将话锋一转， 表示与前文相反的意思， their 指代前文提到的 dogs， 可见这里是说狗的智力没有高于同类的其他动物， 选项中的动词里只有 N) surp 灬 “ 超过， 胜过 ” 符合句意， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-1/key_OCR_2023-06-1.txt",
+            "sourceText": "26 ． 〖 考点 〗 动词辨析题。 N) 〖 【语法判断】 空格前是助动词的否定结构 does not， 空格后是一个名词结构 other intelligent anim 小， 是宾语， 说明空格处缺少的是本句的谓语动词， 该谓语动词为动词原形， 且为及物动词。 〖 【语义判断】 空格前一句提到研究者们发现， 在智商较高的食肉动物、 群居捕猎兽以及家畜当中， 狗都位列其中， 说",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": "N",
+          "explanation": "了有关狗的智力的研究，并将其与其他聪明动物的智力研究进行了比较。研究人员发现，狗位列于较聪明的食肉动物、群居捕猎兽及家养动物当中；但狗的智力并未超过以上任何种类中的其他聪明动物。尽管之前已有大量研究剖析过狗的认知能力，但这项新研究的作者们并未发现这些致力于该主题的大量研究是合理必要的。 「• 词汇注释与难句分析• （Dexamine [ig'zeem in ]已研究；剖析 § ⑥a body of. . . 大量. . . . ②mind [m aind] %. 智力；思维方式, ⑦cognition [ko g'n ijn ] n. 认识力；认知能力 ③social ['ssu jl] a. 群居的 j ⑧warrant ['w orant] v. 证明正当（或必要） ©domestic [da'm estik] a. 驯养的；家养的 《© devote. . . to s th 将（时间、精力等）用于某物 ⑤inteHigence [in'telidSQns] %. 智力；才智 § Though a significant body of research has examined dog cognition previously, the authors of this new study found little to warrant the volume of work that has been devoted to the topic. 33 主句: Though a significant body of research has examined dog cognition previously, 引导词 I > 宾语时间状语让步状语从句 w______________________ the authors of this new study found little to warrant the volume of work 主语主语的后置定语而麴不定式短语作 little 的后置定语 the volume of work 的定语从句 that h",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "k 主语主语的后置定语而麴不定式短语作 little 的后置定语 the volume of work 的定语从句 that has been devoted to the topic. 引丽 H S ® ・解题思路• 12 26 . 答案：N） surpass ［确定词性］空格位于首段②句 found 的宾语从句 2 （but that. . .）中，其前为助动词的否定结构 does not, 其后为名词短语 other intelligent animals, 在从句 2 中作宾语。可见，does no t 整体作该从句的谓语，空格词应为及物动词的原形。 ［锁定答案］首段首句概述指出科学家们的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": "O",
+          "explanation": "了 3 0 0 多项关于狗的认知能力的研究， 将这些研究的结果与那些针对其他动物的研究结果相比较。研究人员在不同智力类别的不同物种之间作了特定的比较。这些比较证实，狗的确聪明，但它们的智力水平并不像一些研究人员所认为的那样令人惊叹。 一词汇注释与难句分析一必 ①design ［di'zam］ v. 设计；构思 § ③specific ［sps'sifik］ a, 特定的 ②brain ［brein］ %. 智力；逻辑思维能力 6 「• 解题思路•",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "28 . 答案：O) volume ［确定词性］空格位于首段③句的主句( the authors of this new study found. . . ) 中，其前是及物动词 w a rra n t 及定冠词 th e, 其后为介词短语 of w ork o 可见，空格词应为名词或动名词, the of w o rk 整体作 w a rra n t 的宾语。 ［锁定答案］空格所在主",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": "M",
+          "explanation": "29 . 答案：M) prove ［确定词性］空格位于第二段首句 a rg ues 的宾语从句中，从句结构完整：th a t(引导词)+ many researchers (主语)+ seem to have designed(谓语)+ their studi3s(宾语)。不定式结构 t o how clever dogs are 应作目的状语，修饰 have designed, 故空格词应为及物动词的原形。 ［锁定答案］第二段首句指出新研究的第一作者对过往研究的评价( lead author. . . argues th a t. . . )：许多研究人员似乎是为了狗有多聪明而设计其研究，而不是单纯地研究狗的智力。句内取舍结构 rather th a n 并列连接两个不定式短语 t o how clever dogs are to study dogs5 b ra in s 作目的状语，结合取舍结构前后并列成分语义相对的特点可判断，空格词应与 stu d y 近义，表示“研究/证明”等意，M) p ro v e 正确。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "29 . 答案：M) prove ［确定词性］空格位于第二段首句 a rg ues 的宾语从句中，从句结构完整：th a t(引导词)+ many researchers (主语)+ seem to have designed(谓语)+ their studi3s(宾语)。不定式结构 t o how clever dogs are 应作目的状语，修饰 have desig",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": "A",
+          "explanation": "数百项关于狗的认知能力的研究，将结果与其他动物的研究结果相对比；并对不同物种做了特定比较。空格句则指出，这些比较（研究） 狗很聪明，但它们的智力水平不像一些研究人员所认为的那样. . . . 。从句明显为“结论/评判性内容”，故空格句应意在阐明新研究的发现，空格词应与首段②句中的 found 近义，指向\"发现/证明/证实”等意。A）affirm ed 意为\"证实；确认”，代入句中后既能与②③句构成“研究方法一研究结果”的顺承逻辑，也能与首段所述研究发现相呼应。 3 1 . 答案：G） formidable [确定词性]空格位于第二段④句宾语从句的分句 2 中, 由固定结构 sth is not as. . . a s. . . （a s 表示“像… 一样\"，用于比较）可判断，空格词应为形容词或副词，整体构成 as-\\-adj. /adv. + a s 结构。 [锁定答案]首段明确文章用意：引出新研究，对旧结论发起质疑（found little to warrant. 其中②句新研究的发现（狗确实比较聪明，但在同类聪明动物群体中，它并没有出类拔萃）实际暗示了旧结论所指：狗智力超群;再结合第二段细述“许多研究人员纯粹是为了证明狗有多聪明，而非客观研究其智力”，可知空格词应指向“高/ 惊人/令人难以置信”等意，体现他们对于狗的智力水平的高估, G） formidable 意为“令人惊叹的”，契合文意。 J[ ❶ In many areas, though, comparisons were not possible. 0 For exam ple, the researchers noted that both dogs and cats are known to be able to recognize1 and 32 hum an voices. ❸ But the investigators could not find any data to indicate which species can rem em ber a greater num ber of 33 h",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "答案：A) affirmed ［确定词性］空格位于第二段④句的主句中，其前为主语 These com parisons, 其后为 that 引导的宾语从 35 句，故空格词应为及物动词在主句中作谓语。结合②③句的时态（exam ined、m ade）及②③④句间的顺承逻辑可判断，空格词应为及物动词的过去式。 [锁定答案]第二段②③句介绍新研究采取的方法：分析数百",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": "G",
+          "explanation": "题。 G) 〖 【语法判断】 空格所在句是由 but 引导的转折分句， 其中主语是 their intelligence， 谓语部分只有系动词的否定结构 is not， 因此空格所在处为表语， 应为名词或形容词， 又根据 “ 一 · ·。 ” 这一比较结构可进一步确定空格处应为形容词。 〖 【语义判断】 空格所在处填人的形容词表示的是一些研究者们对狗的智商的看法， 根据前文可知这些研究者设计研究方案的目的都是为了证明狗有多聪明， 可见这些研究者认为狗非常聪明， 浏览各形容词， 只有 G) formidable “ 令人惊叹的 ” 符合句意， 表达了研究者们对狗的智商的过度高估。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-1/key_OCR_2023-06-1.txt",
+            "sourceText": "31. 〖 考点 〗 形容词辨析题。 G) 〖 【语法判断】 空格所在句是由 but 引导的转折分句， 其中主语是 their intelligence， 谓语部分只有系动词的否定结构 is not， 因此空格所在处为表语， 应为名词或形容词， 又根据 “ 一 · ·。 ” 这一比较结构可进一步确定空格处应为形容词。 〖 【语义判断】 空格所在处填人的形容词表示的是一些研究者们对狗的智商的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": "D",
+          "explanation": "答案：D) differentiate ［确定词性］空格位于第三段②句 noted 的宾语从句(that both dogs and cats. . . ) 中，空格前后整体构成 be able to do sth 结构，其中 do sth = recognize and human voices o 由连词 and 可知，空格词应与 recognize 并列，为及物动词的原形。 ［锁定答案］第三段②③句举例说明首句观点“在许多方面的比较是不可能实现的”，其中空格句指出，众所周知，狗和猫都能够识别并人类的声音。结合句内 and 体现的顺承逻辑及常识“猫狗都能识别并分辨声音\"可知，空格词在语法上与 recognize 并列，在语义上则应比 recognize\"识别\"更进一步，指向“区分/辨别”等意，故 D) differentiate 正确。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "答案：D) differentiate ［确定词性］空格位于第三段②句 noted 的宾语从句(that both dogs and cats. . . ) 中，空格前后整体构成 be able to do sth 结构，其中 do sth = recognize and human voices o 由连词 and 可知，空格词应与 recognize 并列，为及物",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": "E",
+          "explanation": "33 . 答案：E) distinct ［确定词性］空格位于第三段③句 indicate 的宾语从句(which species can rem6mber. . . ) 中，其前为 a greater number of(大量的)，用于修饰可数名词，其后为名词短语 human voiceso 可见，空格词只能是形容词 (或形容词化的分词)，修饰名词短语 human voiceso ［锁定答案］空格句转折指出，但是研究人员找不到任何数据来表明哪一物种能记住更多人声，所以无法在这方面对两者进行比较。空格前句已提到“狗和猫都能够识别并区分人类的声音”，而“识别并区分人声\"正是\"在人声中找不同”的过程。此外，由常识亦可知，人的声音各不相同。综合可判断，E) distinct “有区别的；截然不同的“与上句 differentiate 呼应，契合句意。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "33 . 答案：E) distinct ［确定词性］空格位于第三段③句 indicate 的宾语从句(which species can rem6mber. . . ) 中，其前为 a greater number of(大量的)，用于修饰可数名词，其后为名词短语 human voiceso 可见，空格词只能是形容词 (或形容词化的分词)，修饰名词短语 human vo",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": "C",
+          "explanation": "题，如本题考生若判断出空格词为副词后，可发现备选项中只有三项符合要求：B) approximatelyC) completely、K ) previouslyo 其中 approximately 无法与 agree with 搭配使用，而 previously 虽可与 agree with 搭配，但搭配使用时应用动词过去式 agreed, 由此可以锁定正确项 C) completelyo",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "答案：C) completely ［确定词性］空格位于第三段④句中，该句的句子结构完整：not all researchers(主语)+ agree with(谓语) + the findings of this study(宾语)。空格词位于动词短语 agree with 中间，应为副词，修饰 agree。 ［锁定答案］空格句转折指出，并非所有研究人员都赞同",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": "I",
+          "explanation": "题：④⑤句为“结论一例证”关系，即该美国研究员也应“对新研究结论存有异议”，故空格词只能指向负面语义，选项里唯有 I) overstated 契合。 ［排除干扰］考生可能会被全文总体基调影响，推断文末与开篇呼应，认为“新研究的作者证实了‘与狗相关的研究过量了'这一观点”，从而误选 A ) affirmed. M ) prove o 但两项均无视了末段④句传递的否定基调 (not. . . agree. . . )，同时忽略了段末的保留性说辞(该领域尚新，还有待进一步的研究)。事实上，科学实验类文章论述客观，常在末尾补充说明新发现/结论可能存在的局限，考生应仔细判定论述方向。 ［补充技巧］句内/句际逻辑关系是完形的一大考点，考生需重点掌握常见逻辑标记词的用法，如表转折的 buthoweverthough 等；表取舍的 rather than、instead of 等；表并列/顺承的 a nd、then、also；表原因的 because、as、since 等，借助逻辑词提示的前后语义关联快速判断空格词的语义指向。如第 2 6 题、第 2 8 题、第 37 3 1 题中，考生只需识别出 but、Though 提示的转折关联，再结合上下文语义即可分别锁定正确项 surpass、 vo lume ' for midable；或如第 2 9 题中，句内 rather than 提示取舍关联，结合取舍结构前后的并列成分即可锁定正确项 prove；又如第 3 2 题中，and 提示句内顺承关联，结合 and 前的 recognize 即可判断出正确项 differentiate；再如第 3 5 题中，a s 提示句内因果关联，根据原因状语从句的语义即可判断出正确项 overstated。 Section B 感恩的救生力量哈一、总体分析本文选自 The Conversation ^ ^2018 年 7 月 31 日文章 The Lifesaving Power of Gratitude (or, WhyYou Should Write T hat Thank - YouNote )",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "35 . 答案：I) overstated ［确定词性］空格位于第三段⑤句 believes 的宾语从句中，空格前为从句的主语 the authors of the new study, 空格后为宾语 the idea, 故空格词应为及物动词作谓语。 ［锁定答案］空格句承接④句引出某位美国研究员对新研究的评价(an American researcher, believes. . .",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Gratitude may be more beneficial than we commonly suppose. One recent study asked participants to \nwrite a note of thanks to someone and then estimate how surprised and happy the recipient would \nfeel—an impact that they consistently underestimated. Another study assessed the health benefits of \nwriting thank-you notes. The researchers found that writing as few as three weekly thank-you notes over \nthe course of three weeks improved life satisfaction, increased happy feelings and reduced symptoms of \ndepression."
+        },
+        {
+          "label": "B",
+          "text": "While this research into gratitude is relatively new, the principles involved are anything but. Students of \nmine in a political philosophy course at Indiana University are reading Daniel Defoe's 300-year-old \nRobinson Crusoe, often regarded as the first novel published in English. Left alone on an unknown island \nwith no apparent prospect of rescue or escape, Crusoe has much to lament (悲). But instead of giving in \nto despair, he makes a list of things for which he is grateful, including the fact that he is the sole survivor \nfrom the shipwreck (海难) and has been able to salvage many useful items from the wreckage."
+        },
+        {
+          "label": "C",
+          "text": "Defoe's masterpiece, which is often ranked as one of the world's greatest novels, provides a portrait of \ngratitude in action that is as timely and relevant today as it has ever been. It is also one with which \ncontemporary psychology and medicine are just beginning to catch up. Simply put, for most of us, it is \nfar more helpful to focus on the things in life for which we can express gratitude than those that incline \nus toward resentment and lamentation."
+        },
+        {
+          "label": "D",
+          "text": "When we focus on the things we regret, such as failed relationships, family disputes, and setbacks in \ncareer and finance, we tend to become more regretful. Conversely, when we focus on the things we are \ngrateful for, a greater sense of happiness tends to spread through our lives. And while no one would \nargue for cultivating a false sense of blessedness, there is mounting evidence that counting our blessings \nis one of the best habits we can develop to promote mental and physical health."
+        },
+        {
+          "label": "E",
+          "text": "Gratitude has long enjoyed a privileged position in many of the world's cultural traditions. For example, \nsome ancient Western philosophers counsel gratitude that is both enduring and complete, and some \nEastern thinkers portray it as not merely an attitude but a virtue to be put into practice."
+        },
+        {
+          "label": "F",
+          "text": "Recent scientific studies support these ancient teachings. Individuals who regularly engage in gratitude \nexercises, such as counting their blessings or expressing gratitude to others, exhibit increased satisfaction \nwith relationships and fewer symptoms of physical illness. And the benefits are not only psychological \nand physical. They may also be moral—those who practice gratitude also view their lives less \nmaterialistically and suffer from less envy."
+        },
+        {
+          "label": "G",
+          "text": "There are multiple explanations for such benefits of gratefulness. One is the fact that expressing gratitude \nencourages others to continue being generous, thus promoting a virtuous cycle of goodness in \nrelationships. Similarly, grateful people may be more likely to reciprocate (回报) with acts of kindness of \ntheir own. Broadly speaking, a community in which people feel grateful to one another is likely to be a \nmore pleasant place to live than one characterized by mutual suspicion and resentment. The beneficial \neffects of gratitude may extend even further. For example, when many people feel good about what \nsomeone else has done for them, they experience a sense of being lifted up, with a corresponding \nenhancement of their regard for humanity. Some are inspired to attempt to become better people \nthemselves, doing more to help bring out the best in others and bringing more goodness into the world \naround them."
+        },
+        {
+          "label": "H",
+          "text": "Gratitude also tends to strengthen a sense of connection with others. When people want to do good things \nthat inspire gratitude, the level of dedication in relationships tends to grow and relationships seem to last \nlonger. And when people feel more connected, they are more likely to choose to spend their time with \none another and demonstrate their feelings of affection in daily acts."
+        },
+        {
+          "label": "I",
+          "text": "Of course, acts of kindness can also foster discomfort. For example, if people feel they are not worthy of \nkindness or suspect that some ulterior (别有用心的) motive lies behind it, the benefits of gratitude will \nnot be realized. Likewise, receiving a kindness can give rise to a sense of indebtedness, leaving \nbeneficiaries feeling that they must now pay back whatever good they have received. Gratitude can \nflourish only if people are secure enough in themselves and sufficiently trusting to allow it to do so. \nAnother obstacle to gratitude is often called a sense of entitlement. Instead of experiencing a benefaction \n(善行) as a good turn, people sometimes regard it as a mere payment of what they are owed, for which \nno one deserves any moral credit."
+        },
+        {
+          "label": "J",
+          "text": "There are a number of practical steps anyone can take to promote a sense of gratitude. One is simply \nspending time on a regular basis thinking about someone who has made a difference, or perhaps writing a \nthank-you note or expressing such gratitude in person. Others are found in ancient religious disciplines, \nsuch as reflecting on benefactions received from another person or actually praying for the health and \nhappiness of a benefactor. In addition to benefactions received, it is also possible to focus on \nopportunities to do good oneself, whether those acted on in the past or hoped for in the future. Some \npeople are most grateful not for what others have done for them but for chances they enjoyed to help \nothers. In regularly reflecting on the things in his life he is grateful for, Defoe's Crusoe believes that he \nbecomes a far better person than he would have been had he remained in the society from which he \noriginally set out on his voyage."
+        },
+        {
+          "label": "K",
+          "text": "Reflecting on generosity and gratitude, the great basketball coach John Wooden once offered two \ncounsels to his players and students. First, he said, \"It is impossible to have a perfect day unless you have \ndone something for someone who will never be able to repay you.\" In saying this, Wooden sought to \npromote purely generous acts, as opposed to those performed with an expectation of reward. Second, he \nsaid, \"Give thanks for your blessings every day.” \nL) Some faith traditions incorporate such practices into the rhythm of daily life. For example, adherents of \nsome religions offer prayers of thanksgiving every morning before rising and every night before lying \ndown to sleep. Others offer thanks throughout the day, such as before meals. Other less frequent special \nevents, such as births, deaths and marriages, may also be heralded by such prayers. \nM) When Defoe depicted Robinson Crusoe making thanksgiving a daily part of his island life, he was \nanticipating findings in social science and medicine that would not appear for hundreds of years. Yet he \nwas also reflecting the wisdom of religious and philosophical traditions that extend back thousands of \nyears. Gratitude is one of the healthiest and most nourishing of all states of mind, and those who adopt it \nas a habit are enriching not only their own lives but also the lives of those around them."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "It does us far more good to focus on things we can be grateful for than what makes us sad and resentful.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "The beneficial impacts of gratitude can extend from individuals to their community and to the wider \nsociety.",
+          "answer": "G",
+          "explanation": "〗 细节归纳题。 定位句提到， 人们互存感激之心的社区更加宜居， 而感恩的有益影响甚至可能会进一步扩大。 随后两句则指出， 心怀感恩的人会给周围的世界带来更多的善意， 可知这是说感恩的益处可辐射至整个社会， 结合上一段提到的感恩给个人带来的益处， 可知感恩的益处可从个人延伸到他们的社区乃至更广泛的社会， 题干是对 G） 段相关信息的归纳概括， 故答案为 G)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-1/key_OCR_2023-06-1.txt",
+            "sourceText": "37 ． 〖 定位 〗 由题干中的 beneficial impacts of gratitude、 extend 和 community 定位到 G) 段第四、 五句。 G) 〖 精析 〗 细节归纳题。 定位句提到， 人们互存感激之心的社区更加宜居， 而感恩的有益影响甚至可能会进一步扩大。 随后两句则指出， 心怀感恩的人会给周围的世界带来更多的善意， 可知这是说感恩的益处可辐射至整个社会， 结合上一段提到的感恩给个人带来的益处， 可知感恩的益处可从个人延伸到他们的社区乃至更广泛的社",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "The participants in a recent study repeatedly underestimated the positive effect on those who received \nthank-you notes.",
+          "answer": "A",
+          "explanation": "］A 段②句指出，最近的一项研究要求参与者给某人写一封感谢信，然后判断收信人会有多么惊讶和高兴，而参与者总是低估这一影响。试题是对该句内容的概括和改写，repeatedly 契合文中 consistently 所体现的“感谢信对收信人的影响一直被低估”之意, who received thank-you notes 对应 the recipient0",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "在最近的一项研究中，参与者一再低估感谢信对收信者的积极影响。 ［答案］A ［精解］A 段②句指出，最近的一项研究要求参与者给某人写一封感谢信，然后判断收信人会有多么惊讶和高兴，而参与者总是低估这一影响。试题是对该句内容的概括和改写，repeatedly 契合文中 consistently 所体现的“感谢信对收信人的影响一直被低估”之意, who received thank-you notes 对应 the recipient0",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Good deeds can sometimes make people feel uncomfortable.",
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "d thank-you notes 同义改写②句 consistently underestimatedthe recipiento 【定位词定位】②句所述研究结论“研究参与者总是低估感谢信会让收信人多么惊讶和高兴”匹配 38 题核心义。 39 B) O While this research into gratitude is relatively new? the principles involved are anything but1 . ©Students of mine in a political philosophy course at Indiana University are",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "People who regularly express gratitude can benefit in moral terms.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "A basketball coach advocated performing generous acts without expecting anything in return.",
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "enduring [m'djosn1]] a. 持久的；耐久的 ; ⑤virtue ['vsit/u：] n. 美德；德行 ③portray [poi'trei] v. 描绘；描述 g ⑥put into practice 实施；实践 41 F ) O Recent scientific studies support these ancient teachings0 . ❷ Individuals who regularly engage in gratitude exercises? such as counting their blessings or expressing gratitu",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "More and more evidence shows it makes us mentally and physically healthier to routinely count our \nblessings.",
+          "answer": "D",
+          "explanation": "［D 段③句指出，越来越多的证据表明，细数幸福是我们可以养成的促进身心健康的最佳习惯之一。试题是对该内容的同义改写，makes us mentally and physically healthier 对应文中 promote mental and physical health, 体现细数幸福的益处。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "越来越多的证据表明，经常细数幸福会使我们身心更加健康。 ［答案］D ［精解［D 段③句指出，越来越多的证据表明，细数幸福是我们可以养成的促进身心健康的最佳习惯之一。试题是对该内容的同义改写，makes us mentally and physically healthier 对应文中 promote mental and physical health, 体现细数幸福的益处。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Of all states of mind, feeling grateful is considered one of the most healthy and beneficial.",
+          "answer": "M",
+          "explanation": "〗 同义转述题。 M） 段定位句指出， 在所有的心态中， 感恩是最健康、 最滋养的。 题干中的 feeling grateful 对应原文中的 gratitude， 题干中的 the most healthy and beneficial 则是对原文中 the healthlest and most nounshlng 的同义转述， 故答案为 M)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-1/key_OCR_2023-06-1.txt",
+            "sourceText": "43 ． 〖 定位 〗 由题干中的 of all states of mind 定位到文章 M） 段最后一句的前半部分。 M) 〖 精析 〗 同义转述题。 M） 段定位句指出， 在所有的心态中， 感恩是最健康、 最滋养的。 题干中的 feeling grateful 对应原文中的 gratitude， 题干中的 the most healthy and beneficial 则是对原文中 the healthlest and most nou",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "The principles underlying the research into gratitude are nothing new at all.",
+          "answer": "B",
+          "explanation": "］B 段①句指出，虽然对感恩的研究相对较新，但其中涉及的原理却早已有之。试题是对该内容的同义改写，否定表述 nothing new at a ll 是对原文 relatively new. . . anything but 的整合概括，强调有关感恩的原理早已有之，并不是什么新鲜事物。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "对感恩的研究所基于的原理决非新近才出现。 ［答案］B ［精解］B 段①句指出，虽然对感恩的研究相对较新，但其中涉及的原理却早已有之。试题是对该内容的同义改写，否定表述 nothing new at a ll 是对原文 relatively new. . . anything but 的整合概括，强调有关感恩的原理早已有之，并不是什么新鲜事物。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Gratitude is likely to enhance one's sense of being connected with other people.",
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+            "sourceText": "ay [ri'pei] v. 归还；偿还 ②purely Cpjoali] a d. 仅仅；完全 § ③as opposed to (表示对比)而，相对于 § ©expectation Qiekspek'teijn] \". 预期；期待 45 L ) ❶ Some faith traditions incorporate1 such practices into the rhythm of daily life. 0 For example, adherents of some religions offer prayers of thanksgiving every morning before",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage. \nTechnology is never a neutral tool for achieving human ends. Technological innovations reshape \npeople as they use these innovations to control their environment. Artificial intelligence, for example, is \naltering humanity. \nWhile the term AI conjures up anxieties about killer robots or catastrophic levels of \nunemployment, there are other, deeper implications. As AI increasingly shapes the human experience, \nhow does this change what it means to be human? Central to the problem is a person's capacity to make \nchoices, particularly judgments that have moral implications. \nAristotle argued that the capacity for making practical judgments depends on regularly making \nthem—on habit and practice. We see the emergence of machines as substitute judges in a variety of \neveryday contexts as a potential threat to people learning how to effectively exercise judgment \nthemselves. \nIn the workplace, managers routinely make decisions about who to hire or fire and which loan to \napprove, to name a few. These are areas where algorithmic (算法的) prescription is replacing human \njudgment, and so people who might have had the chance to develop practical judgment in these areas no \nlonger will. \nRecommendation engines, which are increasingly prevalent intermediaries in people's consumption \nof culture, may serve to constrain choice and minimize luck. By presenting consumers with \nalgorithmically selected choices of what to watch, read, stream and visit next, companies are replacing \nhuman taste with machine taste. In one sense, this is helpful. After all, machines can survey a wider \nrange of choices than any individual is likely to have the time or energy to do on their own. \nAt the same time, though, this selection is optimizing for what people are likely to prefer based on \nwhat they've preferred in the past. We think there is some risk that people's options will be constrained \nby their past in a new and unanticipated way. \nAs machine learning algorithms improve and as they train on more extensive data sets, larger parts \nof everyday life are likely to become utterly predictable. The predictions are going to get better and \nbetter, and they will ultimately make common experiences more efficient and pleasant. \nAlgorithms could soon-if they don't already—have a better idea about which show you'd like to \n\nwatch next and which job candidate you should hire than you do. One day, humans may even find a way \nfor machines to make these decisions without some of the biases that humans typically display. \nBut to the extent that unpredictability is part of how people understand themselves and part of what \npeople like about themselves, humanity is in the process of losing something significant. As they \nbecome more and more predictable, the creatures inhabiting the increasingly AI-mediated world will \nbecome less and less like us.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What do we learn about the deeper implications of AI?",
+              "options": {
+                "A": "It is causing catastrophic levels of unemployment.",
+                "B": "It is doing physical harm to human operators.",
+                "C": "It is altering moral judgments.",
+                "D": "It is reshaping humanity."
+              },
+              "answer": "D",
+              "explanation": "到什么？ A) It is causing catastrophic levels of unemployment. A）它正在造成灾难性的失业水平。 B) It is doing physical harm to hum an operators. B）它正在对人类操作员造成身体伤害。 C) It is altering moral judgm ents. C）它正在改变道德判断。 D) It is reshaping humanity. D）它正在重塑人类。 ［精准定位］本题考查 A I 的深层影响。由题干关键词 the deeper implications of A I 可定位至第二段（. . . AI. . . there are o th er. deeper implications）。 ［锁定答案］D o 第二段①句指出 A I 有着更深的影响，②③句以设问形式暗示：A I 正在改变人之为人的意义，而人类意义的核心是人类的判断能力。再结合第一段亮明的文章主题“技术/ A I 正在改变人类“可进一步确定，A I 带来的更深影响是其正在重塑/改变人类。D 项正确。 ［排除干扰］A 项和 B 项均曲解第二段①句的让步转折逻辑（While. . . there a re. . .），该句的让步状语从句以“机器人杀手”“灾难性失业水平”描述 A I 的影响，但由随后的主句可知这两个方面仅为直接/表层影响， 而非更深层次的影响。C 项曲解第二段末尾信息，文中是说 A I 正在改变人类的决策/判断能力（尤其是做出具有道德影响的判断的能力），选项将这种判断能力缩窄为“道德判断”。 ［提炼思路］本题考查对第二段信息的梳理与推断，同时也考查了全文主题。解题时首先要抓住开篇段引出的全文主题“技术/A I 正在重塑人类（Technological innovations reshape people、Artificial intelligence. . . is altering humanity）”，带着这一主题去阅读第二段；其次要对第二段的逻辑词 W hile（表让步）保持",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+                "sourceText": "B) It is doing physical harm to hum an operators. B）它正在对人类操作员造成身体伤害。 C) It is altering moral judgm ents. C）它正在改变道德判断。 D) It is reshaping humanity. D）它正在重塑人类。 ［精准定位］本题考查 A I 的深层影响。由题干关键词 the deeper implications of A I 可定位至第二段（. . . AI. . . there are o th er. deeper implications）。 ［锁定答案］D o 第二段①句指出 A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What is the consequence of algorithmic prescription replacing human judgment?",
+              "options": {
+                "A": "People lose the chance to cultivate the ability to make practical judgments.",
+                "B": "People are prevented from participating in making major decisions in the workplace.",
+                "C": "Managers no longer have the chance to decide which loan to approve.",
+                "D": "Managers do not need to take the trouble to determine who to hire or fire."
+              },
+              "answer": "A",
+              "explanation": "雇谁。 [精准定位]本题考查“用 A I 代替人类做出判断”的后果。由题干信息 algorithmic prescription replacing human judgment 可定位至第四段②句(These are areas where algorithmic prescription is replacing human judgment. . . ) o ［锁定答案］A o 第四段②句以 and s o 引出“算法妙方取代人类判断力”所引发的后果：原本有机会培养实用判断力的人将不会再有这样的机会（no longer w ill 后面省略了重复信息 have the chance to develop practical judgment. . .） 9 即他们失去了培养实用判断力的机会。A 项正确。 ［排除干扰］B 项将第四段末尾的否定表达 no longer will （have the chance to. . .）曲解为 are prevented from. . . （被禁止/阻止…）；但前者实际表达“人们的决策活动正日益被 A I 代劳，这方面潜能会丧失”，而非 “人们被禁止参与重大决策 C 项看似符合 no longer will （have the chance to. . .），实际偷换了“机会”的所指对象，把“培养能力”的机会偷换成“做出具体决策（如批准贷款）”的机会。D 项看似符合常识逻辑“ A I 可帮助经理人做决策，让其更省心”，但停留在表面，偏离了上下文语境：作者实际在论述 A I 的负面后果。 ［提炼思路］本题实际考查对段群（第三、四段）主旨信息的理解与把握。第三段以 We see. . . as a potential threat to. . . 点明段群主旨“ A I 可能会损害人类的判断能力”，第四段则以职场决策场景展开说明，两段的核心信息 the capacity for making practical judgments depends on. . . Alearning how to effectively exer",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+                "sourceText": "47. What is the consequence of algorithmic prescription replacing human judgment? 4 7 . 算法妙方取代人类判断力的结果是什么？ A) People lose the chance to cultivate the ability to make practical judgments. A）人们失去了培养实用判断力的机会。 B) People are prevented from participating in making major decisions in the work",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What may result from increasing application of recommendation engines in our consumption of  culture?",
+              "options": {
+                "A": "Consumers will have much limited choice.",
+                "B": "Consumers will actually enjoy better luck.",
+                "C": "It will be easier to decide on what to enjoy.",
+                "D": "Humans will develop tastes similar to machines'."
+              },
+              "answer": "A",
+              "explanation": "第五段①句 luck 的内涵，该词此处并非指“运气/好运”，而是指“偶然/不可预测的巧合”，与 choice 以及下文的 unpredictability 近义，共同指向“可选择性、不可预测性 C 项将推荐引擎的“弊端（缩小选择面，削弱人们自主选择的能力）”曲解为“优势（让人们更容易做出选择） D 项由第五段②句信 52 息“公司正在用机器的喜好取代人类的喜好（让机器为人类推荐内容）”过度推出“人类的喜好慢慢会与机器趋同”，由下段及常识可知，机器的喜好实际来自人类的惯常喜好，因此选项的表述不合逻辑。 [提炼思路]本题考查对第五段信息的梳理与推断。第五段①句（段落主旨句）以 Recommendation engines. . . may serve to. ・, 句式直接呈现推荐引擎的作用/影响，由关键词 constrain choice、minimize lu c k 可分别锁定 A、B 两项；结合上下文可知 constrain choice 是指“缩小选择面（可选内容经过了机器的筛选）”，A 项符合此意；minimize lu ck 贝可指“减少偶然性/不确定性（可选内容契合原有喜好，意外之喜极少）”，B 项显然曲解了文中 lu ck 的概念内涵。 W O As machine learning algorithms improve and as they train on more extensive1 data sets®, larger parts of everyday life are likely to become utterly predictable. @ The predictions are going to get better and better, and they will ultimately make common experiences more efficient and pleasant. 皿 O Algorithms could soon— if they don't already— have a better idea a",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+                "sourceText": "m increasing application of recommendation engines in our consumption of culture? 4 8 . 在我们的文化消费中越来越多地应用推荐引擎可能会带来什么结果？ A) Consumers will have much limited choice. A）消费者的选择余地将会非常有限。 B) Consumers will actually enjoy better luck. B）消费者实际上会拥有更好的运气。 C) It will be easier to decide on what to enjoy.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What is likely to happen to larger parts of our daily life as machine learning algorithms improve?",
+              "options": {
+                "A": "They will turn out to be more pleasant.",
+                "B": "They will repeat our past experience.",
+                "C": "They can be completely anticipated.",
+                "D": "They may become better and better."
+              },
+              "answer": "C",
+              "explanation": "49. What is likely to happen to larger parts of our daily life as machine learning algorithms improve? 49.随着机器学习算法的改进，我们大部分的日常生活可能会发生什么？ A ) They will turn out to be more pleasant. A ) 它们会变得更令人愉悦。 B) They will repeat our past experience. B )它们会重复我们过去的经历。 C) They can be completely anticipated. C )它们可完全被预测。 D) They may become better and better. D )它们可能会变得越来越好。 [精准定位]本题考查机器学习算法的改进对人们日常生活的影响。由题干关键词 larger parts of our daily life、machine learning algorithms improve 可定位至第七段①句( As machine learning algorithms improve. . . larger parts of everyday life are likely to. . . ) o ［锁定答案］C o 第七段①句指出，随着机器学习算法的改进… … 大部分日常生活可能变得完全可预测。 C 项与之契合，选项中 be completely anticipated 是对原文 become utterly predictable 的同义改写。 ［排除干扰］A、D 项分别利用第七段②句碎片信息 they wil",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+                "sourceText": "？ A ) They will turn out to be more pleasant. A ) 它们会变得更令人愉悦。 B) They will repeat our past experience. B )它们会重复我们过去的经历。 C) They can be completely anticipated. C )它们可完全被预测。 D) They may become better and better. D )它们可能会变得越来越好。 [精准定位]本题考查机器学习算法的改进对人们日常生活的影响。由题干关键词 larger parts of our daily life、machine",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "Why does the author say the creatures living in the more and more Al-mediated world will become  increasingly unlike us?",
+              "options": {
+                "A": "They will have lost the most significant human element of being intelligent.",
+                "B": "They will no longer possess the human characteristic of being unpredictable.",
+                "C": "They will not be able to understand themselves as we can do today.",
+                "D": "They will be deprived of what their predecessors were proud of about themselves."
+              },
+              "answer": "B",
+              "explanation": "来源：77ie 《经济学人》2021. 06. 12 文章 American Schools Teach Reading All Wrong（美国学校教授阅读的方法完全错误）。主题：本文通过引用数据、案例等方式批判当前美国学校主流的“平衡阅读教学法”（主要采用整体语言教学法，仅少量穿插自然拼读法），主张学校应系统、明确地教授“自然拼读法”。脉络： 引出话题“自然拼读是最佳阅读教学法，但长期以来错误方法却大行其道”（第一、二段）— 介绍话题背景“美国一直深陷'如何教孩子阅读'的长期争议之中”（第三段）— 以密西西比州为例呼吁“推广科学、有效的自然拼读法”（第四、五段）— 呼应开篇，解释当前问题成因，明确拨乱反正的切入点（第六段）。 常二、语篇分析及试题精解 I O Phonics1, which involves sounding out words syllable （音节）by syllable? is the best way to teach children to read. ❷But in many classrooms? this can be a dirty ② word. ❸So much so that some teachers have had to sneak@ phonics teaching materials into the classroom. © M ost American children are taught to read in a way that study after study has found to be wrong. H ❶ The consequences0 of this are striking. ❷ Less than half of all American adults were proficientreaders in 2 0 1 7 . ❸ American fourth graders rank 15th on the Progress in International Literacy* St",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+                "sourceText": "越来越不像人类？ A ) They will have lost the most significant human element of being intelligent. A ) 他们将失去智能这一最重要的人类要素。 B) They will no longer possess the human characteristic of being unpredictable. B ) 他们将不再拥有不可预测性这一人类特点。 C) They will not be able to understand themselves as w e can do t",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage. \nPhonics, which involves sounding out words syllable （音节) by syllable, is the best way to teach \nchildren to read. But in many classrooms, this can be a dirty word. So much so that some teachers have had \nto sneak phonics teaching materials into the classroom. Most American children are taught to read in a way \nthat study after study has found to be wrong. \nThe consequences of this are striking. Less than half of all American adults were proficient readers in \n2017. American fourth graders rank 15th on the Progress in International Literacy Study, an international \nexam. \nAmerica is stuck in a debate about teaching children to read that has been going on for decades. Some \nadvocate teaching symbol-sound relationships (the sound k can be spelled as c, k, ck, or ch), known as \nphonics. Others support an immersive approach (using pictures of a cat to learn the word cat), known as \n\"whole language\". Most teachers today, almost three out of four according to a survey by the Ed Week \nResearch Centre in 2019, use a mix called \"balanced literacy\". This combination of methods is ineffective. \n\"You can't sprinkle in a little phonics,\" says Tenette Smith, executive director of elementary education and \nreading at Mississippi's education department. \"It has to be systematic and explicitly taught.\" \nMississippi, often behind in social policy, has set an example here. In a state once notorious for its low \n\nreading scores, the Mississippi state legislature passed new literacy standards in 2013. Since then Mississippi \nhas seen remarkable gains. Its fourth graders have moved from 49th (out of 50 states) to 29th on the National \nAssessment of Educational Progress, a nationwide exam. In 2019 it was the only state to improve its scores. \nFor the first time since measurement began, Mississippi's pupils are now average readers, a remarkable \nachievement in such a poor state. \nMississippi's success is attributed to implementing reading methods supported by a body of research \nknown as the science of reading. In 1997 Congress requested the National Institute of Child Health and \nHuman Development and the Department of Education to convene a National Reading Panel to end the \n\"reading wars\" and synthesize the evidence. The panel found that phonics, along with explicit instruction in \nphonemic (音位的)awareness, fluency and comprehension, worked best. \nYet over two decades on, \"balanced literacy\" is still being taught in classrooms. But advances in \nstatistics and brain imaging have disproved the whole-language method. To the teacher who is a proficient \nreader, literacy seems like a natural process that requires educated guessing, rather than the deliberate \nprocess emphasized by phonics. Teachers can imagine that they learned to read through osmosis (潜移默化) \nwhen they were children. Without proper training, they bring this to classrooms.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What do we learn about phonics in many American classrooms?",
+              "options": {
+                "A": "It is ill reputed.",
+                "B": "It is mostly misapplied.",
+                "C": "It is arbitrarily excluded.",
+                "D": "It is misrepresented."
+              },
+              "answer": "A",
+              "explanation": "到什么？ A) It is ill reputed. A）它名声不好。 B) It is mostly misapplied. B）它大多被误用了。 C) It is arbitrarily excluded. C）它被武断地拒之门外。 D) It is misrepresented. D）它被歪曲了。 ［锁定答案］A。第一段①句肯定自然拼读法是教孩子阅读的最佳方法，②③句转而指出“在许多课堂上， 这是一个令人生厌的字眼，一些教师只能偷偷使用自然拼读法的教学材料”。综合可知，自然拼读法在美国许多课堂上的名声较差，仅被少量、隐蔽地涉及，确定 A 项正确，同时排除 C 项：“少见”# “完全没有”。 ［排除干扰］B、D 两项均杂糅曲解了第一段中 Phonics, dirty word、found to be wrong 等碎片信息，选项表意与文意不符：其中 B 项的潜台词是“自然拼读法被广泛采用，但多数方式错误”，与第一段文意“只在少数情况下有人采用“矛盾；而 D 项指“自然拼读法的本意遭到误传、内容遭到歪曲”，但文中作者只是认为当前阅读法错误， 而最佳的自然拼读法却没有得到应有的采纳，并未批判其内容本身被错误解读。 ［提炼思路］本题为“事实细节题”，由题干锁定的定位句并不唯一，可结合选项进行二次定位。具体来看，四个选项中 A 项指向“学校对自然拼读法的主流看法”，B、C、D 三项则指向“学校对自然拼读法的主流做法“，可分别定位至第一段②句和③④句，对比选项与原文可发现：A 项 ill reputed 契合②句 a dirty word 所体现的“外界否定看法”, C 项 arbitrarily excluded 看似契合这一态度，但与③句 sneak. . . into the classroom 相悖，属过度解读；B、D 两项通过否定前缀 misY 表“错误/不正确的“）设障，考生可能将④句中 wrong 所指对象 “当下主流教学法”误认成“自然拼读法”，从而误选；还有考生可能因选项暗含“辩护”之意（未被正确地…） 而误选，但两项潜台词均为“用了，但没用对、没解读对”，",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+                "sourceText": "What do we learn about phonics in many American classrooms? 5 1 . 关于自然拼读法在许多美国课堂上的情况，我们了解到什么？ A) It is ill reputed. A）它名声不好。 B) It is mostly misapplied. B）它大多被误用了。 C) It is arbitrarily excluded. C）它被武断地拒之门外。 D) It i",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What has America been witnessing for decades?",
+              "options": {
+                "A": "An obsession with innovating teaching methodologies of reading.",
+                "B": "An enduring debate over the approach to teaching children to read.",
+                "C": "An increasing concern with many children's inadequacy in literacy.",
+                "D": "An ever-forceful advocacy of a combined method for teaching reading."
+              },
+              "answer": "B",
+              "explanation": "题：第三段②至⑦句 Some advocate teaching A/says lenette Smith. . . A has to be. . . taughtAOthers support B to learn the word AMost teachers. . . use C 意在介绍三个群体支持使用三种不同的阅读教学法，与①句 a debate about teaching. . . read 构成上下语义关系，可敲定第三段重在论述一场争论“到底怎么教阅读好”，A 项“对创新阅读教学法的痴迷”、C 项“对大量儿童读写能力不足的日益担忧” 均偏离段落主旨，D 项以偏概全（将一方观点当作争议各方的观点），最终锁定正确概括段落主旨的 B 项。 ［精准定位］本题考查特内特• 史密斯认为混合式教学法无效的理由。由题干关键信息 Tenette Smith think、combination of teaching methods is ineffective 可定位至第三段⑤⑥⑦句（combination of methods is ineffective、says Tenette Smith） 0",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+                "sourceText": "g for decades? 5 2 . 近几十年来，美国一直目睹着什么？ A) An obsession with innovating teaching methodologies of reading. A）对创新阅读教学法的痴迷。 B) An enduring debate over the approach to teaching children to read. B）对用何种方法教孩子阅读的持久争论。 C) An increasing concern with many children's inadequacy in literacy. C）对大量儿童读写能力不足的日益担忧。",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "Why does Tenette Smith think a combination of teaching methods is ineffective?",
+              "options": {
+                "A": "Elementary school children will be frustrated when taught with several methods combined.",
+                "B": "Phonics has to be systematically applied and clearly taught to achieve the desired effect.",
+                "C": "Sprinkling in a little phonics deters the progress of even adequately motivated children.",
+                "D": "Balanced literacy fails to sustain children's interest in developing a good reading habit."
+              },
+              "answer": "B",
+              "explanation": "上文表明该方法就是人们“自欺欺人”之举— 知道自然拼读法有用，折中一下，在整体语言教学法中掺入一点点，美其名日“平衡、结合”，故 B 项主语实际对应题干“混合法”，谓语点明问题所在：这种混合根本无效，必须系统、明确地采用自然拼读法。 59 社会政策一贯落后的密西西比州在这方面却树立了榜样。该州一度因为阅读成绩低而臭名昭著，但在 2013 年，其立法机构通过了新的识字标准。自那以后， 密西西比州取得了显著成就。州内的四年级学生在全国性考试“国家教育进步评估”中，从第 4 9 名跃升至 2 9 名（共有 5 0 个州）。它是 2019 年度唯— 个阅读成绩有所提升的州。自评估开始以来, 其学生的阅读能力首次达到平均水平。在如此贫穷的州，这是一项了不起的成就。 密西西比州的成功要归功于其采用的阅读方法，这些方法得到了大量名为“阅读的科学”的研究的支持。1997 年，国会要求国家儿童健康与人类发展研究所和教育部组建一个国家阅读小组，以终结“阅读之争”，并整合相应证据。该小组发现，运用自然拼读法，同时对音位意识、流利度和理解给出明确的指导，效果是最好的。 N ©M ississippi, often behind in social policy, has set an example here. @ In a state once notorious② for its low reading scores? the Mississippi state legislature passed new literacy standards in 2013. ❸ Since then Mississippi has seen remarkable gains 1 O Its fourth graders have moved from 49th ( out of 50 states) to 29th on the National Assessment of Educational Progress? a nationwide exam. © In 2019 it was the on",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+                "sourceText": "ementary school children will be frustrated when taught with several methods combined. A）如果将多种方法结合起来进行教学，小学生会十分受挫。 B) Phonics has to be systematically applied and clearly taught to achieve the desired effect. B）自然拼读法必须被系统应用、明确传授才能达到预期效果。 C) Sprinkling in a little phonics deters the progress o",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What does the author say Mississippi's success is attributed to?",
+              "options": {
+                "A": "Convening a National Reading Panel to synthesize research evidence.",
+                "B": "Placing sufficient emphasis upon both fluency and comprehension.",
+                "C": "Adopting scientifically grounded approaches to teaching reading.",
+                "D": "Obtaining support from Congress to upgrade teaching methods."
+              },
+              "answer": "C",
+              "explanation": "能力。 C) Adopting scientifically grounded approaches to teaching reading. C）采用具有科学依据的阅读教学法。 D) Obtaining support from Congress to upgrade teaching methods. D）获得来自国会的支持以更新教学方法。 ［锁定答案］C o 第五段首句指出密西西比州的成功要归功于其采用的阅读方法，而这些方法得到了大量名为“阅读的科学”的研究的支持，也即该州采取的方法有科学依据，C 项正确。 ［排除干扰］A 项源自第五段②句碎片信息 convene a National Reading Panelsynthesize the evidence, 但该小组的组建时间（1997 年）远早于该州出台新识字标准的时间（2013 年），且组建者（国会）被窜改。B 项根据第五段 ③句碎片信息 fluency and comprehension 设障，但原句中“对阅读的流利度和理解的强调”是在“运用自然拼读法”的前提下所采纳的辅助方法（along with. . .），其本身并不足以确保教学的成功。D 项源于第五段①②句碎片信息 methods supported、Congress，但原文只是说国会要求组建国家阅读小组，并非针对某一州给予支持。 ［提炼思路］本题为因果细节题。解题关键在于在文章中寻找表示因果关系的词眼，第五段首句 A is attributed to B 明确了密西西比州取得成功的原因，C 项中 scientifically grounded approaches 是对原文 reading methods supported by a body of research known as the science of reading 的合理改写，故为正确答案。A、B、D 三项均由描述历史事件（组建国家阅读小组以终结“阅读之争”）的碎片信息捏造而来，属于强加因果关系。 M O Yet over two decades on, balanced lit",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+                "sourceText": "54. What does the author say Mississippi's success is attributed to? 54.作者认为密西西比州的成功应该归因于什么？ A ) Convening a National Reading Panel to synthesize research evidence. A）召集一个国家阅读小组来整合研究证据。 B) Placing sufficient emphasis upon both fluency and comprehension. B）充分强调阅读的流利度和对阅读的理解能",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What have advances in statistics and brain imaging proved ineffective?",
+              "options": {
+                "A": "The teaching of symbol-sound relationships.",
+                "B": "Explicit instruction in phonemic awareness.",
+                "C": "Efforts to end the reading wars.",
+                "D": "The immersive approach."
+              },
+              "answer": "D",
+              "explanation": "为“证伪”）。结合第三段③句对“整体语言教学法”的定义“一种沉浸式教学方法”，可快速判断 D 项为正确答案。 ［排除干扰］A 项关键词 symbol-sound relationship 指向第三段②句中的“自然拼读法”（teaching symbol­ sound relationships, k no w n as phonics），而非与之相对的整体语言教学法。B 项利用第五段末句碎片信息 explicit instruction in phonemic awareness 设障，但原句意在强调“对音位意识的明确指导”与“自然拼读法”是统一的、相得益彰的，故其不属于整体语言教学法的范畴。C 项源自第五段②句碎片信息 end the “reading wars”, 但根据文意，该努力最终证实了 “自然拼读法”效果最佳（The panel found that phonics. . . worked best）, 而且密西西比州也因采纳其结论而获得不凡成就。 ［提炼思路］本题重点在于明确“自然拼读法”和“整体语言教学法”两个概念。作者在第三段②③句给出了两个概念的定义，两个 known a s 明确前者对应“教授形音关系”，后者对应“沉浸式教学法”。第六段②句句明确 62 指出，整体语言教学法已被证明是错误的，而结合全篇文意不难判断，“自然拼读法”及相关教学法是受到推崇的，故可排除 A、B 两项。也可根据第六段③④句所述“识字是自然而然的”“通过潜移默化来学习认字”判断整体语言教学法强调沉浸式体验而非语音拼读，从而确定本题答案为 D 项。 Part N Translation 中国的文化出口餐一、参考译文 In recent years, an increasing number of Chinese cultural products have entered the global market and are increasingly favored by overseas consumers. With the rapid development of Chin",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06/key_2023.06六级解析全3套_带书签.txt",
+                "sourceText": "形音关系。 B) Explicit instruction in phonemic awareness. B）对音位意识的明确指导。 C) Efforts to end the reading wars. C）终结“阅读之争”的努力。 D) The immersive approach. D）沉浸式教学法。 ［锁定答案］D o 第六段②句指出统计学和脑成像技术的发展已然证明整体语言教学法是错误的（此处 disapprove 应理解为“证伪”）。结合第三段③句对“整体语言教学法”的定义“一种沉浸式教学方法”，可快速判断 D 项为正确答案。 ［排除干扰］A 项关键词 symbol-sound",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You \nshould write your answer on Answer Sheet 2.",
+      "source": "近年来,越来越多的中国文化产品走向全球市场,日益受到海外消费者的青睐。随着中国对外文化贸易的快速发展,中国文化产品出口额已持续多年位居世界前列,形成了一批具有国际影响力的文化企业、产品和品牌。数据显示,中国的出版物、影视作品、网络文学与动漫作品等在海外的销售量连年攀升。中国政府出台了一系列政策鼓励和支持更多具有中国元素的优秀文化产品走出国门,扩大海外市场份额,进一步提升中国文化的世界影响力。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

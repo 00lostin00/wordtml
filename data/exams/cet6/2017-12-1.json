@@ -30,8 +30,17 @@
             "C": "They facilitate the donation of unsold foods to the needy.",
             "D": "They forbid businesses to produce more foods than needed."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CBDAB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q2",
@@ -43,8 +52,17 @@
             "C": "It voted against food import from outside Europe.",
             "D": "It prohibited the promotion of bulk food sales."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "】 B）。A）将法国举措偷换为欧盟议会举措。B）复现 4 段欧盟议会举措内容，passed a law 对应 voted in favor of legislation; aiming to stop overproduction 对应 would stop. . . from. . . overproduction。C）对 trading practice 断章取义为\"食品进口\"，但文中指\"交易行为\"，并非指\"进口贸易\"。D）\"批售食品\"在文中并未提及。 .6 非此店铺∶ 必有缺失认准淘宝店铺∶光速考研工作室 ౾಑∁఩ᩫᏈᰬ䓽ֆܦϬʹͪᣖ಍ ਥಊႯ᣼䚾∁఩ℽу䭞㠯छ㘩ܦ⣜⮰下➕ⴙ㑦૕ਧಊႯጞ㏻౔ڔ఩㠯ఠڱᐬᆁβ១ݢ下➕⊖䉥⮰≧ߔ૕ ਦಊႯᘕ㒆βᠭ㐙䓳䛻⩋ϓ下➕⮰Э͆૕ ਨಊႯ⺭₎䊱ጮ͎ᐯछ下⩔⮰下➕૕ ૓૓ಪ䃪䷄㺭◥ಬ᫜ηТᑁܦะಉਮਖ਼ਪਫ਼੉ਖ਼ੋ੎ಊ૕ ಪむᵴ㇪᲼ಬਓ౲ાਥಊ૤下➕ⴙ㑦䬚䷄૥౔͙᪳ ᱖᣼ࣶ૕ਦಊ͙ ਗ਼੢੎ਫ਼ਜ਼ਫ਼ਗ਼੍੡ੋ੓ਖ਼ੑ੏ਗ਼ਗ਼੍੟⎼㜖ಗ⃡ ਗ਼੢੎ਫ਼ਜ਼ਫ਼ਗ਼੍੡ੋ੠੓ਗ਼ਖ਼ಎѲ䔅ᆊκ⁓Ⰻ䃚цͪᣖڱქಎ̹ᆊκ∁఩ᩫᏈͪᣖڱქ૕ਧಊ૤១ݢ下➕⊖䉥⮰ڔ఩ᕓ≧ ߔ૥౔͙᪳᱖᣼ࣶ૕ਨಊ͙੊੉ਖ਼ਖ਼੎੍੟੡ਜ਼੎ਫ਼੘੉ਫ਼੕੎੠੟੏ਫ਼ਗ਼੘੍੡੘ਜ਼੓ਖ਼ੑ੎੍੓੊੖੎੏ਗ਼ਗ਼੍੟ಉ੍੡੘ਜ਼ₐะᘻͦ૤͎ᐯ૥ಊᄥᏀ ಘ⃡∁఩ᩫᏈͪᣖ੊੉ਖ਼ਖ਼੎੍੟੡ਜ਼੎ਫ਼੘੉ਫ਼੕੎੠੟੏ਫ਼ਗ਼੘੠੒ਫ਼ਗ਼੣੓ਖ਼ੑ੉੣੉੥੎੍੓੊੖੎੏ਗ਼ਗ਼੍੟૕ ౿಑㒺఩下➕⊖䉥⮰ͧ㺭࣋ఌ᭛Ϭʹ಍ ਥಊ下৭ݜ᱋ᴳオ⮰⌣Ν̹⌱૕ ਧಊ㒺఩Ϧឥ䛻䉙Μ下৭⮰Όᘛ૕ ਦಊ⩋ϓ䓳ޕ䕌᜼⮰ಉ下➕ಊ⯴҅૕ ਨಊ㑦ͻᄥ下➕⊴䉥⮰ネݢ૕ ૓૓ಪ䃪䷄㺭◥ಬ᫜ηТᑁܦะಉਗ਼੠੒੎ਫ਼ੋਗ਼੡ਖ਼੠ਫ਼੓੎੟૔ਮਖ਼੠੒੎਻ਖ਼੓੠੎੍ਹ੠੉੠੎੟ಊ૕ ಪむᵴ㇪᲼ಬਐ౲ાਥಊ㇪۲ู⣜࣋᪳ಎ૤䷄᎞಍䔵䶥૥ᄥᏀಙ⃡ᅝ㒺఩下➕⊖䉥⮰࣋ఌܲ᲼ਗ਼ਖ਼੎੘੉੔ਗ਼ਫ਼ ੋ੉੡੟੎ਗ਼੏੠੒੓੟ਜ਼ਫ਼ਗ਼੊੖੎੘੓੟੠੒੎ੋਗ਼ਖ਼੏੡੟੓ਗ਼ਖ਼ਗ਼੢੎ਫ਼੏ਗ਼ਗ਼੍੎੤ਜ਼੓ਫ਼੉੠੓ਗ਼ਖ਼੖੉੊੎੖੟૕ਦಊ૔ਧಊ㮩♢䘩᭛䕌᜼㒺఩Ϧ下➕⊖䉥 ⮰छ㘩ఌ㉌ಎѲᎢ䲊࣋᪳ᬺ⶚ᠳܦ⮰ͧ㺭࣋ఌ૕ਨಊ͙ ਥ੖੉ੋ੕ਗ਼੏ਫ਼੎ੑ੡੖੉੠",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+            "sourceText": "2. 欧盟议会采取了什么措施来减少食物浪费? C）它投票反对从欧洲境外进口食品。 A）它对浪费食物的企业施以惩罚。 D）它禁止了批售食品的促销活动。 B）它通过了旨在制止过量生产的法律。 【设题要点】新事件引出处（Just earlier this year）。 【答案精析】 B）。A）将法国举措偷换为欧盟议会举措。B）复现 4 段欧盟议会举措内容，passed a law 对应 voted in favor of legislation; aiming to stop overproduction 对应 would",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q3",
@@ -56,8 +74,17 @@
             "C": "It has started a nationwide campaign against food waste.",
             "D": "It has banned supermarkets from dumping edible foods."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CBDAB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q4",
@@ -69,8 +96,17 @@
             "C": "Americans' habit of buying food in bulk.",
             "D": "A lack of regulation on food consumption."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "】 A）。A）精准复现原文，\"题干＋选项\"对应 6 段就美国食物浪费的原因分析 one major cause of this problem is the confusion over food expiration labels。B）、C）虽然都是造成美国人食物浪费的可能因素，但并非原文明确指出的主要原因。D）中 A lack of regulation 虽复现 6 段 not regulated by the government，但该项把\"缺乏管制\"的对象\"食品的到期标签\"偷换为\"食品的消费\"。 四、听力词汇攻关·法律法规相关词汇 ④reward 【r'woxd】 v. 奖励 ①pass egislation 通过议案/法案 【联想】act n. （议会通过的）法案，法令;bill 【近义】incentive n. 鼓励，动力;bonus n. 红利 ⑤ban 【b?n】 v. 禁止 n. （议会尚未通过的）议案，法案;regulationn. 法 【近义】prohibit/forbid v. 禁止规，条例;vote in favor of 投票通过;vote down/ against 投票否决;reject v. 拒绝，排斥 ⑥penalty 【'penolti】 n. 刑罚，惩罚 【近义】punishment n. 惩罚;sanction n. /v. 制裁 ②put（laws）into place 付诸行动，付诸实施 ⑦comply with 服从，遵守 【近义】enforce the law 执法 【联想】obey/observe/abide by/in compliance ③parliament 【'pa∶lomont】n. 议会，国会 with the law 遵守法律;violate/break the law 违 【联想】court/courtroom n．法院，法庭;trail 反法律;illegal/illicit/unlawful a. 非法的 n. 审判;judge n. 法官/v. 审判;jury n. 陪审团; ⑧regulate 【'regjoleit】 v. 调节，管理 United Nati",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+            "sourceText": "4. 美国食物浪费的主要原因是什么? C）美国人批量购买食品的习惯。 A）食品到期标签的混乱不清。 D）缺乏对食物消费的管制。 B）生产过剩造成的（食物）盈余。 【设题要点】 新事件引出处（other countries、In the United States）。 【答案精析】 A）。A）精准复现原文，\"题干＋选项\"对应 6 段就美国食物浪费的原因分析 one major cause of this problem is the",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q5",
@@ -82,8 +118,17 @@
             "C": "It offers regular weekend sales all the year round.",
             "D": "It specializes in the sale of ladies designer dresses."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "什么? A）它开始了为期一周的促销活动。 C）它全年都提供定期的周末减价活动。 D）它专门销售女士名牌裙子。 B）它推出了周年庆减价活动。 【设题要点】事件引出处（Yesterday）。 【答案精析】B）。A）a week-long 源自 within seven days，但这指的是购买商品后提供价格调整的时间，并不是促销活动持续市场。B）是对原文有关萨克斯百货商店的信息（the annual anniversary sales had begun/Our anniversary sales started）的同义改写。C）把\"周年庆促销（annual anniversary sales）\"篡改为\"日常周末促销（regular weekend sales）\"。D）由文中女士询问的\"裙子\"过度联想出\"专售女士名牌裙子\"。 6.这位男士说萨克斯百货商店会提供什么? A）为常客减价。 C）为高级客户的购物提供免费邮寄。 D）购买后七天内差价调整。 B）为批发购买的客户提供优惠券。 【设题要点】信息强调处（We do offer）。 【答案精析】D）。A）、B）、C）的 Price reductions、Coupons、Free delivery 分别由文中 price adjustments、a gift card、by mail 而来，但它们为之服务的对象 frequent customers、customers with bulk purchases、senior customers 在文中并未提到。D）是对原文 offer price adjustments within 7 days of purchase 的精准复现。 7.这位女士想要商场如何处理差价? A）寄给她礼品卡。 C）把差价存入她的账户。 D）给她一些优惠券。 B）允许她贷款购买。 【设题要点】选择信息处（. . . would be wonderful）。 【答案精析】 C）。A）将\"商场提出的另一种解决方式（但女士并未选择这一方式）\"当做她想要的处理方式。B）中 on credit 源自 credit your accou",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+            "sourceText": "5. 关于萨克斯百货商店我们了解什么? A）它开始了为期一周的促销活动。 C）它全年都提供定期的周末减价活动。 D）它专门销售女士名牌裙子。 B）它推出了周年庆减价活动。 【设题要点】事件引出处（Yesterday）。 【答案精析】B）。A）a week-long 源自 within seven days，但这指的是购买商品后提供价格调整的时间，并不是促销活动持续市场。B）是对原文有关萨克斯百货商店的信息（the annual anniversary sales had begun/Our anni",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q6",
@@ -95,8 +140,17 @@
             "C": "Free delivery of purchases for senior customers.",
             "D": "Price adjustments within seven days of purchase."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】DCDAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q7",
@@ -108,8 +162,17 @@
             "C": "Credit it to her account.",
             "D": "Give her some coupons."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A)Mail a gift card to her. B) Fre installing of appliances. B) Allow her to buy on credit. C)Prolonged goods warranty. C)Credit it to her account. D)Give her some coupons. D)Complimentary tailoring. 7 非此店铺∶ 必有缺失认准淘宝店铺∶光速考研工作室 ૓૓ಪⰷ䔵䶥ڟ䩚䃹䶰≷䬚䷄ࣶक़䴟䛹◥ಬ ಘ಑ც䄙ਜ਼ਫ਼ਗ਼੘ਗ਼੠੓ਗ਼ਖ਼ੋ੉੘ਜ਼੉੓ੑਖ਼૔੉ਖ਼ਖ਼੓੢੎ਫ਼੟੉ਫ਼੥੟੉੖੎੟૔੣੎੎੕੎ਖ਼੍੟੉੖੎੟૔੟੉੖੎ᯃ⹦ͧ䄙ਮ੠ᠳ᳼̬䊱ጮ૔ੲ౦ふಎ ᣔ≷䷄᎞䄎䬚᳼̬ਗ਼ࢂ౦䔇㵸⮰ӯ䨬≧ߔા ಙ಑䔵䶥౳ͦह䃹ⴙ䄙ಎ⩝ڢ䄙͵छᣔⴑ䷄᎞䄎䬚⮰᭛્ਗ਼ࢂ౦ӯ䨬⮰ڣѿ᫥ᐻ૎ા ಚ಑ᵥᢚ੘੉੓੖੉ੑ੓੏੠ੋ੉ਫ਼੍૔੉੖੖ਗ਼੣಑಑಑੊੡੥ਗ਼ਖ਼ੋਫ਼੎੍੓੠૔ੋਫ਼੎੍੓੠੓੠੠ਗ਼಑಑಑੉ੋੋਗ਼੡ਖ਼੠૔ੑ੓੢੎಑಑಑੟ਗ਼੘੎ੋਗ਼੡ਜ਼ਗ਼ਖ਼੟ࣶ䔵䶥 ڝस⮰ߔ҈ឫः㔱੒੎ਫ਼ಎᣔ≷䷄᎞䄎䬚ਗ਼ࢂ౦ᄥ᳼̬ຟ䶪჎⮰䬚䷄⮰㼏۟᫥ᐻા ಛ಑䔵䶥౳ͦह䃹ⴙ䄙ಎᵥᢚਸ੎੏੡ਖ਼੍੓ਖ਼ੑ૔ਪਫ਼੎੎੓ਖ਼੟੠੉੖੖੓ਖ਼ੑ૔ੑਗ਼ਗ਼੍੟੣੉ਫ਼ਫ਼੉ਖ਼੠੥૔ਧਗ਼੘ਜ਼੖੓੘੎ਖ਼੠੉ਫ਼੥੠੉੓੖ਗ਼ਫ਼੓ਖ਼ੑछ ᣔ≷䷄᎞䄎䬚ਗ਼ࢂ౦᣼Ӈ⮰䙹຃᰹ߍા じಙ૔ಛ䷄䔵䶥౳ͦह䃹ⴙ䄙ಎڟ䩚䃹䘩⊵ࣶ૤ᄥ䶪჎⮰фᘌ૔᰹ߍ૥ふ㶔䓪ಎじಚ䷄䔵䶥݅౳ᠳऽ૤ᄥ ᳼ѹຟท⮰ֆ∁૥૕ఌₐक़߇ᬢᏀ∔䛹ࡦܲԍᖛಞࢂ౦䲎ऽᝬᰵ䶪჎⮰ӯ䨬фᘌ਼ਹ̿ᄥ᳼ຟท⮰ֆ∁૕ ಪⰷ䔵䶥ู⣜䃹䶰≷ͧ䷄ಬ䔵䶥ู͙ࣹܦ⣜⮰倄䶽䃹䯲͙κ͐ㆧಞ̬૔̺ਗ਼ࢂ౦ᝬֆ≧ߔⰤڟ⮰䃹 䄙੉ਖ਼ਖ਼੓੢੎ਫ਼੟੉ਫ਼੥੟੉੖੎੟૔੣੎੎੕੎ਖ਼੍੟੉੖੎੟૔੟੉੖੎ಟθ૔̺ӯ䨬≧ߔᝂ᣼Ӈ᰹ߍⰤڟ⮰䃹䄙ਵਫ਼੓ੋ੎ਫ਼੎੍੡ੋ੠੓ਗ਼ਖ਼੟ಒਵਫ਼੓ੋ੎ ੉੍੔੡੟੠੘੎ਖ਼੠੟૔ਧਗ਼੡ਜ਼ਗ਼ਖ਼੟ಒਬ੓੢੎੟ਗ਼੘੎ੋਗ਼੡ਜ਼ਗ਼ਖ਼੟૔ਪਫ਼੎੎੍੎੖੓੢੎ਫ਼੥ಒਪਫ਼੎੎੓ਖ਼੟੠੉੖੖੓ਖ਼ੑ૕ऒโಎಚ䷄ᬺ᭪᭛̿䬔ᄥ᳼ѹຟ ทಉ੒੎ਫ਼ಊ㔸㼬૕ᩱᣔ᫙᱘᪳䄴ࣶ᳼̬",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+            "sourceText": "A)Mail a gift card to her. B) Fre installing of appliances. B) Allow her to buy on credit. C)Prolonged goods warranty. C)Credit it to her account. D)Give her some coupons. D)Compli",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q8",
@@ -121,8 +184,17 @@
             "C": "Prolonged goods warranty.",
             "D": "Complimentary tailoring."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】DCDAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q9",
@@ -134,8 +206,17 @@
             "C": "They have twenty-four different body shapes in total.",
             "D": "They represent people from virtually all walks of life."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】DCDAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q10",
@@ -147,8 +228,17 @@
             "C": "Their flat feet do not appeal to adolescents.",
             "D": "Their body shapes have not changed much."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】DCDAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q11",
@@ -160,8 +250,17 @@
             "C": "On the Internet.",
             "D": "At Barbie shops."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A)In toy stores. C) On the Internet. 【看选项关键词预测问题及听音重点】",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+            "sourceText": "A)In toy stores. C) On the Internet. 【看选项关键词预测问题及听音重点】",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q12",
@@ -173,8 +272,17 @@
             "C": "The earliest known book was published.",
             "D": "Metal type was imported from Korea."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CABBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q13",
@@ -186,8 +294,17 @@
             "C": "It helped the German people become literate.",
             "D": "It produced some 20 million volumes in total."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CABBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q14",
@@ -199,8 +316,17 @@
             "C": "It made writing a very profitable career.",
             "D": "It provided readers with more choices."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CABBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q15",
@@ -212,8 +338,17 @@
             "C": "It turned translation into a welcome profession.",
             "D": "It promoted the growth of national languages."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "Q15: What was the great cultural impact of printing? 【听话语标记词屏气凝神】 逻辑词、时间词等常用于引出重要信息或新/子话题，而这些往往就是潜在考点。如本篇，当听到 The earliest、year 868、the fifteenth century、year 1450 等时间标志时，应立马警觉本文涉及历史细节，可能考查时间与具体事件的匹配，并速记各个时间点分别对应的事件细节。 【听事件细节和动宾结构记取核心信息】【听关键词信息复现预勾选项】带着预览选项提取的关键信息、\"过去时间一某国一某事发生/某物出现\"和\"促进/削弱/改变等动作—动作对象\"的听音重点，听取材料、记录重要内容，并预勾完全复现原文信息的选项（12 题 A、C 项;13 题 B 项;14 题 B 项;15 题 D 项）。 【听内文关键词句勾勒文章脉络】 借助听力过程中记取的关于\"印刷术起源\"\"直接影响\"\"文化影响\"等核心内容可勾勒文章脉络。 【听题干问题回顾内容】（略） 文章脉络话语标记词核心信息 The earliest. . .868.. . the fifteenth century. . . Invention: ① The earliest printed book → （提示按时间顺序介绍印刷术的历史起源和发 12C)、China、868;②metal type、Korea、the I 印刷业的早展） fifteenth century;③ movable metal type→期发展历史 12A)、Germany、1450 but. .1450（预示将介绍印刷史上更重要的事件） 1.印刷术的 Industry:① Right from the start、capitalist printing from an invention intoan industry（提起源示引出印刷业） lines;② The biggest sixteenth-century printer 2.资本主义将 Right from the start. . sixteenth-cent",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CABBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q16",
@@ -225,8 +360,17 @@
             "C": "They become stuck in the same job for decades.",
             "D": "They choose a job without thinking it through."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "】D）。A）从 it's important to find ajob you like and feel enthusiastic about 主观反推\"毕业生工作一段时间后感到无聊\"，但这并非文中信息。B）利用常识\"毕业生找到工作需要一定时间\"干扰，但文中未提及相关信息。C）利用 stuck in ajobthey hate 干扰，但这仅是\"其中一部分人毕业生的处境（Many. . . For some. . . but others. .）\"并非题干所问（many college graduates）。D）符合Ⅱ段信息\"许多大学生毕业后，并不知道要如何度过自己的一生，并未认真考虑就找了份工作\"。choose ajob 对应文中的 get a job，without thinking it through 对应 without really thinking about it。 17.澳大利亚网站建议你在寻找合适工作时首先做什么? C）看一部关于找工作的电影。 A）观察是否有升职的机会。 B）弄清楚哪些工作在招人。 D）判断哪一个工作对你最有吸引力。 【设题要点】建议处（The site suggests）兼类比处（do the same with your career）。 【答案精析】B）。A）chances for promotion（升职机会）相关信息文中未提及。B）Find out what job choices areavailable 复现Ⅲ段 findout what jobs are available。C）对文中反复出现的 movie 一词断章取义∶文意实为\"将找工作与看电影类比（compares choosing a career with going to the movies）\"，并非让求职者真的去看电影。D）most attractive to you 确实是文中 decide which movie you like best 暗含之意， 但这是找工作的第二个步骤（Next），而非题目所问首个步骤（first）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+            "sourceText": "16. 发言者就\"很多大学毕业生\"说了什么? A）他们工作一段时间后感到无聊。 C）他们被困在同一份工作中长达数十年。 D）他们选择工作时没有认真考虑。 B）他们平均花费一年的时间找工作。 【设题要点】文章面向对象引出处（Many people graduate from school or colleg. . .）。 【答案精析】D）。A）从 it's important to find ajob you like and feel enthusiastic about 主观反推\"",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q17",
@@ -238,8 +382,17 @@
             "C": "Watch a film about ways of job hunting.",
             "D": "Decide which job is most attractive to you."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】DBABC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q18",
@@ -251,8 +404,17 @@
             "C": "The culture of your target company.",
             "D": "The work environment you will be in."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "】A）。A）The qualifications you have 是对原文就 So how do you start?进行回答的内容 have certain life experiences、have anyextra certificates. . . 等的高度概括。B）、C）、D）均为现实中求职时可能考虑的问题，但并非本文建议。 |四、听力词汇攻关· 工作相关词汇 ①job hunting 找工作 student/ Ph. D. student 博士生 ③available 【o'verlob1】 a. 可获得的，有空的 【联想】job interview 面试; contract n. 合同; 【搭配】readily/widely available 很容易获得 part-time/full-time job 兼职/全职工作; wage/ pay/salary n. 薪资;unemployment/layoff n. 失业， ④certificate 【s?'tifikot】n. 证书下岗 【联想】bachelor's/master's/ doctoral degree 学士/硕士/博士学位;diploma n. 毕业证书; ②graduate 【'gr?dsuot】 v. 毕业;n. 毕业生 credentials n. 证书，文凭 【联想】postgraduate n. 研究生;doctoral 20 非此店铺∶ 必有缺失认准淘宝店铺∶ 光速考研工作室 ਣਹਸ਼੅੉ਸਾ੄਼ਥ੎੅ჩ᝺㞮 ̬ઽक़ݹⰷϬʹ ಔಝ಑ਥಊਮ੠੓੟੉੟੓੘ਜ਼ਗ਼ਫ਼੠੉ਖ਼੠੉੟਒਽੉ਾ੊ੋ੃਴੊੏ਗ਼ਫ਼ਐ਺੉ਾਸ਼਴੄႗ਐ੃ਹ੉ਾਸ਼਴੄੊಑ ਦಊਮ੠੓੟੉ੋ੡੖੠੡ਫ਼੉੖਺ਹ੊ੋਾ੍਴ੁ੏ਗ਼੡ਖ਼੍੎੍੏ਗ਼ਫ਼ਐ਺੉ਾਸ਼਴੄႗ਐ੃ਹ੉ਾਸ਼਴੄੊಑ ਧಊਮ੠੓੟੉ਖ਼੉ਖ਼ੋ੓੎ਖ਼੠਺ਹ੊ੋਾ੍਴ੁੋ੎੖੎੊ਫ਼੉੠੎੍੊੥ਐ਺੉ਾਸ਼਴੄႗ਐ੃ਹ੉ਾਸ਼਴੄੊౹ ਨಊਮ੠੓੟੉ਫ਼੎੖੓ੑ੓ਗ਼੡੟਺ਹ੊ੋਾ੍਴ੁੋ੎੖੎੊ਫ਼੉੠੎੍੊੥ਐ਺੉ਾਸ਼਴੄႗ਐ੃ਹ੉ਾਸ਼਴੄੊಑ ಕಓ಑ਥಊ਺ਗ਼੡ਫ਼ੑ੎ਐ਺੉ਾਸ਼਴੄႗ਐ੃ਹ੉ਾਸ਼਴੄੊੠ਗ਼੍ਗ਼੘ਗ਼",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+            "sourceText": "18. 据澳大利亚网站，寻找合适的工作时你应该考虑什么? C）你目标公司的文化。 A）你拥有的资历。 D）你未来的工作环境。 B）你将会获得的薪水。 【设题要点】\"设问-回答\"处（So how do you start? Begin by. . can also. . .）。 【答案精析】A）。A）The qualifications you have 是对原文就 So how do you start?进行回答的内容 have certain li",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q19",
@@ -264,8 +426,17 @@
             "C": "It is an ancient festival celebrated by African-Americans.",
             "D": "It is a religious festival celebrated by African-Americans."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "】 B）。A）文中并未提及圣诞节，更未将其重要性与圣诞节重要性相比较。B）符合音频开头信息\"宽扎节是一个文化节日，节日期间非裔美国人将庆祝并重温自己丰富的文化遗产（acultural festival during which African-American celebrate and. .）\"。C）与Ⅱ段\"宽扎节是卡伦加博士于 1966 年设立的新节日\"语义相反。D）文中并未提到宽扎节是\"宗教节日\"。 20.卡伦加博士出于什么目的设立了这个特殊节日? C）帮助非裔美国人实现他们的目标。 A）敦促非裔美国人为社会做更多事情。 D）使非裔美国人想起他们的苦难。 B）呼吁非裔美国人敬奉他们的神。 2.3 非此店铺∶ 必有缺失认准淘宝店铺∶光速考研工作室 ૓૓ಪ䃪䷄㺭◥ಬ᫜ᅮ⁍ᐬज़ะಉਰ੣੉ਖ਼੦੉੉੣੉੟੏ਗ਼੡ਖ਼੍੎੍ಊڨ䪫䯪ऑะಉじθ⃡ಊ૕ ಪむᵴ㇪᲼ಬ਒౲ાਥಊ૔ਦಊ͙᪳Ꭲ᱖᣼ࣶಞ͙᪳᱖⊵ࣶࢍђߌࢆทጸ᱇䲊㸀㒺఩Ϧͦ⹪цᰠๆ౜Є ܦ૔ᝂጸ᱇ЂИ᪘๵⺊□૕ਧಊげऴ͙᪳ԍᖛ૤ࢍђߌࢆทⰤԍಎ̬͖➥ݗ⮰㞮ᬑ㘩ፚߕ䲊㸀㒺఩Ϧ䓪᜼ ૢᲰᐦ⽟దტᏙ૔β㼏᱘᫻ࢲञ૔Ꭲᒎ᜼ఎ㏿ͷᙋૣ⮰Ⱊᴳ૥૕਺ਗ਼੒੎੖ਜ਼಑಑಑੠ਗ਼ਫ਼੎੉੖੓੦੎੠੒੎੓ਫ਼ੑਗ਼੉੖੟Ắ᠘ఊ⃡ ੘੎੎੠੠੒੎੓ਫ਼ੑਗ਼੉੖੟ਗ਼੏಑಑಑૕ਨಊ⩝ఊ⃡૤ࢍђߌጸ᱇䲊㸀㒺఩Ϧβ㼏᱘᫻ࢲञ૥㛲᫙ܦ૤ࢍђߌጸ᱇䲊㸀㒺఩ Ϧ̹ᔄ䓳ࣧ㠒䯪૥૕ ౽౼಑્ჩ᝺૎䔅͖䃹Ϭʹᘻᕉ಍ ਥಊ⠘⿷㜖ͧ⮰ԍᔡ૕ ਧಊఎ㏿সऴ҈㏻≺૕ ਦಊᩢޞ⮰じ̬ឥ᳈჊૕ ਨಊ݇᫜ᕓ጑҈স᜼ᅝ૕ ૓૓ಪ䃪䷄㺭◥ಬڟ䩚䃹ಒ䊱㏞䃹䛶͵ะಉਰ੣੉ਖ਼੦੉੉੓੟੉಑಑಑੣ਗ਼ਫ਼੍੘੎੉ਖ਼੓ਖ਼ੑ಑಑಑಑ಊ૕ ಪむᵴ㇪᲼ಬ਑౲ાਥಊ૔ਧಊ૔ਨಊ౳⎼㜖ఏ⃡ჩ᝺㞮⮰̯䶥۲݅ಎᎢ䲊૤ჩ᝺૥⮰ॗ͵૕ਦಊู⣜ఌ⃡ԍᖛ ਰ੣੉ਖ਼੦੉੉੓੟੉಑಑಑੣ਗ਼ਫ਼੍੘੎੉ਖ਼੓ਖ਼ੑ૤੠੒੎੏੓ਫ਼੟੠੏ਫ਼੡੓੠੟ਗ਼੏੠੒੎੒੉ਫ਼੢੎੟੠૥૕ ಪឬጓ㶑ٱಬਥಊ૔ਧಊ૔ਨಊ̵䶥౔䴟䶽͙Б㒃݃⮰᫥ᐻܦ⣜ಎᏀᆊस̬㏰ԍᖛಎ㔸むᵴख㘩ᰵ̬͖ಎఌ ₐछᔗ䕋⶚჆ਦಊͦむᵴ૕ ౽౽಑ჩ᝺㞮Ꮂ⺉≧ߔ͙౶⃻◥⛯̬ᵥ㱍☇౶ϦИ䘩ֆϬʹ಍",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+            "sourceText": "19. 关于宽扎节，说话者说了什么? C）它是非裔美国人庆祝的古老节日。 A）它对于非裔美国人同圣诞节一样重要。 D）它是非裔美国人庆祝的宗教节日。 B）它是为非裔美国人设立的文化节日。 【设题要点】文章开头处兼主题揭示处（Kwanzaa is）。 【答案精析】 B）。A）文中并未提及圣诞节，更未将其重要性与圣诞节重要性相比较。B）符合音频开头信息\"宽扎节是一个文化节日，节日期间非裔美国人将庆祝并重温自己丰富的文化遗产（acultural festival during which African-Am",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q20",
@@ -277,8 +448,17 @@
             "C": "To help African-Americans to realize their goals.",
             "D": "To remind African-Americans of their sufferings."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】DBABC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q21",
@@ -290,8 +470,17 @@
             "C": "Unity and cooperative economics.",
             "D": "Creative work and achievement."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】BAACD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q22",
@@ -303,8 +492,17 @@
             "C": "They drink wine from the unity cup.",
             "D": "They call out their ancestors’ names."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A)They recite a principle.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+            "sourceText": "A)They recite a principle.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q23",
@@ -316,8 +514,17 @@
             "C": "It began to impact the world in recent years.",
             "D": "It consists mainly of various kinds of seafood."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】BAACD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q24",
@@ -329,8 +536,17 @@
             "C": "It is regarded as one of the greatest researches of its kind.",
             "D": "It has drawn the attention of medical doctors the world over."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "到关于\"七国研究\"的什么信息? C）它被视为同类研究中规模最大的。 A）1.3 万名来自亚、欧、美洲的研究者参与了它。 D）它已引发了全世界医学博士的关注。 B）它于 20 世纪 50 年代在七个中东国家实施。 【设题要点】研究地位标示处（it is considered. . .）。 【答案精析】C）。A）将Ⅳ段中\"13000 名受试者\"（13，000 men in Grece. .）偷换为\"13000 名研究者\"。B）将研究所涉地区\"欧、亚、美多国（Greece，Italy. . . .）\"偷换为地中海饮食分布地区之一的\"中东国家（Middle Eastern countries）\"。注∶研究名为\"七国研究\"，却列举了欧亚美八国，原因在于当时南斯拉夫未解体，Croatia 和 Serbia 同属一国。C）符合Ⅳ段中信息\"七国研究被认为同类研究中规模最大的之一\"。is regarded as one of the greatest researches of its kind 与原文 is considered one of the greatest studies of its kind 同义。D）将Ⅳ段\"引发全球关注\"的主体\"地中海饮食\"偷换为\"七国研究\"。 25.从\"七国研究\"中，我们可以了解到关于地中海人的什么信息? C）他们烹饪时极少用油。 A）他们很关心自身健康。 D）他们死亡率更低。 B）他们吃脂肪含量极低的食物。 【设题要点】具体说明研究结论处（It concluded that. . .）。 【答案精析】D）。A）文中并未提及地中海人对自身健康的态度。B）将 IV 段研究结论\"地中海饮食脂肪含量和其他饮食一样高、甚至更高\"曲解为与之相反的\"地中海人的食物脂肪含量极低\"。C）将 IV 段\"地中海烹饪使用的饱和脂肪较少，不饱和脂肪较多，且主要是橄榄油\"中包含信息\"地中海人烹饪主 27 非此店铺∶ 必有缺失认准淘宝店铺∶光速考研工作室 㺭⩔ὰẰ⇥૥ᰞ㼏ͦ૤ЂИ☥亖ᬢᲭᄽ⩔⇥૥૕ਨಊげऴఏ⃡ԍᖛ૤̯఩ⵀ⾢㶔ᬺಎ౜͙⊣౜ࡦरᎠ咰⃡Ϧ 㓐͙ಎᗏरㆧ⫪⫱₧ύ⮰Ắ⢳䘩℀ڢЂ㏰Ѻ૥ಎ੒੉੢੎੖ਗ਼੣੎ਫ਼",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+            "sourceText": "24. 我们可以了解到关于\"七国研究\"的什么信息? C）它被视为同类研究中规模最大的。 A）1.3 万名来自亚、欧、美洲的研究者参与了它。 D）它已引发了全世界医学博士的关注。 B）它于 20 世纪 50 年代在七个中东国家实施。 【设题要点】研究地位标示处（it is considered. . .）。 【答案精析】C）。A）将Ⅳ段中\"13000 名受试者\"（13，000 men in Grece. .）偷换为\"13000",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q25",
@@ -342,8 +558,17 @@
             "C": "They use little oil in cooking.",
             "D": "They have lower mortality rates."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】BAACD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -373,62 +598,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】CDKIG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】CDKIG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】CDKIG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】CDKIG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】CDKIG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】FLNAJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】FLNAJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】FLNAJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】FLNAJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】FLNAJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -442,71 +757,161 @@
           "id": "q36",
           "number": 36,
           "stem": "Online services are so designed that the more they are used, the more profit\nthey generate.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】ELIOB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "The author admits using technology as an escape from the task at hand.",
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】ELIOB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "Checking phones at dinners is now accepted as normal but not belching.",
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】ELIOB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "To make proper use of technology, we should not only increase our\nawareness of how it is changing but also how it is impacting us.",
-          "answer": null,
-          "explanation": ""
+          "answer": "O",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】ELIOB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "Most of us find it hard to focus on our immediate tasks because of Internet\ndistractions.",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】ELIOB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "When one person starts checking their phone, the others will follow suit.",
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】JFDLG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "The great majority of smartphone users don' t take the trouble to adjust their\nsettings to suit their own purposes.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】JFDLG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "The Internet is regarded by some as designed to distract our attention.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】JFDLG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "The author attributes his tech addiction chiefly to his habit of putting off\ndoing what he should do right away.",
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】JFDLG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "White-collar workers check email round the clock because it is required by\ntheir employers.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】JFDLG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -529,8 +934,17 @@
                 "C": "He became notorious because of the coca drink he developed.",
                 "D": "He risked breaking local law to make a drink with coca leaves."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "到什么? A) He used a strangely potent ingredient in a ood A）他在保健食品中使用了一种有奇特效力的成分。 Suppement. B)He created a drink containing alcohol without B）他创造了一种含酒精饮品而没有违反法律。 breaking law. C) He became notorious because of the coca drink C）他因自己开发的古柯饮品而声名狼藉。 he developed. D)He risked breaking local law to make a drink D）他冒着违法风险用古柯叶制作饮品。 with coca leaves. 【精准定位】本题就\"药剂师约翰·彭伯顿（chemist John Pemberton）\"设题，可定位至首段②③句 (chemist John Pemberton. . . Pemberton's. . . )。 【锁定答案】D）。两句指出彭伯顿未按照当时流行的古柯饮品配方搭配葡萄酒制作成滋补品、而搭配糖浆调制成甜酿，以规避当地酒精销售禁令。可见，彭伯顿在用古柯叶调制饮品过程中实际面临违法风险，而他巧借糖浆替换葡萄酒的方法规避了这一风险。正确项 D 是对 Pemberton'ssweet brew was a way to get around local laws 的正确解读。 「排除干扰】A 项复现首段末句 strangely potent，却将 in the drink/sweet brew（=Coca-Cola）偷换为 in a food supplement。B 项 containing alcohol\"含酒精\"与②句 mixed with his sugary syrup\"与糖浆混合\"、③句 get around locallaws prohibiting the sale of alcohol\"避开酒精禁售令\"相悖。C 项 notorious 复现末句 infamous，但该词意在说明的\"可卡因因其令人成瘾而声名狼藉",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "B）他创造了一种含酒精饮品而没有违反法律。 breaking law. C) He became notorious because of the coca drink C）他因自己开发的古柯饮品而声名狼藉。 he developed. D)He risked breaking local law to make a drink D）他冒着违法风险用古柯叶制作饮品。 with coca leaves. 【精准定位】本题就\"药剂师约翰·彭伯顿（chemist John Pemberton）\"设题，可定位至首段②③句 (chemist John Pemberton. . . Pemberton's.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -542,8 +956,17 @@
                 "C": "Many were shipped to Europe in the late 19th century for medicinal use.",
                 "D": "They were strange to the Europeans when first imported from West Africa."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "47. 关于可乐果，这篇文章讲了什么? A) Their commercial value was first discovered by A）它们的商业价值由葡萄牙殖民者最早发现。 Portuguese settlers. B）它们包含其他任何食物中都没有的某种精 B) They contain some kind of energy boost not found 力提振成分。 in any other food. C) Many were shippd to Europe in the late 19thC）许多在 19 世纪末被运往欧洲以供药用。 century for medicinal use. D）它们最初由西非进口时，于欧洲人十分 D) They were strange to the Europeans when first 陌生。 imported from West Africa. 【精准定位】本题就\"可乐果（kola nuts）\"设题，可定位至第二至五段。 「锁定答案】C）。第五段首两句即指出 19 世纪末大量可乐果被运往欧洲和美国，其中许多可乐果入了药。C 项是 kola nuts were being shipped. . . to Europe. . . Many made their way into medicines 的同义改写。 「排除干扰】A 项源自第四段②句 the Portuguese took part in the trade，却忽略 took part in 所传递出的\"商业贸易早在葡萄牙人之前就已存在\"以及第三段末句 traders carried them. . . 所传递出的\"西非商人才是可乐果商业价值的最早发现者\"。B 项与第二段\"茶、咖啡和巧克力中亦有咖啡因\"、第五段③句\"精力提振型药饮维·马里亚尼配方为古柯和红葡萄酒/不含可乐果\"相悖。D 项将第四段② 句后半句\"1620 年英国探险家乔布森初见可乐果的态度\"泛化为\"欧洲人整体态度\"，而由该句前半句 \"葡萄牙人（1500s-1620 年间）参与可乐果贸易活动\"可知\"乔布森个人无法代表欧洲人整体\"。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "Portuguese settlers. B）它们包含其他任何食物中都没有的某种精 B) They contain some kind of energy boost not found 力提振成分。 in any other food. C) Many were shippd to Europe in the late 19thC）许多在 19 世纪末被运往欧洲以供药用。 century for medicinal use. D）它们最初由西非进口时，于欧洲人十分 D) They were strange to the Europeans when first 陌生。 imported from",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -555,8 +978,17 @@
                 "C": "Fountains were set up to sell them.",
                 "D": "Rights were sold to bottle the soda."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "48. How come kola-extract colas became popular? 来的? A）可卡因已变得声名狼藉。 A) Cocaine had become notorious. B）含酒精的饮品被禁。 B) Alcoholic drinks were prohibited. C）冷饮柜设立以售卖它们。 C) Fountains were set up to sell them. D）装瓶权被售出。 D)Rights were sold to bottle the soda. 【精准定位】本题就\"含可乐果萃取物可乐（kola-extract colas）的流行原由\"设题，可定位至第五段⑥ 句（When. . . kola-extract colas became popular）。 【锁定答案】A）。该句指出\"当可卡因作为一种饮料成分最终失宠时，含可乐果萃取物的可乐流行起来\"，可见，\"可卡因声名不再\"促成了\"（功效相当的）可乐果饮料——可乐\"的流行。正确项 A 是 5.0 非此店铺∶必有缺失认准淘宝店铺∶光速考研工作室 ੋਗ਼ੋ੉੓ਖ਼੎੎੢੎ਖ਼੠੡੉੖੖੥੏੎੖੖੏ਫ਼ਗ਼੘ੑਫ਼੉ੋ੎⮰स͵ᩥۅ૕ ಪᢾ䮐᎞វಬਦ䶥㮩ู⣜仂⃡௵ऑਜ਼ਫ਼ਗ਼੒੓੊੓੠੓ਖ਼ੑ੠੒੎੟੉੖੎ਗ਼੏੉੖ੋਗ਼੒ਗ਼੖ಎࢠむ䲊ᝬ䬚ಎᄲ䷄᎞ᝬ䬚૤छͼຮҁ≭ 㵸૥֣ᢎͦ૤छͼຮҁ䄊⩋૥૕ਧ૔ਨ䶥ܲݗู⣜じڙ⃡௳ऑ੏ਗ਼੡ਖ਼੠੉੓ਖ਼੟੣੒੎ਫ਼੎੓੠੣੉੟੟ਗ਼੖੍૔௴ऑ੟ਗ਼੖੍ਫ਼੓ੑ੒੠੟੠ਗ਼ ੊ਗ਼੠੠੖੎੠੒੎੟ਗ਼੍੉ಎࢠᑦ៵ఌ᳈ڟ㖀ಎ㔸૤䃪⿷ۣ亚ᴈ૥૔૤ਗ਼ࢂ⨢㷱ᱯ૥̺૤छͼ≭㵸૥ᎢᬌⰠᣑఌ᳈ڟ㖀૕ ಪ᣼◨ᕉ䌛ಬ᱘䷄ͦఌ᳈ڟ㈧㏲㞮䷄ಎ䷄Ⱊ㮩ᬿκ჆ѹಎѲ䩅䄛䶥᎞វ䒯๓ಎ㼏䷄䰬ಞ̬૔∔ᘻݐݗๆ ㏰Ⱔڟڟ㈧ಉਦ䶥᭛छͼ̹ॗ䙾㇪⮰࣋ఌಎ㔸䲊छͼ≭㵸⮰࣋ఌಊಟθ૔∔ᘻࡦܲ䬠ᣑᣔߔᕓఌ㉌সͧ㺭 ۟჆ᕓఌ㉌ಉじπ⃡௸ऑਾ੒੎ਖ਼಑಑಑੕ਗ਼੖੉Ⴑ੎੤੠ਫ਼੉ੋ੠ੋਗ਼੖੉੟੊੎ੋ੉੘੎ਜ਼ਗ਼ਜ਼੡੖੉ਫ਼ᬺ⶚૤छࢍఌͦϦ䄋⫱૥᭛छͼᓃ Б≭㵸⮰Ⱐᣑఌ㉌ಎ㔸૤ᄻࢂ䘔ਗ਼ࢂछͼ૥স૤㷱⨢ᱯܦਗ਼૥䘩᭛छͼ⌼䊷≭㵸⮰ᣔߔᕓఌ㉌ಊ૕ ఒ᧑਺੒੎੏",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "48. How come kola-extract colas became popular? 来的? A）可卡因已变得声名狼藉。 A) Cocaine had become notorious. B）含酒精的饮品被禁。 B) Alcoholic drinks were prohibited. C）冷饮柜设立以售卖它们。 C) Fountains were set up to sell them. D）装瓶权被售出。 D)Rights were sold to",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -568,8 +1000,17 @@
                 "C": "It has become more popular among the old.",
                 "D": "It has remained virtually unchanged since its creation."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DCADA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q50",
@@ -581,8 +1022,17 @@
                 "C": "The success story of Coca-Cola.",
                 "D": "The business strategy of Coca-Cola."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "答需综合全文信息，故应定位全文。 【锁定答案】A）。首段先由\"Coca-Cola 的名字组成\"引出\"可乐果\"，随后第二至五段以可乐果为线介绍了可口可乐的诞生，最后第六、七段则以可乐果口味为轴阐释了可口可乐的经典永留存。可见，全文实则围绕\"可口可乐的诞生、成长\"展开。正确项 A 是对全文时间链条（until the 1500s.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "50. What is the passage mainly about? A）可口可乐的演变。 A) The evolution of Coca-Cola. 52 非此店铺∶必有缺失认准淘宝店铺∶光速考研工作室 ਦಊ਺੒੎੟੡ੋੋ੎੟੟੟੠ਗ਼ਫ਼੥ਗ਼੏ਧਗ਼ੋ੉Ⴑਧਗ਼੖੉಑ ਦಊछएछͼ⮰᜼ߋᩱη૕ ਧಊ਺੒੎੘੎੍੓ੋ੓ਖ਼੉੖੢੉੖੡੎ਗ਼੏ਧਗ਼ੋ੉Ⴑਧਗ਼੖੉಑ ਧಊछएछͼ⮰㢛⩔Уը૕ ਨಊ਺੒੎੊੡੟੓ਖ਼੎੟੟੟੠ਫ਼੉੠੎ੑ੥ਗ਼",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -600,8 +1050,17 @@
                 "C": "There was a clear divide between large and small cities",
                 "D": "They were places where large investment capital flowed."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "为\"与城市繁荣度有关\"。D 项复现首段②句 investment capital flows，却漏掉关键信息 shifted，即将文意\"投资资本流动变化\"单向篡改为\"大量投资资本流入\"。 【提炼思路】开篇今昔对比处常为题点所在，可分别就\"今\"、\"昔\"设题，解题关键是根据时间链条划分今昔意群，然后借助语法知识、用词手法或逻辑词等来确定所考意群（今/昔）主旨。如本题，首先根据首两段 Twenty years ago、In recent years 时间链条可推断本题答题关键在于了解首段主旨，而借助段 5A 非此店铺∶ 必有缺失认准淘宝店铺∶光速考研工作室 ͙䄙͵ู⣜ಉ੠੒੓੟੊੉੟੓ੋ੍੓੢੓੍੎ู⣜੍੎੏੓ਖ਼੎੍੠੒੎੠੣ਗ਼੠੥ਜ਼੎੟ਗ਼੏ੋ੓੠੓੎੟಑಑಑ಎ䛹ู࢟䛹◥ಊछᣔⴑ᪳ᘻ䛹◥౔૤͐ ㆧ೺ጮㆧಷ⮰⌱ᮜ⩸჆૔䔅⻹ጚᐮᲭͦᵥ᱘ಒദ᱘૥ಎᩱ㔸䨭჆ਧ䶥ಟਥ૔ਦ૔ਨ䶥㮩ู⣜͖ݗ䃹ಉ੍੓੢੓੍੎੍૔ ੒ਗ਼੡੟੓ਖ਼ੑਜ਼ਫ਼੓ੋ੎੟૔ ੓ਖ਼੢੎੟੠੘੎ਖ਼੠ੋ੉ਜ਼੓੠੉੖੏੖ਗ਼੣੟ಊಎѲ䔅χ䃹͙䮐β ਥ䶥੍੓੢੓੍੎੍㘩ッᓃ̶᭛ͧᬔ͙⮰䘔ܲԍᖛͷ โಎڢЂ䃹౳̺ͧᬔԍᖛᬌڟಎ̀ႯИ౳⌧ߌβ᫜⮰ԍᖛಉਫ਼੎੟੓੍੎ਖ਼੠੓੉੖੉ਖ਼੍੊੡੟੓ਖ਼੎੟੟੉ਫ਼੎੉੟૔੖੓ਖ਼੕੎੍੣੓੠੒಑಑಑ ਜ਼ਫ਼ਗ਼੟ਜ਼੎ਫ਼੓੠੥૔੣੒੎ਫ਼੎੖੉ਫ਼ੑ੎಑಑಑੏੖ਗ਼੣੎੍ಊಎᩱᢾ䮐૕ ఊ᧑ਮਖ਼ਫ਼੎ੋ੎ਖ਼੠੥੎੉ਫ਼੟ಎ੘੉ਖ਼੥੘੓੍Ⴑ੟੓੦੎੍ੋ੓੠੓੎੟੒੉੢੎੊੎ੑ੡ਖ਼ ੠ਗ਼੉੍ਗ਼ਜ਼੠੉੃ਾਸਸੁਹ႗੅਺႗ੋ਽ਹ႗੉੅਴ਸ ௳੉ਜ਼ਜ਼ਫ਼ਗ਼੉ੋ੒੓ਖ਼ੋਗ਼ਫ਼ਜ਼ਗ਼ਫ਼੉੠੓ਖ਼ੑ੠੒੎ ੎੤ੋ੓੠੎੘੎ਖ਼੠੉ਖ਼੍ਗ਼ਜ਼ਜ਼ਗ਼ਫ਼੠੡ਖ਼੓੠੥ਗ਼੏੖੉ਫ਼ੑ੎ੋ੓੠੓੎੟੣੓੠੒੟੘੉੖੖ੋ੓੠੓੎੟ሀ ੜ੡੓੎੠੉੏੠੎ਫ਼੘੓੍ਖ਼੓ੑ੒੠಑ ಘಕ᧒਺੒੎੟੎ಔಛႱ੒ਗ਼੡ਫ਼ੋ੓੠੓੎੟੉ਫ਼੎ ੊੎ੑ੓ਖ਼ਖ਼੓ਖ਼ੑ੠ਗ਼੃਴ੀਹ੎਴੍ਹ੊ ௴੓ਖ਼ਫ਼੎੉੖੎੟੠੉੠੎ਫ਼੉ਖ਼੕੓ਖ਼ੑ੟੉ਖ਼੍੉੠੠ਫ਼੉ੋ੠ ੘ਗ਼ਫ਼੎ਫ਼੎੉੖੎੟੠੉੠੎੓ਖ਼੢੎੟੠੘੎ਖ਼੠಑᦬ਾ੒੉੠੓੟ੌ੄ਸਹ੉ੁ੐ਾ੄਼ ௵੠੒੓੟ ਖ਼੎੣੘ਗ਼੢੎੘੎ਖ਼੠੓ਖ਼ਫ਼੎੉੖੎੟੠੉੠੎ಎ",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "divided into residential and business areas. B) Their housing prices were linked with their prosperity. B）它们的房价和繁荣程度有关。 C）大、小型城市之间界限分明。 C) There was a clear divide between large and small ities. D）它们是大批投资资本流入的地方。 D)They were places where large investment capital flowed. 【精准定位】本题询问美国城市 20 年前情况（. . . Ameri",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -613,8 +1072,17 @@
                 "C": "They have replaced quiet with excitement.",
                 "D": "They have changed America's landscape."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "题且保证一定准确率。 61 非此店铺∶ 必有缺失认准淘宝店铺∶光速考研工作室 ਠ਴੉ੋਙਧ૓ਥ੉਴੄੊ੁ਴ੋਾ੅੄ ๖⎂ ̬ઽ࣮㔯䃽᪳ ਱੉੕੎਺੉੓੓੟੉੏ਫ਼੎੟੒੣੉੠੎ਫ਼੖੉੕੎੖ਗ਼ੋ੉੠੎੍੓ਖ਼੠੒੎੎੉੟੠ਗ਼੏ਧ੒੓ਖ਼੉಑ਾ੓੠੒੉ਖ਼੉ਫ਼੎੉ਗ਼੏ಕಎಕಘಓ੟ੜ੡੉ਫ਼੎੕੓੖ਗ਼੘੎੠੎ਫ਼੟ಎ ੓੠੓੟੠੒੎੠੒੓ਫ਼੍Ⴑ੖੉ਫ਼ੑ੎੟੠੏ਫ਼੎੟੒੣੉੠੎ਫ਼੖੉੕੎੓ਖ਼ਧ੒੓ਖ਼੉ಎ੉੏੠੎ਫ਼ਵਗ਼੥੉ਖ਼ੑ੉ਖ਼੍ਨਗ਼ਖ਼ੑ੠੓ਖ਼ੑ಑਺੒੎੖੉੕੎੒ਗ਼੡੟੎੟੉੊ਗ਼੡੠ಝಓ ੓੟੖੉ਖ਼੍੟ಎਫ਼੉ਖ਼ੑ੓ਖ਼ੑ੓ਖ਼੟੓੦੎੏ਫ਼ਗ਼੘੉੏੎੣੟ੜ੡੉ਫ਼੎੘੎੠੎ਫ਼੟੠ਗ਼੟੎੢੎ਫ਼੉੖੟ੜ੡੉ਫ਼੎੕੓੖ਗ਼੘੎੠੎ਫ਼੟಑਺੒੎੖੉੕੎੓੟੏੉੘ਗ਼੡੟੏ਗ਼ਫ਼੓੠੟ ੡ਖ਼੓ੜ੡੎૤਺੉੓੒੡੟੠ਗ਼ਖ਼੎੟૥ಎ੣੒੓ੋ੒੉ਫ਼੎ਗ਼੏੠੎ਖ਼੡੟੎੍੉੟੉੍੎ੋਗ਼ਫ਼੉੠੓ਖ਼ੑ੘੉੠੎ਫ਼੓੉੖੏ਗ਼ਫ਼੠ਫ਼੉੍੓੠੓ਗ਼ਖ਼੉੖ਧ੒੓ਖ਼੎੟੎ੑ੉ਫ਼੍੎ਖ਼੟಑ਮ੠ ੓੟੉੖੟ਗ਼੕ਖ਼ਗ਼੣ਖ਼੏ਗ਼ਫ਼੓੠੟ਜ਼ਫ਼ਗ਼੍੡ੋ੠੓੢੎੏੓੟੒੓ਖ਼ੑ੓ਖ਼੍੡੟੠ਫ਼੥಑ਹ੓ਖ਼ੋ੎੠੒੎੖੉੠੎ಔಝಚಓ੟ಎ੒੉ਫ਼੢੎੟੠੓ਖ਼ੑ੏ਗ਼ਗ਼੍ਜ਼ਫ਼ਗ਼੍੡ੋ੠੟੟੡ੋ੒੉੟ ੏੓੟੒੉ਖ਼੍ੋਫ਼੉੊੟੒੉੟੊੎੎ਖ਼੓ਖ਼੢੉੖੡੉੊੖੎੠ਗ਼ਜ਼੎ਗ਼ਜ਼੖੎੖੓੢੓ਖ਼ੑ੉੖ਗ਼ਖ਼ੑ੠੒੎੖੉੕੎੉ਖ਼੍੒੉੟ੋਗ਼ਖ਼੠ਫ਼੓੊੡੠੎੍੟੓ੑਖ਼੓੏੓ੋ੉ਖ਼੠੖੥੠ਗ਼੠੒੎ ੎ੋਗ਼ਖ਼ਗ਼੘੥ਗ਼੏੠੒੎੟੡ਫ਼ਫ਼ਗ਼੡ਖ਼੍੓ਖ਼ੑ੉ਫ਼੎੉಑਺੒੎੖੉੕੎ਫ਼੎ੑ੓ਗ਼ਖ਼੓੟੒ਗ਼੘੎੠ਗ਼ਗ਼ਖ਼੎ਗ਼੏੠੒੎ੋ੎ਫ਼੉੘੓ੋ੟Ⴑ੓ਖ਼੍੡੟੠ਫ਼੥੊੉੟੎੟੓ਖ਼ਧ੒੓ਖ਼੉ಎ ੓ਖ਼ੋ੖੡੍੓ਖ਼ੑ੠੒੎ੀ੓੤੓ਖ਼ੑਜ਼ਗ਼੠੠੎ਫ਼੥Ⴑ੏੉ੋ੠ਗ਼ਫ਼੥ಎ੣੒੓ੋ੒ਜ਼ਫ਼ਗ਼੍੡ੋ੎੟੠੒੎੣ਗ਼ਫ਼੖੍Ⴑਫ਼੎ਖ਼ਗ਼੣ਖ਼੎੍ੀ੓੤੓ਖ਼ੑੋ੖੉੥੠੎੉ਜ਼ਗ਼੠੟಑ θઽ㇪᲼㇪䃽 ౼౹௜๖⎂᭛͙఩͈䘔⮰̬͖⌍Ⅰ⎂౶௝ࢌ౜䲎⼛౽౽ಀ౻᎟᫥ژ䛸౶᭛͙఩じ̵๓⌍Ⅰ⎂౶ϱ⁍κ䙝䭟 স≊Ꮩા ಪ䃹ⅳ۲ ำಬ⌍Ⅰ⎂੏ਫ਼੎੟੒੣੉੠੎ਫ਼੖੉੕੎ಇ䲎⼛੉ਫ਼੎੉ಇ੟੓੦੎ಇ᎟᫥ژ 䛸੟ੜ੡੉ਫ਼੎੕੓੖ਗ਼੘੎੠੎ਫ਼੟ಇじ̵ ๓౱⮰౲੠੒੎ ੠੒",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "he passage about 18- 52.关于 18 小时城，从文章中能推断出什么? hour cities? A）它们对小公司的吸引特别大。 A)They especially appeal to small businesses. B）它们见证了房产价格的上涨。 B) They have seen a rise in property prices. C）它们用刺激代替了安静。 C) They have replaced quiet with excitement. D）它们改变了美国风貌。 D) They have changed America's landscape. 【精准定位",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -626,8 +1094,17 @@
                 "C": "Exhibited no signs of prosperity.",
                 "D": "Looked deserted in the evenings."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "53. Years ago, many downtown cores in small to mid- 53.多年以前，许多中小型城市的市中心区域 sizedcities A)had hardly any businss ctivity A）几乎没有任何商业活动 B）在营业时间很拥挤 B) were crowded in business hours C）没有任何繁荣的迹象 C) exhibited no signs of prosperity D）晚上看起来很荒凉 D) looked deserted in the evenings 【精准定位】本题询问中小型城市市中心以前的情况（Years ago、downtown cores in small to mid-sized cities），可定位至第三段②句（For decades，many downtown cores in small to mid-sized cities were. . .）。 【锁定答案】D）。定位句指出∶几十年来，很多中小城市一到下班时间就被居住在郊区的上班族离弃;随后两句进一步做出说明∶下班后撤离市中心现象很普遍、市中心留住的多是没有经济能力的穷忙族，从而造成市中心晚间几乎没有什么商业娱乐活动。由此可知，很多中小型城市的市中心原来一到晚上就生意萧条，荒无人烟。正确项 D 是对 were abandoned after work hours 和 little commerce for downtown businesses in the evenings 的综合概括。 57 非此店铺∶ 必有缺失认准淘宝店铺∶光速考研工作室 ಪᢾ䮐᎞វಬਥ૔ਧ䶥ⰷѨ̬͖ᰠ⾰ಉ੊੡੟੓ਖ਼੎੟੟ಊ૔̬͖ᰠჩಉਜ਼ਫ਼ਗ਼੟ਜ਼੎ਫ਼੓੠੥ಊಎѲ჊䭱౳ᠳऽ૤㏻≺⟢ۡ૥ಎ΋ ࢟͐㔱ᩪ㒚͙᪳჊䭱ᠳऽⰤस૔ጚᐮᒴᄻಎ͐䶥㮩䘩ู⣜੖੓੠੠੖੎ੋਗ਼੘੘੎ਫ਼ੋ੎ͷᘻಎࢠ␻ᢵڟ䩚ԍᖛ੓ਖ਼੠੒੎ ੎੢੎ਖ਼੓ਖ਼ੑ੟૕ਦ䶥ੋਫ਼ਗ਼੣੍੎੍ᒴᬺ᭪̺੖੓੠੠੖੎ੋਗ਼੘੘੎ਫ਼ੋ੎Ⱔ㗸㔸侜૕ ಪ᣼◨ᕉ䌛ಬ᱘䷄सಘಔ䷄ಎᅝ૤ᭀಒᬓ૥䃪㒚㔯◥૕㼏䷄छ䛳ं̺ͷⰤѨᕉ",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "sinss ctivity A）几乎没有任何商业活动 B）在营业时间很拥挤 B) were crowded in business hours C）没有任何繁荣的迹象 C) exhibited no signs of prosperity D）晚上看起来很荒凉 D) looked deserted in the evenings 【精准定位】本题询问中小型城市市中心以前的情况（Years ago、downtown cores in small to mid-sized cities），可定位至第三段②句（For decades，many downtown cores in small to m",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q54",
@@ -639,8 +1116,17 @@
                 "C": "Modernized housing and improved infrastructure.",
                 "D": "More comfortable life and greater upward mobility."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "答特点题需∶1.比对选项与原文、刨除原文重合信息、明确选项语义重点∶通常而言，语义重点在核心名词信息（如 A 项 sudden emergence、B 项 Flooding in）、核心形容词信息（如 C 项 Modernized、improved，D 项 More comfortable、greater upward）;2.将语义重点与文意贴合，看哪项有直接复现的词，如果有那项即为正确答案（很明显 C 项复现，故正确）。 V ④These 18-hour cities are rapidly on the rise° and 这些 18 小时城正在迅速崛起， 为置业投资提供了绝佳机会。在 offer great opportunities for homeowner investment. 国 O 其中许多城市（比如丹佛），被吸引 In many of these cities such as Denver, a diverse2 and 至市中心的多元而活跃的经济为 vigorous economy attracted to the urban core has offered 居民提供了稳定的工作。这一恰 stable employment for residents. 回③ The right urban mix 当的城市组合提升了住房占有率、 has propped up2 home occupancy, increased property 增加了房产价值、吸引到了巨额投 values, and attracted significant investment capital. [434 资资本。 words 词汇注释与难句分析 ③vigorous 【'vigoras】 a. 精力充沛的，有活力的 ①on the ris 崛起 ②diverse 【dal'vas】 a. 多种多样的，多元化的 ④prop up 撑起，支起 ·语篇分析第五段说明\"18 小时城\"的影响。 ①句说明对置业投资的影响∶提供绝佳机会。and 形表并列，实表因果∶快",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-1/paper_卷一_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】CBDCD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q55",
@@ -652,8 +1138,17 @@
                 "C": "Greater cultural diversity.",
                 "D": "Better job opportunities."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "答关键在于区别\"合理推断\"与\"过度推断\"。如本题的 A、D 项均出自定位处 stable employment，那么孰对孰错，其中有一个巧劲，那就是会发现 D 项\"更好的工作机会\"函括 A 项 \"更多晋升机会\"，故选包容项、排除被包容项（因为选 A 必选 D）。 全局真题精解",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "A)More chances for promotion. B)Healthier living environment. B）更健康的生活环境。 C）更大程度的文化多元性。 C) Greater cultural diversity. D) Better job opportunities. D）更好的工作机会。 【精准定位】本题考查 18 小时城给当地居民带来的好处（. . . brought to the local residents），可直接定位至第五段②句（. . . for residents）。 【锁定答案】 D）。定位句指出，18 小时城市中心吸引到了多元而活跃的经济，为居民提供了稳定的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

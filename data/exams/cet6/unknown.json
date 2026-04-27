@@ -1,0 +1,434 @@
+{
+  "id": "cet6-unknown",
+  "type": "cet6",
+  "year": 0,
+  "month": 0,
+  "set": 0,
+  "title": "0年0月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay based on the picture below. You should start your essay with a brief description of the picture and then discuss the importance of grammar in English learning. You should give sound arguments to support your views and write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "He wants to move into another room.",
+            "B": "He has too much stuff.",
+            "C": "His filing cabinet is too old to be used.",
+            "D": "He couldn't do anything without a filing cabinet."
+          },
+          "answer": "A",
+          "explanation": "机对话中女士提到，到目前为止，桦树皮最重要的用处是制作独木舟，故本题应选 A。C 项“制造烹饪容器”是对话中提到的内容，但并不是最重要的用处，可排除；其余两项（B 项“用作柴火\" D 项 “制造捕猎武器”）在对话中均未提及，故排除。 KJ What can we learn about the transportation for Iroquois and Huron peoples? B） o 面对话中女士在介绍易洛魁人和休伦人的交通状况时提到，穿过树林的小路经常杂草丛生，所以走水路要快得多，由此可知，本题应选瓦 A 项“对他们来说, 9 ・六级模拟试题一解析・ overgrown, so water travel was much faster. And here's what the native Americans did 一 they would peel large sheets of bark from the tree to form lightweight yet sturdy canoes. 穿过森林小路虽然更困难，但速度更快”与对话中女士的介绍不符，故排除；C 项“他们每天都要用桦树皮做独木舟”和 D 项“他们不太可能从一个部落到另一个部落”在对话中未提及, 故排除。 Section fW • Passage One • A new study published in Frontiers in Psychology, has examined the impact passive screen use has on a young child5s cognitive development. [9] It fdund screen exposure- whether that be from a TV or mobile device- can be beneficial, depending on the context in which it's viewed. Researchers from the University of Portsmout",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/unknown/key_版本一_六级解析全5套_带书签_可快速跳转.txt",
+            "sourceText": "[2] Fo: the last ten weeks. W: Oh, have you been doing one of the summer courses here then? M: Yes. Fve been doing the Academic Language course since the beginning of July. W: And didn't you realize that your accommodation was temporary? M: [3] No. I thought I would be able to stay there for Bi Wha",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "They believed in Montgomery Ward and Richard Sears.",
+            "B": "They could get the things they wanted at a low price.",
+            "C": "It was convenient for them to buy things from catalogs.",
+            "D": "It was easy for them to return the goods if they weren't satisfied."
+          },
+          "answer": "D",
+          "explanation": "和吸收的速度不同，这意味着部分食物可能进入了大肠， 而其他部分还在胃里。根据科罗拉多州立大学的研究，健康的人消化食物的速度略有不同也是很常见的。由此可知，不同的食物需要不同的消化时间， 选项 D 与原文相符，故选 D。选项 A 说因为人们肠子的长度各不相同，选项 B 说因为人们吃太多不同种类的食物，选项 C 说因为不良的生活方式会影响消化的速度，第二段中并未论及这几点，故均排除。 E 9 C）0 （B E）根据题干中的关键词 using indigestible capsules, 可以把答案线索定位到第三段。该段最后一句指出，根据 2023 年发表在《临床医学杂志》 上的一篇综述，食物中剩余的、无法消化的部分随后进入大肠，它们可能在那里停留约 15.9 至 28.9 个小时。由此可知，不可消化的那部分食物在大肠停留的时间最长，选项 C 与原文相符，故选 C。其余三项均与原文表达不符，故排除。 触㈣。（W 1 根据题干中的关键词 take longer 和 digest foods rich in dietary fib e r, 可以把答案线索定位到第四段。该段提到，得克萨斯州的胃肠病学家尼娜・ 南迪博士说，富含膳食纤维、蛋白质、复合碳水化合物和脂肪的食物往往比这些营养素含量低的食物需要更长的消化时间。她说：“纤维增加了饮食的体积，从而减缓了食物在消化道中的运动。”由此可知，选项 B 与原文表述相符，故选 B。其他三项在文中未提及，可排除。 EQ|B） O 根据题干中的关键词 help speed up the digestion, 可以把答案线索定位到第五至七段。第五段提到充分咀嚼、保持水分和运动有助于加快消化过程；第六段提到年龄的增加、压力和焦虑会使",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/unknown/key_版本一_六级解析全5套_带书签_可快速跳转.txt",
+            "sourceText": "想象的要复杂得多。不同种类的食物被人体分解和吸收的速度不同，这意味着部分食物可能进入了大肠， 而其他部分还在胃里。根据科罗拉多州立大学的研究，健康的人消化食物的速度略有不同也是很常见的。由此可知，不同的食物需要不同的消化时间， 选项 D 与原文相符，故选 D。选项 A 说因为人们肠子的长度各不相同，选项 B 说因为人们吃太多不同种类的食物，选项 C 说因为不良的生活方式会影响消化的速度，第二段中并未论及这几点，故均排除。 E 9 C）0 （B E）根据题干中的关键词 using indigestible capsules, 可以把答案线索定位到第三段。该段最后一句指出，根据 2023 年发表在《",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "They used catalogs as textbooks to teach spelling and calculating.",
+            "B": "They told the students the history of catalogs in class.",
+            "C": "They made their purchase as the farmers did.",
+            "D": "They got new information from catalogs."
+          },
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/unknown/key_版本一_六级解析全5套_带书签_可快速跳转.txt",
+            "sourceText": "motional 共同修饰后面的名词 difficulties。符合上述语法条件的形容词有三个： behavioral （与行为有关的）、robust （强劲的）和 still （静止的）。behavioral 符合此处文意, 故选 B。 E 3 C）o （S 祝分析句子结构可知，空格位于 that 引导的宾语从句中，从句主谓宾齐全，由此判断需要填入一个副词，与 more 构成比较级，修饰前面的动词 control0 备选项中有两个副词：comprehensively （全面地）和 consecutively （连续不断地）, 能与 more 构成比较级的只有 comprehensively, 故选 C。 E a",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "They made some small stores have no confidence in sale.",
+            "B": "They forced some small stores to lower the price.",
+            "C": "They promoted the sales in some small stores.",
+            "D": "They drove some small stores out of business."
+          },
+          "answer": "B",
+          "explanation": "机本题要求选出提升情绪的一个习惯。讲座中提到：“我曾经对香薰蜡烛不屑一顾，但如今我明白了：’香味可以提升你的情绪，不费时、不费力，也不费金钱'。\"故答案选 A。其他三项都不符合讲座内容，应排除。 ■WlWhat is 'ONE-MINUTE RULE” according to the lecturer? B)oBS 本题考查的是演讲者所说的“一分钟定律”的含义。讲座的中间部分提到：“被未读邮件和其他琐事弄得不知所措吗？ 一分钟定律就是， 能够在一分钟之内完成的事，绝不拖延。所以我总是及时挂起外套、打印文件并填好、阅读信件然后丢掉。”故答案为 B。其他三项都不符合讲座内容。 • 六级模拟试题四解析- 68 alarm. For many people, an alarm really helps; they just need that trigger.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/unknown/key_版本一_六级解析全5套_带书签_可快速跳转.txt",
+            "sourceText": "NG UP Since sleep and mood are linked, I think folks who struggle with turning out the light may benefit from a bedtime BQlWhen does mass transit prove superior to private vehicles? C)o 廨柝短文后半部分提到, 就效率和清洁度而言，公共汽车、火车和其他形式的公共或大众运输工具都比私家车更胜一筹，但这只是在它们接近满负荷运载的情况下。否则，它们的整体效率并不高。因此可以得出 C 项为正确答案。其他三项在文中均未",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "A product designed for newborn babies.",
+            "B": "A company providing babysitting services.",
+            "C": "A television program regarding babies.",
+            "D": "A toy for newborn babies."
+          },
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/unknown/key_版本一_六级解析全5套_带书签_可快速跳转.txt",
+            "sourceText": "now? C）o （S 机讲话者提到了他/她想知道的三件事，其中第二件是，为什么我们无法集中注意力，经常感到迷茫和分心？由此可知，选项 C “为什么注意力不能使我们专注” 是对此的同义转述，故本题应选 c。A 项在原文中未提及， 故排除 5 B 项 How attention controls our perc 叩 tion 是讲话者想知道的第一件事，故排除；原文并未提及讲话者是否关注注意力何时在大脑中发挥作用，故排除 D 项。 悭！ I Why would the speaker introduce the example of a marine captain? D） o 讲话者讲述了从伊拉克战场回来",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "It is water-proof.",
+            "B": "It can calm down crying babies.",
+            "C": "It keeps babies absolutely safe.",
+            "D": "It has clowns painted outside."
+          },
+          "answer": "C",
+          "explanation": "释：利率是所支付的纯利息的百分比，而收益率则是指如果男士将钱存入她所在的银行至少一年，在利率不变的情况下将享受的全部收益的比率。由此可知, 选项 C 为正确答案。A 项和 B 项与对话内容不符, 可排除。根据对话内容可知，利率的变化会影响收益率，所以 D 项错误。 H | What is the man most interested in? B)o 通在对话中，女士向男士介绍了几款不同产品的利率和收益率，同时解释了利率和收益率的区另 U, 男士说他对长期投资不感兴趣，觉得存期三个月就刚好。由此可知，男士对存款三个月最感兴趣, 故 B 项为正确答案，同时可排除 A 项。C、D 两项中的 any 太过绝对，比较容易排除。 pH What did the woman do to persuade the man to deposit in her bank? C)o (g 痈在对话中，男士对女士介绍的各项储蓄业务均不感兴趣，于是女士表示为他提供一套就餐优 47 • 六级模拟试题三解析- and cost you only 12 dollars and 95 cents? M: Look, I. . . I think Pll just call around for more information. Thank you for your time. Section 网 • Passage One • Vaukin de Silva is a Brazilian who lives and works in New York. BraziPs most important product is coffee and coffee is Vaukin5s business. He works fbr an international coffee institute. [9] It represents Brazil and several other countries that export coffee. The institute wants more people",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/unknown/key_版本一_六级解析全5套_带书签_可快速跳转.txt",
+            "sourceText": "nning coupon book that will get you a 25% discount at many of the areals leading restaurants 可知，快速晋升将会是男士接受圣保罗的职位的好处。B、C 两项都是男士在谈论葡萄牙的职位时提到的，D 项对话中未提及，三项均可排除。 Q W hat does the man say is the disadvantage of working in Brazil? D)o ( M 当男士与女士谈论完去巴西工作的好处之后，接着说圣保罗的这份工作也有弊端，他必须在那儿工作五年，也就是他必须签订一份长期合同，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "Sitting.",
+            "B": "Bending.",
+            "C": "Lying down.",
+            "D": "Upright."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "Demonstrate how the product works.",
+            "B": "Invite a volunteer to try the product.",
+            "C": "Talk about another product.",
+            "D": "Explain the product in more detail."
+          },
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/unknown/key_版本一_六级解析全5套_带书签_可快速跳转.txt",
+            "sourceText": "究。第八段中提到，彼得森说，对于 6 岁及 6 岁以上的孩子来说， • 六级模拟试题一解析・ 18 最初的记忆内容很少是矛盾的。然而，在最初的采访中，4 岁或 5 岁的孩子更有可能反驳他们之前所说的话。由此可知，选项 A 与原文相符，故本题选 A。选项 B 和 D 文中没有提及，可排除；选项 C 与原文不符，根据原文，应该是 4 到 5 岁的孩子能准确记忆的事情很少，故排除。 晶 8 B）。廨析］根据题干中的关键词 the last paragraph, 可以把答案线索定位到最后一段。该段提到，彼得森说，要确定记忆的“真实”准确性是非常困难的，特别是当它来自童年早期时，除非事件被记录下来，并且有视频证据。也就是说，可",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "To win over the majority of passengers from airlines in twenty years.",
+            "B": "To reform railroad management in western European countries.",
+            "C": "To electrify the railway lines between major European cities.",
+            "D": "To set up an express train network throughout Europe."
+          },
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/unknown/key_版本一_六级解析全5套_带书签_可快速跳转.txt",
+            "sourceText": "部分还在胃里。根据科罗拉多州立大学的研究，健康的人消化食物的速度略有不同也是很常见的。由此可知，不同的食物需要不同的消化时间， 选项 D 与原文相符，故选 D。选项 A 说因为人们肠子的长度各不相同，选项 B 说因为人们吃太多不同种类的食物，选项 C 说因为不良的生活方式会影响消化的速度，第二段中并未论及这几点，故均排除。 E 9 C）0 （B E）根据题干中的关键词 using indigestible capsules, 可以把答案线索定位到第三段。该段最后一句指出，根据 2023 年发表在《临床医学杂志》 上的一篇综述，食物中剩余的、无法消化的部分随后进入大肠，它们可能在那里停留约 15.9 至",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "Major European airlines will go bankrupt.",
+            "B": "Europeans will pay much less for traveling.",
+            "C": "Traveling time by train between major European cities will be cut by half.",
+            "D": "Trains will become the safest and most efficient means of travel in Europe."
+          },
+          "answer": "C",
+          "explanation": "放出来。”由此可知“明线规则”指的是应遵守的“硬性规定”，故选 Co B 项并未提及，而 A、D 两项都不符合讲座内容，故均可排除。 BfejlWhat does “a person can never be too rich“ mean according to the talk? C)o ［ 解析)在讲话开头部分, 该表达的后一句提到：“美国人和其他国家的人一样, 也总是想拥有更多金钱。”据此可判断本处的意思是人永远不会满足于自己的财富，即永远不会嫌自己钱多，故选 C。 其他三项都不符合讲话内容。 EMW hafs a person's purpose of saying “I am working for chickenfeed”？ C)o 噩在这句话之前讲话提到：“美国人和其他国家的人一样，也总是想拥有更多金钱。美国人表达这一欲望的一种方式就是抗议他们的工资低。”再结合这句话的字面意思“我为挣点鸡食而工作”，即表明自己工作所获取的报酬只能买鸡食，而鸡食会让人们很容易想到零钱，所以说这句话的目的是抱怨工资低, 故选 C。其他三项都不符合讲话内容。 WMWhat can we learn about the German spies in World War II, according to the talk? D)o ( M 本题考查的是关于二战中德国间谍的信息。讲话提到：“对历史学家及 69 • 六级模拟试题四解析- for a small amount of money. It is a very different meaning from the main one in the dictionary. That meaning is small nuts that grow on a plant. No one knows for sure how a word for something to eat also came to mean something very small. But, a peanut is a very sm",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/unknown/key_版本一_六级解析全5套_带书签_可快速跳转.txt",
+            "sourceText": "her the kid nor his father ever saw a nickel or a dime. They would not have been interested in such chicken 色 ed. ” [21] Chickenfeed also has another interesting meaning known to history experts and the World War II spies and soldiers. Spy expert Henry S. A. Becket writes that some German spies worki",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Train travel will prove much more comfortable than air travel.",
+            "B": "Passengers will feel much safer on a train than on a plane.",
+            "C": "Rail transport will be environmentally friendlier than air transport.",
+            "D": "Traveling by train may be as quick as, or even quicker than, by air."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "In 1981.",
+            "B": "In 1989.",
+            "C": "In 1990.",
+            "D": "In 2000."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "There can be no speedy recovery for mental patients.",
+            "B": "Approaches to healing patients are essentially the same.",
+            "C": "The mind and body should be taken as an integral whole.",
+            "D": "There is no clear division of labor in the medical profession."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "A doctor's fame strengthens the patients5 faith in them.",
+            "B": "Abuse of medicines is widespread in many urban hospitals.",
+            "C": "One-third of the patients depend on harmless substances for cure.",
+            "D": "A patient's expectations of a drug have an effect on their recovery."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Expensive drugs may not prove the most effective.",
+            "B": "The workings of the mind may help patients recover.",
+            "C": "Doctors often exaggerate the effect of their remedies.",
+            "D": "Most illnesses can be cured without medication."
+          },
+          "answer": "C",
+          "explanation": "・ 义— 已经存在很长时间了。自从第一批人类发明语言以来，我们就一直在应付信息世界，这个世界里充斥着谎言、荒诞故事、神话、伪科学、半真半假和明显老旧的不准确信息。由此可知，题干是对原文的同义转述，故答案为 F。题干中的 N。matter how it is defined 对应原文中的 by any definition o Kiriiln the beginning, people were very optimistic and expected that Internet would lead to more transparency and less confusion. 一开始，人们非常乐观，期望互联网能带来更多的透明度和更少的困惑。 N)o 注意抓住题干中的关键词 very optimistic 手口 more transparency and less confusion o 文章段落中，提到人们一开始对互联网很乐观的内容出现在 N 段。该段前两句提到，迪蒂尔-诺瓦伊斯说：“我认为人们仍在努力认识到，实际上在互联网出现初期有很多乐观情绪我们曾经期望更自由地获得信息会带来更多的透明度，减少困惑。由此可知， 题干是对原文的同义转述，故答案为 N。题干中的 people were very optimistic 对应原文中的 there was a lot of optimism o Kg^Some psychologists and sociologists do not believe that misinformation today is fundamentally different from that of the past. 一些心理学家和社会学家并不认为现在的错误信息与过去的在本质上不一样。 C)o 注意抓住题干中的关键词 Some psychologists and sociologists 和 different from that of the past0 文章段落中，提到心理学家和社会学家认为错误信息过去和现今没有本质不同的内容出现在 C 段。该段",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/unknown/key_版本一_六级解析全5套_带书签_可快速跳转.txt",
+            "sourceText": "believe that misinformation today is fundamentally different from that of the past. 一些心理学家和社会学家并不认为现在的错误信息与过去的在本质上不一样。 C)o 注意抓住题干中的关键词 Some psychologists and sociologists 和 different from that of the past0 文章段落中，提到心理学家和社会学家认为错误信息过去和现今没有本质不同的内容出现在 C 段。该段第一句提到，但一些心理学家和社会学家并不相信错误信息有那么大的影响力— 也不相信现在的问题与过去",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "It can brighten someone else's life.",
+            "B": "It can help analyze the causes of air pollution.",
+            "C": "It may force people to donate their shoes and clothes.",
+            "D": "It can ensure people's physical fitness."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "The money from the recycling helps the poor.",
+            "B": "Some of the shoes are not proper footwear.",
+            "C": "Many children die because of the lack of proper shoes.",
+            "D": "Wearing recycled shoes can save much money."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "Give it to the poor.",
+            "B": "Give it to young people.",
+            "C": "Put it away in drawers.",
+            "D": "Recycle it into cash."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "Bury them locally.",
+            "B": "Throw them away.",
+            "C": "Ask local experts to recycle them.",
+            "D": "Deliver them to other recycling companies."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "His project or life is a train wreck.",
+            "B": "He has come to the end of something.",
+            "C": "They paid attention to their purposes.",
+            "D": "They got opportunities to make money."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "College graduates have difficulty in finding jobs.",
+            "B": "People overlook the correlation between education and income.",
+            "C": "The number of better-educated graduates cannot satisfy the economy.",
+            "D": "The economy fails to absorb better-educated graduates."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "There are not enough economic opportunities for students not going to college.",
+            "B": "Schools fail to educate students properly.",
+            "C": "Educational attainment cannot guarantee career advancement.",
+            "D": "Students have no adequate professional knowledge."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "They are not ready to function in the workplace.",
+            "B": "They do not gain as much as before.",
+            "C": "Their college education is considered useless.",
+            "D": "Their working experience is not enough."
+          },
+          "answer": "B",
+          "explanation": ")本题考查的是导致当今的美国家庭和 50 年前的美国家庭间差异大的原因。讲话的最后部分提到：“总而言之，现在的美国家庭和 5 0 年前的传统家庭已经不同了。在现代家庭里，父亲、母亲和孩子的角色改变了，因为更多女性在外面工作。”据此可知差异出现的原因是越来越多的女性在外面工作，故选 B。讲话中提到的“在现代家 • 六级模拟试题四解析- 70 Their mother was there to help them to get ready for school and to make their breakfast. In contrast, modem children are more independent. They have to get up early in the morning and get ready fbr school. Their mother is busy getting ready fbr work, so they may even have to make their own breakfast. [25] In conclusion, the American family today is quite different from the fhmily of f fty years ago. In the modem family, the roles of the father, mother, and children have changed as more and more women work outside the home. The next century may bring more important changes to the American family structure. 庭里，父亲、母亲和孩子的角色改变了”只是差异的表现，并非原因，同样 C 项也只是差异的表现，而 D 项在讲话中并未提及，所以这三项都应排除。 । 姗 Reading Comprehension Section 也正常情况",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/unknown/key_版本一_六级解析全5套_带书签_可快速跳转.txt",
+            "sourceText": "Why is the American family today so different from that of fifty years ago? B)o 解析)本题考查的是导致当今的美国家庭和 50 年前的美国家庭间差异大的原因。讲话的最后部分提到：“总而言之，现在的美国家庭和 5 0 年前的传统家庭已经不同了。在现代家庭里，父亲、母亲和孩子的角色改变了，因为更多女性在外面工作。”据此可知差异出现的原因是越来越多的女性在外面工作，故选 B。讲话中提到的“在现代家 • 六级模拟试题四解析- 70",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You\nshould write your answer on Answer Sheet 2.",
+      "source": "中国将削减煤炭消费量，以减少空气污染。关于有效利用煤炭的2015〜2020年行动计划表明了中国使用绿色能源的努力和目标。减少煤炭消费量将涉及淘汰落后产能(outdated production capacity)，并使用更清洁的能源，如核能、风能和太阳能。该行动计划的亮点是利用财政和金融政策，通过注入更多的资金与污染作斗争,促进煤炭消费量的削减。中国的目标是，到2030年,非化石能源份额达到20%。六级",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

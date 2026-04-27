@@ -47,62 +47,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "O",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OLHDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OLHDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OLHDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OLHDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OLHDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】AJBKF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】AJBKF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】AJBKF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】AJBKF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】AJBKF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -116,36 +206,81 @@
           "id": "q36",
           "number": 36,
           "stem": "It is a popular belief that tech companies are committed to protecting their\ncustomers’ private data.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】EMCHB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "The US government believes that its access to people’s iPhones could be\nused to prevent terrorist attacks.",
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】EMCHB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "A federal court asked Apple to help the FBI access data in a terrorist’s\niPhone.",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】EMCHB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "Privacy advocates now have Apple fighting alongside them against\ngovernment access to personal data.",
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】EMCHB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "Snowden revealed that the American government had tried hard to access\nprivate data in massive scale.",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】EMCHB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q41",
@@ -203,8 +338,17 @@
                 "C": "It is a breeding ground for a variety of birds.",
                 "D": "It makes an ideal habitat for lots of predators."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ACBAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q47",
@@ -216,8 +360,17 @@
                 "C": "stay away from predators.",
                 "D": "get accustomed to the salty water."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ACBAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q48",
@@ -229,8 +382,17 @@
                 "C": "they breed naturally in corrosive ditches.",
                 "D": "they know where and when to nest."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ACBAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q49",
@@ -242,8 +404,17 @@
                 "C": "They can move freely from lagoon to lagoon.",
                 "D": "They can stand the heat of the spring water."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ACBAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q50",
@@ -255,8 +426,17 @@
                 "C": "The overmining of Lake Natron’s soda ash.",
                 "D": "The disruption of Lake Natron’s ecosystem."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ACBAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         },
@@ -274,8 +454,17 @@
                 "C": "Set an objective for next year.",
                 "D": "Review the year’s achievements."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BCADC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q52",
@@ -287,8 +476,17 @@
                 "C": "They would look upon it with contempt.",
                 "D": "They would deem it a trick of businessmen."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BCADC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q53",
@@ -300,8 +498,17 @@
                 "C": "The more knowledge one has, the more competent one will be.",
                 "D": "The higher one’s status, the more vacation time one will enjoy."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BCADC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q54",
@@ -313,8 +520,17 @@
                 "C": "The widespread use of computer technology.",
                 "D": "The role of knowledge in modern economy."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BCADC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q55",
@@ -326,8 +542,17 @@
                 "C": "Plan time to relax however busy we are.",
                 "D": "Avoid appearing busy when we are not."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-3/paper_卷三_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BCADC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         }

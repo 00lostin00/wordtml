@@ -31,7 +31,16 @@
             "D": "It was displayed at a retirement party."
           },
           "answer": "B",
-          "explanation": "】细节推断题。男士说，画家丹尼尔• 格雷 戈里一点儿都不古怪。接着句（8）提到，她非常平 易近人，也特别聪明。选项中用近义词nice替代 了原文中的easygoing,保留了原文中的 intelligent，并且没看采用原文中的“ one of the most. ..”这样的表达方式，而是直接使用副词very 来修饰形容词nice和intelligent,但这些小的变化 并不改变意思的表达。因此答案为B）。 Section B Questions 9 to 11 are based on the passage you have just heard. Forgiveness is the release of resentment or anger. Forgiveness doesn't mean reconciliation. We don't have to return to the same relationship, nor do we have to accept the same harmful behaviors from an offender. (9) Forgiveness is vitally important for the mental health of certain victims. It propels people forward rather than keeping them emotionally engaged in an injustice or trauma. Carrying the hurt or anger of an offense leads the body to release stress chemicals. Eliminating the perpetual flow of those chemicals may also explain why forgiveness provides physical health benefits. There are scenarios in whic"
+          "explanation": "】细节推断题。男士说，画家丹尼尔• 格雷戈里一点儿都不古怪。接着句（8）提到，她非常平易近人，也特别聪明。选项中用近义词 nice 替代了原文中的 easygoing, 保留了原文中的 intelligent，并且没看采用原文中的“ one of the most. . . ”这样的表达方式，而是直接使用副词 very 来修饰形容词 nice 和 intelligent, 但这些小的变化并不改变意思的表达。因此答案为 B）。 Section B Questions 9 to 11 are based on the passage you have just heard. Forgiveness is the release of resentment or anger. Forgiveness doesn't mean reconciliation. We don't have to return to the same relationship, nor do we have to accept the same harmful behaviors from an offender. (9) Forgiveness is vitally important for the mental health of certain victims. It propels people forward rather than keeping them emotionally engaged in an injustice or trauma. Carrying the hurt or anger of an offense leads the body to release stress chemicals. Eliminating the perpetual flow of those chemicals may also explain why forgiveness provides physical health benefits. There are scenarios in whic",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "How does the man describe Daniel Gregory? B）【精析】细节推断题。男士说，画家丹尼尔• 格雷戈里一点儿都不古怪。接着句（8）提到，她非常平易近人，也特别聪明。选项中用近义词 nice 替代了原文中的 easygoing, 保留了原文中的 intelligent，并且没看采用原文中的“ one of the most. . . ”这样的表达方式，而是直接使用副词 very 来修饰形容词 nice 和 intelli",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q9",
@@ -44,7 +53,16 @@
             "D": "It keeps one from traumatic experience."
           },
           "answer": "A",
-          "explanation": "】细节辨认题。句（9）提到，宽恕对某些受害 者的心理健康至关重要。因此答案为A）。本题各 选项中干扰性最强的是D）, 因为文中提到了 it propels people forward rather than keeping them emotionally engaged in an injustice or trauma,但 原文中所表达的意思是“使这些人不再深陷于那 些情感上的偏颇或创伤不可自拔”，而D ）选项中 所表达含义是“让他们不经受痛苦难忘的经历”， 故排除D）。"
+          "explanation": "】细节辨认题。句（9）提到，宽恕对某些受害者的心理健康至关重要。因此答案为 A）。本题各选项中干扰性最强的是 D）, 因为文中提到了 it propels people forward rather than keeping them emotionally engaged in an injustice or trauma, 但原文中所表达的意思是“使这些人不再深陷于那些情感上的偏颇或创伤不可自拔”，而 D）选项中所表达含义是“让他们不经受痛苦难忘的经历”， 故排除 D）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "What does the passage say about forgiveness? A）【精析】细节辨认题。句（9）提到，宽恕对某些受害者的心理健康至关重要。因此答案为 A）。本题各选项中干扰性最强的是 D）, 因为文中提到了 it propels people forward rather than keeping them emotionally engaged in an injustice or trauma, 但原文中所表达的意思",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q14",
@@ -57,7 +75,16 @@
             "D": "It helps reduce traffic jams in the city centre."
           },
           "answer": "D",
-          "explanation": "】细节辨认题。句（14）说，经过改造重新开 通运营后,格拉斯哥地铁的命运发生了重大变化， 作为其他交通方式的可行性替代方案，该地铁大 大缓解了市中心的交通堵塞。因此答案为D）。"
+          "explanation": "】细节辨认题。句（14）说，经过改造重新开通运营后, 格拉斯哥地铁的命运发生了重大变化， 作为其他交通方式的可行性替代方案，该地铁大大缓解了市中心的交通堵塞。因此答案为 D）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "Why does the Glasgow subway remained important today? D） t 精析】细节辨认题。句（14）说，经过改造重新开通运营后, 格拉斯哥地铁的命运发生了重大变化， 作为其他交通方式的可行性替代方案，该地铁大大缓解了市中心的交通堵塞。因此答案为 D）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q15",
@@ -69,8 +96,17 @@
             "C": "They accept smartcards only.",
             "D": "They are colourfully decorated."
           },
-          "answer": "B",
-          "explanation": "】细节辨认题。句（15）提到,所有地铁站都 使用了智能卡售票机和智能闸机等高科技系统。 因此答案为B）。 Section C Questions 16 to 18 are based on the recording you have just heard. If you visit the Great Smoky Mountains National Park, chances are you will remember the roadside or 英语菌的笔记 campground bears above all else. Bears are the most popular animals in a number of our national parks. In these mountains, where the population of bears runs into the hundreds, opportunities to observe these large wild animals are plentiful during the summer. (16) Since national parks are wildlife sanctuaries where no disturbance of the native animals is allowed, years of protection have served to break down the wild bears' fear of humans. Now, instead of depending on their own resources for a living, many bears patrol park roads and campgrounds. They give the garbage cans a frequent going over. An occasional offer of food from a park visitor, an illegal "
+          "answer": "A",
+          "explanation": "】细节辨认题。句（15）提到, 所有地铁站都使用了智能卡售票机和智能闸机等高科技系统。 因此答案为 B）。 Section C Questions 16 to 18 are based on the recording you have just heard. If you visit the Great Smoky Mountains National Park, chances are you will remember the roadside or 英语菌的笔记 campground bears above all else. Bears are the most popular animals in a number of our national parks. In these mountains, where the population of bears runs into the hundreds, opportunities to observe these large wild animals are plentiful during the summer. (16) Since national parks are wildlife sanctuaries where no disturbance of the native animals is allowed, years of protection have served to break down the wild bears' fear of humans. Now, instead of depending on their own resources for a living, many bears patrol park roads and campgrounds. They give the garbage cans a frequent going over. An occasional offer of food from a park visitor, an illegal",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "A) They are usually crowded. B) It is the fastest way to reach the city's south side. B) They use high-tech systems. C) It constitutes a source of revenue for the city. C) They acc",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q18",
@@ -83,7 +119,16 @@
             "D": "Refrain from teasing bears with cubs."
           },
           "answer": "B",
-          "explanation": "】细节推断题。句（18）提到,虽然徒步旅行 者在公园小路上遇到熊的概率很小，但这也不是 绝对不可能发生的事情，因为熊似乎有某种天赋, 能够看出来人们身上是否有吃的,而且他还可能 会坚持索要。由此推测，讲话者是想告诉那些在 公园小路上徒步旅行的人,他们还是有可能会碰 上需要食物的大熊的。因此答案为B）。 Questions 19 to 21 are based on the recording you have just heard. Why do we form opinions or attitudes about someone or something without really knowing much about them? Just hearing something good or bad about a person, a place or thing can influence our opinions positively or negatively. But letting the opinions of another person determine what our opinions will be is dangerous. (19) Forming opinions about someone or something before really knowing them well is called prejudice. “ Pre-” means before and ”-judice“ refers to judgment. Hence, prejudice means to judge before having adequate knowledge. We can be prejudiced toward or against someone or something. In either case, we are only allowing ourselves to see half of the picture. Very"
+          "explanation": "】细节推断题。句（18）提到, 虽然徒步旅行者在公园小路上遇到熊的概率很小，但这也不是绝对不可能发生的事情，因为熊似乎有某种天赋, 能够看出来人们身上是否有吃的, 而且他还可能会坚持索要。由此推测，讲话者是想告诉那些在公园小路上徒步旅行的人, 他们还是有可能会碰上需要食物的大熊的。因此答案为 B）。 Questions 19 to 21 are based on the recording you have just heard. Why do we form opinions or attitudes about someone or something without really knowing much about them? Just hearing something good or bad about a person, a place or thing can influence our opinions positively or negatively. But letting the opinions of another person determine what our opinions will be is dangerous. (19) Forming opinions about someone or something before really knowing them well is called prejudice. “ Pre-” means before and ”-judice“ refers to judgment. Hence, prejudice means to judge before having adequate knowledge. We can be prejudiced toward or against someone or something. In either case, we are only allowing ourselves to see half of the picture. Very",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "What is the speaker's advice to people who carry some food while liking on a park trail? B）【精析】细节推断题。句（18）提到, 虽然徒步旅行者在公园小路上遇到熊的概率很小，但这也不是绝对不可能发生的事情，因为熊似乎有某种天赋, 能够看出来人们身上是否有吃的, 而且他还可能会坚持索要。由此推测，讲话者是想告诉那些在公园小路上徒步旅行的人, 他们还是有可能会碰上需要食物的大熊的。因此答案为 B）。 Questions 19 to 21 are",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q19",
@@ -96,7 +141,16 @@
             "D": "It means sticking to one's judgments even when proved wrong."
           },
           "answer": "B",
-          "explanation": "】细节辨认题。句（19）提到,在真正了解某 人或某事之前形成对他们的看法被称为偏见。也 就是说，没有足够的信息就做出判断，即为偏见。 因此答案为B）o 选项中用adequate knowledge 对原文中的really knowing them well进行了同 义转述。"
+          "explanation": "】细节辨认题。句（19）提到, 在真正了解某人或某事之前形成对他们的看法被称为偏见。也就是说，没有足够的信息就做出判断，即为偏见。 因此答案为 B）o 选项中用 adequate knowledge 对原文中的 really knowing them well 进行了同义转述。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "What does the speaker say about prejudice? B）【精析】细节辨认题。句（19）提到, 在真正了解某人或某事之前形成对他们的看法被称为偏见。也就是说，没有足够的信息就做出判断，即为偏见。 因此答案为 B）o 选项中用 adequate knowledge 对原文中的 really knowing them well 进行了同义转述。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q20",
@@ -109,7 +163,16 @@
             "D": "They prevent us from getting to the truth."
           },
           "answer": "D",
-          "explanation": "】细节推断题。由问题中的dangerous一词 可以比较容易地找到答案在句（20）,讲话者提到， 偏见很危险，因为它们使我们无法了解某人或某 事的真相。因此答案为D）。"
+          "explanation": "】细节推断题。由问题中的 dangerous 一词可以比较容易地找到答案在句（20）, 讲话者提到， 偏见很危险，因为它们使我们无法了解某人或某事的真相。因此答案为 D）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "Why does the speaker say prejudiced attitudes are dangerous? D）【精析】细节推断题。由问题中的 dangerous 一词可以比较容易地找到答案在句（20）, 讲话者提到， 偏见很危险，因为它们使我们无法了解某人或某事的真相。因此答案为 D）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q21",
@@ -122,7 +185,16 @@
             "D": "When we try to keep up with those around us."
           },
           "answer": "A",
-          "explanation": "】细节辨认题。句（21）提到，当我们的自豪 感开始转变为优越感时，我们就会开始形成带有 偏见的态度。因此答案为A）。 Questions 22 to 25 are based on the recording you have just heard. (22)When I started high school, it was a shock. I had spent eight years fighting my way to be the most popular kid in the Catholic school student body. I had been a big, tough 8th grader and suddenly I was a lonely 9th grader bullied by the big, tough 12th grade seniors who ran the high school. I realized then that it's nice to strive for something, but that you also have to enjoy the moment you're in and be happy where you are. Rock and roll had always been an important part of my life. I remember my friends and I used to drive around until the late hours of the nights listening to the music of Rock and Roll Legends. (23)During those teenage years, I built friendships that I thought would last a lifetime. Most people that age think the same thing, but people drif"
+          "explanation": "】细节辨认题。句（21）提到，当我们的自豪感开始转变为优越感时，我们就会开始形成带有偏见的态度。因此答案为 A）。 Questions 22 to 25 are based on the recording you have just heard. (22)When I started high school, it was a shock. I had spent eight years fighting my way to be the most popular kid in the Catholic school student body. I had been a big, tough 8th grader and suddenly I was a lonely 9th grader bullied by the big, tough 12th grade seniors who ran the high school. I realized then that it's nice to strive for something, but that you also have to enjoy the moment you're in and be happy where you are. Rock and roll had always been an important part of my life. I remember my friends and I used to drive around until the late hours of the nights listening to the music of Rock and Roll Legends. (23)During those teenage years, I built friendships that I thought would last a lifetime. Most people that age think the same thing, but people drif",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "When does the speaker say we begin to develop prejudiced attitudes? A）【精析】细节辨认题。句（21）提到，当我们的自豪感开始转变为优越感时，我们就会开始形成带有偏见的态度。因此答案为 A）。 Questions 22 to 25 are based on the recording you have just heard. (22)When I started high school, it was a shock. I",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q22",
@@ -134,8 +206,17 @@
             "C": "Perplexed.",
             "D": "Shocked."
           },
-          "answer": "D",
-          "explanation": "】细节辨认题。根据句（22）,讲话者提到他 刚上高中的时候，就感到特别震惊。因此答案 为D）。"
+          "answer": "A",
+          "explanation": "】细节辨认题。根据句（22）, 讲话者提到他刚上高中的时候，就感到特别震惊。因此答案为 D）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "A ) M otivated.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q23",
@@ -148,7 +229,16 @@
             "D": "They would last a lifetime."
           },
           "answer": "A",
-          "explanation": "】细节推断题。根据句（23）,讲话者说，很多 人在十几岁的时候都认为那时候形成的友谊可以 持续一生，但其实,慢慢地，工作、家庭、悲剧事件 会让人们逐渐疏远，友谊也不复存在。虽然原文 中没有提到时间的推移，但其他三个选项都无法 从原文中找到依据，所以只有A）选项与讲座中的 这段话意思相近。因此答案为A）。"
+          "explanation": "】细节推断题。根据句（23）, 讲话者说，很多人在十几岁的时候都认为那时候形成的友谊可以持续一生，但其实, 慢慢地，工作、家庭、悲剧事件会让人们逐渐疏远，友谊也不复存在。虽然原文中没有提到时间的推移，但其他三个选项都无法从原文中找到依据，所以只有 A）选项与讲座中的这段话意思相近。因此答案为 A）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "What did the speaker once think of teenage friendships? A）【精析】细节推断题。根据句（23）, 讲话者说，很多人在十几岁的时候都认为那时候形成的友谊可以持续一生，但其实, 慢慢地，工作、家庭、悲剧事件会让人们逐渐疏远，友谊也不复存在。虽然原文中没有提到时间的推移，但其他三个选项都无法从原文中找到依据，所以只有 A）选项与讲座中的这段话意思相近。因此答案为 A）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q24",
@@ -161,7 +251,16 @@
             "D": "He regretted leaving Vietnam."
           },
           "answer": "A",
-          "explanation": "】细节推断题。根据句(24-1),讲话者先是 说他感觉在越南的那14个月，他好像活了有10 辈子。句(24-2)提到，在他看来，他以前的那些朋 友都特别幼稚，关心的也都是在他看来十分幼稚 的事情，换句话说，讲话者在越南的经历让他变得 比朋友们都要成熟。因此答案为A )。"
+          "explanation": "】细节推断题。根据句(24-1), 讲话者先是说他感觉在越南的那 14 个月，他好像活了有 10 辈子。句(24-2)提到，在他看来，他以前的那些朋友都特别幼稚，关心的也都是在他看来十分幼稚的事情，换句话说，讲话者在越南的经历让他变得比朋友们都要成熟。因此答案为 A )。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "A ) H e had become m ature.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q25",
@@ -174,7 +273,16 @@
             "D": "Share his personal experience with his students."
           },
           "answer": "C",
-          "explanation": "】细节辨认题。根据句(25),讲话者说，作为 一名教师，“我”会尽力帮助学生渡过难关。选项 中用growing pains替代了原文中的rough spots o 因此答案为C)。 Part H Reading Comprehension Section A 【文章来源】本文选自2012年10月2 5 日刊登在M I T Sloan Management Review (《麻省理工斯隆管理评论》)上一 篇标题为\"Building Your Company's Capabilities Through Global Expansion”(《通过全球扩张建设公司能力》)的 文章。 【结构框图】 第1段指出，企业全球战略家的任务是建立一个能力平台，并系统地 厂①：升级和更新这些能力，从而领先于竞争对手。 本文主要介绍了成功企业是 如何通过开发、更新和增强 其核心能力的系统化过程来 建立和维持其国际影响力。 K_____________________________ > : 第2、3 段以苹果、宜家、西班牙电信公司为例具体说明这些全球赢受,： ：是如何来建设、升级和更新这些能力的。 ： 、____________________________________________________________ / 第4 段指出创造全球优势并非易事，需要大量的战略和运营技巧。 ： 【词性分析】 名 词：C) clusters串，束;一群人；G) instances例子,实例；J) revenues (政府的)税收；(公司的)收益；L) ship (大)船;舰 动 词:C) clusters聚集；E) exploiting开发;利用;H) rehabilitated修复；使(建筑物或地区)恢复原状； I) reproduced 复制;再现；K) safeguarding 保护,保卫；L) ship (用船、飞机、卡车等)运送；N) transcend 超出，超越(通常的界限)；O) undergoing经历，经受 形容词：A) aesthetic美学的，审美的；B) appropr"
+          "explanation": "】细节辨认题。根据句(25), 讲话者说，作为一名教师，“我”会尽力帮助学生渡过难关。选项中用 growing pains 替代了原文中的 rough spots o 因此答案为 C)。 Part H Reading Comprehension Section A 【文章来源】本文选自 2012 年 10 月 2 5 日刊登在 MIT Sloan Management Review (《麻省理工斯隆管理评论》)上一篇标题为\"Building Your Company's Capabilities Through Global Expansion”(《通过全球扩张建设公司能力》)的文章。 【结构框图】 第 1 段指出，企业全球战略家的任务是建立一个能力平台，并系统地厂①：升级和更新这些能力，从而领先于竞争对手。 本文主要介绍了成功企业是如何通过开发、更新和增强其核心能力的系统化过程来建立和维持其国际影响力。 K_____________________________ > : 第 2、3 段以苹果、宜家、西班牙电信公司为例具体说明这些全球赢受, ：：是如何来建设、升级和更新这些能力的。：、____________________________________________________________ / 第 4 段指出创造全球优势并非易事，需要大量的战略和运营技巧。： 【词性分析】 名词：C) clusters 串，束;一群人；G) instances 例子, 实例；J) revenues (政府的)税收；(公司的)收益；L) ship (大)船;舰动词:C) clusters 聚集；E) exploiting 开发;利用;H) rehabilitated 修复；使(建筑物或地区)恢复原状； I) reproduced 复制;再现；K) safeguarding 保护, 保卫；L) ship (用船、飞机、卡车等)运送；N) transcend 超出，超越(通常的界限)；O) undergoing 经历，经受形容词：A) aesthetic 美学的，审美的；B) appropr",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "What does the speaker try to do as a teacher? C ) 【精析】细节辨认题。根据句(25), 讲话者说，作为一名教师，“我”会尽力帮助学生渡过难关。选项中用 growing pains 替代了原文中的 rough spots o 因此答案为 C)。 Part H Reading Comprehension Section A 【文章来源】本文选自 2012 年 10 月 2 5 日刊登在 MIT Sloan Manag",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -204,62 +312,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "• ①derive [di'raiv] v. 来自；起源于 § ③renew [ri'nju：] v. 更新；更换 ②transplant [treens1 plaint] v. 迁移；转移 § ④competition [ikompa'tijn] n. 竞争者；对手 32 The task of the global strategist of a business is to build a platform of capabilities derived from the resources, experiences and innovations of units operating in multiple locations, to transplant those capabilities wherever appropriate, and then to systematically upgrade and renew them— ahead of the competition. 苹果公司就是这样一^个杰出的例子。该公司独一无二的能力赋予了它全球竞争优势，尤其是它在集成了功能和美学设计的产品基础上搭建平台的能力。苹果能够在全世界范围内成功地运用它加州总部的设计和营销优势。宜家公司也是这样的一个例子。 这家 DIY 家具和家居用品公司首先在瑞典开发出了一套以低价设计、制造和运输家具，并以创意销售家具的令人赞赏有加的能力。之后，宜家成功地在许多其他国家复制了这一模式。；• 解题思的 4 2 6.答案：B） appropriate ［确定词性］空格词与 wherever 构成省略了主语和系动词的地点状语从句（补全即 wherever they are. . .），修饰说明 transplanto 空格词在从句中作表语，应为形容词、现在分词或过去分词。 ［锁定答案［空格句指出企业全球战略规划师的三项任务：一、建立一个能力平台（取自不同分支机构，涵盖资源、经验、创新方面）；二、将这些能力运用到一切的地方；三、对这些能力进行更新迭代。换言之， 企业要想实",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "。宜家公司也是这样的一个例子。 这家 DIY 家具和家居用品公司首先在瑞典开发出了一套以低价设计、制造和运输家具，并以创意销售家具的令人赞赏有加的能力。之后，宜家成功地在许多其他国家复制了这一模式。；• 解题思的 4 2 6.答案：B） appropriate ［确定词性］空格词与 wherever 构成省略了主语和系动词的地点状语从句（补全即 wherever they are. . .），修饰说明 transplanto 空格词在从句中作表语，应为形容词、现在分词或过去分词。 ［锁定答案［空格句指出企业全球战略规划师的三项任务：一、建立一个能力平台（取自不同分支机构，涵盖资源、经验、创新",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "题。 D ) 【语法判断】空格前面是形容词 worldwide, 后面是名词 advantage, 说明空格处应该填入一个形容词性的单词，和 worldwide 一同修饰名词 advantage0 【语义判断】文章第一段就指出，企业全球战略家要努力建设企业能力，使其领先于竞争对手。空格所在句则以苹果公司为例，介绍了其独特的能力, 这种能力让它拥有了全球范围内的一种优势, 根据上下文可推断，这里指的应该是“竞争上的优势”。由此确定 D) competitive 为答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "27 . 【考点】形容词辨析题。 D ) 【语法判断】空格前面是形容词 worldwide, 后面是名词 advantage, 说明空格处应该填入一个形容词性的单词，和 worldwide 一同修饰名词 advantage0 【语义判断】文章第一段就指出，企业全球战略家要努力建设企业能力，使其领先于竞争对手。空格所在句则以苹果公司为例，介绍了其独特的能力, 这种能力让它拥有了全球范围内的一种优势",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q28",
           "number": 28,
           "answer": "A",
-          "explanation": "题。 A ) 【语法判断】空格后面是名词design,前面是并列 连词and,and前面是形容词functional, 由此可推 断,空格处应该也是一个形容词，和functional呈 并列关系。 【语义判断】空格所在句指出，苹果公司的产品融 合了两方面的设计,functional “实用的”是其中的 一个设计特征，那么空格处的形容词也应该用来 描述某种特征，形容词中，aesthetic “美学的，审美 的”符合文意，故答案为A) aesthetico"
+          "explanation": "题。 A ) 【语法判断】空格后面是名词 design, 前面是并列连词 and, and 前面是形容词 functional, 由此可推断, 空格处应该也是一个形容词，和 functional 呈并列关系。 【语义判断】空格所在句指出，苹果公司的产品融合了两方面的设计, functional “实用的”是其中的一个设计特征，那么空格处的形容词也应该用来描述某种特征，形容词中，aesthetic “美学的，审美的”符合文意，故答案为 A) aesthetico",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "答案：A) aesthetic ［确定词性］空格位于 that 引导的定语从句的宾语部分(functional and 28 d esign ), 与 fu n ctio nal 并列，共同作定语修饰宾语核心词 d e sign, 应为形容词、名词、动名词/现在分词或过去分词。 ［锁定答案］空格句指出，苹果公司的产品集成了功能和设计。结合产品设计通常关乎其外",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "29 . 答案：L) ship ［确定词性］空格位于不定式结构中(to design, manufacture and 29 furniture at low cost and sell it in a novel way ), 与 d esign m an ufacture Asell 并列，应为动词原形。 ［锁定答案］空格句介绍了宜家公司(T he do-it-yourself. . . com p an y 即指宜家)的能力建设之路：在瑞典首先研发出一套以低价设计、制造和家具并以创意销售家具的能力。可见，空格所在部分意在指出从产品设计到产品销售的全过程；而结合常识”产品的设计、生产到最终的销售之间应需要运输”可推断，空格词应表示“物流/运输”等意。L ) s h ip 作动词时表示“运输”，符合文意。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "29 . 答案：L) ship ［确定词性］空格位于不定式结构中(to design, manufacture and 29 furniture at low cost and sell it in a novel way ), 与 d esign m an ufacture Asell 并列，应为动词原形。 ［锁定答案］空格句介绍了宜家公司(T he do-it-your",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "• : # （D telecommunications ［ itelikaimju：nilkeij'nzj x. 电信；§ ④state-owned「steit ound］ a. 国有的电讯； ⑤Privatize P praivataiz］a 使私有化；将. . . . 私营化 ②share ［Jeo（r）］曾. 有同样的经历（感情或想法等） j ⑥deregulate ［idi:'regjuleit］仇撤销对（贸易、商业活动 ③reconstruct strAkt］曾. 改组；改建夕等）的管制 J 解题思函• 31 . 答案：J） revenues ［确定词性 1 空格位于介词 by 后，应为名词或动名词。 ［锁定答案［空格句指出，，西班牙电信目前是世界第五大电信公司。结合介词 b y 的常见用法（表达方式、方法、判断依据等）可推断，空格所在部分意在指出该公司排名世界第五的依据。再结合常识“企业的排名通常以营收、员工数、市值等为依据“可知，空格词应与“营收/收入”等相关。故 J） revenues 正确。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "30 . 答案：I) reproduced ［确定词性 1 空格句缺少谓语。结合时间状语 L a te r 可判断，空格词应为动词过去式。 ［锁定答案］空格句指出，宜家公司在许多国家成功地这一模式。结合空格句前的③句可知，宜家 34 也是利用自身能力建设实现全球扩张的一家企业，即宜家成功地将其在母国的能力推广到了全球各地的分支机构，空格句应意在指出“宜家在其他国家的分支机构也纷",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": "D",
-          "explanation": "题。 J）［语法判断】空格前为介词by,后面再无内容，因 此可推断空格处是一个名词，和介词by构成介词 短语。 【语£ 判断】空格所在句提到西班牙电信公司 （Telefonica）目前是世界第五大电信公司，介词by 在这里应该表方式，“从……方面/就……而言”可 以衡量出它是第五大电信公司，复数名词中， revenues” （政府的）税收;（公司的）收益”用在这里 表示“按收益来算”，符合语义，故答案为Do"
+          "answer": "J",
+          "explanation": "题。 J）［语法判断】空格前为介词 by, 后面再无内容，因此可推断空格处是一个名词，和介词 by 构成介词短语。 【语£ 判断】空格所在句提到西班牙电信公司 （Telefonica）目前是世界第五大电信公司，介词 by 在这里应该表方式，“从……方面/就……而言”可以衡量出它是第五大电信公司，复数名词中， revenues” （政府的）税收;（公司的）收益”用在这里表示“按收益来算”，符合语义，故答案为 Do",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "itelikaimju：nilkeij'nzj x. 电信；§ ④state-owned「steit ound］ a. 国有的电讯； ⑤Privatize P praivataiz］a 使私有化；将. . . . 私营化 ②share ［Jeo（r）］曾. 有同样的经历（感情或想法等） j ⑥deregulate ［idi:'regjuleit］仇撤销对（贸易、商业活动 ③reconstruct strAkt］曾. 改组；改建夕等）的管制 J 解题思函• 31 . 答案：J） revenues ［确定词性 1 空格位于介词 by 后，应为名词或动名词。 ［锁定答案［空格句指出，，西班牙电信目前是世界",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "O",
+          "explanation": "①lasting Plcustiq］ 持久的；继续存在的 § © presence ［'prezns］ 〃. 在某地的经济(或军事、文化 ②sustain ［soLtein］管. 使保持；使稳定持续 《等)势力；・解题思函• 33 . 答案：G ) instances ［确定词性］空格位于句子的主语部分(many other 33 of. . . experiments), 为主语部分的核心词，结合限定词 manyother 可判断，空格应为复数名词。 ［锁定答案］空格句及前一句通过对比指出，上述例子(苹果公司、宜家公司、西班牙电信等)可能会令读者认为建立全球优势很简单，但许多其他耗资不菲却失败的实验表明实际情况并非如此。结合两句间的语义对比可判断，空格句的主语应是与“成功的案例”相对的“失败的案例”；再结合 many other Jailed 可推知，空格词应与 examples 近义，表示“案例/情况/事例”等意。G ) instances 符合文意，为正确项。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "32 . 答案：O） undergoing ［确定词性］空格所在的定语从句中，引导词 that（指代 countries）充当主语，more rapid market reform 作宾语，were 32 应为谓语，故空格词应为动词现在分词。 ［锁定答案 1 空格句指出，西班牙电信于 1989J990 年分别进入智利、阿根廷，这两个国家与西班牙有着相同的制度和文化特征，但是正在更快",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "题。 G）【语法判断】空格后面是介词 of, 前面的 other 用作形容词时后面一般接复数名词，由此可推断出空格处应填入一个名词的复数形式。 【语义判断】上一句指出，前文提到的这些成功案例可能会让读者觉得创造全球优势是一件容易的事。空格所在句以 but 为转折，表示也有许多失败的实验表明创造持久的全球优势实际上需要技巧，也就是说，同样存在很多失败案例，G） instances\"例子，实例”与前一句中的 example 相对应，且符合文意，故为答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "33 . 【考点】名词辨析题。 G）【语法判断】空格后面是介词 of, 前面的 other 用作形容词时后面一般接复数名词，由此可推断出空格处应填入一个名词的复数形式。 【语义判断】上一句指出，前文提到的这些成功案例可能会让读者觉得创造全球优势是一件容易的事。空格所在句以 but 为转折，表示也有许多失败的实验表明创造持久的全球优势实际上需要技巧，也就是说，同样存在很多失败案例，G）",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "本文选自 The Revelator(启示者)网站 2020 年 3 月 13 日文章 AnEmerging Threat to Conservation： Fear of NatureC 生态保护新威胁：对自然的恐惧)。文章围绕现如今人们对自然生物的恐惧展开论述，分析该问题对于生态保护的消极影响并提出针对性建议，呼吁人们正视自然空间的价值和意义。 申二、试题分析试题定位词核心义",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "34 . 答案：M ) strategic ［确定词性］空格位于 that 引导的宾语从句的宾语部分(a great deal of 34 and operational finesse), 如果 and 衔接的是空格词和 operational(共同作定语修饰/7\"esse), 那空格词应为形容词、动名词/现在分词或过去分词；如果 and 衔接的是 a great deal",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "①lasting Plcustiq］ 持久的；继续存在的 § © presence ［'prezns］ 〃. 在某地的经济(或军事、文化 ②sustain ［soLtein］管. 使保持；使稳定持续 《等)势力；・解题思函• 33 . 答案：G ) instances ［确定词性］空格位于句子的主语部分(many other 33 of. . . experiments), 为主语部分的核心词，结合限定词 manyother 可判断，空格应为复数名词。 ［锁定答案］空格句及前一句通过对比指出，上述例子(苹果公司、宜家公司、西班牙电信等)可能会令读者认为建立全球优势很简单，但许多其他耗资不菲却失败的实验表明实际情况并非如此。结合两句间的语义对比可判断，空格句的主语应是与“成功的案例”相对的“失败的案例”；再结合 many other Jailed 可推知，空格词应与 examples 近义，表示“案例/情况/事例”等意。G ) instances 符合文意，为正确项。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "①lasting Plcustiq］ 持久的；继续存在的 § © presence ［'prezns］ 〃. 在某地的经济(或军事、文化 ②sustain ［soLtein］管. 使保持；使稳定持续 《等)势力；・解题思函• 33 . 答案：G ) instances ［确定词性］空格位于句子的主语部分(many other 33 of. . . experiments), 为主语部分的核心词，结合限定词 manyother 可判断，空格应为复数名词。 ［锁定答案］空格句及前一句通过对比指出，上述例子(苹果公司、宜家公司、西班牙电信等)可能会令读者认为建立全球优势很简单，但",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -318,71 +516,159 @@
           "id": "q36",
           "number": 36,
           "stem": "A new study found parents5 aversion to certain animals would pass on to their children.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "】细节推断题。玲段第一句提到，这项新研究确实含有一个意想不到的发现:许多接受调查的孩子透露, 他们的父母也对同样的动物表现出恐惧或厌恶。由该句中 also 和 the same animals 可知, 这些孩子和他们的父母一样恐惧或厌恶这些动物。该段最后一句强调该研究结果表明上一代对自然持负面态度的人数增加会导致下一代持类似态度的人数进一步增加。由此可以推知，家长对某些动物的厌恶会导致其孩子同样厌恶这些动物, 题干中的 parents5 aversion to certain animals 对应原文中的 their parents also expressed fear or disgust of the same animals, 题干中的 pass on to their children 是根据原文中 lead to a further increase in people with similar attitudes in the next generation 推断而出的结论， 故答案为 F）o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "36 . 【定位】由题干中的 parents, aversion to certain animals 和 pass on to their children 定位到文章 F）段第一■句和最后一■句。 F）【精析】细节推断题。玲段第一句提到，这项新研究确实含有一个意想不到的发现:许多接受调查的孩子透露, 他们的父母也对同样的动物表现出恐惧或厌恶。由该句中 also 和 the same animals 可知, 这些孩子和他们的父母一样恐惧或厌恶这些动物。该段最后一句强调该研究结果表明上一代对自然持负面态度的人数增加会导致下一代",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "The disappearance of species and ecological systems erodes our ability to keep what is left.",
           "answer": "A",
-          "explanation": "】同义转述题。A）段最后一句提到,越来越 多的研究表明，随着物种和生态系统的消亡，这也 逐步削弱了我们保护剩余资源的能力。题干中的 the disappearance of species and ecological systems 对应原 文中的 species and ecosystems vanish,题干中的 erodes our ability 和 keep what is left 分别是对原文中 chips away at our ability 和preserve what remains的同义转述，故答案为 A）。"
+          "explanation": "】同义转述题。A）段最后一句提到, 越来越多的研究表明，随着物种和生态系统的消亡，这也逐步削弱了我们保护剩余资源的能力。题干中的 the disappearance of species and ecological systems 对应原文中的 species and ecosystems vanish, 题干中的 erodes our ability 和 keep what is left 分别是对原文中 chips away at our ability 和 preserve what remains 的同义转述，故答案为 A）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "【定位】由题干中的 species and ecological systems 和 our ability to keep what is left 定位到 A）段最后一■句° A）【精析】同义转述题。A）段最后一句提到, 越来越多的研究表明，随着物种和生态系统的消亡，这也逐步削弱了我们保护剩余资源的能力。题干中的 the disappearance of species and ecological systems 对应原文中的 species and ecosystems vanish, 题干中的 ero",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "A study showed that the wildest areas of Discovery Park appealed most to the public.\n英语菌的笔记",
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "】同义转述题。J）段第二句提到，研究发现， 公众对公园最荒野的地方最为欣赏，并从中获得了最大价值。题干中的 the wildest areas of Discovery Park 对应原文中的 the wildest parts of the park, 题干中的 appealed most to the public 是对原文中 the public had the most appreciation fo r 的同义转述，故答案为 J）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "38 . 【定位】由题干中的 the wildest areas of Discovery Park 和 appealed most to the public 定位到 J）段第二句。 J）【精析】同义转述题。J）段第二句提到，研究发现， 公众对公园最荒野的地方最为欣赏，并从中获得了最大价值。题干中的 the wildest areas of Discovery Park 对应原文中的 the wildest parts of the park, 题干中的 appealed most to the public 是对原文中 the p",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "The fear of living organisms is becoming more worrisome.",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "】同义转述题。C）段最后一句指出，最糟糕的情况是变成更加令人担忧的问题:“生物恐惧症”，即对生物的恐惧和对自然的完全厌恶。题干中的 the fear of living organisms 对应原文中的 biophobia 和 the fear of living things, 题干中的 worrisome 是原文中 concerning 的近义词，故答案为 C）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "39 . 【定位】由题干中的 the fear of living organisms 和 more worrisome 定位到文章 C）段最后一句。 C）【精析】同义转述题。C）段最后一句指出，最糟糕的情况是变成更加令人担忧的问题:“生物恐惧症”，即对生物的恐惧和对自然的完全厌恶。题干中的 the fear of living organisms 对应原文中的 biophobia 和 the fear of living things, 题干中的 worrisome 是原文中 concernin",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "Preventing the increase in children's fear of living creatures is also important for conserving\nbiodiversity.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "】同义转述题。G）段最后一句提到, 尽管许多保护生物学家仍然认为防止野生动物栖息地的丧失是保护生物多样性最重要的方法，但曾我昌史觉得防止生物恐惧症的增加对保护也很重要。 题干中的 the increase in children's fear of living 英语菌的笔记 creatures 是对原文中 increased biophobia 的同义转述，题干中的 conserving biodiversity 对应原文中的 conserve biodiversity 和 conservation, 故答案为 G）o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "40 . 【定位】由题干中的 preventing the increase 和 also important for conserving biodiversity 定位到 G）段最后一句。 G）【精析】同义转述题。G）段最后一句提到, 尽管许多保护生物学家仍然认为防止野生动物栖息地的丧失是保护生物多样性最重要的方法，但曾我昌史觉得防止生物恐惧症的增加对保护也很重要。 题干中的 the increase in children's fear of living 英语菌的笔记 creatures 是对原文中 increased bi",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "Research shows that more and deeper experience people have with nature will help save it.",
-          "answer": null,
-          "explanation": ""
+          "answer": "P",
+          "explanation": "P 段第一句：saving nature requires encouraging people to experience it more often and more deeply。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "定位到文章 P）段第一句，故答案为 P）",
+            "confidence": "high",
+            "verified": true
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "Though humans naturally tend to avoid dangerous animals, today's children try to stay away from even\nharmless ones.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "【定位】由题干中的 recent history 和 once timber production，故答案为 B）。 seemingly impossible 定位到文章 G）段第一句。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "42 . 【定位】由题干中的 naturally tend to avoid dangerous animals 和 even harmless ones 定位到文章 E）段第三句 o E）【精析】同义转述嬴。E）段第三句指出，人类生来就会避开像蜜蜂这样的危险生物, 但如今的儿童甚至还会躲避诸如蝴蝶和蜻蜓之类的无害昆虫。 题干中的 naturally tend to avoid dangerous animals 和 stay away from even harmless ones 分别对应原文中的 inherently avo",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "Development in and around Discovery Park could cause heavy losses to the park and the local\nresidents.",
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "】细节归纳题。D）段定位句提到，\"环境\"这 A）段最后一句。 一概念的出现导致了环保机构、法规和环境研究 A）【精析】同义转述题。A）段定位句指出，保护资源的兴起，并使环境科学成为新的、综合的学术学的想法来自于人们对未来的担忧∶人们担心消耗科。1956 年，位于锡拉丘兹的纽约州立大学林业资源的速度超过它们的补充速度。题干中的学院授予了第一个环境研究的理学学士学位。题干中的 environmental science 和 academic consider preserving natural resources 对应原文中的 the idea of prcserving resources，题干中的 disciplines 直接对应原文内容，由 it was in 1956 when they feared they would have nothing to use that the very first bacbelor of science in in the future 是对原文中 a fear of using 平 environmental studies was awarded 可知，环境科学成为学术学科至今差不多有六十几年，题干中 resources faster than they could be replenished 的同义转述，故答案为 A）。 some sixty years ago 与此对应，敢答案为 D）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "43 . 【定位】由题干中的 heavy losses 和 the park and the local residents 定位到文章 M）段第一句。 M）【精析】细节推断题。M）段第一句提出，如果发生类似的事情, 探索公园和西雅图人都可能失去一些至关重要的东西。由上一段可知，anything like that 是指开发探索公园的部分地区或周边地区。 而 J）段第一句表明探索公园位于西雅图，由此可以推知，题干中的当地人就是指西雅图人。也就参考译文是说, 开发探索公园的部分地区或周边地区会",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "A large survey of school children found that their negative feelings grew as their experience with\nnature diminished.",
           "answer": "D",
-          "explanation": "】同义转述题。D）段第四句提到一项对杨 木县5 300多名学龄儿童的调查，研究了他们对 14种当地昆虫和1 种蜘蛛的看法。由5 300多名 学龄儿童可知，这是一项大型调查。然后该段最 后一句指出调查结果发现学生对自然的体验越 少，他们的感受就越负面。题干中的a large survey of school children 对应原文中的 a survey of more than 5, 300 school children,题干中的 their negative feelings grew as their experience with nature diminished 是对原文中 the less experience the students had with nature, the more negative their feelings 的同义转述,故答案 为D）。"
+          "explanation": "】同义转述题。D）段第四句提到一项对杨木县 5 300 多名学龄儿童的调查，研究了他们对 14 种当地昆虫和 1 种蜘蛛的看法。由 5 300 多名学龄儿童可知，这是一项大型调查。然后该段最后一句指出调查结果发现学生对自然的体验越少，他们的感受就越负面。题干中的 a large survey of school children 对应原文中的 a survey of more than 5,300 school children, 题干中的 their negative feelings grew as their experience with nature diminished 是对原文中 the less experience the students had with nature, the more negative their feelings 的同义转述, 故答案为 D）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "【定位】由题干中的 a large survey of school children 和 negative feelings grew 定位到文章 D） 段第四句和最后一句。 D）【精析】同义转述题。D）段第四句提到一项对杨木县 5 300 多名学龄儿童的调查，研究了他们对 14 种当地昆虫和 1 种蜘蛛的看法。由 5 300 多名学龄儿童可知，这是一项大型调查。然后该段最后一句指出调查结果发现学生对自然的体验越少，他们的感受就越负面。题干中的 a large survey of school childre",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "Elizabeth Lev believes increased contact with more wildlife helps conserve biodiversity.",
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "】细节推断题。N）段最后一句指出, 伊丽莎白•列夫表示如果我们能让人们了解到与大自然更多类型的野生动植物进行更多接触所带来的意义和价值，那么也许我们可以停止这一循环, 并朝着保护和恢复我们剩余资源的方向迈进。由此可以推知，与更多类型的野生动植物进行更多接触有助于保护和恢复我们的剩余资源，即保护生物多样性。题干中的 increased contact with more wildlife 对应原文中的 having more experiences with more wild forms of nature, 题干中的 helps conserve biodiversity 是根据原文中 move toward conserving and restoring what we have left 推断而出的结论，故答案为 N）。 对自然的恐惧：自然保护的新威胁 A）当自然空间与自然物种消失时，我们会失去什么？ （37）越来越多的研究表明，随着物种和生态系统的消亡, 这也逐步削弱了我们保护剩余资源的能力— 因为我们无法再了解到自己正在失去什么。 B）你可能会经常看到这一问题。在自家草坪上喷洒杀虫剂而不去对付恼人蜜蜂的邻居。因从未在野外见过狼而投票反对野生动物保护的政客。企图推平稀有青蛙栖息地的公司。 C）最好的情况可以说是“自然经历的消逝”, 我们的文化历史和自然历史逐渐从我们的记忆中消失，因而也会从我们的现实中消失。（39）最糟糕的情况是变成更加令人担忧的问题:“生物恐惧症”，即对生物的恐惧和对自然的完全厌恶。 D）这并非生活在寒冷空虚的绝望世界之中的假象。可悲的是，这已逐渐成为太多人的一种生活方式— 尤其是儿童。日本最近的一项研究对该问题的描述引人注目。（44-式一项对杨木县 5 300 多名学龄儿童的调查, 研究了他们对 14 种当地昆虫和 1 种蜘蛛的看法。结果如何？全都说“恶心!”大多数学生认为这些物种是令人厌恶或恐惧之物，甚至是危险源。（44-2）学生对自然的体验越少, 他们的感受就越负面。 英语菌的笔记 E ) 该研究结果已于今年早些时候发表在期刊《生物保护》上。东京",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+            "sourceText": "45 . 【定位】由题干中的 Elizabeth L ev 和 increased contact with more wildlife 定位到文章 N）段最后 —■句。 N）【精析】细节推断题。N）段最后一句指出, 伊丽莎白•列夫表示如果我们能让人们了解到与大自然更多类型的野生动植物进行更多接触所带来的意义和价值，那么也许我们可以停止这一循环, 并朝着保护和恢复我们剩余资源的方向迈进。由此可以推知，与更多类型的野生动植物进行更多接触有助于保护和恢复我们的剩余资源，即保护生物多样性。题干中的 in",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -405,8 +691,17 @@
                 "C": "It confuses parents with regard to kids5 education.",
                 "D": "It has been discarded in line with recent research."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "到什么？ A ) It has met more and more resistance from parents. A ) 它已遭到父母们越来越强烈的抵制。 B) It has proved helpful to children's healthy growth. B ) 它已被证实有助于儿童的健康成长。 C) It confuses parents with regard to kids, education. C ) 它使父母们对孩子的教育感到困惑。 D) It has been discarded in line with recent research. D ) 它已被摒弃，以与最新研究保持一致。 [精准定位]本题考查“禁止 2 岁以下儿童接触屏幕”这一规则的相关信息。由题干关键词 the “N o screens under 2\" rule 可定位至首三段(“N o screens before age 2\". . . that rule. . . that recommendation. . . ) 0 [锁定答案]D o 第一段指出“禁止 2 岁以下儿童接触屏幕”这一规则一直以来为大多数父母所坚守，第二、三段则转而介绍最新变化：此规则如今已被弃用，AAP 为了反映新研究及新习惯，已经大幅更新、修订了指南。D 项概括第二、三段所述变化，为正确项。 [排除干扰]A 项将第二段 that rule has been thrown out the window 断章取义为“如今的父母们强烈抵制'禁止 2 岁以下儿童接触屏幕'旧规则”，但结合第三段阐释可知，该内容实际指“人们形成新习惯，弃用旧规贝-'，无关\"抵制(resistance)”。B 项结合常识“孩子过早接触电子设备有害成长”设置干扰，但文中并无信息支持。C 项利用首段 confusing 一词捏造干扰，但该词实指“'儿童与媒体'这个世界复杂难懂(the confusing. . . world of kids and media)”，并非是说旧规则令父母们困惑，且选项违背首段的言外之意“旧规则在很大程度上帮助父母们",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "dren's healthy growth. B ) 它已被证实有助于儿童的健康成长。 C) It confuses parents with regard to kids, education. C ) 它使父母们对孩子的教育感到困惑。 D) It has been discarded in line with recent research. D ) 它已被摒弃，以与最新研究保持一致。 [精准定位]本题考查“禁止 2 岁以下儿童接触屏幕”这一规则的相关信息。由题干关键词 the “N o screens under 2\" rule 可定位至首三段(“N o screens before age 2",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -419,7 +714,16 @@
                 "D": "Parents should protect their children from too much media exposure."
               },
               "answer": "A",
-              "explanation": "】推理判断题。文章第四段第一句指出，这 项新的指导方针，特别是针对非常年幼的儿童的 部分,将重点从屏幕上的内容转向房间里的其他 英语菌的笔记 人。文章第七段第一句指出，只有当父母和孩子 一起观看视频，并且对孩子重复视频中的内容，或 者提示孩子注意屏幕上的内容时,孩子才能从教 育媒体中学到新单词。由此可知,新指南提倡在 看屏幕期间，年幼的孩子应该有父母陪伴,故答案 为A）。 【避错】第四段第一句指出，新指南提倡在看屏幕 期间，年幼的孩子应该有父母陪伴,但这并不能说 明，父母应该在情感上参与孩子的成长,B）选项为 过度推理，故排除;根据第四段第一句可知，新指 南提倡的是陪伴，而不是强调孩子具体观看的视 频内容,C）项表述与原文不符，故排除;本文第二 段明确指出2 岁以下不适合看屏幕的规则已经不 适用了，同时根据第五至七段可知，新指南建议在 家长的陪同下，孩子可以观看视频,而非父母应该 保护孩子免受过多的媒体曝光,D）项表述与原文 不符，故排除。"
+              "explanation": "】推理判断题。文章第四段第一句指出，这项新的指导方针，特别是针对非常年幼的儿童的部分, 将重点从屏幕上的内容转向房间里的其他英语菌的笔记人。文章第七段第一句指出，只有当父母和孩子一起观看视频，并且对孩子重复视频中的内容，或者提示孩子注意屏幕上的内容时, 孩子才能从教育媒体中学到新单词。由此可知, 新指南提倡在看屏幕期间，年幼的孩子应该有父母陪伴, 故答案为 A）。 【避错】第四段第一句指出，新指南提倡在看屏幕期间，年幼的孩子应该有父母陪伴, 但这并不能说明，父母应该在情感上参与孩子的成长, B）选项为过度推理，故排除;根据第四段第一句可知，新指南提倡的是陪伴，而不是强调孩子具体观看的视频内容, C）项表述与原文不符，故排除;本文第二段明确指出 2 岁以下不适合看屏幕的规则已经不适用了，同时根据第五至七段可知，新指南建议在家长的陪同下，孩子可以观看视频, 而非父母应该保护孩子免受过多的媒体曝光, D）项表述与原文不符，故排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "52. 新 AAP 指南提倡什么？ A ) Young children should be accompanied by parents during screen time. A）幼童在观看屏幕期间应有父母陪同。 B) Parents should be emotionally involved in their children's upbringi",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -432,7 +736,16 @@
                 "D": "It is a good substitute for video viewing."
               },
               "answer": "A",
-              "explanation": "】推理判断题。文章第五段第二句指出，调 查显示，美国家庭已经普遍认为“实时视频聊天没 事''，或者至少他们认为云端看望祖父母或其他亲 戚的好处要大于让婴儿接触笔记本电脑或智能手 机的潜在危害。由此可知，调查表明，家庭认为实 时视频聊天不应被视为屏幕时间，故答案为A）。 【避错】定位句并未提及美国家庭认为和家人实时 视频聊天有助于婴儿发展他们的语言技能,B）项 表述与原文不符，故排除;根据定位句可知，“实时 视频聊天没事”，或者至少他们认为云端看望祖父 母或其他亲戚的好处，要大于让婴儿接触笔记本 电脑或智能手机的潜在危害。这里是指与家人实 时聊天的好处大于孩子接触电脑或者手机，文章 没有把实时视频聊天和在电脑上打游戏的危害做 比较,故排除C）项;根据定位句可知，美国家庭认 为实时视频聊天不算屏幕时间，但该调查并没有 指出美国家庭认为实时视频聊天可以替代视频观 看,D）项为过度推理，故排除。"
+              "explanation": "】推理判断题。文章第五段第二句指出，调查显示，美国家庭已经普遍认为“实时视频聊天没事''，或者至少他们认为云端看望祖父母或其他亲戚的好处要大于让婴儿接触笔记本电脑或智能手机的潜在危害。由此可知，调查表明，家庭认为实时视频聊天不应被视为屏幕时间，故答案为 A）。 【避错】定位句并未提及美国家庭认为和家人实时视频聊天有助于婴儿发展他们的语言技能, B）项表述与原文不符，故排除;根据定位句可知，“实时视频聊天没事”，或者至少他们认为云端看望祖父母或其他亲戚的好处，要大于让婴儿接触笔记本电脑或智能手机的潜在危害。这里是指与家人实时聊天的好处大于孩子接触电脑或者手机，文章没有把实时视频聊天和在电脑上打游戏的危害做比较, 故排除 C）项;根据定位句可知，美国家庭认为实时视频聊天不算屏幕时间，但该调查并没有指出美国家庭认为实时视频聊天可以替代视频观看, D）项为过度推理，故排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+                "sourceText": "【定位】由题干中的 families 和 live video chat 定位到第五段。 A） t 精析】推理判断题。文章第五段第二句指出，调查显示，美国家庭已经普遍认为“实时视频聊天没事''，或者至少他们认为云端看望祖父母或其他亲戚的好处要大于让婴儿接触笔记本电脑或智能手机的潜在危害。由此可知，调查表明，家庭认为实时视频聊天不应被视为屏幕时间，故答案为 A）。 【避错】定位句并未提及美国家庭认为和家人实时视频聊天有助于婴儿发展他们的语",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q54",
@@ -444,8 +757,17 @@
                 "C": "It hampers their development of language skills.",
                 "D": "It helps them acquire independent learning skills."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "】事实细节题。文章第八段第一句指出，另一方面，许多研究实际表明，孩子语言技能较差与其早期单独观看“教育”视频相关。由此可知，孩子自己看视频, 会阻碍他们语言技能的发展，故答案为 C）。 【避错】定位句指出，孩子语言技能较差与其早期单独观看“教育”视频相关, 即孩子自己看视频会影响语言发展，而非引起了他们对语言学习的兴趣, 故排除 A）项;第七段最后一句指出，把视频或应用程序当作一本图画书，这种方法最佳, 但并没有把自己单独看视频和读图画书相比较, 故排除 B）项;定位句指出孩子自己单独看视频会影响语言发展，而非会帮助他们获得独立的学习技能，故排除 D）项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+                "sourceText": "54 . 【定位】由题干中的 kids solo viewing educational videos 定位到第八段第一句。 C）【精析】事实细节题。文章第八段第一句指出，另一方面，许多研究实际表明，孩子语言技能较差与其早期单独观看“教育”视频相关。由此可知，孩子自己看视频, 会阻碍他们语言技能的发展，故答案为 C）。 【避错】定位句指出，孩子语言技能较差与其早期单独观看“教育”视频相关, 即孩子自己看视频会影响语言发展，而非引起了他们对语言学习的兴趣, 故排除 A）项;第七段",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q55",
@@ -458,7 +780,16 @@
                 "D": "They can relate what they learn on the screen to real life situations."
               },
               "answer": "D",
-              "explanation": "】推理判断题。文章最后一段第一句指出， 对于2 至5 岁的学龄前儿童，有更多证据表明他 们有能力将知识从屏幕转移到现实世界,包括早 期识字和数学。由此可知,2 至5 岁的学龄前儿童 可以将屏幕上学到的内容与现实生活情境联系起 来，故答案为D）。 【避错】最后一段第一句指出，2 至5 岁的学龄前 儿童可以将屏幕上学到的内容与现实生活情境联 系起来，而非可以很好地理解他们在屏幕上看到 的内容，故排除A）项;最后一段最后一句指出，正 如与更年幼的孩子一起观看一样,该指南希望照 顾者也能参与到屏幕时间中，与孩子共同观看,而 非孩子可以在没有父母指导的情况下自学，故排 除B）项;文章最后一段第一句指出，对于2 至5 岁 的学龄前儿童，有更多证据表明他们有能力将知 识从屏幕转移到现实世界，包括早期识字和数学, 文中提到的是数学,而不是digital literacy\"数字 素养”，故排除C）项。 参考译文 （51-1）如果说在混乱、快速变化的儿童和媒体世界中,有一条规则是大多数父母所坚持的，那么这条 规则一定是，在孩子未满2 周岁之前，应该限制孩子看屏幕。 （51⑵但从今天起，这条规则就不适用了。 美国儿科学会早在1999年就首次发布了这条建议。但为了反映最新的研究发现以及人们的新习惯， 该学会对有关儿童和青少年的指导方针进行了广泛的更新和修订。 （52-1）这项新的指导方针,特别是针对非常年幼的儿童的部分，将重点从屏幕上的内容转向房间里的 其他人。通过这种转变，他们提出了一些有关未来从媒体学习的有趣观点。 美国儿科学会仍然认为18个月以下的婴儿不适合看屏幕— 但有一个明显的例外:实时视频聊天。 （53）调查显示，美国家庭已经普遍认为“实时视频聊天没事”，或者至少他们认为云端看望祖父母或其他 亲戚的好处要大于让婴儿接触笔记本电脑或智能手机的潜在危害。 美国儿科学会并没有直接的证据能说明婴儿确实可以从这种“对话”中获得和真实社交中一样的收 获。但有一些观察研究表明,6 个月大的婴儿与奶奶在网上玩实时躲猫猫的游戏,在情感上也很投入。 英语菌的笔记 对于15个月到2 岁的婴儿和学步儿童，"
+              "explanation": "】推理判断题。文章最后一段第一句指出， 对于 2 至 5 岁的学龄前儿童，有更多证据表明他们有能力将知识从屏幕转移到现实世界, 包括早期识字和数学。由此可知, 2 至 5 岁的学龄前儿童可以将屏幕上学到的内容与现实生活情境联系起来，故答案为 D）。 【避错】最后一段第一句指出，2 至 5 岁的学龄前儿童可以将屏幕上学到的内容与现实生活情境联系起来，而非可以很好地理解他们在屏幕上看到的内容，故排除 A）项;最后一段最后一句指出，正如与更年幼的孩子一起观看一样, 该指南希望照顾者也能参与到屏幕时间中，与孩子共同观看, 而非孩子可以在没有父母指导的情况下自学，故排除 B）项;文章最后一段第一句指出，对于 2 至 5 岁的学龄前儿童，有更多证据表明他们有能力将知识从屏幕转移到现实世界，包括早期识字和数学, 文中提到的是数学, 而不是 digital literacy\"数字素养”，故排除 C）项。 参考译文 （51-1）如果说在混乱、快速变化的儿童和媒体世界中, 有一条规则是大多数父母所坚持的，那么这条规则一定是，在孩子未满 2 周岁之前，应该限制孩子看屏幕。 （51⑵但从今天起，这条规则就不适用了。 美国儿科学会早在 1999 年就首次发布了这条建议。但为了反映最新的研究发现以及人们的新习惯， 该学会对有关儿童和青少年的指导方针进行了广泛的更新和修订。 （52-1）这项新的指导方针, 特别是针对非常年幼的儿童的部分，将重点从屏幕上的内容转向房间里的其他人。通过这种转变，他们提出了一些有关未来从媒体学习的有趣观点。 美国儿科学会仍然认为 18 个月以下的婴儿不适合看屏幕— 但有一个明显的例外:实时视频聊天。 （53）调查显示，美国家庭已经普遍认为“实时视频聊天没事”，或者至少他们认为云端看望祖父母或其他亲戚的好处要大于让婴儿接触笔记本电脑或智能手机的潜在危害。 美国儿科学会并没有直接的证据能说明婴儿确实可以从这种“对话”中获得和真实社交中一样的收获。但有一些观察研究表明, 6 个月大的婴儿与奶奶在网上玩实时躲猫猫的游戏, 在情感上也很投入。 英语菌的笔记对于 15 个月到 2 岁的婴儿和学步儿童，",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-2/key_2022.12英语六级解析第2套.txt",
+                "sourceText": "【定位】由题干中的 ages 2 t。5 定位到最后一段第一■句。 D）【精析】推理判断题。文章最后一段第一句指出， 对于 2 至 5 岁的学龄前儿童，有更多证据表明他们有能力将知识从屏幕转移到现实世界, 包括早期识字和数学。由此可知, 2 至 5 岁的学龄前儿童可以将屏幕上学到的内容与现实生活情境联系起来，故答案为 D）。 【避错】最后一段第一句指出，2 至 5 岁的学龄前儿童可以将屏幕上学到的内容与现实生活情境联系起来，而",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

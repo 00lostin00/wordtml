@@ -1,0 +1,20 @@
+{
+  "id": "cet6-2021-06-2",
+  "type": "cet6",
+  "year": 2021,
+  "month": 6,
+  "set": 2,
+  "title": "2021年6月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You \nshould write your answer on Answer Sheet 2.",
+      "source": "",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

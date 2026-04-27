@@ -1,0 +1,18 @@
+{
+  "id": "cet6-2013-06-2",
+  "type": "cet6",
+  "year": 2013,
+  "month": 6,
+  "set": 2,
+  "title": "2013年6月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "",
+      "prompt": ""
+    }
+  ]
+}

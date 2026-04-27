@@ -27,7 +27,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -40,7 +49,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -53,7 +71,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文标",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -66,7 +93,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文标题",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -79,7 +115,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文标题",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -91,8 +136,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文标",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -105,7 +159,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -117,8 +180,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -131,7 +203,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -144,7 +225,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文标题",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -156,8 +246,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -170,7 +269,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -183,7 +291,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文标",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -196,7 +313,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文标题",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -208,8 +334,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -222,7 +357,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -235,7 +379,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文标题",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -248,7 +401,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文标",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -261,7 +423,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -273,8 +444,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2008/key_2008年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 BDACC 6-10ABDBC 11-15 BDACD 16-20 DCABA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ♦- Text 1 旬 I 命题分析 Text 1 选自 Discovery （《探索频道》）的“健康”版块，原文标",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

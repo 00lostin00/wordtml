@@ -1,0 +1,357 @@
+{
+  "id": "cet6-2021-06",
+  "type": "cet6",
+  "year": 2021,
+  "month": 6,
+  "set": 0,
+  "title": "2021年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay based on the chart below. You should start your essay with a brief description of the chart and comment on China achievements in poverty alleviation. You should write at least 150 words but no more than 200 words. Rural population in poverty poverty headcount ratio (Million people) (% of rural population)",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one\nword for each blank from a list of choices given in a word bank following the passage. Read the\npassage through carefully before making your choices. Each choice in the bank is identified by\na letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single\nline through the centre. You may not use any of the words in the bank more than once.\nQuestions 26 to 35 are based on the following passage.\nAt 43, Fve reached the stage where women are warned to watch out for the creeping\nsadness of middle age. We're served up an endless stream of advice on “how to survive\nyour 40s ”, as if we're in the endurance stage of a slow limp toward \n\n. This is the\nage women start to become “invisible”—our value, attractiveness and power supposedly\n\nby the vanishing of youth. But I don't feel like I'm fading into \n\n. 1 feel more\nseen than I ever have, and for the first time in my life, I have a clear-eyed view of myself\nthat is \n\n, compassionate and accepting.\nWhen I look in the mirror, I'm proud of who I am- even those “broken“ parts that\nfor so long seemed impossible to love. So when advertisers try to sell me ways to\n“turn back the clock”, I have to \n\na laugh. I wouldn't go back to the crippling\n\nself-consciousness of my youth if you paid me. This hard-won sense of self^acceptance\nis one of the joys of being an older woman. But ifs a narrative often \n\nout by the\nshame that marketers rely on to peddle us their diet pills, miracle face creams and\nbreathable yoga pants- as if self-love is a \n\ncommodity.\nFor some women I know, this sense of trust and self^belief later in life gave them the\ncourage to leave dysfunctional relationships or \n\non new career paths. Others talked\nabout enjoying their own company, of growth through \n\n, deepening bonds of\nfriendships, the ability to be more compassionate, less judgmental and to listen more and\nappreciate the small pleasures. Life past 40 is far from smooth sailing, but it's so much\nmore than the reductive \n\nwe see in women's magazines and on the Hollywood big\nscreen.",
+      "wordBank": {
+        "A": "adversity",
+        "I": "neglected",
+        "B": "authentic",
+        "J": "obscurity",
+        "C": "convey",
+        "K": "outlines",
+        "D": "depictions",
+        "L": "prevalent",
+        "E": "diminished",
+        "M": "purchasable",
+        "F": "drowned",
+        "N": "submit",
+        "G": "embark"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Digital humans are coming to a screen near you. As computer-generated imagery (CGI)\nhas become cheaper and more sophisticated, the film industry can now convincingly\nrecreate people on screen- even actors who have been dead fbr decades. The\ntechnology's ability to effectively keep celebrities alive beyond the grave is raising\nquestions about public legacies and image rights."
+        },
+        {
+          "label": "B",
+          "text": "Late in 2019, it was announced that US actor James Dean, who died in 1955, will star in\na Vietnam War film scheduled for release later this year. In the film, which will be\ncalled Finding Jach, Dean will be recreated on screen with CGI based on old footage\n\n（影片 镜头）and photographs, with another actor voicing him. The news was met with\nexcitement by those keen to see Dean digitally brought back to life for only his fourth\nfilm, but it also drew sharp criticism. \"This is puppeteering the dead for their fame\nalone,“ actress Zelda Williams wrote on Twitter.\"It sets such an awful precedent fbr the\nfuture of performance.\" Her father, Robin Williams, who died in 2014, was keen to\navoid the same fate. Before his death, he filed a deed protecting the use of his image\nuntil 2039, preventing others from recreating him using CGI to appear in a film, TV\nshow or as a hologram （全息影像）.\nC） The James Dean film is a way to keep the actor's image relevant for younger\ngenerations, says Mark Roesler of CMG Worldwide, the firm that represents Dean's\nestate. \"I think this is the beginning of an entire wave,“ says Travis Cloyd, CEO of\nWorldwide XR, one of the companies behind the digital recreation of Dean. \"Moving\ninto the future, we want James Dean to be brought into different gaming environments,\nor different virtual reality environments, or augmented reality environments,he says.\nD） Other actors have been revived, with the permission of their estates, for advertising\npurposes: for example, a 2011 advertisement fbr Dior featured contemporary actress\nCharlize Theron alongside iconic 20th-century stars Marilyn Monroe, Grace Kelly and\nMarlene Dietrich. Later, Audrey Hepburn was digitally recreated for a chocolate\ncommercial in 2013. In the same year, a CGI Bruce Lee appeared in a Chinese-language\nad fbr a whisky brand, which offended many fans because Lee was widely known not to\ndrink alcohol at all. \"In the last five years, it's become more affordable and more\nachievable in a whole movie,“ says Tim Webber at UK visual effects firm Framestore,\nthe company behind the Hepburn chocolate ad. Framestore used body doubles with\nresemblance to Hepburn's facial structure and body shape as a framework fbr manual\nanimation. The process was extremely difficult and expensive, says Webber, but the\ntechnology has moved on.\nE） Now, a person can be animated from scratch. t4If they5re alive today,you can put them in\nscanning rigs, you can get every detail of their body analysed very carefully and that\nmakes it much easier, whereas working from available photographs is tricky,“ says\nWebber, who won an Academy Award for his visual effects work on the 2013 film\nGravity. \nalso see a lot of actors today who will have the desire to take advantage of\nthis technology: to have their likeness captured and stored for future content/5 says\nCloyd. \"They foresee this being something that could give their estates and give their\nfamilies the ability to make money from their likeness when they're gone.”\nF） A hidden hazard of digitally recreating a deceased （已故的）celebrity is the risk of\ndamaging their legacy. \"We have to respect the security and the integrity of rights\nholders,says John Canning at Digital Domain, a US firm that created a hologram of\nrapper （说唱 艺人）Tupac Shakur, which appeared at the Coachella music festival in\n2012,15 years after his death.\nG） Legally, a person's rights to control the commercial use of their name and image beyond\n\ntheir death differ between and even within countries. In certain US states, for example,\nthese rights are treated similarly to property rights, and are transferable to a person's\nheirs. In California, under the Celebrities Rights Act, the personality rights for a\ncelebrity last for 70 years after their death. \"We've got a societal debate going on about\naccess to our public commons, as it were, about famous faces/5 says Lilian Edwards at\nNewcastle University, UK. Should the public be allowed to use or reproduce images of\nfamous people, given how iconic they are? And what is in the best interest of a deceased\nperson's legacy may conflict with the desires of their family or the public, says\nEdwards."
+        },
+        {
+          "label": "H",
+          "text": "A recreation, however lifelike, will never be indistinguishable from a real actor, says\nWebber. t4When we are bringing someone back, representing someone who is no longer\nalive on the screen, what we are doing is extremely sophisticated digital make-up,he\nsays. t4A performance is a lot more than a physical resemblance.,5"
+        },
+        {
+          "label": "I",
+          "text": "As it becomes easier to digitally recreate celebrities and to entirely manufacture\non-screen identities, could this kind of technology put actors out of jobs? ”I think actors\nare worried about this,“ says Edwards. \"But I think it will take a very long time.\"This is\npartly because of the risk that viewers find virtual humans scary. Edwards cites\nwidespread backlash to the digital recreation of Carrie Fisher as a young Princess Leia\nin Rogue One, a trick later repeated in the recent Star Wars'. The Rise of Skywalker,\nwhich was filmed after Fisher's death in 2016. \"People didn't like it,“ she says. \" They\ndiscovered the uncanny valley (诡异谷)"
+        },
+        {
+          "label": "J",
+          "text": "This refers to the idea that when objects trying to resemble humans aren't quite perfect,\nthey can make viewers feel uneasy because they fall somewhere between obviously\nnon-human and fully human. \"That's always a danger when you5re doing anything\nhuman or human-like,says Webber. 4'There are a thousand things that could go wrong\nwith a computer-generated facial performance, and any one of those could make it fall\ninto the uncanny valley,“ he says. \"Your brain just knows there's something wrong.”\nThe problem often arises around the eyes or mouth, says Webber. \"They're the areas\nthat you look at when you're talking to someone."
+        },
+        {
+          "label": "K",
+          "text": "An unfamiliar digital human that has been created through CGI will also face the same\nchallenge as an unknown actor: they don't have the appeal of an established name. \"You\nhave to spend substantial capital in creating awareness around their likeness and making\nsure people are familiar with who they are,“ says Cloyd. This is now starting to happen.\n“The way you pre-sell a movie in a foreign market is based on relevant talent,he says.\n“I think we're a long way away from having virtual beings that have the ability to\npre-sell content.”\nL) Webber expects that we will see more digital humans on screen. \"It's happening\nbecause it can happen,5, he says. Referring to a line from Jurassic Park (侏 罗 必己公 园)，\nhe adds: \"People are too busy thinking about what they can do to think about whether\nthey should do it.”"
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "There is an ongoing debate among the public as to whether the images of deceased\ncelebrities should be recreated.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "The CGI technology allows the image of the deceased James Dean to be presented to\nyoung people in new settings.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "It is very likely that the CGI-recreated image of a deceased celebrity will fail to match\nthe real actor especially in facial expressions.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "The use of digital technology can bring images of deceased celebrities back to the screen.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Recreating a deceased famous actor or actress may violate their legitimate rights.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "More CGI-recreated images of deceased celebrities are expected to appear on screen.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "The image of James Dean will be recreated on screen with his voice dubbed by\nsomeone else.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "However advanced the CGI technology is, the recreated image will differ in a way from\nthe real actor.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "A lot of actors today are likely to make use of the CGI technology to have their images\nstored for the benefit of their families.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Some actors are concerned that they may lose jobs because of the CGI technology.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nYou can't see it, smell it, or hear it, and people disagree on how precisely to define it,\nor where exactly it comes from. It isn't a school subject or an academic discipline, but it\ncan be learned. It is a quality that is required of artists, but it is also present in the lives of\nscientists and entrepreneurs. All of us benefit from it and we thrive mentally and spiritually\nwhen we are able to wield it. It is a delicate thing, easily stamped out; in fact, it flourishes\nmost fully when people are playful and childlike. Meanwhile, it works best in conjunction\nwith deep knowledge and expertise.\nThis mysterious- but teachable-\nquality is creativity, the subject of a recently\n-published report by Durham Commission on Creativity and Education. The report concludes\nthat creativity should not inhabit the school curriculum only as it relates to drama, music,art\nand other obviously creative subjects, but that creative thinking ought to run through all of\nschool life, infusing (充满)the way humanities and natural sciences are learned.\nThe authors, who focus on education in England, offer a number of sensible\nrecommendations, some of which are an attempt to alleviate the uninspiring and fact-based\napproach to education that has crept into policy in recent years. When children are regarded\nas vessels to be filled with facts, creativity does not prosper; nor does it when teachers' sole\n\nobjective is coaching children towards exams. One suggestion from the commission is a\nnetwork of teacher-led ''creativity collaboratives^^, along the lines of existing maths hubs (中\nwith the aim of supporting teaching for creativity through the school curriculum.\nNevertheless, it is arts subjects through which creativity can most obviously be\nfostered. The value placed on them by the independent education sector is clear. One only\nhas to look at the remarkable arts facilities at Britain's top private schools to comprehend\nthis. But in the state sector the excessive focus on English, maths and science threatens to\ncrush arts subjects; meanwhile, reduced school budgets mean diminishing extracurricular\nactivities. There has been a 28.1% decline in students taking creative subjects at high\nschools since 2014, though happily, art and design have seen a recent increase.\nThis discrepancy between state and private education is a matter of social justice. It is\nsimply wrong and unfair that most children have a fraction of the access to choirs,\norchestras, art studios and drama that their more privileged peers enjoy. As lives are\naffected by any number of looming challenges- climate crisis, automation in the\nworkplace- humans are going to need creative thinking more than ever. For all of our\nsakes, creativity in education, and for all, must become a priority.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What do we learn from the passage about creativity?",
+              "options": {
+                "A": "It develops best when people are spiritually prepared.",
+                "B": "It is most often wielded by scientists and entrepreneurs.",
+                "C": "It is founded on scientific knowledge and analytical skills.",
+                "D": "It contributes to intellectual growth but can easily be killed."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What is the conclusion of a recently-published report?",
+              "options": {
+                "A": "Natural sciences should be learned the way humanities courses are.",
+                "B": "Cultivation of creativity should permeate the entire school curriculum.",
+                "C": "Art courses should be made compulsory for all students.",
+                "D": "Students should learn more obviously creative subjects."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What does the report say is detrimental to the fostering of creativity?",
+              "options": {
+                "A": "Alleviation of pressure.",
+                "B": "Teacher-led school activities.",
+                "C": "Test-oriented teaching.",
+                "D": "Independent learning."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What do we learn about the private schools in the UK?",
+              "options": {
+                "A": "They encourage extracurricular activities.",
+                "B": "They attach great importance to arts education.",
+                "C": "They prioritize arts subjects over maths and sciences.",
+                "D": "They cater to students from different family backgrounds."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What should be done to meet the future challenges?",
+              "options": {
+                "A": "Increasing government investment in school education.",
+                "B": "Narrowing the existing gap between the rich and the poor.",
+                "C": "Providing all children with equal access to arts education.",
+                "D": "Focusing on meeting the needs of under-privileged students."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nEmulating your conversation partner's actions is a common human behavior classified\nas “mirroring“ and has been known and studied by psychologists fbr years. We all tend to\nsubconsciously copy gestures of people we like. But why do we act like this?\nAs a rule, mirroring means that conversationalists enjoy their communication and that\nthere's acertain level of agreement between them. The topic of discussion is equally\ninteresting fbr both and they know their interests meet.\nRepeating someone's behavior is typical of talented communicators, not always\nbecause the person is sympathetic, but because there is a goal to be achieved. This way new\nidols have been brought to the stage: politicians, celebrities, and other big names. Popular\nculture makes people want to look popular, and act and speak like popular people.\nNowadays celebrities steal lyrics from each other and struggle with copyright violation\naccusations or straightforwardly claim themselves to be the authors, even though all the\nwork was done by other people.\nAmong celebrities, ifs trendy nowadays to use their own speech writers as politicians\ndo. The so-called “ghostwriting“ can take various forms: books, articles, autobiographies,\nand even social media posts.\nWho is a true copycat （抄袭者）and who gets copycatted? Sometimes, it is a hard nut\nto crack without an expert?s help. But new authorship defending methods based on\nidentifying individual writing patterns are already here. Their aim is to protect intellectual\nproperty. Using scientific methods, some of them can define authorship with 85% accuracy.\nWriting is not an easy craft to master. If you want to write like a professional without\nplagiarism （抄袭），there are a few lessons to learn and the first one is: \"Copy from one, it's\nplagiarism; copy from two, it's research.^^ The correct interpretation of this statement is not\nabout copying, but rather about creating your own style. When you study an author5 s\nwriting style, don't stop on a single one, but explore numerous styles instead. Examine\ntypes of sentences they use, pay attention to their metaphors, and focus on stories you feel\nyou could write a pretty cool sequel （续篇）to.\nImitation is rather paradoxical. As an integral part of learning, it brings about positive\nchanges, making people develop and grow. However, it may do a lot of hann. Copying\nsomeone's thoughts, ideas or inventions is completely unacceptable. It infringes on\nintellectual property rights of others.\nStill, many things we do are about copying others one way or another. So if you want\nto compliment someone on the work they have done and imitate it, just make sure you do it\nthe right way to avoid committing plagiarism.",
+          "questions": [
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "When does mirroring usually take place in a conversation?",
+              "options": {
+                "A": "When both sides are sympathetic with each other.",
+                "B": "When both sides have a lot of things in common.",
+                "C": "When both sides make interesting contributions.",
+                "D": "When both sides try to seek common ground."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What do we learn about popular culture?",
+              "options": {
+                "A": "It encourages people to imitate.",
+                "B": "It appeals mostly to big names.",
+                "C": "It acquaints young people with their idols.",
+                "D": "It can change people's mode of cognition."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "Why is the saying “copy from two, ifs research^^ a lesson to leam?",
+              "options": {
+                "A": "It facilitates the creation of one's own writing style.",
+                "B": "It helps to protect one's intellectual property rights.",
+                "C": "It fosters correct interpretation of professional writing.",
+                "D": "It enables one to write intriguing sequels to famous stories."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "Why does the author say imitation is rather paradoxical?",
+              "options": {
+                "A": "It is liable to different interpretations.",
+                "B": "It is by and large a necessary evil.",
+                "C": "It can give rise to endless disputes.",
+                "D": "It may do harm as well as good."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into\nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "云南是位于中国西南的一个省份，平均海拔1500米。云南历史悠久，风景秀丽，气候宜人。云南生态环境优越，生物多种多样，被誉为野生动植物的天堂。云南还有多种矿藏和充足的水资源，为全省经济的可持续发展提供了有利条件。云南居住着25 个少数民族，他们大多有自己的语言、习俗和宗教。云南独特的自然景色和丰富的民族文化使其成为中国最受欢迎的旅游目的地之一，每年都吸引着大批国内外游客前往观光旅游。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

@@ -30,8 +30,17 @@
             "C": "He was busy writing his essays.",
             "D": "He was fighting a throat infection."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 对话开头， 句 （1) 中萨拉提到， 她已经差不多两个星期没在课堂上见过大卫了， 她和同学们认为他提前去度假或是去做别的什么事了。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "1. What does Sara think David was doing for the last two weeks？ A) 〖 精析 〗 细节辨认题。 对话开头， 句 （1) 中萨拉提到， 她已经差不多两个星期没在课堂上见过大卫了， 她和同学们认为他提前去度假或是去做别的什么事了。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q10",
@@ -43,8 +52,17 @@
             "C": "To combat counterfeits.",
             "D": "To promote its sales."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 短文讲的第二类蝙蝠为微型蝙蝠。 句 （10） 中明确指出， 这个物种的蝙蝠使用回声定位来探路和辨别食物。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "10 ． HOW dO micro bats find their way and identify food？ B) 〖 精析 〗 细节辨认题。 短文讲的第二类蝙蝠为微型蝙蝠。 句 （10） 中明确指出， 这个物种的蝙蝠使用回声定位来探路和辨别食物。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q11",
@@ -56,8 +74,17 @@
             "C": "It has the drink’s logo in the middle.",
             "D": "It displays the image of Santa Claus."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 句 （(1) 提到， 鲁特玻璃公司的员工接到了这一请求， 他们开始在当地图书馆翻阅百科全书， 他们找到了可可种子。 虽然可可种子不是这款苏打水的一种原料， 但他们根据种子的形状和中间部分比较大的特点设计了瓶子。 QuBtions 12 to 15 are based 皿 the passage you have just h 司 ． （12） Research shows that a few moments Of conversation with a stranger creates a measurable improvement in mood. But most Of are reluctant to start these conversations because we presume the opposite. ln an experiment， commuters whO talked to nearby strangers found their commute more enjoyable than those whO didn， t. They were asked to predict whether they'd enjoy the commute more if they conversed with other people. lntrigumgly， most expected the more solitary experience t0 more pleasurable. Why is this？ (13)Social anxiety appears to the problem. People， s reluctance to start conversations with nearby strangers comes partly from \"underestimating others， interest in connecting ” ． The sad thing is tha",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "11. What dO we learn about the Coca-Cola bottle designed by the ROOt GIass Company？ B) 〖 精析 〗 细节辨认题。 句 （(1) 提到， 鲁特玻璃公司的员工接到了这一请求， 他们开始在当地图书馆翻阅百科全书， 他们找到了可可种子。 虽然可可种子不是这款苏打水的一种原料， 但他们根据种子的形状和中间部分比较大的特点设计了瓶子。 QuBtions 12 to 15 are based 皿 the passage you have",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q12",
@@ -82,8 +109,17 @@
             "C": "Lack of social skills.",
             "D": "Preference for solitude."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 短文中提到， 在一项实验中， 与附近的陌生人交谈的通勤者发现， 与不与陌生人交谈的人相比， 他们的通勤更愉快。 而在他们被要求预测如果和其他人交谈， 他们是否会更享受通勤时， 大多数人却认为独处会更愉快。 关于为什么会出现这种现象， 句 （13） 给出了答案： 社交 Section C 焦虑貌似就是问题所在。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "13 ． What prevents people from starting a conversation with strangers？ A) 〖 精析 〗 细节辨认题。 短文中提到， 在一项实验中， 与附近的陌生人交谈的通勤者发现， 与不与陌生人交谈的人相比， 他们的通勤更愉快。 而在他们被要求预测如果和其他人交谈， 他们是否会更享受通勤时， 大多数人却认为独处会更愉快。 关于为什么会出现这种现象， 句 （13） 给出了答案： 社交 Section C 焦虑貌似就是问题",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q14",
@@ -95,8 +131,17 @@
             "C": "Negative events often hurt people deeply.",
             "D": "People generally resent being rejected."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 句 （14） 提到， 你可能偶尔会有一次不愉快的 （与陌生人） 邂逅， 这种邂逅可能会让你记忆深刻。 这是因为人类的大脑偏向于思考负面事件。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "14， Why does a negative encounter with strangers StiCk in one S memory？ B) 〖 精析 〗 细节辨认题。 句 （14） 提到， 你可能偶尔会有一次不愉快的 （与陌生人） 邂逅， 这种邂逅可能会让你记忆深刻。 这是因为人类的大脑偏向于思考负面事件。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q15",
@@ -108,8 +153,17 @@
             "C": "Unpredictable.",
             "D": "Measurable."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （15） 明确提到， 联系的乐趣看起来是具有感染力的。 Questions 16 to 18 are b on the recording you have just h · The Caribbean islands are divided into tWO worlds， a rich one and a poor one. （16） This tropical reg10n， s economy is based mainly on farming• Farmers are Of two types. One is the plantation owner who may have hundreds Of thousands Of acres. ln contrast， the small cultivator is working only a few acres Of land. MOSt 六级 2021 年 12 月 26 visitors to the Caribbean are nch， like the plantation owner. They dO not realize or dO not want to realize that many farm families barely managed t0 get by on what they grow• (17)The Caribbean produces many things Sugar is the main product. Other export crops are tobacco， coffee， bananas， spices and citrus fruits， such as orange， lemon or grapefrurt. From the West lndies al come 0i",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "15 ． What does the passage say the pleasure Of connection seems to 1？ A) 〖 精析 〗 细节辨认题。 句 （15） 明确提到， 联系的乐趣看起来是具有感染力的。 Questions 16 to 18 are b on the recording you have just h · The Caribbean islands are divided into tWO worlds， a rich one and a",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q17",
@@ -121,8 +175,17 @@
             "C": "Coffee.",
             "D": "Sugar."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 由句 （17） 可知， 加勒比地区生产很多东西。 糖是主要产品。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "17 ． What is the main product Of the Caribbean islands？ D) 〖 精析 〗 细节辨认题。 由句 （17） 可知， 加勒比地区生产很多东西。 糖是主要产品。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q18",
@@ -134,8 +197,17 @@
             "C": "They live in Spanish-style houses.",
             "D": "They hire people to do housework."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 根据句 （18） 可知， （加勒比群岛的） 大多数人生活在贫困线以下。 QuBtions 19 to 21 are based 皿 the recording you have jtßt a 司 ． Talk to anyone whO， s a generation not t00 OIder and they would most likely comment that children are more spoiled these days. NO one wants to have or around demanding， selfish and spoiled children， those whO get bad-tempered or silently-brute when they are not given everything they want immediately. ParadoxicaIly， the parents of such children encourage this demanding behavior in the mistaken belief that by giving their children everything they can their children will happy. ln the short term， perhaps they are right. (19)But in the longer term， such children end up lonely， dependent， chromcally dissatisfied and resentful Of the parents who tried hard to please them. Undoubtedly parents want to raise happy children whO are confident， capable and likable rather than spo",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "18 ． What dO we learn about the majority Of people in the Caribbean islands？ B) 〖 精析 〗 细节辨认题。 根据句 （18） 可知， （加勒比群岛的） 大多数人生活在贫困线以下。 QuBtions 19 to 21 are based 皿 the recording you have jtßt a 司 ． Talk to anyone whO， s a generation not t00 OIder and they",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q19",
@@ -147,8 +219,17 @@
             "C": "They will experience more setbacks than successes.",
             "D": "They will find it difficult to get along with others."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 讲座中提到， 溺爱孩子的父母错误地认为， 给孩子们他们所能给予的一切， 孩子们就会很快乐。 根据句 （19） 可知， 从长远来看， 这样的孩子最终会变得孤独、 依赖、 难以满足并且憎恨拼命取悦他们的父母。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "19 ． What will happen to children if they always get immediate satisfaction？ B) 〖 精析 〗 细节辨认题。 讲座中提到， 溺爱孩子的父母错误地认为， 给孩子们他们所能给予的一切， 孩子们就会很快乐。 根据句 （19） 可知， 从长远来看， 这样的孩子最终会变得孤独、 依赖、 难以满足并且憎恨拼命取悦他们的父母。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q20",
@@ -160,8 +241,17 @@
             "C": "Unwillingness to satisfy their wishes immediately.",
             "D": "Failure to spend sufficient quality time with them."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 讲座中提到， 父母都希望培养出自信、 能干、 可爱的快乐孩子， 而不是被宠坏的、 痛苦的孩子。 由句 （20） 可知， 阻碍这一点的一个因素就是， 父母无法或者不去花足够的时间高质量地和孩子相处， 而是用玩具、 游戏、 小玩意儿之类的东西来弥补这种不足。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "20 ． What may prevent parents confident and capable children？ D) 〖 精析 〗 细节辨认题。 讲座中提到， 父母都希望培养出自信、 能干、 可爱的快乐孩子， 而不是被宠坏的、 痛苦的孩子。 由句 （20） 可知， 阻碍这一点的一个因素就是， 父母无法或者不去花足够的时间高质量地和孩子相处， 而是用玩具、 游戏、 小玩意儿之类的东西来弥补这种不足。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q21",
@@ -173,8 +263,17 @@
             "C": "It will do much good to their mental health.",
             "D": "It will build their ability to endure hardships."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 句 （(1) 提到， 如果孩子们失败了， 如果他们真的想要达成预期的成果， 我们就应该鼓励他们继续努力， 而不是让他们放弃。 这会教他们如何应对失望并从失望中复原， 这种能力与在学术上、 经济上以及人际关系上获得更大的成功和满足息息相关。 QLBtions 22 to 25 are based 皿 the recording you have just heard. lt is not hard to mess up an interview. MOSt people feel nervous sitting across from a hiring manager， answenng questions that effectively open themselves up for Judgment. (22)And your chances Of being more carefully considered for the jOb can qulckly go downhill just by_ saying the wrong thing at the wrong time. (23)The most obvious thing not to dO is complain. Employers want to hire positive people. TaIking about a prevrous jOb negatively raises concerns that you might difficult to manage， or you migbt someone that blames management for your own poor performance. Don， t say that you've moved around in jO because you haven， t found the right fit or f 1 that you were not challenged eno",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "21. Why should children encouraged to keep trying when they fail？ B) 〖 精析 〗 细节辨认题。 句 （(1) 提到， 如果孩子们失败了， 如果他们真的想要达成预期的成果， 我们就应该鼓励他们继续努力， 而不是让他们放弃。 这会教他们如何应对失望并从失望中复原， 这种能力与在学术上、 经济上以及人际关系上获得更大的成功和满足息息相关。 QLBtions 22 to 25 are based 皿 the r",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q22",
@@ -186,8 +285,17 @@
             "C": "Saying the wrong thing at the wrong time.",
             "D": "Making a wrong judgment of the interview."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 讲座开头提到， 要搞砸一场 interviewee from getting a j0b？ 面试很简单。 根据句 （22） 可知， 如果你在错误的六级 2021 年 12 月 28 时间说了错误的话， 在这份工作上你被仔细考虑的机会就会减少。， What should the interviewee avoid dOing in an intervrew? A) 〖 精析 〗 细节辨认题。 句 （） 提到， 最明显不能做的事情就是抱怨。 雇主希望雇用积极的人。 消极地谈论上一份工作会让雇主担心你可能很难管理， 或者你可能会是一个自己表现糟糕但却责备管理人员的人。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "） 可知， 如果你在错误的六级 2021 年 12 月 28 时间说了错误的话， 在这份工作上你被仔细考虑的机会就会减少。， What should the interviewee avoid dOing in an intervrew? A) 〖 精析 〗 细节辨认题。 句 （） 提到， 最明显不能做的事情就是抱怨。 雇主希望雇用积极的人。 消极地谈论上一份工作会让雇主担心你可能很难管理， 或者你可能会是一个自己表现糟糕但却责备管理人员的人。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q23",
@@ -199,8 +307,17 @@
             "C": "Exaggerating their academic background.",
             "D": "Understanding their previous achievements."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 在讲到增加投资时， 句 （23） 中提到， 大部分资金需要被用于改善农业基础",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "23 ． Where should most Of the money invested to feed the ever-growmg population？ D) 〖 精析 〗 细节辨认题。 在讲到增加投资时， 句 （23） 中提到， 大部分资金需要被用于改善农业基础",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q24",
@@ -225,8 +342,17 @@
             "C": "Readiness to work to flexible schedules.",
             "D": "Skills to communicate with colleagues."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 根据句 （25） 可知， 要对自己的角色有清楚的认识， 并且尝试向别人传达你比较灵活这一信息。 询问你的角色意味着你会把自己局限于别人对你的期望中。 在现实里， 你的角色取决于你自己。 在小公司尤其如此， 这里更看重适应能力和承担新职责的能力。 recrult？ Part Section A Reading Comprehension 〖 文章来源 〗 本文选自 2019 年 8 月 27 日刊登在 Live & ie “ e （《科学现场》） 上一篇标题为 “ Want to Live Longer？ The 曲 t Attitude May Help ” （《想要活得更久？ 正确的态度可能会有帮助》） 的文章。 〖 结构框图 〗 本文主要介绍了一项针对乐观和长寿之间关联的新研究。 〖 词性分析 〗》 文章首先介绍了这项新研究的发现： 乐观的人更有可能长寿； 然后指出寿命虽然还会受到锻炼水平、 睡眠习惯和饮食等健康行为的影响， 但乐 · 观的态度会促进良好习惯的养成， 而好习惯会促进健康， 因此， 乐观是， 一个可以促进长寿的心理特质。 名词： D) correlation 相互关系， 关联； L) span 持续时间； N) spiral 螺旋线； 螺旋式； O) trait （某人性格中的） 特性， 品质动词： A) affect 影响； 打动； 0 conceded （不得不） 承认； E) foster 促进， 助长； 抚育， 照料； K) reconciled 协和， 协调； 和解； L) span 持续， 贯穿； 跨越； N) sprral 螺旋式上升或下降； 急剧恶化形容词： G) lofty 崇高的， 高尚的； 傲慢的； H) noteworthy 值得注意的， 显著的； J) premature 过早的， 提早的； 不成熟的； N) spiral 螺旋形的， 螺旋式的副词： B) yond （范围） 超出； F) hencefo",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "25 · What is especially important for those working in a small company？ A) 〖 精析 〗 细节辨认题。 根据句 （25） 可知， 要对自己的角色有清楚的认识， 并且尝试向别人传达你比较灵活这一信息。 询问你的角色意味着你会把自己局限于别人对你的期望中。 在现实里， 你的角色取决于你自己。 在小公司尤其如此， 这里更看重适应能力和承担新职责的能力。 recrult？ Part Section A Read",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -249,62 +375,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "题。 B) 〖 【语法判断】 空格前面为并列连词 or， 由此可知空格处和前面的 85 意思相近， 功能一致， 故推测应填人副词， 与 to age 85 一起修饰动词 liveo 〖 【语义判断】 本文首句提到 living to a ripe old age， 结合第二句内容可知乐观的人更可能活到高龄， 故空格处应填人 B) y。 nd “ （范围） 超出 ”， 表示乐观的人更有可能活到 85 岁或更久。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "26 ． 〖 考点 〗 副词辨析题。 B) 〖 【语法判断】 空格前面为并列连词 or， 由此可知空格处和前面的 85 意思相近， 功能一致， 故推测应填人副词， 与 to age 85 一起修饰动词 liveo 〖 【语义判断】 本文首句提到 living to a ripe old age， 结合第二句内容可知乐观的人更可能活到高龄， 故空格处应填人 B) y。 nd “ （范围） 超出",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "题。 H) 〖 【语法判断】 空格位于系动词和从句引导词 that 之间， 最有可能填人形容词或动词的过去分词作表语。 〖 【语义判断】 空格后面提到， 在研究人员考虑了诸多因素后， 研究的结果仍然成立， 这应该是很值得注意的。 另外， 在第 34 题所在的句子里， 作者使用了 \"lt is al important t0 note that. ． ． ”， 表明前面已经提到了一件值得注意的事， 综合可知答案为 H) noteworthy\" 值得注意的 ”",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "27 ． 〖 考点 〗 形容词辨析题。 H) 〖 【语法判断】 空格位于系动词和从句引导词 that 之间， 最有可能填人形容词或动词的过去分词作表语。 〖 【语义判断】 空格后面提到， 在研究人员考虑了诸多因素后， 研究的结果仍然成立， 这应该是很值得注意的。 另外， 在第 34 题所在的句子里， 作者使用了 \"lt is al important t0 note that. ． ． ”",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "题。 A) 〖 【语法判断】 空格位于情态动词 could 之后， 应填人动词原形。 〖 【语义判断】 空格前面出现了 factors “ 因素 ”， 后面提到研究人员考虑了研究对象是否得过心脏病、 癌症、 抑郁症等健康问题， 这些都是会影响研究结果的因素， 故答案为 A) affect\" 影响 ”。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "28 ． 〖 考点 〗 动词辨析题。 A) 〖 【语法判断】 空格位于情态动词 could 之后， 应填人动词原形。 〖 【语义判断】 空格前面出现了 factors “ 因素 ”， 后面提到研究人员考虑了研究对象是否得过心脏病、 癌症、 抑郁症等健康问题， 这些都是会影响研究结果的因素， 故答案为 A) affect\" 影响 ”。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "题。 A) 〖 【语法判断】 空格位于形容词 unnece “ ary 之后， 故应填人名词。 〖 【语义判断】 根据前面的 and 推知， 空格处填人的名词和 bows、 ties 为并列关系， 蝴蝶结和领带都属于配饰， A） accessories\" 配饰， 配件 ” 符合句意， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "29 ． 〖 考点 〗 名词辨析题。 A) 〖 【语法判断】 空格位于形容词 unnece “ ary 之后， 故应填人名词。 〖 【语义判断】 根据前面的 and 推知， 空格处填人的名词和 bows、 ties 为并列关系， 蝴蝶结和领带都属于配饰， A） accessories\" 配饰， 配件 ” 符合句意， 故为答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "题。 J) 〖 【语法判断】 空格后面为名词 death， 故应填人形容词作定语。 〖 【语义判断】 空格前面出现了 and， 空格所在部分应和前文形成并列关系。 前文提到， 越乐观的人得慢性病的风险越低， 因此推测， 他们过早死亡的风险也较低， 故答案为 J) premature\" 过早的， 提早的 ”。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "30 ． 〖 考点 〗 形容词辨析题。 J) 〖 【语法判断】 空格后面为名词 death， 故应填人形容词作定语。 〖 【语义判断】 空格前面出现了 and， 空格所在部分应和前文形成并列关系。 前文提到， 越乐观的人得慢性病的风险越低， 因此推测， 他们过早死亡的风险也较低， 故答案为 J) premature\" 过早的， 提早的 ”。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "题。 M) 〖 【语法判断】 空格所在句主干为 the new study appears to the first， to look at the relationship between optimism and longevity 为不定式短语作 the first 的后置定语， 整句话结构完整， 因此， 空格处应填人副词。 〖 【语义判断】 空格所在句的前一句提到， 之前的很多研究发现越乐观的人得慢性病的风险越低， 过早死亡的风险也较低。 空格所在句的 however 和 the first 都暗示了这项新研究的特别之处， 它是第一个专门针对乐观和寿命之间的关联所做的研究， M） s 匹 cifically “ 专门地， 特定地 ” 符合句意， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "31. 〖 考点 〗 副词辨析题。 M) 〖 【语法判断】 空格所在句主干为 the new study appears to the first， to look at the relationship between optimism and longevity 为不定式短语作 the first 的后置定语， 整句话结构完整， 因此， 空格处应填人副词。 〖 【语义判断】 空格所在句的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "题。 G) 〖 【语法判断】 空格位于代词 your 之后， 故应填人名词。 〖 【语义判断】 上一段提到可以通过着装来改善健康， 本段后面也提到着装可以改变心情， 故推测此处也是指通过着装来改善心态。 frame of mind 意为 “ 心情， 心态 ”， 符合句意， 故 G) frame 为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "32 ． 〖 考点 〗 名词辨析题。 G) 〖 【语法判断】 空格位于代词 your 之后， 故应填人名词。 〖 【语义判断】 上一段提到可以通过着装来改善健康， 本段后面也提到着装可以改变心情， 故推测此处也是指通过着装来改善心态。 frame of mind 意为 “ 心情， 心态 ”， 符合句意， 故 G) frame 为答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "题。 E) 〖 【语法判断】 空格位于情态动词 may 的后面， 应填人动词原形。 〖 【语义判断】 空格后面的 that bolster health 是定语从句， 修饰名词短语 good habits， 表示 “ 促进健康的好习惯 ”， 前文提到， 乐观和长寿有一定关联， 因此推测， 乐观或许能促进良好习惯的养成， 而这些好习惯又能促进健康。 E) foster\" 促进， 助长 ” 符合句意， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "33 ． 〖 考点 〗 动词辨析题。 E) 〖 【语法判断】 空格位于情态动词 may 的后面， 应填人动词原形。 〖 【语义判断】 空格后面的 that bolster health 是定语从句， 修饰名词短语 good habits， 表示 “ 促进健康的好习惯 ”， 前文提到， 乐观和长寿有一定关联， 因此推测， 乐观或许能促进良好习惯的养成， 而这些好习惯又能促进健康。 E)",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "题。 D) 〖 【语法判断】 空格位于冠词 a 之后， 应填人名词。 〖 【语义判断】 空格后的句子提到， 研究人员并未能明确地证明乐观一定会带来长寿， 也就表明他们只是发现二者存在一定关联而已， D) correlation “ 相互关系， 关联 ” 符合句意， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "34 ． 〖 考点 〗 名词辨析题。 D) 〖 【语法判断】 空格位于冠词 a 之后， 应填人名词。 〖 【语义判断】 空格后的句子提到， 研究人员并未能明确地证明乐观一定会带来长寿， 也就表明他们只是发现二者存在一定关联而已， D) correlation “ 相互关系， 关联 ” 符合句意， 故为答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "题。 F) 〖 【语法判断】 空格位于名词 associations 之前， 故应填人形容词作定语。 〖 【语义判断】 前面提到， 德雷珀建议选择一些具有情感意义的衣服， 比如你曾在某个特殊的日子里穿过的衣服或者你所爱之人送给你的衣服。 因此， 推测这些衣服的共同点就是会让人联想起它们背后承载的情感意义， fond 意为 “ 温情的， 深情的 ”， 符合句意， 故 F) fond 为答案。 参考译文心理学家莎伦 · 德雷珀认为我们的着装选择绝对会影响我们的健康。 当我们穿着不合身的衣服或者在参加活动时觉得自己穿得过于隆重或过于随意时， 自然会感到局促不安， 甚至感到有压力。 她说， 相反， 选择合身且符合个人风格的衣服可以提升一个人的自信。 但是， 你能否通过现有的衣服来改善健康， 而不必冲出去把衣柜里的衣服全换成新的呢？ “ 当然， ” 德雷珀说。 如果你的目标是改善思维， 她建议选择合身且不太可能助长焦躁情绪的衣服。 因此， 要避免使用蝴蝶结、 领带和不必要的配饰。 选择你认为与你的目标相符的衣服也十分有益。 因此， 如果你想在工作中表现得更好， 应选择你认为专业的着装。 德雷珀说这符合行为激活的概念， 即通过付诸实施某种行为 （在此是指选择着装） 可以让你走上实现目标的道路 （在此是指更努力地工作）。 另一种改善心态的方法是混搭。 德雷珀说， 如果我们总是穿同样的衣服 （即使这些衣服是我们的最爱）， 我们通常会感到拘泥于陈规。 因此， 选择一件你不经常穿的衣服或者在套装上添加一些不一样的东西， 比如帽子， 可以对你的情绪产生积极的改变。 在你真的不愿意勇敢面对这个世界的日子里， 德雷珀建议选择一些具有情感意义的衣服， 比如你曾在某个特殊的日子里穿过的衣服或者你所爱之人送给你的衣服， 这是因为有温情联系的衣服可以帮助你发掘积极的情绪。 六级 2021 年 12 月 45 Section B 〖 文章来源 〗 本文选自 2019 年刊登在， k M “ “ （《夜明杂志》） 上",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "35 ． 〖 考点 〗 形容词辨析题。 F) 〖 【语法判断】 空格位于名词 associations 之前， 故应填人形容词作定语。 〖 【语义判断】 前面提到， 德雷珀建议选择一些具有情感意义的衣服， 比如你曾在某个特殊的日子里穿过的衣服或者你所爱之人送给你的衣服。 因此， 推测这些衣服的共同点就是会让人联想起它们背后承载的情感意义， fond 意为 “ 温情的， 深情的 ”， 符",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -318,57 +534,129 @@
           "id": "q36",
           "number": 36,
           "stem": "Burberry’s executives are trying hard to attribute their practice of destroying old\nproducts to miscalculated production.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "〗 细节归纳题。 G） 段第二句后半部分指出， 这家英国时装公司 （即巴宝莉） 的高管们正在努力为他们对产量的错误计算进行辩护， 随后一句提到了他们的浪费行为被归咎于通过销毁老产品来为新产品让路。 由此可知， 题干是对该部分信息的归纳。 题干中的 attribute their practice of destroying 01d products to 是原文中 has been put down to burning 01d cosmetic stock 的同义转述， 故答案为",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "36 ． 〖 定位 〗 由题干中的 r 町， s executives 和 miscalculated production 定位到文章 G 段第 G) 〖 精析 〗 细节归纳题。 G） 段第二句后半部分指出， 这家英国时装公司 （即巴宝莉） 的高管们正在努力为他们对产量的错误计算进行辩护， 随后一句提到了他们的浪费行为被归咎于通过销毁老产品来为新产品让路。 由此可知， 题干是对该部分信息的归纳。 题干中的 attribute their practice of destroyin",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "Selling products at a discount will do greater harm to luxury brands than\ndestroying them.",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 细节归纳题。 B) 段第二句提到， 通过折扣店以更便宜的价格大量出售商品不利于原价销售， 而之前一句说， 销毁未售出的库存， 甚至销毁成卷未使用的衣料， 这种做法对于奢侈品品牌来说是司空见惯的。 可见两者比较而言， 对于奢侈品品牌来说， 打折出售是更加不情愿的事情， 可见题干是对该处信息的归纳。 题干中的 selling products at a discount 对应原文中的 becoming toO widely available at a cheaper price through discount stor， 题干中的 destroying them 对应原文中的 the practice Of destroymg unsold stock， 故答案为 B)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "37 · 〖 定位 〗 由题干中的 discount 定位到 B) 段第二句。 B) 〖 精析 〗 细节归纳题。 B) 段第二句提到， 通过折扣店以更便宜的价格大量出售商品不利于原价销售， 而之前一句说， 销毁未售出的库存， 甚至销毁成卷未使用的衣料， 这种做法对于奢侈品品牌来说是司空见惯的。 可见两者比较而言， 对于奢侈品品牌来说， 打折出售是更加不情愿的事情， 可见题干是对该处信息的归纳。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "Imitated Burberry products discouraged luxury consumers from buying its genuine\nproducts.",
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "〗 细节归纳题。 K） 段第二句提到， 15 年前， 巴宝莉正处于危机时刻， 因为他们的签名支票模式被廉价的仿制品牌到处模仿， 而随后一句进一步说， 这让奢侈品消费者望而却步， 题干是对这两处信息的概括。 题干中的 imitated Burberry products 对应原文中的 imitated by cheap， imitation brands， 题干中的 discouraged 1 皿 ury consumers from buying its genuine products 对应原文中的 “ “， 故答案为",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "38 ． 〖 定位 〗 由题干中的 imitated Burberry products 定位到文章 K） 段第二、 三句。 K) 〖 精析 〗 细节归纳题。 K） 段第二句提到， 15 年前， 巴宝莉正处于危机时刻， 因为他们的签名支票模式被廉价的仿制品牌到处模仿， 而随后一句进一步说， 这让奢侈品消费者望而却步， 题干是对这两处信息的概括。 题干中的 imitated Burberry products 对应原文中的 imitated b",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "Staff members of a luxury brand may buy its old stock at cheaper prices, but they\nare not allowed to resell them.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "〗 同义转述题。 G） 段第一句提到， 在计算他们的评估之后， 舍伦贝格得出结论， 大部分文章错误地声称音乐训练有因果效应。 题干中的 \"came to that most Of the papers. ， made the wrong claim ” 是对原文中 concluded that the majority Of the articles erroneously claimed 的同义转述， 题干中的 assessed 对应原文中的 assessments， 故答案为 G)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "39 ． 〖 定位 〗 由题干中的 came to the conclusion、 most of the papers 和 made the wrong claim 定位到文章 G） 段第一句。 G) 〖 精析 〗 同义转述题。 G） 段第一句提到， 在计算他们的评估之后， 舍伦贝格得出结论， 大部分文章错误地声称音乐训练有因果效应。 题干中的 \"came to that most Of the papers. ， made the wrong claim ” 是对原文中 concluded that the majo",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "In future traditional luxury brands will have to adapt their business strategies to\nthe changing concepts of luxury.",
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "〗 细节归纳题。 L） 段第一句提到， 品牌需要重新考虑其专有权策略， 其后的第四句举例说明了奢侈品涵盖的新内容， 最后一句总结称， 这是传统奢侈品在中长期的未来不得不与之抗衡的挑战， 可知奢侈品的概念在发生着变化， 使得传统奢侈品品牌不得不调整其战略， 适应这种新概念， 题干是对全段信息的归纳概括。 题干中的 in future traditional luxury brands will have to adapt their business strategies 是对定位段第一句中的 brands need t0 readdress their exclusivity tactic 和最后一句中的 contend with in the mid- t0 long-term future 的概括， 题干中的 the changing concepts of luxury 对应原文中的 things like health， enhghtenment， and social and enuronmental responsibility are the new 1 皿匿 ies， 故答案为 L)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "40， 〖 定位 〗 由题干中的 luxury brands、 adapt 和 business strategies 定位到文章 L) 段。 L) 〖 精析 〗 细节归纳题。 L） 段第一句提到， 品牌需要重新考虑其专有权策略， 其后的第四句举例说明了奢侈品涵盖的新内容， 最后一句总结称， 这是传统奢侈品在中长期的未来不得不与之抗衡的挑战， 可知奢侈品的概念在发生着变化， 使得传统奢侈品品牌不得不调整其战略， 适应这种新概念， 题干是对全段信息的归纳概括。 题干",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "One luxury brand employee quit her job because she simply couldn't bear to see\nthe destruction of unsold products.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〗 细节归纳题。 D） 段定位句提到， 一位不愿透露姓名的消息人士分享了她 2016 年 10 月在纽约一家巴宝莉商店工作的经历， 随后三句说到这名员工的工作就是将未售出的商品装箱以待销毁， 这让她感到受不了， 在那里再也待不下去了， 该段末二句则提到她在两周内离了职。 题干中的 quit her 是原文中 I couldn， longer 和 left her role 的同义转述， 题干中的 she simply couldn， t bear to see the destruction Of ld pr ts 是对原文中的 sent to № 沅 m 囝、 it was killing me inside 和 their business practices threw me off the roof 三处信息的概括性转述， 故答案为 D)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "41. 〖 定位 〗 由题干中的 one luxury brand employee 六级 2021 年 12 月 31 定位到 D) 段。 D) 〖 精析 〗 细节归纳题。 D） 段定位句提到， 一位不愿透露姓名的消息人士分享了她 2016 年 10 月在纽约一家巴宝莉商店工作的经历， 随后三句说到这名员工的工作就是将未售出的商品装箱以待销毁， 这让她感到受不了， 在那里再也待不下去了， 该段末二句则提到她在两周内离了职。 题干中的 quit her 是原文中 I couldn",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "Destroying old stock is a practice not just of luxury brands but of less prestigious\nfashion brands.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "〗 细节归纳题。 F） 段首句提到了奢侈品公司历峰集团销毁老产品的做法， 第二句提到， 并不仅仅是奢侈品品牌会如此做， 随后提及这个普通的零售服装品牌也被曝出销毁存货的消息， 可知题干是对 F） 段前半部分信息的概括性转述。 题干中的 but of le prestigious fashion brands 对应原文中的 for burning 12 tonnes Of unsold clothing 和 the high street retailer， 故答案为 F)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "42 ． 〖 定位 〗 由题干中的 destroying 01d stock 和 a practice not just of luxury brands 定位到文章 F) 段。 F) 〖 精析 〗 细节归纳题。 F） 段首句提到了奢侈品公司历峰集团销毁老产品的做法， 第二句提到， 并不仅仅是奢侈品品牌会如此做， 随后提及这个普通的零售服装品牌也被曝出销毁存货的消息， 可知题干是对 F） 段前半部分信息的概括性转述。 题干中的 but of le prestigious fashion brands 对应原文中",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "Burberry is working with a partner to make foil use of leather materials to reduce\nwaste.",
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "〗 细节归纳题。 J） 段第一句指出， 巴宝莉的合作伙伴之一是一个使用再生材料的配件品牌。 其后的第三句详细说明了合作的内容是该品牌利用巴宝莉皮具生产的下脚料， 而该段最后一句提到这种合作关系是为了处理生产阶段的废料， 可知巴宝莉与合作伙伴合作是想要充分利用原料以减少浪费。 题干中的 make full use of leather materials 对应原文中的 starting with off-cuts， 题干中的 reduce waste 是对原文中 addresses waste 的同义转述， 故答案为 J)O ． 〖 定位 〗 由题干中的 unsold products worth millions of dollars 定位到文章 A) 段。 A) 〖 精析 〗 细节归纳题。 A） 段首句提到， 上周， 巴宝莉的年度报告披露去年烧毁了价值 2 860 万英镑的存货， 随后的第二句指出， 这一消息令投资者和消费者大为震怒。 题干中的 destroy 对应原文中的 № rnt， 题干中的 aroused public indignation 是对原文中 the news has left investors and connzmers outraged 的同义转述， 故答案为 A)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "43， 〖 定位 〗 由题干中的 is working with a partner 定位到文章 J） 段第一句。 J) 〖 精析 〗 细节归纳题。 J） 段第一句指出， 巴宝莉的合作伙伴之一是一个使用再生材料的配件品牌。 其后的第三句详细说明了合作的内容是该品牌利用巴宝莉皮具生产的下脚料， 而该段最后一句提到这种合作关系是为了处理生产阶段的废料， 可知巴宝莉与合作伙伴合作是想要充分利用原料以减少浪费。 题干中的 make full us",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q44",
@@ -381,8 +669,17 @@
           "id": "q45",
           "number": 45,
           "stem": "Burberry’s change of marketing strategy to make a product available as soon as\nconsumers see it on the fashion show did not turn out to be as effective as expected.",
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "〗 细节归纳题。 H） 段定位句提到， 巴宝莉利用时装周走秀的报道， 让消费者立即可以买到库存， 此举是一种转变， 随后的第四句中谈到这种新销售策略的效果， 指出几乎没有证据表明该策略对销售产生了重大影响， 可知这种利用走秀让消费者看到即可买到的销售模式并未收到预期的良好效果， 题干是对 H） 段主要信息的概括。 题干中的 Burberry， s change of marketing strategy t0 make a product available as soon as consumers see it on the fashion show 对应原文中的 a switch to leverage on the coverage Of their fashion week shOW to make stock available immediately to consumers； 题干中的 did not turn out to as effective as expected 是对原文中 there has been little evidence to suggest that the strategy has had 的同义转述， 故答案为 H)O 参考译文对于巴宝莉焚烧 2 8 万英镑存货， 时尚界无人会感到意外 A) （） 上周， 巴宝莉的年度报告披露去年烧毁了价值 2 860 万英镑的存货。 这一消息令投资者和消费者大为震怒， 但对时尚界人士来说， 这一点也不令人意外。 B) （37） 销毁未售出的库存， 甚至销毁成卷未使用的衣料， 这种做法对于奢侈品品牌来说是司空见惯的。 通过折扣店以更便宜的价格大量出售商品不利于原价销售。 将产品送去回收又容易导致它们被盗并在黑市上出售。 品牌战略机构概念局的首席执行官贾斯敏 ． 比娜解释说： “ 通常， 奢侈品品牌均支持专有权， 以保护其商业利益， 即知识产权和品牌资产保护。 ” 她表示， 她听到过有关烧毁存货的传言， 但直到本周才听到具体案例。 0 这种普遍做法的另一",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+            "sourceText": "45 ． 〖 定位 〗 由题干中的 to make a product available、 fashion show 和 effective 定位到文章 H) 段第一二和四句。 H) 〖 精析 〗 细节归纳题。 H） 段定位句提到， 巴宝莉利用时装周走秀的报道， 让消费者立即可以买到库存， 此举是一种转变， 随后的第四句中谈到这种新销售策略的效果， 指出几乎没有证据表明该策略对销售产生了重大影响， 可知这种利用走秀让消费者看到即可买到的销售模式并未收到预期的良好效果， 题干是对 H） 段主",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -405,8 +702,17 @@
                 "C": "Whether the benefits of social media outweigh the drawbacks.",
                 "D": "Whether social media should be used to screen job candidates."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "〗 主旨大意题。 文章第一、 二段通过介绍社交媒体的广泛使用引出话题： 在招聘过程中， 雇主是否应该利用社交媒体来筛选求职者？ 后面四段具体探讨利用社交媒体筛选求职者的利与弊以及如何在招聘过程中合法利用这一信息源。 整篇文章均围绕 “ 是否应该利用社交媒体来筛选求职者 ” 这个话题。 故答案为 D)O 〖 避错 〗 文章第五段提到了利用社交媒体对求职者进行筛选的优点， 但这只是作者所探讨话题下的一方面论证， 不具有概括性， 故排除 A） 项； 文章第二段和第四段提到雇主可能会通过社交媒体来查出求职者的私人信息， 说明社交媒体对私人生活而言具有一定的人侵性， 但这只是为了说明利用社交媒体来筛选求职者的弊端， 是细节性信息， 不是文章主旨， 故排除 B） 项； 文中探讨了雇主利用社交媒体来筛选求职者的利与弊， 而非社交媒体本身的好处和坏处， 0 项与原文不符， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+                "sourceText": "46 ． 〖 定位 〗 本题需要通过整体阅读来把握文章主旨。 D) 〖 精析 〗 主旨大意题。 文章第一、 二段通过介绍社交媒体的广泛使用引出话题： 在招聘过程中， 雇主是否应该利用社交媒体来筛选求职者？ 后面四段具体探讨利用社交媒体筛选求职者的利与弊以及如何在招聘过程中合法利用这一信息源。 整篇文章均围绕 “ 是否应该利用社交媒体来筛选求职者 ” 这个话题。 故答案为 D)O 〖 避错 〗 文章第五段提到",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -418,8 +724,17 @@
                 "C": "Sensational information might surface.",
                 "D": "Hiring decisions might be complicated."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "〗 事实细节题。 文章第三段提到， 当雇主利用社交媒体来筛选求职者时， 如果操作不当， 那么这种方式会被认为是不道德的， 甚至是非法的。 故答案为 A)O 〖 避错 〗 第五段提到， 适当地使用社交媒体来筛选求职者也有好处， 可以避免雇用一个品行恶劣的员工， 这种员工可能会让你损失金钱或败坏公司的声誉。 这里说的是用社交媒体进行筛选可以避免公司的声誉受到影响， 故排除 B） 项； 文章第四段提到， 雇主可能会通过社交媒体查出求职者的一些受保护特征， 如年龄、 种族、 国籍、 残疾状况、 性别、 宗教等， 但题干主要针对社交媒体筛选可能导致的结果， 而非具体筛选过程中得到的信息， 0 项与题干不符， 故排除； 由 D) 项中的 hiring decisions 定位到文章第四段最后一句， 此处提到社交媒体上的一些信息可能会对招聘决策产生负面影响， 并未说明招聘决策的复杂性， 文中其他部分也未提及， 故排除 D) 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+                "sourceText": "47， 〖 定位 〗 由题干中的 social media is used to screen job candidates 定位到第三段。 A) 〖 精析 〗 事实细节题。 文章第三段提到， 当雇主利用社交媒体来筛选求职者时， 如果操作不当， 那么这种方式会被认为是不道德的， 甚至是非法的。 故答案为 A)O 〖 避错 〗 第五段提到， 适当地使用社交媒体来筛选求职者也有好处， 可以避免雇用一个品行恶劣的员工， 这种员工可能会让你损失金钱或败坏公司的声誉。 这里说的是用社交媒体",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -431,8 +746,17 @@
                 "C": "When it is magnified to a ruinous degree.",
                 "D": "When it is revealed to the human resources."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "〗 事实细节题。 文章第四段第三句指出， 个人网页上的图片或评论如果被断章取义， 可能会毁掉一个完美求职者被录用的机会， 说明当求职者的个人信息脱离其背景被解读时， 他们可能会错失被录用的机会， 故答案为 A)O 〖 避错 〗 第四段指出， 雇主在通过社交媒体审查求职者信息时可能存在偏颇， 有些求职者因此无缘被录用， 有些则获得了不公平的优势， 说明雇主审查网上个人信息并不会对全部求职者都产生不利影响， 故排除 B） 项； 文中只提到雇主会在社交媒体上对求职者信息进行审查， 而非夸大这些信息， 0 项不符合文意， 故排除； 文章最后一段提到公司可以让人力资源部门帮助在网上搜索求职者的信息， 但未提到此举对求职者有何影响， 故排除 D) 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+                "sourceText": "48 ． 〖 定位 〗 由题干中的 online personal information 定位到第四段第三句。 A) 〖 精析 〗 事实细节题。 文章第四段第三句指出， 个人网页上的图片或评论如果被断章取义， 可能会毁掉一个完美求职者被录用的机会， 说明当求职者的个人信息脱离其背景被解读时， 他们可能会错失被录用的机会， 故答案为 A)O 〖 避错 〗 第四段指出， 雇主在通过社交媒体审查求职者信息时可能存在偏颇， 有些求职者因此无缘被录用， 有些则获",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -444,8 +768,17 @@
                 "C": "By keeping personal information on record.",
                 "D": "By separating relevant from irrelevant data."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "〗 事实细节题。 第五段提到， 适当地使用社交媒体来筛选求职者可以避免招到品行恶劣的员工， 如果在这一过程中遵守法律规定， 雇主可能会招聘到有史以来最好的员工。 说明雇主应该以合法的方式利用社交媒体来筛选求职者， 以避免上文中提到的潜在风险， 故答案为 B)O 〖 避错 〗 文章第五段最后两句提到， 雇主应该合法利用社交媒体来筛选求职者， 保持好微妙的平衡， A） 项表示要倾斜这种平衡， 不符合文意， 故排除； 文章第六段第一、 二句提到， 为了保证社交媒体筛六级 2021 年 12 月 34 选过程中的专业性和责任感， 公司应该把招聘决策的过程记录下来， 而非记录个人信息， 0 项不符合文意， 故排除； 文章并未提到要分离相关和不相关的数据， 故排除 D) 项。 ． 〖 定位 〗 由题干中的 suggest 和 before screening job candidates 定位到最后一段。 0 〖 精析 〗 事实细节题。 最后一段最后一句指出， 为了遵守各项法律， 在使用社交媒体筛选求职者之前， 应该事先咨询管理层和法律团队， 这是至关重要的， 故答案为 C）。 〖 避错 〗 文章最后一段提到， 可以在招聘后期让人力资源部门帮忙在网上搜索求职者的相关信息， 而非雇用专业人员来进行引导， navigate 一词在 A） 项中是 “ 引导 ” 之意， 在原文中表示 “ 浏览 （网站） ”， 引申为 “ 搜索 ”， 故排除 A） 项； 文章第三段提到， 利用社交媒体筛选可能存在潜在的法律风险， 但全文未提及雇主在使用此方法前应预测可能涉及的潜在风险， B） 项不符合文意， 故排除； 文章最后一段提到， 为了保证社交媒体筛选过程中的专业性和责任感， 公司应明确规定具体的做法， 但并未规定一套提问具体问题的规则， 故排除 D) 项。 参考译文社交媒体绝对无处不在。 数十亿人每天都在使用社交媒体来创造、 分享和交流想法、 消息以及信息。 个人和企业都定期发布信息， 与来自世界各地的人们交流互动",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+                "sourceText": "49， 〖 定位 〗 由题干中的 use social media information to their advantage 定位到第五段。 B) 〖 精析 〗 事实细节题。 第五段提到， 适当地使用社交媒体来筛选求职者可以避免招到品行恶劣的员工， 如果在这一过程中遵守法律规定， 雇主可能会招聘到有史以来最好的员工。 说明雇主应该以合法的方式利用社交媒体来筛选求职者， 以避免上文中提到的潜在风险， 故答案为 B)O 〖 避错 〗 文章第五段最后两句提到， 雇主应该合法利用社交媒体来筛",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q50",
@@ -457,8 +790,17 @@
                 "C": "Seeking advice from management and legal experts.",
                 "D": "Stipulating a set of rules for asking specific questions."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "〗 事实细节题。 最后一段首句提到了社交网络的出现， 在其后的第三句中， 作者指出社交网络让其用户沉浸在无尽的热情中， 为的是得到观众的即时认可， 为此我们一直在不自觉地进行表演。 由此可见， B） 项是对定位信息的转述， 故为答案。 〖 避错 〗 原文虽然提到了社交媒体用户一直追求的东西， 但他们追寻的并不是可供逃避的替代空间或者新的信息， 故排除 A) 和 C)； 原文中并未提到社交媒体用户在处理其他任务方面的表现， 可知 D） 项为无中生有， 故排除。 六级 2021 年 12 月 49 参考译文远在万维网出现之前， 理性和启蒙的趋势就已受到了威胁。 （46） 正如尼尔 · 波斯曼在其 1985 年的著作 《娱乐至死》 中所指出的那样， 电视的兴起不仅引人了一种新的媒介， 而且引人了一种新的话语方式： 印刷文化逐渐向影像文化转变， 而这反过来又意味着从理性转向感性， 从阐释转向娱乐。 波斯曼指出， 在一个以形象为中心、 以快乐为驱动力的世界里， 没有理性思考的空间， 因为你根本无法用形象思考。 （47） 正是文本让我们能够 “ 发现谎言、 困惑和过度概括， 察觉逻辑和常识的滥用。 它还意味着权衡观点， 比较和对比断言， 将一种概括与另一种概括联系起来。 ” 电视的主导地位并不局限于我们的起居室。 它颠覆了所有这些思维习惯， 从根本上改变了我们对世界的体验， 影响了政治、 宗教、 商业和文化的行为。 （48） 它使现代生活的许多方面沦为娱乐、 哗众取宠和商业运作。 “ 美国人不互相交谈， 我们互相娱乐， ” 波斯曼写道。 “ 他们不交流思想， 他们交换图像。 他们不争论见解， 他们争论颜值、 名人和商业广告。 ” （49） 起初， 网络似乎与这一趋势相悖。 20 世纪 80 年代末当它作为一种纯文本媒介出现时， 它被视为一种追求知识而非快乐的工具。 理性和思想是这座花园中最受重视的， 而它们都源于启蒙运动。 世界各地的大学是最早连接到这种新媒体的， 它起着",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+                "sourceText": "50 ． 〖 定位 〗 由题干中的 users of social media 定位到最后一段。 B) 〖 精析 〗 事实细节题。 最后一段首句提到了社交网络的出现， 在其后的第三句中， 作者指出社交网络让其用户沉浸在无尽的热情中， 为的是得到观众的即时认可， 为此我们一直在不自觉地进行表演。 由此可见， B） 项是对定位信息的转述， 故为答案。 〖 避错 〗 原文虽然提到了社交媒体用户一直追求的东西， 但他们追寻的并不是可供逃避的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -476,8 +818,17 @@
                 "C": "Consumers’ growing demand for eye-catching food labels.",
                 "D": "Consumers’ increasing desire for clear product information."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "〗 事实细节题。 第一段第二句提到， 消费者对于了解更多与食品成分相关的信息有了越来越多的需求； 第三句指出报告的内容， 即 39 ％ 的消费者会从他们目前购买的品牌转向其他那些提供更清晰、 更准确产品信息的品牌。 故答案为 D)。 〖 避错 〗 文中只提到食品制造商为了满足消费者需求而使用新的食品标签， 并未提及他们的产品安全意识， 故排除项； 文章第一段最后一句提到， 面对消费者想了解更多产品信息的趋势， 食品制造商改用新的标签， 试图增加利润， 这是他们对此趋势的应对措施， 而非为增加利润而改变策略， B） 项与题干不符， 故排除； 文中只提到消费者会去购买那些标签上产品信息更清晰、 准确的食品， 而非标签更加醒目的食品， 0 项不符合文意， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+                "sourceText": "51. 〖 定位 〗 由题干中的 a report 定位到第一段第二 D) 〖 精析 〗 事实细节题。 第一段第二句提到， 消费者对于了解更多与食品成分相关的信息有了越来越多的需求； 第三句指出报告的内容， 即 39 ％ 的消费者会从他们目前购买的品牌转向其他那些提供更清晰、 更准确产品信息的品牌。 故答案为 D)。 〖 避错 〗 文中只提到食品制造商为了满足消费者需求而使用新的食品标签， 并未提及他们的产品安全意",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -489,8 +840,17 @@
                 "C": "Supplying detailed information of their products.",
                 "D": "Designing transparent labels for their products."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "〗 事实细节题。 文章第二段第四句提到， 食品制造商的这种营销策略已不只局限于说明产品中有什么， 还标明了食品中 “ 没有 ” 什么。 最后一句提到， 这些标签被称为 “ ' 无， 式声明 ” 标签， 它们代表了一种新兴的标签趋势， 故答案为。 〖 避错 〗 文章中只提到食品制造商改变食品标签， 未提及任何关于产品营养价值的信息， 故排除 B） 项； 0 项 “ 提供其产品的详细信息 ” 不是新的营销策略， 故排除； 文章第二段第二、 三句提到， 如果消费者想要信息透明， 那么食品制造商就在标签上提供更详细的产品信息来满足这一需求， 而并非设计透明的标签， 此处 tran arent 具有干扰性， D） 项不符合文意， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+                "sourceText": "52 ． 〖 定位 〗 由题干中的 new marketing strategy 定位到 A) 〖 精析 〗 事实细节题。 文章第二段第四句提到， 食品制造商的这种营销策略已不只局限于说明产品中有什么， 还标明了食品中 “ 没有 ” 什么。 最后一句提到， 这些标签被称为 “ ' 无， 式声明 ” 标签， 它们代表了一种新兴的标签趋势， 故答案为。 〖 避错 〗 文章中只提到食品制造商改变食品标签， 未提及任何关于产品营养价值",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -502,8 +862,17 @@
                 "C": "They should be used more for vegetables and milk.",
                 "D": "They cause anxiety about food among consumers."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "〗 事实细节题。 第三段最后一句提到， 这种 “ 非转基因 ” 标签可能会造成消费者对食品不必要的恐慌心理； 第五段也同样提到， 此类标签的使用可能会使消费者对曾经购买的食品的安全性产生怀疑， 从而感到焦虑， 故答案为 D)O 〖 避错 〗 文章首段提到消费者希望了解更详细的产品信息， 因此食品制造商通过改变标签来满足这一需求， 但并未提及在标签上提供的 “ 非转基因 ” 标识是否越来越吸引消费者的注意， 故排除项； 文中只提到此类标签的使用对消费者和食品行业来说都是不利的， 并未提到给转基因食品制造商带来的影响， 故排除 B） 项； 第三段只提到一些乳制品公司在其牛奶产品上贴上 “ 非转基因 ” 标签， 并未提及这些标签应该被更多地用于蔬菜和牛奶， 故排除 0。 ． 〖 定位 〗 由题干中的 absence claims labels 和 food man 证 ac e 定位到第五段第三句。 0 〖 精析 〗 事实细节题。 第五段第三句指出， 对于食品制造商来说， 使用 “ 无 ” 式声明标签意味着消费者信赖度的削弱以及销售额的下滑。 0 项直接对应原文内容， 故为正确答案。 〖 避错 〗 文中首段提到食品制造商改变营销策略是为了满足消费者了解更多产品信息的需求， 而非使用 “ 无 ” 式声明标签造成的影响， 且此类标签的使用恰恰是其营销策略的内容， 项与题干不符， 故排除； 第五段最后一句指出， “ 无 ” 式声明标签的使用会导致转基因食品污名化， B） 项不符合文章意思， 故排除； 第五段最后一句指出， 没有科学证据表明转基因食品是有害的， 并非说 “ 无 ” 式声明标签会减少来自食品科学家的支持， 故排除 D)O",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+                "sourceText": "53， 〖 定位 〗 由题干中的 non-GMO labels 定位到第 D) 〖 精析 〗 事实细节题。 第三段最后一句提到， 这种 “ 非转基因 ” 标签可能会造成消费者对食品不必要的恐慌心理； 第五段也同样提到， 此类标签的使用可能会使消费者对曾经购买的食品的安全性产生怀疑， 从而感到焦虑， 故答案为 D)O 〖 避错 〗 文章首段提到消费者希望了解更详细的产品信息， 因此食品制造商通过改变标签来满足这一需求，",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q54",
@@ -528,8 +897,17 @@
                 "C": "Welcome new innovations in food processing.",
                 "D": "Promote efficiency and increase food variety."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "〗 事实细节题。 最后一段第一句提到， 食品制造商必须谨慎使用 “ 无 ” 式声明标签， B） 项与原文内容一致， 故为正确答案。 〖 避错 〗 文章最后一段提到， 使用 “ 无 ” 式声明标签可能会传递出 “ 农业和食品加工方面的创新不受欢迎 ” 的错误信息， 最终将导致生产效率降低、 消费者选择减少以及食品价格上升问题，、 C）、 D） 三项都和这些后果相关， 而非作者的建议， 故排除。 参考译文近年来， 食品行业增加了标签的使用。 (51) 无论标签上写的是 “ 非转基因 ” 还是 “ 无糖 ”， 又或者是 “ 零碳水化合物 ”， 消费者对于了解更多与食品成分相关的信息有了越来越多的需求。 一份报告指出， 39 ％ 的消费者会从他们目前购买的品牌转向其他那些提供更清晰、 更准确产品信息的品牌。 作为回应， 食品制造商正在改用新的标签以满足这一要求， 试图让自己的产品在竞争中获得优势， 同时增加利润。 这一策略在直觉上讲是有道理的。 如果消费者表示他们想要信息透明， 那就告诉他们你的产品里到底有什么。 这只是在满足某种需求。 （52） 但是， 作为对此种消费者需求的回应， 这种营销策略已不只局限于说明产品中有什么， 还标明了食品中 “ 没有 ” 什么。 这些标签被称为 “ ' 无， 式声明 ” 标签， 它们代表了一种新兴的标签趋势， 这对购买产品的消费者和供给产品的行业来说都是有害的。 六级 2021 年 12 月 36 例如， 汉斯公司几年前在其罐装番茄酱上贴上了 “ 非转基因 ” 的标签一一尽管当时市场上并没有转基因番茄这种东西。 (53-1) 一些乳制品公司在甚牛奶产品上贴上 “ 非转基因 \" 标签， 尽管事实上所有牛奶都是天然无转基因的， 而 “ 无转基因 ” 又是另一个制造不必要恐慌的食品标签。 虽然利用消费者对食品 （某些成分） 的恐慌和误解来创制标签可能会给公司带来暂时的营销优势， 使其在杂货店过道里摆放的竞争产品中脱颖而出， 但从长远来看， 这种策略恰恰会",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2021-12-2/key_OCR_2021-12-2.txt",
+                "sourceText": "55 ． 〖 定位 〗 由题干中的 su 定位到文章最后一段第 B) 〖 精析 〗 事实细节题。 最后一段第一句提到， 食品制造商必须谨慎使用 “ 无 ” 式声明标签， B） 项与原文内容一致， 故为正确答案。 〖 避错 〗 文章最后一段提到， 使用 “ 无 ” 式声明标签可能会传递出 “ 农业和食品加工方面的创新不受欢迎 ” 的错误信息， 最终将导致生产效率降低、 消费者选择减少以及食品价格上升问题",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

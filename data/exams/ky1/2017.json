@@ -26,8 +26,17 @@
                 "C": "Despite",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washin",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -39,8 +48,17 @@
                 "C": "equal",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washing",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -52,8 +70,17 @@
                 "C": "lesson",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washingt",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -66,7 +93,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washin",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -78,8 +114,17 @@
                 "C": "guiding",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washington",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -92,7 +137,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washin",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -104,8 +158,17 @@
                 "C": "down",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washington",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -118,7 +181,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washing",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -131,7 +203,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washington",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -143,8 +224,17 @@
                 "C": "tests 13. [ A J minimized [BJ highlighted [CJ controlled 14. [ A J equipped",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washing",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -157,7 +247,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washington",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -169,8 +268,17 @@
                 "C": "attribute 18. [AJ because",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "12 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -183,7 +291,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washingt",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -195,8 +312,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washing",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -208,8 +334,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washingt",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -221,8 +356,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washing",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -234,8 +378,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washin",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -247,8 +400,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washingt",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -260,8 +422,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washin",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -273,8 +444,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2017/key_2017年真题逐题细解.txt",
+                "sourceText": "答案汇总，规箜延答案汇总 1~5 ACBAD 6~10ADCDC 11-15 DBBCB 16-20 CABAD ■ 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section II Reading Comprehension ♦ Part A ■ Text 1 II 命题分析 Textl 选自 2016 年 5 月 22 H The Washington",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

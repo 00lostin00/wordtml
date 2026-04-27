@@ -31,7 +31,16 @@
             "D": "She is working on the references."
           },
           "answer": "A",
-          "explanation": "】细节辨认题。对话一开始,男士询问女士 的论文进度，女士在句(1)中回答说她还没开始写。 因此答案为A )。"
+          "explanation": "】细节辨认题。对话一开始, 男士询问女士的论文进度，女士在句(1)中回答说她还没开始写。 因此答案为 A )。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What does the woman say about her dissertation? A ) 【精析】细节辨认题。对话一开始, 男士询问女士的论文进度，女士在句(1)中回答说她还没开始写。 因此答案为 A )。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q2",
@@ -44,7 +53,16 @@
             "D": "He told the man to be selective when using e-resources."
           },
           "answer": "B",
-          "explanation": "】细节辨认题。句(2)中男士提到，他在开始 写论文之前先和教授讨论了去哪里找资料的问题。 基于这个讨论，他在图书馆找到了参考书，并在网 上找到了大量知名期刊文章。因此答案为B )。"
+          "explanation": "】细节辨认题。句(2)中男士提到，他在开始写论文之前先和教授讨论了去哪里找资料的问题。 基于这个讨论，他在图书馆找到了参考书，并在网上找到了大量知名期刊文章。因此答案为 B )。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What does the man say about his professor? B ) 【精析】细节辨认题。句(2)中男士提到，他在开始写论文之前先和教授讨论了去哪里找资料的问题。 基于这个讨论，他在图书馆找到了参考书，并在网上找到了大量知名期刊文章。因此答案为 B )。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q3",
@@ -57,7 +75,16 @@
             "D": "He wasn't specific about the length of her dissertation."
           },
           "answer": "A",
-          "explanation": "】细节辨认题。女士认为自己无法开始写论 文是因为自己的题目不可行。根据句(3 )可知，她 的教授确实在一开始的时候提醒她可能会找不到 足够的资料。因此答案为A )。"
+          "explanation": "】细节辨认题。女士认为自己无法开始写论文是因为自己的题目不可行。根据句(3 )可知，她的教授确实在一开始的时候提醒她可能会找不到足够的资料。因此答案为 A )。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What does the woman say about her professor? A ) 【精析】细节辨认题。女士认为自己无法开始写论文是因为自己的题目不可行。根据句(3 )可知，她的教授确实在一开始的时候提醒她可能会找不到足够的资料。因此答案为 A )。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q4",
@@ -70,7 +97,16 @@
             "D": "Follow the man's advice."
           },
           "answer": "D",
-          "explanation": "】细节推断题。男士认为女士的论文题目太 过狭窄，如果将题目扩大可能会找到更多资料。根 据句(4)可知，女士认为扩大题目是个好主意,她会 将对其他地区的民间传说的描述囊括进来。由此 可知，女士会听从男士的建议。因此答案为D )。 Questions 5 to 8 are based on the conversation you have just heard. W ： Today, on Book Talk, we are lucky enough to host John Robbins and discuss his new book, Why Americans Are Fat and How We Can Lose Weight. (5-D John isn't just a respected writer； he's also one of the rare celebrity authors writing about science today. M： Thanks for having me, Rebecca, but I'm hardly a celebrity. W ： That's very modest of you to say, (5-2Considering that your four books have sold a total of seven million copies worldwide, and they've been translated into 12 different languages. What makes people so fascinated with your work? M ： (6)Well, people read my books because more than 60% of Americans are overweight or obese. And other countries are facing similar problems. Basically, we all want t"
+          "explanation": "】细节推断题。男士认为女士的论文题目太过狭窄，如果将题目扩大可能会找到更多资料。根据句(4)可知，女士认为扩大题目是个好主意, 她会将对其他地区的民间传说的描述囊括进来。由此可知，女士会听从男士的建议。因此答案为 D )。 Questions 5 to 8 are based on the conversation you have just heard. W： Today, on Book Talk, we are lucky enough to host John Robbins and discuss his new book, Why Americans Are Fat and How We Can Lose Weight. (5-D John isn't just a respected writer； he's also one of the rare celebrity authors writing about science today. M： Thanks for having me, Rebecca, but I'm hardly a celebrity. W： That's very modest of you to say, (5-2Considering that your four books have sold a total of seven million copies worldwide, and they've been translated into 12 different languages. What makes people so fascinated with your work? M： (6)Well, people read my books because more than 60% of Americans are overweight or obese. And other countries are facing similar problems. Basically, we all want t",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What do we learn the woman will do to complete her dissertation? D ) 【精析】细节推断题。男士认为女士的论文题目太过狭窄，如果将题目扩大可能会找到更多资料。根据句(4)可知，女士认为扩大题目是个好主意, 她会将对其他地区的民间传说的描述囊括进来。由此可知，女士会听从男士的建议。因此答案为 D )。 Questions 5 to 8 are based on the conversation you have jus",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q5",
@@ -83,7 +119,16 @@
             "D": "His latest book sold a million copies."
           },
           "answer": "C",
-          "explanation": "】细节推断题。句（5-1）中女士介绍说，约翰 不仅是一位受人尊敬的作家,还是当今为数不多的 撰写科学类文书的名人作家之一。根据句（5-2）可 知,男士的4 部著作在全球总共售出了 700万册， 并被翻译成12种不同的语言。由此可知,男士的 著作畅销全世界。因此答案为C）。"
+          "explanation": "】细节推断题。句（5-1）中女士介绍说，约翰不仅是一位受人尊敬的作家, 还是当今为数不多的撰写科学类文书的名人作家之一。根据句（5-2）可知, 男士的 4 部著作在全球总共售出了 700 万册， 并被翻译成 12 种不同的语言。由此可知, 男士的著作畅销全世界。因此答案为 C）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What does the woman say about the man in her introduction? C）【精析】细节推断题。句（5-1）中女士介绍说，约翰不仅是一位受人尊敬的作家, 还是当今为数不多的撰写科学类文书的名人作家之一。根据句（5-2）可知, 男士的 4 部著作在全球总共售出了 700 万册， 并被翻译成 12 种不同的语言。由此可知, 男士的著作畅销全世界。因此答案为 C）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q6",
@@ -96,7 +141,16 @@
             "D": "The fact that science books are difficult to read."
           },
           "answer": "C",
-          "explanation": "】细节推断题。女士问男士是什么让人们对 他的书作如此着迷。男士在句（6）中回答，人们读 他的书是因为超过60%的美国人超重或肥胖，其 他国家也面临类似的问题。总的来说，大家都想知 道如何解决问题。也就是说,超过一半美国人都超 重的事实让人们都想知道如何解决这个问题，这也 就驱动了男士去写相关的书。因此答案为C）。"
+          "explanation": "】细节推断题。女士问男士是什么让人们对他的书作如此着迷。男士在句（6）中回答，人们读他的书是因为超过 60%的美国人超重或肥胖，其他国家也面临类似的问题。总的来说，大家都想知道如何解决问题。也就是说, 超过一半美国人都超重的事实让人们都想知道如何解决这个问题，这也就驱动了男士去写相关的书。因此答案为 C）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What has motivated the man to write his books? C）【精析】细节推断题。女士问男士是什么让人们对他的书作如此着迷。男士在句（6）中回答，人们读他的书是因为超过 60%的美国人超重或肥胖，其他国家也面临类似的问题。总的来说，大家都想知道如何解决问题。也就是说, 超过一半美国人都超重的事实让人们都想知道如何解决这个问题，这也就驱动了男士去写相关的书。因此答案为 C）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q7",
@@ -108,8 +162,17 @@
             "C": "Those who want to lose weight.",
             "D": "The medical community."
           },
-          "answer": "D",
-          "explanation": "】细节辨认题。男士在句（7）中明确提到，他 的上一部书主要是为医学界写的。因此答案为 D）o"
+          "answer": "A",
+          "explanation": "】细节辨认题。男士在句（7）中明确提到，他的上一部书主要是为医学界写的。因此答案为 D）o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "A) The general public.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q8",
@@ -122,7 +185,16 @@
             "D": "Cut carbohydrate intake."
           },
           "answer": "B",
-          "explanation": "】细节推断题。句（8）中男士提到，他认为每 个人都需要考虑自己的新陈代谢,吃适合自己身体 需求的东西。他不提倡单一饮食。有些人应该比 其他人摄入更多的碳水化合物。不同的人对蛋白 质和脂肪的需求量不同。也就是说,男士建议人们 遵循个性化饮食。因此答案为B）。 Section B Questions 9 to 11 are based on the passage you have just heard. Stress is often depicted as negative, but research shows that moderate amounts of it can be beneficial for your brain and your body. First, the benefits for the brain. Studies have shown that short periods of stress can actually bolster cognitive functioning. ⑼Researchers discovered that placing rats in a stressful situation for just a few hours doubled the growth of new brain cells. The rats also did better on a memory test later on. Scientists think the same thing happens in humans. But how does stress improve memory? It's simple. When your brain cells multiply, your memory can improve. Viewed from a biological perspective, this makes sense, (10) because animals that are better at remem"
+          "explanation": "】细节推断题。句（8）中男士提到，他认为每个人都需要考虑自己的新陈代谢, 吃适合自己身体需求的东西。他不提倡单一饮食。有些人应该比其他人摄入更多的碳水化合物。不同的人对蛋白质和脂肪的需求量不同。也就是说, 男士建议人们遵循个性化饮食。因此答案为 B）。 Section B Questions 9 to 11 are based on the passage you have just heard. Stress is often depicted as negative, but research shows that moderate amounts of it can be beneficial for your brain and your body. First, the benefits for the brain. Studies have shown that short periods of stress can actually bolster cognitive functioning. ⑼Researchers discovered that placing rats in a stressful situation for just a few hours doubled the growth of new brain cells. The rats also did better on a memory test later on. Scientists think the same thing happens in humans. But how does stress improve memory? It's simple. When your brain cells multiply, your memory can improve. Viewed from a biological perspective, this makes sense, (10) because animals that are better at remem",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What does the man recommend people do? B）【精析】细节推断题。句（8）中男士提到，他认为每个人都需要考虑自己的新陈代谢, 吃适合自己身体需求的东西。他不提倡单一饮食。有些人应该比其他人摄入更多的碳水化合物。不同的人对蛋白质和脂肪的需求量不同。也就是说, 男士建议人们遵循个性化饮食。因此答案为 B）。 Section B Questions 9 to 11 are based on the p",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q9",
@@ -135,7 +207,16 @@
             "D": "They began to get irritated and restless."
           },
           "answer": "B",
-          "explanation": "What did researchers discover about rats placed B）【精析】细节辨认题。句（9）中提到，研究人员发 briefly in a stressful situation? 现，将老鼠置于压力状态下几个小时就会使它们 英语菌的笔记 新的脑细胞的生长翻倍。因此答案为B）。"
+          "explanation": "What did researchers discover about rats placed B）【精析】细节辨认题。句（9）中提到，研究人员发 briefly in a stressful situation? 现，将老鼠置于压力状态下几个小时就会使它们英语菌的笔记新的脑细胞的生长翻倍。因此答案为 B）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "答案详解 What did researchers discover about rats placed B）【精析】细节辨认题。句（9）中提到，研究人员发 briefly in a stressful situation? 现，将老鼠置于压力状态下几个小时就会使它们英语菌的笔记新的脑细胞的生长翻倍。因此答案为 B）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q11",
@@ -148,7 +229,16 @@
             "D": "To reflect on their causes."
           },
           "answer": "C",
-          "explanation": "】细节辨认题。句（I D 中明确提到,科学家 承认，长期的压力会让人更容易生病。因此答案 为C）。 Questions 12 to 15 are based on the passage you have just heard. (⑵For many managers and people who work in leadership positions, dealing with emails is a dilemma. It's likely the unpredictable, uncontrollable and ongoing nature of day-to-day email in terms of volume, importance and urgency contributes to their levels of anxiety and to diminished leadership skills. That's because it's not unusual for many leaders to prioritize email management over people management. An obsession with managing their inbox prevents them from dealing with their employees. (13)As a result, they ignore the issues that might only be mild problems at first, until unfortunately, they inevitably transform into a major problem or crisis by virtue of neglect. (14)As leaders, they are expected to motivate and inspire their team in pursuit of longer term strategic go"
+          "explanation": "】细节辨认题。句（I D 中明确提到, 科学家承认，长期的压力会让人更容易生病。因此答案为 C）。 Questions 12 to 15 are based on the passage you have just heard. (⑵For many managers and people who work in leadership positions, dealing with emails is a dilemma. It's likely the unpredictable, uncontrollable and ongoing nature of day-to-day email in terms of volume, importance and urgency contributes to their levels of anxiety and to diminished leadership skills. That's because it's not unusual for many leaders to prioritize email management over people management. An obsession with managing their inbox prevents them from dealing with their employees. (13)As a result, they ignore the issues that might only be mild problems at first, until unfortunately, they inevitably transform into a major problem or crisis by virtue of neglect. (14)As leaders, they are expected to motivate and inspire their team in pursuit of longer term strategic go",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What do scientists believe chronic stress can do? C） 1 精析】细节辨认题。句（I D 中明确提到, 科学家承认，长期的压力会让人更容易生病。因此答案为 C）。 Questions 12 to 15 are based on the passage you have just heard. (⑵For many managers and people who work in leadership posit",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q15",
@@ -161,7 +251,16 @@
             "D": "Spending too much time handling email."
           },
           "answer": "A",
-          "explanation": "】细节辨认题。短文中提到,领导者必须从 其他任务中转移资源来查看、过滤和回复电子邮 件。根据句（15）可知，这一问题的解决方法是培 养自制力,就像肌肉一样— 随着时间的推移，肌 肉可以通过锻炼得到加强或改善。因此答案 为A）。 Section C Questions 16 to 18 are based on the recording you have just heard. In last week's lecture, we talked about the problems caused by poor eating habits, focusing on how medical professionals are trying to solve these problems. Today, we'll continue with the topic, but focus on research from a different field—marketing. Now, what can marketing tell us about improving nutrition? Well, (16)a team of marketing professors has studied the importance of the visual aspect of food and how that influences food choices. Those marketing experts assert that the impact of the appearance of food is greater than we might presume, and might hold the key to encouraging better eating. So how important is the appearance of food? Research shows that just seeing an appealing photograph of a"
+          "explanation": "】细节辨认题。短文中提到, 领导者必须从其他任务中转移资源来查看、过滤和回复电子邮件。根据句（15）可知，这一问题的解决方法是培养自制力, 就像肌肉一样— 随着时间的推移，肌肉可以通过锻炼得到加强或改善。因此答案为 A）。 Section C Questions 16 to 18 are based on the recording you have just heard. In last week's lecture, we talked about the problems caused by poor eating habits, focusing on how medical professionals are trying to solve these problems. Today, we'll continue with the topic, but focus on research from a different field—marketing. Now, what can marketing tell us about improving nutrition? Well, (16)a team of marketing professors has studied the importance of the visual aspect of food and how that influences food choices. Those marketing experts assert that the impact of the appearance of food is greater than we might presume, and might hold the key to encouraging better eating. So how important is the appearance of food? Research shows that just seeing an appealing photograph of a",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "A ) C ultivate self-control. B) F ilter their email boxes. C) R espond only after work. D ) C heck only when necessary.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q16",
@@ -174,7 +273,16 @@
             "D": "The importance of the appearance of food."
           },
           "answer": "D",
-          "explanation": "】细节辨认题。句（16）中提到，一个营销教 授团队研究了食物视觉方面的重要性以及它如何 影响食物选择。因此答案为D）。"
+          "explanation": "】细节辨认题。句（16）中提到，一个营销教授团队研究了食物视觉方面的重要性以及它如何影响食物选择。因此答案为 D）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What does the speaker say a team of marketing professors has studied? D）【精析】细节辨认题。句（16）中提到，一个营销教授团队研究了食物视觉方面的重要性以及它如何影响食物选择。因此答案为 D）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q17",
@@ -187,7 +295,16 @@
             "D": "By winning the support of marketing professors."
           },
           "answer": "A",
-          "explanation": "】细节辨认题。根据句（17）可知，医疗专业 人员试图通过关注不同食物中的营养成分和强调 碳水化合物、脂肪、糖和卡路里等的含量来对抗肥 胖流行病。因此答案为A）。"
+          "explanation": "】细节辨认题。根据句（17）可知，医疗专业人员试图通过关注不同食物中的营养成分和强调碳水化合物、脂肪、糖和卡路里等的含量来对抗肥胖流行病。因此答案为 A）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "How have medical professionals tried to fight obesity? A）【精析】细节辨认题。根据句（17）可知，医疗专业人员试图通过关注不同食物中的营养成分和强调碳水化合物、脂肪、糖和卡路里等的含量来对抗肥胖流行病。因此答案为 A）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q18",
@@ -200,7 +317,16 @@
             "D": "They can rely on advertising for sales promotion."
           },
           "answer": "B",
-          "explanation": "】细节辨认题。讲座中提到了一个通过强调 胡萝卜的外观和口感而成功将胡萝卜的销售量提 高的案例。句（18）中讲话者提到，研究人员认为， 其他公司可以通过类似的广告来增加健康食品的 销量,将他们的产品描述为有吸引力和快乐的源 泉。因此答案为B）。 Questions 19 to 21 are based(HI the recording you have just heard. The household cleaning products industry really began to take off in the 1950s. Prior to that resourceful housewives, who had grown up in a less prosperous era, relied on substances that they used in their kitchens such as vinegar used to clean windows. Today, the household cleaning products industry is worth billions of dollars a year and is dominated by large global companies. (19)In recent years, however, many countries have witnessed a surge in the number of small businesses and companies offering more environment-friendly cleaning products, and they're doing good business, too. One reason for this is that consumers are becoming more aware of environment and sustainability issues. They also want to"
+          "explanation": "】细节辨认题。讲座中提到了一个通过强调胡萝卜的外观和口感而成功将胡萝卜的销售量提高的案例。句（18）中讲话者提到，研究人员认为， 其他公司可以通过类似的广告来增加健康食品的销量, 将他们的产品描述为有吸引力和快乐的源泉。因此答案为 B）。 Questions 19 to 21 are based(HI the recording you have just heard. The household cleaning products industry really began to take off in the 1950s. Prior to that resourceful housewives, who had grown up in a less prosperous era, relied on substances that they used in their kitchens such as vinegar used to clean windows. Today, the household cleaning products industry is worth billions of dollars a year and is dominated by large global companies. (19)In recent years, however, many countries have witnessed a surge in the number of small businesses and companies offering more environment-friendly cleaning products, and they're doing good business, too. One reason for this is that consumers are becoming more aware of environment and sustainability issues. They also want to",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What can other companies learn from the example of the carrot promotion campaign? B）【精析】细节辨认题。讲座中提到了一个通过强调胡萝卜的外观和口感而成功将胡萝卜的销售量提高的案例。句（18）中讲话者提到，研究人员认为， 其他公司可以通过类似的广告来增加健康食品的销量, 将他们的产品描述为有吸引力和快乐的源泉。因此答案为 B）。 Questions 19 to 21 are based(HI the recording you hav",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q19",
@@ -213,7 +339,16 @@
             "D": "It has experienced increasingly fierce competition among global companies."
           },
           "answer": "C",
-          "explanation": "】细节辨认题。句Q9）中提到，近年来，许多 国家提供更多环保清洁产品的小公司的数量激 增，而且他们的生意也做得很好。因此答案 为C）。"
+          "explanation": "】细节辨认题。句 Q9）中提到，近年来，许多国家提供更多环保清洁产品的小公司的数量激增，而且他们的生意也做得很好。因此答案为 C）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "ut the cleaning products industry in recent years? O 【精析】细节辨认题。句 Q9）中提到，近年来，许多国家提供更多环保清洁产品的小公司的数量激增，而且他们的生意也做得很好。因此答案为 C）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q20",
@@ -226,7 +361,16 @@
             "D": "Their quality has been greatly improved."
           },
           "answer": "A",
-          "explanation": "】细节推断题。根据句（20）可知，过去，人们 可能会对声称能够达到惊人的清洁效果的新产品 持怀疑态度,但他们现在相信技术有能力完成曾 经被认为不可能的事情。也就是说，消费者现在 对技术有了更多的了解，所以新兴清洁产品会畅 销。因此答案为A）。"
+          "explanation": "】细节推断题。根据句（20）可知，过去，人们可能会对声称能够达到惊人的清洁效果的新产品持怀疑态度, 但他们现在相信技术有能力完成曾经被认为不可能的事情。也就是说，消费者现在对技术有了更多的了解，所以新兴清洁产品会畅销。因此答案为 A）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "A) Consumers now know much more about technology. B) Their mass production has sharply reduced the price. C) Consumers tend to favor all that is novel. D) Their quality has be",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q21",
@@ -239,7 +383,16 @@
             "D": "Telling one another about their incomparable virtues."
           },
           "answer": "B",
-          "explanation": "】细节辨认题。根据句（21）可知，顾客通过 在社交媒体上留言（称赞它们的优点）来为这些产 品进行营销。因此答案为B）。 Questions 22 to 25 are based on the recording you have just heard. Throwing spare change into a fountain is a time-honored ritual： throw a penny into the water, and your wish might come true. But all that money has to go somewhere. (22)Otherwise, the growing piles of pennies, quarters and euros could clog up the fountain's works. Today, Fm going to talk about where all the coins go. Well, the coins collected can go to all sorts of different places—from fountain maintenance to charity or public service. (23) In New York City, for example, coins collected from fountains in public parks often go towards the fountains' maintenance itself, though entrepreneurs who don't mind getting their hands wet often get to it first. There are over 50 beautiful, decorative display fountains in New York City parks. They are cleaned by the parks, s"
+          "explanation": "】细节辨认题。根据句（21）可知，顾客通过在社交媒体上留言（称赞它们的优点）来为这些产品进行营销。因此答案为 B）。 Questions 22 to 25 are based on the recording you have just heard. Throwing spare change into a fountain is a time-honored ritual： throw a penny into the water, and your wish might come true. But all that money has to go somewhere. (22)Otherwise, the growing piles of pennies, quarters and euros could clog up the fountain's works. Today, Fm going to talk about where all the coins go. Well, the coins collected can go to all sorts of different places—from fountain maintenance to charity or public service. (23) In New York City, for example, coins collected from fountains in public parks often go towards the fountains' maintenance itself, though entrepreneurs who don't mind getting their hands wet often get to it first. There are over 50 beautiful, decorative display fountains in New York City parks. They are cleaned by the parks, s",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What are some customers doing to help promote non-traditional cleaning products? B）【精析】细节辨认题。根据句（21）可知，顾客通过在社交媒体上留言（称赞它们的优点）来为这些产品进行营销。因此答案为 B）。 Questions 22 to 25 are based on the recording you have just heard. Throwing spare change into a fountain is a time-",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q22",
@@ -252,7 +405,16 @@
             "D": "Polluting the fountains5 water."
           },
           "answer": "B",
-          "explanation": "】细节推断题。讲座开头提到，将零钱扔进 喷泉是一种历史悠久的仪式:把一便士扔进水里， 你的愿望可能会实现。但这些钱都得去往别处。 根据句（22）可知，否则的话，越来越多的便士、美 分和欧元可能会堵塞喷泉装置。因此答案为B） 0"
+          "explanation": "】细节推断题。讲座开头提到，将零钱扔进喷泉是一种历史悠久的仪式:把一便士扔进水里， 你的愿望可能会实现。但这些钱都得去往别处。 根据句（22）可知，否则的话，越来越多的便士、美分和欧元可能会堵塞喷泉装置。因此答案为 B） 0",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What problem might be caused by the growing piles of coins in fountains? B）【精析】细节推断题。讲座开头提到，将零钱扔进喷泉是一种历史悠久的仪式:把一便士扔进水里， 你的愿望可能会实现。但这些钱都得去往别处。 根据句（22）可知，否则的话，越来越多的便士、美分和欧元可能会堵塞喷泉装置。因此答案为 B） 0",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q23",
@@ -265,7 +427,16 @@
             "D": "They are usually used as wages for fountain cleaners."
           },
           "answer": "C",
-          "explanation": "】细节辨认题。句（23）中明确提到,在纽约 市，从公园里的喷泉中收集的硬币通常用于喷泉 的维护。因此答案为C）。"
+          "explanation": "】细节辨认题。句（23）中明确提到, 在纽约市，从公园里的喷泉中收集的硬币通常用于喷泉的维护。因此答案为 C）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What docs the speaker say about the coins collected from New York City's park fountains? C）【精析】细节辨认题。句（23）中明确提到, 在纽约市，从公园里的喷泉中收集的硬币通常用于喷泉的维护。因此答案为 C）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q24",
@@ -278,7 +449,16 @@
             "D": "It is estimated to be about $ 40,000 a month."
           },
           "answer": "C",
-          "explanation": "】细节辨认题。讲座中提到,数百年来都有 游客把硬币扔进罗马著名的特雷维喷泉,罗马官 英语菌的笔记 员要求每晚都要清理喷泉，据报道,每天都会收集 到高达4 000美元的世界各地的零钱。根据句 （24）可知，每天晚上收集到的大部分钱都用于一 家为有需要的人经营的超市。因此答案为C）。"
+          "explanation": "】细节辨认题。讲座中提到, 数百年来都有游客把硬币扔进罗马著名的特雷维喷泉, 罗马官英语菌的笔记员要求每晚都要清理喷泉，据报道, 每天都会收集到高达 4 000 美元的世界各地的零钱。根据句 （24）可知，每天晚上收集到的大部分钱都用于一家为有需要的人经营的超市。因此答案为 C）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What do we learn about the money collected from Rome's Trevi Fountain? C）【精析】细节辨认题。讲座中提到, 数百年来都有游客把硬币扔进罗马著名的特雷维喷泉, 罗马官英语菌的笔记员要求每晚都要清理喷泉，据报道, 每天都会收集到高达 4 000 美元的世界各地的零钱。根据句 （24）可知，每天晚上收集到的大部分钱都用于一家为有需要的人经营的超市。因此答案为 C）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q25",
@@ -291,7 +471,16 @@
             "D": "He stole a lot of money from a fountain with a magnetic stick."
           },
           "answer": "D",
-          "explanation": "】细节辨认题。句（25）中提到，当局最终抓 住了一个名叫托马斯• 摩根的臭名昭著的小偷, 并禁止他进入喷泉，因为他用一根磁力棒在至少 34年的时间里从喷泉中捞出了数千美元的零钱。 因此答案为D）。 Part J[ Reading Comprehension Section A 【文章来源】本文选自2020年3 月1 7 日刊登在Cable News Network （CNN）（美国有线电视新闻网）上一篇标题 为\"We Cling to American Rugged Individualism at Our Peril\"（《我们坚持美国坚定的个人主义，但要承担风险》） 的文章。 【结构框图】 第1、2 段回忆了作者在课堂中遇到的危险事件：一个患有精神分裂 ____ I--0 ：症的女人出现在教室并表示自己有枪，之后被制服并送进医院。 本文主要介绍了作者在美国］： '--------------------------------------------------------------------- 做访问诗人时遭遇的危险。 ■\"： ,--------------------------------------------------------------------- k---------------------------- 7 ：小，第3 段描述了作者女儿遇到的危险事件：在作者的丈夫送女儿去参加 '-①：日间露营的路上，一个女人差点儿把孩子带走。 【词性分析】 名 词:A） access （使用或见到的）机会,权利；通道;D） dedication献身;奉献；I） network关系网;人际网;互 联网 动 词:A） access到达;进入;使用；E） escorted护送;护卫；F） froze （因害怕等）不动,停住;吓呆；（使）冻结;冷 藏；D network （使）联网;建立人际关系网；J） overriding视为比… …更重要;否决；M） stifled （使）窒 息;压制；N） struck侵袭;爆发;撞击;行进；O） terrifying使害怕"
+          "explanation": "】细节辨认题。句（25）中提到，当局最终抓住了一个名叫托马斯• 摩根的臭名昭著的小偷, 并禁止他进入喷泉，因为他用一根磁力棒在至少 34 年的时间里从喷泉中捞出了数千美元的零钱。 因此答案为 D）。 Part J[ Reading Comprehension Section A 【文章来源】本文选自 2020 年 3 月 1 7 日刊登在 Cable News Network （CNN）（美国有线电视新闻网）上一篇标题为\"We Cling to American Rugged Individualism at Our Peril\"（《我们坚持美国坚定的个人主义，但要承担风险》） 的文章。 【结构框图】 第 1、2 段回忆了作者在课堂中遇到的危险事件：一个患有精神分裂 ____ I--0：症的女人出现在教室并表示自己有枪，之后被制服并送进医院。 本文主要介绍了作者在美国］： '--------------------------------------------------------------------- 做访问诗人时遭遇的危险。 ■\"：, --------------------------------------------------------------------- k---------------------------- 7：小，第 3 段描述了作者女儿遇到的危险事件：在作者的丈夫送女儿去参加 '-①：日间露营的路上，一个女人差点儿把孩子带走。 【词性分析】 名词:A） access （使用或见到的）机会, 权利；通道;D） dedication 献身;奉献；I） network 关系网;人际网;互联网动词:A） access 到达;进入;使用；E） escorted 护送;护卫；F） froze （因害怕等）不动, 停住;吓呆；（使）冻结;冷藏；D network （使）联网;建立人际关系网；J） overriding 视为比… …更重要;否决；M） stifled （使）窒息;压制；N） struck 侵袭;爆发;撞击;行进；O） terrifying 使害怕",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "What does the speaker say about Thomas Morgan? D）【精析】细节辨认题。句（25）中提到，当局最终抓住了一个名叫托马斯• 摩根的臭名昭著的小偷, 并禁止他进入喷泉，因为他用一根磁力棒在至少 34 年的时间里从喷泉中捞出了数千美元的零钱。 因此答案为 D）。 Part J[ Reading Comprehension Section A 【文章来源】本文选自 2020 年 3 月 1 7 日刊登在 Cable New",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -321,62 +510,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "• : 4 ①dizzy ［'dizi］ a. 头晕目眩的；眩晕的 § ©press charges 起诉；控告 ②turn out to be sth 证明是某物；原来是某物，⑤rattle ［Yaetl］ v. 使不安；使心烦意乱 ©wrestle ［'resl］让摔跤；扭打 J ⑥shake ［Jeik］ v. 去除；摆脱 The woman, who later turned out to be a schizophrenic without access to her medications, was, by some force, wrestled out and escorted away, then put in a hospital for observation, in a step that was actually safer for everyone than any one of us pressing charges. who later turned out to be a schizophrenic without access to her medications, 引导词时间状语系动词不定式短语作表语介词短语作 sH/Zop〃阳位的后置定语 by some force, r The woman 的定语从句介词短语作主句的插入语、 The woman, was, wrestled out and (was) escorted away, then (was) put in a hospital for observation, 主语被动态谓语 1 连词被动态谓语 2 状语被动态谓语 3 put 的地点状语 put 的目的状语介词短语作主句的方式状语 that was actually safer fbr everyone than any one of us pressing charges. a step 的 ZE 语从句引导词系动词状语+表语对象状语介词短语作比较状语；• 解题思腾• ［ j 27 . 答案：A） access ［确定词性］",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "26. 答案：F） froze [确定词性 1 空格位于首段②句中，其前为主语 We 及不定代词 all, 后为句点，故句中缺少谓语动词，空格词应为不及物动词作谓语。结合句群的过去时态（was、wandered、said、wasn't、had）可知，空格词应为动词的过去式。 [锁定答案 1 首段①②句叙述作者本人的亲身经历：首句指出，一名女子晃进我的课堂，扬言自己有枪并想用用看；②句",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q27",
           "number": 27,
           "answer": "A",
-          "explanation": "题。 A ）【语法判断】空格前后的词分别为without和to, 说明此处应是一个介词短语，可推断出空格处是 一个名词。 【语义判断】空格所在句的意思是闯入教室的女人 后来被证明患有精神分裂症，空格所在介词短语 用来进一步描述提到的这个女人，介词to 后面提 到“药物”，结合空格所在段内容可推断出这个女 人应该没有进行药物治疗。此处应指“未获得药 物治疗”,access \" （使用的）机会，权利”符合句意， 故答案为A）。"
+          "explanation": "题。 A）【语法判断】空格前后的词分别为 without 和 to, 说明此处应是一个介词短语，可推断出空格处是一个名词。 【语义判断】空格所在句的意思是闯入教室的女人后来被证明患有精神分裂症，空格所在介词短语用来进一步描述提到的这个女人，介词 to 后面提到“药物”，结合空格所在段内容可推断出这个女人应该没有进行药物治疗。此处应指“未获得药物治疗”, access \" （使用的）机会，权利”符合句意， 故答案为 A）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "答案：A） access ［确定词性］空格位于第二段②句 T he woman 的定语从句（who later turned out to b e. . .）中，without to her m edications 整体作 a schizophrenic 的后置定语。空格词作介词 with out 的宾语，应为名词或动名词，且能与 to sth 构成合",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "题时，考生需格外关注 and. then. also 等语义标记词，借助语义逻辑快速锁定正确项。如本题，考生若识别出了 and、th e n 传递的顺承逻辑，即可凭借常识快速锁定 escortedo",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "28 . 答案：E） escorted ［确定词性］空格位于第二段②句的主句中，主句的结构为“ T he w om an（主语）+ was wrestled out（被动态谓语 1） + and （连词）+ （w as） away （被动态谓语 2） + then （副词）+ （w as） put in a hospital for observation（被动态谓语 3",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "29 . 答案：K) peacefully ［确定词性］空格位于第二段④句 the fa c t 的同位语从句( that the rest of our days. . . ) 中，从句的主谓结构完整：the rest of our days(主语)+ passed(谓语)。空格词应为副词，修饰动词 passed0 ［锁定答案 l ④句描述危险事件结束后作者的状态：尽管在校园里余下的日子过得，我仍然感到不安。despite 引导让步成分，提示逗号前后两部分存在语义转折，空格词应与“不安( rattled)”语义相反，指向 “平静地/安宁地”等意。若考生不熟悉 ra ttle d 的含义，可先借助句际逻辑推导词义：I was ra ttle d 与⑤句为顺承关联，与③句为转折关联(But), 由③④⑤句大意“我们继续探讨诗歌，但我，我总觉得我们生活在危险之中“不难推出 rattled 应表达“担心的/不安的”之意。K) peacefully“安宁地；平静地”与 rattled 语义相反， 契合文意，为正确项。 ［补充技巧］厘清句内/句际逻辑有助于考生快速判断出局部语义。考生需掌握常见逻辑标记词的用法， 如表转折的 butAhowever>neverthelessw hereas 等(意为\"但是\")；表让步的 although>despitein spite of 等(意为“尽管”)，借助前后语义关联快速判断空格词走向。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "29 . 答案：K) peacefully ［确定词性］空格位于第二段④句 the fa c t 的同位语从句( that the rest of our days. . . ) 中，从句的主谓结构完整：the rest of our days(主语)+ passed(谓语)。空格词应为副词，修饰动词 passed0 ［锁定答案 l ④句描述危险事件结束后作者的状态：尽管在校园里余",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "30 . 答案：G) incredible ［确定词性］空格位于第二段⑤句 the sense 的同位语从句(that in this country. . . ) 中，其前为介词 at, 其后为名词 risk, at risk(处于危险中)为固定短语，可见空格词作定语修饰 risk, 应为形容词/过去分词/现在分词/名词。 ［锁定答案］⑤句承接上句阐明作者感到不安( I was rattled)的原因：我无法摆脱“我们总是生活在危险中，，这一感觉。结合上文所述的作者亲历的危险事件，及首段末句作者的观点“在美国任教，就已经是将自己置于危险之中了 ”可知，空格句意在说明“在美国总是会遇到此类危险事件，即危险事件的发生率是很高的“，故空格词应表示“极高的/极大的”等意。备选项中，G) incredible 意为\"极大的\"，at incredible ris k 意即 “处于极大的危险中“，契合文意。 ［排除干扰］B) apparent」) overriding、。) terrifying 均能与 risk 搭配构成合理语义“显而易见的/首要的/极其可怕的风险”，具有一定干扰性。但由上下文可知，空格句侧重说明美国危险事件发生的频率很高，风险很大，而非强调风险的可见性及可怕程度，由此可排除 B、0 项。此外，文章并未介绍不同类型的风险及应对的优先等级，J) overriding” 首要的；比其他一切更重要的“无从谈起。 I［❶ A few months later, crisis 31 again. ©W hile my husband was locking his bike to drop off our 3-year-old daughter for her preschool-aged day camp, a different woman approached!. ❸ Swiftly\" and for no 32 reason, she bent down, picked up our daughter» and began to carry her down the street",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "30 . 答案：G) incredible ［确定词性］空格位于第二段⑤句 the sense 的同位语从句(that in this country. . . ) 中，其前为介词 at, 其后为名词 risk, at risk(处于危险中)为固定短语，可见空格词作定语修饰 risk, 应为形容词/过去分词/现在分词/名词。 ［锁定答案］⑤句承接上句阐明作者感到不安( I was ratt",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "题。 B）【语法判断】空格前是不定冠词 an, 空格后面是名词 pace, 可知空格处应填一个形容词或名词作定语。 【语义判断】空格所在句提到 commercial trapping of passenger pigeons（商业捕获旅鸽），接下来的一句又提至 U hundreds of thousands of the birds were being harvested every day （每天都有数十万只旅鸽被捕获），可判断此处是指商业捕获旅鸽的速度非常快。备选项中的形容词 unprecedented 表示 “前所未有的”，用在此处符合语境，故答案为 B）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "31 . 【考点】动词辨析题。 N）【语法判断】空格前为名词 crisis, 空格后为程度副词 again, 且空格所在句没有谓语, 可推知空格所在处应填入一个动词，再结合文章时态可知，该处应为动词的过去式。 【语义判断】在动词过去式中，struck 可以搭配主语 crisis, 且从后文的叙述可知，作者的丈夫和女儿也遭遇了危险事件, struck “侵袭”符合语境，故答案为 N）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "题。 B）【语法判断】空格前为介词 fo r 和限定词 no, 空格后为名词 reason, 说明空格处应填入一个形容词性的单词，来修饰名词 reason。 【语义判断】空格所在句的意思是，没有什么原因， 这个女人抱起我们的女儿就往街上走, 后一句再次提及一切发生得太快且令人困惑，说明空格处填入的形容词应有“明确，清楚”的意思。由此确定 B） apparent 为答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "32 . 【考点】形容词辨析题。 B）【语法判断】空格前为介词 fo r 和限定词 no, 空格后为名词 reason, 说明空格处应填入一个形容词性的单词，来修饰名词 reason。 【语义判断】空格所在句的意思是，没有什么原因， 这个女人抱起我们的女儿就往街上走, 后一句再次提及一切发生得太快且令人困惑，说明空格处填入的形容词应有“明确，清楚”的意思。由此确定 B） apparent 为答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "题。 C）【语法判断】空格前为 my daughter, 空格后为动词 cried, 说明空格处应填入一个副词。 【语义判断】空格所在句是一个“so. . . that. 句型, 后半句是前半句导致的结果，该句的意思是一切发生得太快，令人困惑，以至于我的女儿哭。遭遇被抢夺的危险, 按照正常情况孩子肯定会哭，但是前面强调了事情发生得太突然，由此可推断作者的女儿应该还没来得及反应过来，所以此处应该是“没有哭”, C） barely\"几乎没有\"符合语境，故为答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "33 . 【考点】副词辨析题。 C）【语法判断】空格前为 my daughter, 空格后为动词 cried, 说明空格处应填入一个副词。 【语义判断】空格所在句是一个“so. . . that. 句型, 后半句是前半句导致的结果，该句的意思是一切发生得太快，令人困惑，以至于我的女儿哭。遭遇被抢夺的危险, 按照正常情况孩子肯定会哭，但是前面强调了事情发生得太突然，由此可推断作者的女儿应",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "题。 I）【语法判断】空格前面是不定冠词 a, 后面是介词 of, 说明空格处需填入一个单数名词。 【语义判断】名词中，network 是可数名词的单数形式且能与 a 搭配。此外, 空格所在句的意思是这些无家可归的人通常也都认识这个地方其他同样无家可归的人，说明他们之间也相互联系，存在着一张关系网, D 符合句意，故为答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "34 . 【考点】名词辨析题。 I）【语法判断】空格前面是不定冠词 a, 后面是介词 of, 说明空格处需填入一个单数名词。 【语义判断】名词中，network 是可数名词的单数形式且能与 a 搭配。此外, 空格所在句的意思是这些无家可归的人通常也都认识这个地方其他同样无家可归的人，说明他们之间也相互联系，存在着一张关系网, D 符合句意，故为答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "；/ (D approach ［e'pra 仇口 v. 走近；靠近 § © custody ［'kAstadi］ n. 拘留；拘押 ②sw iftly ［'swiftli］ ad. 迅速地；敏捷地， © incoherent ［unkau'hrarsnt］ a. 语无伦次的；言语不 ③reclaim ［n'kleim］ u. 取回；夺回 : 清的 © retreat ［n'trirt］ v. 逃避；躲避 《⑧episode C'episaod］ n. 一段经历；一段时期 ⑤unwell ［An'wel］ a. 不舒服的；状态不好的 《© haunting ［'hamti1］］ a. 萦绕心头的；难以忘怀的；, 解题思能• 1 於 3 1 . 答案：N ) struck ［确定词性］空格位于第三段首句的主干中, 其前为主语 crisis, 其后为副词 again 作状语，故空格词应作谓语。结合句内时间状语 A few months later 及下文的过去时态(was locking, approached 等)可知，空格词应为动词的过去式。 ［锁定答案］首句指出，几个月后，危难再度。由 again 可知，首句承上启下，引出另一事例论证作者观点。结合下文所述作者的丈夫和女儿也遭遇了危险事件，可推测空格词指向“降临/来袭/侵袭”等意。 N ) struck 意为“(灾难、疾病等)突然降临，侵袭\"，契合语境，为正确项。 ［补充技巧 1 段首句常为段落主旨句，其设空处往往考查考生对段际逻辑关系的掌握, 或根据下文内容归纳段落主旨的能力。考生可从以下两方面寻求解题的突破点：1.抓取句中的语义标记词(如首句中的 again), 判断本段与上文的语义逻辑，推导句内语义。2, 根据下文所述内容，总结提炼段落主旨，辅助解题。 3 2 . 答案：B ) apparent ［确定词性 1 空格位于第三段③句的介词短语(for no reason)中，空格前为介词 for 及限定词 no, 空格后为名词 reason„ 可见，空格词应为形容词/过去分词/现在分词/名词，修饰名词 reasono ［锁定答案］第三段②至⑥",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "的掌握, 或根据下文内容归纳段落主旨的能力。考生可从以下两方面寻求解题的突破点：1.抓取句中的语义标记词(如首句中的 again), 判断本段与上文的语义逻辑，推导句内语义。2, 根据下文所述内容，总结提炼段落主旨，辅助解题。 3 2 . 答案：B ) apparent ［确定词性 1 空格位于第三段③句的介词短语(for no reason)中，空格前为介词 for 及限定词 no, 空格后为名词 reason„ 可见，空格词应为形容词/过去分词/现在分词/名词，修饰名词 reasono ［锁定答案］第三段②至⑥句讲述另一危险事件发生的经过，其中③句指出“没有的原因，那女子迅速地弯下身, 抱起我们的女",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -435,71 +714,159 @@
           "id": "q36",
           "number": 36,
           "stem": "Wardian regards the various extraordinary challenges as a test of his physical endurance.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "】细节归纳题。D）段第二句指出，TD 项目由该国的非营利组织资助，而第三句后半部分则 meals 定位到文章 E）段第三句。 以某位医生看诊的事例说明，这种医疗服务是通 E）【精析】细节辨认题。E）段第三句提到，一些岛上的母亲们抱怨孩子们拒绝进食。第四句说明了 TD 过网络直播进行的远程医疗咨询。题干中的医生的判断，指出孩子们不肯吃饭的原因是母亲们 virtual medical service 是对定位段第三句中 live- 给他们吃一些廉价方便的包装薯条，影响了孩子的 streamed 和 rermote medical consultations 的概括，而 financially supported 则是对第二句中食欲。题干是对 E）段第三、四句信息的同义转述。 题干中的 they are fed cheap jumk food 对应原文中 funded 的同义转述，故答案为 D）。 的 they are feeding the children packaged chips",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "36. 【定位】由题干中的 various 和 challenges 定位到文章 E）段。 E）【精析】同义转述题。E）段倒数第二、三句提出， 沃迪恩喜欢多样化和独一无二的挑战，他很想看看自己能应付什么，身体能接受什么，由此可知， 题干是对该处信息的同义转述。题干中的 various extraordinary 对应原文中的 diverse and unique, 题干中的 a test of his physical endurance 是对原",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "Wardian hopes his participation in the seven-day marathon series will contribute to a worthy cause.",
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "】同义转述题。D 段倒数第二句提到，沃迪恩也希望他的参与能给他一个促进事业的平台。 而结合前文，这是在讲述沃迪恩打算参加一个 7 天马拉松系列赛的情况，题干是对该处信息的转述。题干中的 his participation 对应原文中的 his involvement, 题干中的 contribute to 是对原文中 give him a platform to promote 的同义转述，故答案为 D。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "37 . 【定位】由题干中的 Wardian hopes 和 cause 定位到 D 段倒数第二句。 I）【精析】同义转述题。D 段倒数第二句提到，沃迪恩也希望他的参与能给他一个促进事业的平台。 而结合前文，这是在讲述沃迪恩打算参加一个 7 天马拉松系列赛的情况，题干是对该处信息的转述。题干中的 his participation 对应原文中的 his involvement, 题干中的 contribute to 是对原文中 give him a platform t",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "Wardian is going to join over thirty other runners in a week-long marathon series.",
           "answer": "D",
-          "explanation": "】同义转述题。D）段定位句提到，他将与32 名其他探险者一起踏上一段不同寻常的旅程，参 与者在7 天内穿越不同的时区和气候，在7 大洲 跑7 场马拉松。可知题干是对定位句信息的转述。 题干中的over thirty other runners对应原文中的 32 other adventure seekers,题干中的 a week-long marathon series 是对原文中“seven marathons... in seven days”的同义转述，故答案为D）。"
+          "explanation": "】同义转述题。D）段定位句提到，他将与 32 名其他探险者一起踏上一段不同寻常的旅程，参与者在 7 天内穿越不同的时区和气候，在 7 大洲跑 7 场马拉松。可知题干是对定位句信息的转述。 题干中的 over thirty other runners 对应原文中的 32 other adventure seekers, 题干中的 a week-long marathon series 是对原文中“seven marathons. . . in seven days”的同义转述，故答案为 D）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "沃迪安将与其他三十多名跑者共同参加为期一周的马拉松系列赛。 ［答案］D ［精解 1 D 段②句指出，沃迪安将与其他 3 2 名探险者一起在七天内跑完七大洲的七场马拉松赛，试题是对该句信息的改写。其中 Join over thirty other runners 同义改写文中 joining 32 other adventure seekerso",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "Over-exertion in extreme cold can lower one's body temperature to a dangerous point.",
           "answer": "A",
-          "explanation": "】细节归纳题。A）段第一句提到北极刺骨 的风，第二句又指出，沃迪恩被告知，如果他过度 发力，会开始出汗，而这样只会增加体温过低的风 险。可知题干是对本句的同义转述。题干中的 over-exertion 对应原文中的 too much effort,题 干中的 lower one's body temperature to a dangerous point 是对原文中 increase the risk of hypothermia的转述，故答案为A）o"
+          "explanation": "】细节归纳题。A）段第一句提到北极刺骨的风，第二句又指出，沃迪恩被告知，如果他过度发力，会开始出汗，而这样只会增加体温过低的风险。可知题干是对本句的同义转述。题干中的 over-exertion 对应原文中的 too much effort, 题干中的 lower one's body temperature to a dangerous point 是对原文中 increase the risk of hypothermia 的转述，故答案为 A）o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "【定位】由题干中的 over-exertion 和 extreme cold 定位到 A）段。 A）【精析】细节归纳题。A）段第一句提到北极刺骨的风，第二句又指出，沃迪恩被告知，如果他过度发力，会开始出汗，而这样只会增加体温过低的风险。可知题干是对本句的同义转述。题干中的 over-exertion 对应原文中的 too much effort, 题干中的 lower one's body temperature to a danger",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "Wardian was very much impressed by a race director's sense of adventure.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "】细节归纳题。D）段定位句提到，根据 2016 年美国新闻/雷神公司 STEM 指数, 计算机相关工作在 STEM 领域内占据前七位，从业人员数量最多。另一方面，对于外语的兴趣自 1995 年以来首次下降。由此可知，题干是对该处信息的归纳。 题干中的 have been on the rise 对应原文中的 hold the top seven positions in STEM fields for highest number of workers，题干中的 foreign languages have become less appealing 是原文中 “Foreign language interest. . . is declining”的同义表达，故答案为 D）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "40 . 【定位】由题干中的 race director 和 sense of adventure 定位到文章 F）段前三句。 F）【精析】细节归纳题。F）段第一句说, 理查德・多诺万的举止吸引了沃迪恩，接着提到，吸引沃迪恩的就是他们在 2010 年的 50K 锦标赛上首次相遇时多诺万表现出来的冒险感，在爱尔兰戈尔韦举行的锦标赛上，多诺万担任比赛总监。可知题干是对该处信息的概括。题干中的 very much impressed 对应原文中的 appealed to, 故答案",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "Once Wardian sets his mind on something, he is determined to make it happen.",
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "K 段提到妹妹评价沃迪恩：once he decides to do something, he works at it until he does it。sets his mind = decides to do something; make it happen = works at it until he does it.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "由题干中的 determined 定位至 K）段",
+            "confidence": "high",
+            "verified": true
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "One top American marathoner quit his running career because of his physical condition.",
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "】同义转述题。B）段定位句指出，大多数教育者的意见都是一致的：编码应该被添加到课程中，但不能以牺牲外语课程为代价。题干是对该句的同义转述。题干中的 consensus 对应原文中的 agree, 题干中的 coding should be taught in schools 是对原文中 coding should be added to curriculums 的转述，而 replace foreign language 贝［ J 是原文中 at the expense of foreign language classes 的同义表达，故答案为 B）o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "42 . 【定位】由题干中的 one top American marathoner 定位到文章 H）段第二、三句。 H）【精析】细节归纳题。H）段定位句指出，今年的挑战赛特色是一个更为精英的圈子加入，其中包括美国最快的马拉松选手瑞安• 霍尔。而随后一句中提到，霍尔因面临着疲劳问题，迫使他于 2015 年离开了职业队伍。可知题干是对定位部分信息的概括归纳。题干中的 quit his running career 对应原文中的 leave the pro",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "To many of the week-long marathon participants, completing the race will be a success in itself.",
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "】同义转述题。D 段定位句指出，对旅途中的其他人来说，只要完成任务, 这本身就是一种嘉英语菌的笔记奖了。根据前文，这里所说的旅途就是为期一周的马拉松赛事。题干中的“ to many of th e. . . participants”对应原文中的 to others on the trip, 题干中的 a success 对应原文中的 reward, 题干中的 in itself 对应原文中的\"simply. . . its ow n\", 故答案为 I）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "43 . 【定位】由题干中的 completing the race 定位到文章 I）段第二句。 I）【精析】同义转述题。D 段定位句指出，对旅途中的其他人来说，只要完成任务, 这本身就是一种嘉英语菌的笔记奖了。根据前文，这里所说的旅途就是为期一周的马拉松赛事。题干中的“ to many of th e. . . participants”对应原文中的 to others on the trip, 题干中的 a success 对应原文中的 re",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "For Wardian, the marathon in the Arctic was more about how to triumph over the extreme cold.",
           "answer": "C",
-          "explanation": "】同义转述题。前文提到沃迪恩是在北极参 加马拉松，而C）段的定位句提到,沃迪恩参加这 次比赛,与其说是为了成绩,不如说是为了克服他 对寒冷的厌恶。题干中的the marathon in the Arctic对应定位句中的the race,题干中的more about 对应原文中的 less about the result than,题 干中的 triumph over the extreme cold 对应原文 中的 overcoming his aversion to the cold,故答案 为C）。"
+          "explanation": "】同义转述题。前文提到沃迪恩是在北极参加马拉松，而 C）段的定位句提到, 沃迪恩参加这次比赛, 与其说是为了成绩, 不如说是为了克服他对寒冷的厌恶。题干中的 the marathon in the Arctic 对应定位句中的 the race, 题干中的 more about 对应原文中的 less about the result than, 题干中的 triumph over the extreme cold 对应原文中的 overcoming his aversion to the cold, 故答案为 C）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "【定位】由题干中的 for Wardian 和 cold 定位到文章 C）段最后一句。 C）【精析】同义转述题。前文提到沃迪恩是在北极参加马拉松，而 C）段的定位句提到, 沃迪恩参加这次比赛, 与其说是为了成绩, 不如说是为了克服他对寒冷的厌恶。题干中的 the marathon in the Arctic 对应定位句中的 the race, 题干中的 more about 对应原文中的 less about the result tha",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "To participate in the seven-day marathon series, Wardian had to raise a lot of money and have his\nwife's support.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "】细节归纳题。G）段定位句提到，沃迪恩于 2014 年开始为旅行存钱, 与赞助商联系，并在承诺报名之前获得妻子詹妮弗的认可。题干中的 to participate in the seven-day marathon series 对应原文中的 for the trip in 2014, 题干中的 raise a lot of money 是对原文中 saving 和 connecting with sponsors 的概括性转述，题干中的 have his wife's support 对应原文中的 getting approval from his wife, 故答案为 G）o 参考译文这个人将在 7 天内在 7 大洲跑 7 场马拉松 A）迈克尔• 沃迪恩顶着北极刺骨的风向前挺进，对抗着加速的冲动。（36）如果过度发力，他会开始出汗, 而他被告知，这样只会增加体温过低的风险。 B）在 2014 年的北极马拉松赛上，气温下降到零下 22 华氏度，寒风刺骨, 让人感觉更加寒冷。沿途，武装警卫在大片浮冰上巡逻，尽量减少北极熊袭击的风险。 C） “我喜欢做让我害怕的事情。”沃迪恩说。胡须上结着冰，沃迪恩在 4 月的那个下午以 4 小时 7 分 40 秒的成绩冲过终点线，比他在 26.2 英里的个人最佳成绩慢了几乎两个小时。然而, （44）沃迪恩的比赛与其说是为了比赛成绩, 不如说是为了克服他对寒冷的厌恶。 D）再过几天，沃迪恩将再次在一个陌生的地区和低于冰点的温度下参加比赛。（38）他将于周一在南极洲排队参加世界马拉松挑战赛的第一站，与 32 名其他探险者一起踏上一段不同寻常的旅程，参与者在 7 天内穿越不同的时区和气候，在 7 大洲跑 7 场马拉松。 E）作为一名杰出的超级跑步运动员，沃迪恩希望打破美国海军陆战队队长丹尼尔• 卡蒂卡去年 1 月创下的马拉松比赛平均时间 3 小时 32 分 25 秒的纪录。42 岁的阿灵顿居民沃迪恩是一名打破纪录的参赛选手，以寻求艰苦的赛程和创造世界纪录闻名于超跑圈子。去年，他参加了 47 场比赛，跑了 1 254.65 英里。世界马拉松挑战赛，就像沃迪恩的大多数跑步目标一样, 将是挑战他的极限。（36）“我喜欢多样化和独一无二的挑战，”",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+            "sourceText": "45 . 【定位】由题干中的 his w ife 定位到文章 G）段第一■句。 G）【精析】细节归纳题。G）段定位句提到，沃迪恩于 2014 年开始为旅行存钱, 与赞助商联系，并在承诺报名之前获得妻子詹妮弗的认可。题干中的 to participate in the seven-day marathon series 对应原文中的 for the trip in 2014, 题干中的 raise a lot of money 是",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -523,7 +890,16 @@
                 "D": "It costs too much emotionally and psychologically."
               },
               "answer": "A",
-              "explanation": "】事实细节题。文章首段指出，根据最近的 研究，追求与工作相关的自尊会同时产生积极和 消极的结果。第二段第二至四句又指出，如果人 们因工作成就增强了自尊心而感到快乐，就会试 图重复这种成就，但这往往并不现实，因为如果没 有再取得这样的成就，就可能会导致严重的负面 情绪后果。因此这种形式的动机被广泛认为是一 种消极的动机。由此可知,作者认为追求与工作 相关的自尊可能导致消极的动机，故答案为A）。 【避错】文章第二段第二句指出，工作中获得成就 英语菌的笔记 可能会增强人们的自尊,从而激励他们不断追求 这种可以增强自尊的成就，因此可以推断出，是这 种成就进一步推动人们对增强自尊的追求，而非 这种追求有助于人们的成就,B）项与文章意思不 符，故排除;第二段第三句指出，这种对与工作相 关的自尊的追求很可能会带来负面的情绪，因此 C）项中“可以增强人的活力”说法不准确，故排除； 整篇文章虽然指出这种追求可能会使人产生极大 的破坏性情绪，但第五段也指出在这个过程中,人 们也能获得情感回报，并因此获得激励和快乐，总 而言之，这种追求既有消极后果，又有积极结果， D）项与文章意思不符，故排除。"
+              "explanation": "】事实细节题。文章首段指出，根据最近的研究，追求与工作相关的自尊会同时产生积极和消极的结果。第二段第二至四句又指出，如果人们因工作成就增强了自尊心而感到快乐，就会试图重复这种成就，但这往往并不现实，因为如果没有再取得这样的成就，就可能会导致严重的负面情绪后果。因此这种形式的动机被广泛认为是一种消极的动机。由此可知, 作者认为追求与工作相关的自尊可能导致消极的动机，故答案为 A）。 【避错】文章第二段第二句指出，工作中获得成就英语菌的笔记可能会增强人们的自尊, 从而激励他们不断追求这种可以增强自尊的成就，因此可以推断出，是这种成就进一步推动人们对增强自尊的追求，而非这种追求有助于人们的成就, B）项与文章意思不符，故排除;第二段第三句指出，这种对与工作相关的自尊的追求很可能会带来负面的情绪，因此 C）项中“可以增强人的活力”说法不准确，故排除； 整篇文章虽然指出这种追求可能会使人产生极大的破坏性情绪，但第五段也指出在这个过程中, 人们也能获得情感回报，并因此获得激励和快乐，总而言之，这种追求既有消极后果，又有积极结果， D）项与文章意思不符，故排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+                "sourceText": "【定位】由题干中的 work-related self-esteem 定位到第一、二段。 A）【精析】事实细节题。文章首段指出，根据最近的研究，追求与工作相关的自尊会同时产生积极和消极的结果。第二段第二至四句又指出，如果人们因工作成就增强了自尊心而感到快乐，就会试图重复这种成就，但这往往并不现实，因为如果没有再取得这样的成就，就可能会导致严重的负面情绪后果。因此这种形式的动机被广泛认为是一种消极的动机。由此可知, 作者认为追求与工作",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -536,7 +912,16 @@
                 "D": "Exaggerate their sense of shame and worthlessness."
               },
               "answer": "B",
-              "explanation": "】事实细节题。文章第三段第三、四句提到， 为了避免与失败相关的羞耻感和无价值感，员工 非常拼命，不惜一切代价获得成功,这不利于他们 获得幸福。由此可知，员工在追求与工作相关的 自尊时往往是以牺牲幸福为代价的，故答案 为B）。 【避错】文章第三段前两句指出，员工内心迫切想 要感觉到自己的强大和自信，于是他们只完成那 些满足自我驱动需求的任务和目标,A）项“承担远 远超出其实际能力的任务”不符合原文意思，故排 除;文章第三段第四句提到,这些员工不惜一切代 价想要获得成功，但这指的是他们不惜牺牲自己 的幸福,C）项的表述偏贬义,意思是员工可能会选 择采取不光彩的手段来获得成功,不符合原文意 思，故排除;第三段第三句提到，为了避免与失败 相关的羞耻感和无价值感,这些员工会拼命努力 追求目标，说明员工努力的目的恰恰是为了避免 这种羞耻感和无价值感,D）项不符合原文意思，故 排除。"
+              "explanation": "】事实细节题。文章第三段第三、四句提到， 为了避免与失败相关的羞耻感和无价值感，员工非常拼命，不惜一切代价获得成功, 这不利于他们获得幸福。由此可知，员工在追求与工作相关的自尊时往往是以牺牲幸福为代价的，故答案为 B）。 【避错】文章第三段前两句指出，员工内心迫切想要感觉到自己的强大和自信，于是他们只完成那些满足自我驱动需求的任务和目标, A）项“承担远远超出其实际能力的任务”不符合原文意思，故排除;文章第三段第四句提到, 这些员工不惜一切代价想要获得成功，但这指的是他们不惜牺牲自己的幸福, C）项的表述偏贬义, 意思是员工可能会选择采取不光彩的手段来获得成功, 不符合原文意思，故排除;第三段第三句提到，为了避免与失败相关的羞耻感和无价值感, 这些员工会拼命努力追求目标，说明员工努力的目的恰恰是为了避免这种羞耻感和无价值感, D）项不符合原文意思，故排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+                "sourceText": "【定位】由题干中的 employees 定位到第三段。 B）【精析】事实细节题。文章第三段第三、四句提到， 为了避免与失败相关的羞耻感和无价值感，员工非常拼命，不惜一切代价获得成功, 这不利于他们获得幸福。由此可知，员工在追求与工作相关的自尊时往往是以牺牲幸福为代价的，故答案为 B）。 【避错】文章第三段前两句指出，员工内心迫切想要感觉到自己的强大和自信，于是他们只完成那些满足自我驱动需求的任务和目标,",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -549,7 +934,16 @@
                 "D": "They have their own view of friendship and leisure."
               },
               "answer": "B",
-              "explanation": "】事实细节题。文章第四段第一句指出，这 些负面情绪上升为高度焦虑，影响了他们尽情享 受个人生活的能力。由此可知，这些员工过度关 注与工作相关的自尊，以至于无法充分享受个人 生活，故答案为B）o 【避错】第四段第二句提到,这些员工想要避免自 卑的渴望最终却让他们在交友和休闲能力下降时 感到自卑,A）项将文章意思扩大到“常常觉得自己 不如同事”，不符合原文意思，故排除;第二段第二 句指出，如果人们因工作成就增强了自尊而感到 快乐，就会试图重复这种成就，这只是为了不断增 强自尊，而非因为不满足于自己的成就,C）项不符 合原文意思,故排除;第四段第二句只提及他们在 交友和休闲能力下降时感到自卑,并未提及他们 对友谊和休闲有什么看法,故排除D）项。 4 9 .1 定位】由题干中的good news和recent research 定位到第五段。 A ）【精析】事实细节题。第五段第二至四句提到，该 研究还发现了几个积极的结果，那就是:尽管这种 类型的员工的动机是避免消极后果,但他们也会 被追求情感回报的兴奋感所激励。这种兴奋感使 追求目标变得愉快,并激发了成功带来的快乐和 自豪感。由此可知，研究新发现的好消息就是:追 求目标也可能是一种享受和快乐，故答案为A ）。 【避错】第五段第三句提到,尽管这种类型的员工 的动机是避免消极后果，但他们也会被追求情感 回报的兴奋感所激励，但这只是说明追求目标可 以带来让人兴奋的情感回报，并未指出它因此而 值得所付出的痛苦,故排除B ）项;第五段最后一 句提到，积极动机有一个作用，即它可以抵消消极 动机的存在,但这不能说明消极后果是可以避免 的,C ）项与文章意思不符，故排除;根据全文内容 来看，实现增强自尊的目标需要不断努力,但是否 只要不断努力就能实现这一目标,文章中并未提 及，而且由第四段第二句可知,员工越是在工作中 想增强自尊、摆脱自卑，在生活中面对自己交友和 休闲能力减弱的情况时反而越自卑,D ）项不符合 原文意思，故排除。 5 0 .【定位】由题干中的last paragraph定位到最后 一•段。 D ）【精析】推理判断题。最后一段最"
+              "explanation": "】事实细节题。文章第四段第一句指出，这些负面情绪上升为高度焦虑，影响了他们尽情享受个人生活的能力。由此可知，这些员工过度关注与工作相关的自尊，以至于无法充分享受个人生活，故答案为 B）o 【避错】第四段第二句提到, 这些员工想要避免自卑的渴望最终却让他们在交友和休闲能力下降时感到自卑, A）项将文章意思扩大到“常常觉得自己不如同事”，不符合原文意思，故排除;第二段第二句指出，如果人们因工作成就增强了自尊而感到快乐，就会试图重复这种成就，这只是为了不断增强自尊，而非因为不满足于自己的成就, C）项不符合原文意思, 故排除;第四段第二句只提及他们在交友和休闲能力下降时感到自卑, 并未提及他们对友谊和休闲有什么看法, 故排除 D）项。 4 9 .1 定位】由题干中的 good news 和 recent research 定位到第五段。 A）【精析】事实细节题。第五段第二至四句提到，该研究还发现了几个积极的结果，那就是:尽管这种类型的员工的动机是避免消极后果, 但他们也会被追求情感回报的兴奋感所激励。这种兴奋感使追求目标变得愉快, 并激发了成功带来的快乐和自豪感。由此可知，研究新发现的好消息就是:追求目标也可能是一种享受和快乐，故答案为 A）。 【避错】第五段第三句提到, 尽管这种类型的员工的动机是避免消极后果，但他们也会被追求情感回报的兴奋感所激励，但这只是说明追求目标可以带来让人兴奋的情感回报，并未指出它因此而值得所付出的痛苦, 故排除 B）项;第五段最后一句提到，积极动机有一个作用，即它可以抵消消极动机的存在, 但这不能说明消极后果是可以避免的, C）项与文章意思不符，故排除;根据全文内容来看，实现增强自尊的目标需要不断努力, 但是否只要不断努力就能实现这一目标, 文章中并未提及，而且由第四段第二句可知, 员工越是在工作中想增强自尊、摆脱自卑，在生活中面对自己交友和休闲能力减弱的情况时反而越自卑, D）项不符合原文意思，故排除。 5 0 . 【定位】由题干中的 last paragraph 定位到最后一•段。 D）【精析】推理判断题。最后一段最",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "关于过度关注与工作有关的自尊的人，我们得知什么信息？ A ) Theymay often feel inferior to their colleagues. A）他们可能经常觉得自己不如同事。 B) They cannot enjoy their personal life to the full. B）他们无法充分享受个人生活。 C) They are never satisfied with their achievements. C）他们从不满足于自己的成就。 D) They have their own view",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -561,8 +955,17 @@
                 "C": "The negative consequences of goal pursuit can mostly be avoided.",
                 "D": "The goal of swelling self-esteem can be achieved if one keeps trying."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "】事实细节题。第五段最后一句提到，在欧盟委员会竞争主管玛格丽特・维斯塔格的领导下，各国都在寻求监管市场，并鼓励公平竞争，故答案为 B）。 【避错】第五段第二句指出，欧洲公司未能与硅谷的创新相匹敌，也未能阻止谷歌和脸书收集个人数据, 以及随之获取广告收入，由此可知它们对数字巨头的广告监管不到位, A）项与文章意思不符, 故排除;文章并未提及欧盟国家对数字巨头产品销售的限制，故排除 C）项;文章最后一段指出，美国的反垄断专家认为应该考虑到隐私问题、对数据的控制等, 这并非欧盟国家的举措, D）项与文章意思不符，故排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "49. What is the good news we learn from the recent research? 4 9 . 我们从新近研究中得知的好消息是什么？ A) The pursuit of goals may turn out to be enjoyable and pleasant. A）追求目标可能也是一种享受和快乐。 B) The emotional rewards from goal pursuit are worth the pains taken. B）追求目标所带来的情绪回报值得付出努力。",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q50",
@@ -574,8 +977,17 @@
                 "C": "Pursuit of goals affects people's personal lives to an unhealthy extent.",
                 "D": "People feel positive about their work as long as they are motivated."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "】事实细节题。最后一段最后两句指出，公众普遍对社交媒体公司越来越怀疑。根据皮尤研究中心 2020 年的一项研究，超过 60%的人认为这个行业对国家有负面影响, 几乎一半的人希望对社交媒体进行更多的监管。由此可知，社交媒体公司正逐渐失去人们的信任，故答案为 C）。 【避错】文章最后一段提到, 美国的反垄断专家认为应该考虑隐私问题, 并未提及美国公众对社交 19 英语菌的笔记媒体侵犯隐私的看法，故排除 A )项；最后一段只提到, 超过 60%的人认为这个行业对国家有负面影响，但未提及影响力大小, 故排除 B)项；文章提到各国政府对科技巨头发展态势的担心, 并未提及美国人对社交媒体公司发展失控的判断, D )项与题干不符，故排除。 参考译文近来，美国和中国在很多问题上意见不一。德国和法国有共同的边界和货币，但经常有分歧。英国和印度喜欢按自己的节奏行事。(46)但在一个问题上，所有这些国家的看法都是一致的:科技公司规模太大，实力太强大，太有利可图。而这种力量只可能增强，使得政府别无选择，而只能通过将公司告上法庭、 通过新的竞争法，甚或拆分这些科技巨头来进行积极对抗。 中国是最新实施反垄断制裁的国家，上个月公布了反垄断规则。(47)在亿万富翁马云的蚂蚁科技集团股份有限公司出人意料地暂停了 370 亿美元的股票发行之后，国家发布了这些规则草案，明确表示没有一家公司可以逃避政府的监管。在中国采取上述行动的同时，美国和欧洲也在加紧控制亚马逊、苹果、脸书和谷歌公司。 “大公司越做越大，但却没有变得更好，”欧洲议会的德国议员安德烈亚斯・施瓦布说。他曾在 2014 年支持了一项拆分谷歌的决议。”不断增长的经济实力, 对世界各地地方市场日益增长的影响，以及对竞争者和消费者日益增长的担忧，所有这一切导致了现在的结果」 在这个新的反垄断时代，过去对定价权的关注不再适用，因为几家最大的科技公司通过几乎不向消费者收取费用，建立了万亿美元的垄断地位。(48)科技巨头越来越多地在银行、金融、广告、零售和其他市场占据强大的地位, 迫使小型企业依靠它们的平台来接触客户。 多年来，欧洲独自对抗着数字巨头的",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "e last paragraph? 5 0 . 我们能从最后一段中推断出什么？ A) Workers have to make sacrifices to preserve self-esteem. A）员工为维护自尊必须做出一些牺牲。 B) Self-esteem swells when workers are strongly motivated. B）员工受到强激励时自尊心也会增强。 C) Pursuit of goals affects people's personal lives to an unhealthy extent. C）追求目标对人们个人生活的影响达到了有",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -594,7 +1006,16 @@
                 "D": "Environmental damage is more serious in developed countries these days."
               },
               "answer": "B",
-              "explanation": "】事实细节题。文章首段第一句指出，最近 一项联合国环境研究发现,人类对世界自然资源 的破坏正快速超过地球承受伤害的能力。由此可 知,人类对地球造成的破坏已经超出了地球所能 承受的范围，故答案为B)o 【避错】首段第二句指出,如果不采取激进行动，发 达国家数百万人赖以维系的繁荣水平将无法维 持，而非指人类活动使得地球母亲几乎不适宜居 住，也非指目前环境问题已经严重削弱了人类的 繁荣,也无法推断出发达国家的环境破坏更加严 重,故排除A )、C)和D )。"
+              "explanation": "】事实细节题。文章首段第一句指出，最近一项联合国环境研究发现, 人类对世界自然资源的破坏正快速超过地球承受伤害的能力。由此可知, 人类对地球造成的破坏已经超出了地球所能承受的范围，故答案为 B)o 【避错】首段第二句指出, 如果不采取激进行动，发达国家数百万人赖以维系的繁荣水平将无法维持，而非指人类活动使得地球母亲几乎不适宜居住，也非指目前环境问题已经严重削弱了人类的繁荣, 也无法推断出发达国家的环境破坏更加严重, 故排除 A )、C)和 D )。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "study? 5 1 . 联合国环境研究的主要发现是什么？ A) Human activity has rendered Mother Earth almost uninhabitable. A）人类活动已使地球母亲几乎不宜居住。 B) H umans are doing more damage to the earth than it can cope with. B）人类对地球的破坏正超出其承受能力。 C) Environmental problems have considerably weakened human prosperity. C）环境问题极大削弱了人类繁",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -607,7 +1028,16 @@
                 "D": "It is primarily caused by the acceleration of climate change."
               },
               "answer": "C",
-              "explanation": "】事实细节题。文章第二段第二句指出，如 果不采取激进的行动,这种令人绝望的情况几乎 无法得到改善。由此可知，如果不采取严厉措施, 很难缓解缺水问题，故答案为C )o 【避错】根据第二段第二句可知，如果采取严厉的 措施，缺水问题是可以得到缓解的,而非解决的希 望渺茫,A)项表述与原文矛盾，故排除;第二段第 一句指出，缺水对于地球上一些最贫穷地区来说 无异于诅咒，使发展中国家越来越无法自给自足， 造成数百万人贫困,但并没有说明缺水是贫穷地 区经济发展缓慢的主要原因,B)项为过度推理，故 排除;本文第二段第三句指出，气候变化等几个因 素造成了水资源问题，但并未说明气候变化加速 是缺水的主要原因，D ) 项表述与原文不符，故 排除. 英语菌的笔记"
+              "explanation": "】事实细节题。文章第二段第二句指出，如果不采取激进的行动, 这种令人绝望的情况几乎无法得到改善。由此可知，如果不采取严厉措施, 很难缓解缺水问题，故答案为 C )o 【避错】根据第二段第二句可知，如果采取严厉的措施，缺水问题是可以得到缓解的, 而非解决的希望渺茫, A)项表述与原文矛盾，故排除;第二段第一句指出，缺水对于地球上一些最贫穷地区来说无异于诅咒，使发展中国家越来越无法自给自足， 造成数百万人贫困, 但并没有说明缺水是贫穷地区经济发展缓慢的主要原因, B)项为过度推理，故排除;本文第二段第三句指出，气候变化等几个因素造成了水资源问题，但并未说明气候变化加速是缺水的主要原因，D ) 项表述与原文不符，故排除. 英语菌的笔记",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+                "sourceText": "scarcity 和 the poorest regions 定位到第二段。 O 【精析】事实细节题。文章第二段第二句指出，如果不采取激进的行动, 这种令人绝望的情况几乎无法得到改善。由此可知，如果不采取严厉措施, 很难缓解缺水问题，故答案为 C )o 【避错】根据第二段第二句可知，如果采取严厉的措施，缺水问题是可以得到缓解的, 而非解决的希望渺茫, A)项表述与原文矛盾，故排除;第二段第一句指出，缺水对于地球上一些最贫穷地区来说无异于诅咒，使发展中国家越来越无法自给自足， 造成数百万人贫困, 但并没有说明缺水是贫穷地区经济发展缓慢的主要原因, B)项为过度推理，故排除;本文第二段第三句指出，",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -620,7 +1050,16 @@
                 "D": "It will shrink the world's population."
               },
               "answer": "A",
-              "explanation": "】推理判断题。文章第三段第二句指出，联 合国执行主任阿希姆• 施泰纳警告道:“如果目前 的趋势继续持续下去，并且全世界的生产方式和 消费模式也不改进的话，那么全世界的环境将会 继续恶化。”由此可知，阿希姆• 施泰纳认为全球 环境会继续恶化，故答案为A）o 【避错】阿希姆•施泰纳并未提及有关环境状况正 引起全球的关注,B）项为无中生有，故排除;第三 段第一句指出，尽管人们齐心协力说服各国政府 采取措施改善环境,但全球自然环境破坏的速度 仍在加快，可知环境问题并没有在全球慢慢得到 解决,故排除C）项；阿希姆• 施泰纳并未提及全 球人口的问题，故排除D）项。"
+              "explanation": "】推理判断题。文章第三段第二句指出，联合国执行主任阿希姆• 施泰纳警告道:“如果目前的趋势继续持续下去，并且全世界的生产方式和消费模式也不改进的话，那么全世界的环境将会继续恶化。”由此可知，阿希姆• 施泰纳认为全球环境会继续恶化，故答案为 A）o 【避错】阿希姆•施泰纳并未提及有关环境状况正引起全球的关注, B）项为无中生有，故排除;第三段第一句指出，尽管人们齐心协力说服各国政府采取措施改善环境, 但全球自然环境破坏的速度仍在加快，可知环境问题并没有在全球慢慢得到解决, 故排除 C）项；阿希姆• 施泰纳并未提及全球人口的问题，故排除 D）项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+                "sourceText": "【定位】由题干中的 Achim S te in e r 和 environmental condition 定位到第三段。 A）【精析】推理判断题。文章第三段第二句指出，联合国执行主任阿希姆• 施泰纳警告道:“如果目前的趋势继续持续下去，并且全世界的生产方式和消费模式也不改进的话，那么全世界的环境将会继续恶化。”由此可知，阿希姆• 施泰纳认为全球环境会继续恶化，故答案",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q54",
@@ -632,8 +1071,17 @@
                 "C": "They cannot boost crop yields without causing greenhouse gas emissions.",
                 "D": "They cannot catch up with rich countries without sacrificing the environment."
               },
-              "answer": "A",
-              "explanation": "】事实细节题。文章第六段第一至三句指 出,全球碳排放量一直居高不下，这对发展中经济 体养活本国人民将会造成长期的压力。在2000 年至2010年期间，农业生产中化学肥料和天然肥 料的使用量增加了四分之一以上,其所产生的温 室气体排放加剧了气候变化。由此可知，发展中 国家要想提高作物产量，需要借助现代化农业手 段,这一定会造成温室气体排放，故答案为O 0 【避错】第五段指出,在一些追求采用现代农业方 法而不计长期后果的地区,需要遏制土地退化问 题,A）项与原文相反，故排除;本文并未提及工业 化和水污染的问题,B）项为无中生有，故排除;最 后一段第一句指出发达国家牺牲环境去追求经济 增长,最后一句指出发展中国家发展经济要兼顾 环境问题，但并未提及发展中国家需要牺牲环境， 才能赶上富裕国家,故排除D）项。"
+              "answer": "C",
+              "explanation": "】事实细节题。文章第六段第一至三句指出, 全球碳排放量一直居高不下，这对发展中经济体养活本国人民将会造成长期的压力。在 2000 年至 2010 年期间，农业生产中化学肥料和天然肥料的使用量增加了四分之一以上, 其所产生的温室气体排放加剧了气候变化。由此可知，发展中国家要想提高作物产量，需要借助现代化农业手段, 这一定会造成温室气体排放，故答案为 O 0 【避错】第五段指出, 在一些追求采用现代农业方法而不计长期后果的地区, 需要遏制土地退化问题, A）项与原文相反，故排除;本文并未提及工业化和水污染的问题, B）项为无中生有，故排除;最后一段第一句指出发达国家牺牲环境去追求经济增长, 最后一句指出发展中国家发展经济要兼顾环境问题，但并未提及发展中国家需要牺牲环境， 才能赶上富裕国家, 故排除 D）项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+                "sourceText": "54 . 【定位】由题干中的 dilem m a 和 developing countries 定位到第六段。 C）【精析】事实细节题。文章第六段第一至三句指出, 全球碳排放量一直居高不下，这对发展中经济体养活本国人民将会造成长期的压力。在 2000 年至 2010 年期间，农业生产中化学肥料和天然肥料的使用量增加了四分之一以上, 其所产生的温室气体排放加剧了气候变化。由此可知，发展中国家要想提高作物产量，需要借助现代化农业手段, 这一定会造成温室气体排放，故答案为 O",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q55",
@@ -646,7 +1094,16 @@
                 "D": "They improve people's livelihood without harming the environment."
               },
               "answer": "D",
-              "explanation": "】推理判断题。文章最后一段最后一句指 出,在发展中国家，未来的发展道路充满了变数， 这鼓励了国际机构设计更多的可持续增长途径， 既能减少贫困，又能保护环境。由此可知,发展中 国家要走可持续经济增长道路，在保护环境的前 提下，发展经济，改善人们的生活，故答案为D）o 【避错】文中并未提及有关发展中国家向发达国家 寻求援助的内容,A）项为无中生有，故排除;最后 一段最后一句指出，发展中国家要走可持续经济 增长道路，兼顾经济和环境,并没有指出要通过减 缓经济增长来弥补对环境的破坏,B）项为过度推 理，故排除;文章最后一段最后一句指出，在发展 中国家，未来的发展道路充满了变数,这鼓励了国 际机构设计更多的可持续增长途径，而非要避免 受到国际机构的破坏性干预,故排除C）项。 参考译文 （51）最近一项联合国环境研究发现,人类对世界自然资源的破坏正快速超过地球承受伤害的能力。 该研究的结论是,如果不采取激进行动，发达国家数百万人赖以维系的繁荣水平将无法维持，同时，那些较 贫穷的国家也无法发展到这种繁荣水平。 缺水对于地球上一些最贫穷地区来说无异于诅咒，使发展中国家越来越无法自给自足,造成数百万人 贫困。（52）如果不采取激进的行动,这种令人绝望的情况几乎无法得到改善。人口增长、气候变化、城市 化的快速发展、人们消费水平的提高以及土地退化（以前这些土地可以为水资源提供自然的补充）等因素 都日益威胁水资源。 尽管人们齐心协力说服各国政府采取措施改善环境，但全球自然环境破坏的速度仍在加快。（53）联 合国执行主任阿希姆•施泰纳警告道:“如果目前的趋势继续持续下去，并且全世界的生产方式和消费模 式也不改进的话,那么世界环境将会继续恶化。” 他说，发达国家已有可以改善数百万人赖以生存的环境的方法,但这种方法却可能不会得到采纳。 研究发现，那些能够解决破坏环境关键问题的基本措施仍然没有得到采纳。这些措施包括减少空气 污染,控制对海洋生态系统的破坏，这能够对数亿人赖以生存的鱼类资源产生巨大影响;在一些追求采用 现代农业方法而不计长期后果的地区，需要遏制土地退化问题。 （54）尽管最近全球一致同意"
+              "explanation": "】推理判断题。文章最后一段最后一句指出, 在发展中国家，未来的发展道路充满了变数， 这鼓励了国际机构设计更多的可持续增长途径， 既能减少贫困，又能保护环境。由此可知, 发展中国家要走可持续经济增长道路，在保护环境的前提下，发展经济，改善人们的生活，故答案为 D）o 【避错】文中并未提及有关发展中国家向发达国家寻求援助的内容, A）项为无中生有，故排除;最后一段最后一句指出，发展中国家要走可持续经济增长道路，兼顾经济和环境, 并没有指出要通过减缓经济增长来弥补对环境的破坏, B）项为过度推理，故排除;文章最后一段最后一句指出，在发展中国家，未来的发展道路充满了变数, 这鼓励了国际机构设计更多的可持续增长途径，而非要避免受到国际机构的破坏性干预, 故排除 C）项。 参考译文 （51）最近一项联合国环境研究发现, 人类对世界自然资源的破坏正快速超过地球承受伤害的能力。 该研究的结论是, 如果不采取激进行动，发达国家数百万人赖以维系的繁荣水平将无法维持，同时，那些较贫穷的国家也无法发展到这种繁荣水平。 缺水对于地球上一些最贫穷地区来说无异于诅咒，使发展中国家越来越无法自给自足, 造成数百万人贫困。（52）如果不采取激进的行动, 这种令人绝望的情况几乎无法得到改善。人口增长、气候变化、城市化的快速发展、人们消费水平的提高以及土地退化（以前这些土地可以为水资源提供自然的补充）等因素都日益威胁水资源。 尽管人们齐心协力说服各国政府采取措施改善环境，但全球自然环境破坏的速度仍在加快。（53）联合国执行主任阿希姆•施泰纳警告道:“如果目前的趋势继续持续下去，并且全世界的生产方式和消费模式也不改进的话, 那么世界环境将会继续恶化。” 他说，发达国家已有可以改善数百万人赖以生存的环境的方法, 但这种方法却可能不会得到采纳。 研究发现，那些能够解决破坏环境关键问题的基本措施仍然没有得到采纳。这些措施包括减少空气污染, 控制对海洋生态系统的破坏，这能够对数亿人赖以生存的鱼类资源产生巨大影响;在一些追求采用现代农业方法而不计长期后果的地区，需要遏制土地退化问题。 （54）尽管最近全球一致同意",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-1/key_2022.12英语六级解析第1套.txt",
+                "sourceText": "【定位】由题干中的 developing countries 和 future development 定位到最后一段。 D）【精析】推理判断题。文章最后一段最后一句指出, 在发展中国家，未来的发展道路充满了变数， 这鼓励了国际机构设计更多的可持续增长途径， 既能减少贫困，又能保护环境。由此可知, 发展中国家要走可持续经济增长道路，在保护环境的前提下，发展经济，改善人们的生活，故答案为 D）o 【避错】文中并未提及有关发展中国家向发达国家寻求援助的内容, A）项为无中生有，故排",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

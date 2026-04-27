@@ -1,0 +1,25 @@
+{
+  "ok": [
+    {
+      "type": "cet6",
+      "slug": "2025-06-3",
+      "status": "ok",
+      "answers_found": 20,
+      "changed": 6,
+      "filled": 19,
+      "total": 30,
+      "confidence": {
+        "high": 10,
+        "medium": 9,
+        "low": 0
+      },
+      "locked": 0,
+      "conflicts": [],
+      "issues": [
+        "答案覆盖 19/30"
+      ]
+    }
+  ],
+  "warn": [],
+  "fail": []
+}

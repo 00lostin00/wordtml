@@ -1,0 +1,1150 @@
+{
+  "id": "cet6-2023-06-2",
+  "type": "cet6",
+  "year": 2023,
+  "month": 6,
+  "set": 2,
+  "title": "2023年6月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “When faced with differing opinions, we should try to reach agreement through friendly discussion and reasonable argument.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "prompt": "When faced with differing opinions, we should try to reach agreement through friendly discussion and reasonable argument."
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "She is attracted to the beauty of modern buildings.",
+            "B": "She is preoccupied with her dream to be an architect.",
+            "C": "She is influenced by her father who teaches architecture.",
+            "D": "She is drawn to its integration of design and engineering."
+          },
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 男士问女士为什么选择学习建筑， 女士在句 （1) 中回答说， 建筑特别吸引她的地方就在于设计与工程的紧密结合。 因此答案为 D)。 选项中的 integration 是录音中 marriage 的同义转述。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "1.、 Mhy does the woman wish to study architecture？ D) 〖 精析 〗 细节辨认题。 男士问女士为什么选择学习建筑， 女士在句 （1) 中回答说， 建筑特别吸引她的地方就在于设计与工程的紧密结合。 因此答案为 D)。 选项中的 integration 是录音中 marriage 的同义转述。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "Through hard work.",
+            "B": "With the professor's help.",
+            "C": "By studying the subject online.",
+            "D": "By taking prerequisite courses."
+          },
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （2） 中， 女士承认数学对她来说是所有学科中最难的科目， 但她会努力， 她相信努力就会有收获。 由此可知， 女士打算通过自己的刻苦努力来解决数学学习中所遇到的困难。 因此答案为 A)O What does the man say about architects，",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "2， How does the woman say she WIII overcome the difficulty in learning mathematics？ A) 〖 精析 〗 细节辨认题。 句 （2） 中， 女士承认数学对她来说是所有学科中最难的科目， 但她会努力， 她相信努力就会有收获。 由此可知， 女士打算通过自己的刻苦努力来解决数学学习中所遇到的困难。 因此答案为 A)O What does the man say about architects，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "It is groundbreaking.",
+            "B": "It is long-lasting.",
+            "C": "It is immaterial.",
+            "D": "It is immortal."
+          },
+          "answer": "B",
+          "explanation": "〗 细节推断题。 男士告诉女士， 进人建筑领域， 她可以很清晰地见证自己对城市的贡献。 根据句 （3） 可知， 建筑的寿命比人的寿命要长得多。 由此可知， 建筑是长久的， 可以成为人们留给后人的遗产。 因此答案为 B)。 D） 项的干扰性比较强， 但 immortal 意为 “ 永存的， 永生不灭的 ”， 建筑可能会留存很长时间， 但却不可能永远存在， 故排除。 What subject does the man suggest the woman",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "3 ． contributlon to a C1ty？ B) 〖 精析 〗 细节推断题。 男士告诉女士， 进人建筑领域， 她可以很清晰地见证自己对城市的贡献。 根据句 （3） 可知， 建筑的寿命比人的寿命要长得多。 由此可知， 建筑是长久的， 可以成为人们留给后人的遗产。 因此答案为 B)。 D） 项的干扰性比较强， 但 immortal 意为 “ 永存的， 永生不灭的 ”， 建筑可能会",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "Economics.",
+            "B": "Philosophy.",
+            "C": "Computer science.",
+            "D": "Western art."
+          },
+          "answer": "C",
+          "explanation": "〗 细节辨认题。 句 （4） 中， 男士明确建议女士从计算机科学着手进行学习。 因此答案为 O。 Questions 5 to 8 are b on the conversation you have just heard. '： SO as I mentioned over the phone， we are looking for someone whO is very discreet. I can t stress this enough M： I fully understand. W： (5)As we all know， being such a famous football player at Real Madrid， Mr， Sanchez has a very high public profile. Th1S means he cannot leave the house without being recognized and harassed ． M： Yes， I completely understand hOW imperative it would to respect Mr. Sanchez， s private life. W: Good. （6） AS h1S personal assistant， you would reqmred to run common everyday chores for Mr ． Sanchez， things he cannot do himself due to his fame， like going t0 the supermarket or post office. SO， wel",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "4 ． start with？ C) 〖 精析 〗 细节辨认题。 句 （4） 中， 男士明确建议女士从计算机科学着手进行学习。 因此答案为 O。 Questions 5 to 8 are b on the conversation you have just heard. '： SO as I mentioned over the phone， we are looking",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "He has occasionally been harassed by his fans.",
+            "B": "He has been guarded by a discreet assistant.",
+            "C": "He is well known to the public.",
+            "D": "He is a famous football coach."
+          },
+          "answer": "C",
+          "explanation": "〗 细节辨认题。 根据句 （5） 可知， 桑切斯先生是皇家马德里队的一位著名足球运动员， 在公众中的知名度非常高。 因此答案为 C)。 选项中的 well known 是录音中 high profile 的同义转述。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "n from the conversation about Mr. Sanchez？ 0 〖 精析 〗 细节辨认题。 根据句 （5） 可知， 桑切斯先生是皇家马德里队的一位著名足球运动员， 在公众中的知名度非常高。 因此答案为 C)。 选项中的 well known 是录音中 high profile 的同义转述。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Serve as a personal assistant.",
+            "B": "Play a key role in Real Madrid.",
+            "C": "Run common daily chores for the woman.",
+            "D": "Help promote Mr. Sanchez's public profile."
+          },
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 根据句 （6） 可知， 男士将会成为桑切斯先生的私人助理， 替桑切斯先生做一些日常琐事。 因此答案为 A)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "6 ． What will the man dO if he gets the jOb？ A) 〖 精析 〗 细节辨认题。 根据句 （6） 可知， 男士将会成为桑切斯先生的私人助理， 替桑切斯先生做一些日常琐事。 因此答案为 A)O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "He is honest and always tells the truth.",
+            "B": "He once worked part-time in university.",
+            "C": "He cares little about his working hours.",
+            "D": "He has little previous work experience."
+          },
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 句 （7） 中， 男士告诉女士， 这是他大学毕业后的第一份工作， 所以， 他此前是没有多少工作经验的。 因此答案为 D)。 & Why does the man think he is a very competitive candidate？ B) 〖 精析 〗 细节辨认题。 当女士问男士他认为自己为什么能够胜任这份工作时， 男士提到了两点： 第一热爱足球； 第二， 他对公司在体育咨询方面的工作非常酷， 他的语言技能在将来会很有用。 根据句 （8） 可知， 男士精通英语、 西班牙语和法语。 因此答案为 B)。 01 tions 9 to 11 are based 皿 the passage you have just heard. Adventure sports are undeniably attractive to many energetic and thrill-seeking kids. Sports like rock climbing， surfing， skiing， and mountain biking， thus have IOts Of appea",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "7 ． What does the man say about himself？ Section B D) 〖 精析 〗 细节辨认题。 句 （7） 中， 男士告诉女士， 这是他大学毕业后的第一份工作， 所以， 他此前是没有多少工作经验的。 因此答案为 D)。 & Why does the man think he is a very competitive candidate？ B) 〖 精析 〗 细节辨认题。 当女士问男士他认为自己为什",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "He has a strong ability to connect with people.",
+            "B": "He has a high proficiency in several languages.",
+            "C": "He has a sound knowledge of sports consultancy.",
+            "D": "He has a natural capacity to cooperate with others. Directions: In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversations and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the center."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "They bring more benefits to young people.",
+            "B": "They require less supervision and training.",
+            "C": "They are more suitable to young people.",
+            "D": "They have fewer rules and pressures."
+          },
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 根据句 （9） 可知， 与传统的团队运动相比， 冒险运动没有那么多的规则和压力， 却能带来户外体育活动的所有益处。 因此答案为 D)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "9 ． Why dO extreme sports appeal to many kids？ D) 〖 精析 〗 细节辨认题。 根据句 （9） 可知， 与传统的团队运动相比， 冒险运动没有那么多的规则和压力， 却能带来户外体育活动的所有益处。 因此答案为 D)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "They prevent kids from enjoying adventure sports.",
+            "B": "They help kids guard against any possible injuries.",
+            "C": "They rob kids of the chance to cultivate their courage.",
+            "D": "They deprive kids of the opportunity to develop team spirit."
+          },
+          "answer": "C",
+          "explanation": "〗 细节推断题。 句 （10） 中， 讲话者提到， 没有风险的活动剥夺了孩子们考验自己以及克服恐惧的机会。 从某种角度上来说， 克服恐惧的过程也是培养勇气的过程。 因此答案为 C)ø",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "free actlV1ties？ 0 〖 精析 〗 细节推断题。 句 （10） 中， 讲话者提到， 没有风险的活动剥夺了孩子们考验自己以及克服恐惧的机会。 从某种角度上来说， 克服恐惧的过程也是培养勇气的过程。 因此答案为 C)ø",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Help them take up these sports when they are more mature.",
+            "B": "Let them participate in some less risky outdoor activities.",
+            "C": "Ask them to try some forms of indoor sports.",
+            "D": "Introduce them to these sports step by step."
+          },
+          "answer": "B",
+          "explanation": "〗 细节推断题。 句 （(1) 中提到， 如果父母认为冒险运动有点太过了， 那就应该让孩子们有机会接触一些其他形式的户外冒险运动。 也就是说， 让孩子参加一些不那么危险的户外冒险运动。 因此答案为 B)O 20 四年 6 月六级真题第 2 套第 3 页淘宝店誦： 叮当考研 Questions 12 to 15 are based on the pasage you havejust heard. The shiny gadgets Of today will waste tomorrow. Manufacturers don， t talk much about this when they announce the big new thing that will replace your mostly just as good OId thing. （12 月 n fact， technology firms Often purposely design deuces that will not last long and cannot repaired SO that consumers will have to spend their money on a new one. (13)This year， the French government began requmng tech manufacturers to 11St a repairability score · If a device can repaired， then its life can extended， saving consumers money and the planet the burden of so many trashed gadgets. Equipped with this knowledge， consumers can make better choices about which products to buy• Some 59 million tons Of o",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "11. What should parents dO if they decide adventure sports are a bit t00 much for their kids？ B) 〖 精析 〗 细节推断题。 句 （(1) 中提到， 如果父母认为冒险运动有点太过了， 那就应该让孩子们有机会接触一些其他形式的户外冒险运动。 也就是说， 让孩子参加一些不那么危险的户外冒险运动。 因此答案为 B)O 20 四年 6 月六级真题第 2 套第 3 页淘宝店誦： 叮当考研 Questions 12 to 15 are based on the",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "Consumers often have a craving for the latest model.",
+            "B": "Such products tend to comprise parts that are irreplaceable.",
+            "C": "Tech firms intentionally design products to have short lifespans.",
+            "D": "Manufacturers use effective strategies to promote fancier products."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "Indicate the competitiveness of their products.",
+            "B": "List a repairability score of their products.",
+            "C": "Specify the major parts of their products.",
+            "D": "Detail the life cycle of their products."
+          },
+          "answer": "B",
+          "explanation": "〗 细节辨认题。 句 （13） 中明确提到， 今年， 法国政府开始要求科技产品制造商列出可修复性评分。 因此答案为 B)。 Section C",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "13 ． What did the French government require tech compames to dO to help consumers make better choices？ B) 〖 精析 〗 细节辨认题。 句 （13） 中明确提到， 今年， 法国政府开始要求科技产品制造商列出可修复性评分。 因此答案为 B)。 Section C",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "Take the initiative to reduce electronic waste.",
+            "B": "Take due caution in upgrading their products.",
+            "C": "Invest in constructing more recycling facilities.",
+            "D": "Substitute all toxic substances with non-toxic ones."
+          },
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 短文中提到了电子垃圾对环境造成的危害。 句 （14） 中明确提到， 我们需要科技公司带头来解决这一问题。 因此答案为 A)。 选项中的 take the initiative 是录音中 take the lead 的同义转述。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "14 ． What should tech companies dO to help ensure envrronmental sustainability？ A) 〖 精析 〗 细节辨认题。 短文中提到了电子垃圾对环境造成的危害。 句 （14） 中明确提到， 我们需要科技公司带头来解决这一问题。 因此答案为 A)。 选项中的 take the initiative 是录音中 take the lead 的同义转述。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "It can be solved.",
+            "B": "It is certain to worsen.",
+            "C": "It will be fixed by tech companies.",
+            "D": "It is unavoidable in the long run. Directions: In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passages and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D).  Then mark the corresponding letter on Answer Sheet 1 with a single line through the center."
+          },
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 根据句 （15） 可知， 讲话者认为， 世界上的东西都会损坏， 但我们不应该就让它们坏着， 既然是我们的创造所导致问题， 那这一定是可以解决的问题。 因此答案为 A)O Questions 16 to 18 are based 皿 the recording you have just h · On average， US workers spend about 10 ％ of their workday surfing the internet， emailing friends or shopping online. This behavior， called cyberloafing， is believed to cost employers up to $ 85 billion a year lost productivity. (16)The majority Of cyberloafing research focuses on ways t0 prevent employees from engaæng in this behavior through interventions such as internet monitonng and computer use policies. But it turns out， such behaviors may not a sign that a worker is lazy or just wasting time ． SociaI media use at work has been linked to higher levels Of employee engagement and jOb satisfaction， New research suggests cyberloafing can help workers cope with an exceptionally stressful work environment. But is cyberloafing actually",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "15 ． What does the speaker think of the problem of waste？ A) 〖 精析 〗 细节辨认题。 根据句 （15） 可知， 讲话者认为， 世界上的东西都会损坏， 但我们不应该就让它们坏着， 既然是我们的创造所导致问题， 那这一定是可以解决的问题。 因此答案为 A)O Questions 16 to 18 are based 皿 the recording you have just h · On averag",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "How internet monitoring can be implemented.",
+            "B": "How to encourage productive internet surfing.",
+            "C": "How cyberloafing affects overall productivity.",
+            "D": "How to prevent employees from cyberloafing."
+          },
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 句 （16） 中提到， 大多数关于网络偷懒的研究都集中在通过互联网监控和计算机使用政策等干预措施来防止员工进行这种行为的方法上。 也就是说， 以往的大多数研究重点都在如何防止员工网络偷懒上。 因此答案为 D)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "16 ． What does most cyberloafing research f on？ D) 〖 精析 〗 细节辨认题。 句 （16） 中提到， 大多数关于网络偷懒的研究都集中在通过互联网监控和计算机使用政策等干预措施来防止员工进行这种行为的方法上。 也就是说， 以往的大多数研究重点都在如何防止员工网络偷懒上。 因此答案为 D)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "Cyberloafing is a sign of workers' laziness.",
+            "B": "Cyberloafing may relieve employees of stress.",
+            "C": "Employee engagement is closely related to job satisfaction.",
+            "D": "Overuse of social media may lead to decline in productivity."
+          },
+          "answer": "B",
+          "explanation": "〗 细节推断题。 句 （17） 中， 讲话者提到， 他们团队的假设就是， 网络偷懒可能是一种短暂的休息， 让员工有机会从紧张的工作环境中恢复过来。 也就是说， 他们认为网络偷懒可能有助于员工减轻压力。 因此答案为 B)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "17 ． What was the hypothesis Of the speaker's research team？ B) 〖 精析 〗 细节推断题。 句 （17） 中， 讲话者提到， 他们团队的假设就是， 网络偷懒可能是一种短暂的休息， 让员工有机会从紧张的工作环境中恢复过来。 也就是说， 他们认为网络偷懒可能有助于员工减轻压力。 因此答案为 B)O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "Taking mini-breaks means better job performance.",
+            "B": "Cyberloafing generally does more harm than good.",
+            "C": "Worker turnover is linked to the time allowed for cyberloafing.",
+            "D": "Employees who indulge in internet surfing are most likely to quit."
+          },
+          "answer": "A",
+          "explanation": "〗 细节推断题。 句 （18） 中， 讲话者提到， 他所进行的研究与近期的其他研究结果相吻合， 都表明短暂的休息与更高水平的日常工作表现有关。 也就是说， 稍事休息可以让员工的工作表现更好。 因此答案为 A)O Questions 19 to 21 are based on the recording you have jtst h 司 · (19)When JuIius Morton moved to Nebraska City in 1854， he faced a problem shared by many settlers in the territory： lt was a treeless plain. That meant no trees for building materials， or for fue",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "18 ． On what point dO the results Of the speaker， s study agree with other recent research？ A) 〖 精析 〗 细节推断题。 句 （18） 中， 讲话者提到， 他所进行的研究与近期的其他研究结果相吻合， 都表明短暂的休息与更高水平的日常工作表现有关。 也就是说， 稍事休息可以让员工的工作表现更好。 因此答案为 A)O Questions 19 to 21 are based on the recording you have jts",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "There were no wooden buildings.",
+            "B": "There were environmental problems.",
+            "C": "There were no trees.",
+            "D": "There were few settlers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "He served as chairman of the Nebraska State Board of Agriculture.",
+            "B": "He urged the state to start the Nebraska State Gardening Society.",
+            "C": "He engaged himself in a large number of aesthetic projects.",
+            "D": "He founded a newspaper and used it to promote his ideas."
+          },
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 根据句 （20） 可知， 莫顿在内布拉斯加的影响力增长， 主要原因在于他创办了该州的第一家报纸 《内布拉斯加城市新闻》， 他还经常在该报纸上撰写关于植树的实用和美学效益的社论。 因此答案为 D)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "20 ． What did Julius Morton do that increased his influence in Nebraska City？ D) 〖 精析 〗 细节辨认题。 根据句 （20） 可知， 莫顿在内布拉斯加的影响力增长， 主要原因在于他创办了该州的第一家报纸 《内布拉斯加城市新闻》， 他还经常在该报纸上撰写关于植树的实用和美学效益的社论。 因此答案为 D)O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "A special prize was awarded to Julius Morton.",
+            "B": "One million trees were planted throughout Nebraska.",
+            "C": "The state government declared it the official Arbor Day.",
+            "D": "Nebraska earned the nickname \"the Tree Planters State\"."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "They spread across Europe and Asia in a few decades.",
+            "B": "They lived mostly in Africa for about 200,000 years.",
+            "C": "They preferred to live in Europe rather than in Asia.",
+            "D": "They moved out of Africa about 60,000 years ago."
+          },
+          "answer": "D",
+          "explanation": "〗 细节辨认题。 根据句 （22） 可知， 在 20 世纪 90 年代受到普遍认可的假设是 “ 走出非洲 ” 理论， 即认为大约 20 万年前， 现代人类出现在非洲， 他们在大约 6 万年前走出非洲， 进人欧洲和亚洲。 因此答案为 D)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "22 ． What do we learn about modern humans according t0 the hypothesis commonly accepted in the 1990s？ D) 〖 精析 〗 细节辨认题。 根据句 （22） 可知， 在 20 世纪 90 年代受到普遍认可的假设是 “ 走出非洲 ” 理论， 即认为大约 20 万年前， 现代人类出现在非洲， 他们在大约 6 万年前走出非洲， 进人欧洲和亚洲。 因此答案为 D)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "The discovery of two modern human teeth in China.",
+            "B": "The traces of human migration out of Africa to Asia.",
+            "C": "The human fossils discovered most recently in Africa.",
+            "D": "The Luna cave in Guangxi Zhuang Autonomous Region."
+          },
+          "answer": "A",
+          "explanation": "〗 细节辨认题。 句 （23） 中， 讲话者讲述了最近在中国广西壮族自治区月神洞发现的两颗现代人类牙齿的事件。 根据讲话者团队的研究， 确定这两颗牙齿距今已有 7 万多年。 但是， 根据 “ 走出非洲 ” 理论， 现代人类是在 6 万年前才离开非洲的， 那么在亚洲发现距今 7 万多年的现代人类牙齿就成了一件不可能的事情。 所以， 在中国发现的现代人类的牙齿使人们质疑 “ 走出非洲 ” 理论。 因此答案为 A)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "23 ． What has called into question the \"Out of Africa ” model？ A) 〖 精析 〗 细节辨认题。 句 （23） 中， 讲话者讲述了最近在中国广西壮族自治区月神洞发现的两颗现代人类牙齿的事件。 根据讲话者团队的研究， 确定这两颗牙齿距今已有 7 万多年。 但是， 根据 “ 走出非洲 ” 理论， 现代人类是在 6 万年前才离开非洲的， 那么在亚洲发现距今 7 万多年的现代人类牙齿就成",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "There must have been some reason for human migration.",
+            "B": "There have been changes in animals' living conditions.",
+            "C": "Humans adapted themselves to the environment there.",
+            "D": "Humans had access to abundant food sources there."
+          },
+          "answer": "A",
+          "explanation": "〗 细节归纳题。 根据句 （24） 可知， 讲话者对人类离开非洲的原因提出了疑问， 他以非洲的一种猴子为例， 说明如果不是因为特殊情况， 物种不会进行迁徙， 那些猴子的牙齿在数百万年间一直没有变化， 是因为它们没有变化的理由。 也就是说， 讲话者希望通过猴子的例子说明人类的迁徙应该是有原因的。 因此答案为 A)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "24 ． What does the speaker want to show with the example Of some monkeys in Africa？ A) 〖 精析 〗 细节归纳题。 根据句 （24） 可知， 讲话者对人类离开非洲的原因提出了疑问， 他以非洲的一种猴子为例， 说明如果不是因为特殊情况， 物种不会进行迁徙， 那些猴子的牙齿在数百万年间一直没有变化， 是因为它们没有变化的理由。 也就是说， 讲话者希望通过猴子的例子说明人类的迁徙应该是有原因的。 因此答",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Ho humans settled down on the Arabian Peninsula.",
+            "B": "When modern humans started to disperse out of Africa.",
+            "C": "What path modern humans took to migrate out of Africa.",
+            "D": "Why fresh water is so important for human survival."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each \nblank from a list of choices given in a word bank following the passage. Read the passage through carefully \nbefore making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding \nletter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the \nwords in the bank more than once. \nImagine sitting down to a big dinner: a massive steak, a large portion of fried potatoes, and cake for \ndessert. After eating so much, you should be too full to eat another bite. But some people experience a \npowerful urge to keep eating, even after ___26___ in a huge meal, a behavior that makes little sense, as \nmost adults are well-versed in the dangers of obesity, which researchers have shown correlates with \n___27___ health issues and is even linked to increased ___28___ risk. But some people still keep eating \nlong after they should stop, a phenomenon Dr. Susan Thompson calls \" insatiable ( 永不满足的) \nhunger.\" It is characterized by two main ___29___: not being satisfied by eating, and having a desire to \nstay sedentary (久坐不动的). \nThis is at ___30___ with how humans are biologically programmed. When there was a great deal \nof food available, ancient people would gorge on calories; this massive calorie intake was accompanied \nby an urge to get active. Humans were also programmed for something called \"compensation,\" which is \nthe brain's ___31___ mechanism for preventing the accumulation of excess weight. With compensation, \nif you eat one large meal in the morning, you are naturally ___32___ to eat less for the rest of the day. \nBut recent studies show that 70% of American adults have lost the ability to naturally compensate \nfor the calories they consume; worse ___33___, a significant number of them report ___34___ hunger \nhalfway through an eating session, but, by the end of the meal, they feel the same or higher levels of \nhunger than when they sat down. Dr. Thompson argues that the main cause of this phenomenon is the \nmodern diet, which is ___35___ of food high in sugar, carbohydrates and calories.",
+      "wordBank": {
+        "A": "attributes",
+        "I": "innumerable",
+        "B": "comprised",
+        "J": "mortality",
+        "C": "conceded",
+        "K": "odds",
+        "D": "conservation",
+        "L": "plights",
+        "E": "diminishing",
+        "M": "regulatory",
+        "F": "far",
+        "N": "still",
+        "G": "inclined",
+        "O": "unmatchable",
+        "H": "indulging"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": "H",
+          "explanation": "题。 H) 〖 【语法判断】 空格前是介词 after， 空格后是介词 in， 由此可判断空格处应填人一个名词或动名词， 作 after 的宾语， 同时与 in 搭配。 〖 【语义判断】 空格前面的半句提到有一些人还有继续吃的强烈欲望， even after “ 甚至在 “ “ “ 之后 ”， 表示出乎意料的情况， 空格后提到一顿大餐， 可见这里是说在享用了一顿大餐之后还想吃， 与前半句形成对比， 浏览选项中的名词和动名词， H) indulging 能够与 in 搭配， indulge in 意为 “ 沉湎于 ”， 这里引申为纵情享受了很多美食， 符合原文意思， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "26 ． 〖 考点 〗 动词辨析题。 H) 〖 【语法判断】 空格前是介词 after， 空格后是介词 in， 由此可判断空格处应填人一个名词或动名词， 作 after 的宾语， 同时与 in 搭配。 〖 【语义判断】 空格前面的半句提到有一些人还有继续吃的强烈欲望， even after “ 甚至在 “ “ “ 之后 ”， 表示出乎意料的情况， 空格后提到一顿大餐， 可见这里是说在享用了",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": "I",
+          "explanation": "题。 I) 〖 【语法判断】 空格前是介词 with， 空格后的名词性结构 health issues 是 with 的宾语， 可知空格处应填人一个形容词或名词类的修饰成分， 来说明 health issues 某方面的特征。 〖 【语义判断】 空格所在句提到研究人员已经证明肥胖与健康问题有关系， 再结合常识也可以知道， 肥胖会带来各种各样的问题， 因此这里填人 innumerable “ 无数的， 数不清的 ” 最合适， 故 I) 为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "27 ． 〖 考点 〗 形容词辨析题。 I) 〖 【语法判断】 空格前是介词 with， 空格后的名词性结构 health issues 是 with 的宾语， 可知空格处应填人一个形容词或名词类的修饰成分， 来说明 health issues 某方面的特征。 〖 【语义判断】 空格所在句提到研究人员已经证明肥胖与健康问题有关系， 再结合常识也可以知道， 肥胖会带来各种各样的问题， 因此这里填人 i",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": "J",
+          "explanation": "题。 J) 〖 【语法判断】 空格前是固定搭配 is linked to， to 是介词， 其后接名词 risk 作宾语， 可见空格与前面的形容词 increased 一起修饰 risk， 因此推断空格处应为一个名词或形容词。 〖 【语义判断】 空格前面提到肥胖与健康问题有关系， 由空格所在句中的可以推测这里是要比前面提到的健康问题更严重， 浏览各名词和形容词选项， 只有 J) mortality\" 死亡率 ” 符合这里的语义， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "28， 〖 考点 〗 名词辨析题。 J) 〖 【语法判断】 空格前是固定搭配 is linked to， to 是介词， 其后接名词 risk 作宾语， 可见空格与前面的形容词 increased 一起修饰 risk， 因此推断空格处应为一个名词或形容词。 〖 【语义判断】 空格前面提到肥胖与健康问题有关系， 由空格所在句中的可以推测这里是要比前面提到的健康问题更严重， 浏览各名词和形容词选项",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": "A",
+          "explanation": "题。 A) 〖 【语法判断】 空格前有介词 by， 其后需要名词或动名词作宾语， 而空格前的两个词 two mam 显然是修饰这个词的， 可见空格处就是 by 的宾语， 又根据 two 可知这个宾语只能是可数名词的复数形式。 〖 【语义判断】 空格前的 characterized 表示 “ 以 ． “ 为特点的 ”， 根据语义， 能够被称为特点的， 一般是特性或者特征， 浏览各名词选项， A） attributes\" 属性， 特性， 特征 ” 符合原文意思， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "29 ． 〖 考点 〗 名词辨析题。 A) 〖 【语法判断】 空格前有介词 by， 其后需要名词或动名词作宾语， 而空格前的两个词 two mam 显然是修饰这个词的， 可见空格处就是 by 的宾语， 又根据 two 可知这个宾语只能是可数名词的复数形式。 〖 【语义判断】 空格前的 characterized 表示 “ 以 ． “ 为特点的 ”， 根据语义， 能够被称为特点的， 一般是特性或者特",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": "K",
+          "explanation": "题。 K) 〖 【语法判断】 空格所在句是主系表结构， 空格与其前后的两个介词和一起作 is 的表语， 可知空格处很可能是个名词。 〖 【语义判断】 空格所在句的 this 指代的是上一段提到的 “ 永不满足的饥饿感 ”， 空格后的 with 所接的从句表示人类生理上的本能设定， 人的生理本能应该是吃饱了就不再饿了， 永不满足的饥饿感与这种本能是相反的， 因此选择 K) odds， at odds with 是固定搭配， 表示 “ 与 “ “ “ 相违背的， 不一致 20 四年 6 月六级真题第 2 套第 7 页淘宝店誦： 叮当考研的 ”， 符合原文意思， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "30， 〖 考点 〗 名词辨析题。 K) 〖 【语法判断】 空格所在句是主系表结构， 空格与其前后的两个介词和一起作 is 的表语， 可知空格处很可能是个名词。 〖 【语义判断】 空格所在句的 this 指代的是上一段提到的 “ 永不满足的饥饿感 ”， 空格后的 with 所接的从句表示人类生理上的本能设定， 人的生理本能应该是吃饱了就不再饿了， 永不满足的饥饿感与这种本能是相反的， 因此选",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": "M",
+          "explanation": "题。 M) 〖 【语法判断】 空格前面的 brain， s 是名词所有格的一部分， 后面的 mechanism 是这个所有格的另一部分， 因此推断空格处应为一个修饰成分， 用来说明 mechamsm 的属性或特征。 〖 【语义判断】 空格所在处修饰说明前文提到的 com 些 nsation “ 抵消 ” 行为是一种怎样的机制， 空格后一句给出了抵消行为的具体解释： 当你吃多了， 你会自然而然地少吃。 可见这种行为就是大脑在监管人的饮食均衡， 因此 M) regulatory\" 监督的， 管理的 ” 符合原文意思。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "31. 〖 考点 〗 形容词辨析题。 M) 〖 【语法判断】 空格前面的 brain， s 是名词所有格的一部分， 后面的 mechanism 是这个所有格的另一部分， 因此推断空格处应为一个修饰成分， 用来说明 mechamsm 的属性或特征。 〖 【语义判断】 空格所在处修饰说明前文提到的 com 些 nsation “ 抵消 ” 行为是一种怎样的机制， 空格后一句给出了抵消行为的具体解释： 当",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": "G",
+          "explanation": "题。 G) 〖 【语法判断】 空格前是系动词 are， 因此空格与后面的 to 引导的不定式搭配在一起就是 are 的表语， 据此推断空格处应该是一个形容词或名词。 〖 【语义判断】 空格前一句提到这种抵消行为是大脑的管理机制， 以防人类堆积过多的体重， 因此本句应该是说， 如果你上午吃了一顿大餐， 一天当中剩余的时间里你就会少吃。 inclined to do sth. “ 倾向于做某事 ” 符合原文意思， 故 G） 为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "32， 〖 考点 〗 形容词辨析题。 G) 〖 【语法判断】 空格前是系动词 are， 因此空格与后面的 to 引导的不定式搭配在一起就是 are 的表语， 据此推断空格处应该是一个形容词或名词。 〖 【语义判断】 空格前一句提到这种抵消行为是大脑的管理机制， 以防人类堆积过多的体重， 因此本句应该是说， 如果你上午吃了一顿大餐， 一天当中剩余的时间里你就会少吃。 inclined to",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": "N",
+          "explanation": "题。 N) 〖 【语法判断】 从形式上可以判断 worse 与空格基本独立于后半句， 可以推断空格处应该是一个能够与构成固定搭配的词， 应为副词。 〖 【语义判断】 空格前半句提到 70 ％ 的美国成年人已经失去了自然而然地抵消摄人的热量的能力， 空格所在的后半句提到他们会在一餐结束时又回到最初用餐时的饥饿程度， 甚至更饿， 这比前半句提到的情况更糟， 因此选择 N) stil",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "33 ． 〖 考点 〗 副词辨析题。 N) 〖 【语法判断】 从形式上可以判断 worse 与空格基本独立于后半句， 可以推断空格处应该是一个能够与构成固定搭配的词， 应为副词。 〖 【语义判断】 空格前半句提到 70 ％ 的美国成年人已经失去了自然而然地抵消摄人的热量的能力， 空格所在的后半句提到他们会在一餐结束时又回到最初用餐时的饥饿程度， 甚至更饿， 这比前半句提到的情况更糟， 因",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": "E",
+          "explanation": "题。 E) 〖 【语法判断】 空格前是谓语动词 re 凶 rt， 后面是名词 hunger， 可以推测空格处很可能是一个现在分词或形容词。 〖 【语义判断】 report doing sth. 表示 “ 报告做过某事 ”， 根据句意可知这里是指很多人在用餐过程中曾经报告过饥饿感减弱或者降低， 但后面又感到饿了， 浏览各选项， 只有 E) diminishing\" 降低； 减少 ” 符合原文意思， 故为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "34 ． 〖 考点 〗 动词辨析题。 E) 〖 【语法判断】 空格前是谓语动词 re 凶 rt， 后面是名词 hunger， 可以推测空格处很可能是一个现在分词或形容词。 〖 【语义判断】 report doing sth. 表示 “ 报告做过某事 ”， 根据句意可知这里是指很多人在用餐过程中曾经报告过饥饿感减弱或者降低， 但后面又感到饿了， 浏览各选项， 只有 E) diminishing",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": "B",
+          "explanation": "题。 B) 〖 【语法判断】 空格前是系动词 is， 后面是介词 of， 可知空格处是表语， 且能够与 of 搭配， 应该是形容词或动词过去分词形式。 〖 【语义判断】 空格所在句是 whlch 引导的定语从句， which 指代前面提到的 modern diet， 空格后是组成现代饮食的成分， 因此选择 B) comprised， comprised of 表示 “ 由 “ “ “ 构成 ”， 符合原文意思， 故为答案。 参考译文想象一下， 坐在一份大餐前， 面前摆着巨大的牛排， 一大份炸土豆， 还有蛋糕当饭后甜点。 吃了这么多后， 你应该感到很饱， 一口也吃不下了。 但有一些人却有继续吃的强烈欲望， 甚至是在饱食了一顿大餐后， 这种行为简直解释不通， 因为大多数成年人都深知肥胖的危险， 而研究人员已经证明肥胖与很多健康问题有着紧密联系， 甚至会增加死亡的风险。 但有一些人还是在早就该停止进食之后继续吃， 这一现象被苏珊 · 汤普森博士称为 “ 永不满足的饥饿感 ”。 这种现象有两个主要特征： 一是通过吃无法得到满足， 二是有久坐不动的强烈渴望。 这种行为与人类生理上的本能设定是相违背的。 当有大量的食物可以吃时， 古人会拼命地摄人热量， 但摄人这么多热量往往伴随着动起来的强烈欲望。 人类还天生具有一种叫作 “ 抵消 ” 的行为， 这是大脑的管理机制， 以防人类堆积过多的体重。 有了这种抵消行为， 如果你上午吃了一顿大餐， 那么一天当中剩余的时间里你会自然而然地少吃。 但是最近的研究显示 70 ％ 的美国成年人已经失去了自然而然地抵消摄人的热量的能力； 更糟糕的是， 他们当中的很多人在进食的中途会感到饥饿感降低了， 但在一餐结束时， 他们又会感到跟刚坐下用餐时一样饥饿， 甚至更饿。 汤普森博士认为出现这种现象的主要原因在于现代饮食的构成， 包含了太多高糖、 高碳水化合物以及高热量的食物。 Section B 〖 文章来源 〗 本文选自 2018 年刊登在 The A c （《大西洋》） 上一篇标题为 “ The ProbIem with Being Perfect ”",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "35， 〖 考点 〗 动词辨析题。 B) 〖 【语法判断】 空格前是系动词 is， 后面是介词 of， 可知空格处是表语， 且能够与 of 搭配， 应该是形容词或动词过去分词形式。 〖 【语义判断】 空格所在句是 whlch 引导的定语从句， which 指代前面提到的 modern diet， 空格后是组成现代饮食的成分， 因此选择 B) comprised， comprised of 表示",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "When psychologist Jessica Pryor lived near an internationally renowned university, she once saw a \nstudent walking into a library holding a sleeping bag and a coffee maker. She has heard of graduate \nstudents spending 12 to 18 hours at a time in the lab. Their schedules are meant to be literally punishing: \nIf they are scientists-in-training, they won't allow themselves to watch Netflix until their experiments \nstart generating results. \"Relationships become estranged (疏远的)-people stop inviting them to social \ngatherings or dinner parties, which leads them to spend even more time in the lab,\" Pryor told me."
+        },
+        {
+          "label": "B",
+          "text": "Along with other therapists, Pryor, who is now with the Family Institute at Northwestern University, is \ntrying to sound the alarm about a tendency among young adults and college students to strive for \nperfection in their work—sometimes at any cost. Though it is often portrayed as a positive trait, Pryor \nand others say extreme perfectionism can lead to depression, anxiety, and even suicide."
+        },
+        {
+          "label": "C",
+          "text": "What's more, perfectionism seems to be on the rise. In a study of thousands of American, Canadian, and \nBritish college students published earlier this year, Thomas Curran of the University of Bath and Andrew \nHill of York St. John University found that today's college students report higher levels of perfectionism \nthan college students did during the 1990s or early 2000s. They measured three types of perfectionism: \nself-oriented, or a desire to be perfect; socially prescribed, or a desire to live up to others' expectations; \nand other-oriented, or holding others to unrealistic standards. From 1989 to 2016, they found, \nself-oriented perfectionism scores increased by 10 percent, socially prescribed scores rose by 33 percent, \nand other-oriented perfectionism increased by 16 percent."
+        },
+        {
+          "label": "D",
+          "text": "A person living with an other-oriented perfectionist might feel criticized by the perfectionist spouse for \nnot doing household chores exactly the \"right\" way. \"One of the most common things couples argue \nabout is the proper way of loading the dishwasher,\" says Amy Bach, a psychologist in Providence, Rhode \nIsland."
+        },
+        {
+          "label": "E",
+          "text": "Curran describes socially prescribed perfectionism as \"My self-esteem is contingent on what other people \nthink.\" His study didn't examine the causal reasons for its rise, but he assumes that the rise of both \nstandardized testing and social media might play a role. These days, LinkedIn alerts us when our rival \ngets a new job, and Instagram can let us know how well \"liked\" our lives are compared with a friend's. In \nan opinion piece earlier this year, Curran and Hill argue that society has also become more dog-eat-dog. \n\"Over the last 50 years, public interest and civic responsibility have been progressively eroded,\" they \nwrite, \"replaced by a focus on self-interest and competition in a supposedly free and open marketplace.\" \nWe strive for perfection, it seems, because we feel we must in order to get ahead. Michael Brustein, a \nclinical psychologist in Manhattan, says when he first began practicing in 2007, he was surprised by how \nprevalent perfectionism was among his clients, despite how little his graduate training had focused on the \n\nphenomenon. He sees perfectionism in, among others, clients who are entrepreneurs, artists, and tech \nemployees. \"You're in New York because you're ambitious, you have this need to strive,\" he says. \"But \nthen your whole identity gets wrapped into a goal.\""
+        },
+        {
+          "label": "F",
+          "text": "Perfectionism can, of course, be a positive force. Think of professional athletes, who train aggressively for \never-higher levels of competition. In well-adjusted perfectionism, someone who doesn't get the gold is \nable to forget the setback and move on. In maladaptive (不当的) perfectionism, meanwhile, people make \nan archive of all their failures. They revisit these archives constantly, thinking, as Pryor puts it, \"I need to \nmake myself feel terrible so I don't do this again.\" Then they double down, \"raising the expectation bar \neven higher, which increases the likelihood of defeat, which makes you self-critical, so you raise the bar \nhigher, work even harder,\" she says. Next comes failure, shame, and pushing yourself even harder toward \neven higher and more impossible goals. Meeting them becomes an \"all or nothing\" premise. Pryor \noffered this example: \"Even if I'm an incredible attorney, if I don't make partner in the same pacing as \none of my colleagues, clearly that means I'm a failure.\""
+        },
+        {
+          "label": "G",
+          "text": "Brustein says his perfectionist clients tend to devalue their accomplishments, so that every time a goal is \nachieved, the high lasts only a short time, like \"a gas tank with a hole in it.\" If the boss says you did a \ngreat job, it's because he doesn't know anything. If the audience likes your work, that's because it's too \nstupid to know what good art actually is. But, therapists say, there are also different ways perfectionism \nmanifests. Some perfectionists are always pushing themselves forward. But others actually fall behind on \nwork, unable to complete assignments unless they are, well, perfect. Or they might handicap their \nperformance ahead of time. They're the ones partying until 2 a. m. the night before the final, so that when \nthe grade C rolls in, there's a ready excuse."
+        },
+        {
+          "label": "H",
+          "text": "While educators and parents have successfully convinced students of the need to be high performing and \ndiligent, the experts told me, they haven't adequately prepared them for the inevitability of failure. \nInstead of praises like \"You're so smart,\" parents and educators should say things like \"You really stuck \nwith it,\" Pryor says, to emphasize the value of perseverance over intrinsic talent. Pryor notes that many of \nher clients are wary she'll \"turn them into some degenerate couch potato and teach them to be okay with \nit.\" Instead, she tries to help them think through the parts of their perfectionism they'd like to keep, and to \nlose the parts that are ruining their lives."
+        },
+        {
+          "label": "I",
+          "text": "Bach, who sees many students from Brown University, says some of them don't even go out on weekends, \nlet alone weekdays. She tells them, \"Aim high, but get comfortable with good enough.\" When they don't \nget some award, she encourages them to remember that \"one outcome is not a basis for a broad \nconclusion about the person's intelligence, qualifications, or potential for the future.\""
+        },
+        {
+          "label": "J",
+          "text": "The treatment for perfectionism might be as simple as having patients keep logs of things they can be \nproud of, or having them behave imperfectly in small ways, just to see how it feels. \"We might have \nthem hang the towels crooked ( 不正的) or wear some clothing inside out,\" says Martin Antony, a \nprofessor in the department of psychology at Ryerson University in Toronto."
+        },
+        {
+          "label": "K",
+          "text": "Brustein likes to get his perfectionist clients to create values that are important to them, then try to shift \ntheir focus to living according to those values rather than achieving specific goals. It's a play on the \"You \nreally stuck with it\" message for kids. In other words, it isn't about doing a headstand in yoga class; it's \nabout going to yoga class in the first place, because you like to be the kind of person who takes care of \nherself. But he warns that some people go into therapy expecting too much-an instant transformation of \nthemselves from a pathological (病态的) perfectionist to a (still high-achieving) non-perfectionist. They \ntry to be perfect, in other words, at no longer being perfect."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Socially prescribed perfectionism is described as one's self-esteem depending on other people's opinion.",
+          "answer": "E",
+          "explanation": "〗 同义转述题。 E） 段定位句提到， 库兰将社会规定型的完美主义描述为 “ 我的自尊心取决于其他人的想法 ”。 题干中的 socially prescribed perfectionism 和 self-esteem 直接对应原文内容； 题干中的 depending on other people， s opinion 是对原文中 is contingent on what other ople think 的同义转述， 故答案为 E)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "36， 〖 定位 〗 由题干中的 s 1a11y prescnbed perfect- ionism 和 self-esteem 定位到文章 E） 段第一句。 E) 〖 精析 〗 同义转述题。 E） 段定位句提到， 库兰将社会规定型的完美主义描述为 “ 我的自尊心取决于其他人的想法 ”。 题干中的 socially prescribed perfectionism 和 self-esteem 直接对应原文内容； 题干中的 depending on other people， s opinio",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Jessica Pryor has learned that some graduate students work such long hours in the lab that they have little \ntime for entertainment or socializing.",
+          "answer": "A",
+          "explanation": "〗 细节归纳题。 A） 段指出， 杰西卡 · 普莱尔发现学生们带着睡袋和咖啡机去图书馆， 还听说研究生在实验室里一次要待 12 到 18 个小时， 而且在实验开始有结果之前绝不放纵自己观看网飞视频。 他们每天都很忙碌， 久而久之也很少有人邀请他们参加社交聚会或晚宴， 由此可知， 题干是对 A） 段的归纳概括： 这些研究生在实验室工作太久， 以至于没有时间娱乐或社交。 题干中的 some graduate students work such long hours in the lab 对应原文中的 graduate students spending 12 to 18 hours at a time in the lab； 题干中的 they have little time for entertainment or sociallzing 对应原文中的 stop inviting them t0 social gatherings or dmner parties， 故答案为 A)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "37 ． 〖 定位 〗 由题干中的 Jessica Pryor、 graduate students 和 in the lab 定位到 A) 段。 A) 〖 精析 〗 细节归纳题。 A） 段指出， 杰西卡 · 普莱尔发现学生们带着睡袋和咖啡机去图书馆， 还听说研究生在实验室里一次要待 12 到 18 个小时， 而且在实验开始有结果之前绝不放纵自己观看网飞视频。 他们每天都很忙碌， 久而久之也很少有人邀请他们参加社交聚会或晚宴， 由此可知， 题干是对 A） 段的归纳概括： 这些研",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "The author believes perfectionism may sometimes be constructive.",
+          "answer": "F",
+          "explanation": "〗 同义转述题。 F） 段定位句提到， 完美主义可以是一种积极的力量。 题干中的 constructive 对应原文中的 positive force， 后一句又以专业运动员积极训练去获得更高竞技水平为例， 进一步说明完美主义的积极作用， 故答案为 F)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "38 ． 〖 定位 〗 由题干中的 perfectionism 和 constructive 定位到文章 F) 段第一句。 F) 〖 精析 〗 同义转述题。 F） 段定位句提到， 完美主义可以是一种积极的力量。 题干中的 constructive 对应原文中的 positive force， 后一句又以专业运动员积极训练去获得更高竞技水平为例， 进一步说明完美主义的积极作用， 故答案为 F)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "It is found that perfectionism is getting more and more prevalent among college students.",
+          "answer": "C",
+          "explanation": "〗 细节归纳题。 0 段定位句提到， 在今年年初， 巴斯大学的托马斯 · 库兰和约克圣约翰大学的安德鲁 · 希尔发表了一篇针对数千名美国、 加 I) 20 四年 6 月六级真题第 2 套第 9 页淘宝店誦： 叮当考研拿大和英国大学生的研究， 他们发现， 相比 20 世纪 90 年代或 21 世纪初， 如今大学生中完美主义者更多， 由此可知题干是对 C） 段定位句的归纳概括： 完美主义在大学生中越来越盛行。 题干中的 getting more and more prevalent 对应原文中的 today， s college students report higher levels Of perfectionism than college students did during the 1990s or early 2000s， 故答案为 C)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "39， 〖 定位 〗 由题干中的 perfectionism 和 college students 定位到 C) 段第二句。 0 〖 精析 〗 细节归纳题。 0 段定位句提到， 在今年年初， 巴斯大学的托马斯 · 库兰和约克圣约翰大学的安德鲁 · 希尔发表了一篇针对数千名美国、 加 I) 20 四年 6 月六级真题第 2 套第 9 页淘宝店誦： 叮当考研拿大和英国大学生的研究， 他们发现， 相比 20 世纪 90 年代或 21 世纪初， 如今大学生中完美主义者更多， 由此可",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Some experts suggest parents and educators should prepare students for failures.",
+          "answer": "H",
+          "explanation": "〗 细节推断题。 H） 段第一句指出， 专家表示， 虽然教育工作者和家长已经成功说服学生要表现出色和勤奋， 但他们并未使学生为失败的必然性做好充分的准备。 由此可推断， 家长和教育工作者应该让学生学会接受失败。 题干中的 parents and educators 对应原文中的 educators and parents； 题干中的 prepare students for failures 对应原文中的 prepared them for the inevitability of failure， 故答案为 H)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "40 ． 〖 定位 〗 由题干中的 parents and educators 和 prepare students for failures 定位到文章 H） 段第 H) 〖 精析 〗 细节推断题。 H） 段第一句指出， 专家表示， 虽然教育工作者和家长已经成功说服学生要表现出色和勤奋， 但他们并未使学生为失败的必然性做好充分的准备。 由此可推断， 家长和教育工作者应该让学生学会接受失败。 题干中的 parents and educators 对应原文中的 educators and parents",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Some therapists warn that young adults tend to pursue perfection in their work.",
+          "answer": "B",
+          "explanation": "〗 同义转述题。 B） 段定位句指出， 目前在西北大学家庭研究所工作的普莱尔正与其他治疗专家一起， 试图对年轻人和大学生在工作中追求完美的趋势敲响警钟， 因为他们在追求完美的过程中有时不惜一切代价。 题干中 warn 是对原文中 sound the alarm 的同义转述； 题干中的 young adults tend to pursue perfection in their work 对应原文中的 a tendency among young adults and college students to strive for perfection in their work—sometimes at any cost， 故答案为 B)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "41. 〖 定位 〗 由题干中的 therapists、 young adults 和 pursue perfection in their work 定位到 B） 段第 B) 〖 精析 〗 同义转述题。 B） 段定位句指出， 目前在西北大学家庭研究所工作的普莱尔正与其他治疗专家一起， 试图对年轻人和大学生在工作中追求完美的趋势敲响警钟， 因为他们在追求完美的过程中有时不惜一切代价。 题干中 warn 是对原文中 sound the alarm 的同义转述； 题干中的 young adults tend to",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Psychologist Amy Bach encourages her students to aim high but be content with something less than \nperfect.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "A clinical psychologist finds perfectionism is widespread among his clients.",
+          "answer": "E",
+          "explanation": "〗 同义转述题。 E） 段定位句指出， 曼哈顿的临床心理学家迈克尔 · 布鲁斯汀在刚开始执业时发现他的客户中普遍存在着完美主义， 他在企业家、 艺术家和技术人员等客户身上都发现了完美主义。 题干中的 perfectionism is widespread among his clients 对应原文中的 hOW prevalent perfectionism was among his clients， 故答案为 E)O ． 〖 定位 〗 由题干中的 overcome perfectionism 定位到文章 K） 段最后两句。 K) 〖 精析 〗 细节归纳题。 K） 段定位句指出， 有些完美主义者在接受治疗时期望过高， 希望将自己从一个病态的完美主义者一下子转变为一个 （仍然是高成就的） 非完美主义者。 他们试图 “ 完美 ” 地实现这一转变。 由此可知， 题干是对 K） 段定位句的归纳概括： 有些人在试图克服完美主义的过程中还是避免不了追求完美的心态和习惯。 题干中的 overcome perfectionism 对应原文中的 trans- formation； 题干中的 some people are still pursuing perfection 对应原文中的 “ They try to perfect， in Other words， at no longer being rfect. ”， 故答案为 K)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "43 ． 〖 定位 〗 由题干中的 clinical psychologist 和 clients 定位到文章 E） 段第七、 八句。 E) 〖 精析 〗 同义转述题。 E） 段定位句指出， 曼哈顿的临床心理学家迈克尔 · 布鲁斯汀在刚开始执业时发现他的客户中普遍存在着完美主义， 他在企业家、 艺术家和技术人员等客户身上都发现了完美主义。 题干中的 perfectionism is widespread among his clients 对应原文中的 h",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "In trying to overcome perfectionism, some people are still pursuing perfection.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "In pursuing perfection, some perfectionists fail to complete their tasks on time.",
+          "answer": "G",
+          "explanation": "〗 同义转述题。 G） 段定位句指出， 有些完美主义者实际上在工作中处于落后状态， 无法完成任务， 除非他们本身是完美的。 题干中的 fail to complete their tasks on time 对应原文中的 fall behind on work， unable to complete asignments， 故答案为 G)。 参考译文追求完美的问题所在 A) （37） 心理学家杰西卡 ． 普莱尔住在一所国际知名大学附近的时候， 曾看到一名学生拿着睡袋和咖啡机走进图书馆。 她听说研究生在实验室里一次要待 12 到 18 个小时。 他们的日程安排简直是折磨人的： 如果他们是正在接受培训的科学家， 在实验开始产生结果之前， 他们不会允许自己看网飞上的视频。 普莱尔告诉我： “ 人们的关系变得疏远一一大家不再邀请他们参加社交聚会或晚宴， 这导致他们花更多时间在实验室。 ” B) (41) 目前在西北大学家庭研究所工作的普莱尔正与其他治疗专家一起， 试图对年轻人和大学生在工作中追求完美的趋势敲响警钟， 他们在追求完美的过程中有时不惜一切代价。 虽然追求完美经常被描绘成一种良好的特质， 但普莱尔和其他专家表示， 极端的完美主义可能导致抑郁、 焦虑， 甚至自杀。 0 更重要的是， 完美主义似乎还在上升阶段。 （39） 在今年年初， 巴斯大学的托马斯 ． 库兰和约克圣约翰大学的安德鲁 ． 希尔发表了一篇针对数千名美国、 加拿大和英国大学生的研究， 他们发现， 相比 20 世纪 90 年代或 21 世纪初， 如今大学生中完美主义者更多。 他们测试了三种类型的完美主义： 自我导向型， 也就是渴望完美； 社会规定型， 也就是渴望达到他人的期望； 以及他人导向型， 也就是以不切实际的标准要求他人。 他们发现， 从 1989 年到 2016 年， 自我导向型的完美主义增加了 10 ％， 社会规定型增加了 33 ％， 而他人导向型则增加了 16 ％。 D) 与一个他人导向型的完美主义者生活在一起的人可能会因为没有完全按照 “ 正确 \" 的方式做家务而被追求完美的配偶批评。 来自罗得",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+            "sourceText": "45 ． 〖 定位 〗 由题干中的 fail to complete their tasks 定位到文章 G) 段第六句。 G) 〖 精析 〗 同义转述题。 G） 段定位句指出， 有些完美主义者实际上在工作中处于落后状态， 无法完成任务， 除非他们本身是完美的。 题干中的 fail to complete their tasks on time 对应原文中的 fall behind on work， unable to complete asignme",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage. \nHow on earth did we come to this? We protect our children obsessively from every harm; we \nscrutinize every carer, teacher or doctor with whom they come into contact. Yet despite all this, one \ngroup, which in no way has their best interests at heart, has almost unconstrained access. \nWe seem to take it for granted that advertisers and marketers are allowed to condition even the \nyoungest children. Before children have even developed a proper sense of their own identity, or learned \nto handle money, they're encouraged to associate status and self-worth with stuff, and to look to external \nthings such as fame and wealth for validation. We're turning out little consumers rather than young \ncitizens who will value themselves for what they contribute to the society in which they live. \nWe've reached this point so gradually that many of us have never questioned it. It's crept up on us \nin the 60years since advertisers started to target the young and found that they could recruit them to a \ncommercial assault on their parents. We've come to know it as \"pester power\" or the ability of children \nto pressure parents to make certain purchases. \nMany psychologists, child development experts and educators point to research suggesting that this \nemerging cradle-to-grave consumerism is contributing to growing rates of low self-esteem, depression \nand other forms of mental illness. \nNot all psychologists agree. There're plenty working hand in glove with a ￡12bn-a-year industry \nthat has turned the manipulation of adult emotions and desires into an art form-often literally. It's also \none that's forever developing new ways to persuade our children to desire material possessions, and \nbecause of advertisements' viral effect they only need to infect a few to reach the many. Advertising and \nmarketing can serve a useful purpose for children. Marketing may help socialize children as consumers, \ninform them about products, and help them carve out unique identities as they reach adulthood. \nThen, should we ban all advertising aimed at young children? I say yes. \nOf course there'll be plenty of objections to an outright ban on advertising to the under-11s. There'll \nbe those who argue that would be a breach of freedom of speech and infringe the rights of corporations \nto brainwash little children into demanding their products. \nMost parents hate what advertising does to their children, but we do have the power to end it and \nlet our children grow up free from many of the pressures of consumerism until they're old enough to \nmake their own decisions. And though advertising is only part of an all-pervasive ( 无处不在的) \nmarketing culture we need to make a start somewhere. Let's ban all advertising targeting children of \nprimary school age and younger now.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "Which group of people does the author say has almost unrestricted access to children?",
+              "options": {
+                "A": "Advertisers.",
+                "B": "Carers.",
+                "C": "Teachers.",
+                "D": "Doctors."
+              },
+              "answer": "A",
+              "explanation": "〗 事实细节题。 定位句指出， 有一个在任何情况下都不以孩子们的最大利益为中心的群体， 定位到首段最后一句。 20 刀年 6 月六级真题第 2 套第 11 页淘宝店铺： 叮当考研几乎可以不受限制地接近他们， 本句并没有点明这是哪一个群体， 而随后一段开头就提到了广告商和营销人员， 且此后文章都是围绕广告对孩子的影响展开论述的， 可知作者所说的可以不受限制地接近孩子的群体就是广告商， 故答案为 A)。 〖 避错 〗 首段第二句提到， 我们对护理员、 教师和医生接近孩子都是进行仔细检查的， 可知他们均不属于可以不受限制地接近孩子的群体， 故排除 B)、 C） 和 D) 三项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+                "sourceText": "46 ． 〖 定位 〗 由题干中的 unrestricted access to children A) 〖 精析 〗 事实细节题。 定位句指出， 有一个在任何情况下都不以孩子们的最大利益为中心的群体， 定位到首段最后一句。 20 刀年 6 月六级真题第 2 套第 11 页淘宝店铺： 叮当考研几乎可以不受限制地接近他们， 本句并没有点明这是哪一个群体， 而随后一段开头就提到了广告商和营销人员， 且此后文章都是围绕广告对孩子的影响展开论述的， 可知作者",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What kind of people should we enable children to become according to the author?",
+              "options": {
+                "A": "Those who look to fame and wealth for external and ultimate validation.",
+                "B": "Those who value themselves because of their contribution to society.",
+                "C": "Those who associate self-worth with the ability to handle money.",
+                "D": "Those who have developed a proper sense of their own identity."
+              },
+              "answer": "B",
+              "explanation": "〗 推理判断题。 定位句提到， 我们培养的是小消费者， 而不是以对其所在的社会的贡献来评估自我价值的年轻公民。 根据上下文可推知， 作者对 “ 小消费者 ” 持否定态度， 那么我们应该培养出的就是本句后半部分所说的， 以对社会的贡献来评估自我价值的年轻公民， 故答案为 B)O 〖 避错 〗 其余三项都是根据定位段第二句设置的干扰项： 该句分析针对儿童的广告对他们的负面影响， 可知作者不认同寻求名声和财富来获得外部和最终认可的人， 故排除 A） 项； 作者提到未具备理财能力和未形成对自我身份的认知， 主要是指儿童所处的发展阶段， 并不是我们对孩子最终的培养目标， 故排除 0 项和 D) 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+                "sourceText": "47， 〖 定位 〗 由题干中的 enable children to become 定位到第二段最后一句。 B) 〖 精析 〗 推理判断题。 定位句提到， 我们培养的是小消费者， 而不是以对其所在的社会的贡献来评估自我价值的年轻公民。 根据上下文可推知， 作者对 “ 小消费者 ” 持否定态度， 那么我们应该培养出的就是本句后半部分所说的， 以对社会的贡献来评估自我价值的年轻公民， 故答案为 B)O 〖 避错 〗 其余三项都是根据定位段第二句设置的干扰",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "Many child development experts and educators call attention to research that suggests______.",
+              "options": {
+                "A": "life-long consumerism is causing more and more cases of psychological problems.",
+                "B": "increasing commercialization of education is eroding many children's self-esteem.",
+                "C": "the growing desire for wealth is contributing to a rising rate of depression.",
+                "D": "the craving for purchasing material things is nurtured throughout one's life."
+              },
+              "answer": "A",
+              "explanation": "〗 事实细节题。 定位段指出， 许多心理学家、 儿童发展专家和教育工作者提到的研究表明， 这种从摇篮延续至坟墓的消费主义正在导致自卑、 抑郁和其他形式的精神疾病的发病率不断上升。 由此可知， 终生消费主义会导致越来越多的心理问题案例， 故答案为 A）。 〖 避错 〗 B） 项所说的教育商业化与本文的主题无关， 故排除； 定位句虽然提到抑郁症的发病率上升， 但并未说其诱因是对财富的渴望不断增长， 故排除 0 项； D） 项中的 throughout one， s life 虽能与原文中的 cradle-to-grave 对应， 但研究的主题是消费主义对心理的影响， 而非消费渴望是否延续一生， 故排除 D)O",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+                "sourceText": "48 ． 〖 定位 〗 由题干中的 child development experts and educators 定位到第四段。 A) 〖 精析 〗 事实细节题。 定位段指出， 许多心理学家、 儿童发展专家和教育工作者提到的研究表明， 这种从摇篮延续至坟墓的消费主义正在导致自卑、 抑郁和其他形式的精神疾病的发病率不断上升。 由此可知， 终生消费主义会导致越来越多的心理问题案例， 故答案为 A）。 〖 避错 〗 B） 项所说的教育商业化与本文的主题无关， 故排除；",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What does the author imply about the impact of advertising?",
+              "options": {
+                "A": "It is actually infectious to many rather than a few.",
+                "B": "It is rooted in our desire for material possessions.",
+                "C": "It is comparable to that of virus.",
+                "D": "It is literally limited to children."
+              },
+              "answer": "A",
+              "explanation": "〗 推理判断题。 定位句后半部分提到， 由于广告的病毒般的效应， 它们只需要感染少数人就可以触动大多数人， 可见作者暗示， 广告的影响可以由少数而推及大众， A） 项是对定位句的转述， 故为答案。 〖 避错 〗 本文并未提及广告影响力的根源是什么， 故排除 B） 项； 定位句确实提到了病毒， 但 C） 项表述似是而非， 原文并非点明广告的影响在哪个方面与病毒可相比拟， 故排除该项； D） 项显然与定位段第二句相悖， 该句明确说广告是可以操纵成年人的情绪和欲望的， 即可以影响到成年人， 并非仅限于丿 L 童， 故也排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+                "sourceText": "49， 〖 定位 〗 由题干中的 impact of adverusing 定位到第五段第三句。 A) 〖 精析 〗 推理判断题。 定位句后半部分提到， 由于广告的病毒般的效应， 它们只需要感染少数人就可以触动大多数人， 可见作者暗示， 广告的影响可以由少数而推及大众， A） 项是对定位句的转述， 故为答案。 〖 避错 〗 本文并未提及广告影响力的根源是什么， 故排除 B） 项； 定位句确实提到了病毒， 但 C） 项表述似是而非",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What is the opponents' argument against a complete ban on advertising to young children?",
+              "options": {
+                "A": "It would deprive them of the chance to learn about products.",
+                "B": "It would render them unable to carve out unique identities.",
+                "C": "It would breach their freedom as would-be consumers.",
+                "D": "It would violate the rights endowed upon advertisers."
+              },
+              "answer": "D",
+              "explanation": "〗 事实细节题。 定位段指出， 会有很多人反对彻底禁止针对 11 岁以下的儿童做广告。 随后引用了他们的观点， 认为这侵犯了言论自由， 或是侵犯了企业对儿童进行洗脑的权利， D） 项所述可与该段第二句的后半部分相对应， 故答案为 D)。 〖 避错 〗 干扰项均是根据第五段最后一句设置的。 该句提到了帮助儿童作为消费者适应社会， 向他们提供产品信息， 并帮助塑造他们在成年后独特的身份， 这些可能是广告的益处， 但根据上下文语境， 这些均不是反对禁止儿童广告的理据， 属于答非所问， 故排除 A)、 B) 和 0 三项。 参考译文我们到底是怎么做到这个地步的？ 我们过分地保护我们的孩子不受任何伤害； 我们仔细检查他们接触过的每一位护理员、 教师或医生。 （",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+                "sourceText": "50 ． 〖 定位 〗 由题干中的 opponents 和 complete ban on advertising 定位到倒数第二段。 D) 〖 精析 〗 事实细节题。 定位段指出， 会有很多人反对彻底禁止针对 11 岁以下的儿童做广告。 随后引用了他们的观点， 认为这侵犯了言论自由， 或是侵犯了企业对儿童进行洗脑的权利， D） 项所述可与该段第二句的后半部分相对应， 故答案为 D)。 〖 避错 〗 干扰项均是根据第五段最后一句设置的。 该句提到了帮助儿童作为消费者适应社会，",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage. \nMany oppose workplace surveillance, because of the inherent dehumanizing effect it has and the \nrelentless pressure it brings. But it's on the rise around the world as firms look to become more efficient by \nsqueezing more productivity from their workers. More than half of companies with over $750m in annual \nrevenue used \"non-traditional” monitoring techniques on staff last year. \nMonitoring employee performance gives firms the ability to assess how their staff are performing and \ninteracting, which can be good for both the firm and employees themselves. A growing number of analytics \ncompanies offer this service. They gather \"data exhaust\" left by employees' email and instant messaging \napps, and use name badges equipped with radio-frequency identification devices and microphones. These \ncan check how much time you spend talking, your volume and tone of voice, even if you do not dominate \nconversations. While this may sound intrusive, exponents argue that it can also protect employees against \nbullying and sexual harassment. \nSome of this data analysis can produce unexpected results. For example, it was found that people who \nsat at 12-person lunch tables tended to interact, share ideas more and outperform those who regularly sat at \nfour-person tables, a fact that would probably have gone undetected without such data analysis. \nOver the last few years a Stockholm co-working space called Epicenter has gone much further and \nholds popular \"chipping parties\", where people can have microchips implanted in their hands. They can use \nthe implants to access electronically-controlled doors, or monitor how typing speed correlates with heart rate. \nImplanted chips may seem extreme, but it is a relatively small step from ID cards and biometrics to such \ndevices. \nAs long as such schemes are voluntary, there will probably be a growing number of \nconvenience-oriented uses so that a substantial number of workers would opt to have a chip inserted. But if \nimplanted chips are used to reduce slack time or rest breaks, that could prove to be detrimental. And if \nsurveillance tools take away autonomy, that's when they prove most unpopular. A lot depends on how such \nmonitoring initiatives are communicated and this could prevent possible revolts being staged. \n\nIf bosses don't communicate effectively, employees assume the worst. But if they're open about the \ninformation they're collecting and what they're doing with it, research suggests 46% of employees are \ngenerally okay with it. Although many such monitoring schemes use anonymised data and participation is \nvoluntary, many staffers remain sceptical and fear an erosion of their civil liberties. \nSo workplace surveillance could be empowering for staff and useful for companies looking to become \nmore efficient and profitable. But implemented in the wrong way, it could also become an unpopular tool of \noppression that proves counterproductive.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "Why are many people opposed to monitoring employee performance?",
+              "options": {
+                "A": "It puts workers under constant pressure.",
+                "B": "It is universally deemed anti-human by nature.",
+                "C": "It does both mental and physical harm to employees monitored.",
+                "D": "It enables firms to squeeze maximal productivity from employees."
+              },
+              "answer": "A",
+              "explanation": "〗 事实细节题。 文章第一段第一句提到许多人反对工作场所监控， 因为这种做法本身就带有使人丧失人性的效果， 同时， 还会带来无尽的压力。 文中的 relentless pressure 对应 A) 项中的 constant pressure， 因此答案为 A) 项。 〖 避错 〗 文中第一段第一句提到许多人反对工作场所监控， 因为这种做法本身就带有使人丧失人性的效果， 但没有提到 universally( 普遍地）， 并未提到每个人都持有这种看法， 这属于主观臆断， 故排除 B） 项。 文中虽然提到工作场所监控会带来无尽的压力， 但还没有到对身体和精神造成伤害的地步， 这属于过度推断， 因此排除 C) 项。 文中提到企业力图通过榨取员工更多的生产力来提高效率， 与 D） 项语义相同， 但是它是全球范围内工作场所内的监控越来越普遍的原因， 不是很多人反对监控员工表现的原因， 这属于偷换概念， 因此排除 D） 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+                "sourceText": "51. 〖 定位 〗 由题干中的 opposed 以及 momtoring employee performance 定位到第一段第一句。 A) 〖 精析 〗 事实细节题。 文章第一段第一句提到许多人反对工作场所监控， 因为这种做法本身就带有使人丧失人性的效果， 同时， 还会带来无尽的压力。 文中的 relentless pressure 对应 A) 项中的 constant pressure， 因此答案为 A) 项。 〖 避错 〗 文中第一段第一句提到许多人反对工作场所监控， 因为这种做",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What is the supporters' argument for workplace surveillance?",
+              "options": {
+                "A": "It enables employees to refrain from dominating conversations.",
+                "B": "It enhances employees' identification with firms they work in.",
+                "C": "It can alert employees to intrusion into their privacy.",
+                "D": "It can protect employees against aggressive behavior."
+              },
+              "answer": "D",
+              "explanation": "〗 事实细节题。 文中第二段最后一句提到支持者认为这可以保护员工免受欺凌和性骚扰， 欺凌和性骚扰都是侵犯性的行为， 因此工作场所监控可以保护员工免受攻击性行为的侵害， 所以答案为 D) 项。 〖 避错 〗 第二段第四句提到， 甚至在你不是对话的主要讲话者时， 这些设备也可以检测你谈话的时间、 音量和语调， 并没有提到它可以使员工避免主导性的谈话， 因此排除 A) 项。 第二段第三句提到， 公司收集员工的电子邮件和即时消息应用留下的 “ 数据残留 ”， 并使用配备无线射频识别设备和麦克风的姓名牌， 这都是令员工反感的事情， 不可能增强员工对所在公司的认同感， 因此排除 B) 项。 第二段最后一句提到， 这听起来可能有些冒犯， 说的是前面提到的公司的监控行为有些冒犯， 而非指这些行为可提醒员工隐私受到侵犯， 0 项属于曲解文意， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+                "sourceText": "52 ． 〖 定位 〗 由题干中的 supporters' argument 定位到第二段最后一句。 D) 〖 精析 〗 事实细节题。 文中第二段最后一句提到支持者认为这可以保护员工免受欺凌和性骚扰， 欺凌和性骚扰都是侵犯性的行为， 因此工作场所监控可以保护员工免受攻击性行为的侵害， 所以答案为 D) 项。 〖 避错 〗 第二段第四句提到， 甚至在你不是对话的主要讲话者时， 这些设备也可以检测你谈话的时间、 音量和语调， 并没有提到它可以使员",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does the author want to show by the example of different numbers of people interacting at lunch  tables?",
+              "options": {
+                "A": "Data analysis is key to the successful implementation of workplace surveillance.",
+                "B": "Analyzing data gathered from workers can yield something unexpected.",
+                "C": "More workmates sitting at a lunch table tend to facilitate interaction and idea sharing.",
+                "D": "It is hard to decide on how many people to sit at a lunch table without data analysis."
+              },
+              "answer": "B",
+              "explanation": "〗 推理判断题。 文章第三段第二句举了一个例子： 人们发现， 与经常坐在四人桌旁的人相比， 坐在 12 人用餐桌旁的人更愿意互动、 分享更多的想法， 并且表现得更好。 文中的例子都是为了支持某个论点服务的， 也就是为本段第一句服务的。 第一句提到某些数据分析可能会产生意想不到的结果， 因此， 不同数量的人在午餐桌上互动的例子是为了证明分析从员工那儿收集到的数据可以得 20 刀年 6 月六级真题第 2 套第 13 页淘宝店铺： 叮当考研到让人意想不到的结果， 因此答案为 B) 项。 〖 避错 〗 文中数据的分析是为了说明分析数据后可以得到的意外结果， 而非说明数据分析是成功实施工作场所监控的关键， A） 项属于主观臆断， 故排除。 文中的例子的确表明更多的同事坐在餐桌旁有助于互动和分享想法， 但这是例子本身的内容， 要注意例子是为了文章服务， 不是为了说例子本身， 因此排除 C) 项。 文中餐桌上坐多少人是先发生的， 之后再收集所需的数据， 而不是数据分析决定午餐桌上坐多少人， 因此排除 D) 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+                "sourceText": "53， 〖 定位 〗 由题干中的 different numbers of people interacting at lunch tables 定位到第三段第二句。 B) 〖 精析 〗 推理判断题。 文章第三段第二句举了一个例子： 人们发现， 与经常坐在四人桌旁的人相比， 坐在 12 人用餐桌旁的人更愿意互动、 分享更多的想法， 并且表现得更好。 文中的例子都是为了支持某个论点服务的， 也就是为本段第一句服务的。 第一句提到某些数据分析可能会产生意想不到的结果， 因此， 不同数量的人在午餐桌上互动的例子",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What does much of the positive effect of monitoring initiatives depend on?",
+              "options": {
+                "A": "How frequently employees are to be monitored.",
+                "B": "What specific personal information is being excluded.",
+                "C": "What steps are taken to minimize their detrimental impact.",
+                "D": "How well bosses make known their purpose of monitoring."
+              },
+              "answer": "D",
+              "explanation": "〗 事实细节题。 文中第五段最后一句指出， 监控举措要想有积极效果， 很大程度上取决于如何传达此类监控措施。 第六段第一、 二句提到， 如果老板不能与员工进行有效沟通， 员工会把事情想得很糟糕。 但是， 如果他们对正在收集的信息以及对这些信息的处理持开放态度， 研究表明， 46 ％ 的员工通常都是能接受的。 因此老板们表明他们的监控目的很重要， 故答案为 D) 项。 〖 避错 〗 文中第五段提到， 如果植人的芯片被用来减少空闲时间或休息时间， 这可能是有害的， 但文章并未涉及被监控的频率， 因此排除 A) 项。 第六段第二句提到， 如果老板们对还在收集的信息以及对这些信息的处理持开放态度， 员工通常都是能接受的， 这是在强调对所收集信息的处理态度， 而不是收集信息的内容， 因此排除 B) 项。 文中第五段第二句提到， 如果植人的芯片被用来减少空闲时间或休息时间， 这可能是有害的 （detrimental)， 但并未提及将其有害影响降至最低的步骤， 因此排除 0 项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+                "sourceText": "54、 〖 定位 〗 由题干中的 momtoring initiatives 定位到第五段最后一句。 D) 〖 精析 〗 事实细节题。 文中第五段最后一句指出， 监控举措要想有积极效果， 很大程度上取决于如何传达此类监控措施。 第六段第一、 二句提到， 如果老板不能与员工进行有效沟通， 员工会把事情想得很糟糕。 但是， 如果他们对正在收集的信息以及对这些信息的处理持开放态度， 研究表明， 46 ％ 的员工通常都是能接受的。 因此老板们",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What concern do monitoring initiatives cause among many staffers?",
+              "options": {
+                "A": "They may empower employers excessively.",
+                "B": "They may erode the workplace environment.",
+                "C": "They may infringe upon staffers' entitled freedom.",
+                "D": "They may become counterproductive in the long run."
+              },
+              "answer": "C",
+              "explanation": "〗 推理判断题。 第六段最后一句提到尽管许多此类监控计划使用匿名数据， 而且是自愿参与的， 许多员工仍然持怀疑态度， 担心他们的公民自由会受到侵害， 由此可见员工担忧监控举措会侵犯他们应有的自由， 文中的 liberties 对应 c） 项中的 freedom， 故答案为 C) 项。 〖 避错 〗 最后一段第一句提到， 工作场所监控可以增强员工自主权， 而 A) 项中的 excessively\" 过度地， 过分地 ” 夸大了原文意思， 因此排除 A) 项。 文中说的是员工担心公民自由会受到侵害 (erosion)， 而不是工作环境受到侵害 (erode)， 因此排除 B) 项。 文中提到， 如果以错误的方式实施， 工作场所监控也可能成为一种不受欢迎的压迫工具， 结果适得其反， 而非从长远来看， 监控举措会适得其反， 因此排除 D) 项。 参考译文 （(1) 许多人反对工作场所监控， 因为这种做法本身就带有使人丧失人性的效果， 同时， 还会带来无尽的压力。 但全球范围内工作场所内的监控越来越普遍， 因为企业力图通过榨取员工更多的生产力来提高效率。 去年， 年收人",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-2/key_OCR_2023-06-2.txt",
+                "sourceText": "管许多此类监控计划使用匿名数据， 而且是自愿参与的， 许多员工仍然持怀疑态度， 担心他们的公民自由会受到侵害， 由此可见员工担忧监控举措会侵犯他们应有的自由， 文中的 liberties 对应 c） 项中的 freedom， 故答案为 C) 项。 〖 避错 〗 最后一段第一句提到， 工作场所监控可以增强员工自主权， 而 A) 项中的 excessively\" 过度地， 过分地 ” 夸大了原文意思， 因此排除 A) 项。 文中说的是员工担心公民自由会受到侵害 (erosion)， 而不是工作环境受到侵害 (erode)， 因此排除 B) 项。 文中提到， 如果以错误的方式实施，",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You \nshould write your answer on Answer Sheet 2.",
+      "source": "随着中国经济的快速发展和人们生活水平的稳步提高,城市居民对环境和生活品质的要求越来越高。中国地方政府更加注重公共设施的建设和改进,以更好地满足人们的需求。通过兴建新的广场、公园和公共绿地或对原有公共场地重新加以规划改造,许多城市为市民提供了更多休闲和社交的场所。如今,政府出资购置的健身器械和铺设的健身步道在不少城市随处可见,既明显改善了市民户外活动的条件,又使城市更加美丽。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

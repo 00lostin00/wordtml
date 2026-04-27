@@ -26,8 +26,17 @@
                 "C": "modify",
                 "D": "recognize 2."
               },
-              "answer": "C",
-              "explanation": "题思路]首句提到，对最高法院的伦理评判近来已成重要议题;暗示法院正面临职业道德危机. 空格句The court cannotits legitimacy as...应与首句一致，即\"招致道德评判\"，只有\"无法维持合 法性\"与之吻合，[B]符合文意. 「错项排除]cannot emphasize常常与too much/enough等连用，表示\"再⋯⋯强调都不为过\"，此处 [A]无法与上下文构成完整搭配.[C]表示\"轻微改变某事物使之改进\"，但最高法院合法性不存在\"改 进\"与否的问题.[D]表示\"正式认可或赞成\"，但最高法院无法\"认可自身合法性\"."
+              "answer": "A",
+              "explanation": "题思路]首句提到，对最高法院的伦理评判近来已成重要议题;暗示法院正面临职业道德危机. 空格句 The court cannotits legitimacy as. . . 应与首句一致，即\"招致道德评判\"，只有\"无法维持合法性\"与之吻合，[B]符合文意. 「错项排除]cannot emphasize 常常与 too much/enough 等连用，表示\"再⋯⋯强调都不为过\"，此处 [A]无法与上下文构成完整搭配. [C]表示\"轻微改变某事物使之改进\"，但最高法院合法性不存在\"改进\"与否的问题. [D]表示\"正式认可或赞成\"，但最高法院无法\"认可自身合法性\".",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/paper_2012年考研英语一真题解析.txt",
+                "sourceText": "1.[A]emphasize 强调 [B] maintain 维持 [C] modify 改进，修改 [D] recognize 承认;认可 [考点提炼]上下文语义＋句内语义. 正确率∶42% [解题思路]首句提到，对最高法院的伦理评判近来已成重要议题;暗示法院正面临职业道德危机. 空格句 The court cannotits legitimacy as. . . 应与首句一",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -39,8 +48,17 @@
                 "C": "before",
                 "D": "unless 3."
               },
-              "answer": "D",
-              "explanation": "题思路]空格处考查\"法官如政客行事\"与\"最高法院不能维持合法性\"之间的逻辑关系.政客活 动关乎\"权势.利益\"，所以前者显然是后者发生的条件/情况，选项中符合要求的只有when，[A]正确. [错项排除][B]表目的，其后从句一般要用虚拟语气，主句是\"为避免某情况而做出的动作\";文中 \"法庭不能维持其合法性\"是一种\"结果或情况\"，而非为某目的而做出的行为.[C]表时间，而\"法官无法 维持其合法性\"应该发生在\"法官如政客行事\"之后.[D]用于引出\"主句所述情形不会发生或不真实\"的 认准淘宝店铺∶光速考研工作室，赠送配套课程 唯一情况/条件，而\"只有法官和政客一样行事，法庭才能维持其合法性\"明显颠倒了逻辑."
+              "answer": "A",
+              "explanation": "题思路]空格处考查\"法官如政客行事\"与\"最高法院不能维持合法性\"之间的逻辑关系. 政客活动关乎\"权势. 利益\"，所以前者显然是后者发生的条件/情况，选项中符合要求的只有 when，[A]正确. [错项排除][B]表目的，其后从句一般要用虚拟语气，主句是\"为避免某情况而做出的动作\";文中 \"法庭不能维持其合法性\"是一种\"结果或情况\"，而非为某目的而做出的行为. [C]表时间，而\"法官无法维持其合法性\"应该发生在\"法官如政客行事\"之后. [D]用于引出\"主句所述情形不会发生或不真实\"的认准淘宝店铺∶光速考研工作室，赠送配套课程唯一情况/条件，而\"只有法官和政客一样行事，法庭才能维持其合法性\"明显颠倒了逻辑.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/paper_2012年考研英语一真题解析.txt",
+                "sourceText": "2. [A] when 当⋯⋯时 [B] lest 唯恐;以免 [C] before 在⋯⋯之前 [D] unless 除非 [考点提炼] 句内逻辑. 正确率∶44% [解题思路]空格处考查\"法官如政客行事\"与\"最高法院不能维持合法性\"之间的逻辑关系. 政客活动关乎\"权势. 利益\"，所以前者显然是后者发生的条件/情况，选项中符合要求的只有 when，[A]正确. [错项排",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -52,8 +70,17 @@
                 "C": "established",
                 "D": "eliminated 4."
               },
-              "answer": "B",
-              "explanation": ".正确率∶38% [解题思路]空格句句首Yet表明本句与上文发生句意转折，因此反推得知，法官的行事方式没有维 护最高法院独立.公正的声誉，符合该逻辑的选项为[B]. [错项排除]前文已暗示是\"法官基本行为有问题\"使法院招致伦理评判，故\"恢复法院声誉\"与文意相 悖，[A]错误.[C]内含\"从无到有\"的逻辑，但\"确立最高法院声誉\"暗示其在此之前\"不被接受，没有独立. 公正的声誉\"，与事实不符;同时\"建立法院声誉\"为积极行为，不应是\"问题法官\"的行为.[D]指\"完全去除 不必要或不想要的事物\"，而文中\"法院声誉\"显然不是\"法官认为不必要或不想要的内容\". Ⅱ ①Justice Antonin Scalia,for example, appeared at ①例如，大法官安东宁·斯卡利亚曾 political events. ②That kind of activity makes it less likely现身政治活动.②这种行为使最高法院的 that the court's decisions will be _4 as impartial 裁定不太可能被视为公正判决.③部分问 judgments. OPart of the problem is that the justices are 题在于法官不受道德准则的约束.④最起 not _5_ by an ethics codeD.④At the very least, the码，最高法院自身应该服从那些适用于联 court should make itself _6_ to the code of conduct that邦司法系统其他部门的行为准则. _7_to the rest of the federal judiciary\". 词汇注释 ①code [kod] n.道德准则 $ ②judiciary [dsu'diJori] n.司法部，司法系统 真题精解.."
+              "answer": "A",
+              "explanation": ". 正确率∶38% [解题思路]空格句句首 Yet 表明本句与上文发生句意转折，因此反推得知，法官的行事方式没有维护最高法院独立. 公正的声誉，符合该逻辑的选项为[B]. [错项排除]前文已暗示是\"法官基本行为有问题\"使法院招致伦理评判，故\"恢复法院声誉\"与文意相悖，[A]错误. [C]内含\"从无到有\"的逻辑，但\"确立最高法院声誉\"暗示其在此之前\"不被接受，没有独立. 公正的声誉\"，与事实不符;同时\"建立法院声誉\"为积极行为，不应是\"问题法官\"的行为. [D]指\"完全去除不必要或不想要的事物\"，而文中\"法院声誉\"显然不是\"法官认为不必要或不想要的内容\". Ⅱ ①Justice Antonin Scalia, for example, appeared at ①例如，大法官安东宁·斯卡利亚曾 political events. ②That kind of activity makes it less likely 现身政治活动. ②这种行为使最高法院的 that the court's decisions will be _4 as impartial 裁定不太可能被视为公正判决. ③部分问 judgments. OPart of the problem is that the justices are 题在于法官不受道德准则的约束. ④最起 not _5_ by an ethics codeD. ④At the very least, the 码，最高法院自身应该服从那些适用于联 court should make itself _6_ to the code of conduct that 邦司法系统其他部门的行为准则. _7_to the rest of the federal judiciary\". 词汇注释 ①code [kod] n. 道德准则 $ ②judiciary [dsu'diJori] n. 司法部，司法系统真题精解. .",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/paper_2012年考研英语一真题解析.txt",
+                "sourceText": "3.[A]restored 恢复 [B] weakened（使）变弱;削弱 [D] eliminated 消除，消灭 [C] established 建立;使被接受;使得到承认 [考点提炼]上下文语义十动词辨析. 正确率∶38% [解题思路]空格句句首 Yet 表明本句与上文发生句意转折，因此反推得知，法官的行事方式没有维护最高法院独立. 公正的声誉，符合该逻辑的选",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -65,8 +92,17 @@
                 "C": "suspected",
                 "D": "accepted 5."
               },
-              "answer": "B",
-              "explanation": ".正确率∶41% [解题思路]首句for example表明本段例证上段末\"法官损害了法院声誉\"，由此判断这类行为会 \"降低公众对法院裁定的认可度\"，makes it less likely已表达出否定含义，故空格处应该表明\"公众对法 院或法官原本的态度\";accepted表示\"相信/认为某事为真\"，常用于～ sth as sth结构中，故[D]正确. [错项排除][A]与[C]均含有\"怀疑\"之意，与lesslikely连用，双重否定表肯定，即，人们认可法院裁 定的公正性，与文意相反;其次as与动词一起使用表示\"作为\"时，其后内容与动词语义色彩一致，而两 项为\"否定\"内涵，与\"作为公正判决\"不搭.[B]作及物动词时有两层含义，或表示\"违背（原则）\";或指 \"使陷入危险\"，但文中decisions本身并非\"遭妥协或被危及\"的内容，其次该词与补语as...不搭."
+              "answer": "A",
+              "explanation": ". 正确率∶41% [解题思路]首句 for example 表明本段例证上段末\"法官损害了法院声誉\"，由此判断这类行为会 \"降低公众对法院裁定的认可度\"，makes it less likely 已表达出否定含义，故空格处应该表明\"公众对法院或法官原本的态度\";accepted 表示\"相信/认为某事为真\"，常用于～ sth as sth 结构中，故[D]正确. [错项排除][A]与[C]均含有\"怀疑\"之意，与 lesslikely 连用，双重否定表肯定，即，人们认可法院裁定的公正性，与文意相反;其次 as 与动词一起使用表示\"作为\"时，其后内容与动词语义色彩一致，而两项为\"否定\"内涵，与\"作为公正判决\"不搭. [B]作及物动词时有两层含义，或表示\"违背（原则）\";或指 \"使陷入危险\"，但文中 decisions 本身并非\"遭妥协或被危及\"的内容，其次该词与补语 as. . . 不搭.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/paper_2012年考研英语一真题解析.txt",
+                "sourceText": "4. [A] challenged 挑战，质疑 [B] compromised 违背;达不到;使遭受危险（或怀疑） [D] accepted 接受;相信 [C] suspected 怀疑，猜想 [考点提炼]上下文语义 ＋动词辨析. 正确率∶41% [解题思路]首句 for example 表明本段例证上段末\"法官损害了法院声誉\"，由此判断这类行为会 \"降低公众对法院裁",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -78,8 +114,17 @@
                 "C": "immune",
                 "D": "founded 6."
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1 〜5 BABDC 6~10 BDBAB 11-15 ACCDA 16〜20 CACDD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section Reading Comprehension ♦ Part A * Text 1 m 命题分析电套外散音线 Text 1 选自 2011 年 4 月 9 日的 Time （《时代周刊》）, 原文标",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -92,7 +137,16 @@
                 "D": "prone 7."
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1 〜5 BABDC 6~10 BDBAB 11-15 ACCDA 16〜20 CACDD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section Reading Comprehension ♦ Part A * Text 1 m 命题分析电套外散音线 Text 1 选自 2011 年 4 月 9 日的 Time （《时代周刊》）,",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -104,8 +158,17 @@
                 "C": "deny",
                 "D": "applies 8."
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1 〜5 BABDC 6~10 BDBAB 11-15 ACCDA 16〜20 CACDD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section Reading Comprehension ♦ Part A * Text 1 m 命题分析电套外散音线 Text 1 选自 2011 年 4 月 9 日的 Time （《时代周刊》）, 原文标",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -117,8 +180,17 @@
                 "C": "similarity",
                 "D": "settle 9."
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1 〜5 BABDC 6~10 BDBAB 11-15 ACCDA 16〜20 CACDD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section Reading Comprehension ♦ Part A * Text 1 m 命题分析电套外散音线 Text 1 选自 2011 年 4 月 9 日的 Time （《时代周刊》）,",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -130,8 +202,17 @@
                 "C": "through",
                 "D": "conflict 10. LA] by"
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1 〜5 BABDC 6~10 BDBAB 11-15 ACCDA 16〜20 CACDD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section Reading Comprehension ♦ Part A * Text 1 m 命题分析电套外散音线 Text 1 选自 2011 年 4 月 9 日的 Time （《时代周刊》）, 原",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -143,8 +224,17 @@
                 "C": "provided",
                 "D": "towards 11."
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1 〜5 BABDC 6~10 BDBAB 11-15 ACCDA 16〜20 CACDD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section Reading Comprehension ♦ Part A * Text 1 m 命题分析电套外散音线 Text 1 选自 2011 年 4 月 9 日的 Time （《时代周刊》）,",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -156,8 +246,17 @@
                 "C": "upset",
                 "D": "though 12."
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1 〜5 BABDC 6~10 BDBAB 11-15 ACCDA 16〜20 CACDD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section Reading Comprehension ♦ Part A * Text 1 m 命题分析电套外散音线 Text 1 选自 2011 年 4 月 9 日的 Time （《时代周刊》）, 原",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -170,7 +269,16 @@
                 "D": "replace 13."
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1 〜5 BABDC 6~10 BDBAB 11-15 ACCDA 16〜20 CACDD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section Reading Comprehension ♦ Part A * Text 1 m 命题分析电套外散音线 Text 1 选自 2011 年 4 月 9 日的 Time （《时代周刊》）, 原文标题",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -182,8 +290,17 @@
                 "C": "studied",
                 "D": "offer 14."
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1 〜5 BABDC 6~10 BDBAB 11-15 ACCDA 16〜20 CACDD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section Reading Comprehension ♦ Part A * Text 1 m 命题分析电套外散音线 Text 1 选自 2011 年 4 月 9 日的 Time （《时代周刊》）, 原文标题",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -195,8 +312,17 @@
                 "C": "divisions",
                 "D": "tied 15."
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1 〜5 BABDC 6~10 BDBAB 11-15 ACCDA 16〜20 CACDD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section Reading Comprehension ♦ Part A * Text 1 m 命题分析电套外散音线 Text 1 选自 2011 年 4 月 9 日的 Time （《时代周刊》）, 原文标",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -208,8 +334,17 @@
                 "C": "shapes",
                 "D": "conventions 16."
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1 〜5 BABDC 6~10 BDBAB 11-15 ACCDA 16〜20 CACDD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section Reading Comprehension ♦ Part A * Text 1 m 命题分析电套外散音线 Text 1 选自 2011 年 4 月 9 日的 Time （《时代周刊》）, 原",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -221,8 +356,17 @@
                 "C": "ranked",
                 "D": "controls 17."
               },
-              "answer": "D",
-              "explanation": "题思路]空格句中it是省略了that的定语从句，修饰the law，it指代the court，空格处实 际考查\"最高法院\"与\"法律\"间的关系.最高法院基于法律判决社会政策案件，而判决后的案例会对法 律的制定或修订产生影响，使之具有政治性.shapes含\"对某物的发展有重要影响\"之意，故[C]正确. [错项排除][A]表示\"故意不使用或考虑某事\";而最高法院显然不可能故意无视法律.[B]表示 \"对某事持怀疑态度\";而文中the law...is inescapably political与首句Constitutional law is political呼 应，描述的是\"法律的整体特点\"，受质疑的法律仅为少数;且文意根本不涉及\"存在问题的法律才具有政 治性\".美国法律与立法.司法.行政三方相关，最高法院无权操控或管理法律. [B] released释放，放走;发布"
+              "answer": "A",
+              "explanation": "题思路]空格句中 it 是省略了 that 的定语从句，修饰 the law，it 指代 the court，空格处实际考查\"最高法院\"与\"法律\"间的关系. 最高法院基于法律判决社会政策案件，而判决后的案例会对法律的制定或修订产生影响，使之具有政治性. shapes 含\"对某物的发展有重要影响\"之意，故[C]正确. [错项排除][A]表示\"故意不使用或考虑某事\";而最高法院显然不可能故意无视法律. [B]表示 \"对某事持怀疑态度\";而文中 the law. . . is inescapably political 与首句 Constitutional law is political 呼应，描述的是\"法律的整体特点\"，受质疑的法律仅为少数;且文意根本不涉及\"存在问题的法律才具有政治性\". 美国法律与立法. 司法. 行政三方相关，最高法院无权操控或管理法律. [B] released 释放，放走;发布",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/paper_2012年考研英语一真题解析.txt",
+                "sourceText": "16.[A] excludes 将⋯⋯排除在外;故意不考虑民 [D] controls 控制，管理 [C] shapes 决定⋯⋯的形成，影响⋯⋯的发展 [考点提炼] 上下文语义十熟词僻意. 正确率∶33% 厂解题思路]空格句中 it 是省略了 that 的定语从句，修饰 the law，it 指代 the court，空格处实际考查\"最高法院\"与\"法律\"间的关系. 最高法",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -235,7 +379,16 @@
                 "D": "distorted 18."
               },
               "answer": "A",
-              "explanation": "[C] ranked排列，将⋯⋯⋯分等级 5 认准淘宝店铺∶光速考研工作室，赠送配套课程 [考点提炼]上下文语义＋动词用法.正确率∶27% [解题思路] 空格部分which回指破折号前内容∶最高法院对有关社会政策案件的判决难以避免使 法律带有政治性，由此推知，人们很容易会对\"意识形态上存分歧的判决\"不接受，只有dismissed（意为to refuse to accept or recognize）符合，文中即∶公众不接受判决，认为判决是不公正的，[A]正确. [错项排除][B]（be）released（as）结构中as后只能是名词结构，说明\"发布的形式或释放的内容\"， 文中\"不公正\"为态度类形容词，语法和语义上均不合要求.[C（be）ranked（as）表示\"对某事物进行同 类事物中的级别划定，\"将判决评为不公正（这一级别）\"似乎逻辑可行，但\"定级\"的对象一般是\"成功.重 要性.质量等存在不同水平（高低.好坏等）的内容\"，而文中逻辑宾语为\"判决（decisions）\"，be ranked as unjust暗示\"最高法院的判决在公正度方面参差不齐\"，显然不现实.[D]（be）distorted（as）意为\"将论 述.事实等歪曲为⋯⋯\"，文中即暗示\"意识形态上有分歧的判决\"是公正的，与文意相反. ........ Ⅵ ④ The justices must 18 doubts about the ①法官必须使自己对行为准则负责，以 court's legitimacy by making themselves _19_ to the此来应对人们对最高法院合法性的质疑. code of conduct. ②That would make rulings more likely ②这会使他们的判决更可能被认为是与政 to be seen as separate from politics and,_20 治分离的，并因此像法律一样令人信服. convincing as law.[266 words] ................. -真题精解"
+              "explanation": "[C] ranked 排列，将⋯⋯⋯分等级 5 认准淘宝店铺∶光速考研工作室，赠送配套课程 [考点提炼]上下文语义＋动词用法. 正确率∶27% [解题思路] 空格部分 which 回指破折号前内容∶最高法院对有关社会政策案件的判决难以避免使法律带有政治性，由此推知，人们很容易会对\"意识形态上存分歧的判决\"不接受，只有 dismissed（意为 to refuse to accept or recognize）符合，文中即∶公众不接受判决，认为判决是不公正的，[A]正确. [错项排除][B]（be）released（as）结构中 as 后只能是名词结构，说明\"发布的形式或释放的内容\"， 文中\"不公正\"为态度类形容词，语法和语义上均不合要求. [C（be）ranked（as）表示\"对某事物进行同类事物中的级别划定，\"将判决评为不公正（这一级别）\"似乎逻辑可行，但\"定级\"的对象一般是\"成功. 重要性. 质量等存在不同水平（高低. 好坏等）的内容\"，而文中逻辑宾语为\"判决（decisions）\"，be ranked as unjust 暗示\"最高法院的判决在公正度方面参差不齐\"，显然不现实. [D]（be）distorted（as）意为\"将论述. 事实等歪曲为⋯⋯\"，文中即暗示\"意识形态上有分歧的判决\"是公正的，与文意相反. . . . . . . . . Ⅵ ④ The justices must 18 doubts about the ①法官必须使自己对行为准则负责，以 court's legitimacy by making themselves _19_ to the 此来应对人们对最高法院合法性的质疑. code of conduct. ②That would make rulings more likely ②这会使他们的判决更可能被认为是与政 to be seen as separate from politics and, _20 治分离的，并因此像法律一样令人信服. convincing as law. [266 words]. . . . . . . . . . . . . . . .",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/paper_2012年考研英语一真题解析.txt",
+                "sourceText": "17.[A] dismissed 对⋯⋯不屑一顾;不予考虑 [D] distorted 扭曲，使变形;曲解 [C] ranked 排列，将⋯⋯⋯分等级 5 认准淘宝店铺∶光速考研工作室，赠送配套课程 [考点提炼]上下文语义＋动词用法. 正确率∶27% [解题思路] 空格部分 which 回指破折号前内容∶最高法院对有关社会政策案件的判决难以避免使法律带有政治性，由此推知",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -247,8 +400,17 @@
                 "C": "agreeable",
                 "D": "ignore 19."
               },
-              "answer": "D",
-              "explanation": "题思路] must（用以引出建议，强调必要性）暗示本段继上文\"分析问题（法律和政治不容易完全 分开）\"后开始\"提出建议\";空格后宾语为doubts about the court'slegitimacy，因此空格词只能表达\"应 对\"之意，[C]符合要求，表示\"考虑某问题并决定如何应对\"之意. [错项排除][A]常表示\"用武力镇压\"，而\"用武力压制质疑\"显然背离法院应有的公正形象，不会是 作者对法官的建议;还可以表示\"抑制某过程或行为继续发展\"，文中suppress doubts从语法上说可以成 立，表示\"压制（人们的质疑）\"，但这仅侧重对外部不良因素的压制，与原文\"呼吁法官校正自身行为\"的 语境不符.[B]常表示\"利用人或事为自己谋私利\"，文中宾语为doubts，\"剥削怀疑\"显然不成立;该词还 可以表示\"充分利用优势\"，亦不通.[D]表示\"故意无视.忽略\"，这背离了文中作者的呼吁."
+              "answer": "A",
+              "explanation": "题思路] must（用以引出建议，强调必要性）暗示本段继上文\"分析问题（法律和政治不容易完全分开）\"后开始\"提出建议\";空格后宾语为 doubts about the court'slegitimacy，因此空格词只能表达\"应对\"之意，[C]符合要求，表示\"考虑某问题并决定如何应对\"之意. [错项排除][A]常表示\"用武力镇压\"，而\"用武力压制质疑\"显然背离法院应有的公正形象，不会是作者对法官的建议;还可以表示\"抑制某过程或行为继续发展\"，文中 suppress doubts 从语法上说可以成立，表示\"压制（人们的质疑）\"，但这仅侧重对外部不良因素的压制，与原文\"呼吁法官校正自身行为\"的语境不符. [B]常表示\"利用人或事为自己谋私利\"，文中宾语为 doubts，\"剥削怀疑\"显然不成立;该词还可以表示\"充分利用优势\"，亦不通. [D]表示\"故意无视. 忽略\"，这背离了文中作者的呼吁.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/paper_2012年考研英语一真题解析.txt",
+                "sourceText": "18.[A] suppress 压制;抑制 [B] exploit 利用，开发 [C] address 对付 [D] ignore 忽视 [考点提炼]上下文语义十熟词僻意. 正确率∶31% [解题思路] must（用以引出建议，强调必要性）暗示本段继上文\"分析问题（法律和政治不容易完全分开）\"后开始\"提出建议\";空格后宾语为 doubts about the c",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -261,7 +423,16 @@
                 "D": "accountable 20."
               },
               "answer": "A",
-              "explanation": "的[B] amiable和蔼可亲的;亲切友好的 [C] agreable令人愉快的;同意的;可以接受的 [D] accountable负有责任的;应作出解释的 [考点提炼]上下文语义＋形容词短语辨析.正确率∶20% [解题思路] 空格所在部分是by引导的方式状语，说明法官应如何应对人们的质疑∶（法官）使自己 行为准则.句中making themselves___to the code of conduct近义复现第二段④句...make itself subject to the code of conduct（最高法院应该遵守行为准则），故空格词应能体现\"服从，遵守\"之意， 符合要求的只有[D]. [错项排除] [A]可以表示\"对某人来说，某物/人/地是可到达/接近/使用的等\";或表示\"书画等易 于理解的，易懂的\"，常用于sth is accessible to sb结构中;文中介词to后为the code of conduct，并非sb. [B]用于\"说明人的性格友好.亲切\"，但\"法官对准则友好\"不合逻辑.[C]可表示\"某人/物令人愉悦，讨 人喜欢\"，此时义同[B];还可表示\"某事可以接受\"，常用于agreeable to sb结构中，此处均不通;还可表示 \"同意做或允许某事\"，只能是\"同意遵守准则\"，而非\"同意准则\". [B] at all costs无论如何，不惜任何代价"
+              "explanation": "的[B] amiable 和蔼可亲的;亲切友好的 [C] agreable 令人愉快的;同意的;可以接受的 [D] accountable 负有责任的;应作出解释的 [考点提炼]上下文语义＋形容词短语辨析. 正确率∶20% [解题思路] 空格所在部分是 by 引导的方式状语，说明法官应如何应对人们的质疑∶（法官）使自己行为准则. 句中 making themselves___to the code of conduct 近义复现第二段④句. . . make itself subject to the code of conduct（最高法院应该遵守行为准则），故空格词应能体现\"服从，遵守\"之意， 符合要求的只有[D]. [错项排除] [A]可以表示\"对某人来说，某物/人/地是可到达/接近/使用的等\";或表示\"书画等易于理解的，易懂的\"，常用于 sth is accessible to sb 结构中;文中介词 to 后为 the code of conduct，并非 sb. [B]用于\"说明人的性格友好. 亲切\"，但\"法官对准则友好\"不合逻辑. [C]可表示\"某人/物令人愉悦，讨人喜欢\"，此时义同[B];还可表示\"某事可以接受\"，常用于 agreeable to sb 结构中，此处均不通;还可表示 \"同意做或允许某事\"，只能是\"同意遵守准则\"，而非\"同意准则\". [B] at all costs 无论如何，不惜任何代价",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/paper_2012年考研英语一真题解析.txt",
+                "sourceText": "19.[A]accessible 可达到的;可用的;容易理解的[B] amiable 和蔼可亲的;亲切友好的 [C] agreable 令人愉快的;同意的;可以接受的 [D] accountable 负有责任的;应作出解释的 [考点提炼]上下文语义＋形容词短语辨析. 正确率∶20% [解题思路] 空格所在部分是 by 引导的方式状语，说明法官应如何应对人们的质疑∶（法官",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -273,8 +444,17 @@
                 "C": "",
                 "D": "as a result"
               },
-              "answer": "C",
-              "explanation": "题思路]空格句指出，这（法官遵守行为准则）会让判决更可能被认为是与政治分离的，像 法律一样令人信服.由前文可知，人们对最高法院合法性的质疑原因在于法律与政治界限模糊，因此反 推得知，法律和政治分离，判决便会令人信服，空格后内容是两者分离的\"结果\"，[D]正确. [错项排除][A]与[B]皆涉及\"具体的行为动作\"，但原文convincing as law是\"结论性陈述\"，并非 \"具体动作\".[C]用于对前文提及的多个观点进行总结，而此处考查句内关系，空格前只有\"⋯⋯被认为 是与政治分离\"一种观点，不存在多个观点，故总结关系不成立. Section I Reading Comprehension Part A Text 1同侪压力的作用 外教明读 -.总体分析 本文选自Time《时代周刊》2011年4月9日一篇题为Herd Mentality（从众心理）的文章.文章通过 着力批驳蒂娜·罗森伯格新作《加入俱乐部》中观点\"同侪压力借由社会治疗运动可发挥巨大作用\"（一. 书作本身未就\"社会治疗效力\"作有力阐述，二.靠外力对同侪压力施以正向引导的社会治疗并未真正奏 效）从根本上质疑\"同侪压力的社会疗效\". 二语篇分析及试题精解 Ⅰ ① Come on-Everybody's doing it. ② That 快来吧--大家都在这样做呢.这句半邀 whispered\"message,half invitation and half forcing,is请半强迫的耳语是我们大多数人在听到\"同侪 what most of us think of when we hear the words peer压力\"一词时会想到的.它通常引发坏事-- pressure.③\"It usually lcads to no good-drinking, 酗酒 .吸毒以及随意性行为.但蒂娜·罗森伯 drugs and casual sex.④But in her new book Join the格在其新作《加入俱乐部》中声称，通过她所谓 Club,Tina Rosenberg contendsthat p"
+              "answer": "A",
+              "explanation": "题思路]空格句指出，这（法官遵守行为准则）会让判决更可能被认为是与政治分离的，像法律一样令人信服. 由前文可知，人们对最高法院合法性的质疑原因在于法律与政治界限模糊，因此反推得知，法律和政治分离，判决便会令人信服，空格后内容是两者分离的\"结果\"，[D]正确. [错项排除][A]与[B]皆涉及\"具体的行为动作\"，但原文 convincing as law 是\"结论性陈述\"，并非 \"具体动作\". [C]用于对前文提及的多个观点进行总结，而此处考查句内关系，空格前只有\"⋯⋯被认为是与政治分离\"一种观点，不存在多个观点，故总结关系不成立. Section I Reading Comprehension Part A Text 1 同侪压力的作用外教明读 -. 总体分析本文选自 Time《时代周刊》2011 年 4 月 9 日一篇题为 Herd Mentality（从众心理）的文章. 文章通过着力批驳蒂娜·罗森伯格新作《加入俱乐部》中观点\"同侪压力借由社会治疗运动可发挥巨大作用\"（一. 书作本身未就\"社会治疗效力\"作有力阐述，二. 靠外力对同侪压力施以正向引导的社会治疗并未真正奏效）从根本上质疑\"同侪压力的社会疗效\". 二语篇分析及试题精解 Ⅰ ① Come on-Everybody's doing it. ② That 快来吧--大家都在这样做呢. 这句半邀 whispered\"message, half invitation and half forcing, is 请半强迫的耳语是我们大多数人在听到\"同侪 what most of us think of when we hear the words peer 压力\"一词时会想到的. 它通常引发坏事-- pressure. ③\"It usually lcads to no good-drinking, 酗酒. 吸毒以及随意性行为. 但蒂娜·罗森伯 drugs and casual sex. ④But in her new book Join the 格在其新作《加入俱乐部》中声称，通过她所谓 Club, Tina Rosenberg cont",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/paper_2012年考研英语一真题解析.txt",
+                "sourceText": "20.[A]by all means 尽一切办法;务必 [D] as a result 结果，因此 [C] in a word 简言之，总之 6 认准淘宝店铺∶光速考研工作室，赠送配套课程 [考点提炼]句内逻辑. 正确率∶38% [解题思路]空格句指出，这（法官遵守行为准则）会让判决更可能被认为是与政治分离的，像法律一样令人信服. 由前文可知，人们对最高法院合法性的质",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }
@@ -301,7 +481,16 @@
                 "D": "a cause of undesirable behaviors."
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "21. D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q22",
@@ -314,7 +503,16 @@
                 "D": "recognize the limitations of advertisements."
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "22 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q23",
@@ -327,7 +525,16 @@
                 "D": "produce a long-lasting social effect."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "23 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q24",
@@ -340,7 +547,16 @@
                 "D": "can produce negative health habits."
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "24 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q25",
@@ -353,7 +569,16 @@
                 "D": "questionable. 2012年英语（一）试题第4 页共1 4 页"
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "25 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -372,7 +597,16 @@
                 "D": "securing."
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "26， C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q27",
@@ -385,7 +619,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "27 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q28",
@@ -398,7 +641,16 @@
                 "D": "business vision."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "28 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q29",
@@ -411,7 +663,16 @@
                 "D": "the limits of states5 power over nuclear issues."
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "29 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q30",
@@ -424,7 +685,16 @@
                 "D": "Vermont5S reputation might be damaged. 2012年英语（一）试题第6 页共1 4 页"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "30 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -443,7 +713,16 @@
                 "D": "systematicness and regularity."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "31. A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q32",
@@ -455,8 +734,17 @@
                 "C": "individual wisdom.",
                 "D": "persistent innovation."
               },
-              "answer": "B",
-              "explanation": "答--如何得出正解 找关键词:Paragraph 2和credibility process.回文定位:根据关键词可定位至二段.句.比对匹配:该句指出， 这就是“取信过程(credibility process ),通过这一过程，个体研究者的“我\"\"此地”和“此时”就转变成 了科学界的“任何人” “任何地点”和“任何时间”.该句具有总结性，可见有关“取信过程”的细节信息应出 现在上文，故需联系上文.辐射匹配:根据指代关系，二段❹句中的This应指代❸句的内容:将一个发现声 明转变为成熟的发现需要集体的审查和认可(collective scrutiny and acceptance ).由此可知，“取信过程”需 要集体的努力(shared efforts ),故B正确. [路径二]从选项的角度解答一如何排除干扰 找关键词:strict inspectiono回文定位:根据关键词可定位至二段❸句，其与该句中的scrutiny表意相近. A比对匹配:该句指出，将一个发现声明转变为成熟的发现需要集体的审查和认可.这里虽提到了审查， 但重在强调这种审查是集体的，A选项不完全正确，故排除. 找关键词:individual.回文定位:满g疝词宜函立室二段0句.比对匹配:由上美[藤径一]对画奇 C的分析可知，“取信过程”是个人的成果得到科学界认可的过程，而这一过程并不是仅仅依靠个人的智 慧就能完成的，故排除C. D D遍云内-蓉去旻市羌面g'应,-「旻市 *亲蠢菇拮屐雨面薪而王商詹点 「放幕窿D?\""
+              "answer": "A",
+              "explanation": "答--如何得出正解找关键词:Paragraph 2 和 credibility process. 回文定位:根据关键词可定位至二段. 句. 比对匹配:该句指出， 这就是“取信过程(credibility process ), 通过这一过程，个体研究者的“我\"\"此地”和“此时”就转变成了科学界的“任何人” “任何地点”和“任何时间”. 该句具有总结性，可见有关“取信过程”的细节信息应出现在上文，故需联系上文. 辐射匹配:根据指代关系，二段❹句中的 This 应指代❸句的内容:将一个发现声明转变为成熟的发现需要集体的审查和认可(collective scrutiny and acceptance ). 由此可知，“取信过程”需要集体的努力(shared efforts ), 故 B 正确. [路径二]从选项的角度解答一如何排除干扰找关键词:strict inspectiono 回文定位:根据关键词可定位至二段❸句，其与该句中的 scrutiny 表意相近. A 比对匹配:该句指出，将一个发现声明转变为成熟的发现需要集体的审查和认可. 这里虽提到了审查， 但重在强调这种审查是集体的，A 选项不完全正确，故排除. 找关键词:individual. 回文定位:满 g 疝词宜函立室二段 0 句. 比对匹配:由上美[藤径一]对画奇 C 的分析可知，“取信过程”是个人的成果得到科学界认可的过程，而这一过程并不是仅仅依靠个人的智慧就能完成的，故排除 C. D D 遍云内-蓉去旻市羌面 g'应, -「旻市 *亲蠢菇拮屐雨面薪而王商詹点 「放幕窿 D?\"",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "It can be inferred from Paragraph 2 that credibility process requires. 从二段可以推知，“取信过程”需要. 选项出处 A. strict inspection A. 严格的审查二段❸句 B. shared efforts B. 共同的努力二段❸. 句 C. individual wisdom C. 个人的智慧二段❹句 D. persistent innovation D. 持续的创新原文未提 [路径一]从题干的角度解答--如何得出正解找关键词:Paragraph 2 和 cre",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q33",
@@ -469,7 +757,16 @@
                 "D": "has been frequently quoted by peer scientists."
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "33 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q34",
@@ -482,7 +779,16 @@
                 "D": "scientific work calls fbr a critical mind."
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "34 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q35",
@@ -495,7 +801,16 @@
                 "D": "Challenge to Credibility at the Gate to Science. 2012年英语（一）试题第8 页共1 4 页"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "35 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -514,7 +829,16 @@
                 "D": "the government has improved its relationship with unionists."
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "36 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q37",
@@ -527,7 +851,16 @@
                 "D": "Public-sector unions seldom get in trouble fbr their actions."
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "37 · D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q38",
@@ -540,7 +873,16 @@
                 "D": "fairly adjusted."
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "3 & B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q39",
@@ -553,7 +895,16 @@
                 "D": "are dominant in the government."
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "39 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q40",
@@ -565,8 +916,17 @@
                 "C": "Not only did they develop such a device but by the turn of the millennium they had also managed to embed it in a worldwide system accessed by billions of people every day.",
                 "D": "This is because the networked computer has sparked a secret war between downloading and uploading一between passive consumption and active creation一 whose outcome will shape our collective future in ways we can only begin to imagine. [E ] The challenge the computer mounts to television thus bears little similarity to one format being replaced by another in the maimer of record players being replaced by CD players. [F] One reason for the persistence of this pyramid of production is that fbr the past half-century, much of the world's media culture has been defined by a single medium—television一and television is defined by downloading. [G ] The networked computer offers the first chance in 50 years to reverse the flow, to encourage thoughtfill downloading and, even more importantly, meaningful uploading. 2012年英语（一）试题第12 页共14 页 PartC Directions: Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET 2. (10 points) Since the days of Aristotle, a search for universal principles has characterized the scientific enterprise. In some ways, this quest for commonalities defines science. Newton's laws of motion and Darwinian evolution each bind a host of different phenomena into a single explicatory framework. (46) In physics, one approach takes this impulse fbr unification to its extreme, and seeks a theory of everything—a single generative equation for all we see. It is becoming less clear, however, that such a theory would be a simplification, given the dimensions and universes that it might entail. Nonetheless, unification of sorts remains a major goal. This tendency in the natural sciences has long been evident in the social sciences too. (47) Here, Darwinism seems to ofifer justification, for if all humans share common origins, it seems reasonable to suppose that cultural diversity could also be traced to more constrained beginnings. Just as the bewildering variety of human courtship rituals might all be considered forms of sexual selection, perhaps the world5 s languages, music, social and religious customs and even histoiy are governed by universal features. (48) To filter out what is unique firom what is shared might enable us to understand how complex cultural behavior arose and what guides it inevolutionary or cognitive terms. That, at least, is the hope. But a comparative study of linguistic traits published online today supplies a reality check. Russell Gray at the University of Auckland and his colleagues consider the evolution of grammars in the light of two previous attempts to find universality in language. The most famous of these efforts was initiated by Noam Chomsky, who suggested that humans are bom with an innate language-acquisition capacity that dictates a universal grammar. A few generative rules are then sufficient to unfold the entire fundamental structure of a language, which is why children can learn it so quickly. (49) The second, by Joshua Greenberg” takes a more empirical approach to universality, identifidng traits (particularly in word order) shared by many languages, which are considered to represent biases that result fii)m cognitive constraints. Gray and his colleagues have put them to the test by examining four family trees that between them represent more than 2,000 languages. (50) Chomsky's grammar should show patterns of language change that are independent of the family tree or the pathway tracked through it- whereas Greenbergian universality predicts strong c o dependencies between particular types of word-order relations. Neither of these patterns is borne out by the analysis, suggesting that the structures of the languages are lineage­ specific and not governed by universals. 2012年英语（一）试题第13 页共14 页"
               },
-              "answer": "A",
-              "explanation": "题最为高效. 从题干的角度解答一如何得出正解，排除干扰 找关键词:John Donahue和the public-sector system.回文定位:根据关键词可定位至七段.❸句.比对匹配: 七段❶句提到，John Donahue指出，西方行政部门的文化标准适合那些寻求安稳的人，但不利于业绩优异者； ❸句提到，不对业绩优异者给予奖励的公共部门体制可能才是美国面临的更大问题.可见，John Donahue认为 当前公共部门体制缺乏激励机制，即他对公共部门的体制持否定态度，故A正确. 既然J ohn Donahue对该体制持否定态度，就不可能对其表示欣赏(appreciation)或漠不关心(indifference ), 故排除B.Do同时，John Donahue虽然认为西方行政部门的文化标准适合那些寻求安稳的人，但这并不能表 明他容忍(tolerance)这种体制，相反，其意在指出该体制的缺陷，故排除C. 命题分析 -# Part B ■ 能番外牧音濒 该部分选自2011年6月29日的New Scientist (《新科学家》)，原文标题是“How Computers Can Cure Cultural Diabetes\"(《计算机如何治愈文化糖尿病》),文章主要围绕在联网计算机时代多数人陷入被动消费模式 (下载模式)展开.与2010年以及2011年试题不同的是，今年的题型再现了前几年出现的七选五题型.对于 这类题型，考生只要把握好设空前后的句与句.段与段之间的逻辑关系，再根据具体的意群需要筛选出所需答 案即可. 英汉对照 [1] ❶Think of those fleeting moments when you look out of an aeroplane window and realise that you are flying, higher than a bird.❷Now think of your laptop, thinner than a brown-paper envelope, or your cellphone in the palm o"
+              "answer": "D",
+              "explanation": "题最为高效. 从题干的角度解答一如何得出正解，排除干扰找关键词:John Donahue 和 the public-sector system. 回文定位:根据关键词可定位至七段. ❸句. 比对匹配: 七段❶句提到，John Donahue 指出，西方行政部门的文化标准适合那些寻求安稳的人，但不利于业绩优异者； ❸句提到，不对业绩优异者给予奖励的公共部门体制可能才是美国面临的更大问题. 可见，John Donahue 认为当前公共部门体制缺乏激励机制，即他对公共部门的体制持否定态度，故 A 正确. 既然 J ohn Donahue 对该体制持否定态度，就不可能对其表示欣赏(appreciation)或漠不关心(indifference ), 故排除 B. Do 同时，John Donahue 虽然认为西方行政部门的文化标准适合那些寻求安稳的人，但这并不能表明他容忍(tolerance)这种体制，相反，其意在指出该体制的缺陷，故排除 C. 命题分析 -# Part B ■ 能番外牧音濒该部分选自 2011 年 6 月 29 日的 New Scientist (《新科学家》)，原文标题是“How Computers Can Cure Cultural Diabetes\"(《计算机如何治愈文化糖尿病》), 文章主要围绕在联网计算机时代多数人陷入被动消费模式 (下载模式)展开. 与 2010 年以及 2011 年试题不同的是，今年的题型再现了前几年出现的七选五题型. 对于这类题型，考生只要把握好设空前后的句与句. 段与段之间的逻辑关系，再根据具体的意群需要筛选出所需答案即可. 英汉对照 [1] ❶Think of those fleeting moments when you look out of an aeroplane window and realise that you are flying, higher than a bird. ❷Now think of your laptop, thinner than a brown-paper envelope, or your cellphone in the palm o",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2012/key_2012年真题逐题细解.txt",
+                "sourceText": "John Donahue's attitude towards the public- 约翰•唐纳修对公共部门体制的态度. 由希山瓜 sector system is one of. 是 o A. disapproval A. 不赞同七段 O©句 B. appreciation B. 欣赏原文未提 25 0 C. tolerance C. 容忍原文未提 D. indif",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

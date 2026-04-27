@@ -31,62 +31,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【26-30】FBMHE",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【26-30】FBMHE",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【26-30】FBMHE",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【26-30】FBMHE",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【26-30】FBMHE",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【31-35】MJHLN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【31-35】MJHLN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【31-35】MJHLN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【31-35】MJHLN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【31-35】MJHLN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -100,71 +190,161 @@
           "id": "q36",
           "number": 36,
           "stem": "Workplace norms pressure employees to overwork, deterring them from\ntaking paid time off.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【36-40】GFMDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "The overwhelming majority of employees attribute their stress mainly to low\npay and an excessive workload.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【36-40】GFMDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "According to Moen, flexibility gives employees better control over their\nwork and time.",
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【36-40】GFMDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "Flexibility resulting from the use of digital devices benefits employers\ninstead of employees.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【36-40】GFMDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "Research finds that if employees suffer from high stress, they will be less\nmotivated, less productive and more likely to quit.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【36-40】GFMDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "In-of£ice wellness programs may help reduce stress levels, but they are\nhardly an ultimate solution to the problem.",
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【41-45】KCJDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "Health problems caused by stress in the workplace result in huge public\nhealth expenses.",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【41-45】KCJDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "If employees respond quickly to their job assignments, the employer is likely\nto demand more from them.",
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【41-45】KCJDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "With technology everywhere in our life, it has become virtually impossible\nfor most workers to keep a balance between work and life.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【41-45】KCJDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "In America today, even teenagers suffer from stress, and their problem is\neven more serious than grown-ups'.",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+            "sourceText": "【41-45】KCJDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -187,8 +367,17 @@
                 "C": "It will prove to be a profitable business.",
                 "D": "It is a technology benefiting everyone."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+                "sourceText": "【46-50】BDCAA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q47",
@@ -200,8 +389,17 @@
                 "C": "Communications will take more diverse forms.",
                 "D": "The world will undergo revolutionary changes."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+                "sourceText": "【46-50】BDCAA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q48",
@@ -213,8 +411,17 @@
                 "C": "light their homes with stored solar energy.",
                 "D": "distribute power with wires and wooden poles."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+                "sourceText": "【46-50】BDCAA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q49",
@@ -226,8 +433,17 @@
                 "C": "promote innovation.",
                 "D": "encourage competition."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+                "sourceText": "【46-50】BDCAA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q50",
@@ -239,8 +455,17 @@
                 "C": "It will be easier to operate and maintain.",
                 "D": "It will have to be completely transformed."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+                "sourceText": "【46-50】BDCAA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         },
@@ -258,8 +483,17 @@
                 "C": "an explanation for social and cultural differences.",
                 "D": "a term to describe individual human characteristics."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+                "sourceText": "【51-55】CBCAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q52",
@@ -271,8 +505,17 @@
                 "C": "race as a biological term can explain human genetic diversity.",
                 "D": "genetics research should consider social and cultural variables."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+                "sourceText": "【51-55】CBCAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q53",
@@ -284,8 +527,17 @@
                 "C": "racial categories for genetic diversity could lead to wrong clinical predictions.",
                 "D": "discrimination against black people may cause negligence in clinical treatment."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+                "sourceText": "【51-55】CBCAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q54",
@@ -297,8 +549,17 @@
                 "C": "They throw out irrelevant concepts in their research.",
                 "D": "They examine all possible variables in their research."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+                "sourceText": "【51-55】CBCAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q55",
@@ -310,8 +571,17 @@
                 "C": "Doing away with racial discrimination is challenging.",
                 "D": "Racial terms are still useful in certain fields of study."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-3/paper_卷三_2016年12月大学英语六级真题及答案.txt",
+                "sourceText": "【51-55】CBCAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         }

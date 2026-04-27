@@ -1,0 +1,828 @@
+{
+  "id": "cet6-2015-06-3",
+  "type": "cet6",
+  "year": 2015,
+  "month": 6,
+  "set": 3,
+  "title": "2015年6月大学英语六级真题(第3套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay commenting on the saying“If you cannot do great things, do small things in a great way.\"You can cite examples to illustrate your point of view.You should write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "It is well paid.",
+            "B": "It is stimulating.",
+            "C": "It is demanding.",
+            "D": "It is fairly secure."
+          },
+          "answer": "C",
+          "explanation": "〗 在对话的最后， 女士说男士可能需要作出艰难的选择了， 男士说幸运的是他目前还不必作出任何有关决定， 他甚至还没有接到任何通知面试的电诺。 由此可知， 男士目前正处在找工作的阶段， 故 C 项为正确答案。 B 项的干扰性较强， 对话中男士说他目前还没有收到通知面试的电话， 也就是说他接下来可能会被通知面试， 也可能不会， 故 B 项可排除。 其他两项对话中均未提及， 都可排除。 Conversation Two W: Good moming， High Mountain Savings and Loan. How may we help you? [ 5 ]、 Mel",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "听到的问题作出进一步的判断。 【解析】 在对话的最后， 女士说男士可能需要作出艰难的选择了， 男士说幸运的是他目前还不必作出任何有关决定， 他甚至还没有接到任何通知面试的电诺。 由此可知， 男士目前正处在找工作的阶段， 故 C 项为正确答案。 B 项的干扰性较强， 对话中男士说他目前还没有收到通知面试的电话， 也就是说他接下来可能会被通知面试， 也可能不会， 故 B 项可排除。 其他两项对话中均未提及， 都可排除。 Conversation Two W: Good moming， High Mountain Savings and Loan. How may we h",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "A quick promotion.",
+            "B": "Free accommodation.",
+            "C": "Moving expenses.",
+            "D": "A lighter workload."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "He has difficulty communicating with local people.",
+            "B": "He has to spend a lot more traveling back and forth.",
+            "C": "He has trouble adapting to the local weather.",
+            "D": "He has to sign a long-term contract."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "The woman will help the man make a choice.",
+            "B": "The man is going to attend a job interview.",
+            "C": "The man is in the process of job hunting.",
+            "D": "The woman sympathizes with the man."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "To inquire about the interest rates at the woman’s bank.",
+            "B": "To inquire about the current financial market situation.",
+            "C": "To see if he can find a job in the woman’s company.",
+            "D": "To see if he can get a loan from the woman’s bank."
+          },
+          "answer": "B",
+          "explanation": "析 〗 在对话一开始， 男士就说他想去美国工作， 但是那儿的工资水平不是很高。 女士说她原以为美国的工资水平很高， 又问那里是否应该有一些附加福利。 男士给予了肯定回答， 并说美国的工作具有激励性， 有一些好处。 由此可知， 四个选项中只有 B 项与此意思一致， 为正确答案， 同时可排除 A 项。 C 项对话中未提及， D 项是男士对葡萄牙的工作的描述， 都可排除。 〖 【听前预测】 四项均为名词短语， 均表示某种好处或优势， 其中两项提到了与工作相关的信息 （quick promotion, lighter workload)o 结论： 该题以 what 开头进行提问， 可能涉及某个职位的优势或者给某人带来的好处。 听音时应重点关注与四个选项的内容及工作职位等有关的信息， 然后根据问题作出进一步的判断。 【解析】 在对话中， 当双方谈论完美国和葡萄牙的工作之后， 男士又提到了位于圣保罗的工作， 说如果他选择这份工作的话将会得到晋升。 由此可知， 快速晋升将会是男士接受圣保罗的职位的好处。 B、 C 两项都是男士在谈论葡萄牙的职位时提到的， D 项对话中未提及， 三项均可排除。 〖 【听前预测】 四项均以开头， 其中两项含有表示困",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "6 ． 7 ． 8 ． But she never stopped making efforts to leam more about different passengers， needs or to provide them with good service and useful help. never st0P do ． 指 “ ． 始终未停止做某事， 一",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "There is no difference between rate and yield.",
+            "B": "The man has a good understanding of rate and yield.",
+            "C": "The rate is the percentage of simple interest paid on the money.",
+            "D": "The yield is only influenced by the amount of money."
+          },
+          "answer": "A",
+          "explanation": "〕 在对话的开头， 女士说她是高山储蓄与贷款银行的员工， 男士接着说自己正在寻找可能提供最高利率的短期储蓄开设账户， 由此可知， 男士打电话的目的是想咨询女士所在银行的利率， 故 A 项正确。 其他三项对话中均未提及， 都可排除。 〖 【听前预测】 两项出现了 rate and yield, 一项出现了 rate， 一项出现了 yreldo 推测题目应该是对 rate 和 yield 的相关信息进行考查。 听音时应重点关注相关信息， 然后根据问题作出进一步的判断。 【解析】 在对话中， 当女士向男士说明了几种不同存款额及其利率和收益率之后， 男士说自己不太明白利率和收益率的区别， 接着女士进行了解释： 利率是所支付的纯利息的百分比， 而收益率则是指如果男士将钱存入她们银行至少一年， 在利率不变的情况下将享受的全部收益的比率。 由此可知， 选项 C 为正确答案。 A 项和 B 项与对话内容不符， 可排除。 根据对话内容可知， 利率的变化会影响收益率， 所以 D 项错误。 〖 【听前预测】 四项均为名词短语， 两项含有表示期限的词语 （long · term， three-month)， 两项含有表示收益的词语 (high-interest, high-yield）， 两项提及投， 两项提及存款 (deposit)o 结论： 该题可能以 what 开头进行提问， 提问内容涉及投资或存款， 可能与投资或存款的期限或收益相关。 听音时应重点关注四个选项的关键信息， 然后根据所听到的问题作出进一步的判断。 【解析】 在对话中， 女士向男士介绍了几款不同产品的利率和收益率， 同时解释了利率和收益率的区别， 男士说他对长期投资不感兴趣， 觉得存期三个月就刚好。 由此可知， 男士对存款三个月最感兴趣， 故 B 项为正确答案， 同时可排除 A 项。 C、 D 两项中的 any 太过绝对， 比较容易排除。 〖 【听前预测】 四项均以 she 开头， 且动作的对象均为 him。 两项提到了表示提供的词语 （gave， offered",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "最后根据所听到的问题作出进一步的判断。 〖 解析 〕 在对话的开头， 女士说她是高山储蓄与贷款银行的员工， 男士接着说自己正在寻找可能提供最高利率的短期储蓄开设账户， 由此可知， 男士打电话的目的是想咨询女士所在银行的利率， 故 A 项正确。 其他三项对话中均未提及， 都可排除。 〖 【听前预测】 两项出现了 rate and yield, 一项出现了 rate， 一项出现了 yreldo 推测题目应该是对 rate 和 yield 的相关信息进行考查。 听音时应重点关注相关信息， 然后根据问题作出进一步的判断。 【解析】 在对话中， 当女士向男士说明了几种不同存款额及其利率和收益",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "Long-term investment.",
+            "B": "A three-month deposit.",
+            "C": "Any high-interest deposit.",
+            "D": "Any high-yield investment."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "She treated him to a meal.",
+            "B": "She gave him loans at low rates.",
+            "C": "She offered him dining coupons.",
+            "D": "She raised interest rates for him."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "It is a Portuguese company selling coffee in New York.",
+            "B": "Its most important task is to conduct coffee studies.",
+            "C": "It represents several countries that export coffee.",
+            "D": "Its role is to regulate international coffee prices."
+          },
+          "answer": "B",
+          "explanation": "〗 在对话一开始， 男士就说他想去美国工作， 但是那儿的工资水平不是很高。 女士说她原以为美国的工资水平很高， 又问那里是否应该有一些附加福利。 男士给予了肯定回答， 并说美国的工作具有激励性， 有一些好处。 由此可知， 四个选项中只有 B 项与此意思一致， 为正确答案， 同时可排除 A 项。 C 项对话中未提及， D 项是男士对葡萄牙的工作的描述， 都可排除。 〖 【听前预测】 四项均为名词短语， 均表示某种好处或优势， 其中两项提到了与工作相关的信息 （quick promotion, lighter workload)o 结论： 该题以 what 开头进行提问， 可能涉及某个职位的优势或者给某人带来的好处。 听音时应重点关注与四个选项的内容及工作职位等有关的信息， 然后根据问题作出进一步的判断。 【解析】 在对话中， 当双方谈论完美国和葡萄牙的工作之后， 男士又提到了位于圣保罗的工作， 说如果他选择这份工作的话将会得到晋升。 由此可知， 快速晋升将会是男士接受圣保罗的职位的好处。 B、 C 两项都是男士在谈论葡萄牙的职位时提到的， D 项对话中未提及， 三项均可排除。 〖 【听前预测】 四项均以开头， 其中两项含有表示困难的词语 （di 历 cul 呼， trouble)， 两项含有与不得不做某事相关的词语 （hasto）， 两项含有表示当地的词语 （(l)。 结论： 该题可能对与男士有关的信息进行提问， 可能涉及在异地工作的困难或弊端。 听音时， 应将听音重点放在各选项的关键词 （commumcating with local people, spend a 血 more traveling back and f0 h， adapting to the 10ca1 weather， sign a long-term contract) 上， 然后根据问题作出进一步的判断。 【解析】 当男士与女士谈论完去巴西工作的好处之后， 接着说圣保罗的这份工作也有弊端， 他必须在那儿工作五年，",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "始， 男士就说他想去美国工作， 但是那儿的工资水平不是很高。 女士说她原以为美国的工资水平很高， 又问那里是否应该有一些附加福利。 男士给予了肯定回答， 并说美国的工作具有激励性， 有一些好处。 由此可知， 四个选项中只有 B 项与此意思一致， 为正确答案， 同时可排除 A 项。 C 项对话中未提及， D 项是男士对葡萄牙的工作的描述， 都可排除。 〖 【听前预测】 四项均为名词短语， 均表示某种好处或优势， 其中两项提到了与工作相关的信息 （quick promotion, lighter workload)o 结论： 该题以 what 开头进行提问， 可能涉及某个职位",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "The freezing weather in Brazil.",
+            "B": "The impact of global warming.",
+            "C": "The increased coffee consumption.",
+            "D": "The fluctuation of coffee prices."
+          },
+          "answer": "A",
+          "explanation": "【解题思路】 四项均为名词短语， 两项含有 coffee， 两项含有与天气或气候有关的内容 (freezing weather， global warming) 结论： 本题很可能考查与咖啡有关的某种情况， 可能涉及天气或气候。 【解析】 短文前半部分明确提到， 巴西寒冷的天气让咖啡作物大幅度减产， 因而造成了全球的咖啡短缺， 故选项 A 正确。 B、 C 两项短文中未提及， D 项应是咖啡减产的后果， 而不是原因， 颠倒了因果关系， 故这三项均可排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "e 很容易定位到短文开头部分， 此处提到， 瓦金， 迪 ． 席尔瓦工作的这家国际咖啡机构代理包括巴西在内的几个咖啡出口国的业务， 故选项 C 正确。 其他三个选项短文中未提及， 均可排除。 it 指代的是该国际咖啡机构。 10 · A 〖 解【解题思路】 四项均为名词短语， 两项含有 coffee， 两项含有与天气或气候有关的内容 (freezing weather， global warming) 结论： 本题很可能考查与咖啡有关的某种情况， 可能涉及天气或气候。 【解析】 短文前半部分明确提到， 巴西寒冷的天气让咖啡作物大幅度减产， 因而造成了全球的咖啡短缺， 故",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "He is doing a bachelor’s degree.",
+            "B": "He is young, handsome and single.",
+            "C": "He is a heavy coffee drinker.",
+            "D": "He is tall, rich and intelligent."
+          },
+          "answer": "B",
+          "explanation": "【解题思路】 四项均以 he 开头， 都是 “ 主系表 ” 结构的句子。 结论： 本题很可能询问 he 是怎样一个人。 听音时要留意 he 的指代对象。 【解析】 短文后半部分提到， 瓦金 · 迪 · 席尔瓦 27 岁， 年轻、 英俊而且单身， 故选项 B 正确。 bachelor 一词既可指 “ 未婚男子， 单身汉 \"， 又有 “ 学士 \" 的意思， 因此选项 A 是干扰项， 听音时要特别注意 bachelor 在本文中的意思。 C、 D 两项短文中未提及， 故排除。 he 指代的是 Vaukm de Silvao",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "， global warming) 结论： 本题很可能考查与咖啡有关的某种情况， 可能涉及天气或气候。 【解析】 短文前半部分明确提到， 巴西寒冷的天气让咖啡作物大幅度减产， 因而造成了全球的咖啡短缺， 故选项 A 正确。 B、 C 两项短文中未提及， D 项应是咖啡减产的后果， 而不是原因， 颠倒了因果关系， 故这三项均可排除。 11. B 〖 解【解题思路】 四项均以 he 开头， 都是 “ 主系表 ” 结构的句子。 结论： 本题很可能询问 he 是怎样一个人。 听音时要留意 he 的指代对象。 【解析】 短文后半部分提到， 瓦金 · 迪 · 席尔瓦 27 岁， 年",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "A visit to several coffee-growing plantations.",
+            "B": "Coffee prices and his advertising campaign.",
+            "C": "A vacation on some beautiful tropical beach.",
+            "D": "A quick promotion and a handsome income."
+          },
+          "answer": "B",
+          "explanation": "岬@尹庳慕螭年鼕相烟内 〖 解【解题思路】 两项以 it 开头， 两项以 its 开头， 四项均含有 coffee 结论： 本题很可能考查与咖啡有关的内容。 又由四个选项开头的 it/its 可以推断， 关于咖啡的内容很可能与 it 有关。 听音时要留意 it 指代的事物 【解析】 根据题干中的 international coffee institute 很容易定位到短文开头部分， 此处提到， 瓦金， 迪 ． 席尔瓦工作的这家国际咖啡机构代理包括巴西在内的几个咖啡出口国的业务， 故选项 C 正确。 其他三个选项短文中未提及， 均可排除。 it 指代的是该国际咖啡机构。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "文后半部分提到， 瓦金 · 迪 · 席尔瓦 27 岁， 年轻、 英俊而且单身， 故选项 B 正确。 bachelor 一词既可指 “ 未婚男子， 单身汉 \"， 又有 “ 学士 \" 的意思， 因此选项 A 是干扰项， 听音时要特别注意 bachelor 在本文中的意思。 C、 D 两项短文中未提及， 故排除。 he 指代的是 Vaukm de Silvao 12 · B 〖 解【解题思路】 四项均为名词短语， 且阐述的都是与某人有关的事情或活动",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "They were held up in a traffic jam.",
+            "B": "They boarded a wrong coach in a hurry.",
+            "C": "They were late for the first morning bus.",
+            "D": "They were delayed by the train for hours."
+          },
+          "answer": "D",
+          "explanation": "【解题思路】 四项均以 they 开头， 四项提到的均是不好的状况， 三项提到了交通工具。 结论： 本题考查的内容应该是关于 they 在旅途中遇到的麻烦， 与交通工具有关。 听录音时应将重点放在选项的关键词组上 （a c jam， wrong coach， late for the 行 t moming bus， were delayed by the train)o 【解析】 文章提到这对夫妻本应该知道长途火车通常会晚点几个小时， 应该乘坐一趟时间更早的火车， 但是他们却没有这样做， 所以错过了游轮， 可以得出 D 项为正确答案。 其他三项均与原文内容不符， 故排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "r dO in the future for a vacation? 整体预测 ati 禾致推断， 禾很可能与行看、 根 cj、、 g h 《1 亟 bu 利， 听录音时需特别注意相关的内容， 洼重对短文细节信息的提取。， 13 · D 〖 解【解题思路】 四项均以 they 开头， 四项提到的均是不好的状况， 三项提到了交通工具。 结论： 本题考查的内容应该是关于 they 在旅途中遇到的麻烦， 与交通工具有关。 听录音时应将重点放在选项的关键词组上 （a c jam， wrong coach， late for the 行 t moming bus， were delayed",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "It was canceled because of an unexpected strike.",
+            "B": "It was the most exciting trip they ever had.",
+            "C": "It was spoiled by poor accommodations.",
+            "D": "It was postponed due to terrible weather."
+          },
+          "answer": "A",
+          "explanation": "【解题思路】 四项均以 it 开头， 其中三项都在描述不好的状况 （unexpec d strike， poor accommodations， terrible weather)o 结论： 本题考查的内容应该还是与某次旅行有关， 由选项内容可知， 这次旅行很糟糕。 听录音时应将重点放在关动词 （canceled, spoiled， pos 印 oned） 以及描述性短语上。 【解析】 题目问关于今年的旅行， 说话者提到了什么。 文章提到他们选择了有经验的旅行社策划了轻松的旅行， 但是完全没想到航空公司会遭遇罢工， 可以得出 A 项为正确答案。 其他三项原文均未提及， 故排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "in)o 【解析】 文章提到这对夫妻本应该知道长途火车通常会晚点几个小时， 应该乘坐一趟时间更早的火车， 但是他们却没有这样做， 所以错过了游轮， 可以得出 D 项为正确答案。 其他三项均与原文内容不符， 故排除。 14 ． A 〖 解【解题思路】 四项均以 it 开头， 其中三项都在描述不好的状况 （unexpec d strike， poor accommodations， terrible weather)o 结论： 本题考查的内容应该还是与某次旅行有关， 由选项内容可知， 这次旅行很糟糕。 听录音时应将重点放在关动词 （canceled, spoiled， p",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Go overseas.",
+            "B": "Stay at home.",
+            "C": "Take romantic cruises.",
+            "D": "Take escorted trips."
+          },
+          "answer": "B",
+          "explanation": "【解题思路】 四项均为动词短语， 两项提及地点。 结论： 本题考查的内容应该是某个细节， 涉及具体的动作， 可能还与地点有关。 【解析】 题目问说话者在以后的假期中会做什么。 文章提到他们不想去任何地方了， 在未来相当长的一段时间里都计划在家里度过假期， 可以得出 B 项为正确答案。 Section C Recording One 〖 昕力原文 〗 Mode 广 G00d evemng， ladies and gentleman. T0day we are honored to have Professor Barnett wh0 is an expert in dolphin study. And he will introduce to us the umque characteristics and livmg condiuons of dolphins. Professor Barnett， please 尸 r 可 or Bamett: Thank you for your mtroduction， Lisa. Wel",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "语上。 【解析】 题目问关于今年的旅行， 说话者提到了什么。 文章提到他们选择了有经验的旅行社策划了轻松的旅行， 但是完全没想到航空公司会遭遇罢工， 可以得出 A 项为正确答案。 其他三项原文均未提及， 故排除。 15 · B 〖 解【解题思路】 四项均为动词短语， 两项提及地点。 结论： 本题考查的内容应该是某个细节， 涉及具体的动作， 可能还与地点有关。 【解析】 题目问说话者在以后的假期中会做什么。 文章提到他们不想去任何地方了， 在未来相当长的一段时间里都计划在家里度过假期， 可以得出 B 项为正确答案。 Section C Recording One",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "Their extraordinary intelligence.",
+            "B": "The special bones in their fins.",
+            "C": "The way they communicate.",
+            "D": "The way they get water."
+          },
+          "answer": "C",
+          "explanation": "【解题思路】 四项均为名词性短语， 各项的关键词汇分别为 extraordinary intelligence, special bones in theirfins， way they communicate 和 way they get watero 根据这些关键词汇可推测题目可能考查的是某一特征或行为方式。 听音时应重点关注相关信息。 【解析】 本题问的是海豚与其他海洋动物的不同之处。 原文中提及 “ 海豚有别于其他海洋动物的一个独一无二的特点是它们的交流方式，，， 一它们通过口哨声或声波来观察周围的环境和游动。 这一点使它们有别于许多其他海洋动物 ”， 故选 C 项。 选项中的 the way they communicate 是原词复现。 需要注意的是， 原文中另有一处也提到了海豚的独特之处， 即 “ 海豚的另一个独特之处在于它们的鳍骨与人类手臂及手掌的骨骼相似 \"， 但题目问的是海豚与其他海洋动物的不同之处， 所以 B 项不正确。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "people do with dolphins? 19 · What， s happening t0 the dolphins? 巛快速浏奬备巫涉巫《根据帚@《№n 崮§@些《廊示如 bi 叫 0 “ 等唧汇可匆 0 肉容很可熊跟某种动相 16 · C 〖 解【解题思路】 四项均为名词性短语， 各项的关键词汇分别为 extraordinary intelligence, special bones in theirfins， way they communicate 和 way they get watero 根据这些关键词汇可推测题目可能考查的是某一特征或行为方式。 听音时应重点关注相关信息。 〖 解析",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "They made them swim around their ships.",
+            "B": "They painted their images on some items.",
+            "C": "They hunted them in great numbers.",
+            "D": "They trained them to perform tricks."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "They are hunted in many places except Japan.",
+            "B": "They have been protected thanks to literature and film.",
+            "C": "They have adapted to the life in captivity.",
+            "D": "They are losing their habitat and clean sea."
+          },
+          "answer": "D",
+          "explanation": "【解题思路】 四项均为以 they 开头的句子， 且描述的内容均与 they 的生存状态相关 （“ hunted， have been protected, have adapted to 和 are losing 山 e habitat)o 听音时应重点关注与各选项中的关键词汇有关的内容， 并将其与题干问题相对应。 【解析】 本题问的是海豚目前的遭遇， 原文中提及 “ 除了受到围猎捕杀， 它们还面临着栖息地丧失和海洋污染的威胁 \"， 由此可知答案为 D 项。 其中， losing their habitat and clean sea 是对原文中 habitat loss and marine № n 的同义替换。 C 项干扰性较强， 但根据原文中的 “ 海豚有时会被人工驯养， 接受训练表演特技， 但海豚的繁殖成功率极低， 被捕获的海豚通常在数月之内就会死去 \" 可知此项有误， 应排除。 Recording Two 〖 昕力原文 〗 Bntish scientists are prepanng to launch trials Of a radical new way to fight cancer， which kills tumours by infecung them with viruses like the common cold. If successfu",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "tems 对应原文中的 their vases。 A 项干扰性较强， 原文第一段提及 “ 在古希腊， 水手们准备出海远行时如果看到海豚在船边畅游， 他们相信自己将会交上好运 ”， 并不是让海豚在自己的船边畅游， 故排除 A 项。 C 项和 D 项都不符合题意， 也可排除。 · 20 巧年 6 月六级真题 （第三套） ． 14 19 · D 〖 解【解题思路】 四项均为以 they 开头的句子， 且描述的内容均与 they 的生存状态相关 （“ hunted， have been protected, have adapted to 和 are losing 山 e habitat)o 听音时应重点关注与各选",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "It won’t have any side-effect.",
+            "B": "It can kill drug-resistant tumours.",
+            "C": "It can be as effective as conventional treatments.",
+            "D": "It can stop cancer cells from spreading in the body."
+          },
+          "answer": "B",
+          "explanation": "【解题思路】 四项均为以 it 开头的句子， 再根据各选项中的关信息 （side-effect， kill drug-resistant tumours， effective 和 stop cancer cells 什 om spreadmg) 可推测此题很可能考查的是某种疗法或药物的功效。 听音时应首先明确 it 的指代对象， 并将听音重点放在与选项中的关键信息有关的内容上。 【解析】 本题问的是病毒疗法可能具有的优势。 原文中提到 “ 有意思的是， 这些病毒可能具有这么一种优势一一它们能杀死具有抗药性的肿瘤 ”， 故选 B 项。 选项中的 it 指代的是 therapy， 而 possible advantage 是对原文中 possibility that they may have an advantage 的同义替换， kill drug-resistant tumours 是原词复现。 其他三项均与文意不符， 故排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "． What does Prof. Seymour want t0 d0 with virus therapy? 快速浏览各选项 《稂据 s c 殴、 《諞， 《ehei py 示 - 灬、“。\"d，密@鼕驛枞出齐咿鼕浒邓 20 ． B 〖 解【解题思路】 四项均为以 it 开头的句子， 再根据各选项中的关信息 （side-effect， kill drug-resistant tumours， effective 和 stop cancer cells 什 om spreadmg) 可推测此题很可能考查的是某种疗法或药物的功效。 听音时应首先明确 it 的指代对象， 并将听音重点放在与选项中",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "How to find a way to deliver viruses to tumours effectively.",
+            "B": "How to inject viruses directly into tumours.",
+            "C": "How to allow viruses to do what chemotherapy drugs do.",
+            "D": "How to strengthen the body’s immune system."
+          },
+          "answer": "A",
+          "explanation": "【解题思路】 四项均为以 how to 开头的词组， 四项的关键词汇分别为： find a way to viruses， inJect vimses drrectly， a110w viruses t0 d0 和 strengthen l. tnmune system 其中有三项提到了病毒 (viruses)o 听音时要重点关注与各项关键词汇有关的内容。 【解析】 讲话中提及 “ 这种疗法的巨大困难始终在于需要找到一种方法将病毒通过血流输送到肿瘤， 并确保其在输送过程中不至于被身体的免疫系统所破坏 ”， 由此可知答案为 AO 题干中的 the big challenge 是对原文中 The big hurdle 的同义替换， 而 find a way to deliver viruses to tumours 是原词复现。 其他三项均不符合文意， 故排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "t they may have an advantage 的同义替换， kill drug-resistant tumours 是原词复现。 其他三项均与文意不符， 故排除。 15 · 20 巧年 6 月六级真题 （第三套） · 21. A 〖 解【解题思路】 四项均为以 how to 开头的词组， 四项的关键词汇分别为： find a way to viruses， inJect vimses drrectly， a110w viruses t0 d0 和 strengthen l. tnmune system 其中有三项提到了病毒 (viruses)o 听音时要重点关注与各项关键词汇有关的内容",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "To use it to cure 75% of the patients with malignant cancers.",
+            "B": "To make it accepted by the patients with incurable cancers.",
+            "C": "To apply it to those with secondary cancers.",
+            "D": "To apply it to treat all kinds of cancers."
+          },
+          "answer": "D",
+          "explanation": "【解题思路】 四项均为动词不定式短语， 且均包含代词 ito 再结合各项中的关键信息 （mali ant cancers, incurable cancers， secondary cancers 和 kinds ofcancers) 可知代词 it 与各种类型的癌症有关。 首先应听清 it 的指代对象， 并重点关注与选项中的关键信息有关的内容。 【解析】 本题问的是西摩教授对病毒疗法应用前景的展望。 原文中提及 “ 尽管这种疗法最初会被用于治疗传统疗法不起作用的癌症， 但西摩教授希望有朝一日它能适用于治疗各种癌症 ”， 由此可知正确答案为 DO 选项中的 it 指代的是 virus therapy。 其他三项都不符合文意， 均可排除。 Recording Three 〖 昕力原文 〗 Amazon. com launched its KindIe library-lending service in the United States. [ 23 Millions Of users Of the KindIe reader and app can now borrow KindIe b00 from their local public library. The service will be available through the websites of more 山皿 eleven thousand 1 al libraries across the country Users of other devices have already been able to borrow library books. Experts say Amazon， s entry is likely t0 reopen a debate between publishers and libraries over e bOOk lending. Bill RosenbIatt is president Of Giant Steps Media TechnoIogy Strateyes",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "干中的 the big challenge 是对原文中 The big hurdle 的同义替换， 而 find a way to deliver viruses to tumours 是原词复现。 其他三项均不符合文意， 故排除。 22 · D 〖 解【解题思路】 四项均为动词不定式短语， 且均包含代词 ito 再结合各项中的关键信息 （mali ant cancers, incurable cancers， secondary cancers 和 kinds ofcancers) 可知代词 it 与各种类型的癌症有关。 首先应听清 it 的指代对象， 并重点关注与选项中的关键信息有关的内容。 〖 解",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "It allows users of some Kindle devices to borrow books from local libraries.",
+            "B": "It has benefited more than eleven thousand local libraries in the US.",
+            "C": "It has led to a debate between publishers and libraries over e-book lending.",
+            "D": "It aims at allowing everyone to read books anytime they like."
+          },
+          "answer": "A",
+          "explanation": "： 第六段第二句指出： “ 这些大学应该创造出最广泛的社会效益、 经济效益和环境效益。 ” 与选项 A 表述一致， 故选 AO",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "（第三套） · 集中： 不到 25 ％ 的大学获得了 75 ％ 的研究经费。 ” 由此可以得出， policy interventions 在句中的含义是国家将研究经费投入到数量有限的大学中去， 即资源集中在数量有限的大学， 故选 AO 定位： 题干信息词 research-led 最先出现在文章第五段， 但是本题所考查内容在第五段没有出现。 而文章第六段再次出现了 research-led， 可知答案在第六段。 解析： 第六段第二句指出： “ 这些大学应该创造出最广泛的社会效益、 经济效益和环境效益。 ” 与选项 A 表述一致， 故选 AO",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "They can purchase any kind of media product.",
+            "B": "They can lend books to readers repeatedly.",
+            "C": "They can deal with digital products as they like.",
+            "D": "They can limit the time the readers keep a certain book."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "By allowing libraries to purchase e-books for lending in perpetuity.",
+            "B": "By adopting the technology known as digital rights management.",
+            "C": "By requiring libraries to purchase more of its e-book.",
+            "D": "By persuading the critics to support the publishers."
+          },
+          "answer": "B",
+          "explanation": "【解题思路】 四项均以 it 开头， 各选项中的关键信息分别为： allows. . . Kindle devices to borrow books， ． 20 巧年 6 月六级真题 （第三套） · 16 ne 血 ed， 」 libraries， led to a debate 和 allowing„. read bookso 听音时应首先辨明 it 的指代对象， 并将听音重点放在与选项中的关键信息有关的内容上。 【解析】 题干问的是亚马逊 n e 图书馆借阅服务的相关信息， 原文中提及 “ 数以百万计的 Kindle 阅读器及应用软件用户如今可以从当地的公共图书馆借阅 Kindle 电子书了 ”， 由此可知答案为 A0 其中， users ofsome Kindle devrces 是对原文中 users ofthe Kindle and app 的同义替换。 此外， 原文中提及 “ 亚马逊的进入很可能会重新引发出版商和图书馆之间关于电子书借阅的争论 ”， C 项干扰性较强， 但并非 “ 已经引发 ”， 故 C 项不合文意。 另外两项均是对原文中出现的其他信息的曲解， 故排除。 〖 解【解题思路】 四项均以 they 开头， 根据各选项中的关键信息 （can purchase, can lend， can deal with， can li 皿 t） 可推测此题考查的是 they 所指代对象能做的事情或采取的行动。 听音时应首先辨明 they 的指代对象， 并将听音重点放在与选项中的关键信息有关的内容上。 【解析】 本题问的是图书馆根据首次出售法能做什么。 原文中提及 “ 依据该法规， 图书馆可以将图书重复借出， 而不必每次都向出版商支付费用。 但比尔 · 罗森布拉特指出这不包括数字产品 \"， 由此可知 B 项正确。 其他三项均不符合文意， 应排除。 〖 解【解题思路】 四项均为 “ by + 动名词短语 \" 的结构， 表方式。 A 项和 C 项的动作对象是图书馆 (libranes)， B 项的动作对象是数字产品版权管理技术 （technology known as",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "关键信息有关的内容上。 【解析】 本题问的是图书馆根据首次出售法能做什么。 原文中提及 “ 依据该法规， 图书馆可以将图书重复借出， 而不必每次都向出版商支付费用。 但比尔 · 罗森布拉特指出这不包括数字产品 \"， 由此可知 B 项正确。 其他三项均不符合文意， 应排除。 〖 解【解题思路】 四项均为 “ by + 动名词短语 \" 的结构， 表方式。 A 项和 C 项的动作对象是图书馆 (libranes)， B 项的动作对象是数字产品版权管理技术 （technology known as digital 哋 h management）， 而 D 项的动作对象是评论界 （c cs",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select\none word for each blank from a list of choices given in a word bank following the passage.\nRead the passage through carefully before making your choices. Each choice in the bank\nis identified by a letter. Please mark the corresponding letter for each item on Answer\nSheet 2 with a single line through the centre. You may not use any of the words in the\nbank more than once.\nQuestions 26 to 35 are based on the following passage.",
+      "wordBank": {
+        "K": "professionals",
+        "L": "slash",
+        "M": "specializing",
+        "N": "spectators",
+        "O": "subsequently",
+        "A": "accountable",
+        "B": "capacity",
+        "C": "controlled",
+        "D": "entail",
+        "E": "forged",
+        "F": "incentives",
+        "G": "occasionally",
+        "H": "overstated",
+        "I": "persisting",
+        "J": "pessimistic"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "It is best to use an EMV card for international travel.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Personal information on credit and debit cards is increasingly vulnerable to hacking.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "The French card companies adopted EMV technology partly because of inefficient\ntelephone service.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "While many countries use the smarter EMV cards, the U.S. still clings to its old\nmagstripe technology.",
+          "answer": "C",
+          "explanation": "： 注意抓住题干中的关键词 many countries use the smarter EMV cards 和 01d magstripe technologyo 文中论及很多国家使用更智能的信用卡及其与美国的对比的内容是在 C 段。 C 段第三句提到， 当美国的信用卡还在使用 40 年前的磁条技术来处理交易时， 世界上的其他很多国家则使用了更加智能的卡 · 2015 年 6 月六级真题 （第三套） · 20 片。 这句话刚好是对题干的同义转述。 原文中的 much ofthe rest ofthe world 对应题干中的 many co 皿 es； 原文中的 the 40-year-old 对应题干中的 its oldo 解析： 注意抓住题干中的关键词 attempts are being made 和 prevent hackers 什 om carrying out identity 朊文中提到人们正在努力阻止黑客盗用他人身份的只有 A 段， 该段第三句提到了银行、 执法部门和技术公司一致努力， 试图挫败一个盗用他人身份的黑客网络。 题干是对原文的同义转述， 因此答案为 AO 题干中的 attempts are being made 对应原文中的 “ all trying to； identity 是原词复现。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "无障碍地进行信用卡认证） 效率极其低下， 而且资费更是高得离谱。 因此题干是对原文的同义转述。 题干中的 panly because of 对应原文中的 in part because； inefficient 是原词复现。 39 · C 解析： 注意抓住题干中的关键词 many countries use the smarter EMV cards 和 01d magstripe technologyo 文中论及很多国家使用更智能的信用卡及其与美国的对比的内容是在 C 段。 C 段第三句提到， 当美国的信用卡还在使用 40 年前的磁条技术来处理交易时， 世界上的其他很多国家则使用了更加智能的卡 ·",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Attempts are being made to prevent hackers from carrying out identity theft.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Credit cards are much safer to use than debit cards.",
+          "answer": "I",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "一致努力， 试图挫败一个盗用他人身份的黑客网络。 题干是对原文的同义转述， 因此答案为 AO 题干中的 attempts are being made 对应原文中的 “ all trying to； identity 是原词复现。 41. I 解析： 注意抓住题干中的关键词 credit cards “ safero 文中把信用卡和借记卡的安全性相比较的只有 I 段。 I 段首句说信用卡通常比借记卡的责任保护性更强， 最后埃里克， 阿达莫夫斯基所说的话也体现了这两者的对比： “ 考虑到责任承担问题， 我会更倾向于使用信用卡， 而不是借记卡。 ” 因此使用信用卡比使用借记卡要安全得多， 题",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Big banks have been reluctant to switch to more secure technology because of the\nhigher costs involved.",
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+            "sourceText": "使用信用卡， 而不是借记卡。 ” 因此使用信用卡比使用借记卡要安全得多， 题干是对原文的同义概括。 题干中的 much safer to use 对应原文中的 have better liability protectiono 42 ． D 解析： 注意抓住题干中的关键词 big banks、 reluctant、 more secure technology 和 higher costs。 文中论及大型银行不愿意转用更加安全的技术的内容是在 D 段。 D 段首句即提出疑问： 为什么大银行尚未采用这种更加安全的技术呢？ 之后引用戴维， 罗伯逊的话谈到这完全是出于成本考虑。 因此题干是对原",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "The potential liability for retailers using magstripe is far more costly than upgrading\ntheir registers.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "The use of magstripe cards by American retailers leaves consumers exposed to the\nrisks of losing account information.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Consumers will be a driving force behind the conversion from magstripe to EMV\ntechnology.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nWhat’s the one word of advice a well-meaning professional would give to a recent\ncollege graduate? China? India? Brazil? How about trade?\nWhen the Commerce Department reported last week that the trade deficit in June\napproached $50 billion, it set off a new round of economic doomsaying. Imports, which\nsoared to $200.3 billion in the month, are subtracted in the calculation of gross domestic\nproduct. The larger the trade deficit,the smaller the GDP. Should such imbalances\ncontinue, pessimists say, they could contribute to slower growth.\nBut there's another way of looking at the trade data.Over the past two years, the\nfigures on imports and exports seem not to signal a double-dip recession--a renewed\ndecline in the broad level of economic activity in the United States-but an economic\nexpansion.\nThe rising volume of trade —more goods and services shuttling in and out of the\nUnited States — is good news for many sectors. Companies engaged in shipping,\ntrucking,rail freight,delivery, and logistics( 物流) have all been reporting better than\nexpected results. The rising numbers signify growing vitality in foreign markets—when\nwe import more stuff, it puts more cash in the hands of people around the world, and U.S.\n\nexports are rising because more foreigners have the ability to buy the things we produce\nand market. The rising tide of trade is also good news for people who work in trade-\nsensitive businesses, especially those that produce commodities for which global demand\nsets the price-agricultural goods, mining, metals, oil.\nAnd while exports always seem to lag, U.S. companies are becoming more involved\nin the global economy with each passing month.General Motors sells as many cars in\nChina as in America each month. While that may not do much for imports, it does help\nGM's balance sheet—and hence makes the jobs of U.S.-based executives more stable.\nOne\ngreat\nchallenge\nfor\nthe\nU.S.\neconomy\nis\nslack\ndomestic\nconsumer\ndemand.Americans are paying down debt, saving more, and spending more carefully.\nThat's to be expected, given what we've been through. But there’s a bigger challenge. Can\nU.S.-based businesses,large and small, figure out how to get a piece of growing global\ndemand? Unless you want to pick up and move to India, or Brazil, or China, the best way\nto do that is through trade. It may seem obvious, but it's no longer enough simply to do\nbusiness with our friends and neighbors here at home.\nCompanies and individuals who don't have a strategy to export more,or to get more\ninvolved in foreign markets, or to play a role in global trade, are shutting themselves out\nof the lion’s share of economic opportunity in our world.",
+          "questions": [
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What does the author say about the trade data of the past two years?",
+              "options": {
+                "A": "It indicates that economic activities in the U.S. have increased.",
+                "B": "It signals decreasing domestic demand for goods and services.",
+                "C": "It reflects the fluctuations in the international market.",
+                "D": "It shows that U.S. economy is slipping further into recession."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "Who particularly benefit from the rising volume of trade?",
+              "options": {
+                "A": "People who have expertise in international trade.",
+                "B": "Consumers who favor imported goods and services.",
+                "C": "Producers of agricultural goods and raw materials.",
+                "D": "Retailers dealing in foreign goods and services."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nA recurring criticism of the UK's university sector is its perceived weakness in\ntranslating new knowledge into new products and services.\nRecently, the UK National Stem Cell Network warned the UK could lose its place\n\namong the world leaders in stem cell research unless adequate funding and legislation\ncould be assured.We should take this concern seriously as universities are key in the\nnational innovation system.\nHowever, we do have to challenge the unthinking complaint that the sector does not\ndo enough in taking ideas to market.The most recent comparative data on the performance\nof universities and research institutions in Australia, Canada,USA and UK shows that,\nfrom a relatively weak starting position, the UK now leads on many indicators of\ncommercialisation activity.\nWhen viewed at the national level, the policy interventions of the past decade have\nhelped transform the performance of UK universities.Evidence suggests the UK’s\nposition is much stronger than in the recent past and is still showing improvement.But\nnational data masks the very large variation in the performance of individual universities.\nThe evidence shows that a large number of universities have fallen off the back of the\npack, a few perform strongly and the rest chase the leaders.\nThis type of uneven distribution is not peculiar to the U.K. and is mirrored across\nother economies. In the UK, research is concentrated: less than 25% of universities\nreceive 75% of the research funding. These same universities are also the institutions\nproducing the greatest share of PhD graduates, science citations, patents and licence\nincome. The effect of policies generating long-term resource concentration has also\ncreated a distinctive set of universities which are research-led and commercially active. It\nseems clear that the concentration of research and commercialisation work creates\ndifferences between universities.\nThe core objective for universities which are research-led must be to maximise the\nimpact of their research efforts. These universities should be generating the widest range\nof social, economic and environmental benefits. In return for the scale. of investment,they\nshould share their expertise in order to build greater confidence in the sector.\nPart of the economic recovery of the UK will be driven by the next generation of\nresearch commercialisations pilling out of our universities. There are three dozen\nuniversities in the UK which are actively engaged in advanced research training and\ncommercialisation work.\nIf there was a greater coordination of technology transfer offices within regions and\na simultaneous investment in the scale and functions of our graduate schools, universities\ncould, and should, play a key role in positioning the U K for the next growth cycle.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What does the author think of UK universities in terms of commercialisation?",
+              "options": {
+                "A": "They still have a place among the world leaders.",
+                "B": "They have lost their leading position in many ways.",
+                "C": "They do not regard it as their responsibility.",
+                "D": "They fail to convert knowledge into money."
+              },
+              "answer": "A",
+              "explanation": "： 本题问作者认为英国大学在商业化方面做得如何。 该段第二句指出： “ 针对澳大利亚、 加拿大、 美国和英国的大学和研究机构的表现的最新比较数据显示， 虽然英国的起点相对较低， 但现在英国已经在很多商业化活动的指标中居于世界领先地位。 \" 由此可见作者认为英国大学在商业化方面在世界上仍然处于领先地位， 故选 A0 定位： 根据题干关键词 the national data 可以将答案定位至文章第四段最后两句。 解析： 第四段第三句和第四句指出： “ 但是全国性的数据掩盖了不同大学在表现上的巨大差异。 有证据表明很大一部分大学已经落后了， 少数大学表现良好， 而剩下的都在追赶。 ” 由此可知， 全国性数据并不能反映出各个大学间的不同， 故选 B。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+                "sourceText": "学在国家创新体系中的关键作用 《》 發。 第兰段氵质疑人们的观点》 认为英国在很多商业化活动中居于世界领先地第四玉指出英国大学的实际情况地位总体上有所提升生但表现并第玉段 :。 分析出觋这 0 情况的原因； 〖 答案解析 〗 51. A 定位： 根据题干关键词 commercialisation 可以将答案定位至文章第三段第二句。 解析： 本题问作者认为英国大学在商业化方面做得如何。 该段第二句指出： “ 针对澳大利亚、 加拿大、 美国和英国的大学和研究机构的表现的最新比较数据显示， 虽然英国的起点相对较低， 但现在英国已经在很多商业化活动的指标中居于世界领先地位。 \" 由",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What does the author say about the national data on UK universities’ performance in commercialisation?",
+              "options": {
+                "A": "It masks the fatal weaknesses of government policy.",
+                "B": "It does not reflect the differences among universities.",
+                "C": "It does not rank UK universities in a scientific way.",
+                "D": "It indicates their ineffective use of government resources."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "We can infer from Paragraph 5 that “policy interventions”(Line 1, Para. 4) refers to .",
+              "options": {
+                "A": "concentration of resources in a limited number of universities",
+                "B": "compulsory cooperation between universities and industries",
+                "C": "government aid to non-research-oriented universities",
+                "D": "fair distribution of funding for universities and research institutions"
+              },
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+                "sourceText": "选 A0 定位： 根据题干关键词 the national data 可以将答案定位至文章第四段最后两句。 解析： 第四段第三句和第四句指出： “ 但是全国性的数据掩盖了不同大学在表现上的巨大差异。 有证据表明很大一部分大学已经落后了， 少数大学表现良好， 而剩下的都在追赶。 ” 由此可知， 全国性数据并不能反映出各个大学间的不同， 故选 B。 5",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What does the author suggest research-led universities do?",
+              "options": {
+                "A": "Fully utilise their research to benefit all sectors of society.",
+                "B": "Generously share their facilities with those short of funds.",
+                "C": "Publicise their research to win international recognition.",
+                "D": "Spread their influence among top research institutions."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "How can the university sector play a key role in the UK’s economic growth?",
+              "options": {
+                "A": "By establishing more regional technology transfer offices.",
+                "B": "By asking the government to invest in technology transfer research.",
+                "C": "By promoting technology transfer and graduate school education.",
+                "D": "By increasing the efficiency of technology transfer agencies."
+              },
+              "answer": "C",
+              "explanation": "： 文章最后一段提到： “ 如果能够更好地协调各个地区的技术转让办公室， 同时给研究生院投资以扩大规模和改善功能， 大学或许并且应该能够在下一轮增长中为巩固英国的地位发挥关键作用。 ” 由此可知， 促进技术转让和加强研究生教育能使大学在巩固英国的地位中发挥关键作用， 故选 CO Part IV 〖 参考译文 〗 Translation The traditional hospitality of Chinese people requires food dlversity, SO that guests will full before eaung all the dishes. l The typical menu Of a Chinese banquet includes a set Of cold dishes served at the beginning, followed by hOt dishes， 2 such as meats， chlcken， duck and vegetables, etC. ln most Chinese banquets， a whole fish is considered as essentia",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2015-06-3/key_OCR_2015-06-3.txt",
+                "sourceText": "第五段没有出现。 而文章第六段再次出现了 research-led， 可知答案在第六段。 解析： 第六段第二句指出： “ 这些大学应该创造出最广泛的社会效益、 经济效益和环境效益。 ” 与选项 A 表述一致， 故选 AO 55 ． C 定位： 根据题干信息词 play a key role 可以将答案定位于文章最后一段。 解析： 文章最后一段提到： “ 如果能够更好地协调各个地区的技术转让办公室， 同时给研究生院投资以扩大规模和改善功能， 大学或许并且应该能够在下一轮增长中为巩固英国的地位发挥关键作用。 ” 由此可知， 促进技术转让和加强研究生教育能使大学在巩固英国的地位中发",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from\nChinese into English. You should write your answer on Answer Sheet 2.",
+      "source": "中国传统的待客之道要求饭菜丰富多样，让客人吃不完。中国宴席上典型的菜单包括开席的一套凉菜及其后的热菜，例如肉类、鸡鸭、蔬菜等。大多数宴席上,全鱼被认为是必不可少的,除非已经上过各式海鲜。如今，中国人喜欢把西方特色菜与传统中式菜肴融于一席,因此牛排上桌也不少见。沙拉也已流行起来,尽管传统上中国人一般不吃任何未经烹饪的菜肴。宴席通常至少有一道汤，可以最先或最后上桌。甜点和水果通常标志宴席的结束。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

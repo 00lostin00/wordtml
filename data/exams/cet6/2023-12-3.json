@@ -47,62 +47,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "G） impose （w. 使遭受，使承受；把. . 强加于） ［ 语法判断］空格前是复合连词 but a ls o, 前后连接并列成分，空格后是名词短语 health cos ts, 由此可知，空格处应填入一个动词原形，与前面的 provide 构成并列关系，同时与 health costs 构成动宾搭配。 俄期画 but also 前面的内容是这些改进提供了巨大的好处，由此可推断，but also 后面的内容是说，但这也带来了健康成本。impose 可意为“使承受\"，impose health cost 即“使人们承受了健康成本”，符合语境。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "G） impose （w. 使遭受，使承受；把. . 强加于） ［ 语法判断］空格前是复合连词 but a ls o, 前后连接并列成分，空格后是名词短语 health cos ts, 由此可知，空格处应填入一个动词原形，与前面的 provide 构成并列关系，同时与 health costs 构成动宾搭配。 俄期画 but also 前面的内容是这些改进提供了巨大的好",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "句子结构可知，此处是 that 引导的宾语从句，空格前是形容词 u rb a n, 空格后是动词第三人称单数 encourages, 由此可知，该宾语从句缺少主语，空格处应填入名词。 上文提到（城市的）改进提供了巨大的好处，但也增加了健康成本，本句承接上文内容，用研究结果说明城市改进给人们带来的不利之处，由此可推断，本句是说，城市“扩张”推动了驾驶人数的增多，并与体重增加有关，故 sprawl 符合语境。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "M） sprawl （九肆意扩张；蔓延 u 蔓延） ［ 1 5 ^ ］分析句子结构可知，此处是 that 引导的宾语从句，空格前是形容词 u rb a n, 空格后是动词第三人称单数 encourages, 由此可知，该宾语从句缺少主语，空格处应填入名词。 上文提到（城市的）改进提供了巨大的好处，但也增加了健康成本，本句承接上文内容，用研究结果说明城市改进给人们带来",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A） correlation O. 相互关系；关联） 空格前是指示代词 T h is, 空格后是第三人称单数形式的谓语动词 suggests, 由此可知，空格处应填入一个名词，充当句子的主语。 上文讲述了城市扩张推动了驾驶人数的增多，并与体重增加有关，可知这是一种关联性，This 指代上文的内容，可知 This 后面应填入表示“关联性”的名词，故 correlation 符合语境。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "A） correlation O. 相互关系；关联） 空格前是指示代词 T h is, 空格后是第三人称单数形式的谓语动词 suggests, 由此可知，空格处应填入一个名词，充当句子的主语。 上文讲述了城市扩张推动了驾驶人数的增多，并与体重增加有关，可知这是一种关联性，This 指代上文的内容，可知 This 后面应填入表示“关联性”的名词，故 correlatio",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "F） imperative （。矽•. 至关重要的，必要的） 由空格前的 and 可知，此处为并列分句，该分句采用了 “让 1$+形容词或分词+由激从句”的句式，可知空格处应填入一个形容词或分词，充当 is 的表语。 叁酶 and 前面的并列分句指出，城市的布局和设计能够阻碍或促进更健康的生活方式选择，由此可推断，and 后面的并列分句是指，城市规划者“必须”牢记这一点。It is imperative that. . . 是固定句式，意为 ”. . 必须. . . , 故 imperative 符合语境。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "F） imperative （。矽•. 至关重要的，必要的） 由空格前的 and 可知，此处为并列分句，该分句采用了 “让 1$+形容词或分词+由激从句”的句式，可知空格处应填入一个形容词或分词，充当 is 的表语。 叁酶 and 前面的并列分句指出，城市的布局和设计能够阻碍或促进更健康的生活方式选择，由此可推断，and 后面的并列分句是指，城市规划者“必须”牢记这一",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "决过去的问题为中心，由本句句首的 Of course 和 still 可知，本句仍承上启下，指出问题仍未解决，城市规划仍然需要做出努力。将备选动词代入原文可知，fbster 符合语境，foster standard public health practices ^ “促进标准的公共卫生实践”。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "E） foster （vt. 促进；培养;收养） 空格前是 need t o, 空格后是一个名词短语，由此可知，空格处应填入动词原形，构成 need to do sth. 的结构。 上文提到，遗憾的是，城市规划在很大程度上仍然以解决过去的问题为中心，由本句句首的 Of course 和 still 可知，本句仍承上启下，指出问题仍未解决，城市规划仍然需要做出努力。将备选动",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "B） dense （。力•. 密集的；稠密的） 避画空格前是介词 through, 空格后是名词短语 residential a re a s, 由此可知，空格处应填入一个形容词， 与 residential 一起修饰名词 areas。 上文提及城市应促进标准的公共卫生实践，此处举例说明，如将有毒设施与住宅分开，限制重型卡车通过居民区，剩余选项中只有 dense “密集的”符合语境。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "B） dense （。力•. 密集的；稠密的） 避画空格前是介词 through, 空格后是名词短语 residential a re a s, 由此可知，空格处应填入一个形容词， 与 residential 一起修饰名词 areas。 上文提及城市应促进标准的公共卫生实践，此处举例说明，如将有毒设施与住宅分开，限制重型卡车通过居民区，剩余选项中只有 dense “密集的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "I） longevity （九长寿） ［ W g 空格前是介词 of, 空格后是谓语动词 show, 由此可知，空格处应填入一个名词，与 of 一起构成介宾短语。 由 show 后面 that 引导的宾语从句“在体育活动成为日常生活一部分的环境中，人们的寿命最长” 可知，填入的名词应与寿命长短有关，由此可知，longevity （长寿）符合语境。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "I） longevity （九长寿） ［ W g 空格前是介词 of, 空格后是谓语动词 show, 由此可知，空格处应填入一个名词，与 of 一起构成介宾短语。 由 show 后面 that 引导的宾语从句“在体育活动成为日常生活一部分的环境中，人们的寿命最长” 可知，填入的名词应与寿命长短有关，由此可知，longevity （长寿）符合语境。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "K） recreational （adj. 娱乐的） 空格前是 m o re, 空格后是名词 spaces, 由此可知，空格处应填入一个形容词。 叁酗前半句指出，提供更多可步行的空间、受到更好保护的自行车道，and 连接的并列成分应与其语义一致，将备选形容词代入可知 recreational 符合语境，即“更多的娱乐空间”。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "K） recreational （adj. 娱乐的） 空格前是 m o re, 空格后是名词 spaces, 由此可知，空格处应填入一个形容词。 叁酗前半句指出，提供更多可步行的空间、受到更好保护的自行车道，and 连接的并列成分应与其语义一致，将备选形容词代入可知 recreational 符合语境，即“更多的娱乐空间”。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "前后转折关系可知，此处是说，将城市的公共空间用作人们可以锻炼的地方可以促进“公平”，equity 符合语境。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "D） equity （n. 公平，公正） 薪丽空格前是第三人称单数形式的谓语动词 prom otes. 空格后是逗号，由此可知，空格处应填入一个名词，与 promotes 构成动宾关系。 叁遮前半句提及将城市的公共空间用作人们可以锻炼的地方，空格后的内容指出，而不是让体育活动仅限于私人健身房，因为私人健身房的月费往往很高。分析前后转折关系可知，此处是说，将城市",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "句子结构可知，此处是 that 引导的定语从句，修饰先行词 fees, 空格前是关系代词 that, 空格后是 less wealthy people fh）m joining, 可知 that 是定语从句的主语，谓语和宾语部分由“…sb. fh）m doing sth. ” 的结构充当，故空格处应填入一个动词，且能构成以上结构。 懵商丽前文提及, 而不是让体育活动仅限于私人健身房，因为私人健身房的月费往往很高，由此推断， 此处是说高额的费用“阻止”不太富裕的人加入。备选动词中 deter 可以构成 deter sb. from doing sth. （阻止某人做某事）的结构，符合语境，故应填入 deter。 ［干扰项注释］ H） irrespective （adj. 不考虑的，不顾的）J） navigate （v. 航行；导航）L） rotten （adj. 腐烂的）N） vibrate （乂振动；颤动）0） vicinity （几邻近，附近） Section fW 6 •概览• 本文节选自 The MIT Press Reader 杂志 2019 年发表的一篇标题为 “Can Learning a Foreign Language PreventDementia?，，的文章。文章主要围绕外语学习或者会讲两种语言能否防止认知能力丧失展开论述。 文章开篇先简要定义痴呆症为认知能力丧失，并介绍它与正常健忘的区别。随后，作者通过研究回顾， 指出人们虽不明白其发病原因，也不知道应该如何预防，但从会讲两种语言和多种语言的人相较讲一种语言的人的比较研究中，还是能够找到证据证明学习语言对预防痴呆症可能有用。 •全文翻译• 学习外语能预防痴呆吗？ A）你可能听说过，学习另一种语言是预防或至少延缓痴呆症发作的一种方法。［38］痴呆症是指认知能力的丧失，最常见的一种是阿尔茨海默氏病。目前，人们还不太清楚这种疾病的病因，因此还没有已经证实有效的措施来预防这种病症。尽管如此，一些研究人员提出，学习一门外语可能有助于延缓痴呆症的发作。 B）为了更深入地探索这种可能性，让我们来看看关于痴呆",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "C） deter （vt. 阻止） 分析句子结构可知，此处是 that 引导的定语从句，修饰先行词 fees, 空格前是关系代词 that, 空格后是 less wealthy people fh）m joining, 可知 that 是定语从句的主语，谓语和宾语部分由“…sb. fh）m doing sth. ” 的结构充当，故空格处应填入一个动词，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -161,71 +251,155 @@
           "id": "q36",
           "number": 36,
           "stem": "Research indicates that brain training is likely to boost one's ability at specific tasks, but not one's other\ncognitive abilities.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "）D。由题干关键信息 brain training、tasks 和 abilities 定位到 D 段。该段第五句提到，研究表明，尽管这种训练可能会提高一个人完成任务所需的能力，但似乎不会提高其他能力，而结合前文，这种训练指的是对大脑的训练，题干显然是对该句的同义转述。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "旃瓯研究表明, 大脑训练可能会提高一个人完成特定任务的能力，但不会提高其他的认知能力。 ［答案解析）D。由题干关键信息 brain training、tasks 和 abilities 定位到 D 段。该段第五句提到，研究表明，尽管这种训练可能会提高一个人完成任务所需的能力，但似乎不会提高其他能力，而结合前文，这种训练指的是对大脑的训练，题干显然是对该句的同义转述。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "According to estimates, the number of people who speak two languages or more is greater than those who\nspeak one language only.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "］ F o 由题干关键信息 estimates、people who speak two languages or more 和 those who speak one language only 定位到 F 段第二句。该句提到，据估计，世界上只讲一种语言的人比讲两种语言和多种语言的人更少，可见，题干是对原文的同义转述。题干中的 people who speak two languages or more 对应原文中的 bilinguals^multilinguals; 题干中的 those who speak one language only 对应原文中的 monolingual speakers; 题干中的 the number. . . is greater than 从反面转述原文中的 there are fewer. . . thano",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "据估计，说两种或多种语言的人数多于只说一种语言的人数。 ［答案解析］ F o 由题干关键信息 estimates、people who speak two languages or more 和 those who speak one language only 定位到 F 段第二句。该句提到，据估计，世界上只讲一种语言的人比讲两种语言和多种语言的人更少，可见，题干是对原文的同义转述。题干中的 people who speak two l",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "For the time being, we do not know what causes people to lose their cognitive abilities, or what we can do to\nprevent it.",
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "Paragraph A states: 'the causes of the disease are not well understood, and consequently, there are no proven steps that people can take to prevent it. '",
+          "answerMeta": {
+            "sourceType": "llm-extract",
+            "model": "claude-sonnet-4-6",
+            "confidence": "high",
+            "verified": false
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "It is hard to determine whether people who are free from dementia tend to have more social activities, or\nmore social activities keep people away from dementia.",
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "］ K。由题干关键信息 social activities 和 dementia 定位到 K 段最后一句。定位句指出，我们真的不能断言到底是社交活动能预防痴呆症的发作，还是没有痴呆症的人更有可能在社交方面活跃。题干是对原文的同义转述。题干中的 It is hard to determine 对应原文中的 we can't really say ;题干中的 people who are free from dementia 对应原文中的 people who don't have dementia; 题干中的 keep people away from dementia 是对原文中的 prevents the onset of dementia 的同义转述。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "顺福更很难确定是否没有痴呆症的人容易进行更多的社交活动，还是更多的社交活动能使人们免于罹患痴呆症。 ［答案解析］ K。由题干关键信息 social activities 和 dementia 定位到 K 段最后一句。定位句指出，我们真的不能断言到底是社交活动能预防痴呆症的发作，还是没有痴呆症的人更有可能在社交方面活跃。题干是对原文的同义转述。题干中的 It is hard to determine 对应原文中的 we can't really say ;题干中的 people wh",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "There is evidence that learning foreign languages might be beneficial to boosting one's cognitive abilities.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "| E。由题干关键信息 evidence 和 learning foreign languages 定位到 E 段第二句。该句指出，外语学习在认知方面带来益处的最好证据源于针对那些已经会讲两种语言的人的研究。换言之，有证据表明，学习外语对于提高认知能力是有帮助的。题干是对原文的同义转述。题干中的 beneficial to boosting one's cognitive abilities 对应原文中的 confers cognitive benefits o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "丽瓯有证据表明，学习外语可能有利于提高一个人的认知能力。 ［答案解析| E。由题干关键信息 evidence 和 learning foreign languages 定位到 E 段第二句。该句指出，外语学习在认知方面带来益处的最好证据源于针对那些已经会讲两种语言的人的研究。换言之，有证据表明，学习外语对于提高认知能力是有帮助的。题干是对原文的同义转述。题干中的 beneficial to boosting one's cognitive",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "It was suggested that only those who always spoke two languages could benefit from bilingualism.",
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "］ I o 由题干关键信息 suggested 和 always spoke two languages 定位到 I 段最后一句。定位句指出，比亚利斯托克提出，会讲两种语言的积极作用只存在于那些一直都使用两种语言的人身上。可见，题干是对原文的同义转述。题干中的 benefit from bilingualism 对应原文中的 positive benefits of being bilingual o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "I M 有人提出，只有那些总是说两种语言的人才能因使用两种语言而受益。 ［答案解析］ I o 由题干关键信息 suggested 和 always spoke two languages 定位到 I 段最后一句。定位句指出，比亚利斯托克提出，会讲两种语言的积极作用只存在于那些一直都使用两种语言的人身上。可见，题干是对原文的同义转述。题干中的 benefit from",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "The brain is different from muscles in that it keeps working even when the body is at rest.",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "］ C o 由题干关键信息 different from muscles 和 rest 定位到 C 段第四句。根据定位句，与肌肉不同的是，大脑总是活跃的，即使在休息和睡眠期间也在工作。可见，题干是对原文的同义转述。题干中的 keeps working 对应原文中的 is always active and works; 题干中的 at rest 是对原文中的 during periods of rest and sleep 的转述。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "大脑与肌肉的不同之处在于，即使身体处于休息状态，大脑也在继续工作。 ［答案解析］ C o 由题干关键信息 different from muscles 和 rest 定位到 C 段第四句。根据定位句，与肌肉不同的是，大脑总是活跃的，即使在休息和睡眠期间也在工作。可见，题干是对原文的同义转述。题干中的 keeps working 对应原文中的 is always active and works; 题干中的 at rest 是对原文中的 during pe",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "Pcople who speak two languages do better at a number of cognitive tasks than those who speak only one\nlanguage.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "Paragraph G: 'bilingual individuals outperform their monolingual counterparts on a variety of cognitive tasks, such as following complex instructions, and switching to new instructions. '",
+          "answerMeta": {
+            "sourceType": "llm-extract",
+            "model": "claude-sonnet-4-6",
+            "confidence": "high",
+            "verified": false
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "Dementia is different from being merely forgetful and entails more serious trouble.",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "| B o 由题干关键信息 Dementia、merely forgetful 和 more serious 定位到 B 段第四句和第六句。定位段第四句说，痴呆症与正常的健忘不同，接下来对正常的健忘进行了举例，之后的第六句说，痴呆症患者的问题则要更加严重，可见，题干是对本段这两处信息的概括性转述。题干中的 different fiom 对应原文中＜的 is not the same thing a s ; 题干中的 merely forgetful 对应原文中的 normal forgetfulness; 题干中的 entails more serious trouble 对应原文中的 have more serious problems o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "痴呆症不同于单纯的健忘，会带来更严重的问题。 ［答案解析| B o 由题干关键信息 Dementia、merely forgetful 和 more serious 定位到 B 段第四句和第六句。定位段第四句说，痴呆症与正常的健忘不同，接下来对正常的健忘进行了举例，之后的第六句说，痴呆症患者的问题则要更加严重，可见，题干是对本段这两处信息的概括性转述。题干中的 different fiom 对应原文中＜的 is not the",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "It is claimed that more monolinguals suffer from Alzheimer's disease than bilinguals.",
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "］H o 由题干关键信息 monolinguals、Alzheimer's disease 和 bilinguals 定位到 H 段前两句。该段首句说，如果会讲两种语言的好处扩展到认知的其他方面，那么我们有望看到讲两种语言的人患阿尔茨海默病的几率低于讲一种语言的人，或者至少讲两种语言的人的发病时间会更晚。随后的第二句说，是有证据支持这一说法的。可见，题干是对这两句内容的概括性转述。题干中的 more monolinguals suffer from Alzheimer5 s disease than bilinguals 从反面转述原文中的 lower incidence of Alzheimer's disease in bilinguals than in monolinguals o Section 画 Passage One。 •概览・ 本文节选自 theconversation. com 网站 2020 年 4 月发表的一篇标题为 “Scientists must share research findings with participants. Here9s WhyM 的文章。文章指出，学术界通过与公众分享研究成果，可以极大地造福大众，还可以为学术界自身提供研究方向。但出于多种原因，与公众分享研究成果的做法还需要多方共同努力、积极推进。 6 •全文翻译• 研究的目的是通过提高公众认识、开发产品和创造新方法来促进发展，从而造福社会。［46］要使研究充分发挥作用，研究成果必须走出研究实验室和学术期刊的范围。 有效传播的研究成果可以极大地造福大众。它们可以帮助解决社会不公或改进为患者提供的治疗方法。 许多研究人员似乎满足于在学术期刊或会议上分享他们的研究成果。但没几家期刊允许所有人阅读这些研究成果。［47］即使是免费提供的文章，通常也是用普通读者无法理解的学术语言撰写的。 ［48］对于终身教职制度下的研究人员来说，他们的主要目标是获得终身教职，而这在一定程度上可以通过在著名期刊上发表多篇论文来实现。这样的压力意味着不会优先考虑向社会上的人提供外展服£厂许多研究",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+            "sourceText": "据称，与讲两种语言的人相比，只讲一种语言的人患阿尔茨海默氏病的更多。 ［答案解析］H o 由题干关键信息 monolinguals、Alzheimer's disease 和 bilinguals 定位到 H 段前两句。该段首句说，如果会讲两种语言的好处扩展到认知的其他方面，那么我们有望看到讲两种语言的人患阿尔茨海默病的几率低于讲一种语言的人，或者至少讲两种语言的人的发病时间会更晚。随后的第二句说，是有证据支持这一说法的。可见，题干是对这两句内",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -249,7 +423,16 @@
                 "D": "With its findings properly communicated beyond the academic circle."
               },
               "answer": "D",
-              "explanation": "；第一段第二句直接给出答案：要使研究充分发挥作用，研究成果必须走出研究实验室和学术期刊的范围, 析 即研究成果在学术界以外也得到传播，故D项符合题意。"
+              "explanation": "；第一段第二句直接给出答案：要使研究充分发挥作用，研究成果必须走出研究实验室和学术期刊的范围, 即研究成果在学术界以外也得到传播，故 D 项符合题意。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+                "sourceText": "作者认为，研究如何才能充分发挥作用？ A）研究人员意识到公众利益。 B）研究成果发表在著名期刊上。 C）研究人员创造出促进社会发展的产品。 D）研究成果在学术界以外得到适当传播。 定十根据期千彳言意闹 serve its full purpose 可溷容集线素楚位室第一段第二有。 位： 解；第一段第二句直接给出答案：要使研究充分发挥作用，研究成果必须走出研究实验室和学术期刊的范围, 即研究成果在学术界以外也得到传播，故 D 项符合题意。",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -262,7 +445,16 @@
                 "D": "They have few chances to locate the journals that publish these findings."
               },
               "answer": "A",
-              "explanation": "报告这些结果所使用的学术语言。 B）他们被研究人员用来描述研究结果的行业术语吓到了。 C）他们不参加免费提供这些研究成果的会议。 D）他们几乎没有机会找到发表这些研究成果的期刊。 定,植搪施车彳言扈同ordinary readers和 位： (access the results of researchers' studies可将答案线索定位至第三段。 解+第三段第一句提及，许多研究人员似乎满足于在学术期刊或会议上分享他们的研究成果。随后表明这对普 析 通读者的困扰：没几家期刊允许所有人阅读研究成果，即使是免费提供的文章，通常也是用普通读者无 法理解的学术语言撰写的。因此A项符合题意，cannot understand是原文中incomprehensible的同义转述， ：academic language是原词复现。"
+              "explanation": "报告这些结果所使用的学术语言。 B）他们被研究人员用来描述研究结果的行业术语吓到了。 C）他们不参加免费提供这些研究成果的会议。 D）他们几乎没有机会找到发表这些研究成果的期刊。 定, 植搪施车彳言扈同 ordinary readers 和位： (access the results of researchers' studies 可将答案线索定位至第三段。 解+第三段第一句提及，许多研究人员似乎满足于在学术期刊或会议上分享他们的研究成果。随后表明这对普通读者的困扰：没几家期刊允许所有人阅读研究成果，即使是免费提供的文章，通常也是用普通读者无法理解的学术语言撰写的。因此 A 项符合题意，cannot understand 是原文中 incomprehensible 的同义转述，：academic language 是原词复现。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+                "sourceText": "47 . 为什么普通读者很难获得研究人员的研究成果？ A）他们无法理解报告这些结果所使用的学术语言。 B）他们被研究人员用来描述研究结果的行业术语吓到了。 C）他们不参加免费提供这些研究成果的会议。 D）他们几乎没有机会找到发表这些研究成果的期刊。 定, 植搪施车彳言扈同 ordinary readers 和位： (access the results of researchers' studies 可将答案线索定位",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -275,7 +467,16 @@
                 "D": "They have to struggle to reach out to the community."
               },
               "answer": "B",
-              "explanation": "i 析： 根据题干信息词prioritise可将答案线索定位至第四段最后一句。 第四段最后一句提及，这样的压力意味着不会优先考虑向社会上的人提供外展服务，就是前文作者所说 的与公众分享研究成果，压力即该段第一句所说的通过在著名期刊上发表多篇论文获得终身教职，因此B 项符合题意，题干中的communicating their findings to the public是原文中community-level outreach的同义转 述。A项在文中没有相关信息，故排除。第四段提到终身教职制度下的研究人员的主要目标是获得终身教 I 职，C项与此不符，故排除。第五段提到, I 究成果，D项与此语义相反，故排除。"
+              "explanation": "i 根据题干信息词 prioritise 可将答案线索定位至第四段最后一句。 第四段最后一句提及，这样的压力意味着不会优先考虑向社会上的人提供外展服务，就是前文作者所说的与公众分享研究成果，压力即该段第一句所说的通过在著名期刊上发表多篇论文获得终身教职，因此 B 项符合题意，题干中的 communicating their findings to the public 是原文中 community-level outreach 的同义转述。A 项在文中没有相关信息，故排除。第四段提到终身教职制度下的研究人员的主要目标是获得终身教 I 职，C 项与此不符，故排除。第五段提到, I 究成果，D 项与此语义相反，故排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+                "sourceText": "48 . 一些研究人员没有优先考虑向公众传播他们的研究成果，其中的一个原因是什么? A）他们可以依靠发表的论文兴旺发达。 B）他们首要考虑的是获得终身教职。 C）他们的主要目标是在自己的领域内获得认可。 D）他们不得不努力去接触社区。 定十位： 解 i 根据题干信息词 prioritise 可将答案线索定位至第四段最后一句。 第四段最后一句提及，这样的压力意味着不会优先考虑向社会上的人提供外展服务，就是前文作者所说的与公众分享研究成果，压力即该段第一句所说的通过在著名期刊上发表多",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -288,7 +489,16 @@
                 "D": "By helping them to forge ties with government agencies."
               },
               "answer": "A",
-              "explanation": "困扰社会的危机。 出于各种顾虑，许多研究人员不敢在学术界以外传播他们的研 C）通过让他们有效解决社会差异。 D）通过帮助他们与政府机构建立联系。 定,根搪题下彳言息词sharing findings痈benefi同两答案线索定位至第七段。 位（ 解】第七段第一句指出，分享研究成果的好处是双向的。随后解释道，与其他研究人员和公众接触可以产生意 析 想不到的新联系和新想法，从而为研究提供成果丰硕的新方向，因此A项符合题意。“了解困扰社会的危 机”和“有效解决社会差异”是研究人员共享成果对社会有利的方面，而不是使其自身受益的方面，故排 除B 、C两项。文中并未说明研究人员可以通过分享成果与政府机构建立联系，故D项也排除。 六级2023.12［第三套147 5 0 .为什么建议研究人员聘用专业撰稿人或宣传人员？ A）为了满足伦理委员会对研究人员的强制性要求。 C）为了让公众正确理解他们发表的文章。 B）为了将研究报告翻译成海外读者可以理解的语言。 D）为了使他们的研究成果被著名期刊接受。 定,植搪蓝午宿鱼同professional writers or communication officers前蒋答案绫素兔痘至囱数第二段。 位! 解：倒数第二段第一句提到，由于使用专业术语，公众可能会对研究人员提出的研究结果产生误解。随后补充 道，但这可以通过研究人员聘请专业撰稿人或宣传人员来解决，他们可以帮助将研究成果翻译成更通俗易 懂的语言，与媒体和公众广泛分享。由此可知，C项符合题意，原文中的accessible意为“容易理解的，易 懂的”。根据倒数第三段可知，作者建议伦理委员会强制要求研究人员分享研究成果，聘用专业撰稿人 或宣传人员不是伦理委员会对研究人员的强制性要求，故排除A项。B项中的“海外读者”原文中没有提 及，故排除。聘用专业撰稿人或宣传人员解决的问题是让公众理解已发表的研究结果，而不是为了让研究 结果被著名期刊成功发表，故排除D项。 Passage Two 6 •概览• 本文节选自The Guardian （《卫报》）官方网站2021年8月发表的一篇标题为“The Guar"
+              "explanation": "困扰社会的危机。 出于各种顾虑，许多研究人员不敢在学术界以外传播他们的研 C）通过让他们有效解决社会差异。 D）通过帮助他们与政府机构建立联系。 定, 根搪题下彳言息词 sharing findings 痈 benefi 同两答案线索定位至第七段。 位（解】第七段第一句指出，分享研究成果的好处是双向的。随后解释道，与其他研究人员和公众接触可以产生意想不到的新联系和新想法，从而为研究提供成果丰硕的新方向，因此 A 项符合题意。“了解困扰社会的危机”和“有效解决社会差异”是研究人员共享成果对社会有利的方面，而不是使其自身受益的方面，故排除 B、C 两项。文中并未说明研究人员可以通过分享成果与政府机构建立联系，故 D 项也排除。 5 0 . 为什么建议研究人员聘用专业撰稿人或宣传人员？ A）为了满足伦理委员会对研究人员的强制性要求。 C）为了让公众正确理解他们发表的文章。 B）为了将研究报告翻译成海外读者可以理解的语言。 D）为了使他们的研究成果被著名期刊接受。 定, 植搪蓝午宿鱼同 professional writers or communication officers 前蒋答案绫素兔痘至囱数第二段。 位! 解：倒数第二段第一句提到，由于使用专业术语，公众可能会对研究人员提出的研究结果产生误解。随后补充道，但这可以通过研究人员聘请专业撰稿人或宣传人员来解决，他们可以帮助将研究成果翻译成更通俗易懂的语言，与媒体和公众广泛分享。由此可知，C 项符合题意，原文中的 accessible 意为“容易理解的，易懂的”。根据倒数第三段可知，作者建议伦理委员会强制要求研究人员分享研究成果，聘用专业撰稿人或宣传人员不是伦理委员会对研究人员的强制性要求，故排除 A 项。B 项中的“海外读者”原文中没有提及，故排除。聘用专业撰稿人或宣传人员解决的问题是让公众理解已发表的研究结果，而不是为了让研究结果被著名期刊成功发表，故排除 D 项。 Passage Two 6 •概览• 本文节选自 The Guardian （《卫报》）官方网站 2021 年 8 月发表的一篇标题为“The Guardian view on spider",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+                "sourceText": "49 . 分享研究成果如何能使研究人员自身受益? A）通过帮助他们找到新的研究方向。 B）通过让他们了解困扰社会的危机。 出于各种顾虑，许多研究人员不敢在学术界以外传播他们的研 C）通过让他们有效解决社会差异。 D）通过帮助他们与政府机构建立联系。 定, 根搪题下彳言息词 sharing findings 痈 benefi 同两答案线索定位至第七段。 位（解】第七段第一句指出，分享研究成果的好处是双向的。随后解释道",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q50",
@@ -300,8 +510,14 @@
                 "C": "To make their publications correctly understood by the public.",
                 "D": "To render their findings acceptable by prominent journals."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "The passage states professional writers help 'translating their study into more accessible language and share it widely with media outlets and the public', resolving misunderstanding due to technical terms.",
+              "answerMeta": {
+                "sourceType": "llm-extract",
+                "model": "claude-sonnet-4-6",
+                "confidence": "high",
+                "verified": false
+              }
             }
           ]
         },
@@ -320,7 +536,16 @@
                 "D": "They have made their presence felt when spinning webs."
               },
               "answer": "A",
-              "explanation": "? A）它们普遍被误解了。 B）它们对作物生长产生了不利影响。 C）它们不断提醒人们厄运的到来。 D）它们在织网时让人们感觉到它们的存在。 定・福搪藏丰彳言息同spiders in the UK而the middle ages时蒋客案残素比位于第二座。 位： 解;第二段提到，害怕蜘蛛是一种常见的现象，但其实英国的蜘蛛几乎都是无害的。农田蜘蛛通过捕食与我们 析 争夺作物的昆虫，提供了有价值的生态系统服务。但它们是人类焦虑的持续来源— 与“女巫”和“邪 恶”的文化联系可以追溯到中世纪。也就是说，自中世纪以来，由于人们把蜘蛛与女巫和邪恶联系在一 起，所以人们普遍害怕蜘蛛，但事实上，英国的蜘蛛几乎是无害的，还给人类提供了有价值的生态系统服 务。由此可知，人们对蜘蛛普遍存在误解，故选项A正确。选项B与原文相反，原文提到，蜘蛛通过捕食 害虫保护农作物，而不是对其产生不利影响。选项C、D在原文中未提及，故均排除。"
+              "explanation": "? A）它们普遍被误解了。 B）它们对作物生长产生了不利影响。 C）它们不断提醒人们厄运的到来。 D）它们在织网时让人们感觉到它们的存在。 定・福搪藏丰彳言息同 spiders in the UK 而 the middle ages 时蒋客案残素比位于第二座。 位： 解;第二段提到，害怕蜘蛛是一种常见的现象，但其实英国的蜘蛛几乎都是无害的。农田蜘蛛通过捕食与我们争夺作物的昆虫，提供了有价值的生态系统服务。但它们是人类焦虑的持续来源— 与“女巫”和“邪恶”的文化联系可以追溯到中世纪。也就是说，自中世纪以来，由于人们把蜘蛛与女巫和邪恶联系在一起，所以人们普遍害怕蜘蛛，但事实上，英国的蜘蛛几乎是无害的，还给人类提供了有价值的生态系统服务。由此可知，人们对蜘蛛普遍存在误解，故选项 A 正确。选项 B 与原文相反，原文提到，蜘蛛通过捕食害虫保护农作物，而不是对其产生不利影响。选项 C、D 在原文中未提及，故均排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+                "sourceText": "51 . 自中世纪以来，我们对英国的蜘蛛有何了解? A）它们普遍被误解了。 B）它们对作物生长产生了不利影响。 C）它们不断提醒人们厄运的到来。 D）它们在织网时让人们感觉到它们的存在。 定・福搪藏丰彳言息同 spiders in the UK 而 the middle ages 时蒋客案残素比位于第二座。 位： 解;第二段提到，害怕蜘蛛是一种常见的现象，但其实英国的蜘蛛几乎都是无害的。农田蜘蛛通过捕食与我们争夺作",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -333,7 +558,16 @@
                 "D": "Aggression."
               },
               "answer": "B",
-              "explanation": ";第二段最后一句话提到，但它们是人类焦虑的持续来源一与“女巫”和“邪恶”的文化联系可以追溯到 析 中世纪。由此可知，自中世纪以来，蜘蛛在英国一直被认为与邪恶有关，故选B。其他三个选项都不是原 |文所讲的文化联系，故排除。"
+              "explanation": ";第二段最后一句话提到，但它们是人类焦虑的持续来源一与“女巫”和“邪恶”的文化联系可以追溯到中世纪。由此可知，自中世纪以来，蜘蛛在英国一直被认为与邪恶有关，故选 B。其他三个选项都不是原 |文所讲的文化联系，故排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+                "sourceText": "几个世纪以来，在英国，人们把蜘蛛与什么相联系？ A）危害。 B）邪恶。 C）痛苦。 D）侵略性。 定 t 根搪蓝牛彳言息同 spiders been associated with 前将答案缓素比板于第二段。 位： 解;第二段最后一句话提到，但它们是人类焦虑的持续来源一与“女巫”和“邪恶”的文化联系可以追溯到中世纪。由此可知，自中世纪以来，蜘蛛在英国一直被认为与邪恶有关，故选 B。其他三个选项都不是原 |文所讲的文化联系，",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -345,8 +579,17 @@
                 "C": "Chemicals used for killing insects.",
                 "D": "The extinction of a lot of wildlife."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": ";第四段第一句就提到，飞虫数量的大幅减少只能意味着蜘蛛的食物供应减少。接着第二句阐释了原因, 即使用杀虫剂以及因为发展而破坏野生区域被认为是罪魁祸首，所以蜘蛛的食物供应减少的原因有两点，一是杀虫剂的使用，二是野生区域的破坏。选项 C 是对第一点原因的同义转述，故为正确答案。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+                "sourceText": "53 . 蜘蛛的食物供应减少，部分原因是什么? A）收集昆虫的悠久传统。 B）竞争对手的快速繁殖。 C）使用杀虫的化学制品。 D）许多野生动物的灭绝。 定+康搪蓝汗彳言直后 the reduction in spiders9 food supply 而两答案缓素比位于第四段。 位： 解;第四段第一句就提到，飞虫数量的大幅减少只能意味着蜘蛛的食物供应减少。接着第二句阐释了原因, 即使用杀虫剂以及因为发展而破坏野生区域被认为是罪魁祸首，所以蜘蛛的食物供应减少的原因",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q54",
@@ -359,7 +602,16 @@
                 "D": "More and more spider species are found losing their ability to migrate."
               },
               "answer": "B",
-              "explanation": ";第四段最后一句提到，但自然环境保护主义者最关心的是那些因栖息地丧失和碎片化而受到威胁的品种, 析 这些因素使它们无法迁徙。由此可知，自然环境保护主义者最担心的是，某些品种的蜘蛛因为丧失栖息地 而没有地方迁徙，故选项B正确，同时也可排除选项D , 没有地方迁徙不代表失去了迁徙的能力。原文没 有提到沼泽和荒地受到污染，故排除选项A。原文提到杀虫剂使昆虫数量下降，导致蜘蛛食物供应减少， 但这不是自然环境保护主义者最担心的问题，故选项C也排除。 六级2023.12；第三套：49 5 5 .在文章快结束时，作者表达了什么愿望? A）更多的人会认识到蜘蛛在生态系统中的独特地位。 B）人们对蜘蛛比对蝴蝶表现出更大的热情。 C）会有足够的走廊供蜘蛛移动。 D）会有更多的人欣赏蜘蛛的光彩。 定；…植搪面丰蓿直向the end ofthe passage可将答案线索定位于最后一段。 位： 解；最后一段提到，蜘蛛也许不太可能像蜜蜂、鸟类或蝴蝶那样吸引人类的热情，随后通过转折词But表达了 自己的愿景，即“当它们在今年秋天展现出光彩时，如果有更多的动物爱好者认识到蜘蛛在某些方面其实 很神奇，那将是一件好事”。所以选项D正确。选项A 、C都是利用原文个别词语设置的干扰项，不难排 除。选项B与最后一段首句内容不符，故也排除。 / Translation ] 力口强对... 的监管 strengthen the supervision of 方便... 用餐 facilitate dining for 价格实惠的affordable 行动不便的 with limited mobility 上门送餐月艮务 door-to-door meal delivery service 居家和社区养老 home- and community-based elderly care 养老模式 elderly care model Part IV @ •难词译注• 老龄人 口 the elderly population 采取各种措施 take various measures 推进... 建设 promote th"
+              "explanation": ";第四段最后一句提到，但自然环境保护主义者最关心的是那些因栖息地丧失和碎片化而受到威胁的品种, 这些因素使它们无法迁徙。由此可知，自然环境保护主义者最担心的是，某些品种的蜘蛛因为丧失栖息地而没有地方迁徙，故选项 B 正确，同时也可排除选项 D, 没有地方迁徙不代表失去了迁徙的能力。原文没有提到沼泽和荒地受到污染，故排除选项 A。原文提到杀虫剂使昆虫数量下降，导致蜘蛛食物供应减少， 但这不是自然环境保护主义者最担心的问题，故选项 C 也排除。 5 5 . 在文章快结束时，作者表达了什么愿望? A）更多的人会认识到蜘蛛在生态系统中的独特地位。 B）人们对蜘蛛比对蝴蝶表现出更大的热情。 C）会有足够的走廊供蜘蛛移动。 D）会有更多的人欣赏蜘蛛的光彩。 定；…植搪面丰蓿直向 the end ofthe passage 可将答案线索定位于最后一段。 位： 解；最后一段提到，蜘蛛也许不太可能像蜜蜂、鸟类或蝴蝶那样吸引人类的热情，随后通过转折词 But 表达了自己的愿景，即“当它们在今年秋天展现出光彩时，如果有更多的动物爱好者认识到蜘蛛在某些方面其实很神奇，那将是一件好事”。所以选项 D 正确。选项 A、C 都是利用原文个别词语设置的干扰项，不难排除。选项 B 与最后一段首句内容不符，故也排除。 / Translation ] 力口强对. . . 的监管 strengthen the supervision of 方便. . . 用餐 facilitate dining for 价格实惠的 affordable 行动不便的 with limited mobility 上门送餐月艮务 door-to-door meal delivery service 居家和社区养老 home- and community-based elderly care 养老模式 elderly care model Part IV @ •难词译注• 老龄人口 the elderly population 采取各种措施 take various measures 推进. . . 建设 promote the construction of 全",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-12-3/key_2023.12英语六级解析第3套.txt",
+                "sourceText": "54 . 这篇文章说，自然环境保护主义者最担心的是什么？ A）由于沼泽和荒地的污染，各个品种的蜘蛛受到威胁。 B）某些品种的蜘蛛由于失去了自然家园而濒临灭绝。 C）越来越多的蜘蛛正在被致命的杀虫剂杀死。 D）越来越多的蜘蛛物种被发现失去了迁徙的能力。 定, 根据题干彳言息词 conservationists，biggest worry 可蒋香橐凝聚荒叔于第四段。 位： 解;第四段最后一句提到，但自然环境保护主义者最关心的是那些因栖息地丧失和碎片化而受到威胁的品种, 这些因",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q55",
@@ -371,8 +623,14 @@
                 "C": "There would be sufficient corridors for spiders to move along.",
                 "D": "There would be more people appreciating spiders' splendour."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "The last paragraph expresses the wish that 'more animal lovers recognised the ways in which spiders are simply terrific', meaning more people appreciating spiders' splendour.",
+              "answerMeta": {
+                "sourceType": "llm-extract",
+                "model": "claude-sonnet-4-6",
+                "confidence": "high",
+                "verified": false
+              }
             }
           ]
         }

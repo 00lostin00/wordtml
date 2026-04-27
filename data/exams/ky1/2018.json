@@ -26,8 +26,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -39,8 +48,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -52,8 +70,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -65,8 +92,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -79,7 +115,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -91,8 +136,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -104,8 +158,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -117,8 +180,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -130,8 +202,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -143,8 +224,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -156,8 +246,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -169,8 +268,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -182,8 +290,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -195,8 +312,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -208,8 +334,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -222,7 +357,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -234,8 +378,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -248,7 +401,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -260,8 +422,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -273,8 +444,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5CADBD 6~10BCDBA 11~15BBACD 16~20ACBAC ; 5A6B5C4D ___________________ ______ _____________ ___________ ________ I_____________ _ _____________ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }
@@ -301,7 +481,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "21. D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q22",
@@ -313,8 +502,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": "决. 二段•.句 三段g句 D.新技术的负面影响可以被避免. 原文未提 11 > .浏览后发现，该题属于判断正误题，仅从选项角度解题最为高效. 从选项的角度解答一如何得出正解，排除干扰 找关键词:Worries about.回文定位:根据关键词可定位至三段,句，其与该句中的alarmist相对应.比 对匹配:该句提到，这（This）并不是危言耸听.由此无法得知This的具体指代，故需联系上文.辐射匹配: 二段•句提到，牛津大学的一项研究表明，大约有一半的美国工作岗位面临着被自动化的高风险，随之 而来的是中产阶级受到尤其严重的挤压；二段•句提到，低收入工作对机器人没有吸引力；二段•句提 *到，许多中产阶级从事的工作已经或即将弓I起它们（机器人）的兴趣；二段•句提到，富人拥有机器人， 所以他们将不会受到（自动化的）影响.可见，This指代的是自动化对中产阶级的工作造成巨大威胁这件 事情，而这并不是危言耸听，即自动化对中产阶级工作的威胁真实存在，因此作者认为人们对自动化的担 典参电您尊也一一段桃箜A? 找关键词:Optimists'opinions.回文定位:根据关键词可定位至三段•句，其与该句中的.ptimists point out相对应.比对匹配:该句提到，乐观主义者指出，技术剧变过去已经使工人获益.由此无法得知乐观 主义者的观点是否有依据，故需联系下文.辐射匹配:三段❸句提到，虽然工业革命对那些工作被机械 B化织布机所取代的卢德分子（反技术进步者）不太友好，但它最终提高了（人们的）生活水平，而且它创 造的工作比淘汰掉的要多.分析可知，三段•句是对乐观主义者所指出的“技术剧变过去已经使工人获益” 这一观点的具体论证.由此可见，乐观主义者关于新技术的观点是有依据的，故排除B. 屈至盅葡「neeS to l>e「tackled「面王画E「植据美遍萌诡佥至三度6瓦-套成面吊葩need a lot of help adjusting相对应.比对匹配:该句提到，在中间阶段（自动化使工人受益之前的过渡阶段），中产阶级工 人可能需要很多帮助来进行调整.由此无法得知中产阶级需要调整的具"
+              "answer": "C",
+              "explanation": "决. 二段•. 句三段 g 句 D. 新技术的负面影响可以被避免. 原文未提 11 >. 浏览后发现，该题属于判断正误题，仅从选项角度解题最为高效. 从选项的角度解答一如何得出正解，排除干扰找关键词:Worries about. 回文定位:根据关键词可定位至三段, 句，其与该句中的 alarmist 相对应. 比对匹配:该句提到，这（This）并不是危言耸听. 由此无法得知 This 的具体指代，故需联系上文. 辐射匹配: 二段•句提到，牛津大学的一项研究表明，大约有一半的美国工作岗位面临着被自动化的高风险，随之而来的是中产阶级受到尤其严重的挤压；二段•句提到，低收入工作对机器人没有吸引力；二段•句提 *到，许多中产阶级从事的工作已经或即将弓 I 起它们（机器人）的兴趣；二段•句提到，富人拥有机器人， 所以他们将不会受到（自动化的）影响. 可见，This 指代的是自动化对中产阶级的工作造成巨大威胁这件事情，而这并不是危言耸听，即自动化对中产阶级工作的威胁真实存在，因此作者认为人们对自动化的担典参电您尊也一一段桃箜 A? 找关键词:Optimists'opinions. 回文定位:根据关键词可定位至三段•句，其与该句中的. ptimists point out 相对应. 比对匹配:该句提到，乐观主义者指出，技术剧变过去已经使工人获益. 由此无法得知乐观主义者的观点是否有依据，故需联系下文. 辐射匹配:三段❸句提到，虽然工业革命对那些工作被机械 B 化织布机所取代的卢德分子（反技术进步者）不太友好，但它最终提高了（人们的）生活水平，而且它创造的工作比淘汰掉的要多. 分析可知，三段•句是对乐观主义者所指出的“技术剧变过去已经使工人获益” 这一观点的具体论证. 由此可见，乐观主义者关于新技术的观点是有依据的，故排除 B. 屈至盅葡「neeS to l>e「tackled「面王画 E「植据美遍萌诡佥至三度 6 瓦-套成面吊葩 need a lot of help adjusting 相对应. 比对匹配:该句提到，在中间阶段（自动化使工人受益之前的过渡阶段），中产阶级工人可能需要很多帮助来进行调整. 由此无法得知中产阶级需要调整的具",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "hor's view? A. Worries about automation are in fact groundless. B. Optimists opinions on new tech Hnd little support. * C. Issues arising from automation need to be tacided. D. Negative consequences of new tech can be avoided. 下列哪一项最能代表作者的观点？ 选项出处 A. 对自动化的担忧事实上是没有根二段, 至•句据的. 三段•句 B. 乐观主义者关于新技术的观点几乎找",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q23",
@@ -327,7 +525,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "23， A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q24",
@@ -340,7 +547,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "24 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q25",
@@ -353,7 +569,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "25， A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q26",
@@ -365,8 +590,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": "答--如何得出正解 找关键词:Paragraphs 1 and 2x many young Americans和cast doubts on.回文定位:根据关键词可定位至一段,句 和二段•❺句，其中many young Americans与一段•句中的more than two-thirds of young Americans表意相近， cast doubts on与二段❷句中的distrust和二段■句中的rarely or never trust相对应.比对匹配:一段.句提到， 哈佛大学的一项新调查发现，超过三分之二的美国年轻人反对特朗普总统使用推特.二段,句指出，人们对 所有媒体的不信任程度上升；❺句提到，为BuzzFeed新闻网所做的一项调查发现，44%的脸书用户很少或从 15 > 不相信来自该媒体巨头的新闻.由此可初步判断D选项正确，还需结合上下文进一步验证.辐射匹配:一段 •句提到，千禧一代更希望白宫的新闻通过其他渠道，而不是总统的社交媒体平台过滤后传出.综上可知，许 多美国年轻人对社交媒体作为可靠的新闻来源表示怀疑，故D正确. [路径二]从选项的角度解答--如何排除干扰 找关键词:news-filteringo回文定位:根据关键词可定位至一段❷句，其与该句中的news...to be filtered 相对应.比对匹配:该句提到，千禧一代更希望白宫的新闻通过其他渠道，而不是总统的社交媒体平台 A过滤后传出.此处意在表明，年轻人认为由总统推特过滤后传出的白宫新闻没有其他渠道过滤后传出的 可靠，但由此无法推知年轻人怀疑新闻过滤这一做法的正当性，故排除A. 找关键词:preference和social media pla血rms.回文定位:根第关福词可楚社至•一段♦荷，套市 preference与该句中的prefer * 同根词.比对匹配:该句提到，千禧一代更希望白宫的新闻通过其他渠道， 而不是总统的社交媒体平台过滤后传出.此处仅为千禧一代对“总统的社交媒体平台作为白宫新闻的传 B播渠道”的看法，无法推知人们对社交媒体平台是否有所偏好，故需联系下文.辐射匹配:"
+              "answer": "D",
+              "explanation": "答--如何得出正解找关键词:Paragraphs 1 and 2x many young Americans 和 cast doubts on. 回文定位:根据关键词可定位至一段, 句和二段•❺句，其中 many young Americans 与一段•句中的 more than two-thirds of young Americans 表意相近， cast doubts on 与二段❷句中的 distrust 和二段■句中的 rarely or never trust 相对应. 比对匹配:一段. 句提到， 哈佛大学的一项新调查发现，超过三分之二的美国年轻人反对特朗普总统使用推特. 二段, 句指出，人们对所有媒体的不信任程度上升；❺句提到，为 BuzzFeed 新闻网所做的一项调查发现，44%的脸书用户很少或从 15 > 不相信来自该媒体巨头的新闻. 由此可初步判断 D 选项正确，还需结合上下文进一步验证. 辐射匹配:一段 •句提到，千禧一代更希望白宫的新闻通过其他渠道，而不是总统的社交媒体平台过滤后传出. 综上可知，许多美国年轻人对社交媒体作为可靠的新闻来源表示怀疑，故 D 正确. [路径二]从选项的角度解答--如何排除干扰找关键词:news-filteringo 回文定位:根据关键词可定位至一段❷句，其与该句中的 news. . . to be filtered 相对应. 比对匹配:该句提到，千禧一代更希望白宫的新闻通过其他渠道，而不是总统的社交媒体平台 A 过滤后传出. 此处意在表明，年轻人认为由总统推特过滤后传出的白宫新闻没有其他渠道过滤后传出的可靠，但由此无法推知年轻人怀疑新闻过滤这一做法的正当性，故排除 A. 找关键词:preference 和 social media pla 血 rms. 回文定位:根第关福词可楚社至•一段♦荷，套市 preference 与该句中的 prefer * 同根词. 比对匹配:该句提到，千禧一代更希望白宫的新闻通过其他渠道， 而不是总统的社交媒体平台过滤后传出. 此处仅为千禧一代对“总统的社交媒体平台作为白宫新闻的传 B 播渠道”的看法，无法推知人们对社交媒体平台是否有所偏好，故需联系下文",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "tering practice B. people's preference for social media platforms C. the administration's ability to handle information D. social media as a reliable source of news 根据文章一. 二段可知，许多美国年轻人对表示怀疑. A. 新闻过滤这一做法的正当性 B. 人们对社交媒体平台的偏好 C. 政府处理信息的能力 D. 社交媒体作为可靠的新闻来源选项出处一段♦句一段❷句. 二段•❷句一段•句一段. 二段••句 [路径一]从题干的角度",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q27",
@@ -379,7 +613,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "27 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q28",
@@ -392,7 +635,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "28， D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q29",
@@ -405,7 +657,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "29 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q30",
@@ -418,7 +679,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "30 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q31",
@@ -431,7 +701,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "31. B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q32",
@@ -444,7 +723,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "32 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q33",
@@ -457,7 +745,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "33 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q34",
@@ -470,7 +767,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "34 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q35",
@@ -483,7 +789,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "35 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q36",
@@ -496,7 +811,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "36 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q38",
@@ -509,7 +833,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "38， A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q39",
@@ -522,7 +855,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "39 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q40",
@@ -534,8 +876,17 @@
                 "C": "The State, War, and Navy Building, as it was originally known, housed the three Executive Branch Departments most intimately associated with formulating and conducting the nation's foreign policy in the last quarter of the nineteenth century and the first quarter of the twentieth century - the period when the United States emerged as an international power. The building has housed some of the nation's most significant diplomats and politicians and has been the scene of many historic events.",
                 "D": "Many of the most celebrated national figures have participated in historical events that have taken place within the EEOB's granite walls. Theodore and Franklin D. Roosevelt, William Howard Taft, Dwight D. Eisenhower, Lyndon B. Johnson, Gerald Ford, and George H. W. Bush all had offices in this building before ** ( - ) -it(.;Jt! .11. (-3¾-14 Yi) becoming president. It has housed 16 Secretaries of the Navy, 21 Secretaries of War, and 24 Secretaries of State. Winston Churchill once walked its corridors and Japanese emissaries met here with Secretary of State Cordell Hull after the bombing of Pearl Harbor. [E] The Eisenhower Executive Office Building (EEOB) commands a unique position in both the national history and the architectural heritage of the United States. Designed by Supervising Architect of the Treasury, Alfred B. Mullett, it was built from 1871 to 1888 to house the growing staffs of the State, War, and Navy Departments, and is considered one of the best examples of French Second Empire architecture in the country. [F] Construction took 17 years as the building slowly rose wing by wing. When the EEOB was finished, it was the largest office building in Washington, with nearly 2 miles of black and white tiled corridors. Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety. Eight monumental curving staircases of granite with over 4,000 individually cast bronze balusters are capped by four skylight domes and two stained glass rotundas. [G] The history of the EEOB began long before its foundations were laid. The first executive offices were constructed between 1799 and 1820. A series of fires (including those set by the British in 1814) and overcrowded conditions led to the construction of the existing Treasury Building. In 1866, the construction of the North Wing of the Treasury Building necessitated the demolition of the State Department building."
               },
-              "answer": "B",
-              "explanation": "题最为高效. 从题干的角度解答一如何得出正解，排除干扰 梳理结构:本文共四段，其中前两段指出美国邮政署面临的问题，并分析原因；三段提出解决方案；四段论述 解决方案.概括主旨:文章一段指出美国邮政署面临严重的财政问题，并说明根本原因一术变革.管理僵 化；二段进一步说明原因一利益集团施压，改革多次受阻；三段针对美国邮政署面临的问题提出解决方案-- 邮政系统的修复方案；四段指出解决方案作用有限并说明原因，即方案虽对美国邮政署有利，但并非全面的改 革，且忽略了重要的问题.综上可知，美国邮政署需要的是经过认真考虑的全面改革，而不仅仅是能维系其生 存的短期解决方案，即美国邮政署需要的不只是一个权宜之计，故D正确. 二由.扃京到，忑不吾日苔普讯品的京斯如构发现百己赤字麻衬云或质卤看彳艮瓦必莉甬普-日运着福定 设置干扰，但文章的重点在于解决美国邮政署当前面临的问题，而非怀念其昔日美好时光，故排除A.B选项 中的“奶酪”可以用来比喻企业长期追求的目标.利益等，结合文章的主要描述对象“美国邮政署”可知， B选项旨在说明美国邮政署为了保护自身利益与对手竞争，但文中并未提及美国邮政署与对手竞争的相关信息， 故排除B.由对全文主旨的分析可知，美国邮政署的财政问题存在已久，而解决该问题需要一个长远的.经过 全盘考虑的方案，但速效药指的是只追求速度的方案，不能从根本上解决问题，故排除C. «26 回i ♦ Part B ,- 11命题分析 回嘟落 配套外教音频 今年的阅读理解B部分属于段落排序题,要求考生根据文章内容和结构将已被打乱顺序的各段落重新排序， 使之成为一篇连贯的文章.本文选自美国白宫官方网站上发布的一篇文章，原文标题为\"Eisenhower Executive Office Building\"(《艾森豪威尔行政办公楼》),文章从历史和建筑学角度对艾森豪威尔行政办公楼进行了介绍. 英汉对照 [1] (41) E.❶The Eisenhower Executive Office Building (EEOB) commands a unique position in both the na"
+              "answer": "D",
+              "explanation": "题最为高效. 从题干的角度解答一如何得出正解，排除干扰梳理结构:本文共四段，其中前两段指出美国邮政署面临的问题，并分析原因；三段提出解决方案；四段论述解决方案. 概括主旨:文章一段指出美国邮政署面临严重的财政问题，并说明根本原因一术变革. 管理僵化；二段进一步说明原因一利益集团施压，改革多次受阻；三段针对美国邮政署面临的问题提出解决方案-- 邮政系统的修复方案；四段指出解决方案作用有限并说明原因，即方案虽对美国邮政署有利，但并非全面的改革，且忽略了重要的问题. 综上可知，美国邮政署需要的是经过认真考虑的全面改革，而不仅仅是能维系其生存的短期解决方案，即美国邮政署需要的不只是一个权宜之计，故 D 正确. 二由. 扃京到，忑不吾日苔普讯品的京斯如构发现百己赤字麻衬云或质卤看彳艮瓦必莉甬普-日运着福定设置干扰，但文章的重点在于解决美国邮政署当前面临的问题，而非怀念其昔日美好时光，故排除 A. B 选项中的“奶酪”可以用来比喻企业长期追求的目标. 利益等，结合文章的主要描述对象“美国邮政署”可知， B 选项旨在说明美国邮政署为了保护自身利益与对手竞争，但文中并未提及美国邮政署与对手竞争的相关信息， 故排除 B. 由对全文主旨的分析可知，美国邮政署的财政问题存在已久，而解决该问题需要一个长远的. 经过全盘考虑的方案，但速效药指的是只追求速度的方案，不能从根本上解决问题，故排除 C. «26 回 i ♦ Part B, - 11 命题分析回嘟落配套外教音频今年的阅读理解 B 部分属于段落排序题, 要求考生根据文章内容和结构将已被打乱顺序的各段落重新排序， 使之成为一篇连贯的文章. 本文选自美国白宫官方网站上发布的一篇文章，原文标题为\"Eisenhower Executive Office Building\"(《艾森豪威尔行政办公楼》), 文章从历史和建筑学角度对艾森豪威尔行政办公楼进行了介绍. 英汉对照 [1] (41) E. ❶The Eisenhower Executive Office Building (EEOB) commands a unique position in both the n",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2018/key_2018年真题逐题细解.txt",
+                "sourceText": "Which of the following would be the best title for the text? A. The USPS Starts to Miss Its Good Old Days B. The Postal Service: Keep Away from My Cheese C. The USPS: Chronic Illness Requires a Quick Cure D. The Postal Service Needs More than a Band-Aid 下列哪项是文章的最佳标题？ 选项出处 A. 美国邮政署",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

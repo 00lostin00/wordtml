@@ -1,0 +1,608 @@
+{
+  "id": "cet6-2023-06-3",
+  "type": "cet6",
+  "year": 2023,
+  "month": 6,
+  "set": 3,
+  "title": "2023年6月大学英语六级真题(第3套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"It is widely accepted that an important goal of education is to help students learn how to learn.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "prompt": "It is widely accepted that an important goal of education is to help students learn how to learn."
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each \nblank from a list of choices given in a word bank following the passage. Read the passage through carefully \nbefore making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding \nletter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the \nwords in the bank more than once. \nYou might not know yourself as well as you think. According to a new study, people are ___26___ \naccurate judges of only some of their behaviors. While most previous studies on how well people know \nthemselves have been done on long-term personality traits, this new study ___27___ how well people \nunderstand how they are acting from one moment to the next. Researchers asked participants to wear \naudio recorders that automatically ___28___ every 9.5 minutes between 7 a.m. and 2 a.m. to record 30 \nseconds of audio. These participants were then emailed surveys four times a day asking them to \n___29___ how outgoing, agreeable, or conscientious they were during a particular hour of the day. The \nstudy used data from 248 participants, all of whom answered questions about their behavior for two \n___30___ weeks and wore the audio device for one of those weeks. \nSix laboratory assistants rated each participant's audio clips to see how their observations compared \nwith people's ___31___ of themselves. The six assistants were generally in agreement with one another \nabout how the people they were observing acted. Further, participants' ratings of their own behaviors \nagreed with observers' for how outgoing and how conscientious they were being. But the agreement \nbetween participants and outside observers was much smaller for agreeableness. Some of this ___32___ \ncould be because the observers used only audio clips, and thus could not read ___33___ like body \nlanguage, but there are ___34___ other explanations, as people should be able to hear when a participant \nis being kind versus being rude. The weak agreement between how participants thought they were \nacting and what observers heard could be because people would rather ___35___ rude behavior.",
+      "wordBank": {
+        "A": "activated",
+        "I": "probes",
+        "B": "articulates",
+        "J": "random",
+        "C": "assessment",
+        "K": "recall",
+        "D": "consecutive",
+        "L": "relatively",
+        "E": "cues",
+        "M": "saturated",
+        "F": "deny",
+        "N": "symptoms",
+        "G": "discrepancy",
+        "O": "terminate",
+        "H": "probably"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": "L",
+          "explanation": "题。 L) 〖 【语法判断】 空格所在句中， p ple 作主语， are 为系动词， accurate judges Of only some Of their behaviors 作表语， 句子成分完整。 而空格后面 accurate 为形容词， 因此空格处应填人副词， 修饰 accurateo 〖 【语义判断】 空格前一句提到， 你可能不像你认为的那么了解自己， 说明人们对于自己行为的判断并不总是准确的， 即对一些行为的判断可能并不准确。 而空格处填人的词用于修饰后面的形容词 accurate\" 准确的 ”， 因此， 空格所在句表示人们只对自己的部分行为有相对准确的判断。 由此确定 L) relatively 为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "26 ． 〖 考点 〗 副词辨析题。 L) 〖 【语法判断】 空格所在句中， p ple 作主语， are 为系动词， accurate judges Of only some Of their behaviors 作表语， 句子成分完整。 而空格后面 accurate 为形容词， 因此空格处应填人副词， 修饰 accurateo 〖 【语义判断】 空格前一句提到， 你可能不像你认为的那么了",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": "I",
+          "explanation": "题。 I) 〖 【语法判断】 空格前面为名词短语 this new study， 分析句子成分可知， this new study 在句中作主语， 而空格后为 how 引导的宾语从句， 句中缺少谓语， 因此空格处应填人动词。 〖 【语义判断】 空格所在句中前半句为 while 引导的让步状语从句， 句意为 “ 虽然之前大多数关于人们对自己了解程度的研究都是针对长期性格特征。 而空格处的主句在介绍这项新研究， 此处是指这项新研究的具体内容， 空格应填人表示 “ 探究 ” 的词。 由此确定 I) pro s 为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "27 ． 〖 考点 〗 动词辨析题。 I) 〖 【语法判断】 空格前面为名词短语 this new study， 分析句子成分可知， this new study 在句中作主语， 而空格后为 how 引导的宾语从句， 句中缺少谓语， 因此空格处应填人动词。 〖 【语义判断】 空格所在句中前半句为 while 引导的让步状语从句， 句意为 “ 虽然之前大多数关于人们对自己了解程度的研究都是针对长",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": "A",
+          "explanation": "题。 A) 〖 【语法判断】 空格位于 that 引导的定语从句中， 用于修饰前面的 audio recorderso 且此处 that 为关系代词， 指代 audio recorders， 在从句中作主语， 副词 automatically 可用于修饰动词、 副词、 形容词， 可知从句中缺少谓语动词， 因此空格处应当填动词。 〖 【语义判断】 空格前的主句意为 “ 研究人员要求参与者佩戴音频录音机 ”， 定语从句补充说明音频录音机的特性。 由空格前 automatically\" 自动地 ” 以及空格后 “ 每",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "28 ． 〖 考点 〗 动词辨析题。 A) 〖 【语法判断】 空格位于 that 引导的定语从句中， 用于修饰前面的 audio recorderso 且此处 that 为关系代词， 指代 audio recorders， 在从句中作主语， 副词 automatically 可用于修饰动词、 副词、 形容词， 可知从句中缺少谓语动词， 因此空格处应当填动词。 〖 【语义判断】 空格前的主句意为",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": "K",
+          "explanation": "题。 K) 〖 【语法判断】 空格前为 asking them t。， 说明此处为 ask sb. to do sth ． 结构， 因此空格处应当填动词原形。 〖 【语义判断】 根据前文可知， 这项研究想要调查人们对自己每时每刻行为的了解程度， 空格处前一句告诉我们， 研究者收集了参与者早上 7 点到凌晨 2 点之间每",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "29， 〖 考点 〗 动词辨析题。 K) 〖 【语法判断】 空格前为 asking them t。， 说明此处为 ask sb. to do sth ． 结构， 因此空格处应当填动词原形。 〖 【语义判断】 根据前文可知， 这项研究想要调查人们对自己每时每刻行为的了解程度， 空格处前一句告诉我们， 研究者收集了参与者早上 7 点到凌晨 2 点之间每",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": "D",
+          "explanation": "题。 D) 〖 【语法判断】 空格前为数词 tw。， 其后一般接名词， 而空格后已有名词 weeks， 由此可判断空格处应当填形容词修饰 weekso 〖 【语义判断】 空格位于所在句的定语从句中， 主句表示这项研究使用的数据来自 248 名参与者， 而定语从句用于具体说明这 248 名参与者， 对他们加以介绍和限定。 根据上下文意思可以推测空格处指这些参与者连续两周回答有关自己行为的问题。 由此确定 D） consecutive 为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "30 ． 〖 考点 〗 形容词辨析题。 D) 〖 【语法判断】 空格前为数词 tw。， 其后一般接名词， 而空格后已有名词 weeks， 由此可判断空格处应当填形容词修饰 weekso 〖 【语义判断】 空格位于所在句的定语从句中， 主句表示这项研究使用的数据来自 248 名参与者， 而定语从句用于具体说明这 248 名参与者， 对他们加以介绍和限定。 根据上下文意思可以推测空格处指这些参与者连",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": "G",
+          "explanation": "题。 G) 〖 【语法判断】 空格前为 some of this， 后面需要接名词， 因此空格处应当填名词。 〖 【语义判断】 空格前 this 指代前文内容， 空格前一句告诉我们参与者和外部观察者在有多讨人喜欢方面的一致性低很多； 而空格后给出了原因， 空格所填词应当是对前一句内容的概括和总结， 即两者的结果不一致。 由此确定 G) discrepancy 为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "32 ． 〖 考点 〗 名词辨析题。 G) 〖 【语法判断】 空格前为 some of this， 后面需要接名词， 因此空格处应当填名词。 〖 【语义判断】 空格前 this 指代前文内容， 空格前一句告诉我们参与者和外部观察者在有多讨人喜欢方面的一致性低很多； 而空格后给出了原因， 空格所填词应当是对前一句内容的概括和总结， 即两者的结果不一致。 由此确定 G) discrepanc",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": "E",
+          "explanation": "题。 E) 〖 【语法判断】 空格前为动词 read， 作为及物动词其后可跟名词或宾语从句作宾语， 作为不及物动词其后可跟副词或介词； 而空格后 like 表示举例， 因此空格处应当与 body language 为同一词性， 故空格处应当填名词。 〖 【语义判断】 空格所在句说明了观察者只能通过音频片段来评判参与者的行为， 说明他们无法通过其他渠道或提示来获知参与者的行为； 且所举例子 body lan age “ 身体语言 ” 是一种通过无声方式传达情感和意图的非言语表达， 能够提示参与者的情感。 结合句意及选项可确定 E) cues 为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "33， 〖 考点 〗 名词辨析题。 E) 〖 【语法判断】 空格前为动词 read， 作为及物动词其后可跟名词或宾语从句作宾语， 作为不及物动词其后可跟副词或介词； 而空格后 like 表示举例， 因此空格处应当与 body language 为同一词性， 故空格处应当填名词。 〖 【语义判断】 空格所在句说明了观察者只能通过音频片段来评判参与者的行为， 说明他们无法通过其他渠道或提示来获",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": "H",
+          "explanation": "题。 H) 〖 【语法判断】 空格所在句为 there be 句型， 而空格后为名词， 句子成分完整， 可推测空格处应填人副词修饰句子。 〖 【语义判断】 空格所在句 but 之前提出了一种可能导致参与者和外部观察者在判断参与者有多讨人喜欢方面产生差异的原因， but 表转折， 指出还有其他原因。 但由于这些都是研究者的推测， 并不确定哪一个才是真正的原因。 由此确定 H) probably 为答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "34， 〖 考点 〗 副词辨析题。 H) 〖 【语法判断】 空格所在句为 there be 句型， 而空格后为名词， 句子成分完整， 可推测空格处应填人副词修饰句子。 〖 【语义判断】 空格所在句 but 之前提出了一种可能导致参与者和外部观察者在判断参与者有多讨人喜欢方面产生差异的原因， but 表转折， 指出还有其他原因。 但由于这些都是研究者的推测， 并不确定哪一个才是真正的原因",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": "F",
+          "explanation": "题。 F) 〖 【语法判断】 分析句子成分可知， 连词 because 引导原因状语从句， 该从句缺少谓语动词， 且空格前 would rather 为助动词， 因此空格处应当填人动词原形。 〖 【语义判断】 空格所在句提出了另一种解释参与者和外部观察者在判断参与者有多讨人喜欢方面不一致的原因， 结合上下文意思可推测人们往往倾向于否认自己做出了粗鲁行为。 由此确定 F) deny 为答案。 参考译文你可能不像你认为的那么了解自己。 根据一项新研究， 人们只对自己的部分行为有相对准确的判断。 虽然之前大多数关于人们对自己了解程度的研究都是针对长期性格特征的， 这项新研究调查的则是人们对自己从某一时刻到下一时刻的行为的了解程度。 研究人员要求参与者佩戴音频录音机， 这些设备在早上 7 点到凌晨 2 点之间每",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "35 ． 〖 考点 〗 动词辨析题。 F) 〖 【语法判断】 分析句子成分可知， 连词 because 引导原因状语从句， 该从句缺少谓语动词， 且空格前 would rather 为助动词， 因此空格处应当填人动词原形。 〖 【语义判断】 空格所在句提出了另一种解释参与者和外部观察者在判断参与者有多讨人喜欢方面不一致的原因， 结合上下文意思可推测人们往往倾向于否认自己做出了粗鲁行为。 由",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "We're experiencing the rebirth of smallness. Farmers markets, tiny homes, and brew pubs all exemplify \nour love of smallness. So do charter schools, coffee shops, and local bookstores. Small is often (but not \nalways) more affordable, healthier, and sustainable, but its finest characteristic, the one that turns charm \ninto love, is that going small allows us to be more fully who we are."
+        },
+        {
+          "label": "B",
+          "text": "In higher education the trend is mostly in the opposite direction: Universities with 20,000 or \n30,000students are considered \"mid-sized\". The nation's largest university, Arizona State University, has \n80,000 students on campus and aims to enroll another 100,000 students online. At the other end of the \nspectrum is a handful of colleges that have fewer than a hundred students on campus and no online \ncourses: colleges such as Sterling College, Thomas More College of Liberal Arts, and Deep Springs \nCollege. These colleges are so small that they can only be called \"tiny.\""
+        },
+        {
+          "label": "C",
+          "text": "Tiny colleges focus not just on a young person's intellect, but on the young person as a whole. Equally \nimportant, tiny colleges ask, \"How can education contribute to human flourishing and the well-being of \nthe world?\" And they shape a college experience to address that question. They replace concerns about \ninstitutional growth with attention to the growth of students as fully developed participants in their \ncommunities."
+        },
+        {
+          "label": "D",
+          "text": "I've had the privilege of teaching at three different institutions of higher learning during my career-a small \nliberal arts college and two mid-sized public universities. I've also been profoundly disappointed in each \nof these institutions, and in many of my colleagues, especially when it comes to helping students and \npreparing them for the many responsibilities of adulthood. Administrators focus on the business of \nrunning a university, and most faculty focus on their scholarship and teaching their discipline. Little \ndeliberate attention is given to how students mature as individuals and social beings."
+        },
+        {
+          "label": "E",
+          "text": "Having just retired from teaching at a public university, I'm now returning to my hometown of Flagstaff, \nArizona, to establish a tiny college—Flagstaff College. I'm convinced there's a need for another type of \neducation, one devoted to helping students come into their own and into this beautiful and troubled \nworld. Young people need an education that will provide them with meaning, hope, courage, and \npassion, as well as information and skills. Large institutions, I believe, are particularly ill-suited to this \ntype of education."
+        },
+        {
+          "label": "F",
+          "text": "There's no \"best of\" list when it comes to tiny colleges, at least not yet. But around the country people are \ncreating new colleges that provide an alternative to small liberal arts colleges, large public universities, \nand online education."
+        },
+        {
+          "label": "G",
+          "text": "With only 26 students, Deep Springs is the smallest college in the country and, quite likely, the most \natypical (非典型的). Located on a working cattle ranch on the California-Nevada border, Deep Springs \n\nis a private, residential, two-year college for men, committed to educating students for \"a life of service \nto humanity.\" Founded by the electricity tycoon (大亨) L.L. Nunn in 1917, Deep Springs \"curriculum\" \nrevolves around academics, labor, and self-governance. In addition to their courses, students are charged \nwith running the 155-acre ranch and overseeing the functioning of the college. Students chair both the \nadmissions and the curriculum committees."
+        },
+        {
+          "label": "H",
+          "text": "\"Living in close community with one's teachers and fellow students, and being forced to take on adult \nresponsibilities, makes for one's growth as a person,\" says William Hunt, who graduated last year. \"To \nexist for very long in a community like that, you have to get over the question of whether you're \nsufficiently talented or principled and get started worrying about how you can stretch yourself and your \npeers, how much you can manage to learn with them.\""
+        },
+        {
+          "label": "I",
+          "text": "Sterling College, in Craftsbury Common, Vermont, is also very small-fewer than 100 students. Unlike \nDeep Springs, Sterling focuses its curriculum on environmental and social justice issues, but like Deep \nSprings it places a high value on personal responsibility and manual labor. According to its catalog, a \ncollege education at Sterling combines \"rigorous academics, roll-up-your-sleeves challenges, and good \nold hard work.\""
+        },
+        {
+          "label": "J",
+          "text": "The average tuition at a small liberal-arts college is $30,000 to $40,000 a year, not including the cost of \nliving on campus, as compared to $8,000 to $10,000 a year for tuition alone at a public university. Of the \ntiny colleges, only Deep Springs doesn't charge tuition or room and board; students pay only for books \nand the cost of traveling to and from college. If tiny schools are to become a player on the higher \neducation scene, they will need to find a way to be truly affordable."
+        },
+        {
+          "label": "K",
+          "text": "Doing so may not be that difficult so long as they do not pattern themselves too closely on existing \nnorms. We've come to believe that a good college should have many academic programs and excellent \nfacilities, posh (豪华的) dorms, an array of athletic programs, and a world-class student activity center. \nImagine a good college without a climbing wall! We also have accepted the idea that college presidents, \nand their many vice-presidents, should be paid like their counterparts in the business world and that \nhigher education requires an elaborate, up-to-date technology infrastructure. All of this drives up the cost \nof education. \nL) The \"trick\" to making tiny colleges affordable, if that's the right word, is simplicity. At its core, education \nis a human-to-human interaction. Reflecting on his own college education, President Garfield once \ncommented that an ideal college would consist of nothing more than the legendary teacher Mark Hopkins \non one end of a log and a student on the other. The economics of a tiny college, in other words, might be \nsimilar to that of a tiny house. Because it is small, a tiny house costs less to build and less to furnish, \ninsure, and maintain. But the economic benefits of a small house don't end there. Tiny homes discourage \nhomeowners from buying stuff that they really don't need, because there's no place to put it. \nM) I'm a late convert to the idea of tiny colleges, and I fully understand the need for many diverse types of \neducational institutions. Academic research and job training are important, but tiny colleges aren't suited \nfor either. The educational needs of a complex society are themselves complex, and no single model can \nmeet all of these needs. But I'm now convinced there's an educational need that's now going almost \ncompletely unmet: namely, the need to help young people transition into adulthood. Tiny colleges can do \nthis better than any other type of educational institution. \nN) The ultimate justification for a tiny college is the conviction that each of us comes into our full humanity \nby close interaction with those who know and care for us, and that one of the basic purposes of higher \neducation is social. Although we give lip service to the idea that a college education will make us better \npeople, when all's said and done, we think of higher education primarily in economic terms. We've come \nto think of higher education as a means to make a living rather than make a life. We've also come to see \nhigher education as a private good rather than a public one. Tiny colleges are not the answer to all of our \neducational requirements, but they're an answer to one of our most basic educational necessities; the need \n\nto produce thoughtful, engaged, and compassionate human beings."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "One tiny American college situated on a cattle farm is devoted to educating students to serve mankind \nthroughout their lives.",
+          "answer": "G",
+          "explanation": "〗 细节归纳题。 G） 段第二句提到深泉学院位于加利福尼亚州和内华达州边界的一个养牛牧场， 是一所两年制私立寄宿制男子学院， 致力于培养学生 “ 终生为人类服务 ”。 题干中 one tiny American college situated on a cattle farm 对应原文中的 located on a working cattle ranch； 题干中的 devoted to educating students to serve mankind throughout their lives 是对原文中 committed to educaung students for “ a life Of service to humanity ” 的同义转述， 故答案为 G)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "36 ． 〖 定位 〗 由题干中的 situated on a cattle farm 和 educating students to serve mankind throughout their lives 可以定位到文章 G） 段第二句。 G) 〖 精析 〗 细节归纳题。 G） 段第二句提到深泉学院位于加利福尼亚州和内华达州边界的一个养牛牧场， 是一所两年制私立寄宿制男子学院， 致力于培养学生 “ 终生为人类服务 ”。 题干中 one tiny American college situated on a cattle farm 对应原文中的 located on a",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Much to the author's disappointment, the three institutions of higher learning where she taught largely \nignore students' growth as social beings.",
+          "answer": "D",
+          "explanation": "〗 同义转述题。 D） 段提到作者曾在三所不同的高等学府任教， 她对这些机构和许多同事深感失望， 因为很少有人有意识地关注学生如何成长为个体和社会人。 题干中的 much to the author， s disappointment 是原文中",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "37 ． 〖 定位 〗 由题干中的 much to the author， s disappointment 和 ignore students， growth as social beings 定位到文章 D) 段。 D) 〖 精析 〗 同义转述题。 D） 段提到作者曾在三所不同的高等学府任教， 她对这些机构和许多同事深感失望， 因为很少有人有意识地关注学生如何成长为个体和社会人。 题干中的 much to the author， s disappointment 是原文中",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Tiny colleges must be made affordable in order to play a role in higher education.",
+          "answer": "J",
+          "explanation": "〗 同义转述题。 J） 段第三句指出如果微型学院想要成为高等教育领域的一员， 它们就需要找到方法， 真正能让学生负担得起。 题干中的 must made affordable 对应原文中的 to truly affordable； 题干中的 play a role in higher education 是对原文中的 to become a player on the higher scene 的同义转述， 故答案为 J)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "38 ． 〖 定位 〗 由题干中的 must made affordable 和 play a role in higher education 可以定位到文章 J） 段第三句。 J) 〖 精析 〗 同义转述题。 J） 段第三句指出如果微型学院想要成为高等教育领域的一员， 它们就需要找到方法， 真正能让学生负担得起。 题干中的 must made affordable 对应原文中的 to truly affordable； 题干中的 play a role in higher education 是对原文中的 t",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "According to a recent graduate from a tiny college, living together with faculty and fellow students is \nconducive to a student's growth as a person.",
+          "answer": "H",
+          "explanation": "〗 同义转述题。 H） 段第一句提到去年毕业的威廉 · 亨特说： “ 与老师和同学生活在紧密的团体中， 承担起成年人的责任， 有助于一个人的成长。 ” 题干中的 a recent graduate 对应原文中的 WiIIiam Hunt， whO graduated last year； 题干中的 living together with faculty and fellow students is conducive to a student， s growth as a person 是对原文中 “ living in close community with one， s teachers and fellow students. ． · makes for one s growth as a per n ” 的同义转述， 故答案为 H)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "recent graduate 和 living together with faculty and fellow students is conducive to a student， s growth as a person 可以定位到文章 H） 段第一句。 H) 〖 精析 〗 同义转述题。 H） 段第一句提到去年毕业的威廉 · 亨特说： “ 与老师和同学生活在紧密的团体中， 承担起成年人的责任， 有助于一个人的成长。 ” 题干中的 a recent graduate 对应原文中的 WiIIiam Hunt， whO graduated last year； 题干中的 living",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Rather than going small, most American universities are trying to go big.",
+          "answer": "B",
+          "explanation": "〗 细节归纳题。 B） 段第一、 二句提到在高等教育中， 趋势大多相反： 拥有 2 万或 3 万名学生的大学被认为是 “ 中等规模 ”。 美国最大的大学亚利桑那州立大学有 8 万名在校学生， 还计划再招收 10 万名在线学生。 题干中的 rather than going small 是原文中 the trend is mostly in the opposite direction 的同义表达； 题干中的 most American universities are trying to go big 是对这两句列出的数据的归纳总结， 故答案为 B)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "40 ． 〖 定位 〗 由题干中的 most American universities are trying to go big 可以定位到文章 B） 段的第一 B) 〖 精析 〗 细节归纳题。 B） 段第一、 二句提到在高等教育中， 趋势大多相反： 拥有 2 万或 3 万名学生的大学被认为是 “ 中等规模 ”。 美国最大的大学亚利桑那州立大学有 8 万名在校学生， 还计划再招收 10 万名在线学生。 题干中的 rather than going small 是原文中 the trend is mostly",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "In a certain tiny college, rigorous academic work and traditional manual labor are integrated.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Tiny colleges focus on educating students to become well-rounded citizens instead of seeking their own \nexpansion.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "The essence of education lies in the interaction between people.",
+          "answer": "L",
+          "explanation": "〗 同义转述题。 L） 段第二句提到教育的核心是人与人之间的互动。 题干中的 the essence of education 对应原文中的 at its core； 题干中的 the interaction between people 对应原文中的 a human-to-human interaction； 题干是对这句话的同义转述， 故答案为 L)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "43 ． 〖 定位 〗 由题干中的 the essence of education 和 the interaction between ople 定位到文章 L) 段 L) 〖 精析 〗 同义转述题。 L） 段第二句提到教育的核心是人与人之间的互动。 题干中的 the essence of education 对应原文中的 at its core； 题干中的 the interaction between people 对应原文中的 a human-to-human interaction； 题干是对这句话的同义转述",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "After her retirement, the author has decided to set up a tiny college in her hometown.",
+          "answer": "E",
+          "explanation": "〗 同义转述题。 E） 段第一句指出作者刚从一所公立大学退休， 现在回到家乡亚利桑那州的弗拉格斯塔夫， 建立一所微型学院一一一弗拉格斯塔夫学院。 题干中的 after her retirement 是原文中 having Just retired from teaching at a public university 的同义表达； 题干中的 set up a tiny college 是原文中 establish a tiny college 的同义表达， 故答案为 E)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "44 ． 〖 定位 〗 由题干中的 retirement 和 set up a college in her hometown 定位到 E） 段第一句。 E) 〖 精析 〗 同义转述题。 E） 段第一句指出作者刚从一所公立大学退休， 现在回到家乡亚利桑那州的弗拉格斯塔夫， 建立一所微型学院一一一弗拉格斯塔夫学院。 题干中的 after her retirement 是原文中 having Just retired from teaching at a public universit",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Tiny colleges are justified as it is believed that our growth into full humanity comes through interaction \nwith people near and dear to us.",
+          "answer": "N",
+          "explanation": "〗 同义转述题。 N） 段第一句提到设立微型学院的最重要的理由是基于这样一种想法： 我们每个人都是通过与那些了解和关心我们的人的密 20 四年 6 月六级真题第 3 套第 4 页淘宝店誦： 叮当考研切互动来充分发挥我们的潜力的。 题干中的 tiny colleges are justified 是原文中 the ultimate justification for a tiny college 的同义表达； 题干中的 it is believed 是原文中 conviction 的同义表达； 题干中的 interaction with people near and dear to us 是原文中 close interaction with those who know and care for us 的同义表达。 题干是对原文中这句话的同义转述， 故答案为 N)。 参考译文为什么我们需要微型学院 A) 我们正在经历 “ 小 ” 的重生。 农贸市场、 小房子和酒吧都证明了我们对小的热爱。 特许学校、 咖啡店和地方书店也是这样的例子。 “ 小 ” 通常 （但不总是） 更实惠、 更健康、 更可持续， 但它最大的特点是让魅力变成爱， 让我们更充分地做自己。 B) （40） 在高等教育中， 趋势大多相反： 拥有 2 万或 3 万名学生的大学被认为是 “ 中等规模 ”。 美国最大的大学亚利桑那州立大学有 8 万名在校学生， 还计划再招收 10 万名在线学生。 另一个极端是， 一些学院学生人数少于 100 人且没有在线课程， 如斯特林学院、 托马斯莫尔文学院和深泉学院。 这些学院很小， 只能被称为 “ 微型 ”。 0 微型学院不仅关注年轻人的智力， 而且关注年轻人的整体发展。 同样重要的是， 微型学院会就 “ 教育如何能为人类的繁荣和世界的福祉做出贡献？ ” 这一问题提出疑问。 他们通过塑造大学经历来回应这个问题。 （42） 他们不再关注机构的发展， 而是关注学生作为充分发展的社会参与者的成长。 D) （",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+            "sourceText": "45 ． 〖 定位 〗 由题干中的 our growth into full humamty 和 interaction with people near and dear to us 定位到 N） 段第一句。 N) 〖 精析 〗 同义转述题。 N） 段第一句提到设立微型学院的最重要的理由是基于这样一种想法： 我们每个人都是通过与那些了解和关心我们的人的密 20 四年 6 月六级真题第 3 套第 4 页淘宝店誦： 叮当考研切互动来充分发挥我们的潜力的。 题干中的 tiny colleges are justified 是原文中 the ultimate",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage. \nIf you're someone who has turned to snacking on junk food more in the pandemic (大流行病), \nyou're not alone. Investigative reporter Michael Moss says processed food is engineered to hook you, \nnot unlike alcohol, cigarettes, or other harmful substances. His 2013 book, Salt Sugar Fat, explored food \ncompanies' aggressive marketing of those products and their impact on our health. In his new book, \nHooked, Moss updates the food giants' efforts to keep us eating what they serve, and how they're \nresponding to complaints from consumers and health advocates. \nProcessed food is inexpensive, it's legal, and it's everywhere. Companies' advertising is cueing us \nto remember those products and we want those products constantly. So the food environment is one of \nthose key things that makes food even more problematic for so many people. Memory, nostalgia (怀旧) \nin particular, plays a big role in the foods we crave. Soda companies discovered that if they put a soda in \nthe hands of a child when they're at a ball game with their parents, that soda will forever be associated \nwith that joyous moment. Later in life, when that child wants to experience a joyous moment, they're \ngoing to think of soda. Many people seek comfort in the snacks they remember from childhood. \nMoss examines the way companies capitalize on our memories, cravings and brain chemistry to \nkeep us snacking. \nOne of the reasons I came to think that some of these food products are even more powerful, more \ntroublesome than drugs can be is memory. What we eat is all about memory. And we begin forming \nmemories for food at a really early age. And we keep those memories for a lifetime. Knowing this, the \nfood industry spends lots of time trying to shape the memories that we have for their products. One of \nthe features of addiction that scientists studying drug addiction discovered back in the 1990s was that \nthe faster a substance hits the brain, the more apt we are as a result to act impulsively. There's nothing \nfaster than food in its ability to hit the brain. For Moss, this puts the notion of \"fast food\" in an entirely \nnew light as this isn't limited to fast food chains-almost 90% of food products in grocery stores are \nprocessed foods. Everything in the industry is about speed, from manufacturing to packaging. \nOverall, Moss outlines the industry's dependence on making their products inexpensive, super \n\ndelicious, and incredibly convenient for consumers. Now that more and more people care about what \nthey put in their bodies and are wanting to eat healthier, these companies are finding it really difficult to \nmeet that new demand because of their own addiction to making these convenience foods.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "In what way does Michael Moss think processed food is comparable to alcohol and cigarettes?",
+              "options": {
+                "A": "They are all addictive.",
+                "B": "They are all necessary evils.",
+                "C": "They are all engineered to be enjoyed.",
+                "D": "They are all in increasingly great demand."
+              },
+              "answer": "A",
+              "explanation": "〗 事实细节题。 第一段第二句指出， 加工食品的设计就是为了 “ 吸引 ” 你， 就像酒精、 香烟或其他有害物质一样。 这里 hook 表示吸引， 使别人上钩， not unlike 双重否定表示肯定， 即这些有害物质都是让人上瘾的， 故答案为 A)。 〖 避错 〗 选项 B） “ 它们都是必要的有害物质 ” 在原文没有对应的信息； 选项 C) 容易误选， processed food is engineered to hook you 说的是加工食品就像酒精、 香烟一样是为了让你上瘾， 而不是供人享受的， 因此排除 0； 选项 D） 的内容在原文中没有提及， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+                "sourceText": "46 ． 〖 定位 〗 由题干中的 processed food is comparable to alcohol and cigarettes 定位到第一段第二句。 A) 〖 精析 〗 事实细节题。 第一段第二句指出， 加工食品的设计就是为了 “ 吸引 ” 你， 就像酒精、 香烟或其他有害物质一样。 这里 hook 表示吸引， 使别人上钩， not unlike 双重否定表示肯定， 即这些有害物质都是让人上瘾的， 故答案为 A)。 〖 避错 〗 选项 B） “ 它们都是必要的有害物质 ” 在原文没有对应的信息",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What does the author say plays a key role in the foods we crave?",
+              "options": {
+                "A": "The food environment.",
+                "B": "Aggressive marketing.",
+                "C": "Convenience.",
+                "D": "Memory."
+              },
+              "answer": "D",
+              "explanation": "〗 事实细节题。 文章第二段第四句提到， 记忆， 尤其是怀旧， 在我们对食物的渴望中扮演着重要角色。 故答案为 D)。 〖 避错 〗 第二段第三句提到， 吃食物时所处的环境是让食物问题放大的关键因素之一， 并非在对食物的渴望中起关键作用的因素， 排除选项 A）； 积极营销是食品公司采取的措施， 食品公司利用的是我们对食物的记忆， 排除选项 B)； 方便是速食的一个特征， 但不是我们渴望食物的关键因素， 排除 C) 选项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+                "sourceText": "47 ． 〖 定位 〗 由题干中的 plays a key role in the foods we crave 定位到第二段第四句。 D) 〖 精析 〗 事实细节题。 文章第二段第四句提到， 记忆， 尤其是怀旧， 在我们对食物的渴望中扮演着重要角色。 故答案为 D)。 〖 避错 〗 第二段第三句提到， 吃食物时所处的环境是让食物问题放大的关键因素之一， 并非在对食物的渴望中起关键作用的因素， 排除选项 A）； 积极营销是食品公司采取的措施， 食品公司利用的是我们对食物的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What do food companies do to capitalize on consumers' association with their food products?",
+              "options": {
+                "A": "They strive to influence how consumers remember their products.",
+                "B": "They attempt to use consumers' long-term memories to promote addiction.",
+                "C": "They try to exploit consumers' memories for their products as early as possible.",
+                "D": "They endeavor to find what consumers remember about their products."
+              },
+              "answer": "A",
+              "explanation": "〗 推理判断题。 第二段第五句举例指出， 苏打水公司发现， 如果他们在孩子和父母一起看球赛的时候， 把苏打水放在孩子手里， 那苏打水就会永远和那个欢乐的时刻联系在一起。 公司把消费者对于欢乐的记忆和食品联系起来， 第四段第五句也指出食品工业花了很多时间试图塑造我们对产品的记忆。 综合可知， 答案为 A)O 〖 避错 〗 B） 选项将原文所述的 “ 人们对于快乐时刻的记忆 ” 和 “ 人们童年时对食物的记忆 ” 窜改为 “ 长期记忆 ”； 第四段第三句指出我们在很小的时候就开始形成对食物的记忆， 这里 early 是指消费者很小的时候， 不是指食品公司尽早利用消费者对食物的记忆， 排除 0 选项； 原文中没有寻找消费者对产品记忆的表述， 故排除 D)O",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+                "sourceText": "48 ． 〖 定位 〗 由题干中的 association with their food pr ucts 定位到第二段第五句。 A) 〖 精析 〗 推理判断题。 第二段第五句举例指出， 苏打水公司发现， 如果他们在孩子和父母一起看球赛的时候， 把苏打水放在孩子手里， 那苏打水就会永远和那个欢乐的时刻联系在一起。 公司把消费者对于欢乐的记忆和食品联系起来， 第四段第五句也指出食品工业花了很多时间试图塑造我们对产品的记忆。 综合可知， 答案为 A)O 〖 避错 〗 B）",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "How does the food industry operate from manufacturing to packaging, according to Moss?",
+              "options": {
+                "A": "Placing the idea of fast food in an entirely new light.",
+                "B": "Setting no limit to the number of fast food chains.",
+                "C": "Focusing on how quickly the work is done.",
+                "D": "Prioritizing the quality of their products."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "Why are companies finding it difficult to satisfy consumers' demand for healthier food products?",
+              "options": {
+                "A": "They think speed of production outweighs consumers' health.",
+                "B": "They believe their industry would perish without fast foods.",
+                "C": "They have to strike a balance between taste and nutrition.",
+                "D": "They are hooked on manufacturing convenience foods."
+              },
+              "answer": "D",
+              "explanation": "〗 事实细节题。 最后一句提到， 食品公司发现很难满足消费者的新需求， 因为他们自己沉迷于制造这些方便食品。 故答案为 D)。 〖 避错 〗 食品公司认为生产速度比消费者的健康更重要， 这点不是食品公司很难满足消费者对健康食品的需求的原因， 排除选项 A)； 选项 B） 和选项 C） 在原文中没有相关信息支撑。 参考译文如果你在疫情期间变得更喜欢吃垃圾食品， 那么你并不孤单。 （46） 调查记者迈克尔 · 莫斯称， 加工食品的设计就是为了 “ 吸引 \" 你， 就像酒精、 香烟或其他有害物质一样。 他在 2013 年出版的 《盐、 糖、 脂肪》 一书中探讨了食品公司对这些产品的积极营销及其对我们健康的影响。 在莫斯的新书 《上瘾》 中， 他补充指出食品巨头们努力让我们吃到他们提供的食物， 以及他们如何回应消费者和健康倡导者的投诉。 加工食品便宜、 合法， 而且随处可见。 公司的广告正在提示我们记住这些产品， 而我们不断地想要这些产品。 所以对很多人来说吃食物时所处的环境是让食物问题放大的关键因素之一。 （47） 记忆， 尤其是怀旧， 在我们对食物的渴望中扮演着重要角色。 苏打水公司发现， 如果他们在孩子和父母一起看球赛的时候， 把苏打水放在孩子手里， 那苏打水就会永远和那个欢乐的时刻联系在一起。 在以后的生活中， 当孩子想要体验快乐的时刻时， 他们会想到苏打水。 许多人在童年记忆中的零食中寻求安慰。 莫斯研究了公司如何利用我们的记忆、 渴望和大脑化学反应来让我们保持吃零食的习惯。 我认为这些食品甚至比药物更强大、 更麻烦的原因之一是记忆。 我们吃什么都与记忆有关， 我们在很小的时候就开始形成对食物的记忆。 我们将这些记忆保存一生。 （48） 知道了这一点， 食品工业花了很多时间试图塑造我们对他们产品的记忆。 早在 20 世纪 90 年代， 研究药物成瘾的科学家就发现， 成瘾的一个特征是， 物质进人大脑的速度越快， 我们就越容易冲动行事。 没有什么比食物对大脑的影响更快的了。 对莫斯来说， 这让他对 “ 快餐 ” 的概念有了全新的认识， 因为这不仅仅局限于快餐连锁店一一一杂",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+                "sourceText": "中的 finding it difficult to satisfy 20 四年 6 月六级真题第 3 套第 6 页淘宝店誦： 叮当考研 consumers， demand for healthier fOOd products 定位到全文最后一句。 D) 〖 精析 〗 事实细节题。 最后一句提到， 食品公司发现很难满足消费者的新需求， 因为他们自己沉迷于制造这些方便食品。 故答案为 D)。 〖 避错 〗 食品公司认为生产速度比消费者的健康更重要， 这点不是食品公司很难满足消费者对健康食品的需求的原因， 排除选项 A)； 选项 B） 和选项 C） 在原文中没有相关信息支撑。 参考译文如果你在",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage. \nChimpanzees (黑猩猩), human beings' closest animal relatives, share up to 98% of our genes. Yet \nhumans and chimpanzees lead very different lives. Fewer than 300,000 wild chimpanzees live in a few \nforested corners of Africa today, while humans have colonized every corner of the globe. At more than 7 \nbillion, human population dwarfs that of nearly all other mammals—despite our physical weaknesses. \nWhat could account for our species' incredible evolutionary successes? \nOne obvious answer is our big brains. It could be that our raw intelligence gave us an unprecedented \nability to think outside the box, innovating solutions to thorny problems as people migrated across the globe. \nBut a growing number of cognitive scientists and anthropologists ( 人类学家) are rejecting that \nexplanation. They think that, rather than making our living as innovators, we survive and thrive precisely \nbecause we don't think for ourselves. Instead, people cope with challenging climates and ecological contexts \nby carefully copying others. \nIn a famous study, psychologists Victoria Horner and Andrew Whiten showed two groups of test \nsubjects-children and chimpanzees-a mechanical box with a treat inside. In one condition, the box was \nopaque, while in the other it was transparent. The experimenters demonstrated how to open the box to \nretrieve the treat, but they also included the irrelevant step of tapping on the box with a stick. \nOddly, the children carefully copied all the steps to open the box, even when they could see that the \nstick had no practical effect. That is, they copied irrationally: Instead of doing only what was necessary to \nget their reward, children slavishly imitated every action they'd witnessed. \nOf course, that study only included three- and four-year-olds. But additional research has shown that \nolder children and adults are even more likely to mindlessly copy others' actions, and infants are less likely to \nover-imitate—that is, to precisely copy even impractical actions. \n\nBy contrast, chimpanzees in the study only over-imitated in the opaque condition. In the transparent \ncondition-where they saw that the stick was mechanically useless-they ignored that step entirely. Other \nresearch has since supported these findings. \nWhen it comes to copying, chimpanzees are more rational than human children or adults. \nWhere does the seemingly irrational human preference for over-imitation come from? Anthropologist \nJoseph Henrich points out that people around the world rely on technologies that are often so complex that \nno one can learn them rationally. Instead, people must learn them step by step, trusting in the wisdom of \nmore experienced elders and peers. \nSo the next time you hear someone arguing passionately that everyone should embrace nonconformity \nand avoid imitating others, you might laugh a little bit. We're not chimpanzees, after all.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What might explain humans' having the largest population of almost all mammals?",
+              "options": {
+                "A": "They are equipped with raw strength for solving the most challenging problems.",
+                "B": "They cope with the outside world more effectively than their animal relatives.",
+                "C": "They possess the most outstanding ability to think.",
+                "D": "They know how to survive everywhere on earth."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What accounts for humans' evolutionary successes according to a growing number of cognitive scientists  and anthropologists?",
+              "options": {
+                "A": "They are better at innovating solutions.",
+                "B": "They thrive through creative strategies.",
+                "C": "They are naturally adaptive to ecological contexts.",
+                "D": "They meet challenges by imitating others carefully."
+              },
+              "answer": "D",
+              "explanation": "〗 事实细节题。 定位句指出， 越来越多的认知科学家和人类学家拒绝接受这种传统的解释， 而本段第三句则明确提出， 人是通过仔细模仿其他人来应对具有挑战性的气候和生态环境的， 故答案为 D)O 20 四年 6 月六级真题第 3 套第 7 页淘宝店誦： 叮当考研 〖 避错 〗 第四段第二句驳斥了创造性思维成就人类进化成功的看法， 据此可排除选项 A) 和 B)； C） 项说法在文中完全没有依据， 故也排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+                "sourceText": "52， 〖 定位 〗 由题干中的 growing number of cognitive scientists and anthropologists 定位到第四段首句。 D) 〖 精析 〗 事实细节题。 定位句指出， 越来越多的认知科学家和人类学家拒绝接受这种传统的解释， 而本段第三句则明确提出， 人是通过仔细模仿其他人来应对具有挑战性的气候和生态环境的， 故答案为 D)O 20 四年 6 月六级真题第 3 套第 7 页淘宝店誦： 叮当考研 〖 避错 〗 第四段第二句驳斥了创造性思维成就人类进化成功的看法， 据此可排除选项 A)",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does the author think is odd about the findings of the study by Victoria Horner and Andrew  Whiten?",
+              "options": {
+                "A": "Children irrationally imitated every action of the experimenters.",
+                "B": "Chimpanzees could tell the transparent box from the opaque one.",
+                "C": "Chimpanzees could retrieve the treat more quickly than children did.",
+                "D": "Children omitted the step of tapping on the box with a stick to open it."
+              },
+              "answer": "A",
+              "explanation": "〗 事实细节题。 定位段提到相关的研究过程， 指出在该研究中， 孩子们即使能够看出某些步骤没有实际的作用， 但他们还是无理性地对实验人员演示的步骤进行模仿， 故答案为 A)。 〖 避错 〗 B） 是对第八段相关信息的曲解， 原文说的是黑猩猩在盒子透明和不透明两种不同的情况下， 会做出不同的模仿举动， 而不是他们可以区别不同的盒子， 故排除； 原文未对黑猩猩和儿童取回零食的速度加以比较， 故排除 C)； 根据定位段， 孩子们模仿每一个实验步骤， 包括用棍子敲击盒子， 并非 “ 忽略 ” 这一步骤， D） 与原文相悖。 54 〖 定位 〗 由题干中的人名 Joseph Henrich 定位到第十段第二、 三句。 B) 〖 精析 〗 事实细节题。 该段第一句对人类为何会过度模仿提出探究， 定位句引用人类学家约瑟夫 · 亨里克的观点予以解释， 人们无法理性地掌握其所依赖的复杂技术， 必须一步一步地向长辈和同龄人学习， 即完全模仿他人， 可知选项 B） 是人类无法实现理性模仿的根本原因， 故为答案。 〖 避错 〗 根据定位部分信息， 人类信任长辈和同龄人的智慧以及进行模仿都是因为其无法理性地掌握复杂的技术， 故 A） 表达的不是原因， 而是表象； 根据原文表述， 人类信任他人的智慧是事实需要， 而非主动质疑自己的智慧， 故 c） 不符合原文； D） 项信息在原文中并未提及， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+                "sourceText": "53， 〖 定位 〗 由题干中的 odd 和人名关键词定位到第 / 丶段。 A) 〖 精析 〗 事实细节题。 定位段提到相关的研究过程， 指出在该研究中， 孩子们即使能够看出某些步骤没有实际的作用， 但他们还是无理性地对实验人员演示的步骤进行模仿， 故答案为 A)。 〖 避错 〗 B） 是对第八段相关信息的曲解， 原文说的是黑猩猩在盒子透明和不透明两种不同的情况下， 会做出不同的模仿举动， 而不是他们可以区别不同的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What is anthropologist Joseph Henrich's explanation for the human preference for copying?",
+              "options": {
+                "A": "It originates in the rationality of people around the world.",
+                "B": "It stems from the way people learn complex technologies.",
+                "C": "It results from people distrusting their own wisdom.",
+                "D": "It derives from the desire to acquire knowledge step by step."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What point does the author want to emphasize when he says \"We're not chimpanzees\"?",
+              "options": {
+                "A": "It is arguable whether everyone should avoid imitation.",
+                "B": "It is characteristic of human beings to copy others.",
+                "C": "It is desirable to trust in more knowledgeable peers.",
+                "D": "It is naive to laugh at someone embracing nonconformity."
+              },
+              "answer": "B",
+              "explanation": "〗 推理判断题。 要推断作者这句话的言外之意， 需结合本段前半部分以及全文。 本段第一句说， 当你听到有人提出每个人都应该接受非常规思维， 避免模仿别人时， 你可以笑一笑， 结合前文内容， 模仿而非创新思维恰恰是人类成功的关键， 而且是区别于诸如黑猩猩这类动物近亲的特征， 由此可以推断， 作者在此强调的是模仿才是人类的重要特征， 故答案为 B)。 〖 避错 〗 是对最后一段首句的曲解， 原句的意思是有人会争论， 认为人们应该避免模仿， 故排除； 虽然上一段说到人类之所以模仿是因为其必须信任他们的智慧， 但文章谈论的核心仍是模仿， 而非对其做出的解释， 0 虽有干扰性， 但未直击主题， 故排除； D） 是根据定位段第一句的部分信息设置的干扰项， 作者提到的 laugh 确有嘲笑之意， 但其嘲笑和不赞成的是要求每个人都要有非常规思维、 避免模仿的这种观点， 而非嘲笑具有非常规思维的人， 更谈不上对这种嘲笑行为进行评价， 故排除 D)。 参考译文黑猩猩， 人类最近的动物近亲， 与我们共享高达 98 ％ 的基因。 然而， 人类和黑猩猩却过着截然不同的生活。 如今， 只有不到 30 万只野生黑猩猩生活在非洲几个草木丛生的角落， 而人类占据这个世界的每一个角落。 尽管我们体质并不强壮， （514） 但人口数量还是超过了 70 亿， 令几乎所有其他哺乳动物相形见绌。 （",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-06-3/key_OCR_2023-06-3.txt",
+                "sourceText": "55 ． 〖 定位 〗 由题干中引用的 “ we， re not chimpanzees ” 定位到文章最后一段最后一句。 B) 〖 精析 〗 推理判断题。 要推断作者这句话的言外之意， 需结合本段前半部分以及全文。 本段第一句说， 当你听到有人提出每个人都应该接受非常规思维， 避免模仿别人时， 你可以笑一笑， 结合前文内容， 模仿而非创新思维恰恰是人类成功的关键， 而且是区别于诸如黑猩猩这类动物近亲的特征， 由此可以推断， 作者在此强调的是模仿才是人类的重",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You \nshould write your answer on Answer Sheet 2.",
+      "source": "近年来,中国城市加快发展,城市人居环境得到显著改善。许多城市努力探索中国特色的城市高质量发展之路,城市功能不断完善,治理水平明显提高。中国持续开展城市生态修复和功能修补,全面实施城镇老旧小区改造,大力推进城市园林绿化,消除污染;同时大力推进城市基础设施体系化建设,开展房屋建筑和市政设施普查以及安全隐患排查整治,努力为市民创造高品质的生活环境,让城市更美丽、更安全、更宜居。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

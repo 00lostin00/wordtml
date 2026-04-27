@@ -40,62 +40,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】IOFCD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "O",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】IOFCD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】IOFCD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】IOFCD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】IOFCD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】EGMJN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】EGMJN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】EGMJN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】EGMJN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】EGMJN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -144,36 +234,81 @@
           "id": "q41",
           "number": 41,
           "stem": "Data sharing enables scientists to publish each step of their research work,\nthus leading to more citations.",
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】LBOIF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "Scientists hold different opinions about the extent and timing of data sharing.",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】LBOIF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "Potential problems related to data sharing should be made known to and\ndiscussed by all participants at the beginning of a joint research project.",
-          "answer": null,
-          "explanation": ""
+          "answer": "O",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】LBOIF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "Sharing data and handling data-related issues can be time-consuming.",
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】LBOIF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "Junior researchers may have no say when it comes to sharing data.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】LBOIF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -196,8 +331,17 @@
                 "C": "How robots may make bad judgments.",
                 "D": "How robots should be programmed."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DDBAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q47",
@@ -209,8 +353,17 @@
                 "C": "They laid a solid foundation for robotics.",
                 "D": "They did not take moral issues into consideration."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DDBAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q48",
@@ -222,8 +375,17 @@
                 "C": "They perform duties in their owners' best interest.",
                 "D": "They stop working when a moral issue is involved."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DDBAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q49",
@@ -235,8 +397,17 @@
                 "C": "Robots may do harm in certain situations.",
                 "D": "Asimov's laws use too many vague terms."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DDBAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q50",
@@ -248,8 +419,17 @@
                 "C": "Robots can have trouble making decisions in complex scenarios.",
                 "D": "Robots can be programmed to perceive potential perils."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DDBAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         },
@@ -267,8 +447,17 @@
                 "C": "The huge impact of new technology on people's everyday life.",
                 "D": "The rapid technological progress in a very short period of time."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】DBCAA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q52",
@@ -280,8 +469,17 @@
                 "C": "The emergence of Millennials.",
                 "D": "Total globalization of the world."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】DBCAA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q53",
@@ -293,8 +491,17 @@
                 "C": "Invest in more smart buildings and cities.",
                 "D": "Embrace whatever new technology there is."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】DBCAA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q54",
@@ -306,8 +513,17 @@
                 "C": "How to link the actionable systems.",
                 "D": "How to devise new ways to store it."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】DBCAA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q55",
@@ -319,8 +535,17 @@
                 "C": "It is still a distant utopian dream for ordinary workers.",
                 "D": "It will deliver tangible benefits to both boss and worker."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12-2/paper_卷二_2017年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】DBCAA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         }

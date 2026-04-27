@@ -1,0 +1,20 @@
+{
+  "id": "cet6-2011-12",
+  "type": "cet6",
+  "year": 2011,
+  "month": 12,
+  "set": 0,
+  "title": "2011年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "注意：此部分试题请在答题卡2 上作答，只需写出译文部分。(也许会被车撞倒的).33. By no means ______________________________ (他把自己当成专家) although he knows a lothim,______________________________ (把他们所做的视作理所当然).85. Janet told me that she would rather her mother ______________________________ (不干涉她的婚姻).himself______________________________ (经常上网查找信息).",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

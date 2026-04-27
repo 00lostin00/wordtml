@@ -25,6 +25,7 @@ ROOT = Path(__file__).resolve().parent.parent
 RAW_BASE = ROOT / "data" / "exams" / "_raw"
 EXAMS_BASE = ROOT / "data" / "exams"
 REPORT_PATH = EXAMS_BASE / "_answer_report.json"
+EXTRACTOR_ID = "exam_extract_answers.py:rule-v1"
 
 PAGE_MARKER_RE = re.compile(r"^----- PAGE \d+ -----$", re.M)
 Q_BLOCK_RE = re.compile(
@@ -78,17 +79,42 @@ def collapse_chinese_spaces(text: str) -> str:
 
 
 def key_files(exam_type: str, slug: str) -> list[Path]:
-    folder = RAW_BASE / exam_type / slug
-    if not folder.exists():
+    folders = [RAW_BASE / exam_type / slug]
+    parts = slug.split("-")
+    if exam_type == "cet6" and len(parts) == 3 and parts[2].isdigit():
+        folders.append(RAW_BASE / exam_type / "-".join(parts[:2]))
+    existing_folders = [folder for folder in folders if folder.exists()]
+    if not existing_folders:
         return []
     if exam_type == "ky1":
-        files = list(folder.glob("key_*.txt"))
+        files = []
+        for folder in existing_folders:
+            files.extend(folder.glob("key_*.txt"))
+            files.extend(
+                p for p in folder.glob("paper_*.txt")
+                if any(k in p.name for k in ["解析", "答案", "详解", "细解"])
+            )
+        return sorted(set(files))
+    files = []
+    for folder in existing_folders:
+        files.extend(folder.glob("key_*.txt"))
         files.extend(
             p for p in folder.glob("paper_*.txt")
-            if any(k in p.name for k in ["解析", "答案", "详解", "细解"])
+            if any(k in p.name for k in ["答案", "解析"])
         )
-        return sorted(set(files))
-    return sorted(folder.glob("key_*.txt"))
+    return sorted(p for p in set(files) if cet6_source_matches_slug(p, slug))
+
+
+def cet6_source_matches_slug(path: Path, slug: str) -> bool:
+    parts = slug.split("-")
+    if len(parts) < 2 or not (parts[0].isdigit() and parts[1].isdigit()):
+        return True
+    expected = (int(parts[0]), int(parts[1]))
+    name = path.name
+    found = re.findall(r"((?:19|20)\d{2})\s*(?:[.\-年_]\s*)?(1[0-2]|0?[1-9])\s*(?:月)?", name)
+    if not found:
+        return True
+    return any((int(year), int(month)) == expected for year, month in found)
 
 
 def ky1_aggregate_key_files(slug: str) -> list[Path]:
@@ -163,15 +189,360 @@ def trim_explanation(block: str) -> str:
     m = re.search(r"(?:【\s*解析\s*】|解析[:：]?|析[:：]?|解[:：]?)\s*(.+)", block)
     if m:
         block = m.group(1).strip()
-    return block[:900]
+    return normalize_answer_text(block)[:900]
+
+
+def evidence_text(block: str, answer: str | None = None) -> str:
+    """Small source snippet for auditing where an extracted answer came from."""
+    text = re.sub(r"\s+", " ", block).strip()
+    if not text:
+        return ""
+    if answer:
+        idx = text.find(answer)
+        if idx >= 0:
+            start = max(0, idx - 120)
+            end = min(len(text), idx + 180)
+            return normalize_answer_text(text[start:end])
+    return normalize_answer_text(text[:300])
+
+
+def join_spaced_letters(match: re.Match) -> str:
+    text = match.group(0)
+    parts = text.split()
+    if len(parts) < 3:
+        return text
+    # Keep compact option lists such as "A B C D" readable as choices.
+    if all(part.isupper() for part in parts) and set(parts).issubset(set("ABCDEFGHIJKLMNOP")) and len(parts) <= 5:
+        return " ".join(parts)
+    return "".join(parts)
+
+
+def normalize_answer_text(text: str) -> str:
+    """Light OCR cleanup for explanations/evidence; does not infer answers."""
+    if not text:
+        return ""
+    text = text.replace("\u3000", " ").replace("\xa0", " ")
+    text = re.sub(r"\s+", " ", text).strip()
+
+    replacements = {
+        "〖 解 析 〗": "【解析】",
+        "〖 解析 〗": "【解析】",
+        "〖 精 析 〗": "【精析】",
+        "［精析】": "【精析】",
+        "[精析】": "【精析】",
+        "（精析】": "【精析】",
+        "【 精 析 】": "【精析】",
+        "【 解 析 】": "【解析】",
+        "题思路 〗": "【解题思路】",
+        "解题思路 〗": "【解题思路】",
+        "听前预测 〗": "【听前预测】",
+        "语法判断 〗": "【语法判断】",
+        "语义判断 〗": "【语义判断】",
+        "定 位 ：": "定位：",
+        "解 析 ：": "解析：",
+        "精 析": "精析",
+        "答 案": "答案",
+        "关 键 词": "关键词",
+        "关 键 信 息": "关键信息",
+        "p l a c e s": "places",
+        "w ith": "with",
+        "fbormula": "formula",
+        "0f": "of",
+        "tO": "to",
+    }
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+
+    fragment_replacements = {
+        r"\bd o\b": "do",
+        r"\bn o\b": "no",
+        r"\bo f\b": "of",
+        r"\bf o r\b": "for",
+        r"\bf r o m\b": "from",
+        r"\bw h en\b": "when",
+        r"\bw h ere\b": "where",
+        r"\bw h at\b": "what",
+        r"\bw ith\b": "with",
+        r"\bm ost\b": "most",
+        r"\bw ays\b": "ways",
+        r"\bjo in in g\b": "joining",
+        r"\bfi ndings\b": "findings",
+        r"\bmtemat10nal\b": "international",
+        r"\bM I T\b": "MIT",
+        r"\bE R A\b": "ERA",
+        r"\bA A P\b": "AAP",
+        r"\bD N A\b": "DNA",
+        r"\bG M E\b": "GME",
+        r"\bA m erica\b": "America",
+        r"\bW om en\b": "Women",
+    }
+    for pattern, new in fragment_replacements.items():
+        text = re.sub(pattern, new, text)
+
+    # Join OCR-split English words: "p l a c e s" -> "places".
+    text = re.sub(r"(?<![A-Za-z])(?:[A-Za-z]\s+){2,}[A-Za-z](?![A-Za-z])", join_spaced_letters, text)
+
+    # Remove stray spaces inside Chinese text, but keep Chinese/English readable.
+    text = re.sub(r"(?<=[\u4e00-\u9fff])[ \t]+(?=[\u4e00-\u9fff])", "", text)
+    text = re.sub(r"(?<=[\u4e00-\u9fff])(?=[A-Za-z0-9])", " ", text)
+    text = re.sub(r"(?<=[A-Za-z0-9])(?=[\u4e00-\u9fff])", " ", text)
+
+    # Normalize punctuation spacing.
+    text = re.sub(r"\s+([，。！？；：、）】》])", r"\1", text)
+    text = re.sub(r"([（【《])\s+", r"\1", text)
+    text = re.sub(r"\s*,\s*", ", ", text)
+    text = re.sub(r"(?<!\d)\s*\.\s*(?!\d)", ". ", text)
+    text = re.sub(r"(?<=\d), (?=\d)", ",", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"\. (?=[）】])", ".", text)
+    return text
+
+
+def source_kind(path: Path, aggregate_paths: set[Path]) -> str:
+    if path in aggregate_paths:
+        return "aggregate-key"
+    if "OCR" in path.name.upper():
+        return "ocr-key"
+    return "official-key"
+
+
+SOURCE_PRIORITY = {
+    "official-key": 3,
+    "aggregate-key": 2,
+    "ocr-key": 1,
+}
+
+CONFIDENCE_PRIORITY = {
+    "high": 3,
+    "medium": 2,
+    "low": 1,
+}
+
+
+def answer_priority(data: dict) -> tuple[int, int]:
+    return (
+        SOURCE_PRIORITY.get(data.get("sourceType", "official-key"), 0),
+        CONFIDENCE_PRIORITY.get(data.get("confidence", "low"), 0),
+    )
+
+
+SET_WORD_TO_NUMBER = {
+    "一": 1,
+    "二": 2,
+    "三": 3,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+}
+
+CET6_SET_MARKER_RE = re.compile(r"第\s*([一二三123])\s*套")
+CET6_EXPLICIT_ANSWER_RE = re.compile(
+    r"(?:锁定\s*答案|正确\s*答案|答案\s*精\s*析|答案)\s*[\]】）):：\s]*[\[【(（]?\s*([A-O])\s*[\]】)）]?",
+    re.I,
+)
+CET6_EXPLANATION_HEAD_RE = re.compile(
+    r"(?<![A-Za-z])([A-P])\s*[)）]\s*(?:[〖【\[\(（［]\s*)?(?:精\s*析|解析|详解|定位|考点|语法判断|语义判断)",
+    re.I,
+)
+CET6_CHOICE_CORRECT_RE = re.compile(
+    r"([A-D])\s*(?:项|选项)[^A-D]{0,90}?(?:正确|符合|对应|直接)",
+    re.I,
+)
+CET6_INLINE_ANSWER_RE = re.compile(
+    r"(?<!\d)(\d{1,2})\s*(?:题)?\s*([A-O])\s*(?:项|[)）])",
+    re.I,
+)
+CET6_NUMBERED_ANSWER_RE = re.compile(
+    r"(?<!\d)(\d{1,2})\s*[.．、,，]\s*([A-P0O])\s*[)）]",
+    re.I,
+)
+CET6_COMPACT_ANSWER_RE = re.compile(r"(?<![\dA-Za-z])(\d{1,2})\s*([A-D])(?=[\s\u4e00-\u9fff])")
+CET6_SUMMARY_RANGE_RE = re.compile(r"【\s*(\d{1,2})\s*[-~—–]\s*(\d{1,2})\s*】\s*([A-O]+)")
+CET6_HEADING_ANSWER_RE = re.compile(
+    r"(?<!\d)(\d{1,2})\s*[.．、·]\s*([A-P])\s*(?:[)）])?\s*(?:[〖【\[]\s*)?(?:解\s*题\s*思\s*路|解\s*析|精\s*析|定\s*位|语\s*法\s*判\s*断|语\s*义\s*判\s*断)",
+    re.I,
+)
+
+
+def cet6_set_number(slug: str | None) -> int | None:
+    if not slug:
+        return None
+    parts = slug.split("-")
+    if len(parts) == 3 and parts[2] in {"1", "2", "3"}:
+        return int(parts[2])
+    return None
+
+
+def slice_cet6_set_text(text: str, slug: str | None) -> str:
+    """When one OCR dump contains all three CET6 sets, keep only the requested set."""
+    set_number = cet6_set_number(slug)
+    if not set_number:
+        return text
+    markers = [
+        (m.start(), SET_WORD_TO_NUMBER.get(m.group(1)))
+        for m in CET6_SET_MARKER_RE.finditer(text)
+    ]
+    markers = [marker for marker in markers if marker[1]]
+    if not markers:
+        return text
+
+    for i, (start, number) in enumerate(markers):
+        if number != set_number:
+            continue
+        end = len(text)
+        for next_start, next_number in markers[i + 1:]:
+            if next_number != number:
+                end = next_start
+                break
+        return text[start:end]
+    return text
+
+
+def cet6_answer_allowed(number: int, answer: str) -> bool:
+    answer = answer.upper()
+    if 26 <= number <= 35:
+        return "A" <= answer <= "O"
+    if 36 <= number <= 45:
+        return "A" <= answer <= "P"
+    return "A" <= answer <= "D"
+
+
+def parse_cet6_chunk_answer(body: str, number: int) -> tuple[str | None, str]:
+    m = CET6_NUMBERED_ANSWER_RE.search(body)
+    if m and int(m.group(1)) == number:
+        answer = "O" if m.group(2) == "0" else m.group(2).upper()
+        if cet6_answer_allowed(number, answer):
+            return answer, "high"
+
+    m = CET6_EXPLICIT_ANSWER_RE.search(body)
+    if m and cet6_answer_allowed(number, m.group(1)):
+        return m.group(1).upper(), "high"
+
+    m = CET6_EXPLANATION_HEAD_RE.search(body)
+    if m and cet6_answer_allowed(number, m.group(1)):
+        return m.group(1).upper(), "high"
+
+    m = CET6_CHOICE_CORRECT_RE.search(body)
+    if m and cet6_answer_allowed(number, m.group(1)):
+        return m.group(1).upper(), "medium"
+
+    answer, confidence = extract_answer(body)
+    if answer and cet6_answer_allowed(number, answer):
+        return answer.upper(), confidence
+
+    return None, "none"
+
+
+def parse_cet6_ocr_answers(text: str) -> dict[int, dict]:
+    """Extra CET6 parser for OCR dumps that preserve answer markers but not clean blocks."""
+    found = {}
+    cleaned = collapse_chinese_spaces(clean_text(text))
+
+    for number, body in iter_loose_question_chunks(cleaned, q_max=55, limit=2200):
+        if number in found:
+            continue
+        answer, confidence = parse_cet6_chunk_answer(body, number)
+        if not answer:
+            continue
+        found[number] = {
+            "answer": answer,
+            "confidence": confidence,
+            "explanation": trim_explanation(body),
+            "evidence": evidence_text(body, answer),
+        }
+
+    flat = re.sub(r"\s+", " ", cleaned)
+    for pattern, confidence in (
+        (CET6_INLINE_ANSWER_RE, "medium"),
+        (CET6_NUMBERED_ANSWER_RE, "medium"),
+        (CET6_COMPACT_ANSWER_RE, "low"),
+    ):
+        for m in pattern.finditer(flat):
+            number = int(m.group(1))
+            answer = "O" if m.group(2) == "0" else m.group(2).upper()
+            if not 1 <= number <= 55 or number in found:
+                continue
+            if not cet6_answer_allowed(number, answer):
+                continue
+            start = max(0, m.start() - 220)
+            end = min(len(flat), m.end() + 260)
+            snippet = flat[start:end]
+            if confidence == "low" and not re.search(r"Q\s*\d|问题|答案|题|选项|听|阅读", snippet):
+                continue
+            found[number] = {
+                "answer": answer,
+                "confidence": confidence,
+                "explanation": "",
+                "evidence": evidence_text(snippet, answer),
+            }
+
+    return found
+
+
+def parse_cet6_summary_answers(text: str) -> dict[int, dict]:
+    found = {}
+    for m in CET6_SUMMARY_RANGE_RE.finditer(text):
+        start = int(m.group(1))
+        end = int(m.group(2))
+        letters = list(m.group(3).upper())
+        if end < start or len(letters) < end - start + 1:
+            continue
+        for offset, answer in enumerate(letters[:end - start + 1]):
+            number = start + offset
+            if not 1 <= number <= 55 or not cet6_answer_allowed(number, answer):
+                continue
+            found[number] = {
+                "answer": answer,
+                "confidence": "high",
+                "explanation": "",
+                "evidence": evidence_text(m.group(0), answer),
+                "verified": True,
+                "verification": "official-answer-summary",
+            }
+    return found
+
+
+def parse_cet6_heading_answers(text: str) -> dict[int, dict]:
+    found = {}
+    flat = re.sub(r"\s+", " ", collapse_chinese_spaces(clean_text(text)))
+    for m in CET6_HEADING_ANSWER_RE.finditer(flat):
+        number = int(m.group(1))
+        answer = m.group(2).upper()
+        if not 1 <= number <= 55 or not cet6_answer_allowed(number, answer):
+            continue
+        start = max(0, m.start() - 180)
+        end = min(len(flat), m.end() + 280)
+        snippet = flat[start:end]
+        found[number] = {
+            "answer": answer,
+            "confidence": "high",
+            "explanation": "",
+            "evidence": evidence_text(snippet, answer),
+        }
+    return found
+
+
+def iter_loose_question_chunks(text: str, q_min: int = 1, q_max: int = 60, limit: int = 350):
+    matches = list(re.finditer(r"(?<!\d)(?:Q\s*)?(\d{1,2}|[lI])\s*[.．、,，:：·•]\s+", text))
+    for i, m in enumerate(matches):
+        token = m.group(1)
+        n = 1 if token in {"l", "I"} else int(token)
+        if not (q_min <= n <= q_max):
+            continue
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        end = min(end, m.start() + limit)
+        yield n, text[m.start():end]
 
 
 def parse_key_text(text: str) -> dict[int, dict]:
     found = {}
     cleaned = clean_text(text)
+    found.update(parse_cet6_summary_answers(cleaned))
+    for number, data in parse_cet6_heading_answers(cleaned).items():
+        found.setdefault(number, data)
     for m in Q_BLOCK_RE.finditer(cleaned):
         number = int(m.group(1))
-        if not 1 <= number <= 80:
+        if not 1 <= number <= 80 or number in found:
             continue
         body = m.group(2).strip()
         answer, confidence = extract_answer(body)
@@ -181,6 +552,7 @@ def parse_key_text(text: str) -> dict[int, dict]:
             "answer": answer,
             "confidence": confidence,
             "explanation": trim_explanation(body),
+            "evidence": evidence_text(body, answer),
         }
 
     # OCR 兜底 1:Windows OCR 把每个汉字之间加空格 + 行被合并成长行,
@@ -199,6 +571,7 @@ def parse_key_text(text: str) -> dict[int, dict]:
                 "answer": answer,
                 "confidence": "low",
                 "explanation": trim_explanation(body),
+                "evidence": evidence_text(body, answer),
             }
 
     # OCR 兜底 2:题号不在行首,直接行内扫描 \b(\d+)\.,
@@ -217,22 +590,28 @@ def parse_key_text(text: str) -> dict[int, dict]:
                 "answer": answer,
                 "confidence": "low",
                 "explanation": trim_explanation(body),
+                "evidence": evidence_text(body, answer),
             }
+
+    for number, data in parse_cet6_ocr_answers(cleaned).items():
+        if number not in found or found[number]["confidence"] in ("medium", "low"):
+            found[number] = data
     return found
 
 
-def _slice_loose_questions(text: str, q_min: int = 1, q_max: int = 60) -> dict:
+def _slice_loose_questions(text: str, q_min: int = 1, q_max: int = 60, limit: int = 350) -> dict:
     """OCR 文本切片:行内题号 \\b(N)\\.,每块取后续 250 字。"""
     chunks = {}
-    matches = list(re.finditer(r"\b(\d{1,2})\s*\.\s+", text))
+    matches = list(re.finditer(r"(?<!\d)(?:Q\s*)?(\d{1,2}|[lI])\s*[.．、,，:：·•]\s+", text))
     for i, m in enumerate(matches):
-        n = int(m.group(1))
+        token = m.group(1)
+        n = 1 if token in {"l", "I"} else int(token)
         if not (q_min <= n <= q_max):
             continue
         if n in chunks:
             continue
         end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-        end = min(end, m.start() + 350)
+        end = min(end, m.start() + limit)
         chunks[n] = text[m.start():end]
     return chunks
 
@@ -308,6 +687,7 @@ def parse_ky1_key_text(text: str, slug: str | None = None) -> dict[int, dict]:
                     "answer": answer,
                     "confidence": "high",
                     "explanation": ky1_explanation_after(text, m.end()),
+                    "evidence": evidence_text(text[m.start():m.end() + 300], answer),
                 }
 
     for m in KY1_SIMPLE_LINE_RE.finditer(text):
@@ -318,6 +698,7 @@ def parse_ky1_key_text(text: str, slug: str | None = None) -> dict[int, dict]:
                 "answer": answer,
                 "confidence": "high",
                 "explanation": "",
+                "evidence": evidence_text(m.group(0), answer),
             }
 
     for m in KY1_INLINE_PAIR_RE.finditer(text):
@@ -328,6 +709,7 @@ def parse_ky1_key_text(text: str, slug: str | None = None) -> dict[int, dict]:
                 "answer": answer,
                 "confidence": "high",
                 "explanation": "",
+                "evidence": evidence_text(m.group(0), answer),
             }
 
     inline_tokens = [
@@ -351,6 +733,7 @@ def parse_ky1_key_text(text: str, slug: str | None = None) -> dict[int, dict]:
                 "answer": answer,
                 "confidence": "high",
                 "explanation": "",
+                "evidence": evidence_text(m.group(0), answer),
             }
 
     for m in KY1_SUMMARY_RE.finditer(text):
@@ -366,6 +749,7 @@ def parse_ky1_key_text(text: str, slug: str | None = None) -> dict[int, dict]:
                             "answer": answer,
                             "confidence": "high",
                             "explanation": "",
+                            "evidence": evidence_text(summary, answer),
                         }
         for number_s, answer in KY1_SUMMARY_PAIR_RE.findall(summary):
             number = int(number_s)
@@ -374,6 +758,7 @@ def parse_ky1_key_text(text: str, slug: str | None = None) -> dict[int, dict]:
                     "answer": answer,
                     "confidence": "high",
                     "explanation": "",
+                    "evidence": evidence_text(summary, answer),
                 }
 
     # 逐题细解常见:"故 A 项正确" / "C 项正确" 出现在题号 chunk 内。
@@ -388,6 +773,7 @@ def parse_ky1_key_text(text: str, slug: str | None = None) -> dict[int, dict]:
                 "answer": answer,
                 "confidence": confidence,
                 "explanation": trim_explanation(body),
+                "evidence": evidence_text(body, answer),
             }
 
     return found
@@ -426,10 +812,17 @@ def collect_answers(exam_type: str, slug: str) -> dict[int, dict]:
         if exam_type == "ky1":
             parsed = parse_ky1_key_text(raw, slug if path in aggregate_set else None)
         else:
-            parsed = parse_key_text(raw)
+            cet6_text = raw if path.parent.name == slug else slice_cet6_set_text(raw, slug)
+            parsed = parse_key_text(cet6_text)
         for number, data in parsed.items():
-            if number not in merged or merged[number]["confidence"] in ("medium", "low"):
-                merged[number] = data | {"source": path.name}
+            enriched = data | {
+                "source": path.name,
+                "sourceFile": str(path.relative_to(ROOT)).replace("\\", "/"),
+                "sourceType": source_kind(path, aggregate_set),
+                "extractor": EXTRACTOR_ID,
+            }
+            if number not in merged or answer_priority(enriched) > answer_priority(merged[number]):
+                merged[number] = enriched
     return merged
 
 
@@ -442,8 +835,44 @@ def iter_questions(exam: dict):
                 yield section, q
 
 
+def make_answer_meta(data: dict) -> dict:
+    return {
+        "sourceType": data.get("sourceType", "official-key"),
+        "sourceFile": data.get("sourceFile") or data.get("source", ""),
+        "sourceText": data.get("evidence", ""),
+        "extractor": data.get("extractor", EXTRACTOR_ID),
+        "confidence": data.get("confidence", "medium"),
+        "verified": data.get("verified") is True,
+        "verification": data.get("verification", "pending-review"),
+    }
+
+
+def can_replace_existing_answer(old_meta: dict, new_data: dict) -> bool:
+    if old_meta.get("verified") is True:
+        return False
+    if new_data.get("sourceType") == "official-key":
+        return True
+    old_source_type = old_meta.get("sourceType")
+    new_source_type = new_data.get("sourceType")
+    old_source_file = old_meta.get("sourceFile")
+    new_source_file = new_data.get("sourceFile") or new_data.get("source")
+    if old_source_type == new_source_type == "ocr-key" and old_source_file == new_source_file:
+        old_conf = CONFIDENCE_PRIORITY.get(old_meta.get("confidence", "low"), 0)
+        new_conf = CONFIDENCE_PRIORITY.get(new_data.get("confidence", "low"), 0)
+        return new_conf >= old_conf
+    return False
+
+
 def apply_answers(exam: dict, answers: dict[int, dict]) -> dict:
-    stats = {"total": 0, "filled": 0, "changed": 0, "missing": []}
+    stats = {
+        "total": 0,
+        "filled": 0,
+        "changed": 0,
+        "missing": [],
+        "locked": 0,
+        "conflicts": [],
+        "confidence": {"high": 0, "medium": 0, "low": 0},
+    }
     for _section, q in iter_questions(exam):
         number = q.get("number")
         if not isinstance(number, int):
@@ -455,14 +884,47 @@ def apply_answers(exam: dict, answers: dict[int, dict]) -> dict:
             continue
         old_answer = q.get("answer")
         old_explanation = q.get("explanation", "")
+        old_meta = q.get("answerMeta") or {}
+        if old_answer and old_answer != data["answer"]:
+            if not can_replace_existing_answer(old_meta, data):
+                stats["locked"] += 1
+                stats["conflicts"].append({
+                    "number": number,
+                    "existingAnswer": old_answer,
+                    "extractedAnswer": data["answer"],
+                    "sourceFile": data.get("sourceFile") or data.get("source", ""),
+                    "verified": old_meta.get("verified") is True,
+                })
+                if q.get("answer"):
+                    stats["filled"] += 1
+                continue
         q["answer"] = data["answer"]
         if data.get("explanation") and not old_explanation:
             q["explanation"] = data["explanation"]
+        q["answerMeta"] = make_answer_meta(data)
+        confidence = q["answerMeta"].get("confidence", "medium")
+        if confidence in stats["confidence"]:
+            stats["confidence"][confidence] += 1
         if q.get("answer"):
             stats["filled"] += 1
-        if old_answer != q.get("answer") or old_explanation != q.get("explanation", ""):
+        if old_answer != q.get("answer") or old_explanation != q.get("explanation", "") or old_meta != q.get("answerMeta"):
             stats["changed"] += 1
     return stats
+
+
+def clear_mismatched_cet6_answers(exam: dict, slug: str) -> int:
+    cleared = 0
+    for _section, q in iter_questions(exam):
+        meta = q.get("answerMeta") or {}
+        source_file = meta.get("sourceFile") or ""
+        if not q.get("answer") or "data/exams/_raw/cet6/" not in source_file:
+            continue
+        if cet6_source_matches_slug(Path(source_file), slug):
+            continue
+        q["answer"] = None
+        q.pop("answerMeta", None)
+        cleared += 1
+    return cleared
 
 
 def target_paths(exam_type: str, slug: str | None, all_targets: bool) -> list[tuple[str, Path]]:
@@ -477,27 +939,36 @@ def target_paths(exam_type: str, slug: str | None, all_targets: bool) -> list[tu
 def run_target(exam_type: str, slug: str, path: Path, write: bool) -> dict:
     if not path.exists():
         return {"type": exam_type, "slug": slug, "status": "fail", "issues": ["exam json 不存在"]}
-    answers = collect_answers(exam_type, slug)
-    if not answers:
-        return {"type": exam_type, "slug": slug, "status": "warn", "issues": ["未抽到答案"]}
-
     exam = json.loads(path.read_text(encoding="utf-8"))
+    stale_cleared = clear_mismatched_cet6_answers(exam, slug) if exam_type == "cet6" else 0
+    answers = collect_answers(exam_type, slug)
     stats = apply_answers(exam, answers)
-    if write and stats["changed"]:
+    if write and (stats["changed"] or stale_cleared):
         path.write_text(json.dumps(exam, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     status = "ok" if stats["filled"] else "warn"
     issues = []
+    if not answers:
+        issues.append("未抽到答案")
     if stats["filled"] < stats["total"]:
         issues.append(f"答案覆盖 {stats['filled']}/{stats['total']}")
+    if stale_cleared:
+        issues.append(f"清理错年月旧答案 {stale_cleared} 题")
+    if stats["locked"]:
+        issues.append(f"已有答案冲突 {stats['locked']} 题,已跳过自动覆盖")
+    if stats["conflicts"]:
+        issues.append(f"答案冲突待人工复核 {len(stats['conflicts'])} 题")
     return {
         "type": exam_type,
         "slug": slug,
         "status": status,
         "answers_found": len(answers),
-        "changed": stats["changed"],
+        "changed": stats["changed"] + stale_cleared,
         "filled": stats["filled"],
         "total": stats["total"],
+        "confidence": stats["confidence"],
+        "locked": stats["locked"],
+        "conflicts": stats["conflicts"],
         "issues": issues,
     }
 
@@ -520,10 +991,12 @@ def main():
         for issue in result.get("issues", []):
             print(f"  • {issue}")
 
+    type_report_path = EXAMS_BASE / f"_answer_report_{args.type}.json"
+    type_report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     REPORT_PATH.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print()
     print(f"汇总: OK={len(report['ok'])} WARN={len(report['warn'])} FAIL={len(report['fail'])}")
-    print(f"报告: {REPORT_PATH}")
+    print(f"报告: {type_report_path}")
     if not args.write:
         print("提示:当前是 dry-run,加 --write 才会写回 JSON")
 

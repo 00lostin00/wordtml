@@ -2,7 +2,7 @@
   "ok": [
     {
       "type": "ky1",
-      "slug": "2024"
+      "slug": "2016"
     }
   ],
   "warn": [],
@@ -322,6 +322,7 @@
       "type": "ky1",
       "slug": "2011",
       "issues": [
+        "[reading-mcq] q27 答案 G 不在可选范围 ['A', 'B', 'C', 'D']",
         "[reading-mcq] q29 选项不全:['A', 'B', 'C', 'D']",
         "[new-question] section 缺失",
         "[translation] section 缺失"
@@ -422,13 +423,6 @@
         "[reading-mcq] section 缺失",
         "[new-question] section 缺失",
         "[translation] section 缺失"
-      ]
-    },
-    {
-      "type": "ky1",
-      "slug": "2016",
-      "issues": [
-        "[new-question] 题数 0 ≠ 5"
       ]
     },
     {
@@ -547,8 +541,7 @@
         "[cloze] q17 选项不全:['A', 'B', 'C', 'D']",
         "[cloze] q18 选项不全:['A', 'B', 'C', 'D']",
         "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
-        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
-        "[new-question] 题数 0 ≠ 5"
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']"
       ]
     },
     {
@@ -556,7 +549,7 @@
       "slug": "2021",
       "issues": [
         "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
-        "[new-question] 题数 0 ≠ 5",
+        "[reading-mcq] q40 答案 F 不在可选范围 ['A', 'B', 'C', 'D']",
         "[translation] section 缺失"
       ]
     },
@@ -565,7 +558,10 @@
       "slug": "2022",
       "issues": [
         "[cloze] q19 选项不全:['A', 'B', 'C', 'D']",
-        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']"
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
+        "[reading-mcq] q40 答案 F 不在可选范围 ['A', 'B', 'C', 'D']",
+        "[new-question] q41 答案 F 不在可选范围 ['4', 'A', 'B', 'C', 'D', 'E']",
+        "[new-question] q45 答案 G 不在可选范围 ['4', 'A', 'B', 'C', 'D', 'E']"
       ]
     },
     {
@@ -576,8 +572,15 @@
         "[writing-2] section 缺失",
         "[cloze] q3 选项不全:['A', 'B', 'C', 'D']",
         "[cloze] q11 选项不全:['A', 'B', 'C', 'D']",
-        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']",
-        "[new-question] 题数 0 ≠ 5"
+        "[cloze] q20 选项不全:['A', 'B', 'C', 'D']"
+      ]
+    },
+    {
+      "type": "ky1",
+      "slug": "2024",
+      "issues": [
+        "[new-question] q42 答案 F 不在可选范围 ['4', 'A', 'B', 'C', 'D', 'E']",
+        "[new-question] q45 答案 G 不在可选范围 ['4', 'A', 'B', 'C', 'D', 'E']"
       ]
     },
     {
@@ -625,8 +628,7 @@
         "[reading-mcq] q37 选项不全:['A', 'B', 'C', 'D']",
         "[reading-mcq] q38 选项不全:['A', 'B', 'C', 'D']",
         "[reading-mcq] q39 选项不全:['A', 'B', 'C', 'D']",
-        "[reading-mcq] q40 选项不全:['A', 'B', 'C', 'D']",
-        "[new-question] 题数 0 ≠ 5"
+        "[reading-mcq] q40 选项不全:['A', 'B', 'C', 'D']"
       ]
     }
   ]

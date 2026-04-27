@@ -1,0 +1,850 @@
+{
+  "id": "cet6-2015-06-2",
+  "type": "cet6",
+  "year": 2015,
+  "month": 6,
+  "set": 2,
+  "title": "2015年6月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay commenting on Albert Einstein’s remark “I have no special talents. I am only passionately curious.” You can give an example or two to illustrate your point of view. You should write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "About half of them are unavailable on the market.",
+            "B": "The kitchenware in his shop is of unique design.",
+            "C": "All of them are manufactured in his own plant.",
+            "D": "Most of them are specially made for his shop."
+          },
+          "answer": "C",
+          "explanation": "〗 在对话中男士提到， 格鲁比先生首创这一行业的二三十年后， 现在市场上其实有了更多的供左撇子使用的产品， 生产商现在开始看到供左撇子使用的产品有市场了。 由此可知， 选项 C 为正确答案， 同时排除选项 BO 创立这门生意的是格鲁比先生， 并非说话的男士， 排除选项 A0 在对话的最后， 男士说现在也有一些人专门从事这一行业， 但是都只有邮购商店， 故选项 D 是错误的， 也应排除。 〖 【听前预测】",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "ucts), 然后根据问题作出进一步的判断。 【解析】 在对话中男士提到， 格鲁比先生首创这一行业的二三十年后， 现在市场上其实有了更多的供左撇子使用的产品， 生产商现在开始看到供左撇子使用的产品有市场了。 由此可知， 选项 C 为正确答案， 同时排除选项 BO 创立这门生意的是格鲁比先生， 并非说话的男士， 排除选项 A0 在对话的最后， 男士说现在也有一些人专门从事这一行业， 但是都只有邮购商店， 故选项 D 是错误的， 也应排除。 〖 【听前预测】",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "It is the man who is talking that set up the business.",
+            "B": "There was more competition in the business about 30 years ago.",
+            "C": "There are more left-handed products on the market now.",
+            "D": "People in the business should run stores to sell products."
+          },
+          "answer": "B",
+          "explanation": "〗 在对话开头， 女士问这个行业创立的灵感来自哪里， 男士说最初的店铺是一位退休的印刷工人开的， 因为这位退休工人自己是个左撇子， 所以就想出了出售供左撇子使用的商品的点子， 由此可知男士所从事的行业专门出售供左撇子使用的产品， 故 B 项正确。 〖 【听前预测】",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "在对话开头， 女士问这个行业创立的灵感来自哪里， 男士说最初的店铺是一位退休的印刷工人开的， 因为这位退休工人自己是个左撇子， 所以就想出了出售供左撇子使用的商品的点子， 由此可知男士所从事的行业专门出售供左撇子使用的产品， 故 B 项正确。 〖 【听前预测】",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "They specialise in one product only.",
+            "B": "They have outlets throughout Britain.",
+            "C": "They run chain stores in central London.",
+            "D": "They sell by mail order only."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "It publishes magazines.",
+            "B": "It is engaged in product design.",
+            "C": "It sponsors trade fairs.",
+            "D": "It runs sales promotion campaigns."
+          },
+          "answer": "B",
+          "explanation": "析 〗 在对话开头， 女士问这个行业创立的灵感来自哪里， 男士说最初的店铺是一位退休的印刷工人开的， 因为这位退休工人自己是个左撇子， 所以就想出了出售供左撇子使用的商品的点子， 由此可知男士所从事的行业专门出售供左撇子使用的产品， 故 B 项正确。 〖 【听前预测】 1. 三项提到了 themo 2 ． 三项提到了表示数量的词 （h of， of， most of)o 9 · 20 巧年 6 月六级真题 （第二套） ．",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "a 10t Of competition? [ 4 ] There are other people in the business now as specialists， but only as mail order outlets. But we have M. a shop here in central London plus a mail order outlet. And we are without any doubt the largest supplier of left-handed items. What kind of business is the man enga",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "low",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "The woman’s company failed to make payments in time.",
+            "B": "The ad specifications had not been given in detail.",
+            "C": "The woman’s company made last-minute changes.",
+            "D": "Organising the promotion was really time-consuming."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "Run another four-week campaign.",
+            "B": "Give her a 10 percent discount.",
+            "C": "Extend the campaign to next year.",
+            "D": "Cut the fee by half for this year."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "They are labeled pet animals by the researchers.",
+            "B": "They look spotlessly clean throughout their lives.",
+            "C": "They are looked after by animal-care organizations.",
+            "D": "They sacrifice their lives for the benefit of humans."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "They may behave abnormally.",
+            "B": "They may breed out of control.",
+            "C": "They may affect the results of experiments.",
+            "D": "They may cause damage to the environment."
+          },
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "章开头提到每年养在实验室的 15， 0 開只老鼠中， 大部分为人类献出了它们的生命， D 选项与此意思一致， 故为答案。 文章首句虽然出现了 spotlessly clean， 但该短语是用来形容实验室大楼的， 故排除。 10 · C 〖 解【解题思路】 1. 四项都以 they 开头， 且都包含情态动词 mayo 2 ． 四项内容都与不好的方面有关 (behave abnormally, breed out of control, affect the results of experiments, cause damage to the environment）。 结论： 本题考查",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "While holding a burial ceremony for a pet mouse, they were killing pest mice.",
+            "B": "While advocating freedom for animals, they kept their pet mouse in a cage.",
+            "C": "While calling for animal rights, they allowed their kids to keep pet animals.",
+            "D": "While launching animal protection campaigns, they were trapping kitchen mice."
+          },
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "s 以及 get t00 old 【解析】 文中提到杀死 “ 坏老鼠 \" 则不需要经过事先批准。 由上一题的分析可知， 那些逃跑的老鼠就是 “ 坏老鼠 ”。 由此可知， 杀死逃跑的老鼠不需要经过事先批准， 故答案为 CO 12 · A 〖 解【解题思路】 1. 四项都以 while 开头， 叙述了 they 两个相矛盾的动作 2 ． 三项含有表示老鼠的词 （mouse， pest mice, kitchen mce)， 另一项也含有表示动物的词 （t 誦 m 小）。 结论： 本题考查 they 对待动物或老鼠时的自相矛盾之处。 【解析】 文中提到在赫佐格家， 有更具讽刺意义的一幕：",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "They contribute most to it.",
+            "B": "They are crazy about it.",
+            "C": "They often find fault with it.",
+            "D": "They take it for granted."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "Tidal restlessness.",
+            "B": "Heat and light.",
+            "C": "Economic prosperity.",
+            "D": "Historical continuity."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "They lack knowledge of the culture of the city.",
+            "B": "They are adventurers from all over the world.",
+            "C": "They have difficulty surviving.",
+            "D": "They find the city alien to them."
+          },
+          "answer": "B",
+          "explanation": "15， 0 開只老鼠中， 大部分为人类献出了它们的生命， D 选项与此意思一致， 故为答案。 文章首句虽然出现了 spotlessly clean， 但该短语是用来形容实验室大楼的， 故排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "cal continuityo 【解析】 本题问说话者认为通勤者给纽约带来了什么。 文章中间部分指出， 通勤者给这座城市带来了潮汐般的动荡起伏。 A 项中的 tidal restlessness 与原文的表达一致， 故为答案 15 · B 〖 解【解题思路】 1. 四项均以山 ey 开头。 2 ． 三项都含有表示表消极意义的词汇 (lack knowledge, have difficulty, find. . . alien), 一项表示中性含义 (adventurers)o 3 ． 两项提到了 city 结论： 本题可能考查 they 与的关系。 听音时应首先弄清 ey 的指代对象， 并将听音重点放在",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "Protein was recognized as an essential component of diet.",
+            "B": "Vitamins were synthesized from foods.",
+            "C": "Effective measures of weight loss were determined.",
+            "D": "Certain foods were found to be harmful to good health."
+          },
+          "answer": "A",
+          "explanation": "【解题思路】 四个选项的大意和关键信息分别是： 人们发现了蛋白质是重要成分、 维生素的来源、 减肥方法、 食物与人体健康的关系。 听音时应着重抓住四个选项中的关键信息。 【解析】 在对第一个时期的描述中， 德莱塞博士表示 “ 体重的迅速下降与营养摄入不均衡有关， 只有通过从某些食物中摄取足量的蛋白质才能扭转这种情况 \"， 说明在这个时期， 人们已经发现了摄取蛋白质的重要性， 故选 A; 对 “ 维生素 ” 的探讨出现在之后的时期， 故排除 B 项； 有关 “ 减肥的方法 ” 和 “ 对人体健康有害的食物 \" 的内容并未提及， 故排除 C 项和 D 项。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "oncepts of nutntion in medical schools? 1 &、 Mhy did vitamin therapy become less popular in the 1950s？ 的， 刂、 0 16 · A 〖 解【解题思路】 四个选项的大意和关键信息分别是： 人们发现了蛋白质是重要成分、 维生素的来源、 减肥方法、 食物与人体健康的关系。 听音时应着重抓住四个选项中的关键信息。 【解析】 在对第一个时期的描述中， 德莱塞博士表示 “ 体重的迅速下降与营养摄入不均衡有关， 只有通过从某些食物中摄取足量的蛋白质才能扭转这种情况 \"， 说明在",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "In order to urge medical doctors to participate in research studies on nutrition.",
+            "B": "In order to encourage medical doctors to apply concepts of nutrition in the treatment of disease.",
+            "C": "In order to persuade doctors to conduct experimental vitamin therapies on their patients.",
+            "D": "In order to support the creation of artificial vitamins."
+          },
+          "answer": "B",
+          "explanation": "【解题思路】 四个选项均以 in order to 开头， 表目的， 应将听音重点放在其后各项的关键信息中： 促使医生参与研究、 鼓励医生运用营养学概念、 说服医生实施维生素疗法、 支持人工维生素制造。 【解析】 德莱塞博士在讲第二个时期时说到 “ 医学院开始更有兴趣地将营养这一概念纳入基础科学理论的课程中， 而这一教育的大部分重点都放在了对维生素缺乏所致症状的识别上 ”， 也就是说教育的重点是让医生在诊断病情的过程中判断是不是由于维生素缺乏 （营养学概念） 所导致的病症， 故选 B 项。 1 & D 〖 解【解题思路】 四个选项主语不同， 分别是： the pubhc、 medical schools、 nutnuonal research 和 claimso 听音时应重点关注与这些信息有关的内容。 【解析】 德莱塞博士在讲第三个时期时说到， 维生素疗法在这个时期开始声扫地， “ 对于维生素成功控制疾病的期望被夸大了 ”， 而后接着指出， 维生素和矿物质疗法对于重症疾病的治疗效果远不及其对长期营养不良所致的慢性疾病的治疗效果， 故选 D 项。 其余三个选项都不是维生素疗法受欢迎度下降原因， 应排除。 Recording Two 〖 昕力原文 〗 [ 19 ] Long before they can actually speak， babies pay special attention t0 the speech they hear around them. 、 Mithin the 行吓 t month of e lives， babies， responses t0 the sound of the human voice will be different from their responses t0 other sorts of sounds ． [ 20 ] They will stop crying when they hear a person 1 ng but · 20 巧年 6 月六级真题 （第二套） · 1",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "塞博士表示 “ 体重的迅速下降与营养摄入不均衡有关， 只有通过从某些食物中摄取足量的蛋白质才能扭转这种情况 \"， 说明在这个时期， 人们已经发现了摄取蛋白质的重要性， 故选 A; 对 “ 维生素 ” 的探讨出现在之后的时期， 故排除 B 项； 有关 “ 减肥的方法 ” 和 “ 对人体健康有害的食物 \" 的内容并未提及， 故排除 C 项和 D 项。 17 · B 〖 解【解题思路】 四个选项均以 in order to 开头， 表目的， 应将听音重点放在其后各项的关键信息中： 促使医生参与研究、 鼓励医生运用营养学概念、 说服医生实施维生素疗法、 支持人工维生素制造。 【解析】 德",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "The public lost interest in vitamins.",
+            "B": "Medical schools stopped teaching nutritional concepts.",
+            "C": "Nutritional research was of poor quality.",
+            "D": "Claims for the effectiveness of vitamin therapy were exaggerated."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "How babies differentiate between the sound of the human voice and other sounds.",
+            "B": "The differences between a baby’s and an adult’s ability to comprehend language.",
+            "C": "Howbabiesperceiveandrespondtothehumanvoiceintheirearlystagesoflanguagedevelopment.",
+            "D": "The response of a baby to sounds other than the human voice."
+          },
+          "answer": "C",
+          "explanation": "【解题思路】 应首先找出四个选项的重点信息： differentiate between. . . human voice and other sounds， differences between a baby， s and an adult， s abllity， how. . . perceive and respond to human voice 以 ． 及 · the response. . . to sounds otherthan the human voice， 再结合讲座做出判断。 【解析】 讲话开头便提出 “ 在真正会说话之前的很长一段时间里， 嬰儿会特别关注周围的话语 \"。 接下来便具体阐述他们如何对人声产生反应， 因此答案为 C0 A、 B 两项只是讲座内容的一部分， 不能概括其主要内容； 而 D 项中 “ 对声音的反应 ” 范围被扩大了， 不符合文意， 故排除。 〖 解【解题思路】 四个选项都是动词不定式短语， 表目的， 关键信息分别为： contrast the reactions， give examples. . . cause. . . to cry， explam. . . distinguish between nonhuman sounds 以吸 ． examples oftypical t0YS。 听录音时应重点抓住这些关键信息。 【解析】 讲话者在提到 “ 铃声 ” 时指出 “ 听到人说话时， 他们 （嬰儿） 会停止闹， 但听到铃声时则不会 ” 这说明讲话者在用铃声的例子对比嬰丿对于人声 （人说话时） 和非人声 （铃声） 的不同反应， 所以答案为 AO",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "ies listen to songs and stories， even though they cannot understand them? 整体预测各选项小多次禺血硒癰和隔 y 鑲菇合粮据遜狈中血@旗望和@可““@每词的可彗 19 · C 〖 解【解题思路】 应首先找出四个选项的重点信息： differentiate between. . . human voice and other sounds， differences between a baby， s and an adult， s abllity， how. . . perceive and respond to human voi",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "To contrast the reactions of babies to human and nonhuman sounds.",
+            "B": "To give examples of sounds that will cause a baby to cry.",
+            "C": "To explain how babies distinguish between different nonhuman sounds.",
+            "D": "To give examples of typical toys that babies do not like."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Babieswhoareexposedtomorethanonelanguagecanacquirelanguagesearlierthanthosetoa singlelanguage.",
+            "B": "Mothers from different cultures speak to their babies in a similar way.",
+            "C": "Babies ignore facial expressions in comprehending their parents’ language.",
+            "D": "The mothers observed by the researchers were consciously teaching their babies to speak."
+          },
+          "answer": "B",
+          "explanation": "【解题思路】 首先找出四个选项的重点信息： 嬰儿习得语言的时间、 母亲和嬰儿的交谈方式、 嬰儿对面部表情的关注、 是否有意教导嬰儿说话。 然后， 听音时重点关注与这些信息有关的内容， 并做出选择。 【解析】 讲话者指出曾有一位研究人员对 6 对具有不同文化背景的母子进行了观察， 并得出一些结论 (findings)o 对应选项一一进行判断： A 项所述内容并未提及， 故排除； 研究人员在观察后发现， 无论使用哪种语言， 母亲教导嬰儿学说话的方式都很相似， 因此 B 项正确； “ 她们还会配以夸张的表情 \"， 这说明孩子对面部表情是有反应的， 因此排除 C 项； D 项内容未提及， 故也排除。 〖 解【解题思路】 四个选项都以 they 开头， 听音重点应放在其后的关键信息上： 能听懂韵律、 喜欢声音、 可以轻易记住、 专注于说话的意思。 听音的时候首先要弄清 they 的指代对象， 然后结合关犍信息做出判断和选择。 【解析】 讲话者最后提到 “ 对嬰儿来说， 语言是一种感官运动的乐事， 而不是通常对成人来说枯燥乏味的信息传递途径 \"。 这里的 “ 感官运动的乐事 \"， 是指语言对嬰儿来说是一种听觉上的享受， 即他们喜欢这些声音， 故选 B。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "话者在提到 “ 铃声 ” 时指出 “ 听到人说话时， 他们 （嬰儿） 会停止闹， 但听到铃声时则不会 ” 这说明讲话者在用铃声的例子对比嬰丿对于人声 （人说话时） 和非人声 （铃声） 的不同反应， 所以答案为 AO 21. B 〖 解【解题思路】 首先找出四个选项的重点信息： 嬰儿习得语言的时间、 母亲和嬰儿的交谈方式、 嬰儿对面部表情的关注、 是否有意教导嬰儿说话。 然后， 听音时重点关注与这些信息有关的内容， 并做出选择。 【解析】 讲话者指出曾有一位研究人员对 6 对具有不同文化背景的母子进行了观察， 并得出一些结论 (findings)o 对应选项一一进行",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "They understand the rhythm.",
+            "B": "They enjoy the sounds of them.",
+            "C": "They can remember them easily.",
+            "D": "They focus on their parents’ words."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "Britain.",
+            "B": "Germany.",
+            "C": "France.",
+            "D": "Japan."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "The United States had a leading position on the world market by the start of World War I.",
+            "B": "The centre of film-making moved eastwards from Hollywood to New York.",
+            "C": "Many film industries could compete with that of Hollywood.",
+            "D": "The film markets of Russia and Japan were the only promising ones."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Indifferent.",
+            "B": "Biased.",
+            "C": "Negative.",
+            "D": "Neutral."
+          },
+          "answer": "D",
+          "explanation": "【解题思路】 四个选项均为国家名称， 因此听音重点应放在出现国家名字的地方。 考生可以在各个国家名称后做笔记进行排除。 【解析】 这道题需要进行简单推理。 讲话中说 “ 尽管法国、 德国、 美国和英国的先锋们都被认为对电影的发明有功， 但英国人和德国人在电影走向世界的进程中发挥的作用却相对较小 ”， 借此排除 “ 英国人 ” 和 “ 德国人 ”， 故排除选项 A 和 B； 再结合 “ 法国人在对电影这项新发明在世界范围内的营销推广中起到领头羊的作用， 其次是美国人 ” “ 就其艺术发展而言， 仍然是法国人和美国人一马当先 ”， 可知 “ 法国 ” 和 “ 美国 ” 一直处于领导地位， 而选项中没有 “ 美国 \"， 故选 C 项 “ 法国 ”。 讲话中仅提到法国人和美国人将电影带到 “ 日本 ” 等国家， 故排除 D 项。 〖 解【解题思路】 四个选项均是对电影市场和电影业的描述， 听音时应重点关注与 leading position、 centre of film-making、 compete 和 Russia and Japan 有关的描述。 【解析】 讲话最后部分说明了当时世界电影市场的整体情况。 “ 一战开始前美国人在世界电影市场占据了主导地位 ”， A 项中的 a leadrng position 对应原文中的 a dominant position， 故为正确答案； 根据 “ 电影的制作中心西移至好莱坞 ”， 可排除 B 项； 从后面对电影市场的描述可知， 其他地区的电影业前景不佳， 而仅有的几个发展还不错的市场， 也都无法和好莱坞相抗衡， 故排除 C 项； “ 在俄国和日本， 电影业只有在与商业相脱离的情况下才能得以发展 \" 表明俄国和日本的电影市场前景并不光明， 排除 D 项。 〖 解【解题思路】 四个选项均是对 “ 态度 \" 的描述， 总体可以分为两种倾向一一一消极的和中立的。 听音时应从整体上把握并重点关注能够表明态度的词汇和内容。 【解析】 全文是对电影业前 30 年发展的介绍， 并未体现出任何消极态度，",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "展而言， 仍然是法国人和美国人一马当先 ”， 可知 “ 法国 ” 和 “ 美国 ” 一直处于领导地位， 而选项中没有 “ 美国 \"， 故选 C 项 “ 法国 ”。 讲话中仅提到法国人和美国人将电影带到 “ 日本 ” 等国家， 故排除 D 项。 〖 解【解题思路】 四个选项均是对电影市场和电影业的描述， 听音时应重点关注与 leading position、 centre of film-making、 compete 和 Russia and Japan 有关的描述。 【解析】 讲话最后部分说明了当时世界电影市场的整体情况。 “ 一战开始前美国人在世界电影市场占据了主导地位 ”，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select\none word for each blank from a list of choices given in a word bank following the passage.\nRead the passage through carefully before making your choices. Each choice in the bank\nis identified by a letter. Please mark the corresponding letter for each item on Answer\nSheet 2 with a single line through the centre. You may not use any of the words in the\nbank more than once.\nQuestions 26 to 35 are based on the following passage.\n“That which does not kill us makes us stronger.” But parents can’t handle it when\nteenagers put this\n__26__ into practice. Now technology has become the new field for\nthe age-old battle between adults and their freedom-seeking kids.\nLocked indoors, unable to get on their bicycles and hang out with their friends, teens\nhave turned to social media and their mobile phones to socialize with their peers. What\nthey do online often __27__ what they might otherwise do if their mobility weren’t so\nheavily __28__ in the age of helicopter parenting. Social media and smart-phone apps\nhave become so popular in recent years because teens need a place to call their own. They\nwant the freedom to __29__ their identity and the world around them. Instead of __30__\nout, they jump online.\nAs teens have moved online, parents have projected their fears onto the Internet,\nimagining all the __31__\ndangers that youth might face —from __32__ strangers to",
+      "wordBank": {
+        "K": "potential",
+        "L": "sneaking",
+        "M": "sticking",
+        "N": "undermines",
+        "O": "violent",
+        "A": "assess",
+        "B": "constrained",
+        "C": "contains",
+        "D": "explore",
+        "E": "influence",
+        "F": "interacting",
+        "G": "interpretation",
+        "H": "magnified",
+        "I": "mirrors",
+        "J": "philosophy"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "In theory, free competition is supposed to reduce the margin of profits to the minimum.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "The United States is now characterized by a great division between the rich and the\npoor.",
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "s supposed to reduce the margin ofprofits to the minimumo 对于 “ 理论上 \"， 原文中用的是副词 theoretically， 对应题干中的介词短语 in theoryo 37 · A 解析： 注意抓住题干中的关键词 characterized 和 a great division。 文章段落中 A 段提到美国社会有巨大鸿沟的特征。 该段第二句指出， 一个在二战后经历过共同发展的国家开始分裂， 以至于当 2 7 年经济大萧条出现的时候， 人们没法再对定义美国经济面貌的贫富分化视而不见。 因此， 题干是对原文的同义概括。 题干中的 is",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "America lacked the incentive to care for the majority of its citizens as it found no rival\nfor its economic model.",
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "rized by 对应原文中的 define； 题干中的 a great division between the rich and the poor 对应原文中的 division， 这里的 division 指的就是巨大的贫富分化。 38 · E 解析： 注意抓住题干中的关键词 care for the majority of its citizens 和 found no rival for its economic modelo 文章段落中论及美国经济模式的内容出现在 E 段。 该段第三、 四句话提到， 随着美国在冷战中获胜， 我们的经济模式似乎已没有真正的竞争对手。 没有了这种国际竞争， 我",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "The wealthy top have come to take privileges for granted.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Many examples show the basic laws of imperial capitalism no longer apply in present-\nday America.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "The author suggests a return to the true spirit of the market.",
+          "answer": "P",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "nge of examples， 题干中的 the basic laws of impenal capitalism 对应原文中的 fundamental laws ofcapitalism， 题干中的 apply in 是原词重现。 41. P 解析： 注意抓住题干中的关键词 the author suggests 和 the true spirit ofthe marketo 文章段落中 P 段论及作者对于通过市场运作以解决贫富差距的建议。 该段前几句指出， 我们需要的不只是一场针对贫困的新战争， 而是一场保护中产阶级的战争。 解决这些问题的方法不必新奇， 远远不必。 让市场自如运作将是个不错",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "A quarter of the world’s prisoner population is in America.",
+          "answer": "M",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "同义概括。 原文中的 making markets act like markets\" 让市场自如运作 \" 即题干中所说的 a return to the true spint ofthe m ket “ 回归到市场的真正精神 ” 42 · M 解析： 注意抓住题干中的关键词 aquarter ofthe world， s prisoner populationo 文章段落中论及世界囚犯数量的内容出现在 M 段。 M 段第二句后半部分提到， 算上重复入狱的人数， 美国有着约为世界 5 ％ 的人口， 但是囚犯的数量却约占世界的四分之一。 因此， 题干是对原文的同义转述。 题干中的 a quart",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Government regulation in America went from one extreme to the other in the past two\ndecades.",
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "。 因此， 题干是对原文的同义转述。 题干中的 a quarter of the world， s prisoner population 对应原文中的 a fourth of the world， s prisonerso 43 ． F 解析： 注意抓住题干中的关键词 govemment regulation in Amencao 文章段落中论及美国政府干预的内三句指出， 有人吸取了 1991 年苏联体制瓦解的错误教训， 政府干预经济的容出现在 F 段。 该段第二力度从以前的太大变成现在的太小。 因此， 题干是对原文的同义概括。 从以前过多的政府干预转变为现在的较少管制， 即政府干预从",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Justice has become so expensive that only a small number of people like corporate\nexecutives can afford it.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "No country in the world so far has been able to provide completely equal opportunities\nfor all.",
+          "answer": "K",
+          "explanation": "： 注意抓住题干中的关键词 provrde completely equal opportunities for all。 文章段落中论及能够为所有人提供完全平等机会的国家的内容出现在 K 段。 该段第二句指出， 当然， 没有一个国家能达到提供近乎完全平等的机会的目标。 因此， 题干是对原文的同义转述。 题干中的 no country 是原词重现； 题干中的 so far 对应原文中的 ever； 题干中的 has been able to provide completely equal opportumties for a11 对应原文中的 come close to provldmg complete equality of opportunity Section C Passage One 〖 参考译文 〗 我要承认， 我一直不太理解人们对于转基因作物的难以破除的成见。 [ ] 对于奉行环境保护主义的反对人士来说， 转基因作物简直就是罪恶的， 是被大型的农业企业利用来控制全球种子市场和压迫当地农民的未经充分研究的工具， 这一工具很有可能是有害的。 他们认为转基因食品从来没有兑现应有的承诺， 花费在转基因作物上的资金本应更好地注入到有机农业中， 并且应在任何含有转基因成分的产品上贴上警示标签以保护消费者。 对于支持者来说， 转基因作物是为全世界不断增长的人口持续提供食物所做努力的关键部分。 不仅如此， 支持者认为许多环保主义人士反对转基因作物根本就是反科学， 和那些质疑人工改变气候的基础理论的人并无二致。 [ 47 ] 对于双方来说， 转基因食品都看似成为一种象征： 你是支持农业企业抑或是反对科学。 [ ] 但是说到转基品这话题至然志转基因、 则恰恰是、 们更需要的这也是为么咩品所引发的争议而发表的一系列专题文章时感到很欣慰。 得出的结论是： 虽然转基因作物还未兑现它们最初的承诺， 且一直受农业企业的操控， 却仍然有理由对其继续使用并加以开发， 以帮助应对为全球日益增多的人口持续提供食物这一巨大挑战。 这并不意味着转基",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+            "sourceText": "s 属于原词重现， 题干中的 onlya small number of people. . . can afford it 对应原文中的 affordable to only afewo · 20 巧年 6 月六级真题 （第二套） ． 20 45 · K 解析： 注意抓住题干中的关键词 provrde completely equal opportunities for all。 文章段落中论及能够为所有人提供完全平等机会的国家的内容出现在 K 段。 该段第二句指出， 当然， 没有一个国家能达到提供近乎完全平等的机会的目标。 因此， 题干是对原文的同义转述。 题干中的 no country 是原词重现",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nI’ll admit I’ve never quite understood the obsession （难以破除的成见）\nsurrounding genetically modified (GM) crops. To environmentalist opponents, GM foods\nare simply evil, an understudied, possibly harmful tool used by big agricultural businesses\nto control global seed markets and crush local farmers. They argue that GM foods have\nnever delivered on their supposed promise, that money spent on GM crops would be\nbetter channeled to organic farming and that consumers should be protected with warning\nlabels on any products that contain genetically modified ingredients. To supporters, GM\ncrops are a key part of the effort to sustainably provide food to meet a growing global\npopulation.\nBut\nmore\nthan\nthat,\nsupporters\nsee\nthe\nGM\nopposition\nof\nmany\nenvironmentalists as fundamentally anti-science, no different than those who question the\nbasics of man-made climate change.\nFor both sides, GM foods seem to act as a symbol: you’re pro-agricultural business\nor anti-science. But science is exactly what we need more of when it comes to GM foods,\nwhich is why I was happy to see Nature devote a special series of articles to the GM food\ncontroversy. The conclusion: while GM crops haven’t yet realized their initial promise\nand have been dominated by agricultural businesses, there is reason to continue to use and\ndevelop them to help meet the enormous challenge of sustainably feeding a growing\nplanet.\nThat doesn’t mean GM crops are perfect, or a one-size-fits-all solution to global\nagriculture problems. But anything that can increase farming efficiency—the amount of\ncrops we can produce per acre of land—will be extremely useful. GM crops can and\nalmost certainly will be part of that suite of tools, but so will traditional plant breeding,\nimproved soil and crop management—and perhaps most important of all, better storage\nand transport infrastructure（基础设施）, especially in the developing world. (It doesn’t\ndo much good for farmers in places like sub-Saharan Africa to produce more food if they\ncan’t get it to hungry consumers.) I’d like to see more non-industry research done on GM\ncrops—not just because we’d worry less about bias, but also because seed companies\nlike Monsanto and Pioneer shouldn’t be the only entities working to harness genetic\nmodification. I’d like to see GM research on less commercial crops, like corn. I don’t\nthink it’s vital to label GM ingredients in food, but I also wouldn’t be against it—and\nindustry would be smart to go along with labeling, just as a way of removing fears about\nthe technology.\nMost of all, though, I wish a tenth of the energy that’s spent endlessly debating GM\ncrops was focused on those more pressing challenges for global agriculture. There are\nmuch bigger battles to fight.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "How do environmentalist opponents view GM foods according to the passage?",
+              "options": {
+                "A": "They will eventually ruin agriculture and the environment.",
+                "B": "They are used by big businesses to monopolize agriculture.",
+                "C": "They have proved potentially harmful to consumers’ health.",
+                "D": "They pose a tremendous threat to current farming practice."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What does the author say is vital to solving the controversy between the two sides of  the debate?",
+              "options": {
+                "A": "Breaking the GM food monopoly.",
+                "B": "More friendly exchange of ideas.",
+                "C": "Regulating GM food production.",
+                "D": "More scientific research on GM crops."
+              },
+              "answer": "D",
+              "explanation": "： 第二段第一句提到 “ 对于双方来说， 转基因食品都看似成为一种象征： 你是支持农业企业抑或是反对科学 \"， 接着作者用 but 转折， 阐明自己的观点一一 “ 但是说到转基因食品这个话题， 科学则恰恰 · 20 巧年 6 月六级真题 （第二套） · 是我们更需要的 ”， 即作者认为应该用科学和客观的观点来看待这个问题， 然后作者援引 《自然》 杂志一系列文章的结论， 认为虽然转基因作物有其利弊， 但对当前世界的食品供应有重大意义， 结合四个选项可知 D 项最符合作者的观点。 A 项是反对者的观点， 不是作者的观点， 不符合题干要求， 排除。 B、 C 两项本身说法合理， 但文章并未提及， 也不是作者想要表达的， 均可排除。 定位： 根据题干的信息词 the mam point of the Nature anicles， 可以把答题线索定位到第二段第二解析： 第二段第二句提到了 《自然》 杂志， 接着第三句指出了杂中文章的结论： “ 虽然转基因作物还未兑现它们最初的承诺， 且受农业企业的操控， 却仍然有理由对其继续使用并加以开发， 以帮助应对为全球日益增多的人口持续提供食物这一巨大挑战。 ” 可见 《自然》 杂志的文章的观点在于， 虽然转基因作物有其弊端， 但有助于全球的食品供应， 在应对食品短缺这一巨大挑战上意义重大， 强调了其必要性， 由此可知答案为 AO 其他三项都无法从 《自然》 杂志的文章得出的结论中推断出来， 均可排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+                "sourceText": "型企业用来操纵农业市场， B 项符合文意， 故为正确答案。 文中并未明确提及转基因作物会破坏环境， 故排除 A 项。 文中未提及有明确证据证明其对消费者的健康有害， 排除 C 项。 文中也没有提及它们给当前农业生产造成了巨大的威胁， D 项也应排除。 47 · D 定位： 根据题干的信息词 vital to solvmg the controversy 和 the two sides of the debate， 可以把答题线索定位到第二段前两句。 解析： 第二段第一句提到 “ 对于双方来说， 转基因食品都看似成为一种象征： 你是支持农业企业抑或是反对科学 \"， 接着作者用 but 转",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What is the main point of the Nature articles?",
+              "options": {
+                "A": "Feeding the growing population makes it imperative to develop GM crops.",
+                "B": "Popularizing GM technology will help it to live up to its initial promises.",
+                "C": "Measures should be taken to ensure the safety of GM foods.",
+                "D": "Both supporters and opponents should make compromises."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What is the author’s view on the solution to agricultural problems?",
+              "options": {
+                "A": "It has to depend more and more on GM technology.",
+                "B": "It is vital to the sustainable development of human society.",
+                "C": "GM crops should be allowed until better alternatives are found.",
+                "D": "Whatever is useful to boost farming efficiency should be encouraged."
+              },
+              "answer": "D",
+              "explanation": "： 题干问的是作者的观点， 第三段第二句提到 “ 但是， 任何能够提高农业效率 （每英亩土地的粮食产量） 的方法都将是极其有益的 ”， 即作者认为在当前全球严峻的食品供应形势下， 任何有利于提高农业效率的方法都应该得到提倡， 转基因作物也不例外， 是解决农业问题的工具之一， 后面还进一步列举了其他一些工具。 由此可知答案为 DO 文中并没有提到农业问题的解决会越来越依赖转基因技术， A 项排除。 B 项提及人类社会的可持续发展， 范围扩大化了， 应排除。 c 项提及了 “ 更好的替代品 \"， 原文中并无相关信息， 属于无中生有， 也可排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+                "sourceText": "点在于， 虽然转基因作物有其弊端， 但有助于全球的食品供应， 在应对食品短缺这一巨大挑战上意义重大， 强调了其必要性， 由此可知答案为 AO 其他三项都无法从 《自然》 杂志的文章得出的结论中推断出来， 均可排除。 49 ． D 定位： 根据题干的信息词 the author， s view on the solution to agncultural problems， 可以把答题线索定位到第三段第二句。 解析： 题干问的是作者的观点， 第三段第二句提到 “ 但是， 任何能够提高农业效率 （每英亩土地的粮食产量） 的方法都将是极其有益的 ”， 即作者认为在当前全",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What does the author think of the ongoing debate around GM crops?",
+              "options": {
+                "A": "It arises out of ignorance of and prejudice against new science.",
+                "B": "It distracts the public attention from other key issues of the world.",
+                "C": "Efforts spent on it should be turned to more urgent issues of agriculture.",
+                "D": "Neither side is likely to give in until more convincing evidence is found."
+              },
+              "answer": "C",
+              "explanation": "： 该句提到 “ 然而， 最重要的是， 我希望人们能将不断耗费在有关转基因作物的争论上的精力的十分之一用以关注全球农业更加急迫的那些挑战 ”， 可知作者认为人们耗费在有关转基因作物的争论上的精力太多了， 不应过于纠结该问题， 全球农业还有更紧急、 更迫切的问题等待解决， 故答案为 C 项。 A 项和 D 项文中都没有提及， 可排除。 B 项有一定的干扰性， 容易误选， 但综合全文来看， 本文讨论的是农业领域的转基因问题， 最后一段明确说明的是全球农业所面临的其他挑战， 所以 B 项范围扩大化了， 应排除。 Passage TWO 〖 参考译文 〗 [ 51 ] 对于紧张不安的学校申请者来说， 提前申请似平是一个不错的选择一一你申请一所学校， 其录取就有约束力。 学校录取提前申请的学生的比例较高， 可以说这就意味着你被录取的几率更大。 如果你提前申请， 会在 12 月前完成整个令人痛苦的申请流程。 但是大多数学生和父母没有意识到学校优先录取提前申请的学生的潜在动机。 [ 52 ] 由于提前录取具有约束力， 因此学校能够招满合格学生； 它允许招生委员会挑选本校有特殊需求的学生， 并且知道被挑中的学生会来校报到。 这样也给学校带来较高的招生率， 而这通常被用来当作测评学校的可选性和受欢迎程度的方法之一 [ 53 ] 问题是， 这一申请流程有效地把学生们不得不做出一个人生重大决定的一小段时间缩短至那一。 在常规录取中， 高年级学生得在 5 月 1 号之前选定要上的学校， 他们实际上比提前申请的学生多出了 6 个月的择校时间， 他们可以利用这段时间访问更多的学校， 做更多的调查， 与被访学校的在校生及校友交谈， 从而可以做出思虑更周全的决定。 坦白来说， 在美国， 优秀的学校数量多得惊人， 而且对任何一名学生来说， 很多学校都非常适合申请。 如果学生在招生过程早期便对某一特定学校变得过于专注， 那么如果他们没被录取或即使被录取了， 但经过进一步思考后发现他们一定要上的学校可能并不适合他们时， 那种专注便会导致极度的失望",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+                "sourceText": "O 文中并没有提到农业问题的解决会越来越依赖转基因技术， A 项排除。 B 项提及人类社会的可持续发展， 范围扩大化了， 应排除。 c 项提及了 “ 更好的替代品 \"， 原文中并无相关信息， 属于无中生有， 也可排除。 50 · C 定位： 根据题干的信息词 the author i of 和 ongoing debate around GM crops， 可以把答题线索定位到最后一段第一句。 解析： 该句提到 “ 然而， 最重要的是， 我希望人们能将不断耗费在有关转基因作物的争论上的精力的十分之一用以关注全球农业更加急迫的那些挑战 ”， 可知作者认为人们耗费在有关转基因作物的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nEarly decision—you apply to one school? and admission is binding—seems like a\ngreat choice for nervous applicants. Schools let in a higher percentage of early-decision\napplicants, which arguably means that you have a better chance of getting in. And if you\ndo, you’re done with the whole agonizing process by December. But what most students\nand parents don’t realize is that schools have hidden motives for offering early decision.\nEarly decision, since it’s binding, allows schools to fill their classes with qualified\nstudents; it allows admissions committees to select the students that are in particular\ndemand for their college and know those students will come. It also gives schools a higher\nyield rate, which is often used as one of the ways to measure college selectivity and\npopularity.\nThe problem is that this process effectively shortens the window of time students\nhave to make one of the most important decisions of their lives up to that point. Under\nregular admissions, seniors have until May 1 to choose which school to attend; early\ndecision effectively steals six months from them, months that could be used to visit more\nschools, do more research, speak to current students and alumni（校友）and arguably\nmake a more informed decision.\nThere are, frankly, an astonishing number of exceptional colleges in America, and\nfor any given student, there are a number of schools that are a great fit. When students\nbecome too fixated（专注）on a particular school early in the admissions process, that\nfixation can lead to severe disappointment if they don’t get in or, if they do? the\npossibility that they are now bound to go to a school that, given time for further reflection,\nmay not actually be right for them.\nInsofar as early decision offers a genuine admissions edge, that advantage goes\nlargely to students who already have numerous advantages. The students who use early\ndecision tend to be those who have received higher-quality college guidance, usually a\nresult of coming from a more privileged background. In this regard, there’s an argument\n\nagainst early decision, as students from lower-income families are far less likely to have\nthe admissions know-how to navigate the often confusing early deadlines.\nStudents who have done their research and are confident that there’s one school they\nwould be thrilled to get into should, under the current system, probably apply under early\ndecision. But for students who haven’t yet done enough research, or who are still\nconstantly changing their minds on favorite schools, the early-decision system needlessly\nand prematurely narrows the field of possibility just at a time when students should be\nopening themselves to a whole range of thrilling options.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What are students obliged to do under early decision?",
+              "options": {
+                "A": "Look into a lot of schools before they apply.",
+                "B": "Attend the school once they are admitted.",
+                "C": "Think twice before they accept the offer.",
+                "D": "Consult the current students and alumni."
+              },
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+                "sourceText": "令人激动的选择。 丷前申请着似不错 《但背后却看鲜为人知的动机。、 0 0 段 《其体阐述学悻优先录提箭申请的学生的潜在动枞韩斗@的裘蘇《、 五段过指甾提前申请的 0 个缺点 《准备时间 0 然够公郫 “， 〖 答案解析 〗 51. B 定位： 根据题干中的信息词 obliged 和 early decision， 可以将答案线索定位到文章第一段。 解析： 解题关键在于考生能否准确理解第一句中 binding 一词的含义， binding 在词典中的释义是 “ 有约束力的， 捆绑的 \"， 考生可以推断出申请学校的录取是有约束力的， 结合四个选项， 只有选项 B 能表达出这层含义。 如果",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "Why do schools offer early decision?",
+              "options": {
+                "A": "To make sure they get qualified students.",
+                "B": "To avoid competition with other colleges.",
+                "C": "To provide more opportunities for applicants.",
+                "D": "To save students the agony of choosing a school."
+              },
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+                "sourceText": "\"， 考生根据结果反推原因， 将四个选项分别代入， 显然只有选项 B 符合文意。 文章第三段提到 “ 申请之前调研很多学校 \" 和 “ 咨询在校生和校友 ”， 但这都是走常规申请流程的学生的做法， 而非提前申请的学生， 故排除选项 A 和 DO 选项 C 在文中没有提及， 故排除。 52 · A 定位： 根据题干中的信息词 offer early decision， 可以将答案线索定位在文章第一段最后一句， 但该句只是陈述了 “ 学校录取提前申请的学生有潜在动机 ” 这一事实， 而题干问的是这一潜在动机具体是什么， 所以我们可以将答案线索进一步定位到第二段。 解析： 第二段第一句的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What is said to be the problem with early decision for students?",
+              "options": {
+                "A": "It makes their application process more complicated.",
+                "B": "It places too high a demand on their research ability.",
+                "C": "It allows them little time to make informed decisions.",
+                "D": "It exerts much more psychological pressure on them."
+              },
+              "answer": "C",
+              "explanation": "： 文章第三段由两句话构成， 首句即主题句， 提到 “ 问题是， 这一申请流程有效地把学生们不得不做出一个人生重大决定的一小段时间缩短至那一刻。 ” 第二句则通过对比， 具体阐述了走常规申请流程的学生有更多的时间做思虑更周全的决定。 综上所述， 提前申请给学生带来的问题是 “ 给学生留出很少时间来做思虑周全的决定 ”， 选项 C 是对原文内容的概括， 故为答案。 文章提到了提前申请的流程很复杂， 但没有信息表明提前申请会使学生的申请流程更复杂， 不存在这种递进关系， 故排除选项 AO 文中没有提到学生研究能力和心理压力方面的内容， 故排除选项 B 和 DO 定位： 根据题干中的信息词 opposed to early decision， 可以将答案线索定位到文章第五段最后一句。 解析： 第五段最后一句提到 “ 就这一点而言， 有人反对提前申请， 因为来自低收入家庭的学生不太可能具备招生专业知识以指导他们弄清楚那些令人困惑的提前录取的截止日期。 \" 而第五段的前半部分也提到背景优越的学生会受到高质量的择校指导。 通过对比背景优越的学生和来自低收入家庭的学生， 作者旨在说明提前申请是不公平的， 因为低收入家庭的学生明显处于劣势， 选项 D 是对原文的概括， 为正确答案。 文中没有提到学生在高中学习的内容， 故排除选项 AO 选项 B 是强干扰项， 考生不能将 students at ordmary high schools 等同于第五段中的 students from lower-income families， 普通高中的学生并不都来自低收入家庭， 来自低收入家庭的学生也不一定都上普通高中， 两者不是同一个概念， 故排除选项 BO 线索定位句中出现了选项 C 中 confusion 一词的同根词 confusing， 但原文是说令人困惑的截止日期， 而不是给学生带来不必要的困扰， 故排除选项 C0",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+                "sourceText": "味着申请者被录取的几率更大。 ” 但这只是表面现象， 大多数学生和父母没有意识到其潜在动机， 故选项 C 也要排除。 文章第一段第三句提到提前申请的过程很痛苦， 选项 D 是想通过同根词 (agonizing 和 agony） 复现来误导考生， 但只要仔细阅读文章就会发现， “ 避免学生陷入择校的苦恼 \" 显然不是学校提前录取学生的原因， 故排除。 53 · C 定位： 根据题干中的信息词 problem with early decision， 将答案",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "Why are some people opposed to early decision?",
+              "options": {
+                "A": "It interferes with students’ learning in high school.",
+                "B": "It is biased against students at ordinary high schools.",
+                "C": "It causes unnecessary confusion among college applicants.",
+                "D": "It places students from lower-income families at a disadvantage."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What does the author advise college applicants to do?",
+              "options": {
+                "A": "Refrain from competing with students from privileged families.",
+                "B": "Avoid choosing early decision unless they are fully prepared.",
+                "C": "Find sufficient information about their favorite schools.",
+                "D": "Look beyond the few supposedly thrilling options."
+              },
+              "answer": "B",
+              "explanation": "： 文章最后一段是作者给大学申请者的建议， 首句是给做好充分准备的学生的建议， 即可以提前申请院校； 后一句是给没有做好准备的学生的建议， 即不要提前申请院校， 以免缩小了自己的择校范围。 观察四个选项， 只有选项 B 是对第二句的全面概括， 故为正确答案。 文章第五段只是提到来自背景",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2015-06-2/key_OCR_2015-06-2.txt",
+                "sourceText": "udents from lower-income families， 普通高中的学生并不都来自低收入家庭， 来自低收入家庭的学生也不一定都上普通高中， 两者不是同一个概念， 故排除选项 BO 线索定位句中出现了选项 C 中 confusion 一词的同根词 confusing， 但原文是说令人困惑的截止日期， 而不是给学生带来不必要的困扰， 故排除选项 C0 55 · B 定位： 根据题干中的信息词 author 和 advise 及题文同序的原则， 可以将答案线索定位到文章最后一段。 解析： 文章最后一段是作者给大学申请者的建议， 首句是给做好充",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from\nChinese into English. You should write your answer on Answer Sheet 2.",
+      "source": "汉朝是中国历史上最重要的朝代之一。汉朝统治期间有很多显著的成就。它最先向其他文化敞开大门,对外贸易兴旺。汉朝开拓的丝绸之路通向了中西亚乃至罗马。各类艺术一派繁荣,涌现了很多文学、历史、哲学巨著。公元100年中国第一部字典编纂完成,收人9000个字,提供释义并列举不同的写法。其间,科技方面也取得了很大进步,发明了纸张、水钟、日晷(sundials )以及测量地震的仪器。汉朝历经400年,但统治者的腐败最终导致了它的灭亡。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

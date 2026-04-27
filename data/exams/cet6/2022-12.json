@@ -1,0 +1,571 @@
+{
+  "id": "cet6-2022-12",
+  "type": "cet6",
+  "year": 2022,
+  "month": 12,
+  "set": 0,
+  "title": "2022年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Today increasing importance is being attached to cultivating college students, team spirit.w You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one\nword for each blank from a list of choices given in a word bank following the passage. Read the\npassage through carefully before making your choices. Each choice in the bank is identified by\na letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single\nline through the centre. You may not use any of the words in the bank more than once.\nAmerican colleges and universities are using 64 percent less coal than they did a\ndecade ago, burning 700,000 tons last year, down from 2 million tons in 2008, the U.S.\nEnergy Information Administration (EIA) said in a report \n\nyesterday.\nAll 57 schools that were burning coal in 2008 are using less now, and 20 have \n\ncoal completely, EIA found.\nMost universities have turned to natural gas as a \n\nwith state funding backing\nthe fuel switch.\nWhile academic institutions use less than 0.1 percent of U.S. coal burned for power,\ncampus coal use has a history dating back to the 1800s when \n\nto power was scarce.\nMany universities still operate their own power plants. The Public Utility Regulatory\nPolicies Act of 1978 encouraged more electricity generation by allowing institutions to\nsell \n\npower to utilities.\nBut EIA noted many coal-fired universities have signed onto the American College\nand University Presidents Climate Commitment, which was launched in 2007.\nAbout 665 schools are part of the program, which aims to \n\ngreenhouse gas\nemissions. Thirty percent of the participants have pledged to be carbon \n\nwithin 20\nyears.\nThe Sierra Club's Beyond Coal campaign, which also leads campaigns for universities\nto withdraw their \n\nin coal and other fossil fuels, lists 22 schools that have pledged\nto move “beyond coal/5 including Clemson University, Indiana University, Ohio University,\nPenn State University, the University of Louisville and the University of Tennessee,\nKnoxville.\n\nThe largest coal use \n\nat colleges were in Michigan, Missouri, Tennessee and\nIndiana. Indiana's universities alone cut coal \n\nby 81 percent between 2008 and\n2015.\nDuring the same period, Michigan made an 80 percent cut and Tennessee cut back by\n94 percent at state institutions.",
+      "wordBank": {
+        "A": "abandoned",
+        "I": "neutral",
+        "B": "access",
+        "J": "reductions",
+        "C": "consumption",
+        "K": "released",
+        "D": "contrive",
+        "L": "replacement",
+        "E": "duplications",
+        "M": "slash",
+        "F": "investments",
+        "N": "surplus",
+        "G": "mobilized",
+        "O": "void",
+        "H": "negligent"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": "F",
+          "explanation": "• : 4 ①dizzy ［'dizi］ a. 头晕目眩的；眩晕的 § ©press charges 起诉；控告 ②turn out to be sth 证明是某物；原来是某物，⑤rattle ［Yaetl］ v. 使不安；使心烦意乱 ©wrestle ［'resl］让摔跤；扭打 J ⑥shake ［Jeik］ v. 去除；摆脱 The woman, who later turned out to be a schizophrenic without access to her medications, was, by some force, wrestled out and escorted away, then put in a hospital for observation, in a step that was actually safer for everyone than any one of us pressing charges. who later turned out to be a schizophrenic without access to her medications, 引导词时间状语系动词不定式短语作表语介词短语作 sH/Zop〃阳位的后置定语 by some force, r The woman 的定语从句介词短语作主句的插入语、 The woman, was, wrestled out and (was) escorted away, then (was) put in a hospital for observation, 主语被动态谓语 1 连词被动态谓语 2 状语被动态谓语 3 put 的地点状语 put 的目的状语介词短语作主句的方式状语 that was actually safer fbr everyone than any one of us pressing charges. a step 的 ZE 语从句引导词系动词状语+表语对象状语介词短语作比较状语；• 解题思腾• ［ j 27 . 答案：A） access ［确定词性］",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "26. 答案：F） froze [确定词性 1 空格位于首段②句中，其前为主语 We 及不定代词 all, 后为句点，故句中缺少谓语动词，空格词应为不及物动词作谓语。结合句群的过去时态（was、wandered、said、wasn't、had）可知，空格词应为动词的过去式。 [锁定答案 1 首段①②句叙述作者本人的亲身经历：首句指出，一名女子晃进我的课堂，扬言自己有枪并想用用看；②句",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": "A",
+          "explanation": "题。 A ) 【语法判断】空格前是主语 passenger pigeons 和系动词 we『e, 空格后是介词 to, 可知空格处应填一个形容词或动词的分词形式作表语。 【语义判断】此处意思是“尽管旅鸽的数量庞大，但它们很容易受到人类入侵其筑巢领地的影晌”。 备选项中的形容词 vulnerable 表示“易受伤的;易受攻击的\"，符合语境，故答案为 A )。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "答案：A） access ［确定词性］空格位于第二段②句 T he woman 的定语从句（who later turned out to b e. . .）中，without to her m edications 整体作 a schizophrenic 的后置定语。空格词作介词 with out 的宾语，应为名词或动名词，且能与 to sth 构成合",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": "A",
+          "explanation": "答案：A) aesthetic ［确定词性］空格位于 that 引导的定语从句的宾语部分(functional and 28 d esign ), 与 fu n ctio nal 并列，共同作定语修饰宾语核心词 d e sign, 应为形容词、名词、动名词/现在分词或过去分词。 ［锁定答案］空格句指出，苹果公司的产品集成了功能和设计。结合产品设计通常关乎其外观、形态、功能、实用等角度及苹果产品外形优美的大众印象可推断，空格词应表示“外观/美观/美学”等意。选项中只有 A ) aesth etic 符合文意，故正确。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "答案：A) aesthetic ［确定词性］空格位于 that 引导的定语从句的宾语部分(functional and 28 d esign ), 与 fu n ctio nal 并列，共同作定语修饰宾语核心词 d e sign, 应为形容词、名词、动名词/现在分词或过去分词。 ［锁定答案］空格句指出，苹果公司的产品集成了功能和设计。结合产品设计通常关乎其外",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": "B",
+          "explanation": "答案：B） access 【确定词性】空格位于第四段（句）的定语从句（when. . .）中。空格句含 While 连接的两个并列分句，空格词位于后一分句嵌套的定语从句 when. . . 中（修饰 the 1 8 0 0 s），从句结构为 when （关系副词在从句中作状语） to power （主语）+ was （系动词）+ scarce（表语）。可见，主语中 to power 作空格词的后置定语，且系动词为 was, 因此空格词应为不可数名词（若为可数名词单数，则其前应有冠词、物主代词等）。 【锁定答案】借助连词 While 可知，空格句的前后两分句在语义上为对比/对立关系。前一分句指出，如今学术机构/高校的发电用煤量不到美国发电用煤总量的 0 . 1 % （占比极小），据此可推知与之对立的后一分句应表达“1 9 世纪高校的发电用煤量占比很大/对于当时的总发电量举足轻重 B） access 意为“（使用或见到的）机会，权利”，填入空格后表示“1 9 世纪美国电力供应匮乏”的语义，恰反向表明“高校发电当时举足轻重”, 和前一分句形成对比逻辑。 【排除干扰】F） investments 填入文中看似符合语义要求：表达“1 9 世纪对电力的投资非常稀有”之意，和前一分句形成语义对比。但可从语法角度排除该项：对某领域的投资大多用 i n 而不是用 t o, 且 investments 与 was 单复数不一致。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "答案：B） access 【确定词性】空格位于第四段（句）的定语从句（when. . .）中。空格句含 While 连接的两个并列分句，空格词位于后一分句嵌套的定语从句 when. . . 中（修饰 the 1 8 0 0 s），从句结构为 when （关系副词在从句中作状语） to power （主语）+ was （系动",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": "G",
+          "explanation": "30 . 答案：G) incredible ［确定词性］空格位于第二段⑤句 the sense 的同位语从句(that in this country. . . ) 中，其前为介词 at, 其后为名词 risk, at risk(处于危险中)为固定短语，可见空格词作定语修饰 risk, 应为形容词/过去分词/现在分词/名词。 ［锁定答案］⑤句承接上句阐明作者感到不安( I was rattled)的原因：我无法摆脱“我们总是生活在危险中，，这一感觉。结合上文所述的作者亲历的危险事件，及首段末句作者的观点“在美国任教，就已经是将自己置于危险之中了 ”可知，空格句意在说明“在美国总是会遇到此类危险事件，即危险事件的发生率是很高的“，故空格词应表示“极高的/极大的”等意。备选项中，G) incredible 意为\"极大的\"，at incredible ris k 意即 “处于极大的危险中“，契合文意。 ［排除干扰］B) apparent」) overriding、。) terrifying 均能与 risk 搭配构成合理语义“显而易见的/首要的/极其可怕的风险”，具有一定干扰性。但由上下文可知，空格句侧重说明美国危险事件发生的频率很高，风险很大，而非强调风险的可见性及可怕程度，由此可排除 B、0 项。此外，文章并未介绍不同类型的风险及应对的优先等级，J) overriding” 首要的；比其他一切更重要的“无从谈起。 I［❶ A few months later, crisis 31 again. ©W hile my husband was locking his bike to drop off our 3-year-old daughter for her preschool-aged day camp, a different woman approached!. ❸ Swiftly\" and for no 32 reason, she bent down, picked up our daughter» and began to carry her down the street",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "30 . 答案：G) incredible ［确定词性］空格位于第二段⑤句 the sense 的同位语从句(that in this country. . . ) 中，其前为介词 at, 其后为名词 risk, at risk(处于危险中)为固定短语，可见空格词作定语修饰 risk, 应为形容词/过去分词/现在分词/名词。 ［锁定答案］⑤句承接上句阐明作者感到不安( I was ratt",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": "J",
+          "explanation": "题。 B）【语法判断】空格前是不定冠词 an, 空格后面是名词 pace, 可知空格处应填一个形容词或名词作定语。 【语义判断】空格所在句提到 commercial trapping of passenger pigeons（商业捕获旅鸽），接下来的一句又提至 U hundreds of thousands of the birds were being harvested every day （每天都有数十万只旅鸽被捕获），可判断此处是指商业捕获旅鸽的速度非常快。备选项中的形容词 unprecedented 表示 “前所未有的”，用在此处符合语境，故答案为 B）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "itelikaimju：nilkeij'nzj x. 电信；§ ④state-owned「steit ound］ a. 国有的电讯； ⑤Privatize P praivataiz］a 使私有化；将. . . . 私营化 ②share ［Jeo（r）］曾. 有同样的经历（感情或想法等） j ⑥deregulate ［idi:'regjuleit］仇撤销对（贸易、商业活动 ③reconstruct strAkt］曾. 改组；改建夕等）的管制 J 解题思函• 31 . 答案：J） revenues ［确定词性 1 空格位于介词 by 后，应为名词或动名词。 ［锁定答案［空格句指出，，西班牙电信目前是世界",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": "O",
+          "explanation": "①lasting Plcustiq］ 持久的；继续存在的 § © presence ［'prezns］ 〃. 在某地的经济(或军事、文化 ②sustain ［soLtein］管. 使保持；使稳定持续 《等)势力；・解题思函• 33 . 答案：G ) instances ［确定词性］空格位于句子的主语部分(many other 33 of. . . experiments), 为主语部分的核心词，结合限定词 manyother 可判断，空格应为复数名词。 ［锁定答案］空格句及前一句通过对比指出，上述例子(苹果公司、宜家公司、西班牙电信等)可能会令读者认为建立全球优势很简单，但许多其他耗资不菲却失败的实验表明实际情况并非如此。结合两句间的语义对比可判断，空格句的主语应是与“成功的案例”相对的“失败的案例”；再结合 many other Jailed 可推知，空格词应与 examples 近义，表示“案例/情况/事例”等意。G ) instances 符合文意，为正确项。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "32 . 答案：O） undergoing ［确定词性］空格所在的定语从句中，引导词 that（指代 countries）充当主语，more rapid market reform 作宾语，were 32 应为谓语，故空格词应为动词现在分词。 ［锁定答案 1 空格句指出，西班牙电信于 1989J990 年分别进入智利、阿根廷，这两个国家与西班牙有着相同的制度和文化特征，但是正在更快",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": "C",
+          "explanation": "・；/ ①cut back 削减 6 ・解题思 E& •； 3 4 . 答案：J） reductions 【确定词性】空格位于第九段首句的主语（The largest. . . colleges）中。空格前为名词短语 The largest coal use，后面为地点状语 at colleges，由于要与前后成分共同作句子的主语，且整个句子的谓语动词（were）为复数，空格词只能是可数名词复数。 【锁定答案】根据空格句与下一句之间 in Michigan, Missouri, Tennessee a nd Indiana ^ Indiana * s universities alone 构成的由整体到部分的衔接关系可知，②句是以印第安纳州的大学为例对空格句进行具体化说明。 ②句 cut coal. . . b y 81 percent between 2 0 0 8 and 2 0 1 5 聚焦印第安纳州的高校煤炭使用量的缩减幅度，由此可推知空格句也是在讲高校煤炭使用量的缩减情况。J） r e ductions 符合上下文语义。 3 5 . 答案：C） consumption 【确定词性】空格词位于第九段②句中。该句结构为 Indiana's universities alone（主语）+ cut （谓语）+ coal 35 （宾语）+ b y 81 percent between 2 0 0 8 and 2 0 1 5 （程度状语+ 时间状语），可推知空格词应为名词，与 coal 组成名词短语，作谓语动词 cut 的宾语。 【锁定答案】根据上文可知，整篇文章主要围绕美国高校缩减煤炭使用量展开，use/using less （. . . coal）. coal use 大量出现。根据本段可知，空格句是在以印第安纳州的大学为例对上句进行具化说明，由于上句提及了煤炭使用量（coal use），空格句也应围绕“煤炭使用量”论述。此外，结合下段可知，空格句和",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "答案：F) investments 【确定词性】空格位于第八段(句)的非限制性定语从句(which. . . )中。空格句为超长句，主干为主谓宾结构 The Sierra Club's Beyond Coal campaign lists 22 schools, 主语带定语从句 which. 宾语带定语从句 that. . . o 空格所在的 w h ich 定语从句中，w h ich 作主语，leads 为谓语，campaigns 为宾语，for sb to do sth 结构作 campaigns 的后置定语，该结构中，空格前为",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": "M",
+          "explanation": "本文选自 The Revelator(启示者)网站 2020 年 3 月 13 日文章 AnEmerging Threat to Conservation： Fear of NatureC 生态保护新威胁：对自然的恐惧)。文章围绕现如今人们对自然生物的恐惧展开论述，分析该问题对于生态保护的消极影响并提出针对性建议，呼吁人们正视自然空间的价值和意义。 申二、试题分析试题定位词核心义",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "34 . 答案：M ) strategic ［确定词性］空格位于 that 引导的宾语从句的宾语部分(a great deal of 34 and operational finesse), 如果 and 衔接的是空格词和 operational(共同作定语修饰/7\"esse), 那空格词应为形容词、动名词/现在分词或过去分词；如果 and 衔接的是 a great deal",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": "B",
+          "explanation": "；/ (D approach ［e'pra 仇口 v. 走近；靠近 § © custody ［'kAstadi］ n. 拘留；拘押 ②sw iftly ［'swiftli］ ad. 迅速地；敏捷地， © incoherent ［unkau'hrarsnt］ a. 语无伦次的；言语不 ③reclaim ［n'kleim］ u. 取回；夺回 : 清的 © retreat ［n'trirt］ v. 逃避；躲避 《⑧episode C'episaod］ n. 一段经历；一段时期 ⑤unwell ［An'wel］ a. 不舒服的；状态不好的 《© haunting ［'hamti1］］ a. 萦绕心头的；难以忘怀的；, 解题思能• 1 於 3 1 . 答案：N ) struck ［确定词性］空格位于第三段首句的主干中, 其前为主语 crisis, 其后为副词 again 作状语，故空格词应作谓语。结合句内时间状语 A few months later 及下文的过去时态(was locking, approached 等)可知，空格词应为动词的过去式。 ［锁定答案］首句指出，几个月后，危难再度。由 again 可知，首句承上启下，引出另一事例论证作者观点。结合下文所述作者的丈夫和女儿也遭遇了危险事件，可推测空格词指向“降临/来袭/侵袭”等意。 N ) struck 意为“(灾难、疾病等)突然降临，侵袭\"，契合语境，为正确项。 ［补充技巧 1 段首句常为段落主旨句，其设空处往往考查考生对段际逻辑关系的掌握, 或根据下文内容归纳段落主旨的能力。考生可从以下两方面寻求解题的突破点：1.抓取句中的语义标记词(如首句中的 again), 判断本段与上文的语义逻辑，推导句内语义。2, 根据下文所述内容，总结提炼段落主旨，辅助解题。 3 2 . 答案：B ) apparent ［确定词性 1 空格位于第三段③句的介词短语(for no reason)中，空格前为介词 for 及限定词 no, 空格后为名词 reason„ 可见，空格词应为形容词/过去分词/现在分词/名词，修饰名词 reasono ［锁定答案］第三段②至⑥",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "的掌握, 或根据下文内容归纳段落主旨的能力。考生可从以下两方面寻求解题的突破点：1.抓取句中的语义标记词(如首句中的 again), 判断本段与上文的语义逻辑，推导句内语义。2, 根据下文所述内容，总结提炼段落主旨，辅助解题。 3 2 . 答案：B ) apparent ［确定词性 1 空格位于第三段③句的介词短语(for no reason)中，空格前为介词 for 及限定词 no, 空格后为名词 reason„ 可见，空格词应为形容词/过去分词/现在分词/名词，修饰名词 reasono ［锁定答案］第三段②至⑥句讲述另一危险事件发生的经过，其中③句指出“没有的原因，那女子迅速地弯下身, 抱起我们的女",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "In 1913, classical music sparked a riot in Paris. Igor Stravinsky was introducing his\nrevolutionary “Rite of Spring^^ ballet to the world, with its discordant melodies and\nunorthodox choreography ( 编舞) ，and the purists in the crowd expressed their\ndisapproval loud and clear. It might have been classical music's version of the time Bob\nDylan went electric at the Newport Folk Festival. 4tThe noise, fighting, and shouting in\nthe audience got so loud,^^ NPR's music reporter Miles Hoffman said of the Stravinsky\ndebut, “that the choreographer had to shout out the numbers to the dancers so that they\nknew what they were supposed to do.^^"
+        },
+        {
+          "label": "B",
+          "text": "Ifs difficult to imagine a similar disturbance occurring today within America's sacred\nsymphony halls. In fact, it's hard to picture any kind of disruptive activity at all (unless\nsomeone's cell phone happens to go off, and then you'd better watch your back). A\nmannerly aura (氛围)hangs over most classical proceedings, and many of the genre5s\nbiggest supporters would have it no other way."
+        },
+        {
+          "label": "C",
+          "text": "Today, Western audiences for classical music and opera and ballet are almost always\nwell dressed, older, respectful, achingly silent and often very wealthy (one has to be\nable to afford most tickets). But as many of America's most storied ”班g/zbvow“ (高雅的)\ninstitutions struggle financially- the Philadelphia Orchestra's much-publicized rebound\nfrom bankruptcy is just one recent example- classical music fans and theorists are\nwondering how the medium can weave itself into the 21st century's cultural fabric\nwithout sacrificing its integrity."
+        },
+        {
+          "label": "D",
+          "text": "For example, should we feel OK “clapping“ during classical music events, even if\n\nnobody else is? Why shouldn,t we cheer for something great, like we do at a rock\nconcert? The Huffington Post recently ran a Great Debate on this issue and many\ncommenters came out on the side of silence. 4tThere is no more rewarding experience in\nlife than being part of an audience where everybody is leaning forward in silence,\nthoroughly carried away by a great performance of a masterpiece,one commenter\nwrote. t4Why is it so difficult for folks to develop an appreciation and understanding for\nthe mannerisms and traditions of classical music?^^ asked another.\nE） The truth is that classical music audiences weren't always so polite. Robert Greenberg,\nan award-winning composer, said that when Beethoven first performed his 7th\nSymphony, audiences forced the orchestra to perform encores （重演）of certain\nmovements immediately, applauding wildly. And in the last few decades, he said, many\naudiences at opera performances have abandoned pretenses, yelling “Bravo“ when they\nfeel like it.\nF） \"I don't think there5s anything wrong with an audience showing their enthusiasm fbr a\nproper moment by applauding, showing their joy,“ Greenberg said, noting that the\nstuffiness in concert halls is “one aspect of contemporary concert etiquette^^ he doesn't\nunderstand. ''Instead of waiting half an hour to show enthusiasm, why not show it every\neight or nine mmutes?^^\nG） Until the rules about behavior and clothing change, ifs hard to imagine multitudes of\nyoung people filling concert halls on their own accord. They5re probably more likely to\nhead to Central Park to watch a free performance with a bottle of wine and their friends.\n“I think anyone should be able to come into a performance dressed any way they like,\nand be comfortable any way they like, sitting in that seat ready to enjoy themselves,\nGreenberg said. \"Because it's enjoyable.\nH） Greenberg stressed that he doesn't want people to start respecting the music less, and\nhe's not suggesting that we “dumb down^^ the experience. Rather, it's about opening up\n“access”. When operas first instituted subtitles （字幕）during shows, he said, many\npurists didn't like the idea, believing that the audience should instead study the works\nbefore attending. But now it's commonplace to find titles on the seatback in front of\nyou一choose a language, sit back, and understand whafs going on.\nI） Allison Vulgamore, president of the Philadelphia Orchestra, is certainly looking to the\nfuture. She says certain ''classics concerts^^ dedicated to the old masters will always\nexist, but not every program has to feature Beethoven and Brahms- or even a stage and\nseats. \"We're trying to introduce different kinds of concerts in different ways,“ she said.\n“We are an interactive society now, where people like to learn.”\nJ） As the Philadelphia Orchestra rebounds from its financial straits, it is also aiming to\nexperiment, without alienating the loyalists. Vulgamore pointed to Cirque de la\nSymphonic, a recent offering in which jugglers （玩杂耍的人）and acrobats （杂技演员）\ninteracted with musicians. An upcoming collaboration with New York City's Ridge\nTheatre, meanwhile, will feature a \"suspended dance installation^^ and other theatrical\nelements occurring in conjunction with an orchestral piece.\nK） The orchestra also continues to offer $25 annual memberships to Philadelphia students,\nwho can buy rush tickets to every concert on the schedule. \"Students line up fbr the\n\nconcerts they want, and we get roughly 300 or 350 kids a night coming to these. They\ntake any of the open seats available, 5 minutes before the concert starts,“ Vulgamore\nsaid. \"It's like the running of the bulls, that energy when the doors open.^^\nL) Greenberg thinks that youthful energy needs to be harvested. Conductors don't have to be\narrogant and untouchable- they can be accessible. Perhaps there could even be a “bit of\nhumor“ about them, he suggested, and an abandoning of pretension within the high-art\ninstitutions themselves. 4tOn one hand, these organizations are all saying the same thing:\nwe want more general audiences, to break down cultural barriers,he said. \"But then they\ncome up with some very snooty (目 中无人的)thing that makes you crazy.”\nM) John Terauds, a critic who has covered Toronto's classical music scene extensively, also\nwants to do away with the stuffiness. He suggested that the warmer an audience is, the\nbetter the musicians themselves will respond. \"But the producer or organizer has to let\neveryone know ifs OK,“ he said. \"It's OK to enjoy yourself.\" At the Toronto Symphony\nOrchestra, fbr example, conductor Peter Oundjian often stops between pieces, taking a\nmoment to talk about the composer or the music in a very amiable way. And some\nnights, Terauds said, “at least a third” of the audience consists of students who have\npurchased cheaper tickets. On these nights, the energy of the room drastically shifts. It\nbecomes a less intimidating place.\nN) Back in February, Terauds wrote on his blog about how going to classical\nperformances can be intimidating. Certain people “think they have to dress up,“ he\nwrote. \"They think they have to know something about the music before they go. And,\nI'm sure, sitting in a seat, trembling in fear that this might be the wrong time to\napplaud, is also one of the factors.\nO) Everyone in the classical world agrees on the need for increased “accessibility,“ but\nachieving it is often easier said than done. Nowadays, there are unknown, unorthodox\nopera singers wowing (博得.的喝彩)viewers on TV programs like “America's\nGot Talent\" and \"The Voice^^. What can higher institutions do with any of that? And if\nthey appeal to these outlets, do they risk compromising the integrity or the\nintelligence of the music?\nP) Vulgamore seems to understand this. She thinks an organization can have it both ways,\nclaiming the new while keeping the old. And as she reorganizes the Philadelphia\nOrchestra, she will attempt to do just that. \"The world's most respected musicians\nbrought together as an orchestra will always exist,“ she said. \"But it's essential that we\nbe willing to experiment and"
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "It was not a rare occurrence that audiences behaved wildly while listening to classical\nmusic.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Some high-art institutions don't actually mean it when they say they want more general\naudiences.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "The theatre was in chaos when an unconventional ballet was first put on stage in the\ncapital of France.",
+          "answer": "D",
+          "explanation": "1 D 段②句指出，沃迪安将与其他 3 2 名探险者一起在七天内跑完七大洲的七场马拉松赛，试题是对该句信息的改写。其中 Join over thirty other runners 同义改写文中 joining 32 other adventure seekerso",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "沃迪安将与其他三十多名跑者共同参加为期一周的马拉松系列赛。 ［答案］D ［精解 1 D 段②句指出，沃迪安将与其他 3 2 名探险者一起在七天内跑完七大洲的七场马拉松赛，试题是对该句信息的改写。其中 Join over thirty other runners 同义改写文中 joining 32 other adventure seekerso",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "According to one critic, the audience's warm response would encourage the musicians\nto do a better job.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Many commenters argued for the audience enjoying classical music quietly.",
+          "answer": "I",
+          "explanation": "】细节归纳题。D）段定位句提到，根据 2016 年美国新闻/雷神公司 STEM 指数, 计算机相关工作在 STEM 领域内占据前七位，从业人员数量最多。另一方面，对于外语的兴趣自 1995 年以来首次下降。由此可知，题干是对该处信息的归纳。 题干中的 have been on the rise 对应原文中的 hold the top seven positions in STEM fields for highest number of workers，题干中的 foreign languages have become less appealing 是原文中 “Foreign language interest. . . is declining”的同义表达，故答案为 D）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "40 . 许多评论家认为观众应该安静地欣赏古典音乐。 ［答案 I D ［精解］D 段①②句提出问题“人们是否可以在古典音乐会上鼓掌喝彩”，③句说明《赫芬顿邮报》就这一问题展开的辩论以及许多评论家的站位“站在了 ‘保持安静'一边”。试题是对③句的同义改写，其中 argued for 对应 came out on the side ofo 41 . 座椅靠背的屏幕上所显示的内容使观众无需事先研究作品。 ［答案［H ［精解］H 段③",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "What appears on the seatback screen makes it unnecessary for the audience to study the\nworks beforehand.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "It is generally accepted that there should be no disturbance from the audience during\nclassical music performance.",
+          "answer": "H",
+          "explanation": "】同义转述题。B）段定位句指出，大多数教育者的意见都是一致的：编码应该被添加到课程中，但不能以牺牲外语课程为代价。题干是对该句的同义转述。题干中的 consensus 对应原文中的 agree, 题干中的 coding should be taught in schools 是对原文中 coding should be added to curriculums 的转述，而 replace foreign language 贝［ J 是原文中 at the expense of foreign language classes 的同义表达，故答案为 B）o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+            "sourceText": "have his wife's support 对应①句中的 getting approval from his wife0 【核心义匹配】①句句意“沃迪安开始着手存钱，并在承诺参赛前联系赞助商且获取妻子的支持”可匹配 4 5 题核心义。 42 H) O Since turning it into an organized event in 2015, Donovan has attracted a variety of runners. @ This year's challenge will feature1 a far more elite field, which includes Ryan",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Higher institutions will be concerned about compromising the integrity of classical\nmusic if they have to resort to the television medium.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Heavily discounted rush tickets help attract many young students to attend classical\nconcerts.",
+          "answer": null,
+          "explanation": "】同义转述题。C）段第三句提到，由于预算限制和缺乏对教师的技能培训，计算机科学领域的发展速度远不是学校所能跟上的。题干中的 short of funding and qualified teachers 是对原文中 budget constraints and a lack of skills training for teachers 的同义转述，题干中的 schools lag behind 则对应原文中的 is growing faster than schools can keep up, 故答案为 C）。"
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "The formalities of high-art theatres can intimidate some people attending a performance.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nHow can one person enjoy good health, while another person looks old before her time?\nHumans have been asking this question for thousands of years, and recently, ifs becoming\nclearer and clearer to scientists that the differences between people's rates of aging lie in the\ncomplex interactions among genes, social relationships, environments and lifestyles. Even\nthough you were bom with a particular set of genes, the way you live can influence how\nthey express themselves. Some lifestyle factors may even turn genes on or shut them off.\nDeep within the genetic heart of all our cells are telomeres, or repeating segments of\nnoncoding DNA that live at the ends of the chromosomes (染 色体).They form caps at the\nends of the chromosomes and keep the genetic material together. Shortening with each cell\ndivision, they help determine how fost a cell ages. When they become too short, the cell\nstops dividing altogether. This isn't the only reason a cell can age- there are other stresses\non cells we don't yet understand very well- but short telomeres are one of the major\nreasons human cells grow old. We've devoted most of our careers to studying telomeres,\nand one extraordinary discovery from our labs is that telomeres can actually lengthen.\nScientists have learned that several thought patterns appear to be unhealthy for\ntelomeres, and one of them is cynical hostility. Cynical hostility is defined by high anger\nand frequent thoughts that other people cannot be trusted. Someone with hostility doesn't\njust think, 4tI hate to stand in long lines^^; they think, ''Others deliberately sped up and beat\nme to my rightful position in the line!”- and then get violently agitated. People who score\nhigh on measures of cynical hostility tend to get more heart disease, metabolic disease and\noften die at younger ages. They also have shorter telomeres. In a study of British civil\n\nservants, men who scored high on measures of cynical hostility had shorter telomeres than\nmen whose hostility scores were low. The most hostile men were 30% more likely to have\nshort telomeres.\nWhat this means: aging is a dynamic process that could possibly be accelerated or\nslowed- and, in some aspects, even reversed. To an extent, it has surprised us and the rest\nof the scientific community that telomeres do not simply carry out the commands issued by\nyour genetic code. Your telomeres are listening to you. The foods you eat, your response to\nchallenges, the amount of exercise you get, and many other factors appear to influence your\ntelomeres and can prevent premature aging at the cellular level. One of the keys to enjoying\ngood health is simply doing your part to foster healthy cell renewal.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What have scientists come to know better today?",
+              "options": {
+                "A": "Why people age at different rates.",
+                "B": "How genes influence the aging process.",
+                "C": "How various genes express themselves in aging.",
+                "D": "Why people have long been concerned about aging."
+              },
+              "answer": "A",
+              "explanation": "】细节推断题。文章首段第四、五句指出，在一个问题上，所有这些国家的看法都是一致的:科技公司规模太大，实力太强大，太有利可图。而且这种力量只可能增强，使得政府别无选择，而只能通过将公司告上法庭、通过新的竞争法，甚或拆分这些科技巨头来进行积极对抗。由此可知，各经济大国必须做的事情是阻止科技公司获得垄断地位，故答案为 D）。 【避错】本段及整篇文章均主要指出，各国认为科技公司发展过于迅速、实力过于强大，要采取相应措施阻止科技公司获得垄断地位, A）、B）项与文章意思不符, 故排除「拆分强大的巨型科技公司” 是政府试图阻止科技公司获得垄断地位的其中一种手段，并非需解决的问题本身, 故排除 O 项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "46. 作者对于“追求与工作有关的自尊”有什么看法？ A) It may result in negative motivation. A）它可能会导致消极的动机。 B) It contributes to one's accomplishments. B）它有助于人们获得成就。 C) It can increase one's vigor as one keeps trying. C）它会在人们的不断努力中",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "Why are some lifestyle factors considered extremely important?",
+              "options": {
+                "A": "They may shorten the process of cell division.",
+                "B": "They may determine how genes function.",
+                "C": "They may affect the lifespan of telomeres.",
+                "D": "They may account for the stresses on cells."
+              },
+              "answer": "B",
+              "explanation": "】事实细节题。文章第二段第二句提到，在亿万富翁马云的蚂蚁科技集团股份有限公司出人意料地暂停了 370 亿美元的股票发行之后，国家发布了这些规则草案，明确表示没有一家公司可以逃避政府的监管。由此可知，该事件说明所有公司都必须受政府监管，故答案为 C）。 r 避错】文章第二段提到蚂蚁科技集团股份有限公司暂停发行股票, 意在说明中国公司需要受政府的监管，并未提及逃避监管注定会失败, 故排除 A）项；蚂蚁科技集团股份有限公司暂停股票发行与垄断销售无关, 故排除 B）项；文章只提到中国对科技公司采取的反垄断措施与美国和欧洲的相一致，并未说明国内外公司一律平等，故排除 D）项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "ated self-esteem? 47.员工在追求与工作有关的自尊时往往会做什么？ A) Take on tasks well beyond their actual capabilities. A）承担远远超出他们实际能力的任务。 B) Strive to succeed at the expense of their well-being. B）以牺牲自己的幸福为代价去争取成功。 C) Resort to all means regardless of the consequences. C）不计后果地采取一切手段。 D) Exaggerate their sense of sha",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What have the author and his colleagues discovered about telomeres?",
+              "options": {
+                "A": "Their number affects the growth of cells.",
+                "B": "Their length determines the quality of life.",
+                "C": "Their shortening process can be reversed.",
+                "D": "Their health impacts the division of cells."
+              },
+              "answer": "B",
+              "explanation": "】细节推断题。文章第四段最后一句指出， 科技巨头越来越多地在银行、金融、广告、零售和其他市场占据强大的地位, 迫使小型企业依靠它们的平台来接触客户。由此可知，这些小公司无法再独立于这些科技巨头来做生意，故答案为 A）。 【避错】第四段最后一句指出，这些小公司不得不依靠科技巨头的平台来接触客户，B）项与原文意思不符，故排除;文章并未提到小公司采取其他有效策略来留住客户，故排除 C）项;文章只提到, 在这个新的反垄断时代, 过去对定价权的关注不再适用，并未提及小公司的定价权问题，故排除 D）项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "关于过度关注与工作有关的自尊的人，我们得知什么信息？ A ) Theymay often feel inferior to their colleagues. A）他们可能经常觉得自己不如同事。 B) They cannot enjoy their personal life to the full. B）他们无法充分享受个人生活。 C) They are never satisfied with their achievements. C）他们从不满足于自己的成就。 D) They have their own view",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What have scientists learned about cynical hostility?",
+              "options": {
+                "A": "It may lead to confrontational thought patterns.",
+                "B": "It may produce an adverse effect on telomeres.",
+                "C": "It may cause people to lose their temper frequently.",
+                "D": "It may stir up agitation among those in long lines."
+              },
+              "answer": "A",
+              "explanation": "】事实细节题。第五段最后一句提到，在欧盟委员会竞争主管玛格丽特・维斯塔格的领导下，各国都在寻求监管市场，并鼓励公平竞争，故答案为 B）。 【避错】第五段第二句指出，欧洲公司未能与硅谷的创新相匹敌，也未能阻止谷歌和脸书收集个人数据, 以及随之获取广告收入，由此可知它们对数字巨头的广告监管不到位, A）项与文章意思不符, 故排除;文章并未提及欧盟国家对数字巨头产品销售的限制，故排除 C）项;文章最后一段指出，美国的反垄断专家认为应该考虑到隐私问题、对数据的控制等, 这并非欧盟国家的举措, D）项与文章意思不符，故排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "49. What is the good news we learn from the recent research? 4 9 . 我们从新近研究中得知的好消息是什么？ A) The pursuit of goals may turn out to be enjoyable and pleasant. A）追求目标可能也是一种享受和快乐。 B) The emotional rewards from goal pursuit are worth the pains taken. B）追求目标所带来的情绪回报值得付出努力。",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What do we learn from the last paragraph about the process of aging?",
+              "options": {
+                "A": "It may vary from individual to individual.",
+                "B": "It challenges scientists to explore further.",
+                "C": "It depends on one's genetic code.",
+                "D": "It may be controlled to a degree."
+              },
+              "answer": "B",
+              "explanation": "】事实细节题。最后一段最后两句指出，公众普遍对社交媒体公司越来越怀疑。根据皮尤研究中心 2020 年的一项研究，超过 60%的人认为这个行业对国家有负面影响, 几乎一半的人希望对社交媒体进行更多的监管。由此可知，社交媒体公司正逐渐失去人们的信任，故答案为 C）。 【避错】文章最后一段提到, 美国的反垄断专家认为应该考虑隐私问题, 并未提及美国公众对社交 19 英语菌的笔记媒体侵犯隐私的看法，故排除 A )项；最后一段只提到, 超过 60%的人认为这个行业对国家有负面影响，但未提及影响力大小, 故排除 B)项；文章提到各国政府对科技巨头发展态势的担心, 并未提及美国人对社交媒体公司发展失控的判断, D )项与题干不符，故排除。 参考译文近来，美国和中国在很多问题上意见不一。德国和法国有共同的边界和货币，但经常有分歧。英国和印度喜欢按自己的节奏行事。(46)但在一个问题上，所有这些国家的看法都是一致的:科技公司规模太大，实力太强大，太有利可图。而这种力量只可能增强，使得政府别无选择，而只能通过将公司告上法庭、 通过新的竞争法，甚或拆分这些科技巨头来进行积极对抗。 中国是最新实施反垄断制裁的国家，上个月公布了反垄断规则。(47)在亿万富翁马云的蚂蚁科技集团股份有限公司出人意料地暂停了 370 亿美元的股票发行之后，国家发布了这些规则草案，明确表示没有一家公司可以逃避政府的监管。在中国采取上述行动的同时，美国和欧洲也在加紧控制亚马逊、苹果、脸书和谷歌公司。 “大公司越做越大，但却没有变得更好，”欧洲议会的德国议员安德烈亚斯・施瓦布说。他曾在 2014 年支持了一项拆分谷歌的决议。”不断增长的经济实力, 对世界各地地方市场日益增长的影响，以及对竞争者和消费者日益增长的担忧，所有这一切导致了现在的结果」 在这个新的反垄断时代，过去对定价权的关注不再适用，因为几家最大的科技公司通过几乎不向消费者收取费用，建立了万亿美元的垄断地位。(48)科技巨头越来越多地在银行、金融、广告、零售和其他市场占据强大的地位, 迫使小型企业依靠它们的平台来接触客户。 多年来，欧洲独自对抗着数字巨头的",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "e last paragraph? 5 0 . 我们能从最后一段中推断出什么？ A) Workers have to make sacrifices to preserve self-esteem. A）员工为维护自尊必须做出一些牺牲。 B) Self-esteem swells when workers are strongly motivated. B）员工受到强激励时自尊心也会增强。 C) Pursuit of goals affects people's personal lives to an unhealthy extent. C）追求目标对人们个人生活的影响达到了有",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nScientists have created by accident an enzyme (酶)that breaks down plastic drinks\n\nbottles. The breakthrough could help solve the global plastic pollution crisis by enabling for\nthe first time the full recycling of bottles.\nThe new research was spurred by the discovery in 2016 of the first bacterium that had\nnaturally evolved to eat plastic at a waste dump in Japan. Scientists have now revealed the\ndetailed structure of the crucial enzyme produced by the bug.\nAn international team then adjusted the enzyme to see how it had evolved, but tests\nshowed they had accidentally made the molecule even better at breaking down the plastic\nused fbr drinks bottles. t4What actually turned out was we improved the enzyme, which was\na bit of a shock,“ said head researcher Prof. McGeehan, at the University of Portsmouth,\nUK.\nCurrently, the enzyme takes a few days to start breaking down the plastic, far faster\nthan the centuries it takes in the oceans, but the researchers are optimistic this can be\nspeeded up even further and become a viable large-scale process.\n“What we are hoping to do is use this enzyme to turn this plastic back into its original\ncomponents, so we can literally recycle it back to plastic,“ said McGeehan. \"It means we\nwon't need to dig up any more oil and, fundamentally, it should reduce the amount of\nplastic in the environment.^^\nAbout 1 million plastic bottles are sold each minute around the globe and, with just\n14% recycled, many end up in the oceans where they have polluted even the remotest parts,\nharming marine life and potentially people who eat sea food. ''Plastic is incredibly resistant\nto degradation,said McGeehan. 4tIt is one of these wonder materials that has been made a\nlittle bit too well.^^\nCurrently those bottles that are recycled can only be turned into opaque fibres for\nclothing or carpets, while the new enzyme indicates a way to recycle old clear plastic\nbottles back into new clear plastic bottles.\n“You are always up against the fact that oil is cheap, so plastic is cheap,“ said\nMcGeehan. \"It is so easy for manufacturers to generate more of that stuff, rather than even\ntry to recycle, but I believe there is a public interest here: perception is changing so much\nthat companies are starting to look at how they can properly recycle these bottles.^^\nProf. Adisa Azapagic, at the University of Manchester in the UK, agreed the enzyme\ncould be useful but added: \"A full life-cycle assessment would be needed to ensure that the\ntechnology does not solve one environmental problem- waste- at the expense of others,\nincluding additional greenhouse gas emissions.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What do we learn from the passage about an enzyme scientists have created?",
+              "options": {
+                "A": "It was identified during a lab experiment accident.",
+                "B": "It may make full recycling of plastic bottles a reality.",
+                "C": "It was a breakthrough made with persistent efforts.",
+                "D": "It may initiate a radical reform in plastic industry."
+              },
+              "answer": "B",
+              "explanation": "】推理判断题。文章首段第一句提到现代国际旅游业流行的原因。紧接着第二句指出，旅游业往往被描述为目的地国家和城市的经济引擎。 文中 motor 原指“发动机，马达”，此处比喻促进经英语菌的笔记济发展的行业。由此可知, 人们普遍认为国际旅游业有助于目的地国家和地区的经济发展。故答案为 D）o 【避错】第三段虽然提到未加控制的旅游业开发已成为环境破坏的主要驱动因素，但原文并未表明旅游业带来的好处是否能弥补其不良环境影响， 故排除 A）项;首段第一句指出，现代国际旅游业源自大规模航空旅行的通达性，而非人们生活水平的提高, 故排除 B）项;首段第一句表明现代国际旅游业在拥有沙滩、阳光和海洋这些相对地理优势的地区以“度假”的形式吸引了众多外国游客，而非当地居民, 故排除 C）项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "study? 5 1 . 联合国环境研究的主要发现是什么？ A) Human activity has rendered Mother Earth almost uninhabitable. A）人类活动已使地球母亲几乎不宜居住。 B) H umans are doing more damage to the earth than it can cope with. B）人类对地球的破坏正超出其承受能力。 C) Environmental problems have considerably weakened human prosperity. C）环境问题极大削弱了人类繁",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What does the passage say about the bug that produces the important enzyme?",
+              "options": {
+                "A": "It has a natural ability to consume plastics.",
+                "B": "It is a bacterium that reproduces at a high rate.",
+                "C": "It is essential to the recycling of plastic bottles.",
+                "D": "It has a chemical structure unknown to scientists."
+              },
+              "answer": "C",
+              "explanation": "】事实细节题。第三段第一句提到未加控制的旅游业开发已成为社会和环境破坏的主要驱动因素。紧接着第二句指出，旅游业研究提供了大量文献资料证明该行业的众多负面社会影响以及由此导致当地居民对游客的怨恨。第四段第一句则进一步强调这种对游客的敌意通常出现在人满为患的成熟目的地。由此可知，对未加控制的旅游业开发进行的一些研究表明它引起当地居民对游客的怨恨和敌意。故答案为 B）。 【避错】第四段第二句提到在人满为患的成熟目的地发生了抗议活动, 但并未表明其规模以及次数增减，故排除 A）项;第三段表明旅游业开发对当地社会和环境造成破坏，但未提及对当地经济的负面影响, 故排除 C）项;虽然第二段提到旅游业的爆发式发展每年促使 12 亿多游客跨越国界，但相关研究并未说明它对人口的影响，故排除 D）项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "ution. A）它正变得越来越严重，几乎没有解决的希望。 57 续表 B) It largely accounts for their slow economic development. B）它很大程度上解释了其经济发展缓慢的原因。 C) It can hardly be relieved if no drastic measures are taken. C）若不采取严厉措施，它几乎无法缓解。 D) It is primarily caused by the acceleration of climate change. D）它主要是由气候变化加剧造成的。 ［精准定位］本题考查最贫困地",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "By adjusting the enzyme produced by the bug, the scientists  .",
+              "options": {
+                "A": "made it more effective by chance",
+                "B": "discovered an extraordinary chemical",
+                "C": "altered its basic molecular composition",
+                "D": "found its evolutionary process sped up"
+              },
+              "answer": "A",
+              "explanation": "】推理判断题。第五段第一句提到当地方感受不到旅游业带来的好处时，当地居民往往就会变得沮丧。紧接着第二句进一步解释原因是旅游业无法保证跨国连锁酒店会在当地社区公平分配这些好处。由此可知，当地居民经常感到沮丧是因为他们无法公平获得旅游业带来的好处，即未获得应得的好处。故答案为 D）。 【避错】第三段第一句提到 social and environmental disruption, 但这是指未加控制的旅游业开发造成的负面影响, 原文并未表明旅游目的地居民感到沮丧的原因与此相关，故排除 A） 项；第六段第一句提到 cruise ships 和 little opportunity，但指的是当地社区很少有机会获益于游客在游轮上的消费，而非当地居民很少有机会在游轮上享受玩乐，故排除 B）项;第五段第二句指出无法保证跨国连锁酒店会在当地社区公平分配旅游业所创造的就业机会，而非当地居民完全无法在跨国连锁酒店找到工作, 故排除 C）项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "53. What does Achim Steiner say about the environmental condition? 5 3 . 关于环境状况，阿希姆• 施泰纳说了什么？ A) It will deteriorate worldwide. A）它将在全球范围内恶化。 B) It is attracting global attention. B）它正引发全球性关注。 C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What does Prof. McGeehan say about the recycling of plastic bottles?",
+              "options": {
+                "A": "Manufacturers are implementing it on an increasingly larger scale.",
+                "B": "It generates huge business opportunities for plastic manufacturers.",
+                "C": "It has aroused persistent interest among the general public.",
+                "D": "Manufacturers are beginning to explore ways of doing it."
+              },
+              "answer": "C",
+              "explanation": "】事实细节题。第七段第一句提到目的地社区的当地居民发现自己一直在适应新的文化边界、 阶级动态、服务行业角色和生活方式转变。紧接着第二句具体举例进行说明, 因为当地居民出现了同游客一样的种种不良行为，即当地居民在适应旅游活动的负面影响，所以旅游活动相应地带来了社会问题的增加。综合可知，目的地社区的当地居民对旅游活动的回应是尽力去适应它。故答案为 A）。 【避错】第七段第一句只提到当地居民在适应生活方式转变，并未提及其接受的态度, 故排除 B）项； 第七段第一句提到 cultural boundaries, 但指的是当地居民在适应新的文化边界，而非让游客沉浸于当地文化之中，故排除 C）项;第七段第一句只表明当地居民在适应服务行业角色, 并未提及他们是否试图升级其商业模式，故排除 D）项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "他们无法在不造成土地退化的情况下实现农业现代化。 B) They cannot promote industrialisation without polluting waterways. B)他们无法在不污染水道的情况下促进工业化。 C) They cannot boost crop yields without causing greenhouse gas emissions. C)他们无法在不造成温室气体排放的情况下提高作物产量。 D) They cannot catch up with rich countries without sacrificing the environm",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What is Prof. Adisa Azapagic's advice concerning the application of the enzyme?",
+              "options": {
+                "A": "Developing technologies to address greenhouse gas emissions.",
+                "B": "Considering the extra cost involved in producing the enzyme.",
+                "C": "Assessing its possible negative impact on the environment.",
+                "D": "Studying the full life cycle of the enzyme as the first step."
+              },
+              "answer": "C",
+              "explanation": "决温室气体排放的技术。 B) Considering the extra cost involved in producing the enzyme. B）考虑生产新型酶的额外成本。 C) Assessing its possible negative impact on the environment. C）评估它对环境可能产生的负面影响。 D) Studying the full life cycle of the enzyme as the first step. D）第一步应研究新型酶的全生命周期。 30 ［锁定答案］C。末段援引阿蒂萨• 阿萨帕吉克教授的话语提出建议，研究人员需要对新型酶技术进行一个全生命周期评估，以确保该技术在解决废品这一环境问题的同时，不会衍生出其他环境问题，即科学家还应审慎求证新型酶的应用是否对环境存在负面影响，C 项是对文意的准确概括与总结。 ［排除干扰］A 项利用末段 additional greenhouse gas emissions 设置干扰，但文中提及的“增加温室气体排放”是对新型酶技术负面影响的一种假设, 而非该技术真实存在的问题。B 项将末段碎片信息 at the expense of others 断章取义为“应考虑新型酶的额外成本”，但 o thers 实际承前指代 other environmental problems, at the expense of others 表示“潜在的环境代价\"，而不是“额外的生产成本/费用（cost. . . in producing. . .）w „ D 项利用 full life-cycle assessment 设障，但由其后评估的目的可知该短语意指“分析新型酶技术从生产到应用的整个产品周期内对环境的影响”，而不是“分析作为生物分子的新型酶的全生命周期”。 ［提炼思路］本题借人物观点考查对长难句的理解. 解题关键在于梳理句子结构，明确代词所指，把握句内关系。根据语法以及破折号的语用功能可知，one environmental problem 指 waste\"废品/塑料",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12/key_2022.12六级解析全3套_带书签.txt",
+                "sourceText": "me? 55.关于新型酶的应用，阿蒂萨• 阿萨帕吉克教授有何建议？ A) Developing technologies to address greenhouse gas emissions. A）开发解决温室气体排放的技术。 B) Considering the extra cost involved in producing the enzyme. B）考虑生产新型酶的额外成本。 C) Assessing its possible negative impact on the environment. C）评估它对环境可能产生的负面影响。 D) Studying the full",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into\nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "云贵高原(the Yunnan-Guizhou Plateau)大部分位于云南、贵州省境内，总面积约50 万平方公里，平均海拔2000-4000米，是中国第四大高原。云贵高原西高东低，河流众多，形成了许多又深又陡的峡谷(canyon)。峡谷中许多地方土壤肥沃，非常有利于多种农作物生长。云贵高原独特的自然环境造就了生物和文化的多样性。它是中国森林和矿产资源类型十分丰富的地区，也是古人类起源的重要地区。云贵高原是中国少数民族数量最多的地区，各民族都保留了自己丰富多彩的文化传统。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

@@ -30,8 +30,17 @@
             "C": "Traffic routes.",
             "D": "Cargo logistics."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "】细节辨认题．男士说，他惊讶地发现这款游戏既有教育性，又特别逼真．",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "2. What d 伺 s the man say about the driving simulator? A）【精析】细节辨认题．男士说，他惊讶地发现这款游戏既有教育性，又特别逼真．",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q4",
@@ -43,8 +52,17 @@
             "C": "The details in the driving simulator.",
             "D": "The key role of the logistics industry."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "】细节推断题．女士在对话结尾说，如果这款游戏能使更多的司机在开车经过十字路口时观察路况，就是带来了积极的结果．也就是说，女士希望通过使用这款游戏让人们更加注重安全驾驶． Q 阳 tions S to 8 a re based on 伽 conversation you have just h 跑时－ W: How do you like being self-employed? M: (S)The·e are ob 由山 beneffts, though I don’t seem to have the freedom I anticipated as I just don’t seem able to decline work offers. And working alone, there have been tim 臼 when I’ve found that money alone provides insufficient motivation. Have y 例 experienced the sam 晦 since you began working for yourself? W:, Sometim 邸，yes. Unlike the rest of the workforce who have managers to prompt motivation when 晴 ver they’re feeling lazy or bored, we self-employed workers perform our jobs without a manager to lift our spirits. There’s no one around to offer praise or initiate collaboration, no one to make gr 臼 ter 山 e of our inte1ests and talents. M: Thal’s a fact. Not every manager behaves with such awarene 恼 and care, of co",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "4. What outcome does the woman expect from the driving simulator? B) 【精析】细节推断题．女士在对话结尾说，如果这款游戏能使更多的司机在开车经过十字路口时观察路况，就是带来了积极的结果．也就是说，女士希望通过使用这款游戏让人们更加注重安全驾驶． Q 阳 tions S to 8 a re based on 伽 conversation you have just h 跑时－ W: How do you like being",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q5",
@@ -69,8 +87,17 @@
             "C": "Few of them offer praise and reward to their employees.",
             "D": "Not all of them know how to motivate their employees."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "】细节辨认题．对话中，男士提到，不是所有的管理者都知道该如何激励自己的员工．",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "6. What does the man 回 y about managers? D）【精析】细节辨认题．对话中，男士提到，不是所有的管理者都知道该如何激励自己的员工．",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q8",
@@ -96,7 +123,16 @@
             "D": "Consumers’ mental states change with the prices of goods."
           },
           "answer": "C",
-          "explanation": "】细节推断题．短文开头提到，一项新研究揭｜ 们心目中的价值，即消费者的内心想象增加了产品 示了晴天或下雪天如何影响消费者的行为．因此｜ 在消费者心目中的价值． 答案为C）.根据短文内容可知，消费者会想象自I"
+          "explanation": "】细节推断题．短文开头提到，一项新研究揭｜ 们心目中的价值，即消费者的内心想象增加了产品示了晴天或下雪天如何影响消费者的行为．因此｜ 在消费者心目中的价值． 答案为 C）. 根据短文内容可知，消费者会想象自 I",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "What do we learn about the findings of the new I D) ［精衍】细节推断题．短文中提到，正是消费者内 study? I 心当中对于使用沙滩巾的想象提升了沙滩巾在他 C) E 精析】细节推断题．短文开头提到，一项新研究揭｜ 们心目中的价值，即消费者的内心想象增加了产品示了晴天或下雪天如何影响消费者的行为．因此｜ 在消费者心目中的价值． 答案为 C）. 根据短文内容可知，消费者会想象自 I",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q10",
@@ -121,8 +157,17 @@
             "C": "Enabling them to sell their products at a higher price.",
             "D": "Helping them advertise a greater variety of products."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "E 细节辨认题．短文最后提到，网络卖家通",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "gs of the new study benefit 己在特定天气中使用某种产品的情景，而不是想象｜ online sellers according to the r 臼 earchers? 自己在不同天气状况下的不同活动，故排除 Aλ I B) ［精析 E 细节辨认题．短文最后提到，网络卖家通",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q12",
@@ -160,8 +205,17 @@
             "C": "They are not bothered by temperature extremes.",
             "D": "They become less sensitive to high temperatures."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "】细节辨认题。短文中提到，如果人们习惯了 26 度．也就是说，研究人员认为，23 度！到 26 度是｜ 空调环境，他们就会倾向喜欢更低的温度。 Section C Qiesti 帽.16 to 18 are 圆”’ on the 11ecording you ha 叫 mt hean",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "15. What happens 呐阴阳 ple are u 时 to an 甜· 是盛夏，22 度对于人们来说也有些低 7.对于穿 i conditioned en 由·onmenη 苟且足裴剧贝. . L 束 1 比，：夜在温草原巴 l 叼 I 业职；军˄贸到 I A) 【精析】细节辨认题。短文中提到，如果人们习惯了 26 度．也就是说，研究人员认为，23 度！到 26 度是｜ 空调环境，他们就会倾向喜欢更低的温度。 Section C Qiesti 帽.16 to 18 are 圆”’ on the 11ecording you ha 叫 mt hean",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q16",
@@ -173,8 +227,17 @@
             "C": "It classified emotions simply as either positive or negative.",
             "D": "It measured positive and negative emotions independently."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "E 细节辨认题．讲座中提到，以往针对孤独所 I",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "hat 总 one of the criticisms dir，出 ted at the early I 果十分清晰．在 15 分钟的独处之后，参与者的激 research on solitude? I 烈情绪，不论是正面的还是负面的，都有所消减． C) （精析 E 细节辨认题．讲座中提到，以往针对孤独所 I",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q17",
@@ -186,8 +249,17 @@
             "C": "Sitting alone for 15 minutes made the participants restless.",
             "D": "Solitude had a reductive effect on high-arousal emotions."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "】细节辨认题．讲座中说，参与者独自静坐｜ 处有助于低唤醒情绪的滋长． 15 分钟后，研究人员对他们的情绪进行了测量，结 Questions 19 to 21 are based on the recording y 阳 havejust heard. In 1984, the World Chƾ Championship was called off abruptly, due to the withered frame of a player who was competing for the title. He wasn’t alone in experiencing the extreme physical effects of thƿ game. Elite players can reportedly b 也 rn up to an absurd 6,000 叫 lori 臼 in one day. Does that mean that thinking harder is a simple route to losin 也 weight? (19 )Wel",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "17. What do we learn about the r 部 ults of the new I 绪进行的。经过 15 分钟的独处，研究人员们发现 r 岱饱 rch? I 那些低唤醒情绪的强度都有所增强，也就是说，独 D) 【精析】细节辨认题．讲座中说，参与者独自静坐｜ 处有助于低唤醒情绪的滋长． 15 分钟后，研究人员对他们的情绪进行了测量，结 Questions 19 to 21 are based on the recording y 阳 havejust heard. In 1984, the World Chƾ Championship was called off",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q18",
@@ -199,8 +271,17 @@
             "C": "It helped increase low-arousal emotions.",
             "D": "It tended to intensify negative emotions."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "】细节辨认题．第二个实验是针对低唤醒情",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "18. What did the second experiment in the new 进行的研究仅仅是简单地把情绪分为了积极情绪｜ research find about solitude? 和消极情绪两种． I C) 【精析】细节辨认题．第二个实验是针对低唤醒情",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q19",
@@ -212,8 +293,17 @@
             "C": "It continues to bum up calories to help us stay in shape.",
             "D": "It consumes almost a quarter of the body’s total energy."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "】细节辨认题．讲座中说，当身体处于休息 is at rest? I 状态时，大脑会消辑人体能量总量的 20%至 25%, 36 即差不多四分之一的比例．",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "19. What do we learn about the brain when the body I D) 【精析】细节辨认题．讲座中说，当身体处于休息 is at rest? I 状态时，大脑会消辑人体能量总量的 20%至 25%, 36 即差不多四分之一的比例．",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q20",
@@ -225,8 +315,17 @@
             "C": "Energy usage devoted to active learning accounts for a big part of it.",
             "D": "A significant amount of it is for performing difficult cognitive tasks."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "E 细节推断题．当讲到“是否我们使用大脑越多，我们消耗的能量就越多时”，讲话者说， “严格说来是这样的，但仅限于那些困难的认知任务 f",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "20. What does the speaker 回 y about the consumption of the brain’s energy? D) （精析 E 细节推断题．当讲到“是否我们使用大脑越多，我们消耗的能量就越多时”，讲话者说， “严格说来是这样的，但仅限于那些困难的认知任务 f",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q21",
@@ -238,8 +337,17 @@
             "C": "It is conducive to relieving mental exhaustion.",
             "D": "It is thought to be related to food consumption."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "E 细节辨认题．讲座中明确提到，人们认为， 大脑的整体能量供应是保持恒定的． Questions 22 to 25 are based oo the reco 时 ing you have just h 倒时． (22) this Question often leaves iob sežkers at a l 臼 s where to start. 1 his common question is actually a critical test of a job candidate’s communication skills. So it、important not to give an unprepared response or mess it up. “Tell me ahout yourself” is often the first question professional career coaches prepare people for when they give interview guidance. It’s the opportunity for the candidate to take control of the narrative and tell their story in a way that r 臼 Hy matters to their audience. It takes hard work and extensive preparation to answer this question wd",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "21. What do we learn about the overall energy availability in the brain? A) （精析 E 细节辨认题．讲座中明确提到，人们认为， 大脑的整体能量供应是保持恒定的． Questions 22 to 25 are based oo the reco 时 ing you have just h 倒时． (22) this Question often leaves iob sežkers at a l 臼 s where to start. 1 h",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q22",
@@ -251,8 +359,17 @@
             "C": "Job seekers often feel at a loss where to start in answering it.",
             "D": "Job candidates can respond freely due to its open-ended nature."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "】目的原因题．讲座中提到，求职者应该阐 interview question “tell me about yourself”？ ｜ 述以往的工作成就，并绘出具体实例．为了使他 0 E 精析 E 细节辨认题．讲座一开头就提到，求职者｜ 们的讲述更加全面，他们应该和周围认识的人多经常被问到的一个问题是 “谈谈你自己”，面对这｜ 聊一聊，因为伴侣、朋友和同事会从他们各自的角样一个开放性的问题，求职者反而会不知道该从｜ 度给出不同版本的故事． 何说起． I",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "22. What does the s 严 aker 臼 y about the job I B) 【精析】目的原因题．讲座中提到，求职者应该阐 interview question “tell me about yourself”？ ｜ 述以往的工作成就，并绘出具体实例．为了使他 0 E 精析 E 细节辨认题．讲座一开头就提到，求职者｜ 们的讲述更加全面，他们应该和周围认识的人多经常被问到的一个问题是 “谈谈你自己”，面对这｜ 聊一聊，因为伴侣、朋友和",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q23",
@@ -264,8 +381,17 @@
             "C": "Do their best to impress the interviewer.",
             "D": "Repeat the information on their resume."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "】细节辨认题．讲座中提到，虽然求职者知道面试官已经看过他们的简历，但大多数人还是和能地把简历上的内容再重复一遍．",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "23. What will most people do when they come to a job interview? D) 【精析】细节辨认题．讲座中提到，虽然求职者知道面试官已经看过他们的简历，但大多数人还是和能地把简历上的内容再重复一遍．",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q24",
@@ -277,8 +403,17 @@
             "C": "To discuss important details they are going to present.",
             "D": "To identify a broad general strength to elaborate on."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "】细节推断题．讲座中提到，求职者应该十分清楚这个职位空缺对公司有何价值，公司想知道如果你获得了这个职位，能为公司提供什么帮助．也就是说，求职者应该知道公司提供此职位的原因． 六级却 20 年 12 月 37 Part ]I Reading Comprehension Section A E 文章来酒】本文选自 2020 年 3 月 12 日刊登在美国 SLATE 杂志上的一篇标题为“We’reNot Going Back to the Way Life Was Before”〈《我们回不到以前的生活方式了川的文章． E 结构框困】 本立主要介绍了冠状病毒症情对美国人生活造成的影响．并对症情结束后的生活作出了预测。 f 钊第 1 段描述了冠状病毒疫惰的爆发对美国人的生活产生的影响。 i J 第 2→段对疫情之后的生活作出两种预测：生活一切照旧或发生永久性丁丁 － {ii：变化。 i 」－o，第 5 段指出现阶段美国面临的一些问题。 E 词性分析 E 名词：A) credentials 资格证书；D) disruptions 扰乱，打乱 s G) predictions 预测 1 H) preference 偏爱，偏好 s I)优 ale 规模，范围；N) vacancy 空缺 s 空房间；0) wedge 棋子；模形物动词：B) credited (be credited with）相信……做了好事 F I) scale 攀登 s 缩放 1J) strangle 扼杀，限制……的发展 1 L) summoned 召唤 z 传唤 s 振作；M) survive 幸存 s 比“…·活得更长 1 0) wedge 把……挤入形容词：C) cumu'Iative 积累的，渐增的 s E) federal 联邦制的 1 F) foreseeable 可预见的 1 K) subtle 难以察觉的 s 敏锐的了二 J 二．二二三：二：：二二. －：>±；忌，；二三：；二答案详解才；＇. . ：」 j：二；L：：；二，．、二 J 句 j：：：. －，：：，二．",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "24. Why should job seekers talk with partners, friends and co-workers? seekers make before an interview? B）【精析】细节推断题．讲座中提到，求职者应该十分清楚这个职位空缺对公司有何价值，公司想知道如果你获得了这个职位，能为公司提供什么帮助．也就是说，求职者应该知道公司提供此职位的原因． 六级却 20 年 12 月 37 Part ]I Reading Comprehension Section A E 文章来酒】本文选自 2020 年 3 月 12 日刊登在美国 SLATE 杂",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q25",
@@ -321,8 +456,17 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "题． 50%，取消量上升了 300%. 由此可知，出行率大 I J> c 语法判断】根据空格前后的并列动词短语 take 幅下降，那么酒店行业也正处于萧条时期。因此，I !iv 臼和 d 臼 troy routines 可知，空格处应填入一个空格处需要填入一个表示 “入住率低 ”的词．由此｜ 动词原形，与后面的 economies 构成一个动宾确定名词 N) vacancy “空房间 ”为本题答案． ｜ 短语．",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "26. （考点 E 语义推断题． ． ｜ E 语义判断 E 空格所在句指出，亚马逊、苹果和纽约 N) （语法判断】空格前面是动词的现在分词｜ 时报等自领公司都要求员工在未来时间里在家工 experiencing，空格后面是名词 rat 臼，因此空格处｜ 作。结合备选形容词，只有 foreseeable 可与可填入名词或形容词，与 rates 构成一个名词｜ future 搭配，表示 “可预见的将来 ”，由此确定形容词组． ｜ 词 foreseeable ＂可预见的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q27",
@@ -333,8 +477,17 @@
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "题． ｜ 应填入一个名词－ F) （语法判断】空格前面为定冠词 the，后面为名词｜ E 语义判断 E 技术专家发明了电话、电视等技术产 future，因此空格处应填入一个形容词，修饰名词｜ 品，使得人们不用通过身体上的接触就能感受到 future. I 他人，因此专家预测技术使人分离，但是文中指出人们依然渴望握手，这与技术专家发明这些产品时的预测是相反的。G) predictions “预测 ”符合语堤，故为答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "28. （考点 E 形容词辨析题． ｜ 应填入一个名词－ F) （语法判断】空格前面为定冠词 the，后面为名词｜ E 语义判断 E 技术专家发明了电话、电视等技术产 future，因此空格处应填入一个形容词，修饰名词｜ 品，使得人们不用通过身体上的接触就能感受到 future. I 他人，因此专家预测技术使人分离，但是文中指出人们依然渴望握手，这与技术专家发明这些产品时的预测是相反的。G) predictions “",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q29",
@@ -351,32 +504,77 @@
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "题． D) （语法判断 E 空格前为形容词 Small，后为动词 er 臼 te，因此空格处应填人名词的复数形式作主语． E 语义判断 E 从后文的 strike “ 罢工” 和 flu pandemic “流感大流行”可知，空格处应填入一个表示对社会造成危害的贬义词。复数名词的备选项中只有 disruptions “扰乱，打乱”符合语境，因此 D) disruptions 为本题答案．",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "31. （考点 E 名词辨析题． D) （语法判断 E 空格前为形容词 Small，后为动词 er 臼 te，因此空格处应填人名词的复数形式作主语． E 语义判断 E 从后文的 strike “ 罢工” 和 flu pandemic “流感大流行”可知，空格处应填入一个表示对社会造成危害的贬义词。复数名词的备选项中只有 disruptions “扰乱，打乱”符合语境，因此 D) disruptions 为",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "32. （考点】固定搭配题。 B) （语法判断 3 空格前为 be 动词 is，后为介词 with, be 动词前是主语 strike “罢工飞 with 后是动名词短语 prompting. . . cha 咱自“促成. . . . . . 改变”，因此空格处应填入一个动词的过去分词形式与 be 动词构成被动语态。 E 语义判断】选项中只有 credited 与 summoned 符合语法要求。summon 一般与人、会议搭配，指召集某人或召开会议，与本句的主语 strike 不搭配， 故排除. be credited with 为固定搭配，意为 “相信……做了好事 ”，代人句中意为 “19 创年的纽约公交罢工被认为促使该市发生了一些长期的变化……”，符合句意，故 credited 为正确答案．",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "32. （考点】固定搭配题。 B) （语法判断 3 空格前为 be 动词 is，后为介词 with, be 动词前是主语 strike “罢工飞 with 后是动名词短语 prompting. . . cha 咱自“促成. . . . . . 改变”，因此空格处应填入一个动词的过去分词形式与 be 动词构成被动语态。 E 语义判断】选项中只有 credited 与 summoned 符合语法要求。summon 一般与人、会议搭配，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "题． H) （语法判断 E 空格前为介词 of，因此空格处应填入一个名词，和 of 搭配作 question 的后置宾语． E 语义判断】本句指出，此时此刻，这甚至可能不是一个一一一一问题。上文将一些社会事件分为 small disruptions “小干扰” 和 bigones “大干扰”． 因此，空格处的意思应是在二者中进行一个偏向性的选择，DP 选择将这次的冠状病毒归入哪一类． H) preference 有 “ 偏好 ”的意思，符合语挠，故为本题答案．",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "33. （考点】名词辨析题． H) （语法判断 E 空格前为介词 of，因此空格处应填入一个名词，和 of 搭配作 question 的后置宾语． E 语义判断】本句指出，此时此刻，这甚至可能不是一个一一一一问题。上文将一些社会事件分为 small disruptions “小干扰” 和 bigones “大干扰”． 因此，空格处的意思应是在二者中进行一个偏向性的选择，DP 选择将这次的冠状病毒归入",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "题． M）（语法判断】空格前面是助动词 will，后面没有宾语，因此空格处需要填人动词原形，且是一个不及物动词． E 语义判断】本句及后面的两句指出，目前还不清楚邮轮产业能否一一一一· 或者说，若没有援助， 公共交通产业会不会破产．现在的基础设施甚至可能都不到位．由此可见，空格所在句是对邮轮产业作出预测，应与后两句的意思一致．因此，空格所填动词应有 “ 幸存，存在 ” 的意思，故 M) survive 为本题答案．",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "34. （考点 3 动词辨析题． M）（语法判断】空格前面是助动词 will，后面没有宾语，因此空格处需要填人动词原形，且是一个不及物动词． E 语义判断】本句及后面的两句指出，目前还不清楚邮轮产业能否一一一一· 或者说，若没有援助， 公共交通产业会不会破产．现在的基础设施甚至可能都不到位．由此可见，空格所在句是对邮轮产业作出预测，应与后两句的意思一致．因此，空格所填动词应有 “",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "题． E) （语法判断】空格位于介词 without 和名词 assistance 之间，空格所在句的句子结构完整，因此空格处应填入一个形容词修饰 assistance. E 语义判断】本句指出，目前还不清楚若没有一一－一援助，公共交通产业会不会破产．本文的背景是美国，备选项中的形容词 federal 表示 “联邦制的 ”，用来形容美国的政治体系，用在此处表示联邦政府的帮助，符合语挠，故本题答案为 E) federa",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "35. （考点】形容词辨析题． E) （语法判断】空格位于介词 without 和名词 assistance 之间，空格所在句的句子结构完整，因此空格处应填入一个形容词修饰 assistance. E 语义判断】本句指出，目前还不清楚若没有一一－一援助，公共交通产业会不会破产．本文的背景是美国，备选项中的形容词 federal 表示 “联邦制的 ”，用来形容美国的政治体系，用在此处表示联邦政府",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -435,22 +633,49 @@
           "id": "q36",
           "number": 36,
           "stem": "It seems some people today dream that a cutting-edge new technology might save them from the \npresent ecological disaster.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "E 同义转述题。定位句提到，今天，我们不能 E) 【精析】细节归纳题．定位句指出，当今关于未来｜ 再忽视我们在寻求温暖和舒适时所释放的生态诅的一些叙述似乎表明，我们也将像普罗米修斯一｜ 咒．题于中的 Urgent attention should be paid 是样，被一个新的大力神赫拉克勒斯，一个神圣的工 i 对定位句中 no longer ignore 的同义转述，题子中程师，一个能够策划、安排和操纵我们星球的人所｜ 的 our pursuit of a comfortable life 对应定位句中拯救．随后一句进一步说明这个所谓的大力神就｜ 的 our 能 arch for warmth and comfort，故答案是指地球工程、冷聚变或比光速更快的字窗飞船｜ 为 C). 这样的尖端技术．由此可知，题子是对原文中这 I",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "36. ［定位 E 自题子中的 a cutting-edge new I comfortable life 定位到 C）段第一句． technology 和 save 定位到 E）段第一句． I C) E 精析 E 同义转述题。定位句提到，今天，我们不能 E) 【精析】细节归纳题．定位句指出，当今关于未来｜ 再忽视我们在寻求温暖和舒适时所释放的生态诅的一些叙述似乎表明，我们也将像普罗米修斯一｜",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "According to one great thinker, it is most unfortunate if we lose the ability to think differently.",
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "E 同义转述题．定位句提到，在《希望的原 I 4o. r 定位】囱题于中的 human production and 理》（1954 一 1959）中，主要的未来哲学家之一｜ consumption 定位到阶段第五句． 恩斯特·布洛赫写道，“最悲惨的损失形式……是 Imr 精析】细节归纳题．定位句提到，人类生产、消耗丧失想象事物可能不同的能力气题干中的 one I 和旅行的加速改变了有生命和无生命的范畴．接 great thinker 对应定位句中的 Ernst Bloch, one I 下来的两句指出，它在人类赖以生存的自然过程 of the l 臼 ding philosophers of the future，题子中｜ 中产生了连锁反应．物种灭绝、森林砍伐、河流筑的 the ability to think differently 是对定位句中｜ 坝、洪水的发生、臭氧消耗、海洋系统退化和许多 the capacity to imagine that things could be I 其他领域都在加速。由此可知，人类生产和消耗 different 的同义转述，故答案为 n. I 的加速是生态系统恶化加速的原因．题于中的",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "37. ［定位 E 由题子中的 one gr 回 t thinker 和 the I of vegetarians is on the rise 是对定位句中两个年 ability to think differently 定位到 I)段第二句． ｜ 份统计数据的归纳概括，故答案为 K）。 I) ［精析 E 同义转述题．定位句提到，在《希望的原 I 4o. r 定位】囱题于中的 human production and 理》（1954 一 1959）中，主要的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "Urgent attention should be paid to the ecological problems we have created in our pursuit of a \ncomfortable life.",
           "answer": "D",
-          "explanation": "［定位E由题于中的ecological problems和a I dramatic increase是对原文中acceleration的同 六级2020年12月 40 义表达，题于中的The deterioration of the 民ological system是对原文中Species extinction, deforestation, damming of rivers, occ 町ren 臼of flα对s, the depletion of ozone, the degradation of ocean systems and many other ar回s 的归纳概 括，故答案为D)."
+          "explanation": "［定位 E 由题于中的 ecological problems 和 a I dramatic increase 是对原文中 acceleration 的同 40 义表达，题于中的 The deterioration of the 民 ological system 是对原文中 Species extinction, deforestation, damming of rivers, occ 町 ren 臼 of flα对 s, the depletion of ozone, the degradation of ocean systems and many other ar 回 s 的归纳概括，故答案为 D).",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "of rivers, occ 町 ren 臼 of flα对 s, the depletion of ozone, the degradation of ocean systems and many other ar 回 s 的归纳概括，故答案为 D).",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q39",
@@ -470,15 +695,33 @@
           "id": "q41",
           "number": 41,
           "stem": "It is obvious that solutions must be found to curb the fast worsening environment and social \nacceleration.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "胁正以令人眩晕的速度增长．我们会定期地受到提醒 I：我们的时间不多了．年复一年，越来越快，消耗超过了我们这个星球的生物容量．灾难加速的事扣层出不穷．战们担心也网崩溃，不可再生资源枯蝇，沙漠扩张，岛屿消失，我们的空气和水受到衍染． 41 D）加速是我们这个时代的标志．在人类历史的大部分时间里，人口和经济活动增长缓慢．几千年来，直到近代早斯，世界经济根本没有增长，但从 19 世宅中叶开始，特别是 20 世纪中叶以来，实际国内生产总值（GDP）以惊人的速度培长，人报和耗ι在快速增长。程中世纪，中欧的家庭平均拥有的吻品可能少于 30 件；在 1900 年，运；个散平增加到 4D0i 卒，剖 2020 年增:IJD 到",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "Many people believe changing the world is possible, though it may take time and involve setbacks.",
           "answer": "A",
-          "explanation": "】同义转述题．定位段指出，我们的世界充 满了几乎不为人知的缓慢希望的故事，这是由 “ 改 变是可能的 ”这一理念所驱动的．它们进展 “ 缓 慢 ”，而之所以缓慢，是因为它们伴随着挫折而来． 题于中的it may take time and involve setbacks 是对定位段中they 缸e slow because they come with setbacks 的同义转述，故答案为Aλ"
+          "explanation": "】同义转述题．定位段指出，我们的世界充满了几乎不为人知的缓慢希望的故事，这是由 “ 改变是可能的 ”这一理念所驱动的．它们进展 “ 缓慢 ”，而之所以缓慢，是因为它们伴随着挫折而来． 题于中的 it may take time and involve setbacks 是对定位段中 they 缸 e slow because they come with setbacks 的同义转述，故答案为 Aλ",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "［定位】由题于中的 changing the world is possible 和 setbacks 定位到 A)段． A) 【精析】同义转述题．定位段指出，我们的世界充满了几乎不为人知的缓慢希望的故事，这是由 “ 改变是可能的 ”这一理念所驱动的．它们进展 “ 缓慢 ”，而之所以缓慢，是因为它们伴随着挫折而来． 题于中的 it may take time and involve setbacks 是对定位段中 they 缸 e slow because they",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
@@ -499,7 +742,16 @@
           "number": 45,
           "stem": "Technology has given us humans the power to change the natural world, but we have paid a price for \nthe change.",
           "answer": "B",
-          "explanation": "】同义转述题．定位句指出，正如神话中所 说，科技使我们能够改变和控制自然世界，但是这 些进韭是有代价的．题于中的given us humans the power to change 对应定位句中的allowed 因 to alter缸叫control ，题干中的严id a price是对定 位句中come at a price 的同义转述，故答案为B). 参考译文f千 二 组慢的希盟 A) (42）我们的世界充满了几乎不为人知的缀’监希望的故事，这是由 “改变是可能的 ”这一思念所驱动的。 它们进展 “组住户，而之所以缓慢，是因为它们伴随着挫折而来． B）按照神话中所毡，在时阳之初，人类遭受苦难，在寒冷和黑暗中颤抖，直到巨人普罗米修斯从众神那里 伽来了火0 (4!i）正如神话中所说，科技一一首先是火和石器，后来是农业、蒸汽机和工业、化石燃料、 化学制品ω及院能一一使我们能够改变和控制自然世界。神话还提醒我们，这些进步是有代价的g作 如对普罗米修昕罪行的惩罚，众神创造了潘多拉，他们给了她一个装满邪忠和诅咒的盒子．当潘多拉 的盒子被打开忡，它向人类释放大量的疾病和灾难． C) (38）今天，注们不能再忽视我们在寻求温暖和舒适时所释放的生态诅咒．在设计、开发和改造我们的 栖息地的赳程书，我们已经打开了数以万计的潘多拉盒子．近几十年来，环境威胁已经超出区域界 限，扩展到全部范围，而且，最令人困扰的是，威胁正以令人眩晕的速度增长．我们会定期地受到提 醒I：我们的时间不多了．年复一年，越来越快，消耗超过了我们这个星球的生物容量．灾难加速的事 扣层出不穷．战们担心也网崩溃，不可再生资源枯蝇，沙漠扩张，岛屿消失，我们的空气和水受到 衍染． 六级2020年12月 41 D）加速是我们这个时代的标志．在人类历史的大部分时间里，人口和经济活动增长缓慢．几千年来，直 到近代早斯，世界经济根本没有增长，但从19世宅中叶开始，特别是20世纪中叶以来，实际国内生产 总值（GDP）以惊人的速度培长，人报和耗ι在快速增长。程中世纪，中欧的家庭平均拥有的吻品可能 少于30件；在1900年，运；个散平增加"
+          "explanation": "】同义转述题．定位句指出，正如神话中所说，科技使我们能够改变和控制自然世界，但是这些进韭是有代价的．题于中的 given us humans the power to change 对应定位句中的 allowed 因 to alter 缸叫 control，题干中的严 id a price 是对定位句中 come at a price 的同义转述，故答案为 B). 参考译文 f 千二组慢的希盟 A) (42）我们的世界充满了几乎不为人知的缀’监希望的故事，这是由 “改变是可能的 ”这一思念所驱动的。 它们进展 “组住户，而之所以缓慢，是因为它们伴随着挫折而来． B）按照神话中所毡，在时阳之初，人类遭受苦难，在寒冷和黑暗中颤抖，直到巨人普罗米修斯从众神那里伽来了火 0 (4!i）正如神话中所说，科技一一首先是火和石器，后来是农业、蒸汽机和工业、化石燃料、 化学制品ω及院能一一使我们能够改变和控制自然世界。神话还提醒我们，这些进步是有代价的 g 作如对普罗米修昕罪行的惩罚，众神创造了潘多拉，他们给了她一个装满邪忠和诅咒的盒子．当潘多拉的盒子被打开忡，它向人类释放大量的疾病和灾难． C) (38）今天，注们不能再忽视我们在寻求温暖和舒适时所释放的生态诅咒．在设计、开发和改造我们的栖息地的赳程书，我们已经打开了数以万计的潘多拉盒子．近几十年来，环境威胁已经超出区域界限，扩展到全部范围，而且，最令人困扰的是，威胁正以令人眩晕的速度增长．我们会定期地受到提醒 I：我们的时间不多了．年复一年，越来越快，消耗超过了我们这个星球的生物容量．灾难加速的事扣层出不穷．战们担心也网崩溃，不可再生资源枯蝇，沙漠扩张，岛屿消失，我们的空气和水受到衍染． 41 D）加速是我们这个时代的标志．在人类历史的大部分时间里，人口和经济活动增长缓慢．几千年来，直到近代早斯，世界经济根本没有增长，但从 19 世宅中叶开始，特别是 20 世纪中叶以来，实际国内生产总值（GDP）以惊人的速度培长，人报和耗ι在快速增长。程中世纪，中欧的家庭平均拥有的吻品可能少于 30 件；在 1900 年，运；个散平增加到 4D0i 卒，剖 202",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+            "sourceText": "［定位】由题于中的 Technology change the natural world 和 pri 臼定位到 B）段第二句和第三句前半部分． B) 【精析】同义转述题．定位句指出，正如神话中所说，科技使我们能够改变和控制自然世界，但是这些进韭是有代价的．题于中的 given us humans the power to change 对应定位句中的 allowed 因 to alter 缸叫 control，题干中的严 id a price 是对定位句中 come at",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -522,8 +774,17 @@
                 "C": "People’s preferences for the kind of food they consume.",
                 "D": "People’s unwillingness to give up their eating habits."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "】细节辨认题．定位段第二、三句指出，对一种新的基于植物的 “星球饮食 ”的提议隐晦地透露出强迫人们吃素的信息，这在印度最为明显．由此可知，与其他国家相比，印度人最不愿被迫吃素，故答案为盼。本段要注意理解 reverse com 阳 lsion “反向强迫 ”是指强迫人们吃素，这与强迫人们吃肉正好相反． E 避错】文章并未提及印度人对于 “星球饮食 ”提议的积极看法，故排除 A）. 首段最后一句指出，人们被迫吃素在印度最为明显，而非印度人对饮食的偏好最为明显，也不是印度人对放弃原有饮食习惯的不情愿最为明显，故排除 C）和 D).",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+                "sourceText": "46. （定位】囱题于中的 more visible 和 in India 定位到首段－ B) 【精析】细节辨认题．定位段第二、三句指出，对一种新的基于植物的 “星球饮食 ”的提议隐晦地透露出强迫人们吃素的信息，这在印度最为明显．由此可知，与其他国家相比，印度人最不愿被迫吃素，故答案为盼。本段要注意理解 reverse com 阳 lsion “反向强迫 ”是指强迫人们吃素，这与强迫人们吃肉正好相反． E 避错】文章并未提及印度人对于 “星球饮",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -536,7 +797,16 @@
                 "D": "Substantially reduce their food choices."
               },
               "answer": "C",
-              "explanation": "】推理判断题．定位段第二句提到，对于印 度这样的国家，这种呼吁会加剧原本已经紧张的 政治局面，增加原本已经营养不良的人群的压力。 由此可知，这项呼吁会加剧印度这样的国家中大 多数人的营养不良问题，故答案为C). E避错E 第五段指出，在激进的印度教民族主义政 府的推动下，穆斯林、基督教徒、弱势阶层和土著 居民都不得不放弃他们的传统食物，但由此不能 推断这个报告会彻底改变印度这样的国家中大多 数人的饮食习惯，故排除A）.第二段第二句指 出，对于印度这样的国家，这种呼吁会加剧原本已 经紧张的政治局面，而非会让印度这样的国家中 大多数人远离政治，故排除B）.第二段第一句指 出，今年早些时候，《EAT－柳叶刀》委员会发布了 其全球营养报告，呼吁全球应转向多以植物为基 础的饮食，同时 “大幅度减少动物源食品的摄入 ”， 而非这项报告大幅度减少人们的食物选择，故排 除D)."
+              "explanation": "】推理判断题．定位段第二句提到，对于印度这样的国家，这种呼吁会加剧原本已经紧张的政治局面，增加原本已经营养不良的人群的压力。 由此可知，这项呼吁会加剧印度这样的国家中大多数人的营养不良问题，故答案为 C). E 避错 E 第五段指出，在激进的印度教民族主义政府的推动下，穆斯林、基督教徒、弱势阶层和土著居民都不得不放弃他们的传统食物，但由此不能推断这个报告会彻底改变印度这样的国家中大多数人的饮食习惯，故排除 A）. 第二段第二句指出，对于印度这样的国家，这种呼吁会加剧原本已经紧张的政治局面，而非会让印度这样的国家中大多数人远离政治，故排除 B）. 第二段第一句指出，今年早些时候，《EAT－柳叶刀》委员会发布了其全球营养报告，呼吁全球应转向多以植物为基础的饮食，同时 “大幅度减少动物源食品的摄入 ”， 而非这项报告大幅度减少人们的食物选择，故排除 D).",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+                "sourceText": "［定位 E 由题干中的 EAT-Lancet Commission ’s report 和 countries like India 定位到第二段． C) 【精析】推理判断题．定位段第二句提到，对于印度这样的国家，这种呼吁会加剧原本已经紧张的政治局面，增加原本已经营养不良的人群的压力。 由此可知，这项呼吁会加剧印度这样的国家中大多数人的营养不良问题，故答案为 C). E 避错 E 第五段指出，在激进的印度教民",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -549,7 +819,16 @@
                 "D": "Policymakers help remove the barriers to people’s choice of food."
               },
               "answer": "B",
-              "explanation": "】推理判断题．定位句指出，在印度，阶级、 宗教、文化、成本、地理等方面存在数不清的障碍， 所以人们想要摄入的食物和不得不摄入的食物之 间存在着巨大的差异．由此可推断，许多人根本 无法获得自己喜欢的食物，故答案为B). E避错】第五段指出，在激进的印度教民族主义政 府的推动下，穆斯林、基督敌徒、弱势阶层和土著 居民都不得不放弃他们的传统食物，由此可知这 份报告会改变印度人的饮食，故排除A）.第四段 第二句指出，印度的政策制定者一直向食肉人群 推行以谷物为主的 “素食主义者饮食 ”，但并不能 由此推断以谷物为主的素食饮食越来越受欢迎， 故排除C）.第四段第一句指出，在印度，阶级、宗 教、文化、成本、地理等方面存在数不清的障碍，所 以人们想要摄入的食物和不得不摄入的食物之间 存在着巨大的差异，但并不能由此推断政策制定 者帮助人们消除食物选择方面的障碍，故排 除D)."
+              "explanation": "】推理判断题．定位句指出，在印度，阶级、 宗教、文化、成本、地理等方面存在数不清的障碍， 所以人们想要摄入的食物和不得不摄入的食物之间存在着巨大的差异．由此可推断，许多人根本无法获得自己喜欢的食物，故答案为 B). E 避错】第五段指出，在激进的印度教民族主义政府的推动下，穆斯林、基督敌徒、弱势阶层和土著居民都不得不放弃他们的传统食物，由此可知这份报告会改变印度人的饮食，故排除 A）. 第四段第二句指出，印度的政策制定者一直向食肉人群推行以谷物为主的 “素食主义者饮食 ”，但并不能由此推断以谷物为主的素食饮食越来越受欢迎， 故排除 C）. 第四段第一句指出，在印度，阶级、宗教、文化、成本、地理等方面存在数不清的障碍，所以人们想要摄入的食物和不得不摄入的食物之间存在着巨大的差异，但并不能由此推断政策制定者帮助人们消除食物选择方面的障碍，故排除 D).",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+                "sourceText": "（定位】由题干中的 food consumption in India 定位到第四段第一句－ B) （糟析】推理判断题．定位句指出，在印度，阶级、 宗教、文化、成本、地理等方面存在数不清的障碍， 所以人们想要摄入的食物和不得不摄入的食物之间存在着巨大的差异．由此可推断，许多人根本无法获得自己喜欢的食物，故答案为 B). E 避错】第五段指出，在激进的印度教民族主义政府的推动下，穆斯林、基督敌徒、弱势阶层和土著居民都不得不放弃他们的传统食物，由此可",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -561,8 +840,17 @@
                 "C": "It may help narrow the gap between the rich and poor countries. .",
                 "D": "It may worsen the nourishment problem in low-income countries."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "】推理判断题。定位段提到，这就是为什么呼吁效仿印度以植物为基础的饮食，对于发展中国家那些已经非常脆弱的群体来说无异于雪上加事回－ Vt 1·;, r;;口!1）1, -1;叉缉茸窍’』1 日正日，亨 i Jl'J 筒 ’Hfll'J Cl /J 国家的饮食未能考虑到，在低收入国家，营养不良的儿童可以从牛奶和其他动物源性食物中获益． 由此推断，这种效仿印度的以植物为基础的饮食模式可能会使低收人国家的营养问题思化，故答案为 D）。 E 避错】文章并未辑Ɉ柑桔白 Sf 削。I 始蜘咬，在在翩翩饮食模式会有利于那些传统饮食以肉类为主的人｜ 当地食物体系造成危害．对后代来说，这是一个群，故排除 A). 第八段提到，这就是为什么呼吁｜ 充满危险的模式．由此可知，印度政府对这份报效仿印度以植物为基础的饮食，对于发展中国家｜ 告全盘接受，这会牺牲当地人民的长期利益，故答那些已经非常脆弱的群体来说无异于雪上加霜，｜ 案为 A). 但并未提到对发展中国家的经济方面会有怎样的｜ E 避错】文章第十段提到，《EAT－柳叶刀》声称其目影响，故排除 B）. 第九段提到，针对富裕的西方｜ 的是在印度所有利益相关者之间 “引发对话 ”，而国家的饮食未能考虑到，在低收入国家，营养不良｜ 非印度政府想激发印度所有利益相关者之间的对的儿童可以从牛奶和其他动物源性食物中获益，｜ 话，故排除 B）. 原文中并未提到营养专家的反对由此可推断它可能会进一步加大富国和穷国之间｜ 意见，故排除。 “它赞成委员会的提议，没有考虑的差距，故排除 C). I 营养专家的反对意见飞最后一段第二句指出，该",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+                "sourceText": "49. （定位】由题于中的 plant-baseddiet 和 m 叫 eled。n India 定位到第八段。 D) 【精析】推理判断题。定位段提到，这就是为什么呼吁效仿印度以植物为基础的饮食，对于发展中国家那些已经非常脆弱的群体来说无异于雪上加事回－ Vt 1·;, r;;口!1）1, -1;叉缉茸窍’』1 日正日，亨 i Jl'J 筒 ’Hfll'J Cl /J 国家的饮食未能考虑到，在低收入国家，营养不良的儿童可以从牛奶和其他动物源性食物中获益． 由此推断，这种",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q50",
@@ -574,8 +862,17 @@
                 "C": "It gives them approval regardless of opposition from nutrition experts.",
                 "D": "It welcomes them as a tool to address chronic hunger and malnutrition."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "决长期饥饿和营养不良的问题，故排除 D) A) 【精析】推理判断题．定位段指出，政府似乎对这｜ “它赞成这项提议，用以解决长期饥饿和营养不良份报告大加赞赏，忽视了环境和经济成本，这会对｜ 的问题 ’＼ ·－；，；二；－－－：. . ：参考译文；。．．， 窜食主 JI. 者宁愿不 i1：强迫吃肉 0 (46）然而，对’”种新的基于植物的 “星球饮食 ”的提议则隐晦地透露出强谊人们吃素的信息．这在印度最为明显． 今年早些时候，(EAT 柳叶刀》委员会发布了其全球背养报告，呼吁全球应转向多以植物为基础的饮食，同时 “大低度减少动物源食品的摄入 ”。（47）；时干印度这样的臼家，这种呼吁可能会成为一种工具，细剧原本已经盟张的政泊如面，增加原本已经营养不陡的人群的压力。 这份 EAT 报告推测叶像印度这样的国家， “和统饮食 ’中的红问很少，红肉或许只在特殊场合被食用， 或者作为什错 i 菜肴的制和·． (48）然而，在印度，E 阶级、宗教、文化、成本、地理等市而存在数不清的障碍，所以人们想要摄入的食物和不得不摄入的食物辽阳存在着巨大的差异．印度的政报制定者一宜问食肉人群推行以谷物为主的 “素食主义者饮宦！ ”，以此挺{jl：最廉价的食物来源． 目前，在激进的印度被民族主义政府的推动 F，穆听林、基督缸徒、尉势阶层和土著居民都不得不放弃他们的传统舍物． 这些担忧似乎完全嚣：有得到《EAT－柳叶刀耕毒员会代表布伦特·洛·寺的认可．他说，在从植物中获取蛋白质方面， “印度已经有了一个很好的例子 ”． 但是印度的素食主义；珍世界有多大的示范作用呢？在伽 2019 年全就饥战指数 ”中，印度在 117 个国家中排宅第 102 岱；。4 全国家庭健康调查户的数据表明，6 个月至 2 个月大酌婴儿巾，只有 10%得到了充分的营养。 (49-D 这就是为什么呼吁效仿印度以植物̀基础的伙食，对于发展中国家那些已经非常脆弱的群体来说无异于雪上加霜． (49-2）针对富裕的西方国家的饮食未能考后到，在低技人国盏，营养不良的儿童可以从牛奶和其他动物源食物口就益，从而改善儿童的认知功能，同时降低酋养不良的既率和死亡率． 《E",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+                "sourceText": "50. （定位】由题于中的 the Indian government 定位｜ 政府没有通过增加健康的、含有高密度营养的腊到最后一段． ｜ 食解决长期饥饿和营养不良的问题，故排除 D) A) 【精析】推理判断题．定位段指出，政府似乎对这｜ “它赞成这项提议，用以解决长期饥饿和营养不良份报告大加赞赏，忽视了环境和经济成本，这会对｜ 的问题 ’＼ ·－；，；二；－－－：. . ：参考译文；。．．， 窜食主 JI. 者宁愿不 i1：强迫吃肉 0 (46）然而，对’”种新的基于植物的 “星球饮食 ”的提议则隐晦地透露出强谊人们吃素的信息．这在印度最为明",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -594,7 +891,16 @@
                 "D": "They  lack   the   kn w e g a d   basic   skills   required   for   successful   conversations   with   their   interlocutors."
               },
               "answer": "C",
-              "explanation": "】细节辨认题．定位句指出，采取这种策略 的人通常是一个习惯性抱怨的人．这种策略就是 文章首句中精神病学家埃里克·伯恩描述的对话 模式．紧接着第三句描述了习惯性抱怨的人的特 征：他们的人际关系、工作或其他情况出现了糟糕 的事情，他们不停地抱怨，然而却找借口拒绝他人 提议的任何解决方案．第五句又指出，他们可以 免除任何做出改变的义务．选项C）中的dismiss other ’s prop创als 对应原文中的dismiss any solution that ’s prop倡“，选项C）中的taking no responsibility 对应原文中的excused from any obligation ，由此可确定答案为C). E避错】文中未提及A） ＂他们只对自己受到的虐待 感到愤怒，对试图帮助他们的人心怀怨恨 ”、盼 “他 们长期不快乐，不停地找周围人的过错 ”和D） “他 们缺乏与对话者成功交谈所需的知识和基本技 能 ”，故均排除．"
+              "explanation": "】细节辨认题．定位句指出，采取这种策略的人通常是一个习惯性抱怨的人．这种策略就是文章首句中精神病学家埃里克·伯恩描述的对话模式．紧接着第三句描述了习惯性抱怨的人的特征：他们的人际关系、工作或其他情况出现了糟糕的事情，他们不停地抱怨，然而却找借口拒绝他人提议的任何解决方案．第五句又指出，他们可以免除任何做出改变的义务．选项 C）中的 dismiss other ’s prop 创 als 对应原文中的 dismiss any solution that ’s prop 倡“，选项 C）中的 taking no responsibility 对应原文中的 excused from any obligation，由此可确定答案为 C). E 避错】文中未提及 A） ＂他们只对自己受到的虐待感到愤怒，对试图帮助他们的人心怀怨恨 ”、盼 “他们长期不快乐，不停地找周围人的过错 ”和 D） “他们缺乏与对话者成功交谈所需的知识和基本技能 ”，故均排除．",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+                "sourceText": "（定位】自题子中的 a chronic complainer 定位到第一段第二句－ C) E 精析】细节辨认题．定位句指出，采取这种策略的人通常是一个习惯性抱怨的人．这种策略就是文章首句中精神病学家埃里克·伯恩描述的对话模式．紧接着第三句描述了习惯性抱怨的人的特征：他们的人际关系、工作或其他情况出现了糟糕的事情，他们不停地抱怨，然而却找借口拒绝他人提议的任何解决方案．第五句又指出，他们可以免除任何做出改变的义务．选项 C）中的 d",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -607,7 +913,16 @@
                 "D": "A distinction should be drawn between responsibility and fault."
               },
               "answer": "D",
-              "explanation": "】推理判断题．定位句举例z如果我发现一 个新生儿在我家门口，这不是我的错，但肯定是我 的责任．定位句前一句指出，这里存在混淆．这 个混滑就是本段首句提到的责任／过错谬论．因 此，作者举新生儿的例子是用来说明责任和过错 的区别，故答案为D). E避错】文中未提及A） “人们倾向于认为一个人不 应该为别人的错误负责 ’和盼 “人们很容易执着 于忽视自己错误的立场飞故均排除．第二段第五 句提到人们要做出选择，而且不可能避免它们，因 为试图忽略这一问题将是一种选择。由此并不能 推断出人们在面对很多选择时经常会不知所措， 故排除C). 目.（定位】由题干中的the author ad悦se和chronic complainers定位到第三段首句． A) （精析E细节辨认题。定位句提到，如果你发现自 己是这种抱怨的接收方，有一个巧妙的方法来阻 止它一一那就是热情地赞同它．也就是说，通过 赞同他们来阻止他们继续抱怨，因此答案为Aλ E避错】选项B）是根据定位句中ardently设置的 干扰，定位句是指通过热情地赞同对方来阻止对 方继续抱怨，B） “热情而同情地倾听他们的抱怨 ” 属于过度推断，故排除．文中没有提及C） “要求 他们用进一步的证据来确认他们的信念 ”和D） “说 服他们澄清他们造成的混淆 ”，故排除．"
+              "explanation": "】推理判断题．定位句举例 z 如果我发现一个新生儿在我家门口，这不是我的错，但肯定是我的责任．定位句前一句指出，这里存在混淆．这个混滑就是本段首句提到的责任／过错谬论．因此，作者举新生儿的例子是用来说明责任和过错的区别，故答案为 D). E 避错】文中未提及 A） “人们倾向于认为一个人不应该为别人的错误负责 ’和盼 “人们很容易执着于忽视自己错误的立场飞故均排除．第二段第五句提到人们要做出选择，而且不可能避免它们，因为试图忽略这一问题将是一种选择。由此并不能推断出人们在面对很多选择时经常会不知所措， 故排除 C). 目. （定位】由题干中的 the author ad 悦 se 和 chronic complainers 定位到第三段首句． A) （精析 E 细节辨认题。定位句提到，如果你发现自己是这种抱怨的接收方，有一个巧妙的方法来阻止它一一那就是热情地赞同它．也就是说，通过赞同他们来阻止他们继续抱怨，因此答案为 Aλ E 避错】选项 B）是根据定位句中 ardently 设置的干扰，定位句是指通过热情地赞同对方来阻止对方继续抱怨，B） “热情而同情地倾听他们的抱怨 ” 属于过度推断，故排除．文中没有提及 C） “要求他们用进一步的证据来确认他们的信念 ”和 D） “说服他们澄清他们造成的混淆 ”，故排除．",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+                "sourceText": "（定位 E 由题子中的 the example of the newborn 定位到第二段第四句． D) 【精析】推理判断题．定位句举例 z 如果我发现一个新生儿在我家门口，这不是我的错，但肯定是我的责任．定位句前一句指出，这里存在混淆．这个混滑就是本段首句提到的责任／过错谬论．因此，作者举新生儿的例子是用来说明责任和过错的区别，故答案为 D). E 避错】文中未提及 A） “人们倾向于认为一个人不应该为别人的错误负责 ’和盼 “人们很容易执着于忽视自",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -633,7 +948,16 @@
                 "D": "They are encouraged to start arguing back."
               },
               "answer": "B",
-              "explanation": "】推理判断题．定位句指出，心理治疗师 洛瑞·戈特利布将其描述为 “过度确认 ”。定位句 中的this 是指首句中提出的 “热情地赞同对方来 阻止抱怨 ” 这个方法．·接下来，文中用For one thing引出了抱怨接收方的感受z你将幸兔子进一 步的抱怨．用But for another引出了习惯性抱怨 者的反应z他们经常会重新昕到他们的抱怨，然后 开始反驳．末句提到习惯性抱怨者最后反而被激 发出关于如何改变事物的想法，故答案为B). E避错】A）是根据第三段首句中an ingenious way 设置的干扰，但并未提到习惯性抱怨者被激励着 去寻找巧妙的方法来说服他们的对话者，故排除． C）是根据第三段第四句中complaints afresh设置 的干扰，但此处是指习惯性抱怨者重新听到他们 的抱怨，而不是他们受到剌激，发出更多的抱怨， 故排除. D）是根据第三段第四句中starting arguing back设置的干扰，但文中并没有提及习惯 性抱怨者被鼓励开始反驳，属于过度推断，故 排除．"
+              "explanation": "】推理判断题．定位句指出，心理治疗师洛瑞·戈特利布将其描述为 “过度确认 ”。定位句中的 this 是指首句中提出的 “热情地赞同对方来阻止抱怨 ” 这个方法．·接下来，文中用 For one thing 引出了抱怨接收方的感受 z 你将幸兔子进一步的抱怨．用 But for another 引出了习惯性抱怨者的反应 z 他们经常会重新昕到他们的抱怨，然后开始反驳．末句提到习惯性抱怨者最后反而被激发出关于如何改变事物的想法，故答案为 B). E 避错】A）是根据第三段首句中 an ingenious way 设置的干扰，但并未提到习惯性抱怨者被激励着去寻找巧妙的方法来说服他们的对话者，故排除． C）是根据第三段第四句中 complaints afresh 设置的干扰，但此处是指习惯性抱怨者重新听到他们的抱怨，而不是他们受到剌激，发出更多的抱怨， 故排除. D）是根据第三段第四句中 starting arguing back 设置的干扰，但文中并没有提及习惯性抱怨者被鼓励开始反驳，属于过度推断，故排除．",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+                "sourceText": "（定位 E 由题于中的 chronic complainers 和 over­ validation 定位到第三段第二句． B) 【精析】推理判断题．定位句指出，心理治疗师洛瑞·戈特利布将其描述为 “过度确认 ”。定位句中的 this 是指首句中提出的 “热情地赞同对方来阻止抱怨 ” 这个方法．·接下来，文中用 For one thing 引出了抱怨接收方的感受 z 你将幸兔子进一步的抱怨．用 But for another 引出了习惯性抱怨者的反应 z 他们经常会重新昕到他们的抱怨，然",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q55",
@@ -646,7 +970,16 @@
                 "D": "Awaiting something magical to happen."
               },
               "answer": "C",
-              "explanation": "】推理判断题．定句提到，逃谴责任感觉很 舒服，但结果却是一座监狱；而承担责任会让人不 愉快，但最终会得到解脱．换言之，应承担责任解 放自己，故答案为C）。 E避错】文中未提及A） “分析所谓的责任／过错谬 误 ”、B） ＂避免日常社会生活中的危险陷阱 ”和 D) “等待奇迹发生 ”，故排除． ：：参考译文i:Ț－·.：：丁...., ::i 回翻到1964年，精神病学家埃里克·伯恩在他的著作《人间游戏》中描述了一种他称之为 “ 你为什么 不呢一－是的，但是 ”的对话模式，这仍然是日常社会生活中最令人恼火的方面之一 0 (51-1）采取这种策 略的人遇常是一个弓惯性抱怨的人．他们的人际关系、工作或其他情况出现了糟糕的事情，他们不停地抱 怨，然而卅挡借口拒绝他人提议的任何解决方案．当然，原因是在某种程度上他们不想要解决方案；他们 希望自己的地位得回认可，全世界都去理解他们。（51-2）如果他们能 “赢”这场游戏一一拒绝每一个建议， 直到他仕的对话者在恼怒中放弃一一他们就会在他们的怨恨中感到心安理得，并且可以免除任何做出改 辈盟主主A 六级－2020年.12月”.45 这里的部分问题是所谓的责任／过错谬论．当你感到很为难一一比如说，被你的搭档视为理所当然， 或者被迫为一个愚维的老板工作－一仿很容易陷入这样的境地E解决问题不是你的职责，而这样做就是承 认错误. (52）但这nt存在温涌。ffl如，如果我发现一个新生儿在我家门口，这不是我的错，但肯定是我的 重鱼牟人们要做出沾择，而且不可能量自己它们，因为试图忽略这一问题将是一种选择．关键是，发生在家 门口婴儿身上的事情在任何情况下都E真实的：即使另一个人完全错了，从长远来看，用这个作为逃避责 任的理由也不会育什么好处川 (53）如果你˒H! €:I己是这种植怨自l接收方，有一个巧妙的方法来阻止它一一那就是热情地赞同它－ (54）心理治疗师在甜·戈待）˓j布将其陆述为“过度确认”．一方面，你将幸免于进一步的抱怨，因为对方的 动机是要确认她抱住念，而你现在正在啕认。但另一方面，戈特利布指出，面对过度确认的人们经常会重 新昕到他们的抱"
+              "explanation": "】推理判断题．定句提到，逃谴责任感觉很舒服，但结果却是一座监狱；而承担责任会让人不愉快，但最终会得到解脱．换言之，应承担责任解放自己，故答案为 C）。 E 避错】文中未提及 A） “分析所谓的责任／过错谬误 ”、B） ＂避免日常社会生活中的危险陷阱 ”和 D) “等待奇迹发生 ”，故排除．：：参考译文 i:Ț－·. ：：丁. . . . , ::i 回翻到 1964 年，精神病学家埃里克·伯恩在他的著作《人间游戏》中描述了一种他称之为 “ 你为什么不呢一－是的，但是 ”的对话模式，这仍然是日常社会生活中最令人恼火的方面之一 0 (51-1）采取这种策略的人遇常是一个弓惯性抱怨的人．他们的人际关系、工作或其他情况出现了糟糕的事情，他们不停地抱怨，然而卅挡借口拒绝他人提议的任何解决方案．当然，原因是在某种程度上他们不想要解决方案；他们希望自己的地位得回认可，全世界都去理解他们。（51-2）如果他们能 “赢”这场游戏一一拒绝每一个建议， 直到他仕的对话者在恼怒中放弃一一他们就会在他们的怨恨中感到心安理得，并且可以免除任何做出改辈盟主主 A 六级－2020 年.12 月”.45 这里的部分问题是所谓的责任／过错谬论．当你感到很为难一一比如说，被你的搭档视为理所当然， 或者被迫为一个愚维的老板工作－一仿很容易陷入这样的境地 E 解决问题不是你的职责，而这样做就是承认错误. (52）但这 nt 存在温涌。ffl 如，如果我发现一个新生儿在我家门口，这不是我的错，但肯定是我的重鱼牟人们要做出沾择，而且不可能量自己它们，因为试图忽略这一问题将是一种选择．关键是，发生在家门口婴儿身上的事情在任何情况下都 E 真实的：即使另一个人完全错了，从长远来看，用这个作为逃避责任的理由也不会育什么好处川 (53）如果你˒H! €:I 己是这种植怨自 l 接收方，有一个巧妙的方法来阻止它一一那就是热情地赞同它－ (54）心理治疗师在甜·戈待）˓j 布将其陆述为“过度确认”．一方面，你将幸免于进一步的抱怨，因为对方的动机是要确认她抱住念，而你现在正在啕认。但另一方面，戈特利布指出，面对过度确认的人们经常会重新昕到他们的抱",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-12-2/key_2020年12月英语六级解析第2套.txt",
+                "sourceText": "（定位 E 由题干中的 stop being a chronic complainer 定位到文章最后一句． C) 【精析】推理判断题．定句提到，逃谴责任感觉很舒服，但结果却是一座监狱；而承担责任会让人不愉快，但最终会得到解脱．换言之，应承担责任解放自己，故答案为 C）。 E 避错】文中未提及 A） “分析所谓的责任／过错谬误 ”、B） ＂避免日常社会生活中的危险陷阱 ”和 D) “等待奇迹发生 ”，故排除．：：参考译文 i:Ț－·. ：：丁. . . . , ::i 回翻",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

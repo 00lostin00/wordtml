@@ -30,8 +30,17 @@
             "C": "The dressing makes the mixed salad very inviting.",
             "D": "The woman should mix the ingredients thoroughly."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CBCAA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q2",
@@ -43,8 +52,17 @@
             "C": "He failed to foresee major problems.",
             "D": "He is opening a new consulting firm."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CBCAA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q4",
@@ -56,8 +74,17 @@
             "C": "He has the dictionary the woman wants.",
             "D": "The dictionary is not of much help to him."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CBCAA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q5",
@@ -69,8 +96,17 @@
             "C": "Seeking professional advice.",
             "D": "Adding some office furniture."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CBCAA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q6",
@@ -82,8 +118,17 @@
             "C": "Delayed shipment of goods.",
             "D": "Shortage of container ships."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】DBCBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q7",
@@ -95,8 +140,17 @@
             "C": "Their workload.",
             "D": "A coffee machine."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】DBCBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q8",
@@ -108,8 +162,17 @@
             "C": "Hold the banquet at a different place.",
             "D": "Get an expert to correct the error."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】DBCBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q9",
@@ -121,8 +184,17 @@
             "C": "He cooks dinner for the family occasionally.",
             "D": "He dines out from time to time with friends."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】DBCBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q10",
@@ -134,8 +206,17 @@
             "C": "To discuss an urgent problem.",
             "D": "To pass on an important message."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】DBCBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q11",
@@ -147,8 +228,17 @@
             "C": "There are wild fluctuations in the international money market.",
             "D": "There is a sharp increase in India's balance of payment deficit."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DADCB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q12",
@@ -160,8 +250,17 @@
             "C": "They form a more realistic picture of life.",
             "D": "They try to adapt to their changing roles."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DADCB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q13",
@@ -173,8 +272,17 @@
             "C": "He is able to meet many interesting people.",
             "D": "He is lucky to be able to do what he loves."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DADCB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q14",
@@ -186,8 +294,17 @@
             "C": "It is all glamour.",
             "D": "It is challenging"
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DADCB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q15",
@@ -199,8 +316,17 @@
             "C": "Puzzled.",
             "D": "Excited."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DADCB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q16",
@@ -212,8 +338,17 @@
             "C": "Follow closely the fast development of technology.",
             "D": "Learn to be respectful in a hierarchical organization."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】BADDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q17",
@@ -225,8 +360,17 @@
             "C": "What type of personnel the team should be composed of.",
             "D": "What qualifications team members should be equipped with."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】BADDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q18",
@@ -238,8 +382,17 @@
             "C": "Team members should be knowledgeable and creative.",
             "D": "A team manager should develop a certain set of skills."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】BADDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q19",
@@ -251,8 +404,17 @@
             "C": "It started off as a successful program but was unable to last long.",
             "D": "It is a program allowing people to share information on the Web."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】BADDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q20",
@@ -264,8 +426,17 @@
             "C": "He sold a program developed by his friends.",
             "D": "He invested in a leading computer business."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】BADDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q21",
@@ -277,8 +448,17 @@
             "C": "They were very keen on new technology.",
             "D": "They believed in his business connections."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ACBAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q22",
@@ -290,8 +470,17 @@
             "C": "Word of mouth advertising.",
             "D": "Distributing free trial products."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ACBAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q23",
@@ -303,8 +492,17 @@
             "C": "To promote a specific service.",
             "D": "To attract high-end consumers."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ACBAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q24",
@@ -316,8 +514,17 @@
             "C": "By buying media space in leading newspapers.",
             "D": "By creating their own ads and commericais."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ACBAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q25",
@@ -329,8 +536,17 @@
             "C": "Specify the objectives of the campaign in detail.",
             "D": "Pre-test alternative ads or commercials in certain regions."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-1/paper_卷一_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ACBAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },

@@ -37,8 +37,17 @@
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "空格位于形容词 fascinating 的最高级形式之后，因此应填入可数名词的复数形式。此处意为“据称写了这首儿歌的女子是美国最迷人的人物之一”，所以空格处应填入表示“人物”的词。故答案为 C). characters 性格， 人物。备选的可数名词复数形式只有 C). characters 性格，人物和 D). features 特点，此处构成“女子是……人物之一”， 故排除 D). features 特点。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-2/paper_2018年6月英语六级真题答案解析_卷二.txt",
+            "sourceText": "答案：C). characters 性格，人物详解：空格位于形容词 fascinating 的最高级形式之后，因此应填入可数名词的复数形式。此处意为“据称写了这首儿歌的女子是美国最迷人的人物之一”，所以空格处应填入表示“人物”的词。故答案为 C). characters 性格， 人物。备选的可数名词复数形式只有 C). characters 性格，人物和 D). fe",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q28",
@@ -61,8 +70,17 @@
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "空格位于 a nationwide 之后，因此应填入一个单数可数名词，且此名词可与 began 搭配。此处意为“她开启了一个全国范围内的运动”，故答案为 A). campaign 活动，运动。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-2/paper_2018年6月英语六级真题答案解析_卷二.txt",
+            "sourceText": "答案：A). campaign 活动，运动详解：空格位于 a nationwide 之后，因此应填入一个单数可数名词，且此名词可与 began 搭配。此处意为“她开启了一个全国范围内的运动”，故答案为 A). campaign 活动，运动。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q32",
@@ -145,8 +163,17 @@
           "id": "q36",
           "number": 36,
           "stem": "There are a couple of plants tough and\nadaptable enough to survive on bare rocky hills\nand in deserts.\n译文：有一些植物很顽强且适应性强，足以在\n光秃秃的岩石山丘和沙漠中生存。\n定位：由题干关键词tough and adaptable、bare\nrocky hills 和deserts 定位到原文画线处。\n[C]. Extreme conditions produce extremely tough plants. In the rusty\nred deserts of South Africa, steep- sided rocky hills called inselbergs\nrear up from the plains like the bones of the earth. The hills are\nremnants of an earlier geological era, scraped bare of most soil and\nexposed to the elements. Yet on these and similar formations in deserts\naround the world, a few fierce plants have adapted to endure under\never-changing conditions.\n详解：C 段最后两句提到，这些山丘是早期地质时代的遗留物，大部分土壤已被刮光，遭受风吹日晒。然而，在世\n界各地的沙漠中，这些和类似的岩层里，一些顽强的植物已经适应了在不断变化的条件下继续生存。定位句句首的\nThe hills 指代上一句中的steep-sided rocky hills。题干中的tough 对应原文中的fierce；survive 对应原文中的endure，\n答案为C。",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "C 段最后两句提到，这些山丘是早期地质时代的遗留物，大部分土壤已被刮光，遭受风吹日晒。然而，在世界各地的沙漠中，这些和类似的岩层里，一些顽强的植物已经适应了在不断变化的条件下继续生存。定位句句首的 The hills 指代上一句中的 steep-sided rocky hills。题干中的 tough 对应原文中的 fierce；survive 对应原文中的 endure， 答案为 C。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-2/paper_2018年6月英语六级真题答案解析_卷二.txt",
+            "sourceText": "and in deserts. 译文：有一些植物很顽强且适应性强，足以在光秃秃的岩石山丘和沙漠中生存。 定位：由题干关键词 tough and adaptable、bare rocky hills 和 deserts 定位到原文画线处。 [C]. Extreme conditions produce extremely tough plants. In the rusty red deserts of South Africa, steep- sided rocky hills called inselbergs rear up from the plains like the bones o",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
@@ -159,8 +186,17 @@
           "id": "q38",
           "number": 38,
           "stem": "Farmers in South Africa are more\nat the mercy of nature, especially\ninconsistent rainfall.\n译文：南非的农民更容易受到大自然\n的影响，尤其是变化无常的降雨。\n定位：由题干关键词South Africa、\nmore\nat\nthe\nmercy\nof\nnature\n和\ninconsistent rainfall 定位到原文画线\n处。\n[A]. Ever since humanity began to farm our\nown food, we've\nfaced the\nunpredictable rain that is\nboth\nfriend and enemy. It comes and goes\nwithout much warning, and a\nfield\nof\nlush\n(茂盛的) leafy\ngreens\none year can dry up and blow away the next. Food security and fortunes\ndepend on sufficient\nrain, and nowhere more so than in Africa, where 96% of farmland depends on\nrain instead of the irrigation common in more developed places. It has\nconsequences\n:\nSouth Africa's\nongoing\ndrought—the\nworst\nin\nthree\ndecades— will cost at least a quarter of\nits com crop this year.\n详解：A 段第三句提到，粮食安全和命运依赖于充足的雨水，在非洲尤其如此。在那里，96%农田依赖于降雨，而\n不是较发达地区常见的灌溉。紧接着下一句以南非为例说明农田依赖降雨的后果：南非持续的干旱——三十年来最\n严重的一次——今年将导致至少四分之一的玉米作物受损。由此可知，非洲农民尤其依赖于降雨，这导致他们更容\n易受到不稳定降雨的影响。题干中的more at the mercy of 对应原文中的more so；inconsistent rainfall 对应原文中的\nongoing drought，故答案为A。",
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A 段第三句提到，粮食安全和命运依赖于充足的雨水，在非洲尤其如此。在那里，96%农田依赖于降雨，而不是较发达地区常见的灌溉。紧接着下一句以南非为例说明农田依赖降雨的后果：南非持续的干旱——三十年来最严重的一次——今年将导致至少四分之一的玉米作物受损。由此可知，非洲农民尤其依赖于降雨，这导致他们更容易受到不稳定降雨的影响。题干中的 more at the mercy of 对应原文中的 more so；inconsistent rainfall 对应原文中的 ongoing drought，故答案为 A。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-2/paper_2018年6月英语六级真题答案解析_卷二.txt",
+            "sourceText": "Farmers in South Africa are more at the mercy of nature, especially inconsistent rainfall. 译文：南非的农民更容易受到大自然的影响，尤其是变化无常的降雨。 定位：由题干关键词 South Africa、 more at the mercy of nature 和 inconsistent rainfal",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q39",
@@ -194,8 +230,17 @@
           "id": "q43",
           "number": 43,
           "stem": "Farrant is working hard to cultivate food crops\nthat call survive extreme dryness by studying the\ntraits of rare wild plants.\n译文：法兰特正通过研究稀有野生植物的特性，\n努力培育能够在极度干旱中存活下来的粮食作\n物。\n定位：由题干关键词food crops、survive extreme\ndryness 和the traits of rare wild plants 定位到原文\n画线处。\n[B]. Biologist Jill Farrant of the University of Cape Town in South\nAfrica says that nature has plenty of answers for people who want to\ngrow crops in places with unpredictable rainfall. She is hard at\nwork finding a way to take traits from rare wild plants that adapt to\nextreme dry weather and use them in food crops. As the earth's\nclimate changes and rainfall becomes even less predictable in\nsome\nplaces, those answers will grow even more valuable.\"The type of\nfarming I'm aiming for is literally so that people can survive as it's\ngoing to get\nmore and more dry,\"Farrant says.\n详解：B 段提到，她正在努力寻找一种方法，从那些适应极端干旱天气的稀有野生植物中获得特性，并将它们用作\n粮食作物，由上下文可知，定位句中的主语She 指代段首的Jill Farrant。题干中的is working hard 对应原文中的is hard\nat work; survive extreme dryness 对应原文中的adapt to extreme dry weather，故答案为B。",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "B 段提到，她正在努力寻找一种方法，从那些适应极端干旱天气的稀有野生植物中获得特性，并将它们用作粮食作物，由上下文可知，定位句中的主语 She 指代段首的 Jill Farrant。题干中的 is working hard 对应原文中的 is hard at work; survive extreme dryness 对应原文中的 adapt to extreme dry weather，故答案为 B。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-2/paper_2018年6月英语六级真题答案解析_卷二.txt",
+            "sourceText": "生植物的特性， 努力培育能够在极度干旱中存活下来的粮食作物。 定位：由题干关键词 food crops、survive extreme dryness 和 the traits of rare wild plants 定位到原文画线处。 [B]. Biologist Jill Farrant of the University of Cape Town in South Africa says that nature has plenty of answers for people who want to grow crops in places with unpredictable rain",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q44",
@@ -208,8 +253,17 @@
           "id": "q45",
           "number": 45,
           "stem": "Resurrection plants can come back to\nlife in a short time after a rainfall.\n译文：降雨之后，复苏植物可以在短时间\n内复苏。\n定位：由题干关键词come back to life 和\nrainfall 定位到原文画线处。\n[D]. Farrant calls them resurrection plants ( 复苏植物) . During months\nwithout water under a harsh sun. They wither, shrink and contract until they\nlook like a pile of dead gray leaves. But rainfall can revive them in a matter\nof hours. Her time-lapse (间歇性拍摄的) videos of the revivals look like\nsomeone playing a tape of the plant's death in\nreverse.\n详解：D 段提到，降雨可以使它们在几小时内复苏。由上下文可知，原文中的them 指代该段首句中的resurrection\nplants。题干中的come back to life 对应原文中的revive; in a short time 对应原文中的in a matter of hours，故答案为\nD。",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "D 段提到，降雨可以使它们在几小时内复苏。由上下文可知，原文中的 them 指代该段首句中的 resurrection plants。题干中的 come back to life 对应原文中的 revive; in a short time 对应原文中的 in a matter of hours，故答案为 D。 Section C Passage One 全文翻译： 众所周知，人类的记忆是靠不住的。即使拥有最突出的面部识别技巧的人，其记忆也是有限的。 量化一个人的记忆能力有多好是十分困难的。例如，没人确切的知道一个人究竟能记住多少张不同的面孔，但是各类评估倾向于几千张上下——依据一个人能可能识别的人数来判断。 而在这方面，机器是没有限制的。（46）如果给一台适宜的电脑植入一个庞大的人面数据库，它就能够处理它所看见的东西——然后按照指示识别人脸——其速度和精度都十分出色。这个技能支撑着二十一世纪人脸识别软件的巨大前景。它也是现代监控系统如此令人惊惧的原因。 问题在于，进行人脸识别时机器也是有局限性的。而科学家们也是刚刚开始认识到这些局限是什么。（47）为 - 12 - 了弄清楚电脑的困难所在，华盛顿大学的研究人员创建了一个庞大的人脸数据库——他们称之为“巨型面”——并随着复杂性的逐步加大，测试各类人脸识别算法。研究的思路是在一个囊括了将近 70 万个不同人的 100 万张不同图像的数据库上测试机器——而不仅仅像其他研究所做的那样，采用一个涉及相对较少的不同人脸的庞大数据库。 （48）随着数据库的增大，机器的精确度全面下降。例如，在处理含有 13,000 张图像的数据库时，算法的精确度达到 95%，但在面对 100 万张图像时精确度下滑至 70%左右，而这还算不错的，研究人员艾拉·凯麦尔玛彻·希尔泽曼说：“这比我们预期的要好多了，”她说。 （49）机器在辨别相似度较高的人时也有困难——机器难以将长相极其相似的人分辨为两个不同的人，或者对出现在不同照片中，年龄或者光线条件不同的同一个人，机器可能会误认为是两个不同的人。 “一旦我们将数据库扩展，算法就必须对身份的微小变化十分敏感，同",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-2/paper_2018年6月英语六级真题答案解析_卷二.txt",
+            "sourceText": "back to life in a short time after a rainfall. 译文：降雨之后，复苏植物可以在短时间内复苏。 定位：由题干关键词 come back to life 和 rainfall 定位到原文画线处。 [D]. Farrant calls them resurrection plants ( 复苏植物). During months without water under a harsh sun. They wither, shrink and contract until they look like a pile of dead gray leaves",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },

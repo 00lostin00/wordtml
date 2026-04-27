@@ -26,8 +26,17 @@
                 "C": "how",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -39,8 +48,17 @@
                 "C": "withdrawn",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "2 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -52,8 +70,17 @@
                 "C": "on",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的 T",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -66,7 +93,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的 Th",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -78,8 +114,17 @@
                 "C": "unreliable",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "5 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -92,7 +137,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -105,7 +159,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的 Th",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -118,7 +181,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的 T",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -131,7 +203,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -143,8 +224,17 @@
                 "C": "missions 15. [AJ later [BJ slower",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的 T",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -156,8 +246,17 @@
                 "C": "faster 16. [ A J forecast",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -170,7 +269,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的 T",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -183,7 +291,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -196,7 +313,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的 Th",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -208,8 +334,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -221,8 +356,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "正确答案. B. remember 记得；回想起 D. understand 理解；明白 16 A. forecast 预测；预报 C. express 表达；表示 [答案解析]看本句:分析可知，设空处关键信息点为箭头指向的空格前后部分. 空格所在部分意为:对此进行研究有助于过去三万年里人类进化步伐加快的原因. 结合备选项分析空格所在句句法结构可知，空格处应填入动词，且该动词应能够与 why 引导的宾语从句构成合理的动宾搭配. 备选项中，D 选项 understa",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -235,7 +379,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "正确答案. B. remember 记得；回想起 D. understand 理解；明白 16 A. forecast 预测；预报 C. express 表达；表示 [答案解析]看本句:分析可知，设空处关键信息点为箭头指向的空格前后部分. 空格所在部分意为:对此进行研究有助于过去三万年里人类进化步伐加快的原因. 结合备选项分析空格所在句句法结构可知，空格处应填入动词，且该动",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -248,7 +401,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -261,7 +423,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的 Th",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -273,8 +444,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2015/key_2015年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5 ABDCC 6~10 ACDBD 11-15 BDBCA 16-20 DBACA 5A5B5C5D 结论 A. B. C. D 四个选项作为正确着案出现的频次均为 5, 符合命题规律. Section II] Reading Comprehension ♦ Part A, - Text 1 11 命题分析配套外赦音频 Text 1 选自 2014 年 6 月 4 日的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

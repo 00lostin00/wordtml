@@ -70,7 +70,7 @@ def clean_text(raw: str) -> str:
 
 # Part 锚点:支持 ASCII (I, II, III, IV) 和 Unicode 罗马数字 (Ⅰ, Ⅱ, Ⅲ, Ⅳ)
 PART_RE = re.compile(
-    r"^\s*Part\s+([A-ZⅠⅡⅢⅣ]{1,4})\s*\n+\s*([A-Z][A-Za-z ]+?)\s*\n",
+    r"^\s*Part\s+([A-Za-zⅠⅡⅢⅣ]{1,4})\s+(Writing|Listening\s+Comprehension|Reading\s+Comprehension|Translation)\s*(?:\n|\()",
     re.M,
 )
 
@@ -89,7 +89,7 @@ def split_parts(text: str) -> dict:
     matches = list(PART_RE.finditer(cleaned))
     parts = {}
     for i, m in enumerate(matches):
-        title = m.group(2).strip()
+        title = re.sub(r"\s+", " ", m.group(2).strip())
         section_id = PART_TITLE_TO_ID.get(title)
         if not section_id:
             continue
@@ -160,67 +160,103 @@ def parse_mcq_questions(block: str, q_range: Optional[tuple] = None) -> list:
 
     "stem" 在 paper 听力部分往往不存在(只有选项),这种情况 stem 留空。
     """
-    questions = []
-    lines = block.split("\n")
-    n_lines = len(lines)
+    found: dict[int, dict] = {}
+    order: list[int] = []
+    active_order: list[int] = []
+    current_q: int | None = None
+    current_letter: str | None = None
 
-    i = 0
-    while i < n_lines:
-        line = lines[i]
-        # 题号 + A)
-        m = re.match(r"^\s*(\d{1,3})\s*[\.、]?\s*A\)\s*(.+?)\s*$", line)
-        if not m:
-            i += 1
+    def split_inline_options(first_letter: str, text: str) -> dict[str, str]:
+        combined = f"{first_letter}) {text}"
+        matches = list(re.finditer(r"([A-D])\)\s*", combined))
+        if not matches:
+            return {first_letter: text.strip()}
+        options = {}
+        for i, m in enumerate(matches):
+            start = m.end()
+            end = matches[i + 1].start() if i + 1 < len(matches) else len(combined)
+            value = combined[start:end].strip()
+            if value:
+                options[m.group(1)] = value
+        return options
+
+    def in_range(n: int) -> bool:
+        return not q_range or q_range[0] <= n <= q_range[1]
+
+    def first_missing(letter: str) -> int | None:
+        scan_order = active_order or order
+        for n in scan_order:
+            if letter not in found[n]["options"]:
+                return n
+        return current_q
+
+    for raw_line in block.split("\n"):
+        line = raw_line.strip()
+        if not line:
             continue
 
-        qnum = int(m.group(1))
-        if q_range and not (q_range[0] <= qnum <= q_range[1]):
-            i += 1
+        if re.match(r"^Questions?\s+\d+\s+to\s+\d+", line, re.I):
+            active_order = []
+            current_q = None
+            current_letter = None
             continue
 
-        # 收集后续 3 个选项行
-        opt_a_text = m.group(2).strip()
-        collected = {"A": opt_a_text}
-        order = ["A"]
-        j = i + 1
-        while j < n_lines and len(collected) < 4:
-            opt_m = re.match(r"^\s*([B-D])\)\s*(.+?)\s*$", lines[j])
-            if not opt_m:
-                # 题干续行?跨行选项续行?简化处理:停
-                # 可能这一行是空行,也可能下一题已开始
-                if re.match(r"^\s*\d{1,3}\s*[\.、]?\s*A\)", lines[j]):
-                    break
-                j += 1
-                continue
+        q_m = re.match(r"^(\d{1,3})\s*[\.、]?\s*A\)\s*(.+?)\s*$", line)
+        if q_m:
+            qnum = int(q_m.group(1))
+            if in_range(qnum):
+                found.setdefault(qnum, {
+                    "id": f"q{qnum}",
+                    "number": qnum,
+                    "stem": "",
+                    "options": {},
+                    "answer": None,
+                    "explanation": "",
+                })
+                if qnum not in order:
+                    order.append(qnum)
+                if qnum not in active_order:
+                    active_order.append(qnum)
+                inline_options = split_inline_options("A", q_m.group(2).strip())
+                found[qnum]["options"].update(inline_options)
+                current_q = qnum
+                current_letter = next(reversed(inline_options)) if inline_options else "A"
+            continue
+
+        opt_m = re.match(r"^([B-D])\)\s*(.+?)\s*$", line)
+        if opt_m and order:
             letter = opt_m.group(1)
             text = opt_m.group(2).strip()
-            collected[letter] = text
-            order.append(letter)
-            j += 1
-
-        if len(collected) < 4:
-            # 可能选项跨页/解析,跳过
-            i = j if j > i else i + 1
+            inline_options = split_inline_options(letter, text)
+            earlier_missing = False
+            if current_q is not None:
+                scan_order = active_order or order
+                for n in scan_order:
+                    if n == current_q:
+                        break
+                    if letter not in found[n]["options"]:
+                        earlier_missing = True
+                        break
+            if current_q is not None and letter not in found[current_q]["options"] and not earlier_missing:
+                target = current_q
+            else:
+                target = first_missing(letter)
+            if target is not None and target in found:
+                found[target]["options"].update(inline_options)
+                current_q = target
+                current_letter = next(reversed(inline_options)) if inline_options else letter
             continue
 
-        # 检测两列布局:期望 A,B,C,D 顺序;实际可能是 A,C,B,D
-        # 规则:如果 order == [A,C,B,D],说明是两列读出来的,选项已经按 letter dict 收齐,无需重排
-        # (我们不依赖 order,只依赖 letter→text 字典)
+        if current_q is not None and current_letter and current_letter in found[current_q]["options"]:
+            if not re.match(r"^(?:Questions?\s+\d+|Section\s+[ABC]|Part\s+)", line, re.I):
+                found[current_q]["options"][current_letter] += " " + line
 
-        questions.append({
-            "id": f"q{qnum}",
-            "number": qnum,
-            "stem": "",  # listening: paper 不含问题文本
-            "options": {
-                "A": collected.get("A", ""),
-                "B": collected.get("B", ""),
-                "C": collected.get("C", ""),
-                "D": collected.get("D", ""),
-            },
-            "answer": None,
-            "explanation": "",
-        })
-        i = j
+    questions = []
+    for qnum in sorted(order):
+        opts = found[qnum]["options"]
+        if all(opts.get(letter) for letter in "ABCD"):
+            found[qnum]["options"] = {letter: opts.get(letter, "") for letter in "ABCD"}
+            questions.append(found[qnum])
 
     return questions
 
@@ -590,28 +626,103 @@ def parse_ky_reading_part_a(block: str) -> dict:
 
 
 def parse_ky_part_b(block: str) -> dict:
-    labels = {}
-    option_start = re.search(r"^\s*\[\s*A\s*\]", block, re.M)
-    body = block[:option_start.start()].strip() if option_start else block.strip()
-    option_block = block[option_start.start():] if option_start else ""
-    for om in re.finditer(r"(?ms)^\s*\[\s*([A-G])\s*\]\s*(.*?)(?=^\s*\[\s*[A-G]\s*\]|\Z)", option_block):
-        labels[om.group(1)] = re.sub(r"\s+", " ", om.group(2)).strip()
+    """
+    解析四种 Part B 格式（按 Directions 文字判断）:
+    1. paragraph-ordering: [A]-[H] 段落,重新排序填入 41-45
+    2. subheading-matching: [A]-[G] 小标题,匹配正文编号段 41-45
+    3. sentence-removal: [A]-[G] 句子,填入正文空白 41-45
+    4. name-comment: (41)Name 评论 + [A]-[G] 陈述
+    答案 41-45 由后续 LLM 步骤填入,此处统一留 null。
+    """
+    directions_low = block[:400].lower()
 
-    q_matches = list(re.finditer(r"(?ms)^\s*\((4[1-5])\)\s*([A-Za-z][^\n]*)\n(.*?)(?=^\s*\(4[1-5]\)|\Z)", body))
-    questions = []
+    # ── 格式 4: 名称匹配 ──────────────────────────────────────────────────────
+    # 特征: body 里有 "(41)Name" 格式 + 下方 [A]-[G] 选项
+    name_q_matches = list(re.finditer(
+        r"(?ms)^\s*\((4[1-5])\)\s*([A-Za-z][^\n]*)\n(.*?)(?=^\s*\(4[1-5]\)|\Z)", block
+    ))
+    if name_q_matches:
+        option_start = re.search(r"^\s*\[\s*A\s*\]", block, re.M)
+        option_block = block[option_start.start():] if option_start else ""
+        labels = {}
+        for om in re.finditer(
+            r"(?ms)^\s*\[\s*([A-G])\s*\]\s*(.*?)(?=^\s*\[\s*[A-G]\s*\]|\Z)", option_block
+        ):
+            labels[om.group(1)] = re.sub(r"\s+", " ", om.group(2)).strip()
+
+        paragraphs, questions = [], []
+        for qm in name_q_matches:
+            number = int(qm.group(1))
+            name = qm.group(2).strip()
+            text = qm.group(3).strip()
+            paragraphs.append({"label": str(number), "text": f"{name}\n{text}"})
+            questions.append({"id": f"q{number}", "number": number, "stem": name,
+                               "answer": None, "explanation": ""})
+        return {
+            "id": "new-question", "type": "matching",
+            "title": "Section II Part B · New Question Type", "minutes": 15,
+            "options": labels,
+            "paragraphs": paragraphs,
+            "questions": questions,
+        }
+
+    # ── 格式 2 & 3: 小标题匹配 / 句子填入 ────────────────────────────────────
+    # 特征: Directions 提到 "subheading" 或 "removed"/"suitable one from the list"
+    #       [A]-[G] 是较短的选项,正文有编号段 41.-45.
+    if "subheading" in directions_low or (
+        "removed" in directions_low or "suitable one" in directions_low
+    ):
+        option_start = re.search(r"^\s*\[\s*A\s*\]", block, re.M)
+        if option_start:
+            option_block = block[option_start.start():]
+            body_after = ""
+            options = {}
+            # 提取 [A]-[G] 选项(每条一般较短)
+            for om in re.finditer(
+                r"(?ms)^\s*\[\s*([A-G])\s*\]\s*(.*?)(?=^\s*\[\s*[A-G]\s*\]|\Z)", option_block
+            ):
+                options[om.group(1)] = re.sub(r"\s+", " ", om.group(2)).strip()
+            # 提取正文编号段 41.-45.
+            body_start = re.search(r"^\s*41\s*[.．]", block, re.M)
+            body_text = block[body_start.start():option_start.start()].strip() if body_start else ""
+            para_blocks = re.split(r"(?=^\s*4[1-5]\s*[.．])", body_text, flags=re.M)
+            paragraphs = []
+            for pb in para_blocks:
+                m = re.match(r"^\s*(4[1-5])\s*[.．]\s*([\s\S]*)", pb.strip())
+                if m:
+                    paragraphs.append({"label": m.group(1), "text": re.sub(r"\s+", " ", m.group(2)).strip()})
+            questions = [
+                {"id": f"q{n}", "number": n, "stem": f"Para {n}", "answer": None, "explanation": ""}
+                for n in range(41, 46)
+            ]
+            return {
+                "id": "new-question", "type": "matching",
+                "title": "Section II Part B · New Question Type", "minutes": 15,
+                "options": options,
+                "paragraphs": paragraphs,
+                "questions": questions,
+            }
+
+    # ── 格式 1: 段落排序 ──────────────────────────────────────────────────────
+    # 特征: "wrong order" 或 有大段 [A]-[H] / A. 内容
+    # 支持 [A] 和 A. 两种标记格式
+    para_re = re.compile(
+        r"(?ms)^\s*(?:\[\s*([A-H])\s*\]|([A-H])\s*[.．])\s*(.*?)(?=^\s*(?:\[\s*[A-H]\s*\]|[A-H]\s*[.．])|\Z)"
+    )
     paragraphs = []
-    for qm in q_matches:
-        number = int(qm.group(1))
-        name = qm.group(2).strip()
-        text = qm.group(3).strip()
-        paragraphs.append({"label": str(number), "text": f"{name}\n{text}"})
-        questions.append({"id": f"q{number}", "number": number, "stem": name, "answer": None, "explanation": ""})
+    for m in para_re.finditer(block):
+        label = (m.group(1) or m.group(2)).strip()
+        text = re.sub(r"\s+", " ", m.group(3)).strip()
+        if len(text) > 30:   # 排除只有短标题行的误匹配
+            paragraphs.append({"label": label, "text": text})
+    questions = [
+        {"id": f"q{n}", "number": n, "stem": f"Box {n}", "answer": None, "explanation": ""}
+        for n in range(41, 46)
+    ]
     return {
-        "id": "new-question",
-        "type": "matching",
-        "title": "Section II Part B · New Question Type",
-        "minutes": 15,
-        "paragraphs": [{"label": k, "text": v} for k, v in sorted(labels.items())] or paragraphs,
+        "id": "new-question", "type": "matching",
+        "title": "Section II Part B · New Question Type", "minutes": 15,
+        "paragraphs": paragraphs,
         "questions": questions,
     }
 

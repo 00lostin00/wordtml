@@ -1,0 +1,537 @@
+{
+  "id": "cet6-2020-09",
+  "type": "cet6",
+  "year": 2020,
+  "month": 9,
+  "set": 0,
+  "title": "2020年9月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the saying “ Wealth of the mind is the only true wealth. \" You should write at least 150 words but no more than 200 words. 请用黑色签字笔在答题卡1 指定区域内作答作文题，在试题册上的作答无效!",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions ：\n In this section, there is a passage with ten blanks. You are required to select one word for\neach blank from a list of choices given in a word bank following the passage. Read the\npassage through carefully before making your choices. Each choice in the bank is identified\nby a letter. Please mark the corresponding letter for each item on Answ er Sheet 2 with a\nsingle line through the centre. You may not use any of the words in the bank more than once.\nIt was perhaps when my parents- who also happen to be my housemates- left to go travelling\nfbr a couple of months recently that it \n\non me why I had not yet left the family home.\nIt wasn't that I relied on them fbr \n\nreasons, or to keep my life in order, or to ease the\nchaos of the home. These days, I rely on them for their company.\nI missed coming home and talking about my day at work, and I missed being able to read their\nfaces and sense how their day was. I missed having unique \n\ninto tiny details that make a life.\nWhile the conversation about young adults staying longer at home is \n\nby talk of laziness,\nof dependence, of an inability fbr young people to pull themselves together, \n\ndo we talk of the\nway, in my case at least, my relationship with my parents has \n\nstrengthened the longer we\nhave lived together.\nOver the years the power dynamic has changed and is no longer defined by one being the giver\nand another, the taker. So, what does this say fbr our relationships within the family home?\nAccording to psychologist Sabina Read, there are u some very positive possible \n\nwhen\nadult children share the family home\", noting the u parent-child relationship may indeed strengthen\nand maturev in the process.\nBut, she notes, a strong \n\ndoesn't simply come with time. u The many changing factors of\nthe relationship need to be acknowledged, rather than hoping that the mere passage of time will \n\nconnect parents to their adult children. Ifs important to acknowledge that the relationship parameters\nhave changed to avoid falling back into \n\nfrom the teen years/,\nA)\nbond\nB)\nC)\nD)\nE)\n玲\n⑴\nH)\ncontemplated\ndawned\nhierarchy\ninsight\nlegislative\nleverage\nlogistical\nmagically\noutcomes\npatterns\nrarely\nsaturated\nstereotypes\nundoubtedly\n\\|7\nH\nz\nx)z\nD\nD\nK\nL\nM\nN\no\n6 ・ 1",
+      "wordBank": {},
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": "C",
+          "explanation": "。 28 into tiny details that make a life. 。词汇注释与难句分析· $ ②unique Ljuni∶k】a. 独特的 ①sense Isens】 v. 感觉到解题思路 28。答案∶E）insight 【确定词性】空格位于 miss doing sth 结构中，空格前为形容词 unique，后为介宾短语 into tiny details. . 空格词应为名词（作 unique 的修饰对象，having 的宾语），且可与 into 搭配。 【锁定答案】空格句与前一句采用复现句式 Imissed doing sth 列举\"我\"怀念的与父母相处的诸多细节， 以具体展现前文所述\"我依赖父母的陪伴\"。\"拥有对构成生活的微小细节的独特\"应与\"跟父母谈论我 4 一天的工作\"\"感受父母这一天过得如何\"等语义同向，体现\"我与父母的相互陪伴、对彼此生活细节的深入了解\"，故空格词应表\"了解/认知/感悟\"等，insight into sth 为固定搭配，意为\"对某事的深入了解/深刻见解，洞悉某事\"，E 正确。 Ⅳ While the conversation about young adults staying 围绕年轻人久居家中的谈话总是充斥着\"年轻人太懒惰、不独立、不振作\"这 longer at home is 29 by talk of laziness, of 样的论调，而我们很少谈论（年轻人跟父 dependence2, of an inability for young people to pull 母同住）这一生活方式的好处∶至少就我 themselves together\", 30 do we talk of the way, in my 而言，我和父母住在一起的时间越长，我 case at least, my relationship with my parents has 31 们的关系无疑就越牢固。 strengthened the longer we have lived together. 。词汇注释与难句分析。 ①lazine",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+            "sourceText": "答案∶C）dawned 27.答案∶H）logistical 【确定词性】空 26 位于 It was. . . that. . . 强调句式的 that 后，空格前 it 为形式主语，why. . . home 为真正主语，句子语序可还原为;why. 。home（主语）十 26on（谓语）＋ me（宾语），空 26 作谓语动词，结合谓语结构可知，空 26 为不及物动词的过去式，且能与",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": "A",
+          "explanation": "答案∶A）bond 34.答案∶I）magically 【确定词性】a strong 33 为全句主语，空 33 由冠词 a 限定，应为可数名词单数。空 34 所在 that 从句成分完整∶the mere passage of time（主语）＋ will _34__ connect（谓语）＋ parents（宾语）＋ to their adult children（宾补），故空 34 应为副词。 【锁定答案】末段首两句大意为∶强大/牢固的 33 并非单纯随时间而来，我们得承认亲子关系存在诸多变数，而不能寄希望于仅靠时间就能 34 将父母和成年子女联结在一起。结合上段\"成年子女与父母久居可能有益于亲子关系\"及 But 体现出的段际转折逻辑可推知，本句语义应指向\"子女与父母同住的时间并非影响亲子关系的单一因素\"，故空 33 应与 relationship 近义，呼应 connect parents to their adult children，表示 \"（亲子）关系/联系/纽带\"，A 正确;空 34 则应侧面体现出\"单靠时间推移即可强化亲子关系\"这一主观意愿 （hoping）的不切实际，I 符合文意。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+            "sourceText": "答案∶A）bond 34.答案∶I）magically 【确定词性】a strong 33 为全句主语，空 33 由冠词 a 限定，应为可数名词单数。空 34 所在 that 从句成分完整∶the mere passage of time（主语）＋ will _34__ connect（谓语）＋ parents（宾语）＋ to their adult child",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "H",
+          "text": "Many health plans and employers have rushed to offer the services and promote them as a\nconvenient way fbr plan members to get medical care without leaving home or work. Nearly\nthree-quarters of large employers will offer virtual doctor visits as a benefit to employees this year,\nup from 48% last year. Web companies such as Teladoc and American Well are expected to host\nsome 1.2 million such virtual doctor visits this year, up 20% from last year, according to the\nAmerican Telemedicine Association."
+        },
+        {
+          "label": "I",
+          "text": "But critics worry that such services may be sacrificing quality fbr convenience. Consulting a\nrandom doctor patients will never meet, they say, further fragments the health-care system, and\neven minor issues such as upper respiratory (上呼吸道的)infections can't be thoroughly evaluated\nby a doctor who can't listen to your heart or feel your swollen glands. In a recent study, researchers\nposing as patients with skin problems sought help from 16 telemedicine sites—with unsettling\nresults. In 62 encounters, fewer than one-third disclosed clinicians, credential or let patients choose;\nonly 32% discussed potential side effects of prescribed medications. Several sites misdiagnosed\nserious conditions, largely because they failed to ask basic follow-up questions, the researchers\nsaid. u Telemedicine holds enormous promise, but these sites are just not ready fbr prime time/'\nsays Jack Resneck, the study5s lead author."
+        },
+        {
+          "label": "J",
+          "text": "The American Telemedicine Association and other organizations have started accreditation (\n)\nprograms to identify top-quality telemedicine sites. The American Medical Association this month\napproved new ethical guidelines fbr telemedicine, calling for participating doctors to recognize the\nlimitations of such services and ensure that they have sufficient information to make clinical\nrecommendations."
+        },
+        {
+          "label": "K",
+          "text": "Who pays fbr the services? While employers and health plans have been eager to cover virtual urgent-\ncare visits, insurers have been far less willing to pay for telemedicine when doctors use phone, email or\nvideo to consult with existing patients about continuing issues. \"It's very hard to get paid unless\nyou physically see the patient,n says Peter Rasmussen, medical director of distance health at the\nCleveland Clinic. Some 32 states have passed “parity” (等 同的)laws requiring private insurers to\nreimburse doctors for services delivered remotely if the same service would be covered in person,\nthough not necessarily at the same rate or frequency. Medicare lags further behind. The federal\nhealth plan fbr the elderly covers a small number of telemedicine services―only fbr beneficiaries\nin rural areas and only when the services are received in a hospital, doctofs office or clinic.\nL) Bills to expand Medicare coverage of telemedicine have bipartisan ( 两党的)support in Congress.\nOpponents worry that such expansion would be costly fbr taxpayers, but advocates say it would\nsave money in the long run.\nM) Experts say more hospitals are Hkely to invest in telemedicine systems as they move away from\nfee-fbr-service payments and into managed-care-type contracts that give them a set fee to provide\ncare for patients and allow them to keep any savings they achieve.\nN) Is the state-by-state regulatory system outdated? Historically, regulation of medicine has been left\nto individual states. But some industry members contend that having 50 different sets of rules,\nlicensing fees and even definitions of “ medical practice “ makes less sense in the era of\ntelemedicine and is hampering its growth. Currently, doctors must have a valid license in the state\n6 , 3\n\nwhere the patient is located to provide medical care, which means virtual-visit companies can\nmatch users only with locally licensed clinicians. It also causes administrative hassles (麻烦)fbr\nworld-class medical centers that attract patients from across the country. At the Mayo Clinic,\ndoctors who treat out-of-state patients can follow up with them via phone, email or web chats\nwhen they return home, but they can only discuss the conditions they treated in person. u If the\npatient wants to talk about a new problem, the doctor has to be licensed in that state to discuss it.\nIf not, the patient should talk to his primary-care physician about it,“ says Steve Ommen, who\nruns Mayo's Connected Care program.\nO) To date, 17 states have joined a compact that will allow a doctor licensed in one member state to\nquickly obtain a license in another. While welcoming the move, some telemedicine advocates\nwould prefer states to automatically honor one anothefs licenses, as they do with drivers, licenses.\nBut states aren't likely to surrender control of medical practice, and most are considering new\nregulations. This year, more than 200 telemedicine-related bills have been introduced in 42 states,\nmany regarding what services Medicaid will cover and whether payers should reimburse for\nremote patient monitoring. \"A lot of states are still trying to define telemedicine,n says Lisa\nRobbin, chief advocacy officer for the Federation of State Medical Boards."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "An overwhelming majority of family physicians are willing to use telemedicine if they are duly paid.",
+          "answer": "D",
+          "explanation": "】末句借调查数据说明家庭医生对远程医疗的态度;如果能够得到适当补偿.90??家庭医生都愿意使用。试题是对该句的同义改写，其中 An overwhelming majority 对应 90??",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+            "sourceText": "如果能够获得适当报酬，绝大多数家庭医生愿意使用远程医疗。 【答案】D 【精解】末句借调查数据说明家庭医生对远程医疗的态度;如果能够得到适当补偿.90??家庭医生都愿意使用。试题是对该句的同义改写，其中 An overwhelming majority 对应 90??",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Many employers are eager to provide telemedicine service as a benefit to their employees because\nof its convenience.",
+          "answer": "C",
+          "explanation": "】 C 段①至③句通过对比手段聚焦双语课堂特点及目的;传统英语学习项目注重于让学生尽快融入英语环境;双语课堂则用两种语言开展教学，旨在让学生到中学时获得实用性双语能力。试题是对双语课堂特点的概括，Unlike 体现其与传统项目的不同，ability to use two languages 是对原文 functional bilingualism and biliteracy 的同义改写。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+            "sourceText": "和传统单语项目不同，双语课堂旨在让学生到中学时开发出使用两门语言的能力。 【答案】 C 【精解】 C 段①至③句通过对比手段聚焦双语课堂特点及目的;传统英语学习项目注重于让学生尽快融入英语环境;双语课堂则用两种语言开展教学，旨在让学生到中学时获得实用性双语能力。试题是对双语课堂特点的概括，Unlike 体现其与传统项目的不同，ability to use two languages 是对原文 functional bilinguali",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Different states have markedly different regulations for telemedicine.",
+          "answer": "J",
+          "explanation": "】J 段介绍双语教育提升阅读理解能力的作用，其中②句介绍研究结果∶双语学生对其他同学的英语阅读技能优势达到了相当于一整个学年的学习。试题是对该句研究结果的同义改写，其中 significantly better 是对 a full school-year's worth of learning 的准确概括。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+            "sourceText": "38. 一项研究表明，双语学生在阅读英语文章方面的表现要远远好于他们的同学。 【答案】J 【精解】J 段介绍双语教育提升阅读理解能力的作用，其中②句介绍研究结果∶双语学生对其他同学的英语阅读技能优势达到了相当于一整个学年的学习。试题是对该句研究结果的同义改写，其中 significantly better 是对 a full school-year's worth of learning 的准确概括。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "With telemedicine, patients in regions short of professional medical service are able to receive\nbetter medical care.",
+          "answer": "D",
+          "explanation": "】 ④句介绍远程医疗的益处\"为那些很难获得医疗专业知识的地方提供更优质的医疗\"， 意即，借助远程医疗，那些医疗欠发达地区的患者也能得到更好的医疗服务。试题是对该句的同义转述，其中 With telemedicine\"借助远程医疗\"传递出了 Telemedicine also allows for\"远程医疗考虑到⋯⋯的可能性/使得⋯⋯成为可能\"所展示的因果逻辑。 40。与雇主和健康医疗计划不同，保险公司不愿意为一些远程医疗服务买单。 【答案】 K 【精解】 ②句对比指出\"尽管雇主和健康医疗计划一直急于为紧急虚拟医疗服务上险，但保险 16 公司却不太愿意为远程医疗买单\"。试题是对该内容的正确概括，其中 Unlike 正确概括 While、eager to vs. far less willing to 所传达的对比之意。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+            "sourceText": "大约二十年前，双语实践遭到强硬阻拦，以加利福尼亚州为甚。 【答案】D 【精解】 D 段①至③句介绍双语教育过去如何遭到抵制∶二十年前的文化战争中，人们高举\"英语优先\"的大旗，加利福尼亚州更是专门发布法律，限制英语学习者置身于双语环境的时间。试题是对原文信息的提炼，其中 strongly discouraged 归纳了\"English first\"education 与 sharply reduce the amount",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Unlike employers and health plans, insurers have been rather reluctant to pay fbr some\ntelemedicine services.",
+          "answer": "M",
+          "explanation": "】 M 段介绍双语教育帮助学生融入多族裔、多文化环境。③④句具体说明双语课堂 （they 回指上句中的 Dual-language programs）如何起作用∶把英语母语使用者和新移民有意地混在一起→在族裔和经济状况的分布上都更为均衡→有助于学生适应多族裔、多文化环境。试题是对原文信息的整合，get used to 同义改写 gain comfort with。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+            "sourceText": "40. 族裔及经济状况分布均衡的课堂有助于让孩子习惯社会和文化的多样性。 【答案】M 【精解】 M 段介绍双语教育帮助学生融入多族裔、多文化环境。③④句具体说明双语课堂 （they 回指上句中的 Dual-language programs）如何起作用∶把英语母语使用者和新移民有意地混在一起→在族裔和经济状况的分布上都更为均衡→有助于学生适应多族裔、多文化环境。试题是对原文信息的整合，get used to 同义改写 gain comfort w",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Some supporters of telemedicine hope states will accept each othefs medical practice licenses as valid.",
+          "answer": "E",
+          "explanation": "】E 段②句介绍当代研究者对以往双语教育研究的看法∶漏洞百出（that research 回指 ①句中\"数十年前发表的研究\"）。试题是对本句信息的复现，earlier research on bilingualeducation 明确了句中 that research 所指。 淘宝店铺∶光速考研工作室淘宝店铺∶光速考研工作室第 41/.56 页第 42／56 页 42.据一名研究者所说，双语体验可对大脑产生终生影响。 【答案】B 【精解】 B 段①句引用一名研究者的原话确认双语能力的相关发现\"对大脑带来终生影响\"。 试题是对该句内容的概括，exert. . . influence 是对 shapes 的同义改写。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+            "sourceText": "41. 研究者如今宣称早前的双语教育相关研究存在严重缺陷。 【答案】E 【精解】E 段②句介绍当代研究者对以往双语教育研究的看法∶漏洞百出（that research 回指 ①句中\"数十年前发表的研究\"）。试题是对本句信息的复现，earlier research on bilingualeducation 明确了句中 that research 所指。 淘宝店铺∶光速考研工作室淘宝店铺∶光速考研工作室第 41/.56 页第 42／5",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "The fastest growing area fbr telemedicine services is fbr lesser health problems.",
+          "answer": "B",
+          "explanation": "】 B 段①句引用一名研究者的原话确认双语能力的相关发现\"对大脑带来终生影响\"。 试题是对该句内容的概括，exert. . . influence 是对 shapes 的同义改写。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+            "sourceText": "据一名研究者所说，双语体验可对大脑产生终生影响。 【答案】B 【精解】 B 段①句引用一名研究者的原话确认双语能力的相关发现\"对大脑带来终生影响\"。 试题是对该句内容的概括，exert. . . influence 是对 shapes 的同义改写。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "As telemedicine spreads quickly, some of its opponents doubt whether its service quality can be\nguaranteed.",
+          "answer": "G",
+          "explanation": "】P 段（③至⑤句指出双语教育研究者/倡导者的看法∶双语教育尚未发现有负面影响，而且益处即便小也仍然值得;双语教育至少能让孩子学会两门语言。试题是对双语教育正面影响描述的提炼， positive. . . though they may be limited 是对 even if the advantages are small. . . still worth it 的同义改写。 44.双语使用者往往能比单语使用者更好地完成某些任务，因为他们更能专注于自己所做之事。 【答案】 G 【精解】 G 段两句指出，双语使用者比单语使用者在执行功能测评中的表现更好，更能高度集中注意力。试题是对本段信息的提炼和总结，其中 completing certain tasks 是对 general measures of executive function 的明确化，because 是对原文两句逻辑关系的揭示（专注度更高，因而任务完成得更好）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+            "sourceText": "ay be limited 是对 even if the advantages are small. . . still worth it 的同义改写。 44.双语使用者往往能比单语使用者更好地完成某些任务，因为他们更能专注于自己所做之事。 【答案】 G 【精解】 G 段两句指出，双语使用者比单语使用者在执行功能测评中的表现更好，更能高度集中注意力。试题是对本段信息的提炼和总结，其中 completing certain tasks 是对 general measures of executive function 的明确化，because 是对原文两句逻辑关系的揭示（专注度更高，因而任务完成得更好）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "The results obtained by researchers who pretended to be patients seeking help from telemedicine\nproviders are disturbing.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Some people argue that the fact that different states have different regulations concerning medical\nservices hinders the development of telemedicine.",
+          "answer": "N",
+          "explanation": "】 N 段①句指出，双语教育让英语学习者的母语得到重视;②句进而指出，这能提高学生的归属感和家长对孩子教育的参与度。试题是对原文信息的截取，native language is used 同义替换 home language is heard。 Section C Passage One 肥胖危机∶意识形态之争无济于事一、总体分析来源∶The Guardian《卫报》2019.05.06 文章 The Guardian View on the Obesity Crisis∶Ideological Posturing Will Not Help（《卫报》对肥胖危机的看法;哗众取宠的意识形态之争无济于事）。主题∶英国正面临严峻的肥胖危机，政治家们应停止围绕\"责任及选择权\"的意识形态之争，并进行政府干预。脉络∶指出英国国民肥胖问题难以解决的症结所在∶意识形态存在分歧（第一段）——论述政府干预的可行性及必要性（第二至四段）——总结评述∶政府干预无关意识形态，乃国情亟需（第五段）。 二、语篇分析及试题精解不良饮食有害健康的说法无可争 I ④It is not controversial to say that an unhealthy 议。健康饮食的基本要素也毋庸置疑。 diet causes bad health. ② Nor are the basic elements of 肥胖会增加罹患癌症的概率，而英国已 healthy eating disputed",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+            "sourceText": "45. 如果父母的母语得到了使用，那他们就能更为深入地参与到孩子的教育中去。 「答案】 N 【精解】 N 段①句指出，双语教育让英语学习者的母语得到重视;②句进而指出，这能提高学生的归属感和家长对孩子教育的参与度。试题是对原文信息的截取，native language is used 同义替换 home language is heard。 Section C Passage One 肥胖危机∶意识形态之争无济于事一、总体分析来源∶The Gua",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nDanielle Steel, the 71 -year-old romance novelist is notoriously productive, having published 179\nbooks at a rate of up to seven a year. But a passing reference in a recent profile by Glamour magazine\nto her 20-hour workdays prompted an outpouring of admiration.\nSteel has given that 20-hour figure when describing her “exhausting“ process in the past: UI start\nthe book and don't leave my desk until the first draft is finished.\" She goes from bed, to desk, to bath, to\nbed, avoiding all contact aside from phone calls with her nine children. UI don't comb my hair for weeks,“\nshe says. Meals are brought to her desk, where she types until her fingers swell and her nails bleed.\nThe business news website Quartz held Steel up as an inspiration, writing that if only we all\nfollowed her u actually extremely liberatingn example of industrious sleeplessness, we would be quick\nto see results.\nWell, indeed. With research results showing the cumulative effects of sleep loss and its impact on\nproductivity, doubt has been voiced about the accuracy of SteeFs self-assessment. Her output may be\nundeniable, but sceptics have suggested that she is guilty of erasing the role of ghostwriters (代笔人)\nat worst, gross exaggeration at best.\nSteel says working 20 hours a day is u pretty brutal physically.v But is it even possible? \"No,\"\nsays Maryanne Taylor of the Sleep Works. While you could work that long, the impact on\nproductivity would make it hardly worthwhile. If Steel was routinely sleeping fbr four hours a night,\nshe would be drastically underestimating the negative impact, says Alison Gardiner, founder of the\nsleep improvement programme Sleepstation. u Ifs akin to being drunk.\"\nIfs possible that Steel is exaggerating the demands of her schedule. Self-imposed sleeplessness\nhas u become a bit of a status symbol”, says Taylor, a misguided measure to prove how powerful and\nproductive you are. Margaret Thatcher was also said to get by on four hours a night, while the 130-\nhour work weeks endured by tech heads has been held up as key to their success.\nThat is starting to change with increased awareness of the importance of sleep fbr mental health.\nu People are starting to realise that sleep should not be something that you fit in between everything\nelse,\" says Taylor.\nBut it is possible- if statistically extremely unlikely- that Steel could be bom a 41 short sleepern\nwith an unusual body clock, says sleep expert Dr. Sophie Bostock. \"It's probably present in fewer\nthan 1% of the population.\"\nEven if Steel does happen to be among that tiny minority, says Bostock, it's “ pretty\nirresponsiblev to suggest that 20-hour days are simply a question of discipline for the rest of us.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What do we learn from the passage about Glamour magazine readers?",
+              "options": {
+                "A": "They are intrigued by the exotic romance in Danielle SteeFs novels.",
+                "B": "They are amazed by the number of books written by Danielle Steel.",
+                "C": "They are deeply impressed by Danielle SteeFs daily work schedule.",
+                "D": "They are highly motivated by Danielle SteeFs unusual productivity."
+              },
+              "answer": "B",
+              "explanation": "决方案的努力被围绕\"责任和选择\"的意识形态之争分散了注意力，即∶因为人们对于谁（政府、个人）该做什么（是承担解决问题的责任，还是要选择的自由）存有分歧，所以无法全力解决问题，B 正确，disagree as to who should do what 是对 ideological arguments around responsibility and choice 的明确解释。 【排除干扰】A 对⑥句因果倒置∶将肥胖问题导致的结果\"耗尽医疗预算\"偷换为问题难以解决的原因。C 对⑥⑦句碎片信息 responsibility and choice 和 consumption of obesity-inducing products 过度引申，但文意指向的是\"人们就责任与选择权存在分歧\"以及\"从致胖食品消费中获利的行业\"，并非选项体现的\"个人不愿意承担责任\"。D 将⑦句含义\"行业游说使得人们不能充分认识致胖食品的危害\"窜改为\"使得人们很难买到健康食品\"。 【提炼思路】题干 Why 提示考查因果，解题关键在于识别文中的因果关联，并找到\"因\"的同义表达。解题步骤∶首先根据题干确定解题范围为第一段⑥⑦句;然后根据其中 gets diverted by. . . 和 the water is muddied by. . . 识别因果关系，并锁定后半句的两种\"因\";随后对比选项，发现 B 是对⑥句所述原因的明确化，基本确定为正确项;最后再看其他选项∶A 颠倒因果逻辑，C 过度引申，D 扭曲信息，最终确定 B。 l ① Historical precedent2 suggests that science 历史先例表明，科学和政治可以战胜污染及有毒企业的对抗，但这需要时间，且初 and politics can overcome resistancefrom businesses 期往往收效甚微。所以，能够看到利兹（注∶ that pollute and poison but it takes time, and success often starts small. ②So it is h",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+                "sourceText": "46. Why is the obesity problem in Britain so difficult to solve? A）政府的医疗预算已经所剩无几。 A)Government health budgets are depleted. B)People disagre as to who should do what. B）人们对于谁该做什么存有分歧。 C)Individuals are not ready to",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What did the business news website Quartz say about Danielle Steel?",
+              "options": {
+                "A": "She could serve as an example of industriousness.",
+                "B": "She proved we could liberate ourselves from sleep.",
+                "C": "She could be an inspiration to novelists all over the world.",
+                "D": "She showed we could get all our work done without sleep. 6 • 5"
+              },
+              "answer": "A",
+              "explanation": "答本题难点有二∶第一，定位有干扰，public health emergencies 貌似题千关键词，应定位到第一段，但题目实际上关注的是解决问题的过往经验（past experience in tackling），应定位到第二段。第二，审题要透彻，题干中 public health emergencies 为复数，选项应适合大多数公共卫生危机，需对第二段信息进行概括推理，谨防对部分内容主观臆断或将个例当作普遍情形（本题中 C 具有强干扰性）。 许多议会成员甚至对自己政府的反 Ⅲ ④Many members of parliament are uncomfortable even with their own government's anti-obesity strategy, 肥胖战略感到不安，因为这涉及一项\"糖税\"和一项\"禁止向未满 16 岁者出售能 since it involves a\"sugar tax\"and a ban\" on the sale of 量饮料的禁令\"。禁令和税收政策可能 energy drinks to under-16s. ②Bans and taxes can be blunt 并非利器，但即便其最严苛的批评者也 instruments, but their harshest critics can rarely suggest 很少能提出更好的办法。这些批评者反 better methods. B These critics just oppose regulation 对的正是监管本身。 itelf. 。词汇注释与难句分析。 ①ban Dben】n. 禁止，禁令 $ ②blunt instruments 钝器，（某物）难以奏效语篇分析· 第三段通过驳斥反对者的观点论述政府干预的合理性。 ①句指出许多议员对政府的反肥胖策略感到不安。句子以 since 表明因果关系∶主句以 even with their own 强调连议员自己都感到不安（暗示反肥胖策略的受争议程度之强）;从句说明原因∶它涉及到\"糖税\"及\"不健康饮料禁",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+                "sourceText": "47. What can we learn from the past experience in tackling 中，我们能学到什么? public health emergencies? A）政府扮演着重要角色。 A) Governments have a role to play. BPublic halth is a scientifissue. B）公共卫生是一个科学问题。 C）应优先考虑贫因地区。 C)Prority should be given to deprived regions. D）应强调企业的责任。 D) Busines",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What do sceptics think of Danielle SteeFs work schedule claims?",
+              "options": {
+                "A": "They are questionable.",
+                "B": "They are alterable.",
+                "C": "They are irresistible.",
+                "D": "They are verifiable."
+              },
+              "answer": "A",
+              "explanation": "，原文其实是通过两种极端说法（夸大事实或干脆请人代笔）来表达怀疑的态度，并非指斯蒂尔的说法可以有两种解释/是可以改变的。C、D 均反向干扰，将文中\"斯蒂尔的产出不可否认\"窜改为\"其对工作日程的说法不容反驳/可证实\"。 【提炼思路】本题是人物观点题，特殊之处在于题干对人物本身已有限定（持怀疑态度的人），因此可以直接排除态度模糊的 B，以及与\"怀疑\"方向相反的 C 和 D，并锁定与之同义的 A（questionable）。若通过分析文义解题，则可根据 sceptics 定位至第四段③句，又发现③句是对②句 doubt 的具体解释。②句后半句 Steel's self-assessment 同义改写题干 Danielle Steel's work schedule claims. doubt 概括了 sceptics 的看法，由此锁定与 doubt 同义的 A。 V ●Stecl says working 20 hours a day is \"pretty 斯蒂尔说每天工作 20 个小时\"对身体是非常残酷的\"。但工作这么长时间怎么可能 brutal physically. \" ② But is it even possible? 呢?\"这不可能。\"来自\"睡眠有用\"公司的玛 ③\"No, \"says Maryanne Taylor of the Sleep Works. ④ While you could work that long, the impact on 丽安· 泰勒说道。尽管你可以工作那么长时间，但这对工作效率的影响会让这种做法变 productivity would make it hardly worthwhile. ⑤ If 得几乎没有意义。睡眠促进项目\"睡眠站\"的 Steel was routinelysleeping for four hours a night, 创始人艾莉森·加德纳表示，如果斯蒂尔平 she would be drastically\" underestimating the 常总是每晚睡四个小时，那么她可能严重低 negative impact, says Alison",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+                "sourceText": "48. What do sceptics think of Danille Stee's work 48.持怀疑态度的人怎样看待丹妮尔·斯蒂尔对工作日程的说法? schedule claims? A They are questionable. A）说法是可疑的。 B) They are alterable. B）说法是可改变的。 C) They areirresistible. C）说法是不容反驳的。 D) They are vrifiale. D）说法是可证实的。 【精准定位】本题考查持怀疑态度的人的看法。根据 sceptics 定位至第四段③句（s",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What does Maryanne Taylor think of self-imposed sleeplessness?",
+              "options": {
+                "A": "It may turn out to be key to a successful career.",
+                "B": "It may be practiced only by certain tech heads.",
+                "C": "It may symbolise one's importance and success.",
+                "D": "It may well serve as a measure of self-discipline."
+              },
+              "answer": "D",
+              "explanation": "题时根据③句的 key to their successtech heads 可以排除 A 和 B，再根据②句的 misguided 可排除与文义相反的 D，最终根据 status symbol 和 powerful and productive 锁定 C。 随着人们日益意识到睡眠对心理 Ⅶ ● That is starting to change with increased 健康的重要性，这种情况也在开始改 awareness of the importance of sleep for mental health. 变。\"人们开始认识到睡眠，不应该是你 ②\"People are starting to realise that sleep should not be something that you fit in2between everything else，\"says 在其他事情之余抽时间做的事。\"泰勒 Taylor. 说道。 ·词汇注释与难句分析· $ ②fit sth in 找到时间做某事 ①awareness 【o'weonos】 n. 意识，认识 22 语篇分析- 第七段介绍人们对睡眠看法的转变。 ①句指出人们开始意识到睡眠的重要性。That 回指第六段宣扬超短睡眠的情况。with 表示弱因果关系∶因为人们日益意识到睡眠的重要性，因此宣扬超短睡眠的情况有所改变。 ②句引用泰勒的观点进一步阐述人们看法的转变。直接引语解释①句的 awareness，fit in between everything else 表明之前人们把睡眠的重要性排在其他所有事情之后，should not 表明现在人们开始认真对待睡眠。 睡眠专家苏菲·博斯托克博士表示， Ⅶ ④ But it is possible—if statistically extremely 但是有可能——虽然在统计学意义上是 unlikely—that Steel could be born a\"short sleeper\" with 极其不可能的——斯蒂尔天生就是生物 an",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+                "sourceText": "in B）为了揭示英国普遍肥胖的根本原因。 Brtain. C) To highlight the area deserving the most attention from C）为了突出最值得公众关注的地区。 the public. D）为了证明政府干预在解决肥胖问题中 D) To justily government intervention in solving the obesity 的必要性。 Pproblem. 【精准定位】 本题考查作者强调\"健康差\"与\"不平等\"之间关联的原因/目的。由题干关键词 the relationship between poor health and",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "How does Dr. Sophie Bostock look at the 20-hour daily work schedule?",
+              "options": {
+                "A": "One should not adopt it without consulting a sleep expert.",
+                "B": "The general public should not be encouraged to follow it.",
+                "C": "One must be duly self-disciplined to adhere to it.",
+                "D": "The majority must adjust their body clock fbr it."
+              },
+              "answer": "C",
+              "explanation": "时。 C) When individuals have the incentive to act accordingly. C）当个人获得行动的激励时。 D) When the private sector realises the severity of the crisis. D）当私营部门意识到危机的严重性时。 【精准定位】本题考查政府干预发挥作用的条件，定位至第五段 ② 句（Government action works when. . . ). 【锁定答案】 C。第五段②句指出\"当个体受到激励做出响应时，政府的干预行为便能发挥效用\"，C 与此相符，have the incentive to act accordingly 同义改写 are motivated to respond。 【排除干扰】A、B 均源自第五段①句 the polarised debate. . . should have been abandoned. 但答非所问∶意识形态之争/两极分化争论关乎政府是否进行干预，而非其发挥作用的条件。D 将末句对政府行动的呼吁\"私营部门需要政府监管的刺激，才能开始认真对待公共卫生紧急事件\"窜改为政府行动起效的关键\"当私营部门意识到危机严重性时\"。 【提炼思路】 本题考查事实细节，解题关键在于准确定位并将选项与原文仔细比对，锁定同义改写的选项，排除偷换关系的选项∶根据 government action be effective 定位到第五段②句 government action works 后仔细比对，并锁定与从句条件同义的 C;然后排除文中虽有明确对应信息，但并非题目所问（且对原文信息进行歪曲）的其他选项。 Passage Two 澳大利亚珊瑚海保护区计划备受争议一、总体分析来源∶Nature《自然》2011.11.29 文章 Australia's marine plans questioned（有争议的澳大利亚海洋计划）。 主题∶澳大利亚政府拟在珊瑚海设立保护区的提案引发争议，科学家批评其只将一半海域划为禁取区（完全保护区），未能给予珊瑚海足够多的保护。脉络∶引入并介",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+                "sourceText": "A）当两极分化的争论被抛弃时。 A)When the polarised debate is abandoned. B) When ideological differences are resolved. B）当意识形态分歧得以化解时。 C) When individuals have the incentive to act accordingly. C）当个人获得行动的激励时。 D) When the private sector realises the severity of the crisis. D）当私营部门意识到危机的严重性时。 【精准定位】本题考查政府干预发挥作用的条件，定",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nOrganic agriculture is a relatively untapped resource for feeding the Earth's population, especially\nin the face of climate change and other global challenges. Thafs the conclusion I reached in reviewing\n40 years of science comparing the long-term prospects of organic and conventional farming.\nThe review study, Organic Agriculture in the 21st Century,n is featured as the cover story fbr\nthe February issue of the journal Nature Plants. It is the first to compare organic and conventional\nagriculture across the main goals of sustainability identified by the National Academy of Sciences:\nproductivity, economics and environment.\nCritics have long argued that organic agriculture is inefficient, requiring more land to yield the\nsame amount of food. Ifs true that organic farming produces lower yields, averaging 10 to 20 percent\nless than conventional. Advocates contend that the environmental advantages of organic agriculture\nfar outweigh the lower yields, and that increasing research and breeding resources for organic systems\nwould reduce the yield gap. Sometimes excluded from these arguments is the fact that we already\nproduce enough food to more than feed the world's 7.4 billion people but do not provide adequate\naccess to all individuals.\nIn some cases, organic yields can be higher than conventional. For example, in severe drought\nconditions, which are expected to increase with climate change in many areas, organic farms can produce\nas good, if not better, yields because of the higher water-holding capacity of organically farmed soils.\nWhat science does tell us is that mainstream conventional farming systems have provided\ngrowing supplies of food and other products but often at the expense of other sustainability goals.\nConventional agriculture may produce more food, but it often comes at a cost to the environment.\nBiodiversity loss, environmental degradation, and severe impacts on ecosystem services have not only\naccompanied conventional fanning systems but have often extended well beyond their field boundaries.\nWith organic agriculture, environmental costs tend to be lower and the benefits greater.\nOverall, organic forms tend to store more soil carbon, have better soil quality and reduce soil\nerosion compared to their conventional counterparts. Organic agriculture also creates less soil and\nwater pollution and lower greenhouse gas emissions. And it's more energy-efficient because it doesn't\n6 , 6\n\nrely on synthetic fertilizers or pesticides.\nOrganic agriculture is also associated with greater biodiversity of plants, animals, insects and\nmicroorganisms as well as genetic diversity. Biodiversity increases the services that nature provides\nand improves the ability of farming systems to adapt to changing conditions.\nDespite lower yields, organic agriculture is more profitable for farmers because consumers are\nwilling to pay more. Higher prices, called price premiums, can be justified as a way to compensate\nfarmers for providing ecosystem services and avoiding environmental damage or external costs.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What do we learn from the conclusion of the authofs review study?",
+              "options": {
+                "A": "More resources should be tapped fbr feeding the world's population.",
+                "B": "Organic farming may be exploited to solve the global food problem.",
+                "C": "The long-term prospects of organic farming are yet to be explored.",
+                "D": "Organic farming is at least as promising as conventional farming."
+              },
+              "answer": "A",
+              "explanation": "决全球粮食问题。 food problem. C) The long-term prospects of organic farming are yet to C）有机农业的长期前景还有待考察。 be explored. D) Organic farming is at least as promising asD）有机农业至少与传统农业一样有前景。 conventional farming. 【精准定位】本题考查研究结论。由 the conclusion of the author's review study 定位至首段②句（. . . That's the conclusion I. . .），再由②句指代词精准定位至其所回指的①句。 【锁定答案】 B。文首句直陈指出∶就养活地球人口而言，有机农业这种农耕方式还有待开发利用，尤其是在面临气候变化及其他全球挑战之际。 言外之意即为，可以考虑利用有机农业这种耕种方式来解决当前全球人口粮食问题。故 B 正确。 【排除干扰】A 与研究结论形似，但核心信息错误∶原文强调开发\"有机农业\"这一农耕方式，而非\"其他更多资源\"。C\"有待考察\"体现的不确定性与研究结论\"有机农业是种相对未被利用的农耕方式\"所传达的肯定结果\"有机农业的前景十分良好\"不符。D 曲解文意∶文意\"对比有机农耕与传统农耕的长期前景后，得出有机农耕有待开发利用以解决全球粮食问题这一结论\"实质上表明\"传统农耕的前景不如有机农耕\"，由后文\"有机农耕相较传统农耕更环保、更经济、更可持续\"亦可佐证。 【提炼思路】 本题考查对研究结论的推理引申，关键在于根据定位句（首段①句）的表面信息抓住其主旨、 理解其言外之意。解题时可∶1．借句子主干锁定主要论述对象及对其总体评价;Organic agriculture is. . . 说明本句论述核心为\"有机农业\"，untapped\"蕴藏的、尚未被利用的\"暗含对有机农业潜力的褒奖，especially. . change and. . . challenges 以当前的严峻形势进一步凸显开发有机农业的重要性。由此可锁定对有机农业进行正面评",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+                "sourceText": "51. What do we learn from the passage about the Coral Sea? A) It is exceptionally rich in marine life. A）它拥有无比丰富的海洋生物资源。 B) It is the biggest marine protected area. B）它是（世界上）最大的海洋保护区。 C) It remains largely undisturbed by humans. C）它的大部分区域未",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What is the critics, argument against organic farming?",
+              "options": {
+                "A": "It cannot meet the need fbr food.",
+                "B": "It cannot increase farm yields.",
+                "C": "It is not really practical.",
+                "D": "It is not that productive."
+              },
+              "answer": "D",
+              "explanation": "题时对此类选项应格外小心，切勿被其表面字词蒙蔽）。C 仅给出一个较为模糊宽泛的描述，实际并无原文支撑。D 项与定位句含义高度契合，综合判断可知 D 正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+                "sourceText": "lan owing to criticisms. B）修订其遭受指摘的保护计划。 C)Upgrade the established reserves to protect marine life. C）升级已有的保护区，以保护海洋生物。 D)Complete the series of marine reserves around its coast. D）建齐其沿海的一系列海洋保护区。 【精准定位】本题考查政府的行动计划。由人名 Tony Burke 可锁定第二段②句。 【锁定答案】D。第二段②句指出∶澳大利亚环境部长 Tony Burke 公布了一项新提案，拟将珊瑚海提议为海洋保护区，该保护区",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does the author think should be taken into account in arguing about organic farming?",
+              "options": {
+                "A": "Growth in world population.",
+                "B": "Deterioration in soil fertility.",
+                "C": "Inequality in food distribution.",
+                "D": "Advance in farming technology."
+              },
+              "answer": "C",
+              "explanation": "答难点有二。1.要结合试题命制顺序及题干关键词进行准确定位;上一题考查第三段 ① 句批评者的看法，下一题考查第五段的科学事实，而第三段着重探讨各类观点 27 （arguments），第四段着重探讨特殊情况（some cases），故本题应指向第三段;再由题干关键信息 should be taken into account（应当被考虑在内）恰好反义呼应第三段④句原文 excluded（被排除在外），故可判断该句为定位句。2.理解所定位的长难句∶fact 后的 that 同位语从句引出作者认为应当考虑的因素，全句以 but 形成转折，其后 not provide adequate access to all individuals（未能给每个人提供充分机会）实为句意重点，对比各选项后可发现 C\"分配不均\"与之契合。 在有些情况下，有机农作物的产量可以 Ⅳ ①In some cases, organic yields can be higher 比传统农作物的产量高。例如，在严重干旱 than conventiona",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+                "sourceText": "虑在内? arguing about organic farming? A）世界人口的增长。 A)Growth in world population. B）土壤肥力的恶化。 B)Deterioration in sol etility. C） 粮食分配的不均。 C)Inequaliy in fo distribution. D) Advance in farming technology. D）农业技术的进步。 【精准定位】本题考查作者的观点。由 should be taken into account in arguing 定位至第三段末句 (Sometimes excluded from t",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What does science tell us about conventional fanning?",
+              "options": {
+                "A": "It will not be able to meet global food demand.",
+                "B": "It is not conducive to sustainable development.",
+                "C": "It will eventually give way to organic farming.",
+                "D": "It is going mainstream throughout the world."
+              },
+              "answer": "D",
+              "explanation": "定位句主旨。首先根据定位句结构把握对传统农业的评价倾向∶have provided. . but often at the expense of. . . 呈递让步一转折逻辑，强调传统农业的缺陷，初步锁定体现其负面评价的前三项。其次细读该定位句，发现其强调重点为\"可持续性\"，A 项关注点错误，且与原文事实相悖，C 项夸大其缺陷，B 恰好契合原文表述。 总体而言，较之传统农场，有机农 M ① Overall, organic farms tend to store more soil 场往往能存储更多的土壤碳，具备更好 carbon, have better soil quality and reduce soil erosion 的土壤质量，并且能减轻土壤侵蚀。有 compared to their conventional counterparts\". ② Organic agriculture also creates less soil and water pollution and 机农业还能减少土壤和水污染，降低温室气体排放。而且有机农业更节能，因 lower greenhouse gas emissions. ③ And it's more energy- 为它不依赖合成肥料，也不依赖杀 efficient because it doesn't rely on synthetic fertilizers or 虫剂。 Dpesticides. 有机农业还与植物、动物、昆虫与 Ⅶ ① Organic agriculture is also associated⑥ with 微生物更丰富的生物多样性以及基因 greater biodiversity of plants, animals, insects and 多样性相关。生物多样性既能增加大自 microorganisms\"as well as genetic diversity. ② Biodiversity 然提供的服务，又能提升农耕系统对不 increases the s",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+                "sourceText": "的海洋保护区。 marine reserve. C) It will ensure the sustainability of the fishing industry C）它将确保沿海渔业的可持续性。 around the coast. D)It is a tremendous joint effort to protect the range ofD）它是一项多方合力的、旨在保护各种海洋生境的重大行动。 marine habitats. 【精准定位】本题考查比曼对提案的看法。由 Robin Beaman say 可锁定第六段②③句。 【锁定答案】 D。第六段②③句介绍比曼对珊瑚海保护区提案的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "Why does the author think higher prices of organic fann produce are justifiable?",
+              "options": {
+                "A": "They give farmers going organic a big competitive edge.",
+                "B": "They motivate farmers to upgrade farming technology.",
+                "C": "Organic farming costs more than conventional farming.",
+                "D": "Organic farming does long-term good to the ecosystem."
+              },
+              "answer": "C",
+              "explanation": "为\"提案会损害环境和渔业经济\"。D 将第三段信息\"提案遭到（某些）环保组织（即第四段末句的\"由多个保护运动组织结成的联盟\"）的批评\"夸大为\"提案几乎不会得到环境组织的支持\"，且该信息不属于批评人士的观点内容。 【提炼思路】本题借人物观点题考查末段长难句。该句从逗号处一分为二，逗号前句子结构为\"Critics say 十 that 从句\"，介绍批评人士对西南沿海保护区提案的看法;为那些商业机会最少、几乎没有环境风险的区域提供最大保护;逗号后为名词短语\"a contention＋后置定语\"，充当前面看法（that 从句）的同位语，对其进行补充说明∶这一批评的矛头也对准了珊瑚海计划;综合两部分语义可知批评人士对珊瑚海保护区提案和西南沿海保护区提案的看法相同∶二者严格保护的那些区域实际环境风险极小（几乎不需要保护）。 Part IV Translation 《西游记》 兴一、参考译文 Journey to the West is perhaps the most influential of the Four Great Classical Novels of Chinese literature, and certainly the most widely known beyond China's borders. It depicts the tough journey of the famous monk Xuanzang, who, accompanied by his three followers, travelled across Western China to India for Buddhist scriptures. While the theme of the story is based on Buddhism, the novel draws on a host of Chinese folk tales and mythology to create various vivid and lifelike human and animal charac",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-09/key_2020.09六级解析全3套_带书签.txt",
+                "sourceText": "55. What do critics think of the Coral Sea plan? A）它对环境的影响弊大于利。 A) It will do more harm than good to the environment. B)It will adversely affect Australia's fishing industry. B）它将对澳大利亚的渔业产生不利影响。 C)It will protect",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into\nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "《水浒传》(Water Margin)是中国文学四大经典小说之一。这部小说基于历史人物宋江及其伙伴反抗封建帝王的故事，数百年来一直深受中国读者的喜爱。毫不夸张地说,几乎每个中国人都熟悉小说中的一些主要人物。这部小说中的精彩故事在茶馆、戏剧舞台、广播电视、电影屏幕和无数家庭中反复讲述。事实上，这部小说的影响已经远远超出了国界。越来越多的外国读者也感到这部小说里的故事生动感人、趣味盎然。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

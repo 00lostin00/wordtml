@@ -4,7 +4,7 @@
 import { el } from "../ui/components.js";
 import { findPracticeUnit, unitSourceLabel } from "../core/exam-practice.js";
 import { examAttemptKey, trySaveExamAttempt } from "../core/local-db.js";
-import { renderSection } from "./exam.js";
+import { isVerifiedAnswer, renderReviewBoard, renderSection } from "./exam.js";
 
 export async function render(ctx) {
   const { host, router, query } = ctx;
@@ -60,9 +60,13 @@ async function submit(host, router, unit, answers, startedAt) {
     answers: JSON.parse(JSON.stringify(answers)),
     totalObjective: stats.total,
     answeredObjective: stats.answered,
+    scorableObjective: stats.scorable,
+    correctObjective: stats.correct,
+    verifiedObjective: stats.verified,
+    pendingObjective: stats.pending,
     textChars: stats.textChars,
-    answerReady: false,
-    totalScore: null,
+    answerReady: stats.scorable > 0,
+    totalScore: stats.scorable ? Math.round(stats.correct / stats.scorable * 100) : null,
   };
   attempt.localDbKey = examAttemptKey(attempt);
   const localSaved = await trySaveExamAttempt(attempt);
@@ -76,8 +80,13 @@ async function submit(host, router, unit, answers, startedAt) {
       stat("文本字符", String(stats.textChars), stats.textChars ? `约 ${Math.round(stats.textChars / 5)} 词` : "未作答"),
       stat("用时", formatDuration(endedAt - startedAt), "本次随机练习"),
     ]),
-    el("div", { class: "feedback warn", style: "max-width:620px; margin:0 auto 16px" },
-      "答案库还在抽取中,这里先记录作答完成度。等 Step 2.5 接入后,随机刷题会同步显示对错和解析。"),
+    stats.scorable
+      ? el("div", {
+          class: stats.pending ? "feedback warn" : "feedback ok",
+          style: "max-width:620px; margin:0 auto 16px",
+        }, `本题已判分: ${stats.correct}/${stats.scorable} · 已核验 ${stats.verified} 题 / 待复核 ${stats.pending} 题。`)
+      : el("div", { class: "feedback warn", style: "max-width:620px; margin:0 auto 16px" },
+          "答案库还在抽取中,这里先记录作答完成度。等 Step 2.5 接入后,随机刷题会同步显示对错和解析。"),
     localSaved
       ? el("div", { class: "label", style: "margin-bottom:16px" }, "已同步到本地 SQLite 数据库。")
       : el("div", { class: "label", style: "margin-bottom:16px" }, "本地 SQLite 暂不可用,本次只在当前页面完成。"),
@@ -86,11 +95,23 @@ async function submit(host, router, unit, answers, startedAt) {
       el("button", { class: "primary", onClick: () => router.go("/practice") }, "再抽一题"),
     ]),
   ]));
+
+  if (stats.scorable) {
+    host.appendChild(renderReviewBoard({
+      id: unit.examId,
+      title: `${unit.title} · ${unitSourceLabel(unit)}`,
+      sections: [unit.section],
+    }, answers));
+  }
 }
 
 function collectStats(section, answers) {
   let total = 0;
   let answered = 0;
+  let scorable = 0;
+  let correct = 0;
+  let verified = 0;
+  let pending = 0;
   let textChars = 0;
   if (section.type === "writing") {
     textChars = (answers[section.id || "writing"] || "").length;
@@ -99,9 +120,17 @@ function collectStats(section, answers) {
   } else {
     const questions = section.questions || section.passages?.flatMap((p) => p.questions || []) || [];
     total = questions.length;
-    answered = questions.filter((q) => answers[q.number]).length;
+    for (const q of questions) {
+      if (answers[q.number]) answered += 1;
+      if (q.answer) {
+        scorable += 1;
+        if (answers[q.number] === q.answer) correct += 1;
+        if (isVerifiedAnswer(q)) verified += 1;
+        else pending += 1;
+      }
+    }
   }
-  return { total, answered, textChars };
+  return { total, answered, scorable, correct, verified, pending, textChars };
 }
 
 function stat(label, value, sub) {

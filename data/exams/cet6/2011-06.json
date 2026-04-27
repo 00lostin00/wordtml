@@ -1,0 +1,366 @@
+{
+  "id": "cet6-2011-06",
+  "type": "cet6",
+  "year": 2011,
+  "month": 6,
+  "set": 0,
+  "title": "2011年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write a short essay entitled The Certificate Craze. You should write at least 150 words following the outline given below. 1．现在许多人热衷于各类证书考试 2．其目的各不相同 3．在我看来…… The Certificate Craze Part II Reading Comprehension (Skimming and Scanning) (15 minutes) Directions: In this part, you will have 15 minutes to go over the passage quickly and answer the questions on Answer Sheet 1. For questions 1-7, choose the best answer from the four choices marked A), B), C) and D). For questions 8-10, complete the seen tenses with the information given in the passage. Minority Report American universities are accepting more minorities than ever. Graduating them is another matter. Barry Mills, the president of Bowdoin College, was justifiably proud of Bowdoin's efforts to recruit minority students. Since 2003 the small, elite liberal arts school in Brunswick, Maine, has boosted the proportion of so-called under-represented minority students in entering freshman classes from 8% to 13%. \"It is our responsibility to reach out and attract students to come to our kinds of places,\" he told a NEWSWEEK reporter. But Bowdoin has not done quite as well when it comes to actually graduating minorities. While 9 out of 10 white students routinely get their diplomas within six years, only 7 out of 10 black students made it to graduation day in several recent classes. \"If you look at who enters college, it now looks like America,\" says Hilary Pennington, director of postsecondary programs for the Bill & Melinda Gates Foundation, which has closely studied enrollment patterns in higher education. \"But if you look at who walks across the stage for a diploma, it's still largely the white, upper-income population.\" The United States once had the highest graduation rate of any nation. Now it stands 10th. For the first time in American history, there is the risk that the rising generation will be less well educated than the previous one. The graduation rate among 25- to 34-year-olds is no better than the",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "She will give him the receipt later.",
+            "B": "The man should make his own copies.",
+            "C": "She has not got the man's copies ready.",
+            "D": "The man forgot to make the copies for her."
+          },
+          "answer": "C",
+          "explanation": "M: I left 20 pages here to copy. Here is the receipt. W: I'm sorry, sir. But we're a little behind. Could you come back in a few minutes? Q: What does the woman mean? 答案：C. She has not got the man's copies ready.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "M: I left 20 pages here to copy. Here is the receipt. W: I'm sorry, sir. But we're a little behind. Could you come back in a few minutes? Q: What does the woman mean? 答案：C. She has not got the man's copies ready.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "She phoned Fred about the book.",
+            "B": "She was late for the appointment.",
+            "C": "She ran into Fred on her way here.",
+            "D": "She often keeps other people waiting."
+          },
+          "answer": "B",
+          "explanation": "W: I hope you're not too put out with me for the delay. I have to stop by friends' home to pick up a book on my way here. M: Well, that's not a big deal. But you might at least phone if you know you're going to keep someone waiting. Q: What do we learn about the woman from the conversation? 答案：B. She was late for the appointment.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "ith me for the delay. I have to stop by friends' home to pick up a book on my way here. M: Well, that's not a big deal. But you might at least phone if you know you're going to keep someone waiting. Q: What do we learn about the woman from the conversation? 答案：B. She was late for the appointment.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "Mark is not fit to take charge of the Student Union.",
+            "B": "Mark is the best candidate for the post of chairman.",
+            "C": "It won't be easy for Mark to win the election.",
+            "D": "Females are more competitive than males in elections."
+          },
+          "answer": "C",
+          "explanation": "W: Mark is the best candidate for chairman of the student union, isn't he? M: Well, that guy won't be able to win the election unless he gets some majority vote from women students. And I'm not sure about that. Q: What does the man mean? 答案：C. It won't be easy for Mark to win the election.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "ction unless he gets some majority vote from women students. And I'm not sure about that. Q: What does the man mean? 答案：C. It won't be easy for Mark to win the election.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "It failed to arrive at its destination in time.",
+            "B": "It got seriously damaged on the way.",
+            "C": "It got lost at the airport in Paris.",
+            "D": "It was left behind in the hotel."
+          },
+          "answer": "A",
+          "explanation": "M: Sorry to have kept you waiting, Madam. I've located your luggage. It was left behind in Paris and won't arrive until later this evening. W: Oh, I can't believe this. Have it deliver to my hotel then, I guess. Q: What happened to the woman's luggage? 答案：A. It failed to arrive at its destination in time.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "g. W: Oh, I can't believe this. Have it deliver to my hotel then, I guess. Q: What happened to the woman's luggage? 答案：A. It failed to arrive at its destination in time.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Just make use of whatever information is available.",
+            "B": "Put more effort into preparing for the presentation.",
+            "C": "Find more relevant information for their work.",
+            "D": "Simply raise the issue in their presentation."
+          },
+          "answer": "A",
+          "explanation": "W: I don't think we have enough information for our presentation, but we have to give it tomorrow. There doesn't seem to be much we can do about it. M: Yeah, at this point we 'all have to make do with what we've got. Q: What does the man suggest they do? 答案：A. Just make use of whatever information is available. 14 / 20",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "about it. M: Yeah, at this point we 'all have to make do with what we've got. Q: What does the man suggest they do? 答案：A. Just make use of whatever information is available. 14 / 20",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "the man has decided to choose Language Studies as his major.",
+            "B": "The woman isn't interested in the psychology of language.",
+            "C": "The man is still trying to sign up for the course he is interested in.",
+            "D": "The woman isn't qualified to take the course the man mentioned."
+          },
+          "answer": "D",
+          "explanation": "M: I am taking this great course-Psychology of Language, it's really interesting. Since you are a psychology major, you should sign up for it. W: Actually I tried to do that, but they told me I have to take language studies first. Q: What do we learn from the conversation? 答案：D. The woman isn't qualified to take the course the man mentioned.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "tried to do that, but they told me I have to take language studies first. Q: What do we learn from the conversation? 答案：D. The woman isn't qualified to take the course the man mentioned.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "They are both to blame.",
+            "B": "They are both easy to please.",
+            "C": "They can manage to get along.",
+            "D": "They will make peace in time."
+          },
+          "answer": "A",
+          "explanation": "A) They are both to blame. B) They are both easy to please. C) They can manage to get along. D) They will make peace in time.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "A) They are both to blame. B) They are both easy to please. C) They can manage to get along. D) They will make peace in time.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "They are in desperate need of financial assistance.",
+            "B": "They hope to do miracles with limited resources.",
+            "C": "They want to borrow a huge sum from the bank.",
+            "D": "They plan to buy out their business partners."
+          },
+          "answer": "A",
+          "explanation": "M: We don't have the resources to stop those people from buying us out unless a miracle happens. This may be the end of us. W: I still have hope we can get help from the bank. After all we don't need that much money. Q: What do we learn about the speakers from the conversation? 答案：A. They are in desperate need of financial assistance. Conversation One 听力原文 Questions 19 to 22 are based on the conversation you have just heard. W: You know I've often wondered why people laugh at the picture of a big belly businessman slipping on a banana skin and falling on his bottom. We are to feel sorry for them. M: Actually, Laura, I think we laugh because we are glad it didn't happen to us. But of course there is also a kind of humorous satisfaction in seeing somebody self-important making a fool of themselves. W: Yes, and there are a lot of jokes about people who are too fat or physically handicapped,",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "buying us out unless a miracle happens. This may be the end of us. W: I still have hope we can get help from the bank. After all we don't need that much money. Q: What do we learn about the speakers from the conversation? 答案：A. They are in desperate need of financial assistance. Conversation One 听力",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "We simply cannot help reacting instinctively that way.",
+            "B": "We wish to hide our indifference to their misfortune.",
+            "C": "We derive some humorous satisfaction from their misfortune.",
+            "D": "We think it serves them right for being mean to other people."
+          },
+          "answer": "C",
+          "explanation": "Why does the man say we laughed when we see some self-important people making fool of themselves? 答案：C）We derive some humorous satisfaction from their misfortune.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "Why does the man say we laughed when we see some self-important people making fool of themselves? 答案：C）We derive some humorous satisfaction from their misfortune.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "They want to show their genuine sympathy.",
+            "B": "They have had similar personal experiences.",
+            "C": "They don't know how to cope with the situation.",
+            "D": "They don't want to reveal their own frustration."
+          },
+          "answer": "B",
+          "explanation": "Why do some people joke about those who are fat or handicapped according to the man? 答案：B) They don't know how to cope with the situation 15 / 20",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "Why do some people joke about those who are fat or handicapped according to the man? 答案：B) They don't know how to cope with the situation 15 / 20",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "They themselves would like to do it but don't dare to.",
+            "B": "Its an opportunity for relieving their tension.",
+            "C": "it’s a rare chance for them to see the boss lose face.",
+            "D": "They have seen this many times in old films."
+          },
+          "answer": "A",
+          "explanation": "Why do many people find it funny to see someone throwing a custard pie on their boss's face? 答案：A) They themselves would like to do it but don't dare to.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "Why do many people find it funny to see someone throwing a custard pie on their boss's face? 答案：A) They themselves would like to do it but don't dare to.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "to irritate them.",
+            "B": "To teach them a lesson.",
+            "C": "To relieve her feelings.",
+            "D": "To show her courage."
+          },
+          "answer": "A",
+          "explanation": "A) to irritate them. B) To teach them a lesson. C) To relieve her feelings. D) To show her courage. Questions 23 to 25 are based on the conversation you have just heard.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "A) to irritate them. B) To teach them a lesson. C) To relieve her feelings. D) To show her courage. Questions 23 to 25 are based on the conversation you have just heard.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "Smuggling drugs into Hong Kong.",
+            "B": "Having committed armed robbery.",
+            "C": "Stealing a fellow passenger's bag.",
+            "D": "Bringing a handgun into Hong Kong."
+          },
+          "answer": "D",
+          "explanation": "What is Sanjay Kumar suspected of? 答案：D) Bringing a handgun into Hong Kong",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "What is Sanjay Kumar suspected of? 答案：D) Bringing a handgun into Hong Kong",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "He said not a single word during the entire flight.",
+            "B": "He took away Kumar's baggage while he was asleep.",
+            "C": "He was travelling on a scholarship from Delhi University.",
+            "D": "He is suspected of having slipped something in Kumar's bag."
+          },
+          "answer": "D",
+          "explanation": "What do we know about Alfred Foster? 答案：D) He is suspected of having slipped something into Kumar's bag",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "What do we know about Alfred Foster? 答案：D) He is suspected of having slipped something into Kumar's bag",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Give him a lift.",
+            "B": "Find Alfred",
+            "C": "Check the passenger list.",
+            "D": "Search all suspicious cars."
+          },
+          "answer": "A",
+          "explanation": "A) Give him a lift. B) Find Alfred Foster. C) Check the passenger list. D) Search all suspicious cars. Section B Directions: In this section, you will hear 3 short passages. At the end of each passage, you will hear some questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 2 with a single line through the centre. 注意：此部分试题请在答题卡 2 上作答。 Passage One Questions 26 to 28 are based on the passage you have just heard.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2011-06/paper_2011年6月英语六级真题及答案.txt",
+            "sourceText": "A) Give him a lift. B) Find Alfred Foster. C) Check the passenger list. D) Search all suspicious cars. Section B Directions: In this section, you will hear 3 short passages. At the",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "82. Even though they were already late, they would rather stop for the beautiful view(宁愿停下来欣赏美丽的景色) than just go on.to soften their positions (任何一方都不肯放弃自己的立场)84. The pills could have cured the cancer patient (本来可以治愈那位癌症病人的), but he85. It is really kind of you to give me so much help（你真好，给了我那么多帮助）；I really feelable to reunite（他们才得以重聚）",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

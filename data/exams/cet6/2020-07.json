@@ -11,7 +11,7 @@
       "type": "writing",
       "title": "Part I Writing",
       "minutes": 30,
-      "directions": "For this part, you are allowed 30 minutes to write an essay on the saying The best preparation for tomorrow is doing your best today. You should write at least 150 words but no more than 200 words.",
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the saying “ The best preparation for tomorrow is doing your best today. \" You should write at least 150 words but no more than 200 words. 请用黑色签字笔在答题卡1 指定区域内作答作文题，在试题册上的作答无效! 请认真填写以下信息: 准考证号： 姓 名:________________________________ 错填、未填以上信息，按违规处理！",
       "prompt": ""
     },
     {
@@ -30,8 +30,17 @@
             "C": "She is a famous scientist.",
             "D": "She is a noted inventor."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "到什么? C）她是著名科学家。 A）她是伟大运动员。 ID）她是知名发明家。 B）她是著名演说家。 【设题要点】人物身份介绍处（Mrs Anna Sanchez is a. . .）。 【答案精析】 A。A 正确概括第 1 段男主持人对安娜·桑切斯的介绍\"三度获得奥运冠军（a thretime Olympic champion）\"。B 由桑切斯对其观点的表达Ⅰargue/believe/said 捏造而来，文中并无相关信息。C 利用碎片信息 science and technology、scientific knowledge 捏造而来，但这些实与桑切斯所著书目的主题\"科技如何助推人类迫近身体极限\"有关，而与其身份无关。D 来自末段 Skis. . went from. . . wood to a mental alloy，但此例是为说明\"科学技术对体育运动的影响\"，与桑切斯无关。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "A) She is a great athlete. B)How nutrition helps athletes' performance in competitions. B) She is a famed speaker. C) She is afamous scientist. C)How scientific training enables at",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q2",
@@ -39,7 +48,7 @@
           "stem": "",
           "options": {
             "A": "How knowledge of human biochemistry has been evolving.",
-            "B": "How nutrition helps athletes' performance in competitions.",
+            "B": "How nutrition helps athletes, performance in competitions.",
             "C": "How scientific training enables athletes to set new records.",
             "D": "How technology has helped athletes to scale new heights."
           },
@@ -56,8 +65,39 @@
             "C": "Our biochemical process.",
             "D": "Our concept of nutrition."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A)Our physicalstructures.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "A)Our physicalstructures.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "It may increase the expenses of sports competitions.",
+            "B": "It may lead to athletes5 over-reliance on equipment.",
+            "C": "It may give an unfair advantage to some athletes.",
+            "D": "It may change the nature of sports competitions."
+          },
+          "answer": "A",
+          "explanation": "1.关于安娜·桑切斯，我们了解到什么? C）她是著名科学家。 A）她是伟大运动员。 ID）她是知名发明家。 B）她是著名演说家。 【设题要点】人物身份介绍处（Mrs Anna Sanchez is a. . .）。 【答案精析】 A。A 正确概括第 1 段男主持人对安娜·桑切斯的介绍\"三度获得奥运冠军（a thretime Olympic champion）\"。B 由桑切斯对其观点的表达Ⅰargue/believe/said 捏造而来，文中并无相关信息。C 利用碎片信息 science and technology、scientific knowledge 捏造而来，但这些实与桑切斯所著书目的主题\"科技如何助推人类迫近身体极限\"有关，而与其身份无关。D 来自末段 Skis. . went from. . . wood to a mental alloy，但此例是为说明\"科学技术对体育运动的影响\"，与桑切斯无关。 2.女士书作的主要话题是什么? C）科学训练如何使运动员创造新纪录。 A）人类生化的相关知识如何进化。 D）技术如何帮助运动员攀登新高峰。 B）营养如何帮助提升运动员的竞赛成绩。 【设题要点】主题引出处（The book is about. . .）。 【答案精析】 ID。D 同义改写第 4 段首句女士所著书目的主题\"科技如何助推人类迫近身体极限\"，其中 scale new heights 同义改写 push. . . to the edge of their physical abilities。其余三项结合碎片信息\"突破极限、 打破记录\"以及第 6 段③句 knowledge. . human biochemistry、nutrition、mechanics 捏造而来，但该书探讨的是（包括人体生化、营养、力学在内的）科学知识对运动水平的影响，而非知识本身的进化，故 A 关注焦点错误， B、C 是对该书主题的窄化。 3.过去几千年间，什么发生了变化? A）我们的身体结构。 C）我们的生化过程。 D）我们的营养观念。 B）我们的科学知识。 【设题要点】对比兼强调处（while. . . what has changed is. . .",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "Q4: What is the man's concern about the use of technology in sports competitions? Q1∶ Anna Sanchez 重读，提示询问有关 Anna Sanchez 的人物信息。 Q2∶woman'sbook 重读，圈定提问对象\"女士的书\";mainly about 降调收尾，限定问题\"女士书作的主题\"。 Q3∶changed 重读，提示询问\"变化之物\"，past thousands of years 放慢语速限定时间范围\"过去几千年间\"。 Q4∶concern 重",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q5",
@@ -69,8 +109,17 @@
             "C": "Family background.",
             "D": "Business connections."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A)Experience.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "A)Experience.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q6",
@@ -95,8 +144,17 @@
             "C": "Investors.",
             "D": "Retailers."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A)Warchouses. C)L. ower import duties. D)Retailers. B)Unique design. B)Factories. D)Lower shipping costs. 【看选项关键词预测问题】",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "A)Warchouses. C)L. ower import duties. D)Retailers. B)Unique design. B)Factories. D)Lower shipping costs. 【看选项关键词预测问题】",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q8",
@@ -108,8 +166,17 @@
             "C": "Lower import duties.",
             "D": "Lower shipping costs."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A) Tredy style. C)Investors.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "A) Tredy style. C)Investors.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q9",
@@ -147,8 +214,17 @@
             "C": "Design and install stress-reducing gadgets.",
             "D": "Strike at the boss doll as hard as they like."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "老板娃娃，只要他们会将其重组。 【设题要点】细节信息说明处（Employeces can. . . as long as they. . .）。 【答案精析】 B。B 语义复现 IV 段末句\"只要之后把（已被拆解的）老板娃娃的胳膊和腿复位，员工就能将老板娃娃拆解\"，其中 resemble 是对 put. . . back in place 的同义表达。其余三项行为均基于原文碎片信息主观捏造而来，A、D 与原文 detachable arms and legs、put its arms and legs back in place 传递的\"拆卸之后要复原\"之意相悖;柯达幽默室内所提供的的减压小玩具已设计安装好，只需使用即可，故排除 C。 四、全文翻译 \"太多人将工作视为五日监禁，每周五被假释出狱。\"\"幽默计划\"（一家位于纽约萨拉托加斯普林斯的幽默咨询集团）的创始人乔尔·古德曼如是说。幽默打开了办公室这座监狱之门，因为它让成年人将自己孩童般的活力带到工作中。 田纳西大学诺克斯维尔分校的心理学教授霍华德·波利奥认为，一间能够提供幽默小憩时光的办公室会是一间内部员工心满意足、工作高效的办公室。波利奥开展的一项研究证明，幽默能帮助员工出色地完成日常工作任务。当员工们开心时，他们的表现会更好。 在权力等级森严的大公司里，员工往往没有释放压. 力的出口。\"每个公司都要有进行自我调侃的私密途径。\"圣路易斯圣玛丽健康中心的职场幽默演讲者琳恩·N·马克说。 柯达纽约罗彻斯特分公司为其 2 万名员工找到了一种发泄内心积怨的办法。他们的幽默室占地面积 1000 平方英尺，玩具店是其主要特色，室内有众多减压小器械，其中最引人注目的是一个胳膊和腿都可以拆卸的老板娃娃。员工们能将该老板娃娃拆解（以泄愤），只要他们之后将其胳膊和腿复位。 某平面印刷制作公司的老板桑迪·科恩创建了一个\"引用板\". 用来记录人们在严苛任务期限下所说的怪诞话语。\"压力之下，你会说一些愚蠢的话。\"科恩说. \"现在，我们只是互相看着对方说，这话是说给'引用板'的\" 淘宝店铺∶光速考研工作室淘宝店铺∶ 光速考研工作室第 13/.56 页第 14／56 页 P",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "11. 柯达的员工在幽默室可以做什么? C）设计和安装减压小工具。 A）砸碎玩具以发泄他们压抑已久的怨恨。 D）想怎么用力就怎么用力地击打老板娃娃。 B）拆解老板娃娃，只要他们会将其重组。 【设题要点】细节信息说明处（Employeces can. . . as long as they. . .）。 【答案精析】 B。B 语义复现 IV 段末句\"只要之后把（已被拆解的）老板娃娃的胳膊和腿复位，员工就能将老板娃娃拆解\"，其中 resemble 是对 put. . . back in place 的同义表达。其余三项行为均基于原文碎",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q12",
@@ -169,7 +245,7 @@
           "stem": "",
           "options": {
             "A": "It renders an organism unable to fight diseases.",
-            "B": "It prevents the mice's fatty tissues from growing.",
+            "B": "It prevents the mice's fotty tissues from growing.",
             "C": "It helps organisms adapt to environmental changes.",
             "D": "It renders mice unable to sense when to stop eating."
           },
@@ -183,7 +259,7 @@
           "options": {
             "A": "Human beings have more obesity genes than most mice do.",
             "B": "Half of a person's total weight variation can be controlled.",
-            "C": "People are born with a tendency to have a certain weight.",
+            "C": "People are bom with a tendency to have a certain weight.",
             "D": "The function of the obesity genes is yet to be explored."
           },
           "answer": null,
@@ -199,34 +275,17 @@
             "C": "The accelerated pace of present-day life.",
             "D": "The adverse impact of the food industry."
           },
-          "answer": null,
-          "explanation": ""
-        },
-        {
-          "id": "q16",
-          "number": 16,
-          "stem": "",
-          "options": {
-            "A": "Similarity in interests.",
-            "B": "Mental stimulation.",
-            "C": "Openness.",
-            "D": "Compassion."
-          },
-          "answer": null,
-          "explanation": ""
-        },
-        {
-          "id": "q17",
-          "number": 17,
-          "stem": "",
-          "options": {
-            "A": "The willingness to offer timely help.",
-            "B": "The joy found in each other\" s company.",
-            "C": "Personal bonds.",
-            "D": "Emotional factors."
-          },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "12.讲话人说什么引起了公众的关注? C）新发现的一种人类减肥方法。 A）关于肥胖小鼠某种变异基因的新近发现。 D）肥胖小鼠某种基因的自我修复能力。 B）在了解基因改造方面的一项突破。 【设题要点】开篇话题引出处（Public interest was aroused by. . .）。 【答案精析】A。A 契合开篇句\"最近在肥胖小鼠身上发现的一种变异基因引起了公众关注\"，recent finding 同义改写 latest discovery。B、D 均利用 gene 干扰，但录音并未提及\"基因改造/自我修复\"。C 将新发现的内容\"肥胖小鼠的某种变异基因\"窜改为\"人类减肥的方法\"。 13.关于这一变异的基因，我们了解到什么? C）它帮助机体适应环境变化。 A）它致使机体无法抵御疾病。 D）它致使小鼠感知不到该何时停止进食。 B）它阻止小鼠的脂肪组织生长。 【设题要点】细节信息说明处（Those with the changed gene. . .）。 【答案精析】 D。D 契合 I 段末句\"发生基因变异的小鼠感知不到自己什么时候吃饱或者是否已拥有足够的脂肪组织，因此无法判断该什么时候停止进食\"。A、C 利用 organism 干扰，但录音并未提及\"疾病/环境变化\"。 B 将变异基因的影响\"致使小鼠感知不到自己是否已拥有足够的脂肪组织\"窜改为\"阻止脂肪组织生长\"。 14.佛蒙特大学心理学家埃丝特 · 罗思布鲁姆说了什么? C）人生来就倾向于有特定的体重。 A）人类比大多数鼠类拥有更多肥胖基因。 D）肥胖基因的功能尚待探究。 B）人的体重差异有一半可控。 【设题要点】人物观点引出处（University of Vermont psychologist Esther Rothblum reacted. .）。 「答案精析】 C。C 同义复现Ⅱ段末句\"这项研究表明，人确实生来就倾向于有着特定的体重（即基因某种程度上决定体重）\"。其余三项张冠李戴，均非 Esther Rothblum 所言。具体来看，A 将研究人员的发现\"人类拥有一种与小鼠肥胖基因几乎相同的基因\"窜改为\"人类拥有的肥胖基因比小鼠多\";B 是基于行为遗",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "Q15: What accounts for Americans'obesity acording toa survey by the Center for Disease Control? Q12∶ publicinterest 重读，提示询问\"引起公众关注之事\"。 Q13∶ changed gene 重读，提示询问\"变异的基因\"相关信息。 Q14∶ Esther Rothblum 重读，锁定观点的来源。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q18",
@@ -235,11 +294,20 @@
           "options": {
             "A": "Failure to keep a promise.",
             "B": "Lack of frankness.",
-            "C": "Feelings of betrayal.",
-            "D": "Loss of contact."
+            "C": "Openness.",
+            "D": "Compassion."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "】C。V 段①②句指出，不少友谊因为激烈的竞争和感受到背叛（felings of betrayal）而瓦解，这在淘宝店铺∶光速考研工作室淘宝店铺∶光速考研工作室第 19 /56 页第 20／56 页男性和女性身上都有发生（applies to both men and women），可知 C 正确。A、D 均利用常识设障（未能信守承诺导致朋友失望、失去联络导致友谊终结），但文中并未提及。B 通过 V 段④句\"男性的友谊也同样受到其他两个因素的困扰∶不够坦率、担心显得没有男子气概\"设置干扰，但\"不够坦率\"并不对女性的友谊构成威胁。 四、全文翻译一段关系的品质，诸如坦率、同情、精神激励，对我们大多数人而言都至关重要，无关乎性别。但是，从问卷调查结果来看，女性比男性更看重这些品质。 当被要求评估亲密友谊的要素时，女性把这些品质列于其他一切品质之上。 男性则将这些品质排得较低，他们更看重的是∶兴趣相似性（被 77??男性受访者选择）以及危机响应力（被 61??男性受访者选择）。 精神激励在男性和女性群体中均排名第三，这是唯—重普的区域。男性中，只有 28??受访者认为坦率是重要的品质;为他人着想则仅被 23??受访者选择。 他们的选择表明，当女性言及亲密友谊时，指的是情感因素，而男性则强调他们与友为伴时所获得的乐趣。也就是说，当男性说到\"朋友\"时，可能指的是与他一起做事的人——队友、兴趣相投者、酒友。这些活动是友谊的基本架构;这是一种\"共事\"的友谊，兴趣相似性是维持友谊的关键纽带。而考虑这一因素的女性占比却不到 11??她们选择的是可以畅所欲言的温暖、感性氛，围，活动（对她们而言）纯属虚设。 最后，正如我们看到的，男性对彼此的忠诚抱有很大的疑问。也许，这正是他们如此强调危机响应力的原因——某个我能寻求帮助的人\"。而正如其选择所表明的，女性通常对彼此更有安全感，因此也更可能轻松面对危机。在后续采访中，这一点得到多次证实，一位又一位女性表示∶\"在需要时出现是理所当然的。\" 至于友谊的威胁，不少友谊因为激烈的竞争和感受到",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "riendship 重读，提示本题询问对友谊的某种威胁;men and women 重读且凸显 and，强调询问内容涵盖男女，听时注意过滤差异，提取共性。 三、试题精解 16.根据一项问卷调查结果，男性在友谊中最看重的品质是什么? C）坦率。 A）兴趣相似性。 B）精神激励。 D）同情。 【设题要点】对比引出新信息处（Men assigned a lower priority to them in favor of. . .）。 【答案精析】A。Ⅱ段②句先承接①句，指出 Men assigned alower priority to them. 其中 them 指代女性更看重的\"坦率、同情、精神激励\"，而 l",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q19",
@@ -248,11 +316,20 @@
           "options": {
             "A": "Along the low-lying Colorado River.",
             "B": "At the Dinosaur National Monument.",
-            "C": "Along the border of the U. S. and Canada.",
+            "C": "Along the border of the U.S. and Canada.",
             "D": "At museums of natural history in large cities."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "】 ID。D 正确概括Ⅰ段②句信息\"其中许多最好的标本如今或许能在美国和加拿大大城市的自然历史博物馆里看到\"。A 将首段①句\"科罗拉多州\"窜改为\"科罗拉多河\"，且该句是在指出\"美国国立恐龙公园的所在地/大量恐龙标本的发现地\"，而非题目所问的\"上好的恐龙标本存放地\"。B 利用③句 best. . . 干扰， 但这里是在指出\"国立恐龙公园是保存最完好的恐龙化石出土处\"，而非题目所问的\"最佳标本存放处\"。C 将 ②句\"美国和加拿大的大城市\"窜改为\"沿着美国和加拿大的边界\"。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "北美哪里可以找到上好的恐龙标本? C）沿着美国和加拿大的边界。 A）沿着地势低洼的科罗拉多河。 D）在大城市的自然历史博物馆里。 B）在国立恐龙公园里。 【设题要点】细节信息汇集处（in. . . Colorado. . . Dinosaur National Monument. . at museums. . . in the larger cities of the United States and Canada) 【答案精析】 ID。D 正确概括Ⅰ段②句信息\"其中许多",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q20",
@@ -261,7 +338,7 @@
           "options": {
             "A": "Volcanic explosions could bring whole animal species to extinction.",
             "B": "Some natural disaster killed a whole herd of dinosaurs in the area.",
-            "C": "The pit should be carefully preserved for the study of dinosaurs.",
+            "C": "The pit should be carefully preserved fbr the study of dinosaurs.",
             "D": "The whole region must have been struck by a devastating flood."
           },
           "answer": null,
@@ -273,12 +350,21 @@
           "stem": "",
           "options": {
             "A": "They floated down an eastward flowing river.",
-            "B": "They lay buried deep in the sand for millions of years.",
+            "B": "They lay buried deep in the sand fbr millions of years.",
             "C": "They were skeletons of dinosaurs inhabiting the locality.",
             "D": "They were remains of dinosaurs killed in a volcanic explosion."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "19.北美哪里可以找到上好的恐龙标本? C）沿着美国和加拿大的边界。 A）沿着地势低洼的科罗拉多河。 D）在大城市的自然历史博物馆里。 B）在国立恐龙公园里。 【设题要点】细节信息汇集处（in. . . Colorado. . . Dinosaur National Monument. . at museums. . . in the larger cities of the United States and Canada) 【答案精析】 ID。D 正确概括Ⅰ段②句信息\"其中许多最好的标本如今或许能在美国和加拿大大城市的自然历史博物馆里看到\"。A 将首段①句\"科罗拉多州\"窜改为\"科罗拉多河\"，且该句是在指出\"美国国立恐龙公园的所在地/大量恐龙标本的发现地\"，而非题目所问的\"上好的恐龙标本存放地\"。B 利用③句 best. . . 干扰， 但这里是在指出\"国立恐龙公园是保存最完好的恐龙化石出土处\"，而非题目所问的\"最佳标本存放处\"。C 将 ②句\"美国和加拿大的大城市\"窜改为\"沿着美国和加拿大的边界\"。 20.大多数人看到坑壁中的大量骨骼时会想到什么? C）为了恐龙研究，这个（恐龙）坑需要精心保护。 A）火山爆发可能导致了整个动物物种的灭绝。 B）某一自然灾害导致了这一地区的整个恐龙群的灭亡。D）整个地区一定遭受了毁灭性的洪水袭击。 【设题要点】人物观点处（Many people get the idea. . . some disaster. . . killed a whole herd of dinosaurs in this area. ) 【答案精析】 B。B 准确概括Ⅱ段①句信息\"许多人看到坑壁中的大量骨头会产生一种观点∶火山爆发或洪水突发等某种灾害导致了这一地区的整个恐龙群的灭亡\"。A 将火山爆发可能\"导致了这一地区整个恐龙群的灭亡（killed a whole herd of dinosaurs in this area）\"夸大为\"导致了整个动物物种的灭绝\"。C 利用惯常情形\"看到如此大量的珍贵恐龙遗骸，便自然想到要对其进行精心保护\"设置干扰，但录音中并未提及。D 将\"可能情形\"当作\"必然情形\"，且未能",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "of dinosaur bones 重读后微顿，found. . . pit 重读，共同提示询问对象\"坑中发现的大量恐龙骨骼\"。 三、试题精解 19.北美哪里可以找到上好的恐龙标本? C）沿着美国和加拿大的边界。 A）沿着地势低洼的科罗拉多河。 D）在大城市的自然历史博物馆里。 B）在国立恐龙公园里。 【设题要点】细节信息汇集处（in. . . Colorado. . . Dinosaur National Monument. . at museums. . . in the larger cities of the United States and Canada) 【答案精析】 ID。D 正确概括Ⅰ段②句信息\"其中许多",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q22",
@@ -287,7 +373,7 @@
           "options": {
             "A": "Indulging in seeking leisure and material comfort.",
             "B": "Attaching too much importance to independence.",
-            "C": "Failing to care for parents in the traditional way.",
+            "C": "Failing to care fbr parents in the traditional way.",
             "D": "Leaving their parents on the verge of starvation."
           },
           "answer": null,
@@ -300,7 +386,7 @@
           "options": {
             "A": "They have great difficulty living by themselves.",
             "B": "They have little hope of getting any family care.",
-            "C": "They have fond memories of their good old days.",
+            "C": "They have fbnd memories of their good old days.",
             "D": "They have a sense of independence and autonomy."
           },
           "answer": null,
@@ -311,7 +397,7 @@
           "number": 24,
           "stem": "",
           "options": {
-            "A": "People in many parts of the world preferred small-size families.",
+            "A": "People in many parts of the world preferred small-sized families.",
             "B": "There have been extended families in most parts of the world.",
             "C": "Many elderly people were unwilling to take care of their grandchildren.",
             "D": "So many young Americans refused to live together with their parents."
@@ -327,10 +413,19 @@
             "A": "Leave their younger generations alone.",
             "B": "Avoid being a burden to their children.",
             "C": "Stay healthy by engaging in joyful activities.",
-            "D": "View things from their children\" s perspective."
+            "D": "View things from their children' s perspective."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "22.美国年轻人受到了什么指责? C）未能遵循传统方式来照顾父母。 A）沉迷于追求娱乐与物质享受。 D）任凭其父母濒临饿死。 B）过度看重独立性。 【设题要点】新信息引出处（Young people in this country have been accused of. . .）。 【答案精析】 C。题干＋C 同义复现Ⅱ段首句美国年轻人被谴责的行为∶不会像过去的年轻人那样关心照料父母。A 由首段 new style. . . in our own society 与社会常见报道\"年轻人不再节俭、追求享乐\"捏造，而录音中并未提及。B 将Ⅱ段③句中\"深受独立观念影响\"的主体由老年人偷换为年轻人;D 将Ⅱ段④句\"老年人濒临饿死\"这一种可能出现的情况窜改为普遍事实，此外，B、D 也非年轻人受指责的原因。 23.关于美国老年人，讲话人说了什么? A）他们无法独自一人生活。 C）他们十分怀念美好的过去。 D）他们拥有独立、自主的意识。 B）他们几乎没有希望获得任何家人照顾。 【设题要点】转折强调处（But it is also true that old people. . . So we. . .）。 【答案精析】 D。D 契合Ⅱ段③④句\"老年人一直以来都深受独立自主这一理想标准的影响，因此选择独自生活，尽管可能濒临饿死、缺乏朋友，但至少自己是独立的\"。A 将\"濒临饿死\"这一种可能情况（perhaps） 窜改为普遍事实（have great difficulty），且与Ⅱ段末句中 but 后所强调语义\"至少我们（即老年人）是独立的\" 相悖。B 将首句\"子女对父母的照顾较过去有所减弱\"绝对化为\"所有家人对老年人都几乎不提供任何照顾\"。C 则利用当下个别老年人\"濒临饿死/没有朋友\"的悲惨境遇捏造录音中未提及的\"老年人怀念美好过往\" 24.对接受讲话人采访的年轻妈妈来说，令人震惊的是什么? C）许多老人不愿意照顾其孙子孙女。 A）世界上许多地方的人们都偏好小型家庭。 B）世界上大多数地方都存在大型家庭。 D）有那么多美国年轻人拒绝与父母住一起。 设题要点】人物感受表明处（They are astonished t",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "\"被采访的年轻妈妈们\"。 Q25∶ What 升调、say 重读停顿，凸显问题类型\"细节匹配\";older people 升调、best to do 重读，锁定考查，点\"老年人竭尽全力要做的事\"。 三、试题精解 22.美国年轻人受到了什么指责? C）未能遵循传统方式来照顾父母。 A）沉迷于追求娱乐与物质享受。 D）任凭其父母濒临饿死。 B）过度看重独立性。 【设题要点】新信息引出处（Young people in this country have been accused of. . .）。 【答案精析】 C。题干＋C 同义复现Ⅱ段首句美国年轻人被谴责的行为∶不会像过去的年轻人那样关心照料父母。A 由首",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -338,13 +433,21 @@
       "id": "reading-banked",
       "type": "banked-cloze",
       "title": "Section A · 选词填空",
-      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to\nselect one word for each blank from a list of choices given in a word bank\nfollowing the passage. Read the passage through carefully before making\nyour choices. Each choice in the bank is identified by a letter. Please\nmark the corresponding letter for each item on Answer Sheet 2 with a\nsingle line through the centre. You may not use any of the words in the\nbank more than once.\nQuestions 26 to 35 are based on the following passage.\nThe United Nations issued a report last week warning that humans are destroying\nnature at such a rate that life on Earth is at risk. When the report came out, it naturally\n\nheadlines. But obviously it didn’t hijack the news agenda in the manner of a\nmajor terrorist attack or\n\nof war.\nThe report from the Intergovernmental Science-Policy Platform on Biodiversity\nand Ecosystem Services (IPBES ) is clear on what's at\n\nand what needs to\nchange. IPBES chair Robert Watson says the “\n\nevidence” an presents\n“ ominous (凶兆的) picture” . “The health of ecosystems on which we and all other\nspecies depend is\n\nmore rapidly than ever, ” Robert Watson said. We are\n\nthe very foundations of our economies , live-lihoods ,food security , health and quality\nof life worldwide. '' The report says it\"s not too late if we make\" transformative\nchange” 一fundamental, system-wide reorganization — at every level from local\nto global , and we need to focus on how to make that happen.\nFirst , don't indulge in despair , because despair leads to inertia and doing\nnothing means certain\n\n. Every action to save nature will improve our collective\nand personal futures and the only way to respond to a threat of this scale is with\n\naction rooted in headstrong optimism- Second , we need relentless focus , just like\nwhen paramedics ( 救护人员) arrive on a scene and use the concept of triage(伤员\n鉴别分类)\"to ensure the most\n\ncases get treated first. Saving the natural world\nneeds that kind of thinking. We don't have the\n\nto do everything at once . We\n\nneed to make hard choices.\nA ) capacity\nB ) declaration\nC ) deteriorating\nD ) determined\nE ) disaster\nF ) eroding\nG) grabbed\nH ) inventory\nI ) junction\nJ ) monotonous",
+      "passage": "Directions ：\n In this section, there is a passage with ten blanks. You are required to select one word for\neach blank from a list of choices given in a word bank following the passage. Read the\npassage through carefully before making your choices. Each choice in the bank is identified\nby a letter. Please mark the corresponding letter for each item on Answ er Sheet 2 with a\nsingle line through the centre. You may not use any of the words in the bank more than\nonce.\nThe United Nations issued a report last week warning that humans are destroying nature at such\na rate that life on Earth is at risk. When the report came out, it naturally \n\nheadlines. But\nobviously it didn't hijack the news agenda in the manner of a major terrorist attack or \n\nof war.\n6 ・\n\nThe report from the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem\nServices (IPBES) is clear on whafs at \n\nand what needs to change. IPBES chair Robert Watson\nsays the \" \n\nevidence\" presents an 11 ominous ( 凶兆的)p ic tu r e u The health of ecosystems on\nwhich we and all other species depend is \n\nmore rapidly than ever,\" Robert Watson said, \"We\nare \n\nthe very foundations of our economies, livelihoods, food security, health and quality of\nlife worldwide/' The report says ifs not too late if we make u transformative changev - fundamental,\nsystem-wide reorganization- at every level from local to global, and we need to focus on how to\nmake that happen.\nFirst, don5t indulge in despair, because despair leads to inertia and doing nothing means certain\n\n. Every action to save nature will improve our collective and personal futures and the only\nway to respond to a threat of this scale is with \n\naction rooted in headstrong optimism. Second,\nwe need relentless fbcus, just like when paramedics (救护人员)arrive on a scene and use the concept\nof u triage (伤员鉴别分类)“to ensure the most \n\ncases get treated first. Saving the natural\nworld needs that kind of thinking. We don't have the \n\nto do everything at once. We need to\nmake hard choices.",
       "wordBank": {
+        "A": "capacity",
+        "I": "junction",
+        "B": "declaration",
+        "J": "monotonous",
+        "C": "deteriorating",
         "K": "overwhelming",
+        "D": "determined",
         "L": "stagnation",
+        "E": "disaster",
         "M": "stake",
+        "F": "eroding",
         "N": "stifled",
-        "O": "urgent"
+        "G": "grabbed"
       },
       "questions": [
         {
@@ -392,20 +495,47 @@
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "决环境威胁的唯一方法。空格词应体现积极正向的色彩，且呼应 the only way（唯一方法）、a threat of this scale（如此大规模的威胁）以及 headstrong optimism（顽强的乐观主义）所体现的\"任务艰巨性/行动必要性/坚决性\"，D 正确。 【点拨技巧】借助因果关联词明确逻辑链条。末段①②句借助多个显性/隐性因果关联词（because、leads to、 means、will、the only way to）构建两条逻辑链∶1．陷入绝望→懒惰/不作为→ 32 ;2.采取 33 行动→应对当前巨大的环境威胁 &. 改善人类未来。两条逻辑链恰为正反论证，表达同一语义，由此可明确两空答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "答案∶ D）determined 【确定词性】空格所在分句主干为\"the only way（主语）＋is（系动词）＋ with 33 action（介宾结构作表语）\"，空格词应作名词 action 的修饰成分，可能为名词、形容词、ed 分词、ing 分词。 【锁定答案】空格所在句指出，采取行动拯救自然会改善人类的未来，采取根植于顽强乐观，主义的行动是解决环境威胁",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "释∶就像救护人员抵达现场后会采用\"伤员鉴别分类\"概念来确保最____病例最先得到治疗。结合常识、relentless focus 的大概含义，以及句子逻辑可推知类比解释关系∶救护人员要确保最紧急的/严重的病例最先得到治疗→拯救自然也需要类似的\"残忍聚焦;虽然都亟待处理. 但还是必须要做出艰难的抉择，先处理最为紧急的事情\"。正确。 35.答案∶A） capacity 【确定词性】空格前为 We don't have the，空格后为不定式 to do everything. . . ，可推知空格词应为名词， 与 the 共作 have 的宾语。 【锁定答案】空格句及前后句三句一体，指出拯救自然界需要这种思维（残酷聚焦∶确保最紧急的事情先处理）;我们没有来同时做所有的事情;我们需要做出艰难的抉择。可见，作者是在呼吁人们在能力/精力/资源有限的情况下要做出取舍，率先解决最紧急的事情，A 正确。 Section B 儿童理解他人心理的能力长期被严重低估一、总体分析本文选自 The Conversation 新闻网站 2017 年 3 月 22 日文章 Children understand far more about other minds than long believed（儿童理解他人心理的能力长期被严重低估）。文章聚焦幼儿思维研究领域的理论进展，介绍皮亚杰的经典理论\"儿童自我中心论\"如何低估幼儿的思维能力，后世学者又如何利用创新的研究方法颠覆经典，为幼儿的思维能力正名。 淘宝店铺∶光速考研工作室淘宝店铺∶光速考研工作室第 32/56 页第 33／56 页二、试题分析试题定位词核心义皮亚杰对幼儿的看法∶他们 [1] could not collaborate with 36.Piaget believed that small children could not 玩耍时无法协作。 others while paying collaborate with others while playing. his [1] The author 37.The author and his col",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "ntless focus 的大概含义，以及句子逻辑可推知类比解释关系∶救护人员要确保最紧急的/严重的病例最先得到治疗→拯救自然也需要类似的\"残忍聚焦;虽然都亟待处理. 但还是必须要做出艰难的抉择，先处理最为紧急的事情\"。正确。 35.答案∶A） capacity 【确定词性】空格前为 We don't have the，空格后为不定式 to do everything. . . ，可推知空格词应为名词， 与 the 共作 have 的宾语。 【锁定答案】空格句及前后句三句一体，指出拯救自然界需要这种思维（残酷聚焦∶确保最紧急的事情先处理）;我们没有来同时做所有的事情;我们需要做出艰难的抉择。可见，作者是在呼吁",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "决最紧急的事情，A 正确。 Section B 儿童理解他人心理的能力长期被严重低估一、总体分析本文选自 The Conversation 新闻网站 2017 年 3 月 22 日文章 Children understand far more about other minds than long believed（儿童理解他人心理的能力长期被严重低估）。文章聚焦幼儿思维研究领域的理论进展，介绍皮亚杰的经典理论\"儿童自我中心论\"如何低估幼儿的思维能力，后世学者又如何利用创新的研究方法颠覆经典，为幼儿的思维能力正名。 淘宝店铺∶光速考研工作室淘宝店铺∶光速考研工作室第 32/56 页第 33／56 页二、试题分析试题定位词核心义皮亚杰对幼儿的看法∶他们 [1] could not collaborate with",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "答案∶A） capacity 【确定词性】空格前为 We don't have the，空格后为不定式 to do everything. . . ，可推知空格词应为名词， 与 the 共作 have 的宾语。 【锁定答案】空格句及前后句三句一体，指出拯救自然界需要这种思维（残酷聚焦∶确保最紧急的事情先处理）;我们没有来同时做所有的事情;我们需要做出艰难的抉择。可见，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -413,77 +543,158 @@
       "id": "reading-matching",
       "type": "matching",
       "title": "Section B · 段落匹配",
-      "paragraphs": [],
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Until a few decades ago, scholars believed that young children know very little, if anything, about\nwhat others are thinking. Swiss psychologist Jean Piaget, who is credited with founding the\nscientific study of children's thinking, was convinced that preschool children cannot consider what\ngoes on in the minds of others. The interviews and experiments he conducted with kids in the\nmiddle of the 20th century suggested that they were trapped in their subjective viewpoints,\n6 ・ 5\n\nincapable of imagining what others think, feel or believe."
+        },
+        {
+          "label": "B",
+          "text": "Much of the subsequent research on early childhood thinking was highly influenced by Piagefs\nideas. Scholars sought to refine his theory and empirically confirm his views. But it became\nincreasingly clear that Piaget seemed to have gravely underestimated the intellectual powers of\nvery young kids before they can make themselves understood by speech. Researchers began to\ndevise ever more ingenious ways of figuring out what goes on in the minds of babies, and the\nresulting picture of their abilities shows subtle variations. Consequently, the old view of children's\negocentric ( 自我中心的)nature and intellectual weaknesses has increasingly fallen out of favor\nand become replaced by a more generous position that sees a budding sense not only of the\nphysical world but also of other minds, even in the u youngest young.”"
+        },
+        {
+          "label": "C",
+          "text": "Historically, children didn't receive much respect for their mental powers. Piaget not only believed\nthat children were “egocentric“ in the sense that they were unable to differentiate between their\nown viewpoint and that of others; he was also convinced that their thinking was characterized by\nsystematic errors and confusions. When playing with others, they don't cooperate because they do\nnot realize there are different roles and perspectives. He was convinced that children literally\ncannot “ get their act together\": instead of playing cooperatively and truly together, they play side\nby side, with little regard fbr others. And when speaking with others, a young child supposedly\ncannot consider the listener's viewpoint but 14 talks to himself without listening to others/,"
+        },
+        {
+          "label": "D",
+          "text": "Piaget and his followers maintained that children go through something like a dark age of\nintellectual development before slowly and gradually becoming enlightened by reason and\nrationality as they reach school age. Alongside this enlightenment develops an ever growing\nunderstanding of other persons, including their attitudes and views of the world."
+        },
+        {
+          "label": "E",
+          "text": "Today, a very different picture of children's mental development emerges. Psychologists\ncontinually reveal new insights into the depth of young children's knowledge of the world,\nincluding their understanding of other minds. Recent studies suggest that even infants are\nsensitive to others, perspectives and beliefs."
+        },
+        {
+          "label": "F",
+          "text": "Part of the motivation to revise some of Piagefs conclusions stemmed from an ideological shift\nabout the origin of human knowledge that occurred in the second half of the 20th century. It\nbecame increasingly unpopular to assume that a basic understanding of the world can be built\nentirely from experience. This was in part prompted by theorist Noam Chomsky, who argued that\nsomething as complex as the rules of grammar cannot be picked up from exposure to speech, but\nis supplied by an inborn u language faculty.n Others followed suit and defined further “core areas\"\nin which knowledge allegedly cannot be pieced together from experience but must be possessed at\nbirth. One such area is our knowledge of others, minds. Some even argue that a basic knowledge\nof others, minds is not only possessed by human infants, but must be evolutionarily old and hence\n6 , 6\n\nshared by our nearest living relatives, the great apes."
+        },
+        {
+          "label": "G",
+          "text": "To prove that infants know more in this realm than had been acknowledged, researchers needed to\ncome up with innovative ways of showing it. A big part of why we now recognize so much more\nof kids' intellectual capacities is the development of much more sensitive research tools than\nPiaget had at his disposal."
+        },
+        {
+          "label": "H",
+          "text": "Instead of engaging babies in dialog or having them execute complex motor tasks, the newer\nmethods capitalize on behaviors that have a firm place in infants, natural behavior repertoire:\nlooking, listening, sucking, making facial expressions, gestures and simple manual actions. The\nidea of focusing on these u small behaviorsn is that they give kids the chance to demonstrate their\nknowledge implicitly and spontaneously without having to respond to questions or instructions.\nFor example, children might look longer at an event that they did not expect to happen, or they\nmight show facial expressions indicating that they have sympathetic concern for others. When\nresearchers measure these less demanding, and often involuntary, behaviors, they can detect a\nsensitivity to others5 mental states at a much younger age than with the more taxing methods that\nPiaget and his followers deployed."
+        },
+        {
+          "label": "I",
+          "text": "In the 1980s, these kinds of implicit measures became customary in developmental psychology. But\nit took a while longer before these tools were employed to measure children's grasp of the mental\nlives of others."
+        },
+        {
+          "label": "J",
+          "text": "In a set of experiments, my colleagues at the University of Southern California and I found\nevidence that babies can even anticipate how others will feel when their expectations are\ndisappointed. We acted out several puppet (木d禺)shows in front of two-year-old children. In these\npuppet shows, a protagonist (Cookie Monster) left his precious belongings (cookies) on stage and\nlater returned to fetch them. What the protagonist did not know was that an antagonist had come\nand messed with his possessions. The children had witnessed these acts and attentively watched the\nprotagonist return. We recorded children's facial and bodily expressions. Children bit their lips,\nwrinkled their nose or wiggled (扭动)in their chair when the protagonist came back, as if they\nanticipated the bewilderment and disappointment he was about to experience. Importantly, children\nshowed no such reactions and remained calm when the protagonist had seen the events himself and\nthus knew what to expect. Our study reveals that by the tender age of two, kids not only track\nwhat others believe or expect; they can even foresee how others will feel when they discover\nreality."
+        },
+        {
+          "label": "K",
+          "text": "Studies like this reveal that there is much more going on in small kids' and even infants' minds\nthan was previously believed. With the explicit measures used by Piaget and successors, these\ndeeper layers of kids' understanding cannot be accessed. The new investigative tools demonstrate\nthat kids know more than they can say: when we scratch beneath the surface, we find an emerging\n6 ・ 7\n\nunderstanding of relations and perspectives that Piaget probably did not dream of.\nL) Despite these obvious advances in the study of young children's thinking, it would be a grave\nmistake to dismiss the careful and systematic analyses compiled by Piaget and others before the\nnew tests dominated the scene because the original methods revealed essential facts about how\nchildren think that the new methods cannot uncover.\nM) There's no consensus in today's science community about how much we can infer from a look, a\nfacial expression or a hand gesture. These behaviors clearly indicate a curiosity about what goes\non in the mind of others, and probably a set of early intuitions coupled with a willingness to learn\nmore. They pave the way to richer and more explicit forms of understanding of the minds of\nothers. But they can in no way replace the child,s growing ability to articulate and refine her\nunderstanding of how people behave and why."
+        }
+      ],
       "questions": [
         {
           "id": "q36",
           "number": 36,
-          "stem": "Piaget believed that small children could not collaborate with others while\nplaying.",
-          "answer": null,
-          "explanation": ""
+          "stem": "Piaget believed that small children could not collaborate with others while playing.",
+          "answer": "C",
+          "explanation": "】③）④句呈现皮亚杰对幼儿玩耍行为的观察\"他们不会相互协作，而是各玩各的，因为他们意识不到玩耍时别人的视角和角色与自己不同\"，试题是对两句内容的提取及改写。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "皮亚杰认为幼儿在玩耍时不能相互协作。 「答案 C「精解】③）④句呈现皮亚杰对幼儿玩耍行为的观察\"他们不会相互协作，而是各玩各的，因为他们意识不到玩耍时别人的视角和角色与自己不同\"，试题是对两句内容的提取及改写。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
           "number": 37,
-          "stem": "The author and his colleagues’ study shows two-year-old may be able to\npredict other people's feelings.",
+          "stem": "The author and his colleagues, study shows two-year-olds may be able to predict other people's\nfeelings.",
           "answer": null,
           "explanation": ""
         },
         {
           "id": "q38",
           "number": 38,
-          "stem": "In the latter half of the last century , fewer and fewer people believed the\nbasis for our understanding of the world is wholly empirical.",
+          "stem": "In the latter half of the last century, fewer and fewer people believed the basis for our\nunderstanding of the world is wholly empirical.",
           "answer": null,
           "explanation": ""
         },
         {
           "id": "q39",
           "number": 39,
-          "stem": "Research conducted by Jean Piaget in the last century suggested babies were\ninsensitive to others\" thinking.",
-          "answer": null,
-          "explanation": ""
+          "stem": "Research conducted by Jean Piaget in the last century suggested babies were insensitive to others5\nthinking.",
+          "answer": "A",
+          "explanation": "】 ③句提及皮亚杰在 20 世纪中期的研究发现\"儿童无法设想他人的想法、感受及观念\"，试题是对该句的提取及转述，其中 babies 为 kids 的下义词。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "让·皮亚杰在上个世纪所做的研究表明，幼儿对他人的所思所想不敏感。 【答案】 A 【精解】 ③句提及皮亚杰在 20 世纪中期的研究发现\"儿童无法设想他人的想法、感受及观念\"，试题是对该句的提取及转述，其中 babies 为 kids 的下义词。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q40",
           "number": 40,
-          "stem": "Our improved understanding of babies' intellectual power is attributable to\nbetter research tools.",
+          "stem": "Our improved understanding of babies' intellectual power is attributable to better research tools.",
           "answer": null,
           "explanation": ""
         },
         {
           "id": "q41",
           "number": 41,
-          "stem": "It has been found in recent research that even small babies are sensitive to\nother people's points of view.",
+          "stem": "It has been fbund in recent research that even small babies are sensitive to other people's points of view.",
           "answer": null,
           "explanation": ""
         },
         {
           "id": "q42",
           "number": 42,
-          "stem": "Scientists are still debating what inference can be drawn from certain\nphysical expressions of a child.",
+          "stem": "Scientists are still debating what inference can be drawn from certain physical expressions of a\nchild.",
           "answer": null,
           "explanation": ""
         },
         {
           "id": "q43",
           "number": 43,
-          "stem": "The newer research methods focus on infants' simple behaviors instead of\nrequiring them to answer questions.",
+          "stem": "The newer research methods fbcus on infants5 simple behaviors instead of requiring them to\nanswer questions.",
           "answer": null,
           "explanation": ""
         },
         {
           "id": "q44",
           "number": 44,
-          "stem": "With the progress in psychology , the traditional view of children’s\nself-centered nature and limited thinking abilities has become less and less influential",
-          "answer": null,
-          "explanation": ""
+          "stem": "With the progress in psychology, the traditional view of children's self-centered nature and limited\nthinking abilities has become less and less influential.",
+          "answer": "B",
+          "explanation": "】①句指出皮亚杰的\"儿童自我中心论\"最初对学界影响极大（subsequent 指代皮亚杰学说建立后紧接着进行的研究），②至④句描述后世心理学者如何逐步另立门户\"发现皮亚杰低估了儿童智力，采用新的方法评估，得出不同发现\"，⑤句指出这种进步的最终结果\"导致'儿童自我中心论'日渐失宠\"。 试题是对上述因果关系的归纳概括，其中 progress in psychology 对应②至④句后世学者循序渐进的研究进程，With（后接原因）呼应 Consequently。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+            "sourceText": "由于心理学的发展，\"儿童天生以自我为中心、思维能力有限\"这一传统观点的影响力越来越小。 【答案】B 【精解】①句指出皮亚杰的\"儿童自我中心论\"最初对学界影响极大（subsequent 指代皮亚杰学说建立后紧接着进行的研究），②至④句描述后世心理学者如何逐步另立门户\"发现皮亚杰低估了儿童智力，采用新的方法评估，得出不同发现\"，⑤句指出这种进步的最终结果\"导致'儿童自我中心论'日渐失宠\"。 试题是对上述因果关系的归纳概括，其中 progress i",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q45",
           "number": 45,
-          "stem": "Even though marked advances have been made ? it is wrong to dismiss\nPiaget's fundamental contributions to the study of kids' cognitive abilities.",
-          "answer": null,
-          "explanation": ""
+          "stem": "Even though marked advances have been made, it is wrong to dismiss Piagefs fundamental\ncontributions to the study of kids' cognitive abilities.\n6 ・ 8",
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020年7月英语六级试题和答案解析.txt",
+            "sourceText": "@B):, 45-@:8@+E*/, +0+*, 4GG*/0)*+/, 08>*@0, , 41+001*+, 0)*:6@4B, 08>:+@. -0-04& 8@+E*/, +0:/*5-+@, -7/+11+-@0+@E*, 05*@0,7,3&9*\"+/\"3M$-, )#3)3*$%&35'(08>:+@. -08@+E*/, +0: B+114@1: 7*345*1*, , -00",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -494,7 +705,7 @@
       "passages": [
         {
           "label": "Passage One",
-          "text": "Questions 46 to 50 are based on the following passage.\nPeople often discuss the dangers of too much stress , but lately a very different\nview of stress is gaining popularity: this view of stress , held by members of the\npositive stress movement , argues that stress might actually be beneficial The positive\nstress movement is made up of people such as Zachary Rapp who are looking for an\nedge in a competitive world, and Rapp's routine is a good example of followers of the\nmovement. He wakes up most mornings at dawn, goes for a run, sips black coffee\nwhile ripping through emails, and then steps into a freezing cold shower. This is a\nroutine designed to reduce the stress of running simultaneously three different health\nand biotechnology companies for 18 hours a day.\nAlthough Rapp's practices may sound extreme, he is part of a growing movement,\nconsisting largely of tech industry workers who claim that such radical tactics will\nhelp them live better and longer. Inspired by influential figures in different fields,\nincluding\nentertainers,\nathletes,\nentrepreneurs\nand\nscientists,\npositive\nstress\npractitioners seek out some combination of extreme temperatures, restrictive diets,\npunishing exercise routines and general discomfort.\nRapp argues that positive stress keeps him balanced. In addition to running and\nfreezing showers, Rapp uses ice baths, hot yoga, and unconventional eating practices\nsuch as climinating dairy , sugar , alcohol and various other foods high in\ncarbohydrates . He believes that these practices? which put stress on his body, actually\nmake him feel less stress from work. However, Rapp does not credit anyone in\n\nparticular for his choices: he said he started using these methods in college 7 where he\ngot into the habit of taking ice baths to recover from sports. He got back into it while\ntrying to get his three companies off the ground.\nRapp works long hours and sleeps only five to seven hours a night but he said he\nonly gets sick once a year. For him, the difference between day-to-day stress, like the\nkind we feel when moving apartments, and positive stress is that the latter involves\npushing the body to extremes and forcing it to build up a tolerance.\nOne thought leader in the positive stress world is Dutch extreme athlete Wim\nHof, who earned the name\" ice man\" for his ability to withstand severe cold using\ndeep breathing exercises. Hof's ideas have become popular among tech industry elites\nand, thanks to Hof, cold showers are now a trend ; indeed , some even call it a form of\ntherapy.\nBut it is important to note that not everyone agrees with these practitioners ;\nindeed, some medical professionals argue that positive stress is not for everyone , and\nthat it might even be dangerous for people who are unhealthy or older.",
+          "text": "Questions 46 to 50 are based on the following passage.\nPeople often discuss the dangers of too much stress, but lately a very different view of stress is\ngaining popularity: this view of stress, held by members of the positive stress movement, argues that\nstress might actually be beneficial. The positive stress movement is made up of people such as\nZachary Rapp who are looking for an edge in a competitive world, and Rapp's routine is a good\nexample of followers of the movement. He wakes up most mornings at dawn, goes fbr a run, sips\nblack coffee while ripping through emails, and then steps into a freezing cold shower. This is a\nroutine designed to reduce the stress of running simultaneously three different health and\nbiotechnology companies fbr 18 hours a day.\nAlthough Rapp's practices may sound extreme, he is part of a growing movement, consisting\nlargely of tech industry workers who claim that such radical tactics will help them live better and\nlonger. Inspired by influential figures in different fields, including entertainers, athletes, entrepreneurs\nand scientists, positive stress practitioners seek out some combination of extreme temperatures,\nrestrictive diets, punishing exercise routines and general discomfort.\nRapp argues that positive stress keeps him balanced. In addition to running and freezing\nshowers, Rapp uses ice baths, hot yoga, and unconventional eating practices such as eliminating dairy,\nsugar, alcohol and various other foods high in carbohydrates. He believes that these practices, which\nput stress on his body, actually make him feel less stress from work. However, Rapp does not credit\nanyone in particular for his choices: he said he started using these methods in college, where he got\ninto the habit of taking ice baths to recover from sports. He got back into it while trying to get his\nthree companies off the ground.\nRapp works long hours and sleeps only five to seven hours a night but he said he only gets sick\nonce a year. For him, the difference between day-to-day stress, like the kind we feel when moving\napartments, and positive stress is that the latter involves pushing the body to extremes and forcing it\nto build up a tolerance.\nOne thought leader in the positive stress world is Dutch extreme athlete Wim Hof, who earned\nthe name ,l ice man“ for his ability to withstand severe cold using deep breathing exercises. Hofs\nideas have become popular among tech industry elites and, thanks to Hof, cold showers are now a\ntrend; indeed, some even call it a form of therapy.\nBut it is important to note that not everyone agrees with these practitioners; indeed, some\n6 ・ 9\n\nmedical professionals argue that positive stress is not fbr everyone, and that it might even be\ndangerous for people who are unhealthy or older.",
           "questions": [
             {
               "id": "q46",
@@ -506,8 +717,17 @@
                 "C": "They derive much pleasure from living a very hectic life.",
                 "D": "They gain a competitive edge by enjoying good health."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "释说明作用，可知该新奇观点由积极压力运动成员/追随者所持有，故可以很快理清对比信息\"不同的压力观（大众观点 vs 追随者观点）\"，锁定正确项 B。 淘宝店铺∶ 光速考研工作室淘宝店铺∶ 光速考研工作室第 43/56 页第 44／56 页 Ⅱ ①Although Rapp's practices may sound extreme, 尽管拉普的做法听起来可能有些极 he is part of a growing movement, consisting largely of tech 端，但他参与的运动正日渐壮大，该运动成员主要由科技行业的工作者组成，他 industry workers who claim that such radical\"tacticswill help them live better and longer. ②Inspired by influential 们声称这种激进的策略有助于他们活得更舒坦、更长寿。在不同领域有影响力 figures in different fields, including entertainers, athletes, entrepreneurs\"and scientists, positive stress practitioners 的人物（包括艺人、运动员、企业家和科 seek out some combination of extreme temperatures, 学家等）的启发下，积极压力的实践者们寻求一种混合体验∶极端温度、限制性饮 restrictive diets, punishing exercise routines and general discomfort. 。 食、魔鬼式日常锻炼以及周身不适。。词汇注释与难句分析· ①radical 【'redikl】u. 激进的;极端的 $ ④entrepreneur 【Dntr?pr?'n3∶】 n. 创业者，企业家 ⑤seek out 寻找到;找出 ②tactic 【't?kuk】n. 策略;手段 ③entertainer 【jent?'teino】",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+                "sourceText": "he positive stress 到什么? movement? A) They are usually quite sensitive to different types of A）他们通常对不同类型的压力很敏感。 Sstress. B）他们对压力的看法与大众看法不同。 B)They hold a different view on stressfrom the popular one. C) They derive much pleasure from living a very hectic life. C）他们从极其忙碌的生活中获得许多乐趣。 D） 他们因享有健康的体魄而获得竞争优",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -519,8 +739,17 @@
                 "C": "They seek jobs in tech industries.",
                 "D": "They apply extreme tactics."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "为\"运动成员采取的策略∶与有影响力人物交往\"。C 将①句\"运动成员的身份∶大多为科技工作者\"偷换为\"运动成员的行为∶在科技行业找工作\"。 提炼思路「本题实际考查对第二段长难句的理解及其与上下文的联系。解题需∶一、认识到第二段①句中 such radical tactics 实际回指 Rapp's practices. . . extreme\"拉普所采取的那些极端做法\"，既概指上段具体人物事例 Rapp's routine. . . He wakes up. . and then steps into a freczing cold shower，也概指下句积极压力运动践行者的集体行为 positive stress practitioners seek out some combination of extreme temperatures. . . and general discomfort;二、借助语法知识准确切分句子并提取关键信息（追随者做法\"采取激进策略\"、追随者身份\"科技行业工作者\"、追随者灵感来源\"受到有影响力人物的启发\"）;三、借助近、同、反、上下义等语义关联架构核心语义场，（practices. . .）extreme、radical （tactics）、extreme （temperatures）、restrictive （diets）、 punishing（exercise routines）、general discomfort 共同指向\"挑战身体极限的、令周身都很难受的方法\"。在梳理上下文关联、提取关键信息、构建语义场的过程中不仅锁定了正确项. 同时也排除了干扰项。 拉普认为，积极压力使他保持平稳心 Ⅲ ① Rapp argues that positive stress keeps him balanccd. ②In addition to running and frcczing showers. 境。除了跑步和冷水淋浴，拉普使用的策 Rapp uses ice baths， hot yoga， and unconventional 少略-还有冰",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+                "sourceText": "figures. B）他们与具有影响力的人物交往。 淘宝店铺∶ 光速考研工作室淘宝店铺∶光速考研工作室第 44 /56 页第 45／56 页 C）他们在科技行业求职。 C) They seek jobs in tech industres. D) They apply extreme tactics. ID）他们使用极端的策略。 【精准定位】 本题考查积极压力运动追随者将行动付诸实践的具体做法. 根据题干关键词 followers of the positive stress movement、put their ideas into practicc 及试题命制先后顺序原则定位至第二段（practi",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -529,11 +758,20 @@
               "options": {
                 "A": "They help him combat stress from work.",
                 "B": "They enable him to cut down living expenses.",
-                "C": "They enable him to recover from injuries and illnesses,",
+                "C": "They enable him to recover from injuries and illnesses.",
                 "D": "They help him get three companies enlisted all at once."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "What does Zachary Rapp say about his unconventional 了什么? practices? A）它们帮助他应对工作压力。 A) They help him combat stress from work. B) They enable him to cut down living expenses. B）它们使他能够削减生活开支。 C) They enable him to rcover from injuries an ilnesses. C）它们使他能够从伤病中恢复。 D) They help him get three companies enlisted all at once. D）它们帮助他同时成立三家公司。 【精准定位】 本题考查\"拉普如何看待自身的非常规做法\"，题干关键词 unconventional practices 复现于第三段②句，可定位至此。 【锁定答案】A。第三段②句提到拉普的非常规做法，③句进而给出拉普的观点\"这些做法实际上可以让他感受到的工作压力更少\"，即\"有助于他应对工作压力\"，故 A 正确。 【排除干扰】B 干扰来自②句\"不吃乳制品、糖、酒精以及其他各种高碳水化合物食物\"，但这是在介绍非常规饮食法本身的特征，不能主观推出拉普对该饮食法的看法\"有助于节省生活开支\"。C 将④句冰浴/非常规做法的促进对象\"运动后的恢复\"窜改为\"伤病后的恢复\"。D 将末句事实陈述\"拉普因需同时让三家公司顺利开张而压力重重，故而重拾冰浴习惯\"当作拉普的观点\"冰浴/非常规习惯有助于同时成立三家公司\"。 【提炼思路】本题考查人物观点，可在定位段搜寻观点来源句（①句 Rapp argues. . . 、③句 He believes. . . 、 ④句 he said he. . .），比对观点句内容与选项内容，发现正确项 A 与原文③句完全对应。但需注意，干扰项大多并非出自观点来源句，考生切忌利用客观事实主观臆断人物观点（如 B 和 D）。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+                "sourceText": "48. What does Zachary Rapp say about his unconventional 了什么? practices? A）它们帮助他应对工作压力。 A) They help him combat stress from work. B) They enable him to cut down living expenses. B）它们使他能够削减生活开支。 C) They enable him to rcover from injuries an ilnesses. C）它",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -545,8 +783,17 @@
                 "C": "It is something everybody has to live with.",
                 "D": "It does not help build up one's tolerance."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "题关键是从\"X 区别于 Y 的优点\"反推出\"Y 的缺点\"， 第四段②句主干结构可归纳为 the difference between Yand X is that X involves. . . to build up tolerance. 即 X （相比于 Y）的优点是\"可增强耐力\"，进而可反推出 Y（相比于 X）的缺点是\"没有增强耐力的作用\"。本题的另一个难点是 A 项非常贴合\"压力影响身心健康\"这一常识，有很强的干扰性，必须速览全文进行信息核实，确定文中未论及此信息才能排除该项。 荷兰极限运动员维姆·霍夫是积极压 V ① One thought leader in the positive stress 力领域的思想领袖之一，他靠深呼吸练习法 world is Dutch extreme athlete Wim Hof, who earned 抵御严寒的能力为其赢得了\"冰人\"的称号。 the name \"ice man\"for his ability to withstand severe cold using deep breathing exercises. ②Hof's ideas have 霍夫的理念在科技行业精英中很受欢迎，而 become popular among tech industry elites\"and, 且，多亏了霍夫，冷水浴才成为当下的一种 thanks to Hof, cold showers are now a trend; indeed, 潮流;事实上，有些人甚至把冷水浴称为一种疗法。 some even call it a form of therapy 词汇注释与难句分析;y $ ②therapy 【'eropi】 n. 治疗;疗法 ①elite 【'it】 n. 精英;杰出人物 One thought leader in the positive stress world is Dutch extreme athlete Wim Hof, who earned the name\"ice man\"for his ability to",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+                "sourceText": "differ in essence from positive stress. B）它和积极压力没有本质区别。 C) It is omething everybody has to live with. C）它是每个人都必须忍受的事物。 D) It does not help build up one's tolerance. D）它无助于增强人们的忍耐力。 【精准定位】 本题考查\"日常压力\"的相关信息。由题干关键词 day-to-day stress 可定位至第四段②句。 【锁定答案】 D。第四段②句指出日常压力与积极压力的区别;后者（即积极压力）能通过把身体推向极限的方式来提高身体忍耐力。",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q50",
@@ -558,14 +805,23 @@
                 "C": "Its effect varies considerably from person to person.",
                 "D": "Its practitioners should not take it as a form of therapy."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "为 \"积极压力的实际疗效有待验证\"和\"积极压力发挥疗效的同时会附带产生不良影响\"。D 的言外之意为\"积极压力没有疗效\"，显然也不符合文意，医学专家并未全盘否定积极压力的疗效，而是提醒人们注意其对某些特定人群的潜在风险。 【提炼思路】由各项关键词（A 项 true effect、B 项 side effect、C 项 effect、D 项 therapy）可知选项聚焦积极压力的疗效，需由文中信息总结出医学专家对积极压力疗效的看法（积极压力对某此人有疗效，对另一些人无效/甚至有害），然后提炼各项核心意（疗效有待验证、发挥疗效的同时带来副作用、疗效因人而异、没有疗效/ 不应被当作疗法）与专家看法进行一一比对，最终确定正确项。 Passage Two 狩猎对环境有益还是有害一、总体分析来源∶Scientific American《科学美国人》2009.11.10 文章 Does Hunting Help or Hurt the Environment? （狩猎对环境有益还是有害?）。主题∶探讨狩猎对环境的影响。脉络∶介绍人们对狩猎的不同看法∶有人认为狩猎于环境有益，有人认为狩猎于环境有害，也有人认为需细分狩猎类型加以探讨（第一至四段）——剥离\"个人观点\"，聚焦客观现状∶狩猎者大幅减少（第五段）——指出与\"狩猎发展现状\"截然相反的公众倾向∶对狩猎愈加支持（第六段）——指出绿色领袖顺势而为，倡导狩猎者与环保组织进行合作（第七段）。 淘宝店铺∶光速考研工作室淘宝店铺∶光速考研工作室第 48 /56 页第 49／56 页二、语篇分析及试题精解狩猎对环境有益还是有害呢? 和许 I ④Is hunting good or bad for the environment? ②Like 多热议话题一样，这个问题的答案取决 so many hot button issues\", the answer to this question 于你问的是谁。一方面，有人说，没什么 depends upon who you ask. BOn the one hand, s",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+                "sourceText": "tive stress? A) Its true effet remains to be verified. A）其真实效果有待验证。 B）其副作用不容忽视。 B) Is side efect should not be ignored. C) Itseffect varies considerably from person to person. C）其效果在很大程度上因人而异。 D) Its practitioners should not take it as a form of therapy. D）其实践者不应把它当作一种疗法。 【精准定位】 本题考查医学专家对积极压力的看法。由题干",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
         {
           "label": "Passage Two",
-          "text": "Questions 51 to 55 are based on the following passage.\nIs hunting good or bad for the environment , Like so many hot button issues , the\nanswer to this question depends upon who you ask. On the one hand , some say ,\nnothing could be more natural than hunting, and indeed just about every animal\nspecies 一including humans 一has been either predator or prey at some point in its\nevolution. And, ironic as it sounds , since humans have wiped out many animal\npredators , some see hunting as a natural way to reduce the herds of prey animals that\nnow reproduce beyond the environment's carrying capacity.\nOn the other hand, many environmental and animal advocates see hunting as\nsavage , arguing that it is morally wrong to kill animals , regardless of practical\nconsiderations. According to Glenn Kirk of the California-based The Animals' Voice ,\nhunting\" causes immense suffering to individual wild animals...\"and is\"irrationally\ncruel because unlike natural predation (捕食) ,hunters kill for pleasure ...” He adds\nthat , despite hunters' claims that hunting keeps wildlife populations in balance ,\nhunters' license fees are used to manipulate a few game species into overpopulation at\nthe expense of a much larger number of non-game species , resulting in the loss of\nbiological diversity, genetic integrity and ecological balance.\"\nBeyond moral issues , others contend that hunting is not practical- According to\nthe Humane Society of the United States , the vast majority of hunted species ——\nsuch as waterfowl , rabbits , upland birds and mourning doves ——\"provide minimal\nnutrition and do not require population control.\"\nAuthor Gary E ・Varner suggests in his book , In Nature's Interests , that some\ntypes of hunting may be morally justifiable while others may not be. Hunting\n“designed to secure the aggregate welfare of the target species, the integrity of its\necosystem, or both\" —what Varner terms ' therapeutic hunting' —is defensible , while\nsubsistence and sport hunting —both of which only benefit human beings—is not.\nRegardless of one's individual stance , fewer Americans hunt today than in recent\nhistory. Data gathered by the U. S. Fish & Wildlife Service in 2006 show that only\nfive percent of Americans 一some 12.5 million individuals 一consider themselves\nhunters today , down from nine percent in 2001 and 15 percent in 1996.\nPublic support for hunting , however , is on the rise. A 2007 survey by\nResponsive Management Inc. found that eighty percent of respondents agreed that\n“hunting has a legitimate place in modem society , \" and the percentage of Americans\nindicating disapproval of hunting declined from 22 percent in 1995 to 16 percent in\n2007.\nPerhaps matching the trend among the public, green leaders are increasingly\nadvocating cooperation between hunters and environmental groups: After all, both\ndeplore urban sprawl and habitat destruction.",
+          "text": "Questions 51 to 55 are based on the following passage.\nIs hunting good or bad fbr the environment? Like so many hot button issues, the answer to this\nquestion depends upon who you ask. On the one hand, some say, nothing could be more natural than\n6 • 10\n\nhunting, and indeed just about every animal species- including humans- has been either predator or\nprey at some point in its evolution. And, ironic as it sounds, since humans have wiped out many\nanimal predators, some see hunting as a natural way to reduce the herds of prey animals that now\nreproduce beyond the environments carrying capacity.\nOn the other hand, many environmental and animal advocates see hunting as savage, arguing\nthat it is morally wrong to kill animals, regardless of practical considerations. According to Glenn\nKirk of the California-based The Animals' Voice, hunting u causes immense suffering to individual wild\nanimals...n and is u irrationally cruel because unlike natural predation (捕食),hunters kill fbr\npleasure...M He adds that, despite hunters, claims that hunting keeps wildlife populations in balance,\nhunters5 license fees are used to u manipulate a few game species into overpopulation at the expense\nof a much larger number of non-game species, resulting in the loss of biological diversity, genetic\nintegrity and ecological balance.\nBeyond moral issues, others contend that hunting is not practical. According to the Humane\nSociety of the United States, the vast majority of hunted species—such as waterfowl, rabbits, upland\nbirds and mourning doves-\nu provide minimal nutrition and do not require population control.n\nAuthor Gary E. Vamer suggests in his book, In Nature's Interests, that some types of hunting may\nbe morally justifiable while others may not be. Hunting u designed to secure the aggregate welfare of\nthe target species, the integrity of its ecosystem, or both” —what Vamer terms \ntherapeutic\nhunting\"—is defensible, while subsistence and sport hunting- both of which only benefit human\nbeings- is not.\nRegardless of one's individual stance, fewer Americans hunt today than in recent history. Data\ngathered by the U.S. Fish & Wildlife Service in 2006 show that only five percent of Americans—\nsome 12.5 million individuals- consider themselves hunters today, down from nine percent in 2001\nand 15 percent in 1996.\nPublic support fbr hunting, however, is on the rise. A 2007 survey by Responsive Management\nInc. found that eighty percent of respondents agreed that u hunting has a legitimate place in modem\nsociety/5 and the percentage of Americans indicating disapproval of hunting declined from 22 percent\nin 1995 to 16 percent in 2007.\nPerhaps matching the trend among the public, green leaders are increasingly advocating\ncooperation between hunters and environmental groups: After all, both deplore urban sprawl and\nhabitat destruction.",
           "questions": [
             {
               "id": "q51",
@@ -574,21 +830,30 @@
               "options": {
                 "A": "Some predators may often turn out to be prey of other predators.",
                 "B": "Hunting may also be a solution to the problem caused by hunting.",
-                "C": "The species of prey animals continue to vary despite humans' hunting-",
-                "D": "The number of prey animals keeps rising despite environmental change."
+                "C": "The species of prey animals continue to vary despite humans' hunting.",
+                "D": "The number of prey animals keeps rising despite environmental change. 6 ・ 11"
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "决 B)Hunting may also be a solution to the problem caused by 办法。 hunting. C)The species of prey animals continue to vary despite C）即使有人类狩猎. 被捕食动物的种类仍不断变化。 humans' hunting. D）即使有环境变化，被捕食动物的数量仍 D)The number of prey animals keeps rising despite 不断增加。 environmental change. 【精准定位】 本题考查作者的看法。由 sounds ironic 定位至第一段④句（ironic as it sounds. . .）。 【锁定答案】 B。第一段④句引出作者感到奇怪的现象∶一方面狩猎令捕食者数量减少，（由此）被捕食者数量激增、超出环境承载力，但另一方面狩猎又可帮助减少这些数量过多的动物，即狩猎可解决其本身带来的问题，B 正确提炼这一奇怪现象。a solution to 对应文中 a natural way to，the problem 概括文中\"被捕食者超过环境承载力（prey animals. . . reproduce beyond the environment's carrying capacity）\"这一问题。 【排除干扰】 A 由第一段③句\"每个动物不是捕食者便是被捕食者\"联想到\"捕食者会转变为被捕食者/猎物\"，虽符合常识，但并非文意所在，更不是作者认为奇怪的事情。C、D 均由第一段①句片段信息\"被捕食动物的数量已超出环境承载力\"推测而来，但本身均含有事实错误∶\"数量超出环境承载力\"≠\"种类不断变化\"，故 C 错误;D 项颠倒因果;\"数量增多→超过环境承载力\"≠\"环境改变→数量增多\"）。 【提炼思路】 本题考查人物观点的具体内容，根据题干关键词可轻松定位，但难点在于正确理解该定位句并提炼观点。首先可借由主句 some see hunting as a natural way to. . . 把握该句的",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+                "sourceText": "aused by 办法。 hunting. C)The species of prey animals continue to vary despite C）即使有人类狩猎. 被捕食动物的种类仍不断变化。 humans' hunting. D）即使有环境变化，被捕食动物的数量仍 D)The number of prey animals keeps rising despite 不断增加。 environmental change. 【精准定位】 本题考查作者的看法。由 sounds ironic 定位至第一段④句（ironic as it sounds. . .）。 【锁定答案】 B。第一段④句引",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
               "number": 52,
-              "stem": "What does Glenn Kirk think of charging hunters' license fees?",
+              "stem": "What does Glenn Kirk think of charging hunters license fees?",
               "options": {
                 "A": "It keeps game population under control.",
                 "B": "It turns hunting into a sport of the rich.",
                 "C": "It leads to ecological imbalance.",
-                "D": "It helps stop killing for pleasure."
+                "D": "It helps stop killing fbr pleasure."
               },
               "answer": null,
               "explanation": ""
@@ -598,26 +863,44 @@
               "number": 53,
               "stem": "What is the argument of the Humane Society of the United States against hunting?",
               "options": {
-                "A": "Overpopulation is not an issue for most hunted animals-",
+                "A": "Overpopulation is not an issue for most hunted animals.",
                 "B": "Hunting deprives animal populations of their food sources.",
-                "C": "Many birds and small animals are being irrationally killed-",
+                "C": "Many birds and small animals are being irrationally killed.",
                 "D": "Hunting is universally acknowledged as a savage behavior."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "为\"被捕猎的动物为其他动物提供营养，狩猎行为使其他动物丧失食物来源（deprive sb of sth 使某人丧失某物）\"。C 中 irrationally 复现于第二段②句，但这一对狩猎行为的评价\"残忍到荒谬\"是 Glenn Kirk 观点，并非人道主义协会的观点。D 中 savage 复现于第二段①句，但张冠李戴，将\"视狩猎为野蛮行径\"的主体\"环境及动物权益倡导者\"偷换为\"人道主义协会\"。 【提炼思路】 文章涉及多个社会群体/组织/个人的观点. 解题关键在于厘清段间及段内逻辑，区辨信息;",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+                "sourceText": "53. What is the argument of the Humane Society of the United 是什么? States against hunting? A）就大多被捕猎动物而言，数量过剩不 A)Overpopulation is not an isse for most hunted animals. 是问题 B）狩猎使动物种群丧失其食物来源。 B) Hunting deprives animal populations of their food sources. C）许多鸟类和小型动物正被无端屠杀。 C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q54",
               "number": 54,
-              "stem": "When is hunting morally justifiable according to Gary E. Varner?",
+              "stem": "When is hunting morally justifiable according to Gary E. Vamer?",
               "options": {
-                "A": "When it benefits animals and their ecosystem-",
+                "A": "When it benefits animals and their ecosystem.",
                 "B": "When it serves both human and animal interests.",
-                "C": "When it is indispensable to humans' subsistence.",
+                "C": "When it is indispensable to humans, subsistence.",
                 "D": "When it stabilizes the population of animal species."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "stance【sta∶ns】 n. 态度，立场。语篇分析第五段从\"个人观点\"中抽离出来，转而聚焦客观现状∶美国狩猎者大幅减少。 ①句陈述观点∶狩猎人数减少。one's individual stance 回应首段 the answer. . . depends upon who you ask，Regardless of 提示前一意群\"个体对于狩猎的立场\"的结束，下一意群\"狩猎发展现状\"的开始。 ②句列数字力证观点。Americans. . . consider themselves hunters 呼应 Americans hunt，down 近义 fewer 直言狩猎者数量下降，今昔数据对比 five percent. . . today（2006）vs nine percent in 2001 and 15 percent in 1996 凸显持续下降的趋势以及降幅之大。 然而，公众对狩猎的支持正在攀升。 Ⅵ ①Public support for hunting，however，is on the rise. 有求必应管理公司（RMI）在 2007 年开展 ②A 2007 survey by Responsive Management Inc. found that 的一项民意调查发现，80??受访者赞同 eighty percent of respondents agreed that \" hunting has a \"狩猎在现代社会中具有合理地位\"，而表 legitimateplace in modern society, \"and the percentage of 示不赞同狩猎的美国人的比例则从 1995 Americans indicating disapproval of hunting declined\" from 22 年的 22??降到了 2007 年的 16?? percent in 1995 to 16 percent in 2007.。词汇注释与难句分析。 ②decline Ld'klan】 v. 下降 ①legitimate 【【1o'd3itomo",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+                "sourceText": "54. When is hunting morally justifiable according to Gary E. Varner? 狩猎在道德上是无可厚非的? A）在它有益于动物及其生态系统时。 A)When it benefits animals and their ecosystem. B）在它符合人类和动物两者的利益时。 B)When it serves both human and animal interests. C）在它对于人类的生存必不可少时。 C)When it is indispensable",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q55",
@@ -629,8 +912,17 @@
                 "C": "Coordinated efforts of hunters and environmentalists.",
                 "D": "A compromise between development and animal protection."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "题关键在于理解句间关系∶After all 强调原因，狩猎者和环保组织的共同观点\"强烈反对城市的无计划扩张和对栖息地的破坏\"是双方合作的基础，故绿色领袖正倡导推广的是\"环保新方式;狩猎者与环保组织协同合作\"，而非\"环保任务本身;保护动物栖息地，控制城市无计划扩张\"，（`正确，排除 A、B 两项，D 结合常识\"发展与保护间往往存在矛盾冲突\"主观臆断而来，也错误。 Part IV Translation 《三国演义》 一、参考译文 The Romance of the Three Kingdoms, which was written in the l4th century, is a well-known Chinese historical novel. This piece of literature is based on the history of the Three Kingdoms period and depicts the wars between the states of Wei, Shu, and Wu from the latter part of the 2nd century AD to the second half of the 3rd century AD. The novel portrays almost a thousand characters and countless historical events. Although most of these figures and incidents are based on real history, they are romanticized and dramatized to varying degrees. The Romance of the Three Kingdoms is generally recognized as a literary masterpiece. Since its publication, this novel has continuously a",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2020-07/key_2020.07六级解析全1套_带书签.txt",
+                "sourceText": "promote? A）有效保护动物栖息地。 A)Effective protection of animal habitats. B) Strict control over urban development. B）严格控制城市发展。 C）狩猎者和环保主义者协同努力。 C) Coordinated eforts of hunters and environmentalists. D) A compromise between development and animal protection. D）在发展与动物保护之间寻求折衷方案。 【精准定位】 本题考查绿色领袖致力推广的观念，定位至末段",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }
@@ -641,8 +933,8 @@
       "type": "translation",
       "title": "Part IV Translation",
       "minutes": 30,
-      "directions": "For this part you are allowed 30 minutes to translate a passage from\nChinese into English. You should write your answer on Answer Sheet 2.",
-      "source": "《三国演义》(The Romance of the Three Kingdoms)是中国一部著名的历史小说，写于十四世纪。这部文学作品以三国时期的历史为背景，描写了从公元二世纪下半叶到公元三世纪下半叶的魏、蜀、吴三国之间的战争。小说中刻画了近千个人物和无数的历史事件。这些人物和事件虽然大都基于真实的历史，但都不同程度地浪漫化和戏剧化了。《三国演义》是一部公认的文学杰作。自面世以来，这部小说不断吸引着一代又一代的读者，并且对中国文化产生着广泛而持久的影响。【参考答案】【参考范文】【翻译参考译文】",
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into\nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "《三国演义》(The Romance of the Three Kingdoms)是中国一部著名的历史小说，写于十四世纪。这部文学作品以三国时期的历史为背景，描写了从公元二世纪下半叶到公元三世纪下半叶的魏、蜀、吴三国之间的战争。小说中刻画了近千个人物和无数的历史事件。这些人物和事件虽然大都基于真实的历史，但都不同程度地被浪漫化和戏剧化了。《三国演义》是一部公认的文学杰作。自面世以来，这部小说不断吸引着一代又一代的读者，并且对中国文化产生了广泛而持久的影响。未得到监考教师指令前，不得翻阅该试题册!",
       "reference": "",
       "explanation": ""
     }

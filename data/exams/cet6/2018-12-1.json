@@ -30,8 +30,17 @@
             "C": "It describes how some mysteries of physics were solved.",
             "D": "It is one of the most fascinating physics books ever written."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "1. What does the woman say about the book the man recommended? A)。 灬） 对话中， 当男士向女士说出他觉得很棒的物理学书的书名后， 女士说她读过这本书， 它内容丰富， 适合各类读者， 从对科学知之甚少的普通读者到职业物理学家， 都可以读上一读。 因此答案为 A)。 2， What can we find the book the man recommended? B)O - 对话中男士说， 值得赞扬的是这位女作家努力将鲜为人知的女性科学家的趣事写人书中。 由此可知， 书中有女性物理学家的故事， 答案为 B)O",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "律师的工作将受到威胁。 D）到 2 0 1 3 年，机器学习将是颠覆性的。 ［设题要点］事件引出处(In 2012, Kaggle challenged its com munity to. . . ) q 17.关于 Kaggle 公司的获胜程序，我们了解到什么？ A）它们广泛适用于大型在线公开课。 C）它们一分钟内能阅读多达 1 万篇作文。 B）它们如今正为许多高中教师所用",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q2",
@@ -43,8 +52,17 @@
             "C": "Historical evolution of modern physics.",
             "D": "Women’s changing attitudes to physics."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "本题时，可先将其所在从句还原为 a magical creature called the island fox（主语） where/on Santa Cruz Island（地点状语），从而更容易意识到句子缺少“谓语动词”、该词应体现“居住、栖息”等含义。 27 . 答案：B） chaos 【确定词性】空格所在句主干结构为：this island's ecosystem（主语）+ was （系动词）+ i n。空格词应为名词或动名词，且可与 in 搭配构成介宾结构作表语。 【锁定答案】空格所在句指出，十年前，岛屿生态系统处于______ o 可见 in 概括十年前岛屿生态系统的“总体特征”，应从下文寻找答案。③句指出野猪吸引来赤瓦套雕；岛狐种群受到了巨大冲击。④句指出自然保护协会因此发起了野猪反击战。概括推理③④句内容可知，当时岛屿的生态系统“非常糟糕”，B） chaos 可与 i n 形成固定表达 in chaos, 意为“处于混乱状态”，符合文意。 【点拨技巧】对于就“概括性内容”设置的选项，基本思路是概括推理下文详述部分的现有内容（有时也可能是上文）。本段②③④句为典型的“总述问题一详述问题一介绍对策”论述结构，概括③句所述岛屿生态系统状况、并反推④句介绍的解决对策，可知②句强调岛屿生态系统存在严重问题。 28 . 答案：L） predators 【确定词性】空格所在分句结构为：those flying+ ______ + crashed（动词过去式）+ the fox population（名词）。 可知句子为主谓宾结构，空格词和 those flying 一起词手工语，应为名词复数形式。 【锁定答案】由 those 的回指功能可知，those flying 指代 golden eagles。再由 crashed 一词含义“形成巨大冲击、撞击”可知, golden eagles 对岛狐造成巨大冲击，使其数量大减（crashed the fox population） 0 这暗示 golden eagles 处于岛狐的食物链上端，是岛狐的捕食者，L） predators 符合文意。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "magical creature called the island fox（主语） where/on Santa Cruz Island（地点状语），从而更容易意识到句子缺少“谓语动词”、该词应体现“居住、栖息”等含义。 27 . 答案：B） chaos 【确定词性】空格所在句主干结构为：this island's ecosystem（主语）+ was （系动词）+ i n。空格词应为名词或动名词，且可与 in 搭配构成介宾结构作表语。 【锁定答案】空格所在句指出，十年前，岛屿生态系统处于______ o 可见 in 概括十年前岛屿生态系统的“总体特征”，应从下文寻找答案。③句指出野猪吸引",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q3",
@@ -56,8 +74,17 @@
             "C": "By including lots of fascinating knowledge.",
             "D": "By telling anecdotes about famous professors."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "3 ． HOW does the author bring her book to life? C)O - 对话中男士说， 这本书的布局清晰， 每个章节都有一些精彩的知识片段， 使得该章节生动有趣。 因此答案为 C)。 2018 ． 12 ／ 10 （第 1 套）",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "3 ． HOW does the author bring her book to life? C)O - 对话中男士说， 这本书的布局清晰， 每个章节都有一些精彩的知识片段， 使得该章节生动有趣。 因此答案为 C)。 2018 ． 12 ／ 10 （第 1 套）",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q4",
@@ -69,8 +96,17 @@
             "C": "It demonstrates how they can become physicists.",
             "D": "It provides experiments they can do themselves."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "很多经典的物理学基础原理。 因此答案为 D)O Conversation Two M： Hi， professor. I was hoping I could have a moment of your ffme ifyou， re not t00 busy. （5 · 1） rm having some problems 山 n started on my dissertation. and I was hoping you could give me some advice on how t0 begin. W: Sure. I have q 忸 a few students， though. SO can you remind me what your topic？ M： （5 ． 2） 祀 general topic I chose is aesthetics， but that， s “ far “ l've 粼 ot. I don't really OW where go 什 om there. W： 〈 6） Yeah. That， S much t00 large a topic. You really need 怖 narrow it down in order to make it more accessible. Otherwise， you， ll be witing a book. M： ExactIy. That， s what I wanted ask you about. I was hoping it would be possible for me to change topics. （7） rm really mo r d in nature 山 beauty. W： （8） rm afraid you have to adhere to the assigged topic. Still， if you， re interested in natu",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "4 ． How does the book cultivate readers， interest in physics? D)O （灬） 对话末尾， 男士说他喜欢作者培养人们对科学的参与性的方式， 书中提供了大量可以让读者亲手一试的实验， 通过这些实验， 读者可以了解很多经典的物理学基础原理。 因此答案为 D)O Conversation Two M： Hi， professor. I was hoping I could have a moment of yo",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q5",
@@ -82,8 +118,17 @@
             "C": "He does not understand the professor’s instructions.",
             "D": "He has no idea how to proceed with his dissertation."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〕 对话中， 男士明确提到他对自然更感兴趣。 因此答案为 B）。 8， What does the profesgor gay the man has t0 do? C)。 （留 〕 当听到男士希望换题目的想法时， 女士对男士说恐怕他必须按照指定的题目来写。 因此答案为 C)。 Section B Pagsage One During the Arctic winter 什 om Oct0ber № March， the average temperature in the frozen north 巧卫 ic ly hovers 肛 0 皿 d nunus 20 degrees CeIsius. （9） But this year, the Arctic expeiencing much higher temperatures. On Februaw",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "5 ． What the man， s problem? D)O （0 #） 对话开头， 男士问女士有没有时间， 他的论文怎么都开不了头， 希望女士能给他一些建议。 之后男士又提到， 他选择的题目是美学， 但只是选定了题目， 还不知道从哪里开始写。 也就是说， 男士的问题是不知道该怎么写自己的论文， 答案为 D)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q6",
@@ -95,8 +140,17 @@
             "C": "It is challenging.",
             "D": "It is interesting."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A ) It is too broad. B) H e does not know what kind of topic to w rite on. B) It is a bit outdated. C) H e does not understand the professor's instructions. C ) It is challenging. D) H e has no idea how to proceed with his dissertation. D) It is interesting.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "A ) It is too broad. B) H e does not know what kind of topic to w rite on. B) It is a bit outdated. C) H e does not understand the professor's instructions. C ) It is challe",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q7",
@@ -108,8 +162,17 @@
             "C": "Philosophy.",
             "D": "Beauty."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A ) Biography.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "A ) Biography.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q8",
@@ -121,8 +184,17 @@
             "C": "Stick to the topic assigned.",
             "D": "List the parameters first."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "8， What does the profesgor gay the man has t0 do? C)。 （留 〕 当听到男士希望换题目的想法时， 女士对男士说恐怕他必须按照指定的题目来写。 因此答案为 C)。 Section B Pagsage One During the Arctic winter 什 om Oct0ber № March， the average temperature in the frozen north 巧卫 ic ly hovers 肛 0 皿 d nunus 20 degrees CeIsius. （9） But this year, the Arctic expeiencing much higher temperatures. On Februaw",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "8， What does the profesgor gay the man has t0 do? C)。 （留 〕 当听到男士希望换题目的想法时， 女士对男士说恐怕他必须按照指定的题目来写。 因此答案为 C)。 Section B Pagsage One During the Arctic winter 什 om Oct0ber № March， the average temperature in the frozen north 巧卫 ic ly",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q9",
@@ -134,8 +206,17 @@
             "C": "The unusual cold spell in the Arctic area in October.",
             "D": "The rapid change of Arctic temperature within a day."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "9 ． What did climate scientists describe “ \"stunning ”？ A)。 〔 0 的） 短文开头提到， 北极的冬季是从 10 月到来年的 3 月， 期间平均气温是一 20 ℃ 左右， 但今年， 北极的气温要高很多。 2 月 20 日， 格陵兰岛的气温攀升至冰点 （0 ℃） 以上， 并且持续了 24 小时。 然后在 2 月 24 日， 该岛北端的气温达到 6 ℃。 气候科学家形容这一现象 “ 令人吃惊 \"。 因此答案为 A)。 10， What does the passage say about the temperature surge in the Arctic? C)0 0 详留） 短文中提到， 导致气温飙升的天气情况此前曾在北极出现过， 通常每十年就会出现一次。 因此答案为 C)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "9 ． What did climate scientists describe “ \"stunning ”？ A)。 〔 0 的） 短文开头提到， 北极的冬季是从 10 月到来年的 3 月， 期间平均气温是一 20 ℃ 左右， 但今年， 北极的气温要高很多。 2 月 20 日， 格陵兰岛的气温攀升至冰点 （0 ℃） 以上， 并且持续了 24 小时。 然后在 2 月 24 日， 该岛北端的气温达到 6 ℃。 气候科学家形容这一现象 “ 令人吃惊 \"。 因此答案为 A)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q10",
@@ -147,8 +228,17 @@
             "C": "It typically appears about once every ten years.",
             "D": "It has puzzled the climate scientists for decades."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "10， What does the passage say about the temperature surge in the Arctic? C)0 0 详留） 短文中提到， 导致气温飙升的天气情况此前曾在北极出现过， 通常每十年就会出现一次。 因此答案为 C)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "10， What does the passage say about the temperature surge in the Arctic? C)0 0 详留） 短文中提到， 导致气温飙升的天气情况此前曾在北极出现过， 通常每十年就会出现一次。 因此答案为 C)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q11",
@@ -160,8 +250,17 @@
             "C": "Emigration of indigenous people.",
             "D": "Better understanding of ecosystems."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "11. What may occur 20 years according to scientists， recent observations? B)。 （） 短文最后提到， 此前， 气候预报预测， 到 2060 年前后， 北极夏天就没有冰了， 但根据现在北极的温度情况， 这一现象很有可能会在 20 年内出现。 也就是说， 20 年内北极将会出现没有冰的夏天， 答案为 B)O Passage Two （12） A good dose of willpower is often necessary to see any task through whether it， s sticking spending plan or finishing a great novel.",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "11. What may occur 20 years according to scientists， recent observations? B)。 （） 短文最后提到， 此前， 气候预报预测， 到 2060 年前后， 北极夏天就没有冰了， 但根据现在北极的温度情况， 这一现象很有可能会在 20 年内出现。 也就是说， 20 年内北极将会出现没有冰的夏天， 答案为 B)O Passage Two （12） A good dose of willpower is often neces",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q12",
@@ -173,8 +272,17 @@
             "C": "A strong determination.",
             "D": "A scientific approach."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A) A good start.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "A) A good start.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q13",
@@ -186,8 +294,17 @@
             "C": "It is vital to take breaks between demanding mental tasks.",
             "D": "It is most important to have confidence in one’s willpower."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "短文中提到， 最新研究显、， 我们对自 0 意志力的看法是非常重要的。 如果认为意志力是有限的， 那我们在做费脑的任务时就会感到疲惫， 需要休息。 然而， 认为意志力是无穷的那些人总能保持精力充沛。 也就是说， 人们要对自己的意志力有信心， 这一点非常重要。 因此答案为 D)O A)0 0 详解短文中提到， 研究显示， 美国人更倾向于承认在完成挑战脑力的任务后需要休息。 而与之相比， 欧洲人则表示他们还可以继续下去。 因此答案为 A）。 15 ． 一一 B)O （0 详廨） 短文末尾提到， 研究者说： “ 你对自 0 意志力的看法会影响你的行为， 但是这些看法是可 0 改变的。 ” 因此答案为 B)。 Secti on C Recording One Here is my baby mece S 曲 ． Her mom is a doctor and her dad is a lawyer. By the time S 曲 goes to college， the jobs her parents do are going to № ok dramatically different. ln 2013， researchers at Oxford University did a study on the future of work. （16） They concluded that almost one in every 0 jobs has a high nsk of being automated by machines. Machin",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "13 ． What is the finding of the new study? D)。 0 详解短文中提到， 最新研究显、， 我们对自 0 意志力的看法是非常重要的。 如果认为意志力是有限的， 那我们在做费脑的任务时就会感到疲惫， 需要休息。 然而， 认为意志力是无穷的那些人总能保持精力充沛。 也就是说， 人们要对自己的意志力有信心， 这一点非常重要。 因此答案为 D)O A)0 0 详解短文中提到， 研究显示， 美",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q14",
@@ -212,8 +329,17 @@
             "C": "They are related to culture.",
             "D": "They are beyond control."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "15 ． 一一 B)O （0 详廨） 短文末尾提到， 研究者说： “ 你对自 0 意志力的看法会影响你的行为， 但是这些看法是可 0 改变的。 ” 因此答案为 B)。 Secti on C Recording One Here is my baby mece S 曲 ． Her mom is a doctor and her dad is a lawyer. By the time S 曲 goes to college， the jobs her parents do are going to № ok dramatically different. ln 2013， researchers at Oxford University did a study on the future of work. （16） They concluded that almost one in every 0 jobs has a high nsk of being automated by machines. Machine leaming is the technology that， s responsible for most of disrupfion. lt's the most powerful branch of affificial intelhgence. lt allows machines t0 leam 什 om data and COPY some Of the things that humans can do. My company， KaggIe, operates on the cutting edge of machine leaming We bring together hundreds of 山 0 ds Of experts to solve important problems for industry and academia. 丽 gives “ a tmique perspective on what machines can d0",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "15 ． 一一 B)O （0 详廨） 短文末尾提到， 研究者说： “ 你对自 0 意志力的看法会影响你的行为， 但是这些看法是可 0 改变的。 ” 因此答案为 B)。 Secti on C Recording One Here is my baby mece S 曲 ． Her mom is a doctor and her dad is a lawyer. By the",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q16",
@@ -225,8 +351,17 @@
             "C": "The job market is becoming somewhat unpredictable.",
             "D": "Machine learning would prove disruptive by 2013."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "讲座开头提到， 2013 年， 牛津大学的研究人员针对工作的未来做了一项研究， 他们得出的结论是， 几乎每两份工作中就有一份有被机器自动化所取代的风险。 也就是说， 现在的所有工作中， 有一半将很有可能会被机器自动化取代， 答案为 A)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "16 ． What do the researchers at Oxford University conclude? A)。 0 详解讲座开头提到， 2013 年， 牛津大学的研究人员针对工作的未来做了一项研究， 他们得出的结论是， 几乎每两份工作中就有一份有被机器自动化所取代的风险。 也就是说， 现在的所有工作中， 有一半将很有可能会被机器自动化取代， 答案为 A)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q17",
@@ -238,8 +373,17 @@
             "C": "They could read as many as 10,000 essays in a single minute.",
             "D": "They could grade high-school essays just like human teachers."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "〕 讲座中提到, Kaggle 公司那些赢得比赛的程序给高中生文章的评分与高中教师所给出的评分基本一致。 因此答案为 D)O 1 & What is the fundamental limitation of machine learning? C)。 （0 详 〕 讲座最后提到， 机器学习根本的局限性在于它需要依赖大量的过往数据才能够掌握某种技能。 因此答案为 C)O 2018 ． 12 / 13 （第 1 套） Recording Two （19） We， Ve talked recently about the importance of sustamable energr. We， Ve so talked about the dlfferent theories on hOW that c 田 1 be done. SO far our discussions have all been theoretica",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "17 ． What do we learn about Kaggle company， s winning programs? D)。 （0 解 〕 讲座中提到, Kaggle 公司那些赢得比赛的程序给高中生文章的评分与高中教师所给出的评分基本一致。 因此答案为 D)O 1 & What is the fundamental limitation of machine learning? C)。 （0 详 〕 讲座最后提到， 机器学习根本的局限性在于它需要依赖大量的过往数据才能够",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q18",
@@ -264,8 +408,17 @@
             "C": "The importance of exploring new energy sources.",
             "D": "The theoretical aspects of sustainable energy."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "19， What has the speaker previously talked about? D)O 〔 0 详的 〕 讲座开头提到， 我们最近已经讨论过可持续能源的重要性， 也讨论过如何实现这一点的不同理论。 到目前为止， 我们讨论的都是理论层面的。 也就是说， 此前的讲座从理论层面对可持续能源进行了讨论， 答案为 D)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "19， What has the speaker previously talked about? D)O 〔 0 详的 〕 讲座开头提到， 我们最近已经讨论过可持续能源的重要性， 也讨论过如何实现这一点的不同理论。 到目前为止， 我们讨论的都是理论层面的。 也就是说， 此前的讲座从理论层面对可持续能源进行了讨论， 答案为 D)O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q20",
@@ -277,8 +430,17 @@
             "C": "Build a new ten-kilometre railway line.",
             "D": "Cut down the city’s energy consumption."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "20， What is Tim Castleman trying to do Sacramento? A)。 （0 詳河冫讲座中提到， 工程师蒂姆 · 卡斯尔曼认为， 一列 14 万公斤的火车仅依靠通过太阳能产生的蒸汽就可以运转， 在他的家乡， 加利福尼亚州的萨克拉门托， 会进行这项技术的首次测试。 也就是说， 他将在萨克拉门托尝试使用太阳能驱动火车， 答案为 A)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "20， What is Tim Castleman trying to do Sacramento? A)。 （0 詳河冫讲座中提到， 工程师蒂姆 · 卡斯尔曼认为， 一列 14 万公斤的火车仅依靠通过太阳能产生的蒸汽就可以运转， 在他的家乡， 加利福尼亚州的萨克拉门托， 会进行这项技术的首次测试。 也就是说， 他将在萨克拉门托尝试使用太阳能驱动火车， 答案为 A)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q21",
@@ -303,8 +465,17 @@
             "C": "The poor management of day centres and home help services.",
             "D": "The poor relation between national health and social care services."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "22， What one cause Of the current crisis m care for the elderly in EngIand? D)。 （0 廨） 讲座开头提到， 当今英格兰老年人的护理危机主要由两个因素所导致， 其中一个因素就是国家医疗服务与社会护理服务之间的不良关系。 因此答案为 D)O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "22， What one cause Of the current crisis m care for the elderly in EngIand? D)。 （0 廨） 讲座开头提到， 当今英格兰老年人的护理危机主要由两个因素所导致， 其中一个因素就是国家医疗服务与社会护理服务之间的不良关系。 因此答案为 D)O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q23",
@@ -316,8 +487,17 @@
             "C": "It called for a sufficient number of volunteers.",
             "D": "It has deteriorated over the past sixty years."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "） 讲座中提到， 社区护理主要是山与当地政府合作的志愿性机构提供的。 因此答案为 A)。 24， What made management of care for the elderly more dimcult № the 1980s？ C)。 （解） 讲座中提到， 20 世纪 80 年代， 政府削减开支， 同时， 人们对私人护理机构的偏爱使得对老年人护理的管理愈加困难。 因此答案为 C)。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "23 ． What does the speaker say about residential and community care? A)。 （0 详解） 讲座中提到， 社区护理主要是山与当地政府合作的志愿性机构提供的。 因此答案为 A)。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q24",
@@ -329,8 +509,17 @@
             "C": "Their preference for private services.",
             "D": "More of them suffering serious illnesses."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A ) Their longer lifespans.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "A ) Their longer lifespans.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q25",
@@ -342,8 +531,17 @@
             "C": "They are vulnerable to illnesses and diseases.",
             "D": "They have contributed a great deal to society."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〕 空格位于 where 引导的定语从句中， 从句的主语为 a m creature， called the island fox 作后置定语修饰主语， 故空格处需填人动词充当从句的谓语。 该句为陈述客观事实， 所以应使用一般现在时， 主语 creature 为单数， 根据主谓一致原则， 空格处需填人谓语动词的第三人称单数形式， 符合语法的只有 F) dwells 和 1） hinderso 根据下文可知， 灰狐居住在圣克鲁斯岛上， 故选 F)O 1) hinders 意为 “ 阻碍， 妨碍 ”， 通常用作及物动词， 而空格后并没有跟宾语， 故排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+            "sourceText": "25 ． What does the speaker say about older people in England? B)O （0 # 〕 讲座最后提到， 在英格兰， 对老年人的歧视由来已久。 因此答案为 B)O Part III Reading Comprehension Section A 亠文翻圣克鲁斯岛位于南加利福尼亚海岸附近， 在这里 （26） 居仕着一种神奇的物种， 叫作岛屿灰狐。 十年前， 这座岛屿的生态系统陷入 （27） 混乱。 岛上的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -363,14 +561,32 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "①off the coast 沿海，临近海岸, ⑦launch v. 发起、发动(大型或重要活动) ②sit [sit]乜位于，坐落在，⑧complete with 包括，具有配套的 ©ecosystem r'i:kausistam] n, 生态系统 1 ⑨sharp shooter 神枪手 ®mainland E'memland]几大陆 《@)mammal E'msemal] n. 哺乳动物 ⑤crash [krsej] o. 猛撞，猛击 ( ⑪peer [pia] n. 同伴，伙伴 ©conservancy [kan'ssivansi] n. 保护 《⑫glowing ['glau 可 1 a. 闪闪发光的，热烈赞扬的 It's the fastest-ever recovery of a mammal, joining peers like the Louisiana black bear as glowing successes in the history of the Endangered Species Act. 21 ;\" 解题思路」 26 . 答案：F） dwells 【确定词性】空格所在 where 定语从句的结构为：where（引导词）+ a magical creature（主语）+ called the island fox（后置定语）+ ______，可知空格应为谓语动词，再结合句子整体时态及从句主语，可进一步推知空格为动词的第三人称单数拓元- 注：仅从语法看，空格词还可能是 b e 动词（is）, 但由于 b e 动词不在备选项内，可直接忽略。 【锁定答案】空格所在句指出, 一种名为岛狐的生物______ 圣克鲁斯岛（where 回指 Santa Cruz Island）, 空格词搭建起“一种动物”和“一个地域”之间关系，应意为冷嬴栖息等 F） dwells 符合文意 【点拨技巧】一、本空位于全文开篇句，解题可结合如下技巧：L 看下文：由下文可知，island fox 与 Wild pigs. golden eagles 同属岛屿生态",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "ers like the Louisiana black bear as glowing successes in the history of the Endangered Species Act. 21 ;\" 解题思路」 26 . 答案：F） dwells 【确定词性】空格所在 where 定语从句的结构为：where（引导词）+ a magical creature（主语）+ called the island fox（后置定语）+ ______，可知空格应为谓语动词，再结合句子整体时态及从句主语，可进一步推知空格为动词的第三人称单数拓元- 注：仅从语法看，空格词还可能是 b e 动",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "决对策，可知②句强调岛屿生态系统存在严重问题。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "答案：B） chaos 【确定词性】空格所在句主干结构为：this island's ecosystem（主语）+ was （系动词）+ i n。空格词应为名词或动名词，且可与 in 搭配构成介宾结构作表语。 【锁定答案】空格所在句指出，十年前，岛屿生态系统处于______ o 可见 in 概括十年前岛屿生态系统的“总体特征”，应从下文寻找答案。③句指出野猪",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q28",
@@ -387,38 +603,92 @@
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "题思路在于“理解言外之意、得出合理关系”：本段①句“但圣克鲁斯岛的恢复不仅仅关乎岛狐（isn't just about the fox）”言外之意”还关乎其他许多岛上物种“，该句实则承上启下：大自然保护协会（The Nature Conservancy 在第一段末和第二段中复现）为保护岛狐及岛上其他物种（island fox 代表“岛上本地物种“）向野猪等大批外来入侵物种（wild pigs 为 invasive species 之一）发起了战争（w ar 应与上段 launched a war 近义）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "答案:D） declared 【确定词性】空格箭为助动词 has, 后为名词 w ar, 可推知空格词为-ed 分词。 【锁定答案】空格前句指出，圣克鲁斯岛的恢复不仅仅关乎岛狐。空格所在句则指出：大自然保护协会针对一系列入侵物种（invasive species） 战争。联系首段事实“大自然保护协会为了保护岛狐，曾向野猪发起战争”可推知：“野猪”是“外来物种”的一种；空",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "题关键在于意识到：“列举事物”应体现“其说明对象”的显著特征。由 from. . . to. . . to 结构可知，sheep、plants 与 Argentine ant 是对 invasive species 的列举，从而意识到空格词应体现 invasive species 的总体特征“带有侵略性或是传播疾病，从而危及当地物种“，确定强调“入侵性、侵略性”的 A） aggressive 正确。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "A） aggressive 【确定词性】空格前为定冠词 the, 后为名词短语 Argentine ant, 可推知空格词与 Argentine 一起修饰限定 ant, 应为形容词、-ing 分词、或・ed 分词。 【锁定答案】空格所在句指出，大自然保护协会已经向许多入侵物种宣战，从绵羊到植物，再到阿根廷蚁。由文意可知，阿根廷蚁与绵羊和植物一样，均属入侵物种，空格词应体",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "题时需关注引言与上下文的语义逻辑。本题中空格所在句（③句）实则概括前两句并引领后两句：let the island go back to what it was 与④⑤句 working、Native plants are coming back. . . the fox. . . bounds about. . . 语义契合，指出岛屿在恢复本来面貌； the threats 与②句 declared war on. . . invasive species 一致，指向“消灭/控制外来物种”；M） remove 恰能体现这一逻辑。 二、引号内容无论其形式结构，置于句中可整体视为名词。按常规语法，空格所在句主干结构为 Our philosophy（主语）has always been （系动词）+. . . ，系动词之后应该是名词/动名词作表语，即空格词和 le t 都 23 应为-ing 分词。但由于这是援引内容（''），所以可不受此限制，解题时应以 le t 为参照。 N O But keeping those foxes from harm will occupy① Boser and her colleagues for years to come. ❷ You see, humans are still allowed on Santa Cruz Island? and they bring dogs. ® So Boser has to vaccinate② her foxes against various diseases. ❹ “We're obligated® to keep a pulse on® the population for at least five years after the foxes are delisted®, n says B o ser. ❺ That includes tagging® the foxes and 33 their numbers to ensure nothing goes wrong. 但保护这些岛狐不受伤害将会占据博瑟与其同事未来",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "M） remove 【确定词性】空格词位于 and 连接的并列结构中, and 前为 + the threats（名词短语），后为 let the island. 可推知空格词与 let 一样，为动词原形。 【锁定答案】空格所在句援引生态学家之言指出，他们对该岛的理念一直是“ 威胁，让岛屿恢复本来面貌”。由 and 可知, the threats 与 let",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "题线索有二：L 由 T hat 回指上句 to keep a pulse on the population. . . 可迅速将解题线索锁定在关键短语 keep a pulse on 上，再由 pulse“脉搏”之意可推出该短语大致含义“密切关注”，从而锁定 K） monitoring;2 . 根据空格所在句 and 可知 tagging the foxes 与 their numbers 语义同向，推理可知 “为岛狐挂上标牌”的目的是“跟踪并监控其数量”，由此也可锁定 monitoring0 '鬻❶ This is the story of the little fox that has come back» and the people who have 34 their lives to protecting it. ❷ This is the story of wildlife① conservation in the age of mass②",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "K） monitoring 【确定词性】空格词所在短语 their numbers 与 tagging the foxes 并列，共同作 includes 的宾语，故空格词应为动名词。 【锁定答案】空格所在句指出，这/持续关注岛狐物种（That 回指 to keep a pulse on the population）包括给岛狐挂上标牌并其数量，以确",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "E） dedicated 【确定词性】空格所在定语从句的整体结构为：who（主语）+have（实意动词/助动词）+ + their lives （名词短语）+ to protecting il（介词短语）。再观察可发现，have 无法与随后的名词短语 their lives 和介词短语 to protecting it 构成 have sb do sth、have sb doing sth、have sth done 中任何一种，故可判断 have 不能为实义动词，只能是助动词。所以空格词为动词过去分词，且可以构成〜sth to doing sth 结构。 【锁定答案】空格所在句指出，这（本文所述）是关于“归来的小岛狐与生命以保护岛狐的人们”的故事。联系上文可知，the people 指以博瑟为代表的保护者们，他们为保护岛狐而发起了猛烈的、持续多年的入侵物种（包括野猪）反击战，E） dedicated 符合文意。注：dedicate oneself/one's life to （doing） sth 为固定搭配， 表示“致力于/献身于（做）某事 24",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "E） dedicated 【确定词性】空格所在定语从句的整体结构为：who（主语）+have（实意动词/助动词）+ + their lives （名词短语）+ to protecting il（介词短语）。再观察可发现，have 无法与随后的名词短语 their lives 和介词短语 to protecting it 构成 have sb do sth、have",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "答 34、3 5 题需回溯全文且适当结合时代背景：第一、二、四段指出大自然保护协会为保护岛狐发起了多年战役，且即使如今岛狐已脱离“濒危名单”，但该协会在未来数年依然需要密切关注。可见，作者强调“人们为保护岛狐付出了诸多努力”，3 4 题锁定 dedicated。结合第三段暗示信息“岛上多物种面临灭绝威胁”与当今时代背景”人类对地球生态环境改变非常之深，目之所及是一个个已经消逝或正在消失的物种''，可知作者意在说明这是一个''大灭绝时代”，3 5 题锁定 extinction. , Section B “晒娃”侵犯孩子隐私？ 寿一、总体分析 _____ _____ ____________ 本文节选自 ufarw. npr. org 网站 2016. 10. 28 一篇题为 D o Parents Invade Children's Privacy WhenT hey Post Photos Online ? （父母在网上发布孩子照片是否侵犯孩子隐私？）的文章。本文主要探讨了家长网上“晒娃”现象， 指出孩子应该对自己被分享的信息享有自主权，父母应该规范自身分享行为。 潜二、试题分析, 试题定位词. 核心义",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+            "sourceText": "G） extinction 【确定词性】空格所在句整体结构为:T his（主）+ is（系）+ the story of wildlife conservation（表）+ in the age of mass （状语），其中 of mass 为 age 的后置定语，可推知空格词为名词。 【锁定答案】空格所在句指出，这是在“大规模的时代”保",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -519,8 +789,17 @@
                 "C": "Modify the genes of crops.",
                 "D": "Cut down farming costs."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "・： 第三至九段详述农场机器人的多种功能，凸显其协作优势。 第三段为意群主旨：机器人将救农场（亦救农民）于困境。come to the rescue 承上启下，侧面映射“农场人力运营模式已难以为继：农民耗费大量时间精力运营农场，依旧无法周全照顾牲畜 【段落整体解读】首段首句 put their feet up 与②句 thousands of man-hours to operate 反差鲜明，而随后③句 （One prime example）至第二段（these massive farms）均是对后者的延展，加之第三段 However, robots are coming to the rescue 逻辑归至首句，则文章开篇方式了然— 借''勾勒场景”侧面引出新现象（主旨）“机器人将解放农民双手” 退而渲染旧情形“依赖人力运营农场存在很大弊端进而再度直指新现象，彻底明确话题，同时可推断下文应 “细述新现象”，即农场自动化具体表现、利弊及作者的态度、建议等。 W 同❶ Robots are currently under a two-year trial① in Wales which will train “farmbots“ to herd②，monitor the health of livestock, and make sure there is enough pasture③ for them to graze④ on. ❷ The robots are equipped with many sensors⑤ to identify conditions of the environment, cattle, and food, using thermal⑥ and vision sensors that detect changes in body temperature. V \"You've also got color, texture and shape sensors looking down at the ground to check pasture qua",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+                "sourceText": "农产品进行升级。 34 ［精准定位］本题考查“机器人的出现赋予农民的机会（farmers be able. . . with robots. . .）\", 可定位至第一段（farmers, • ♦ now that robots. . .） o B) Enjoy more leisure hours. B）享受更多闲暇时光。 C) Modify the genes o£ crops. C）改造农作物的基因。 D) Cut down farming costs. D）削减农场经营成本。 ［锁定答案］B） o 第一段①句指出“既然机器人可以检查庄稼、挖除杂草，甚至放牧牛羊，农民是时候翘起脚休息了 （it",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -532,8 +811,17 @@
                 "C": "Lead the trend in farming the world over.",
                 "D": "Improve the quality of pastures for grazing."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "・； 第八段补充介绍农场机器人在作物种植方面的功能。 The robots are not limited to. . . They have been created to… 顺应第四段 train \"farmbots\" to …，引出农场机器人其他功用：individual fruit. cropsxweeds 语义场明确关注点转移“牲畜饲养应用（第四至七段）一作物种植应用 （第八段） 注：fruit 熟词僻义，指“大地的产物、农产品”。 IX O Many robots are equipped with① high-tech sensors and complex learning algorithms to avoid injuring humans as they work side by side②. 画❷ The robots also learn the most efficient and safest passages③，and allow engineers and farmers to analyze and better 0Ptimize④ the attributes⑤ and tasks of the robot, as well as provide a live stream⑥ giving real-time feedback on exactly what is happening on the farms. 很多机器人都配有高科技传感器， 并输入了复杂的学习算法，从而避免在与人类并肩工作时弄伤他们。而且，机器人学会了最安全、高效的路径，并让工程师和农民能够分析并进一步优化其特性和任务，还可以提供实时的数据流，对农场上正在发生的状况做出确切的实时反馈。 ①be equipped with 装备有，配备有 ②side by side 肩并肩地 ©passage ['paesids] n. 通路，通道 • 词汇注释与难句分析・； § ©optimize ['optim aiz] u. 使优化 J ⑤attribute E'se",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+                "sourceText": "47. What will 11 farmbots\" be expected to do? 47 . “农场机器人”预计能做什么？ A ) Take up many of the farmers' routines. A）承担农民许多 EJ 常工作。 B) Provide medical treatments for livestock. B）为牲畜提供医疗服务。 C) Lead the trend in farming the world over. C）引领全球的农场经营潮流",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -545,8 +833,17 @@
                 "C": "Allow farmers to learn instantly what is occurring on the farm.",
                 "D": "Allow farmers to give them real-time instructions on what to do."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "到农场正发生的状况。 D) Allow farmers to give them real-time instructions on what to do. D）让农民能向它们发出实时的行动指令。 [锁定答案]C）o 第九段①句首先指出，配有高科技传感器和复杂学习算法的机器人不会伤到与之并肩工作的人类。②句进而细述这些机器人的三项能力：",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+                "sourceText": "safest passages. A）帮助农民选择最为高效和安全的路径。 B) Help farmers simplify their farming tasks and management. B）帮助农民简化其农场任务以及经营。 C) Allow farmers to learn instantly what is occurring on the farm. C）让农民即刻了解到农场正发生的状况。 D) Allow farmers to give them real-time instructions on what to do. D）让农民能向它们发出实时的行动指令。 [锁定",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -558,8 +855,17 @@
                 "C": "Robotic farming is the trend.",
                 "D": "Labor short is worsening"
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "49 ． D)。 （@定位〕 由题干中的 farmers pressing for robots farming 定位到文章倒数第二段最后一句： However， it is fanners that are pushing for the advancements due to ever-increasing labor vacancies， making it difficult to maintam large-scale operations. （0 还的冫事实细节题。 定位句指出， 正是农民本身出于劳动力空缺不断增加， 大规模经营难以为继的缘故， 才不断推动着 （农业科技的） 进步， 四个选项中 D) 与第一个原因相吻合， 故答案为 D)O 〔 生点喳） A) “ 农业生产成本快速增加 \"、 B) “ 机器人科技渐趋成熟 ” 以及 C) “ 机器人农业是趋势 ” 在原文中均未提及， 属于无中生有， 故排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+                "sourceText": "reasing. A）农场经营成本正快速增长。 B) Robotics technology is maturing. B）机器人技术日趋成熟. C) Robotic farming is the trend. C）机器人务农是大势所趋。 D) Labor shortage is worsening. D）劳动力短缺情况日益加剧。 ［精准定位］本题考查“农民竭力推广机器人务农的原因”，由关键词 pressing for robotic farm ing 可定位至第十段②句（farmers. . . pushing for the advancements） 0 【锁定答案［D）o 第十段①句先指出“",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q50",
@@ -571,8 +877,17 @@
                 "C": "Larger and larger in scale.",
                 "D": "Better and better in condition."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "科学的基本知识， 才能做出有根据的决定。 （",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+                "sourceText": "50. What does the author think future farms will be like? 50 . 作者认为未来的农场将会是什么样的？ A) More and more automated. A）自动化程度越来越高。 B) More and more productive. B）生产力越来越高。 C) Larger and larger in scale. C）规模越来越大。 D) Better and better in condition. D）状况越来越好。 39 位至第十一段。 [锁",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -603,8 +918,17 @@
                 "C": "Have their individual genome sequenced.",
                 "D": "Make informed use of animal models."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "） 事实细节题。 定位句指出， 更多并非科学家的人将需要自如地分析复杂的科学信息， 从而做出直接影响其生活质量的决策。 而怎样才能自如地分析复杂的科学信息呢？ 结合文章开篇提出的主题 “ 公众必须能够理解科学的基本知识， 才能做出有根据的决定 \" 可知， B） 对此处信息概括正确， 故为答案。 （0 点遒） A) “ 向医生寻求个性化的医疗帮助 \"， 该选项是对定位句前半部分的曲解， 原文只是提到个性化医疗的出现， 没有提到这与保证生活品质的关系， 故排除； c） “ 对个人的基因组进行测序 \" 和 D） “ 充分地利用动物模型 \" 都是利用定位句前半部分设置的干扰， 而原文提到基因组测序和动物模型都只是举例说明当前的科技发展， 而不是那些并非科学家的人要做的事， 故排除。 A)。 （0@位） 由题干中的 scientists to build a good relationship 丽山 the media 定位到文章第四段第二句： Much has been witten about how the relationship between scientists and the media can shape the efficient transmission of scientific advances to the public. （0 详廨） 推理判断题。 定位句指出， 已经有很多文章涉及科学家和媒体之间的关系对于向公众有效传播科学进步所产生的影响， 由此推断， 如果科学家与媒体关系良好， 就有助于向公众传播科学信息， 故答案为 A)。 （0 点睛） B) “ 它能够培养公众对科学的积极态度 \" 和 C) “ 它有助于他们树立正面的公众形象 \"， 文中均未提及， 故排除； D） “ 让他们能够将自己的发现应用于公共健康事业 \" 是利用第三段中与医疗保健相关的信息设置的干扰， 但定位段是从整体角度探讨科学家与媒体的关系， 而不是局限于公共健康领域， 故排除。 54 C)。 （0 定位） 由",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+                "sourceText": "sure their quality of life? 52.非科学家应该如何做以保证生活质量？ A) Seek personalized medical assistance from doctors. A）向医生寻求个性化的医疗救助。 B) Acquire a basic understanding of medical science. B）对医学科学有一个基本的了解。 C) Have their individual genome sequenced. C）对他们个人的基因组进行测序。 D) Make informed use of animal models. D）对动物模型进行合理",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -616,8 +940,17 @@
                 "C": "It helps them to establish a more positive public image.",
                 "D": "It enables them to apply their findings to public health."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "/不满”曲解为“科学家在群众心目中形象垮塌”，进而将科学媒体的社会使命“普及科学”扭曲为“维护科学家形象”。D 源于上段末片段信息 affect their quality of life（影响生活质量/身体健康），但首先窄化了科研使命（不仅是健康），其次同 B 一样过于绝对。 ［提炼思路］六级阅读题目定位很关键，找准位置后基本上可以围绕该位置确定答案;稍远些的，或属于另一个段群/意群的内容经常被设置成看似符合文意的强干扰项“本题考查“科学家 V S 媒体''的关系，而文章前三段直接论述“科学家 V S 大众”关系，第四段引入中间关系“媒体”并论述“科学家 V S 媒体''关系，所以应紧盯该段主旨并确定 A 正确，其余三项都来自上文“科学家 V S 大众''关系的论述，命题人利用“间接关系也可以成立“干扰。 V 回❶ Unfortunately, pieces® of science journalism can also oversimplify and generalize② their subject material to the point that the basic information conveyed© is obscured® or at worst®, obviously wrong. ❷ The impact of a basic discovery on human health can be exaggerated so that the public thinks a miraculous cure is a few months to years away when in reality the significance of the study is far more limited. 遗憾的是，一些科学新闻文章也会对主题材料过于简化、笼统论述，以至于传递的基本信息晦涩难懂，或者甚至明显有误。 某项基础发现对人类健康的影响可能会被夸大，以致于公众认为奇迹疗法的出现仅有数月到数年之遥，而事实上该研究的意义要有限得多。 • 词汇注释与难句分析",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+                "sourceText": "53. Why is it important for scientists to build a good relationship with the media? 53 . 对科学家来说，为何与媒体建立起良好的关系很重要？ A) It helps them to effectively popularize new scientific information. A）这有助于他们有效地普及科学信息。 B) Tt enables the public to develop a positive attitude toward science. B）这能让公众形成对科学的正",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q54",
@@ -629,8 +962,17 @@
                 "C": "It may give inaccurate or distorted information to the public.",
                 "D": "It may provide information open to different interpretations."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "读的信息。 ［精准定位］本题考查“科学新闻的问题/缺陷”，根据关键词 the problem with science journalism 定位至第五段 Unfortunately». . . can also. . . 。 ［锁定答案］C）。第五段首句指出，一些科学新闻对（科学）主题材料的处理过于简化、笼统，甚至到了基本信息复杂难懂，乃至错误的地步，②句进而指出新闻可能夸大某项发现的影响，综合可知 C 正确，其中 may. . . inaccurate or distorted 对应文中 at worst, obviously wrong、be exaggeratedo ［排除干扰］A 结合段中②句“科学新闻可能会夸大某项发现的影响”以及“媒体喜好博眼球”的固有思维， 判定作者认为“科学媒体人都热衷于哗众取宠“，过于绝对。B 糅杂①句 oversimplify 与②句 human health, 将“简单化”的作用对象“科学主题材料”偷换为“人类健康问题”。D 对首句 information conveyed is obscured 望文生义， 但此处该词强调“难理解（晦涩、复杂）”而非“有歧义（多种解读）工 ［提炼思路］五道命题因循文章脉络而成，故细节题同样体现文章立意、结构，解题时不应忽略上下文逻辑。本题考查“科学新闻的问题”，可定位至第五段，而上段末作者提及“优秀科学媒体人”的做法，可见作者并非完全否定科学媒体，则 A 易于排除；上下文主要探讨“媒体一方如何有碍科普/大众与科学家的沟通”，而 B 与“科普”无关，最后将 C、D 与文中信息匹配得出正确项。 VI ❶ Even though scientists play a part in① Iransinilling information to journalists and ultimately② the public, too often the blame for ineffective communication is placed on③ the side of the journalists. 国❷ We believe that a",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12/key_2018.12六级解析全3套_带书签.txt",
+                "sourceText": "ting sensational information. A）它热衷于传递轰动性的信息。 B) It tends to oversimplify people's health problems. B）它往往把人们的健康问题过于简单化。 C) It may give inaccurate or distorted information to the public. C）它可能向公众传递不准确或歪曲的信息。 D ) It may provide information open to different interpretations. D）它可能提供存在多种解读的信息。 ［精准定位］本题考",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q55",
@@ -642,8 +984,17 @@
                 "C": "Seek timely assistance from the media.",
                 "D": "Improve their communication skills."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "） 事实细节题。 定位部分指出， 科学信息传播是否有效的问题往往是科学记者的责任， 但作者分析了他所认为的两个真正原因： 一是我们低估了科学家与多种受众进行有效沟通的难度， 二是大多数科学家没有接受过科学沟通的正规训练， D） 所述与第二条原因相符合， 故为答案。 （0 〕 A) “ 对科学记者进行培训 \"， 是对原文的误读， 原文提出的是培训科学家的沟通能力， 故排除； B） “ 激发公众对科学的兴趣 ”， 在原文中并未提及， 故排除；） “ 及时向媒体寻求帮助 ”， 与最后一段第二句前半部分相悖， 故排除。 infomed [ m'fo： md] adi. 见多识广的田 on [trænz'mrfan] 传递； 传送 illusü•ate [ 帛。 s ] v. 阐明， 举例说明 stem cell 干细胞 genome sequencing 基因组测序 complex [ 'kompleks] adj. 复杂的 adhere to 坚持； 黏附 accuracy [ 精确度， 准确性 obscure [ab'skjuo] 使，，，，，， 模糊不清， 掩盖； 隐藏 exaggerate [ rg'zæd30re1t ] 夸大， 夸张 ulfimately [ 'Altnn1t11] 最后， 最终 diversity [dar'va： sotl] 几多样性； 差异 Part IV Translation ln recent years， more and more m",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-1/key_OCR_2018-12-1.txt",
+                "sourceText": "D)。 -） 由题干中的 scientists do p 和 effectively 定位到文章最后一段首句： Even though scientists play a part 血 transmitting information t0 journalists and ultimately the public， t0",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

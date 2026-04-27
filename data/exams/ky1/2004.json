@@ -26,8 +26,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ".正确率;49% [精准定位]从结构上看，文章第一段由三个平行结构的长句构成，其主要结构为Many theories concerning...focus on;Theories lon the individual suggest that;Theories focusing on the role of soci- ety suggest that.三个句子的主语都是theories，并都接有分词短语做后置定语.因此②）句空格处填 入的分词和介词on的搭配应和①句中的concerning，③句中的focusing on遥相呼应，也表达\"集中 强调\"的含义.符合要求的分词短语只有[C]centering （on）. 「空格设置]本题既考查了短语center on，又考查了考生根据上下文准确理解句意的能力.例 句∶Her novels centered on the problems of adolescence.她的小说以青少年问题为中心. [干扰设置]其他项都符合文中语法要求，能与介词on搭配，且都可以与theories构成逻辑主谓 关系，因此需要从更宏观的上下文进行排除.例句∶Alcohol acts on the brain.酒精对大脑起作用. She relies on her parents for tuition.她的学费依赖于父母.He commented on the bad weather here. 他对这里糟糕的天气发表评论. [B] unless如果不，除非（表条件）"
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "1.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -40,7 +49,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": "理解. [干扰设置] 其他项都是常用的表示逻辑关系的连接词. [B] assimilation（into）吸收，同化，融入"
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "2.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -52,8 +70,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ".正确率∶47 % 精准定位] 空格所在部分为②句中第二个that引导的宾语从句.其中介词短语through 3 with others做状语，修饰从句谓语learned criminal behavior，表明\"和其他人的⋯⋯.\"是\"孩子们学会 犯罪\"的方式和原因.interaction with others意为\"和他人的相互影响，即受到坏人的影响（而学会 了犯罪）\"，符合文意.assimilation不与with搭配，首先排除.cooperation（with）\"合作\"和consulta- tion（with）\"磋商\"为褒义，在文中表达的含义\"通过合作或磋商学会犯罪\"不符合逻辑. 空格设置本题考查抽象名词interaction，其构词法是\"前缀inter-（ 在....之间）action（作 用）\".例句∶the interaction between performers and their audience演员和观众之间的互动. [干扰设置] 其他项都是\"核心词＋词缀\"构成的抽象名词，且构成对interaction的近义干扰. assimilation的构成法是\"前缀as-（表强调）＋similar（相同的）＋名词后缀-tion\"，assimilate是其动词 形式，如∶the rapid assimilation of new ideas对新思想的迅速吸收，his assimilation into the political community他进入政界.cooperation的构词法是\"前缀co-（共同）＋operation（操作）\"，cooperate是 其动词形式，如∶a report produced by the government in cooperation with the chemical industry政府 与化工行业合作提出的一份报告.consultation含有前缀con-（共同的，相同的），consult是其动词形 式，如∶The decision was taken after close consultation with"
+              "answer": "A",
+              "explanation": ". 正确率∶47 % 精准定位] 空格所在部分为②句中第二个 that 引导的宾语从句. 其中介词短语 through 3 with others 做状语，修饰从句谓语 learned criminal behavior，表明\"和其他人的⋯⋯. \"是\"孩子们学会犯罪\"的方式和原因. interaction with others 意为\"和他人的相互影响，即受到坏人的影响（而学会了犯罪）\"，符合文意. assimilation 不与 with 搭配，首先排除. cooperation（with）\"合作\"和 consulta- tion（with）\"磋商\"为褒义，在文中表达的含义\"通过合作或磋商学会犯罪\"不符合逻辑. 空格设置本题考查抽象名词 interaction，其构词法是\"前缀 inter-（在. . . . 之间）action（作用）\". 例句∶the interaction between performers and their audience 演员和观众之间的互动. [干扰设置] 其他项都是\"核心词＋词缀\"构成的抽象名词，且构成对 interaction 的近义干扰. assimilation 的构成法是\"前缀 as-（表强调）＋similar（相同的）＋名词后缀-tion\"，assimilate 是其动词形式，如∶the rapid assimilation of new ideas 对新思想的迅速吸收，his assimilation into the political community 他进入政界. cooperation 的构词法是\"前缀 co-（共同）＋operation（操作）\"，cooperate 是其动词形式，如∶a report produced by the government in cooperation with the chemical industry 政府与化工行业合作提出的一份报告. consultation 含有前缀 con-（共同的，相同的），consult 是其动词形式，如∶The decision was taken",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "3. [A] interaction（with）沟通，交流;互相作用. 影响 [C] cooperation（with）合作，协作 [D] consultation （with）咨询，磋商本题考核的知识点是∶名词短语辨析. 正确率∶47 % 精准定位] 空格所在部分为②句中第二个 that 引导的宾语从句. 其中介词短语 through 3 with others 做状",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -65,8 +92,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": "（in）return（for）作为（对⋯⋯的）回报，交换，反应 [B]（in）reply（to）作为对⋯⋯的答复 [C]（in）reference（to）关于 [D]（in）response（to）作为对⋯⋯的反应，答复 本题考核的知识点是∶固定搭配.正确率∶66% [精准定位]空格所在部分为③句中that引导的宾语从句，其中介词短语in 4 to their failure做 状语，修饰谓语动词commit crimes.该从句的含义为\"孩子们犯罪..⋯他们没有成功地超越现有的 社会经济地位\".return只与介词for搭配，构成短语in return for，因此排除.（in）reference（to）代 入文中意为\"关于他们没有成功⋯⋯⋯.\"，语义明显不通.最后对in reply to和in responseto进行比 较，这两个短语区别的关键在其中心名词reply和response.reply指\"回答，答复\"，而response多表 示\"一种自发的反应\".青少年犯罪是对自己没有成功地超越现有的社会经济地位的一种\"自发的. 本能的反应行为\"，因此这个正确选项应是[D]in response to. [空格设置] 对response设空，一方面考查了它构成的介词短语;另一方面考查了句内逻辑关系 （文中in response to连接了前后的\"行为\"与\"行为原因\"）.response可意为\"回答，答复\"，但还指 \"（对已发生的事.说过的话等的）反应，响应\"，如∶In response to your inquiry... 作为对你提出的查 询的答复⋯⋯，The law was passed in response to public pressure.在公众压力下该法律获得通过. [干扰设置]return在词义上具有干扰，但如果准确掌握搭配则很容易排除.例句∶Can Ibuy you lunch in return for your help?感谢你帮忙，我请你吃午饭好吗?Iasked her opinion，but she just asked mea questi"
+              "answer": "A",
+              "explanation": "（in）return（for）作为（对⋯⋯的）回报，交换，反应 [B]（in）reply（to）作为对⋯⋯的答复 [C]（in）reference（to）关于 [D]（in）response（to）作为对⋯⋯的反应，答复本题考核的知识点是∶固定搭配. 正确率∶66% [精准定位]空格所在部分为③句中 that 引导的宾语从句，其中介词短语 in 4 to their failure 做状语，修饰谓语动词 commit crimes. 该从句的含义为\"孩子们犯罪. . ⋯他们没有成功地超越现有的社会经济地位\". return 只与介词 for 搭配，构成短语 in return for，因此排除. （in）reference（to）代入文中意为\"关于他们没有成功⋯⋯⋯. \"，语义明显不通. 最后对 in reply to 和 in responseto 进行比较，这两个短语区别的关键在其中心名词 reply 和 response. reply 指\"回答，答复\"，而 response 多表示\"一种自发的反应\". 青少年犯罪是对自己没有成功地超越现有的社会经济地位的一种\"自发的. 本能的反应行为\"，因此这个正确选项应是[D]in response to. [空格设置] 对 response 设空，一方面考查了它构成的介词短语;另一方面考查了句内逻辑关系 （文中 in response to 连接了前后的\"行为\"与\"行为原因\"）. response 可意为\"回答，答复\"，但还指 \"（对已发生的事. 说过的话等的）反应，响应\"，如∶In response to your inquiry. . . 作为对你提出的查询的答复⋯⋯，The law was passed in response to public pressure. 在公众压力下该法律获得通过. [干扰设置]return 在词义上具有干扰，但如果准确掌握搭配则很容易排除. 例句∶Can Ibuy you lunch in return for your help?感谢你帮忙，我请你吃午饭好吗?Iasked her opinion，but",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "4. [A]（in）return（for）作为（对⋯⋯的）回报，交换，反应 [B]（in）reply（to）作为对⋯⋯的答复 [C]（in）reference（to）关于 [D]（in）response（to）作为对⋯⋯的反应，答复本题考核的知识点是∶固定搭配. 正确率∶66% [精准定位]空格所在部分为③句中 that 引导的宾语从句，其中介词短语 in 4 to",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -78,8 +114,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/key_2004年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 21-25 CDADA 26-30 BCDAB 31-35 ACDBA 36-40 BBDAC 6A5B4C5D 结论 A. B, C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律. Section III Reading Comprehension 配套外教音频 -♦ Part A, Text 1 旬 I 命题分析 Text 1 选自 1997 年 10 月 27 日的 U",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -91,8 +136,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ".正确率∶70 % 「精准定位] 首句中空格前的部分指出\"大部分研究青少年犯罪的理论都关注来自贫穷家庭的 孩子\"，空格后的部分指出\".⋯·来自富有家庭的孩子也犯罪的事实\".从逻辑上讲.\"只关注贫穷家 庭的孩子的情况\"会导致\"不关注富裕家庭孩子的情况\"的结果.选项中能表达\"不关注\"含义的只有 ignoring，它在这里做结果状语，意为\"（于是）就忽视了⋯.\".discarding不能与fact搭配. 空格设置]ignore并非生僻词，对它设空，因为它和主句的谓语focused on形成反义对照;关注 ⋯⋯忽视⋯⋯.例句∶We cannot afford to ignore their advice.我们不能不考虑他们的劝告. 「干扰设置7其他项中，consider与highlight对ignore构成反义干扰，discard则对ignore构成近 义干扰.例句∶The report highlighted the major problems facing society today.报告特别强调了当今社会 所面临的主要问题.10of the data was discarded as unreliable.10??数据因不可靠而被废弃. [B] in"
+              "answer": "A",
+              "explanation": ". 正确率∶70 % 「精准定位] 首句中空格前的部分指出\"大部分研究青少年犯罪的理论都关注来自贫穷家庭的孩子\"，空格后的部分指出\". ⋯·来自富有家庭的孩子也犯罪的事实\". 从逻辑上讲. \"只关注贫穷家庭的孩子的情况\"会导致\"不关注富裕家庭孩子的情况\"的结果. 选项中能表达\"不关注\"含义的只有 ignoring，它在这里做结果状语，意为\"（于是）就忽视了⋯. \". discarding 不能与 fact 搭配. 空格设置]ignore 并非生僻词，对它设空，因为它和主句的谓语 focused on 形成反义对照;关注 ⋯⋯忽视⋯⋯. 例句∶We cannot afford to ignore their advice. 我们不能不考虑他们的劝告. 「干扰设置 7 其他项中，consider 与 highlight 对 ignore 构成反义干扰，discard 则对 ignore 构成近义干扰. 例句∶The report highlighted the major problems facing society today. 报告特别强调了当今社会所面临的主要问题.10of the data was discarded as unreliable.10??数据因不可靠而被废弃. [B] in",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "6.[A]considering 考虑，细想 [D] discarding 丢弃，抛弃（不想要或不再需要的人/物） [C] highlighting 突出，强调本题考核的知识点是∶分词结构做状语士动词词义辨析. 正确率∶70 % 「精准定位] 首句中空格前的部分指出\"大部分研究青少年犯罪的理论都关注来自贫穷家庭的孩子\"，空格后的部分指出\". ⋯·来自富有家庭的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -104,8 +158,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ".正确率∶55% 精准定位] 考生首先要知道②）句主语the latter（后者）指代首句中提到的\"富有家庭的孩子\"; 6 其次要搞清楚空格前后部分The latter commit crimes和lack of adequate parental control之间的逻 辑关系.由于上文一直在探讨青少年犯罪的原因，这里也不例外，谈论的是\"富有家庭的孩子犯罪\" 是由于\"缺少父母管教\"，空格处需填入表因果关系的介词.on，for，with都可用于引出原因，但只有 for能与lack搭配，for lack of表示\"由于缺乏⋯⋯.\"，为正确选项. 「空格设置] for是常用介词，用法较多，此处考查了它表示原因的用法及搭配.for可意为\"因为， 由于\"，如∶He got an award for bravery.他因英勇受奖.for lack of是常用搭配，相当于through lack of. 干扰设置]在常用介词中，许多可表示相似的含义，但具体的用法及搭配并不相同.on可意为 \"根据，由于\"，如∶a story based on fact基于事实的小说，On their advice Iapplied for the job.我听从 了他们的建议申请了这份工作.in可以表示时间 .地点.状态.有关⋯.⋯..等.但不表示原因;in that可 以表示原因，要接从句，文中原句可改写为The latter may commit crimes in that they lack adequate parental control.with可意为因为，由于，作为⋯⋯的结果\"，如∶His fingers were numbed with cold. 他的手指冻木了."
+              "answer": "A",
+              "explanation": ". 正确率∶55% 精准定位] 考生首先要知道②）句主语 the latter（后者）指代首句中提到的\"富有家庭的孩子\"; 6 其次要搞清楚空格前后部分 The latter commit crimes 和 lack of adequate parental control 之间的逻辑关系. 由于上文一直在探讨青少年犯罪的原因，这里也不例外，谈论的是\"富有家庭的孩子犯罪\" 是由于\"缺少父母管教\"，空格处需填入表因果关系的介词. on，for，with 都可用于引出原因，但只有 for 能与 lack 搭配，for lack of 表示\"由于缺乏⋯⋯. \"，为正确选项. 「空格设置] for 是常用介词，用法较多，此处考查了它表示原因的用法及搭配. for 可意为\"因为， 由于\"，如∶He got an award for bravery. 他因英勇受奖. for lack of 是常用搭配，相当于 through lack of. 干扰设置]在常用介词中，许多可表示相似的含义，但具体的用法及搭配并不相同. on 可意为 \"根据，由于\"，如∶a story based on fact 基于事实的小说，On their advice Iapplied for the job. 我听从了他们的建议申请了这份工作. in 可以表示时间. 地点. 状态. 有关⋯. ⋯. . 等. 但不表示原因;in that 可以表示原因，要接从句，文中原句可改写为 The latter may commit crimes in that they lack adequate parental control. with 可意为因为，由于，作为⋯⋯的结果\"，如∶His fingers were numbed with cold. 他的手指冻木了.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "7.[A] on [D]with [C] for 本题考核的知识点是∶逻辑关系十介词用法辨析. 正确率∶55% 精准定位] 考生首先要知道②）句主语 the latter（后者）指代首句中提到的\"富有家庭的孩子\"; 6 其次要搞清楚空格前后部分 The latter commit crimes 和 lack of adequate parental contro",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -117,8 +180,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": "②dliscontent lgernfol ①gainfu diskon'tent] n.不满;不满足;"
+              "answer": "A",
+              "explanation": "②dlisconte",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "8. [A] immune（to）免疫的，不受影响的 「B] resistant（to）有抵抗力的;对⋯⋯⋯抵制的 [D] subject（to）易受. ⋯⋯. 影响的;取决于;服从于 [C] sensitive（to）敏感的，过敏的本题考核的知识点是∶形容词结构作表语. 正确率∶41% 「精准定位] 空格所在句为③句. 从语法上讲，空格处填入的形容词应与介词 to 搭配",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -130,8 +202,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ".正确率∶75% 「精准定位]空格处需填入一个谓语动词，其主语是Changes in the social structure，宾语是ju- venile crime rates，同时受副词indirectly修饰.因此，考生关键要判断主语\"社会结构的变化\"能间接 地对宾语\"青少年犯罪率\"做什么动作.首先，由于文中只提到\"社会结构的变化\"，没有具体指明向 哪个方面的变化，所以不能用check或reduce这类表单方向作用的词，而且上下文没有涉及犯罪率 高低变化的问题.其次，reflect也不合适，逻辑上讲，只能是\"犯罪率（的变化）反映了社会结构的变 迁\"，而不能反过来说\"社会结构的变化反映了犯罪率（的变化）\".affect表示\"社会结构的变化间接 地影响了青少年犯罪率\"，符合文意. 8 『空格设置此处既考查了动词affect的用法.也考查了考生根据\"分析青少年犯罪原因\"的上 下文选择恰当词语的能力.affect意为\"影响，（疾病.灾难等）感染，侵袭\"，如∶How will these chan- ges affect us?这些变化对我们会有什么影响? 「干扰设置其他项都可与句中的主语及宾语形成合乎逻辑的搭配，因此需要根据更宏观的上 下文来排除干扰.例句∶to check the growth of public spending控制公共开支的增长.His music re- flects his interest in African culture. 他的音乐反映了他对非洲文化的兴趣. B] lead（to）通向，导致，引起，造成"
+              "answer": "A",
+              "explanation": ". 正确率∶75% 「精准定位]空格处需填入一个谓语动词，其主语是 Changes in the social structure，宾语是 ju- venile crime rates，同时受副词 indirectly 修饰. 因此，考生关键要判断主语\"社会结构的变化\"能间接地对宾语\"青少年犯罪率\"做什么动作. 首先，由于文中只提到\"社会结构的变化\"，没有具体指明向哪个方面的变化，所以不能用 check 或 reduce 这类表单方向作用的词，而且上下文没有涉及犯罪率高低变化的问题. 其次，reflect 也不合适，逻辑上讲，只能是\"犯罪率（的变化）反映了社会结构的变迁\"，而不能反过来说\"社会结构的变化反映了犯罪率（的变化）\". affect 表示\"社会结构的变化间接地影响了青少年犯罪率\"，符合文意. 8 『空格设置此处既考查了动词 affect 的用法. 也考查了考生根据\"分析青少年犯罪原因\"的上下文选择恰当词语的能力. affect 意为\"影响，（疾病. 灾难等）感染，侵袭\"，如∶How will these chan- ges affect us?这些变化对我们会有什么影响? 「干扰设置其他项都可与句中的主语及宾语形成合乎逻辑的搭配，因此需要根据更宏观的上下文来排除干扰. 例句∶to check the growth of public spending 控制公共开支的增长. His music re- flects his interest in African culture. 他的音乐反映了他对非洲文化的兴趣. B] lead（to）通向，导致，引起，造成",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "9.[A] affect 影响;感染，侵袭 [C] check 制止，控制 [D] reflect 反射，反映，表现本题考核的知识点是∶上下文语义十动词词义辨析. 正确率∶75% 「精准定位]空格处需填入一个谓语动词，其主语是 Changes in the social structure，宾语是 ju- venile crime rates，同时受副词 ind",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -144,7 +225,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ".正确率∶82% [精准定位]本题空格所在部分是that引导的定语从句，从句的主语是先行词changes in the e- conomy，谓语是空格处填入的动词与介词to的搭配，宾语是fewer job opportunities and rising unem- ployment.由于选项中的动词都可与to搭配，组成短语动词，因此考生关键要根据句意选择. 备选 项中，只有[B]lead to能表达主语和宾语之间合乎逻辑的关系，即\"经济变化导致了年轻人就业机会 减少\"，其余三项代入表示\"经济变化指向/到达/等同于工作机会减少\"，都不符合逻辑. 「空格设置本题通过短语动词lead to，实际上考查了句内因果逻辑关系.例句∶too much work leads to illness劳累过度致病. [干扰设置]其他项的动词都是简单词，且都可与介词to形成含义丰富的固定短语.point to意 为\"指向;暗示，预示\"，如∶All the signs point to a successful year ahead.一切迹象都预示着来年将一 帆风顺.come to意为\"达到，进入（某种状态.某状况）;共计，合计\"，如;come to an understanding达 成谅解，The bill came to $30.账单金额总计为30元.amount to意为\"总计，共计;等于.相当于\" 如∶Her standards amounted to perfection. 她简直要求事事十全十美. 补充与to搭配的短语动词∶apply to（适合），bring to（苏醒，停下来），conform to（相称），fall to（开 始），object to（反对），refer to（提及，指），set to（着手），take to（喜爱上，专心于），yicld to（屈服于）. [B] on average平均起来"
+              "explanation": ". 正确率∶82% [精准定位]本题空格所在部分是 that 引导的定语从句，从句的主语是先行词 changes in the e- conomy，谓语是空格处填入的动词与介词 to 的搭配，宾语是 fewer job opportunities and rising unem- ployment. 由于选项中的动词都可与 to 搭配，组成短语动词，因此考生关键要根据句意选择. 备选项中，只有[B]lead to 能表达主语和宾语之间合乎逻辑的关系，即\"经济变化导致了年轻人就业机会减少\"，其余三项代入表示\"经济变化指向/到达/等同于工作机会减少\"，都不符合逻辑. 「空格设置本题通过短语动词 lead to，实际上考查了句内因果逻辑关系. 例句∶too much work leads to illness 劳累过度致病. [干扰设置]其他项的动词都是简单词，且都可与介词 to 形成含义丰富的固定短语. point to 意为\"指向;暗示，预示\"，如∶All the signs point to a successful year ahead. 一切迹象都预示着来年将一帆风顺. come to 意为\"达到，进入（某种状态. 某状况）;共计，合计\"，如;come to an understanding 达成谅解，The bill came to $30.账单金额总计为 30 元. amount to 意为\"总计，共计;等于. 相当于\" 如∶Her standards amounted to perfection. 她简直要求事事十全十美. 补充与 to 搭配的短语动词∶apply to（适合），bring to（苏醒，停下来），conform to（相称），fall to（开始），object to（反对），refer to（提及，指），set to（着手），take to（喜爱上，专心于），yicld to（屈服于）. [B] on average 平均起来",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "10. [A] point（to）指向;预示 [D] amount（to）总计，等于，等同，接近 [C]come（to）到达，达到∶共计本题考核的知识点是∶上下文语义十动词短语辨析. 正确率∶82% [精准定位]本题空格所在部分是 that 引导的定语从句，从句的主语是先行词 changes in the e- conomy，谓语是空格处填入的动词与介词 to",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -156,8 +246,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ".例句∶Children in general are fond of candy.孩子一般 都喜欢糖果. [干扰设置]其他项都是常用的介词短语，其中on average与in general含义相近，at length在句 内上下文中造成较大的语义干扰.例句∶On average we receive 5 letters each day.我们每天平均收 到五封信.Mr.Green is a taciturn person.By contrast，his brother was much more talkative.格林先 生是一个沉默寡言的人，相比之下，他兄弟要健谈得多.At length they reached their destination.他 们最终到达了目的地.He quoted at length from the report.他大段大段地引用报告中的话."
+              "answer": "A",
+              "explanation": ". 例句∶Children in general are fond of candy. 孩子一般都喜欢糖果. [干扰设置]其他项都是常用的介词短语，其中 on average 与 in general 含义相近，at length 在句内上下文中造成较大的语义干扰. 例句∶On average we receive 5 letters each day. 我们每天平均收到五封信. Mr. Green is a taciturn person. By contrast，his brother was much more talkative. 格林先生是一个沉默寡言的人，相比之下，他兄弟要健谈得多. At length they reached their destination. 他们最终到达了目的地. He quoted at length from the report. 他大段大段地引用报告中的话.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "11. [A] in general 通常，一般说来 [C] by contrast 对比起来 [D] at length 最后，终于;充分地，详细地本题考核的知识点是∶句内语义十固定短语. 正确率∶38% 「精准定位]由于空格所在句（②句）的主干结构已经完整;changes in the economy（主语）make （谓语）employment（宾语）diffi",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -170,7 +269,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2009/paper_1998-2009年考研英语真题答案速查.txt",
+                "sourceText": "12. C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -183,7 +291,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2009/paper_1998-2009年考研英语真题答案速查.txt",
+                "sourceText": "13. B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -196,7 +313,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": "contrarily相反地（表对比） [B] consequently所以，因此（表因果） [C] similarly同样地，类似于（表比较） [D] simultaneously同时地（表时间） 本题考核的知识点是∶逻辑关系.正确率∶78 % [精准定位] 分号和逗号之间一般填入表达句子逻辑关系的词，因此本题要求考生判断空格前 后\"单亲和双职工家庭增多\"和\"孩子们在家里得到的监护减少\"之间的逻辑关系.根据常识.在单亲 和双职工家庭中，父母工作繁忙，因此孩子受到的监护就会减少.可见，这里需要一个表因果关系的 逻辑副词，选项中只有consequently符合要求. [空格设置]本题考查了句间的逻辑关系. [干扰设置] 其他项都是表示逻辑关系的副词.例句∶ Bob is a liberal.Contrarily，his wife is a conservative.鲍勃是个开明的人，相反地，他妻子却很保守.Men must wear a iacket and tie，Simi larly，women must wear a skirt or dress and not trousers.男士必须穿外套.打领带;同样，女士必须 穿裙子或套装，但不宜穿长裤.The game will be broadcast simultaneously on TV and radio.比赛将 同时在电视和广播中进行转播."
+              "explanation": "contrarily 相反地（表对比） [B] consequently 所以，因此（表因果） [C] similarly 同样地，类似于（表比较） [D] simultaneously 同时地（表时间） 本题考核的知识点是∶逻辑关系. 正确率∶78 % [精准定位] 分号和逗号之间一般填入表达句子逻辑关系的词，因此本题要求考生判断空格前后\"单亲和双职工家庭增多\"和\"孩子们在家里得到的监护减少\"之间的逻辑关系. 根据常识. 在单亲和双职工家庭中，父母工作繁忙，因此孩子受到的监护就会减少. 可见，这里需要一个表因果关系的逻辑副词，选项中只有 consequently 符合要求. [空格设置]本题考查了句间的逻辑关系. [干扰设置] 其他项都是表示逻辑关系的副词. 例句∶ Bob is a liberal. Contrarily，his wife is a conservative. 鲍勃是个开明的人，相反地，他妻子却很保守. Men must wear a iacket and tie，Simi larly，women must wear a skirt or dress and not trousers. 男士必须穿外套. 打领带;同样，女士必须穿裙子或套装，但不宜穿长裤. The game will be broadcast simultaneously on TV and radio. 比赛将同时在电视和广播中进行转播.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "14.[A] contrarily 相反地（表对比） [B] consequently 所以，因此（表因果） [C] similarly 同样地，类似于（表比较） [D] simultaneously 同时地（表时间） 本题考核的知识点是∶逻辑关系. 正确率∶78 % [精准定位] 分号和逗号之间一般填入表达句子逻辑关系的词，因此本题要求考生判断空格前后\"单亲和双",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -209,7 +335,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2009/paper_1998-2009年考研英语真题答案速查.txt",
+                "sourceText": "15. C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -222,7 +357,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ". 正确率∶66% 精准定位] 此题有两个解题线索.第一个线索是空格所在句子中的比较.the traditional fam- ily 16与句内上文families...one-parent households or two working parents形成对照，后者为现代家 庭的结构，那么空格处也应相应地填入一个表\"结构\"含义的词.第二个线索则需要结合更宏观的上 下文.第三段首句提出changes in the social structure;第四段首句提出Families...changes，即从\"社 会结构的变化\"到\"家庭结构的变化\".而且②句提到的\"单亲和双职工家庭\"进一步明确了这一点. 因此空格处应填入这个多次出现的关键词structure. 「空格设置] 本题考查考生对上下文的理解以及局部内容的概括能力. [干扰设置]其他项利用family的常用搭配进行干扰.例句∶the concept of infinite space无限空 间的概念，the cultural heritage of Italy意大利的文化遗产. [B] identifiable可确认的;可识别的"
+              "explanation": ". 正确率∶66% 精准定位] 此题有两个解题线索. 第一个线索是空格所在句子中的比较. the traditional fam- ily 16 与句内上文 families. . . one-parent households or two working parents 形成对照，后者为现代家庭的结构，那么空格处也应相应地填入一个表\"结构\"含义的词. 第二个线索则需要结合更宏观的上下文. 第三段首句提出 changes in the social structure;第四段首句提出 Families. . . changes，即从\"社会结构的变化\"到\"家庭结构的变化\". 而且②句提到的\"单亲和双职工家庭\"进一步明确了这一点. 因此空格处应填入这个多次出现的关键词 structure. 「空格设置] 本题考查考生对上下文的理解以及局部内容的概括能力. [干扰设置]其他项利用 family 的常用搭配进行干扰. 例句∶the concept of infinite space 无限空间的概念，the cultural heritage of Italy 意大利的文化遗产. [B] identifiable 可确认的;可识别的",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "16.[A] system 系统，体系，体制 [C] concept 观念，概念 [D] heritage（重要特性. 习俗. 传统等）遗产本题考核的知识点是∶上下文语义十名词词义辨析. 正确率∶66% 精准定位] 此题有两个解题线索. 第一个线索是空格所在句子中的比较. the traditional fam- ily 16 与句内上文 families. . . one-p",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -234,8 +378,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ".正确率∶29% [精准定位] ④句中Other 17 causes of offensive acts与上文③句中an influence（影响，原因）on juvenile crime rates形成对照，因此④句承接上文，继续阐述造成青少年犯罪的其他原因.空格处填 入的形容词修饰causes，并且是下文提到的所有原因\"在学校里形成的挫败感或学习不及格.酗酒. 毒品.虐待儿童\"的共同特点.选项中只有identifiable能成为这些原因的共同特点，即∶它们都是人 们已经有所了解的. 空格设置]identifiable是由动词identify派生出的形容词，并且只能通过上下文的正确理解才能 判断.例句∶Only three people in the photograph are identifiable.照片上只有三个人可以辨认出来. [干扰设置] 其他项都是以形容词后缀-able（-ible）结尾的单词.例句∶The future price of the building is assessable.这栋楼未来的价格可以估计.assessable income可征税收入.In buying a suit，a difference of ten cents in prices is negligible.买一套农服价钱只差一角钱是无所谓的.He 13 was dressed with incredible speed. 他以惊人的速度穿好了衣服. 「B restriction限制，约束"
+              "answer": "A",
+              "explanation": ". 正确率∶29% [精准定位] ④句中 Other 17 causes of offensive acts 与上文③句中 an influence（影响，原因）on juvenile crime rates 形成对照，因此④句承接上文，继续阐述造成青少年犯罪的其他原因. 空格处填入的形容词修饰 causes，并且是下文提到的所有原因\"在学校里形成的挫败感或学习不及格. 酗酒. 毒品. 虐待儿童\"的共同特点. 选项中只有 identifiable 能成为这些原因的共同特点，即∶它们都是人们已经有所了解的. 空格设置]identifiable 是由动词 identify 派生出的形容词，并且只能通过上下文的正确理解才能判断. 例句∶Only three people in the photograph are identifiable. 照片上只有三个人可以辨认出来. [干扰设置] 其他项都是以形容词后缀-able（-ible）结尾的单词. 例句∶The future price of the building is assessable. 这栋楼未来的价格可以估计. assessable income 可征税收入. In buying a suit，a difference of ten cents in prices is negligible. 买一套农服价钱只差一角钱是无所谓的. He 13 was dressed with incredible speed. 他以惊人的速度穿好了衣服. 「B restriction 限制，约束",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "17. [A] assessable 可估价的;可征税的 D] incredible 难以置信的，惊人的 [C] negligible 可以忽略的，不予重视的本题考核的知识点是∶形容词用法辨析. 正确率∶29% [精准定位] ④句中 Other 17 causes of offensive acts 与上文③句中 an influence（影响，原因）on juve",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -247,8 +400,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ".正确率∶56% 「精准定位] 空格处填入的名词同时被increased和of drugs and alcohol修饰，描述造成青少年 犯罪的-种原因.首先可排除allocation，因为它不能被increased修饰;其次，从逻辑上讲，\"毒品和 酒精的价格（expense）提高\".\"对毒品和酒精的限制（restriction）增多\"都不应该是造成犯罪的原因. 反而有可能减少犯罪. 只有\"（青少年）越来越容易接触（availability）毒品和酒精\"才可能引起犯罪， 因此[D]正确. [空格设置] availability本身词义较抽象，且它是所在名词短语中的核心名词.例句∶The avail- ability of clean water resource is becoming more and more difficult.找到纯净的水源变得越来越难 [干扰设置]其他项都是根据与of drugs and alcohol的搭配设置干扰.例句∶Redecorating the house will be a considerable expense.重新装饰房屋将是一项很大的花费.There is a restriction against smoking in schools.学校禁止吸烟.Sugar is under allocation during war time. 战争时期糖是配给的."
+              "answer": "A",
+              "explanation": ". 正确率∶56% 「精准定位] 空格处填入的名词同时被 increased 和 of drugs and alcohol 修饰，描述造成青少年犯罪的-种原因. 首先可排除 allocation，因为它不能被 increased 修饰;其次，从逻辑上讲，\"毒品和酒精的价格（expense）提高\". \"对毒品和酒精的限制（restriction）增多\"都不应该是造成犯罪的原因. 反而有可能减少犯罪. 只有\"（青少年）越来越容易接触（availability）毒品和酒精\"才可能引起犯罪， 因此[D]正确. [空格设置] availability 本身词义较抽象，且它是所在名词短语中的核心名词. 例句∶The avail- ability of clean water resource is becoming more and more difficult. 找到纯净的水源变得越来越难 [干扰设置]其他项都是根据与 of drugs and alcohol 的搭配设置干扰. 例句∶Redecorating the house will be a considerable expense. 重新装饰房屋将是一项很大的花费. There is a restriction against smoking in schools. 学校禁止吸烟. Sugar is under allocation during war time. 战争时期糖是配给的.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "18.[A] expense 费用，代价 [D] availability 可获得性，有效性，实用性 [C] allocation 分配，拨款本题考核的知识点是∶上下文语义十名词词义辨析. 正确率∶56% 「精准定位] 空格处填入的名词同时被 increased 和 of drugs and alcohol 修饰，描述造成青少年犯罪的-种原因. 首先可排除 all",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -260,8 +422,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ".正确率∶37 % 「精准定位]和上题一样，本题空格处的名词同时被growing和of child abuse and child neglect 修饰，描述造成青少年犯罪的另一种原因.由于四个选项都可以被growing修饰，解题的关键只能 是根据逻辑语义做出判断.首先\"儿童受虐待和得不到关怀的日益普及（popularity）\"明显不可能 其次\"不断意识到（awareness）.不断暴露（exposure）儿童受虐待和得不到关怀\"不但不是犯罪发生的 原因，反而有利干减少犯罪;只有\"儿童受虐待和得不到关怀的事件发生日益增多才符合文章 ，因此 [A正确. [空格设置]本题考查了抽象名词incidence的用法以及上下文意的理解.incidence意为\"发生 （率）\"，如∶There is a high incidence of malaria in the tropics.在热带地区疟疾发病率很高. [干扰设置]其他项中，awareness与exposure构成对incidence的反义干扰，popularity则是它的 近义干扰.例句∶A good parliamentarian must have an awareness of what the people at home want. 一个好的国会议员必须知道国内的人民想要什么.Exposure of the body to strong sunlight may be harmful.让身体暴露在强烈的阳光下可能是有害的.The comedian enjoyed great popularity during the 30s and 40s.这个喜剧演员在三.四十年代很受人欢迎. 「B]since因为，既然（表因果或让步）"
+              "answer": "A",
+              "explanation": ". 正确率∶37 % 「精准定位]和上题一样，本题空格处的名词同时被 growing 和 of child abuse and child neglect 修饰，描述造成青少年犯罪的另一种原因. 由于四个选项都可以被 growing 修饰，解题的关键只能是根据逻辑语义做出判断. 首先\"儿童受虐待和得不到关怀的日益普及（popularity）\"明显不可能其次\"不断意识到（awareness）. 不断暴露（exposure）儿童受虐待和得不到关怀\"不但不是犯罪发生的原因，反而有利干减少犯罪;只有\"儿童受虐待和得不到关怀的事件发生日益增多才符合文章，因此 [A 正确. [空格设置]本题考查了抽象名词 incidence 的用法以及上下文意的理解. incidence 意为\"发生 （率）\"，如∶There is a high incidence of malaria in the tropics. 在热带地区疟疾发病率很高. [干扰设置]其他项中，awareness 与 exposure 构成对 incidence 的反义干扰，popularity 则是它的近义干扰. 例句∶A good parliamentarian must have an awareness of what the people at home want. 一个好的国会议员必须知道国内的人民想要什么. Exposure of the body to strong sunlight may be harmful. 让身体暴露在强烈的阳光下可能是有害的. The comedian enjoyed great popularity during the 30s and 40s. 这个喜剧演员在三. 四十年代很受人欢迎. 「B]since 因为，既然（表因果或让步）",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "19. [A] incidence（of）发生（率） [B] awareness（of）意识，知道 [D] popularity 普及，流行，出名 [C] expOSure（to）暴露，揭露本题考核的知识点是∶上下文语义十名词词义辨析. 正确率∶37 % 「精准定位]和上题一样，本题空格处的名词同时被 growing 和 of child abuse and c",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -273,8 +444,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": "本文摘自US News & World Report（《美国新闻与世界报道》）1997年10月27日一篇题为 Puting the Net to Work（利用网络找工作）的文章.这是一篇说明文，介绍了一种用于求职的个人 搜索引擎工具，从使用搜索引擎而找到工作的实例入手，通过引用求职当事人以及求职专家的观点. 对这种新事物的优缺点进行了全面的分析，并给出了最佳使用建议. 二.语篇分析及试题精解 I ④Hunting for\" a job late last year,law- 去年年末找工作的时候，甘特.雷德曼律师 yer Gant Redmon stumbled across CareerBuild- 偶然在网上发现了一个名为CareerBuilder的网 er, a job database on the Internet. ② He 站，该网站是一个求职数据库.他在上面搜索了 searched it with no success but was attracted by 一下，虽然没有成功找到（所要的职位"
+              "answer": "A",
+              "explanation": "本文摘自 US News & World Report（《美国新闻与世界报道》）1997 年 10 月 27 日一篇题为 Puting the Net to Work（利用网络找工作）的文章. 这是一篇说明文，介绍了一种用于求职的个人搜索引擎工具，从使用搜索引擎而找到工作的实例入手，通过引用求职当事人以及求职专家的观点. 对这种新事物的优缺点进行了全面的分析，并给出了最佳使用建议. 二. 语篇分析及试题精解 I ④Hunting for\" a job late last year, law- 去年年末找工作的时候，甘特. 雷德曼律师 yer Gant Redmon stumbled across CareerBuild- 偶然在网上发现了一个名为 CareerBuilder 的网 er, a job database on the Internet. ② He 站，该网站是一个求职数据库. 他在上面搜索了 searched it with no success but was at",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2004/paper_2004年考研英语真题解析.txt",
+                "sourceText": "20. [A] provided 倘若（表条件） [D] supposing 如果，假使（表条件） [C] although 虽然，尽管（表转折或让步） 本题考核的知识点是∶逻辑关系. 正确率∶52% 「精准定位] ⑤句中空格前后是两个完整的分句，因此空格处填入的词应体现它们之间的逻辑关系. 前一句提到，以上所有这些情形，即④句提到的其他可识别的原因，都提高了青",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

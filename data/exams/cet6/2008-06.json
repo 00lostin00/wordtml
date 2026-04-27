@@ -1,0 +1,248 @@
+{
+  "id": "cet6-2008-06",
+  "type": "cet6",
+  "year": 2008,
+  "month": 6,
+  "set": 0,
+  "title": "2008年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write a short essay entitled Will E-books Replace Traditional Books? You should write at least 150 words following the outline given below. 1.随着信息技术的发展，电子图书越来越多 2.有人认为电子图书会取代传统图书，理由是…… 3.我的看法 Will E-books Replace Traditional Books?",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "The man might be able to play in the World Cup.",
+            "B": "The man’s football career seems to be at an end.",
+            "C": "The man was operated on a few weeks ago.",
+            "D": "The man is a fan of world-famous football players."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "Work out a plan to tighten his budget",
+            "B": "Find out the opening hours of the cafeteria.",
+            "C": "Apply for a senior position in the restaurant.",
+            "D": "Solve his problem by doing a part-time job."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "A financial burden.",
+            "B": "A good companion",
+            "C": "A real nuisance.",
+            "D": "A well-trained pet."
+          },
+          "answer": "A",
+          "explanation": "A) A financial burden. C) A real nuisance. B) A good companion D) A well-trained pet.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2008-06/paper_2008年6月英语六级真题及答案.txt",
+            "sourceText": "A) A financial burden. C) A real nuisance. B) A good companion D) A well-trained pet.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "The errors will be corrected soon.",
+            "B": "The woman was mistaken herself.",
+            "C": "The computing system is too complex.",
+            "D": "He has called the woman several times."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "He needs help to retrieve his files.",
+            "B": "He has to type his paper once more.",
+            "C": "He needs some time to polish his paper.",
+            "D": "He will be away for a two-week"
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "They might have to change their plan.",
+            "B": "He has got everything set for their trip.",
+            "C": "He has a heavier workload than the woman.",
+            "D": "They could stay in the mountains until June 8."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "They have wait a month to apply for a student loan.",
+            "B": "They can find the application forms in the brochure.",
+            "C": "They are not eligible for a student loan.",
+            "D": "They are not late for a loan application."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "New laws are yet to be made to reduce pollutant release.",
+            "B": "Pollution has attracted little attention from the public.",
+            "C": "The quality of air will surely change for the better.",
+            "D": "It’ll take years to bring air pollution under control."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "Enormous size of its stores.",
+            "B": "Numerous varieties of food.",
+            "C": "Its appealing surroundings.",
+            "D": "Its rich and colorful history."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "An ancient building.",
+            "B": "A world of antiques.",
+            "C": "An Egyptian museum.",
+            "D": "An Egyptian Memorial."
+          },
+          "answer": "A",
+          "explanation": "A) An ancient building. C) An Egyptian museum. B) A world of antiques. D) An Egyptian Memorial.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2008-06/paper_2008年6月英语六级真题及答案.txt",
+            "sourceText": "A) An ancient building. C) An Egyptian museum. B) A world of antiques. D) An Egyptian Memorial.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Its power bill reaches $9 million a year.",
+            "B": "It sells thousands of light bulbs a day.",
+            "C": "It supplies power to a nearby town.",
+            "D": "It generates 70% of the electricity it uses."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "11,500",
+            "B": "30,000",
+            "C": "250,000",
+            "D": "300,000"
+          },
+          "answer": "A",
+          "explanation": "A) 11,500 C) 250,000 B) 30,000 D) 300,000 Questions 23 to 25 are based on the conversation you have just heard.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2008-06/paper_2008年6月英语六级真题及答案.txt",
+            "sourceText": "A) 11,500 C) 250,000 B) 30,000 D) 300,000 Questions 23 to 25 are based on the conversation you have just heard.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "Transferring to another department.",
+            "B": "Studying accounting at a university",
+            "C": "Thinking about doing a different job.",
+            "D": "Making preparation for her wedding."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "She has finally got a promotion and a pay raise.",
+            "B": "She has got a satisfactory job in another company.",
+            "C": "She could at last leave the accounting department.",
+            "D": "She managed to keep her position in the company."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "He and Andrea have proved to be a perfect match.",
+            "B": "He changed his mind about marriage unexpectedly.",
+            "C": "He declared that he would remain single all his life.",
+            "D": "He would marry Andrea even without meeting her."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}

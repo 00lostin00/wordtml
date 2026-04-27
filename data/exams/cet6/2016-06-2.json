@@ -30,8 +30,17 @@
             "C": "The man's switch to a new career.",
             "D": "The restructuring of her company."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【1-5】DADBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q2",
@@ -43,8 +52,17 @@
             "C": "Competitive products.",
             "D": "Effective promotion."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【1-5】DADBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q3",
@@ -56,8 +74,17 @@
             "C": "Innovate constantly.",
             "D": "Watch out for his competitors."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【1-5】DADBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q4",
@@ -69,8 +96,17 @@
             "C": "Conflicts within the company.",
             "D": "Imitation by one's competitors."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【1-5】DADBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q5",
@@ -82,8 +118,17 @@
             "C": "The importance of language proficiency",
             "D": "The best way to effective communication."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【1-5】DADBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q6",
@@ -95,8 +140,17 @@
             "C": "Rewarding.",
             "D": "Meaningful."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BCCBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q7",
@@ -108,8 +162,17 @@
             "C": "They have all passed language proficiency tests.",
             "D": "They have all studied cross-cultural differences."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BCCBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q8",
@@ -121,8 +184,17 @@
             "C": "It is more stressful than simultaneous interpreting.",
             "D": "It puts one's long-term memory under more stress."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BCCBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q9",
@@ -134,8 +206,17 @@
             "C": "It might increase the risk of infants' death.",
             "D": "It might increase mothers' mental distress."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BCCBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q10",
@@ -147,8 +228,17 @@
             "C": "Sleeping patterns of mothers greatly affect their newborn babies' health.",
             "D": "Sleeping with infants in the same room has a negative impact on mothers."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BCCBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q11",
@@ -160,8 +250,17 @@
             "C": "Sleep in the same house but not in the same room as their babies.",
             "D": "Take precautions to reduce the risk of sudden infant death syndrome."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CADDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q12",
@@ -173,8 +272,17 @@
             "C": "The efforts to preserve Indian languages have proved fruitless.",
             "D": "More money is needed to record the native languages in the US."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CADDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q13",
@@ -186,8 +294,17 @@
             "C": "To educate native American children.",
             "D": "To revitalise America's native languages."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CADDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q14",
@@ -199,8 +316,17 @@
             "C": "The US governments unwillingness to spend money educating Indians.",
             "D": "The long-time isolation of American Indians from the outside world."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CADDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q15",
@@ -212,8 +338,17 @@
             "C": "It speeds up the extinction of native languages.",
             "D": "It is widely used in language immersion schools."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CADDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q16",
@@ -225,8 +360,17 @@
             "C": "It pays their living expenses until they find employment again.",
             "D": "It provides them with the basic necessities of everyday life."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【16-20】DBACB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q17",
@@ -238,8 +382,17 @@
             "C": "Convincing local lawmakers to extend unemployment benefits.",
             "D": "Raising funds to help those having no unemployment insurance."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【16-20】DBACB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q18",
@@ -251,8 +404,17 @@
             "C": "To create more jobs by encouraging private investments in local companies.",
             "D": "To encourage big businesses to hire back workers with government subsidies."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【16-20】DBACB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q19",
@@ -264,8 +426,17 @@
             "C": "They explored the ocean floor.",
             "D": "They investigated the ice."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【16-20】DBACB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q20",
@@ -277,8 +448,17 @@
             "C": "The ice ensures the survival of many endangered species.",
             "D": "The ice decrease is more evident than previously thought."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【16-20】DBACB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q21",
@@ -290,8 +470,17 @@
             "C": "The decline of Arctic ice is irreversible.",
             "D": "Arctic ice is essential to human survival."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【21-25】DDAAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q22",
@@ -303,8 +492,17 @@
             "C": "It will advance nuclear technology.",
             "D": "There is no easy technological solution to it."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【21-25】DDAAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q23",
@@ -316,8 +514,17 @@
             "C": "The health problems of children raised by a single parent.",
             "D": "The deciding factor in children's academic performance."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【21-25】DDAAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q24",
@@ -329,8 +536,17 @@
             "C": "Parents must learn to exercise self control in front of their children.",
             "D": "Lack of self-control in parents is a disadvantage for their children."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【21-25】DDAAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q25",
@@ -342,8 +558,17 @@
             "C": "Self-control problems may be detected early in children.",
             "D": "Self-control problems will diminish as one grows up."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【21-25】DDAAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -373,62 +598,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "O",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OKHJA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OKHJA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OKHJA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OKHJA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OKHJA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】NEMDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】NEMDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】NEMDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】NEMDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】NEMDB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -442,71 +757,161 @@
           "id": "q36",
           "number": 36,
           "stem": "With a tax imposed on expensive health insurance plans, most employers will\nlikely transfer money from health expenses into wages.",
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】ICLDK",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "Changes in policy would be approved or rejected as a whole so that lobbyists\nwould find it hard to influence lawmakers.",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】ICLDK",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "It is not easy to curb the rising medical costs in America.",
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】ICLDK",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "Standardization of forms for automatic processing will save a lot of medical\nexpenses.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】ICLDK",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "Republicans and the insurance industry are strongly opposed to the creation of\na public insurance plan.",
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】ICLDK",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "Conversion of paper to electronic medical records will help eliminate\nredundant tests and prevent drug interactions.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【41-45】EGANJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "The high cost of medical services and unnecessary tests and treatments have\ndriven up medical expenses.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【41-45】EGANJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "One main factor that has driven up medical expenses is that doctors are\ncompensated for the amount of care rather than its effect.",
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【41-45】EGANJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "Contrary to analysts' doubts, the author believes drug prices may be lowered\nthrough negotiation.",
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【41-45】EGANJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "Fair competition might create a strong incentive for insurers to charge less.",
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+            "sourceText": "【41-45】EGANJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -529,8 +934,17 @@
                 "C": "Its benefits outweigh the hazards involved.",
                 "D": "It is polluting millions of acres of cropland."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DCCBA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q47",
@@ -542,8 +956,17 @@
                 "C": "Farmers and consumers may be affected by harmful bacteria.-",
                 "D": "It will make the farm produce less competitive on the market."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DCCBA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q48",
@@ -555,8 +978,17 @@
                 "C": "Indifferent.",
                 "D": "Responsible."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DCCBA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q49",
@@ -568,8 +1000,17 @@
                 "C": "They will be minimized with new technology.",
                 "D": "They can be addressed by improved sanitation."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DCCBA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q50",
@@ -581,8 +1022,17 @@
                 "C": "He thinks it the only way out of the current food crisis.",
                 "D": "He deems it indispensable for combating global poverty."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DCCBA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         },
@@ -600,8 +1050,17 @@
                 "C": "It has become something odd in a modem house.",
                 "D": "It is regarded as the center of a modem home."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BDAAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q52",
@@ -613,8 +1072,17 @@
                 "C": "It is manufactured by a famous British company.",
                 "D": "No other manufacturer can produce anything like it."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BDAAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q53",
@@ -626,8 +1094,17 @@
                 "C": "Technological progress.",
                 "D": "Social change."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BDAAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q54",
@@ -639,8 +1116,17 @@
                 "C": "A place of interest to the educated people.",
                 "D": "A place to experiment with new ideas."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BDAAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q55",
@@ -652,8 +1138,17 @@
                 "C": "It has been transformed beyond recognition.",
                 "D": "Many of its functions have changed greatly."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-06/paper_2016年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BDAAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         }

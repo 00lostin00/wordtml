@@ -1,0 +1,35 @@
+{
+  "id": "cet6-2008-12",
+  "type": "cet6",
+  "year": 2008,
+  "month": 12,
+  "set": 0,
+  "title": "2008年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "Directions: For this part, you are allowed 30 minutes to write a short essay entitled How To Improve Student's Mental Health?. You should write at least 150 words following the outline given below. 1.大学生的心理健康十分重要 2.因此，学校可以…… 3.我们自己应当…… How To Improve Student's Mental Health?",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "82. He designed the first suspension bridge, which_______________________(把美观与功能完美地结合起来)。83．It was very dark, but Mary seemed to __________________________________ (本能地知道该走哪条路)84. I don’t think it advisable that parents__________________________ (剥夺孩子们的自由) to（与不那么活跃的人相比死亡率要低）。（为什么你是某个特定职位的最佳人选）。范文：professional way, which means they have more or better opportunities to save us than others. (学校)there is little doubt that further attention will be paid to the issue.（我们）快速阅读：听力仔细阅读完形翻译",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

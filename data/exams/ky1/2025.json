@@ -27,7 +27,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "1.B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -40,7 +49,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "2.C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -53,7 +71,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "3.B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -66,7 +93,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "4.C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -79,7 +115,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "5.B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -92,7 +137,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "6.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -105,7 +159,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "7.D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -118,7 +181,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "8.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -131,7 +203,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "9.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -144,7 +225,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "10.D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -157,7 +247,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "11.D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -170,7 +269,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "12.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -183,7 +291,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "13.D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -196,7 +313,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "14.C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -209,7 +335,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "15.D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -222,7 +357,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "16.C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -235,7 +379,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "17.B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -248,7 +401,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "18.B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -261,7 +423,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "19.B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -274,7 +445,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "20.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }
@@ -301,7 +481,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "21. C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q22",
@@ -314,7 +503,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "22， A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q23",
@@ -327,7 +525,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "23 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q24",
@@ -340,7 +547,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "24 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q25",
@@ -353,7 +569,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "25 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -372,7 +597,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "26 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q27",
@@ -385,7 +619,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "27 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q28",
@@ -398,7 +641,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "28 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q29",
@@ -411,7 +663,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "29 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q30",
@@ -424,7 +685,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "30 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -443,7 +713,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "31. D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q32",
@@ -456,7 +735,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "32， A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q33",
@@ -469,7 +757,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "33， A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q34",
@@ -482,7 +779,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "34， C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q35",
@@ -495,7 +801,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "3 & D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -514,7 +829,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "36 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q37",
@@ -527,7 +851,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "37 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q38",
@@ -540,7 +873,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "3 & B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q39",
@@ -553,7 +895,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "39 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q40",
@@ -566,7 +917,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "40 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }
@@ -577,8 +937,122 @@
       "type": "matching",
       "title": "Section II Part B · New Question Type",
       "minutes": 15,
-      "paragraphs": [],
-      "questions": []
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Peters likes to photograph butterflies in a landscape, celebrating the beauty of their surroundings as well as the insects themselves. His pictures of a Glanville fritillary rising from the sea-pinks beside the chalk cliffs of Compton Bay on the Isle of Wight are particularly glorious. These take-off shots are even more challenging because they require a wide-angle lens, which means he must be less than 2cm from the butterfly. It's incredibly difficult to get that close to a skittish sun-warmed insect. Unlike some photographers, who “ cheat” by keeping insects in a fridge to slow them down, Peters refuses to tamper with wild butterflies."
+        },
+        {
+          "label": "B",
+          "text": "Peters9 signature shot is a butterfly “take-off“，showing the multiple wing-beats of one butterfly in one frame as it lifts off from a flower. How does he capture it? Technology helps. A typical digital SLR camera shoots 20 frames a second. He uses a high-speed OM System which shoots 120 frames a second."
+        },
+        {
+          "label": "C",
+          "text": "Britain has relatively few butterfly species compared with mainland Europe and 80% are in decline, mostly because intensive chemical farming has reduced many species to tiny fragments of habitat and small nature reserves. Global heating is benefiting some species but others are too isolated to find suitable new habitat, and gardening habits- paving over gardens and using pesticides- aren't helping either. Butterflies may not pollinate as many , plants as wild bees and hoverflies, but because British butterflies are the best-studied group of insects in the world, they are an extremely usefiil indicator of the wider declines in flying insects."
+        },
+        {
+          "label": "D",
+          "text": "Five years ago, at summer's end, Andrew Fusek Peters was diagnosed with bowel cancer. UI was waiting for surgery, feeling really ill, sitting in my garden. It was amazing weather and there were painted lady butterflies everywhere,“ he says. “ They were a symbol of fragile life, of hope and defiance, and something appealed to my soul.”"
+        },
+        {
+          "label": "E",
+          "text": "That makes it sound easy, and artificial, but Peters insists it is still a massive challenge. He typically takes between 10,000 and 20,000 shots to get one butterfly 英语（一）试题第11页（共14页） take-off sequence in fbcus. At such high shutter speeds, the depth of field is tiny, and as butterflies do not fly in a straight line they swiftly flutter out of fbcus. As well as thousands of attempts, it takes patience and fieldcraft to anticipate a butterfly's likely flight-line—and catch it- in fbcus."
+        },
+        {
+          "label": "F",
+          "text": "So whafs the appeal of a long, sweaty day in pursuit of an elusive, fast-moving wild animal? \"It just feels bloody brilliant,\" says Peters. u If Tve had a full day of good encounters with butterflies, met interesting butterfly people and Fve got some good shots, that becomes a vault in my spiritual bank. Ifs a happy feeling"
+        },
+        {
+          "label": "G",
+          "text": "A children's author and poet who had become a keen amateur photographer, Peters watched the butterflies and idly wondered if he could capture them in flight. It swiftly became an obsession as he recovered from a successful operation to remove the caiieer. In recent summers, he has travelled the length and breadth of Britain to photograph all 58 native species of butterfly. Now the fruits of those summers have been published in a beautiful new book."
+        },
+        {
+          "label": "H",
+          "text": "A butterfly takes off so quickly it is still impossible to react quickly enough to capture that take-off but if he half-presses the shutter, the camera saves the 70 previous frames before the moment he actually takes the picture. \"It's time travel, so I don't miss the moment of take-off,he says. After he's captured the butterfly taking off, he layers 10 to 15 frames together in Photoshop. |41. . |一反 C —| 4 . H t |44. A —|45. 英语（一）试题 第12页（共14页）"
+        }
+      ],
+      "questions": [
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Box 41",
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "aggregate-key",
+            "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025年英语一新题型真题_答案速查._1.txt",
+            "sourceText": "41.D",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Box 42",
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "aggregate-key",
+            "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025年英语一新题型真题_答案速查._1.txt",
+            "sourceText": "42.G",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Box 43",
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "aggregate-key",
+            "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025年英语一新题型真题_答案速查._1.txt",
+            "sourceText": "43.B",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Box 44",
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "aggregate-key",
+            "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025年英语一新题型真题_答案速查._1.txt",
+            "sourceText": "44.E",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Box 45",
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "aggregate-key",
+            "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025年英语一新题型真题_答案速查._1.txt",
+            "sourceText": "45.F",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
     },
     {
       "id": "translation",

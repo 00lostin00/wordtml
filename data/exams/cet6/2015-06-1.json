@@ -1,0 +1,768 @@
+{
+  "id": "cet6-2015-06-1",
+  "type": "cet6",
+  "year": 2015,
+  "month": 6,
+  "set": 1,
+  "title": "2015年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay commenting on the saying “Knowledge is a treasure, but practice is the key to it. ” You can cite one example or two to illustrate your point of view. You should write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "Persuade the man to join her company.",
+            "B": "Employ the most up-to-date technology.",
+            "C": "Export bikes to foreign markets.",
+            "D": "Expand their domestic business."
+          },
+          "answer": "C",
+          "explanation": "〗 在对话一开始， 女士问男士 “ 可替代能源 ” 这个术语是什么意思， 男士说当我们想到家用或者车种用从地底下开采出来的石油加工而成的矿物燃料。 由用的能源或燃料时， 我们都会想到汽油此可知， 男士的意思是我们谈论的能源通常指的是由从地下开采的石油生成的燃料， 故选项 C 正确。 其他三项对话中均未提及， 都可排除。 〖 【听前预测】",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "代能源 ” 这个术语是什么意思， 男士说当我们想到家用或者车种用从地底下开采出来的石油加工而成的矿物燃料。 由用的能源或燃料时， 我们都会想到汽油此可知， 男士的意思是我们谈论的能源通常指的是由从地下开采的石油生成的燃料， 故选项 C 正确。 其他三项对话中均未提及， 都可排除。 〖 【听前预测】",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "The state subsidizes small and medium enterprises.",
+            "B": "The government has control over bicycle imports.",
+            "C": "They can compete with the best domestic manufacturers.",
+            "D": "They have a cost advantage and can charge higher prices."
+          },
+          "answer": "C",
+          "explanation": "〗 在对话一开始， 女士就对男士说， 他们必须一步步地处理出口的问题， 而第一步就是弄明白他们当前的处境。 男士问为什么不仅仅专注于开拓国内市场， 女士回答说当然必须保持他们在国内的市场地位， 但是国内市场是有限的。 由此可知， 女士希望能够拓展国外市场的业务， 四个选项中只有 C 项符合此意， 故为正确答案， 同时也可排除 D 项。 A、 B 两项对话中均未提及， 都可排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "地处理出口的问题， 而第一步就是弄明白他们当前的处境。 男士问为什么不仅仅专注于开拓国内市场， 女士回答说当然必须保持他们在国内的市场地位， 但是国内市场是有限的。 由此可知， 女士希望能够拓展国外市场的业务， 四个选项中只有 C 项符合此意， 故为正确答案， 同时也可排除 D 项。 A、 B 两项对话中均未提及， 都可排除。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "Extra costs might eat up their profits abroad.",
+            "B": "More workers will be needed to do packaging.",
+            "C": "They might lose to foreign bike manufacturers.",
+            "D": "It is very difficult to find suitable local agents."
+          },
+          "answer": "B",
+          "explanation": "〗 在对话中， 当女士说国内市场比较有限之后， 男士回答说， 虽然如此， 但是国内市场比较安全， 因为政府通过进口管制政策限制外国商品的进入， 所以他非常确信他们可以维持在国内的市场地位， 抵制国外生产的自行车的竞争。 由此可知， 男士认为专注于国内市场比较安全的原因是政府对自行车进口有管制， 故 B 项正确。 A、 C 两项对话中未提及； D 项说的是两位说话者所在公司生产的产品在国外市场而非国内市场的优势， 故三项均可排除。 〖 【听前预测】",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "， 但是国内市场比较安全， 因为政府通过进口管制政策限制外国商品的进入， 所以他非常确信他们可以维持在国内的市场地位， 抵制国外生产的自行车的竞争。 由此可知， 男士认为专注于国内市场比较安全的原因是政府对自行车进口有管制， 故 B 项正确。 A、 C 两项对话中未提及； D 项说的是两位说话者所在公司生产的产品在国外市场而非国内市场的优势， 故三项均可排除。 〖 【听前预测】",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "Report to the management.",
+            "B": "Attract foreign investments.",
+            "C": "Conduct a feasibility study.",
+            "D": "Consult financial experts."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "Coal burnt daily for the comfort of our homes.",
+            "B": "Anything that can be used to produce power.",
+            "C": "Fuel refined from oil extracted from underground.",
+            "D": "Electricity that keeps all kinds of machines running."
+          },
+          "answer": "C",
+          "explanation": "析 〗 在对话一开始， 女士就对男士说， 他们必须一步步地处理出口的问题， 而第一步就是弄明白他们当前的处境。 男士问为什么不仅仅专注于开拓国内市场， 女士回答说当然必须保持他们在国内的市场地位， 但是国内市场是有限的。 由此可知， 女士希望能够拓展国外市场的业务， 四个选项中只有 C 项符合此意， 故为正确答案， 同时也可排除 D 项。 A、 B 两项对话中均未提及， 都可排除。 9 · 20 巧年 6 月六级真题 （第一套） ． 〖 【听前预测】 1. 两项提到了国家或政府 （山 e state， govemment)， 一项提到了进口 (imports), 一项提到了国内生产商 （domestic manufacturers）。 2 ． 两项含有与企业或生产商有关的内容 (enterprises, manufacturers)o 3， 两项含有与竞争有关的内容 (compete with， a cost advantage)o 结论： 该题可能涉及国家或政府对国内产品和进口产品的政策， 也可能涉及不同企业之间的竞争。 该题的信息点稍显分散， 听音时应留意与贸易进口、 国内生产商、 企业竞争等有关的信息， 同时将重点放在各选项的关键词上， 然后根据问题作出进一步的判断。 【解析】 在对话中， 当女士说国内",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "future for the world. 文章末句进一步深化主题。 用宾语从句和强调句型结尾使论证更具说服力， 收尾更有力度。 Part II Section A Conversation One Listening Comprehension ' W: Jack， sitdown and listen. This is important. [ 1 ]、 Me'lI have tackle the problems ofexporting step by step. And the t move is t0 ge",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Oil will soon be replaced by alternative energy sources.",
+            "B": "Oil reserves in the world will be exhausted in a decade.",
+            "C": "Oil consumption has given rise to many global problems.",
+            "D": "Oil production will begin to decline worldwide by 2025."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "Minimize the use of fossil fuels.",
+            "B": "Start developing alternative fuels.",
+            "C": "Find the real cause for global warming.",
+            "D": "Take steps to reduce the greenhouse effect."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "They release harmful substances when they are burned.",
+            "B": "They dissolve in the water and cause a waste of water.",
+            "C": "They release poisonous gas and lead to pollution.",
+            "D": "They are burned inefficiently resulting in a waste of resources."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "The ability to predict fashion trends.",
+            "B": "A refined taste for artistic works.",
+            "C": "Years of practical experience.",
+            "D": "Strict professional training."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "Promoting all kinds of American hand-made specialties.",
+            "B": "Strengthening cooperation with foreign governments.",
+            "C": "Conducting trade in art works with dealers overseas.",
+            "D": "Purchasing handicrafts from all over the world."
+          },
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "到， 商场采购员不仅要了解当前正在流行什么， 还要能预测下一季或下一年将会流行什么， 这句话的重点是在强调后半句， 也就是说， 只有具备预测流行趋势的能力才能成为一名合格的商场采购员， 故本题选 AO 其他三项文中并未提及 10 · D 〖 解【解题思路】 1. 四项均为动名词短语。 2 ． 两项含有与 “ 手工艺品 \" 有关的词汇 （hand ． made， handicrafts）。 3 ． 三项含有与 “ 海外 ” 有关的词汇 (foreign, overseas， all overthe world)o 结论： 本题很可能考查某人做了什么事， 这件事与 “ 手工艺品",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "She has access to fashionable things.",
+            "B": "She is doing what she enjoys doing.",
+            "C": "She can enjoy life on a modest salary.",
+            "D": "She is free to do whatever she wants."
+          },
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "【解析】 短文中间提到， 作为商场采购员， 凯伦的工作包括去世界各地采购手工艺品， 后面具体说明她去过哪些国家， 采购了什么手工艺品， 故本题选 DO A 项和 C 项文中未提及； B 项具有一定的迷惑性， 文中提到很多国家的政府愿意与凯伦合作， 向她推介本国的手工艺品， 但凯伦的工作只是采购手工艺品， 而非加强与外国政府的合作， 故 B 项错误 11. B 〖 解【解题思路】 1. 四项均以 she 开头。 2 ． 四项陈述的都是 she 做的事情。 结论： 本文中只提到了一个人： 凯伦， 故四个选项中的 she 指代的都应该是凯伦。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "Join in neighborhood patrols.",
+            "B": "Get involved in his community.",
+            "C": "Voice his complaints to the city council.",
+            "D": "Make suggestions to the local authorities."
+          },
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "s? 15 · Why did Mark smile on his nde home? 整体蓣测快速浏览笨部分有选疏由其中的芙縫词 od & 甸和苛大致推本文讲的丙容很可能与社区事务有关， 此在听音时需要重厂注与之相关的信息。 12 · B 〖 解【解题思路】 1. 四项均为动词短语 2 ． 两项含有与 “ 社区 \" 有关的词汇 （neighbo 山 o， community)o 3 ． 两项含有 hiso 结论： 本题很可能考查某人做的某事， 这件事很可能与社区有关。 【解析】 短文一开头就提到， 马克觉得自己应该参与一下社区事务， 随后他就去参加了社区会议， 故选项 B 正确。 其",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "Deterioration in the quality of life.",
+            "B": "Increase of police patrols at night.",
+            "C": "Renovation of the vacant buildings.",
+            "D": "Violation of community regulations."
+          },
+          "answer": "A",
+          "explanation": "【解题思路】 四个选项均为名词短语， 在某种程度上均与社区事务有关， 因此本题很可能考查某项社区事务。 【解析】 短文开头明确提到， 当马克前来参加社区会议时， 主持会议的女士正在带领大家讨论生活质量为何下降的问题， 故选项 A 正确。 选项 B 中的警察巡逻和选项 C 中的空置建筑都是墙上图表所展示的问题， 但文中并未提到增加警察夜间巡逻或整修空置建筑， 故排除选项 B、 C; 选项 D 文中未提及， 故也可排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "： 本题很可能考查某人做的某事， 这件事很可能与社区有关。 【解析】 短文一开头就提到， 马克觉得自己应该参与一下社区事务， 随后他就去参加了社区会议， 故选项 B 正确。 其他三个选项文中均未提及， 故排除。 13 · A 〖 解【解题思路】 四个选项均为名词短语， 在某种程度上均与社区事务有关， 因此本题很可能考查某项社区事务。 【解析】 短文开头明确提到， 当马克前来参加社区会议时， 主持会议的女士正在带领大家讨论生活质量为何下降的问题， 故选项 A 正确。 选项 B 中的警察巡逻和选项 C 中的空置建筑都是墙上图表所展示的问题， 但文中并未提到增加警察夜间巡逻或",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "They may take a long time to solve.",
+            "B": "They need assistance from the city.",
+            "C": "They have to be dealt with one by one.",
+            "D": "They are too big for individual efforts."
+          },
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "加社区会议时， 主持会议的女士正在带领大家讨论生活质量为何下降的问题， 故选项 A 正确。 选项 B 中的警察巡逻和选项 C 中的空置建筑都是墙上图表所展示的问题， 但文中并未提到增加警察夜间巡逻或整修空置建筑， 故排除选项 B、 C; 选项 D 文中未提及， 故也可排除。 14 · D 〖 解【解题思路】 1. 四个选项均以 they 开头。 2 ． 两个选项含有与 “ 处理 ” 有关的词汇 （so ] ve， dealt with）。 结论： 本题很可能考查与处理某事有关的问题。 听音时需注意分辨山 ey 指代的内容。 【解析】 短文中间部分提到， 马克在了解了这次社区会议讨论的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "He had got some groceries at a big discount.",
+            "B": "He had read a funny poster near his seat.",
+            "C": "He had done a small deed of kindness.",
+            "D": "He had caught the bus just in time."
+          },
+          "answer": "C",
+          "explanation": "【解题思路】 四个选项均以 he 开头， 且表述的都是 he 做的事情， 因此本题考查的应该是 he 做了什么事情。 听音时需注意分辨 he 指代的内容。 【解析】 短文末尾提到， 马克看到了公交车座位旁边海报上的一句话： 微小的善行会积少成多。 他想到自己刚刚帮助了一位女士， 这正是一次微小的善行， 从此开始经常做好事， 善行就可积少成多， 于是他笑了， 故选项 C 正确。 选项 A 和 D 文中均未提及； 马克笑了是因为海报上的文字引起了他的共鸣， 而不是因为海报的内容有趣， 故选项 B 错误， 需排除。 S on C Recording One 〖 昕力原文 〗 lndustrialization came to the United States after 1790 as North American entrepreneurs increased productivrty",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "结合马克接下来跟旁边的男士所说的话 （“ 我觉得这是在浪费我的时间。 我在这里起不到任何作用。 ”） 可以推断， 他认为个人的力量太渺小了， 仅靠个人是无法解决这些问题的， 故选项 D 正确。 根据上下文推导不出 A、 B、 C 选项的结论， 故排除。 15 · C 〖 解【解题思路】 四个选项均以 he 开头， 且表述的都是 he 做的事情， 因此本题考查的应该是 he 做了什么事情。 听音时需注意分辨 he 指代的内容。 【解析】 短文末尾提到， 马克看到了公交车座位旁边海报上的一句话： 微小的善行会积少成多。 他想到自己刚刚帮助了一位女士， 这正是一次微小的善行， 从",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "The difficulties of industrialization in North America.",
+            "B": "The influence of industrialization on people’s life.",
+            "C": "The negative effect of industrialization in North America.",
+            "D": "Improved ways of organizing the manufacturing of goods."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "To provide an example of how entrepreneurs increased output by using an extended work system.",
+            "B": "To provide an example of how entrepreneurs used technological improvements to increase output.",
+            "C": "To provide an example of how rural workers responded to shoe bosses.",
+            "D": "To provide an example of how changes in the work system improved the quality of shoes."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "They were located away from large cities.",
+            "B": "They used new technology to produce power.",
+            "C": "They did not allow flour to cool before it was placed in barrels.",
+            "D": "They combined technology with the work system."
+          },
+          "answer": "B",
+          "explanation": "【解题思路】 四个选项均以 they 开头， 分别提及了四个方面， 即位置、 动力、 冷却以及技术和系统的结合。 听录音时注意听清山 ey 的指代对象， 把重点放在以上四个方面。 【解析】 讲座中提到， 奥利弗 · 埃文斯制造出自动化程度很高、 由水力带动的节力型磨粉机， 之后还介绍了其操作流程。 然后提到， 生产商后来使用固定式蒸汽机带动磨粉机运行， 也就是说与奥利弗 · 埃文斯制造的磨粉机相比， 新式磨粉机采用了新技术来产生和提供动力， 故选 B。 A 项和 D 项内容文中均未提及冷却的内容只在说到奥利弗 ． 埃文斯制造的磨粉机时提及过， 而之后的磨粉机没有提及， 故排除 C0 〖 解【解题思路】 四个选项所陈述的重点不同， 分别为 find workers and customers， employ more highly skilled · 20 巧年 6 月六级真题 （第一套） · 14 workers, theamountofpowerrequired 以及 operatemorethanoneengineo 听音时应重点关注这些关键信息 【解析】 讲话最后阐明了新技术 （也就是 “ 机器改进 \"） 所带来的几大结果： 在全国最大的城市中建立工厂、 利用城市中的廉价劳动力及便利的运输系统并获得热切的顾客。 由此可知 A 项正确。 其他三项都不符合题意， 应排除。 Recording TWO 〖 听力原文 〗 20 ] The economic depression in the late-nineteenth-century United States contributed significantly a growing movement in literature toward realism and naturalism. After the 1870， s， a number Of important authors began to reject the romanticism that had prevailed i",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "的生产方式 \" 之后提到制鞋业的。 通过改变鞋的生产方式， 即 A 项中提到的 “ 拓宽工作系统 \"， “ 使得鞋的产量在鞋价降低的同时实现了极大增长 ”， 故选 AO B 项中说 “ 使用技术革新 ”， 但讲座中明确表明 “ 在即使没有技术革新的情况下 ”， 故排除。 其他两个选项中所说的老板与工人的关系以及鞋的质量， 都没有提及， 应排除。 18 · B 〖 解【解题思路】 四个选项均以 they 开头， 分别提及了四个方面， 即位置、 动力、 冷却以及技术和系统的结合。 听录音时注意听清山 ey 的指代对象",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "It became easier for factory owners to find workers and customers.",
+            "B": "Manufacturers had to employ more highly skilled workers.",
+            "C": "The amount of power required for factories’ operation was reduced.",
+            "D": "Factories could operate more than one engine at a time."
+          },
+          "answer": "A",
+          "explanation": "【解题思路】 四个选项都为名词性短语， 三项含有 industrialization， 四项的重点分别在 dlfficulties， influence， negative effect 和 improved ways 上。 本题应该和工业化主题有关， 听音重点应放在讲话着重叙述的是有关工业化的哪个方面。 【解析】 讲话开头部分说制造业中出现的革新使产量得到了史无前例的提升， 而后面提到 “ 产量的大幅提升主要得益于工人的生产方式的改变 \"， 在最后又说明新技术使工厂能够制造出大量做工精良的商， 由此可知讲话主要介绍了北美工业化时美国生产方式的改进， 所以选 DO B 项 “ 工业化对人们生活的影响 \" 并不是主要内容； A 项和 C 项内容讲话中未提及。 〖 解【解题思路】 四个选项中前两个选项都提到了 “ 增加产量 ”， 后两个选项则分别提及了 “ 鞋业老板 \" 和 “ 鞋的质量 ”。 听音重点应放在提及产量增加和鞋的内容上。 〖 解析 ] 讲话者是在表明 “ 产量的大幅提升主要得益于工人的生产方式 \" 之后提到制鞋业的。 通过改变鞋的生产方式， 即 A 项中提到的 “ 拓宽工作系统 \"， “ 使得鞋的产量在鞋价降低的同时实现了极大增长 ”， 故选 AO B 项中说 “ 使用技术革新 ”， 但讲座中明确表明 “ 在即使没有技术革新的情况下 ”， 故排除。 其他两个选项中所说的老板与工人的关系以及鞋的质量， 都没有提及， 应排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "19 ． A ． 根据选须币 0 0 〖 解【解题思路】 四个选项都为名词性短语， 三项含有 industrialization， 四项的重点分别在 dlfficulties， influence， negative effect 和 improved ways 上。 本题应该和工业化主题有关， 听音重点应放在讲话着重叙述的是有关工业化的哪个方面。 【解析】 讲话",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "The Civil War.",
+            "B": "An economic depression.",
+            "C": "A recognition that romanticism was unpopular.",
+            "D": "An increased interest in the study of common speech."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Because he wrote humorous stories and novels.",
+            "B": "Because he rejected romanticism as a literary approach.",
+            "C": "Because he was the first realist writer in the United States.",
+            "D": "Because he influenced American prose style through his use of common speech."
+          },
+          "answer": "D",
+          "explanation": "〗 定位： 根据题干的信息词 many people 和 biggest problem， 可以把答题线索定位到第一段最后一句。 解析： 该句指出 “ 如果你像很多人一样， 相信失业是我们当前经济和社会的主要问题， 那么认为耶伦是目前这个世界上最有影响力的人一点也不夸张 \"， 显然很多人认为失业是当前的主要问题， 也就是说耶伦所面临的最大问题即失业问题， C 项符合文意， 故为答案。 A 项文中并未提及， 可排除。 B 项即次贷危机， 发生于几年前， 显然与题意不符。 文中提及与 “ 稳定 ” 有关的内容在第五段， 指的是要在去除经济泡沫和使市场回归常态的过程中保持步调平稳， D 项与文意不符， 也应排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "析 〗 讲话在开始部分便指出： 19 世纪晚期发生在美国的经济萧条对文学中现实主义和自然主义的蓬勃发展做出了显著贡献。 也就是说， 经济萧条是现实主义和自然主义发展的过程中很重要的因素， 故答案为 B0 其他三项都不符合文意。 21. D 〖 解【解题思路】 四个选项都以 because 开头， 可知听音重点应放在因果关系处。 听录音时抓住各项的关键信息 (wrote humorous stories and novels, rejected romanticism as a literary approach, the first realist writer 和 influenced Ame",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "He mainly wrote about historical subjects such as the Civil War.",
+            "B": "His novels often contained elements of humor.",
+            "C": "He viewed himself more as a social observer than as a literary artist.",
+            "D": "He believed writers should emphasize the positive aspects of life."
+          },
+          "answer": "C",
+          "explanation": "【解题思路】 四个选项均为名词性短语， 听录音时应重点抓住各项的关鍵词或短语： Civil War, economc depression， recogmtion 礻口 mteresto 【解析】 讲话在开始部分便指出： 19 世纪晚期发生在美国的经济萧条对文学中现实主义和自然主义的蓬勃发展做出了显著贡献。 也就是说， 经济萧条是现实主义和自然主义发展的过程中很重要的因素， 故答案为 B0 其他三项都不符合文意。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "触发了美国散文风格的重大改变。 由此可知答案选 D。 他以幽默、 怀疑的视角洞察生活， 并不表示他创作幽默故事， 排除 A 项； B 项讲话中未提及； 讲话中说他是 “ 最杰出的 \" 现实主义作家， 而不是 “ 第一位 \"， 排除 C 项。 22 ． C 〖 解【解题思路】 三项以 he 开头， 一项以 his 开头， 可见问题与某位男士有关， 四项是对其写作特点或观点 15 · 20 巧年 6 月六级真题 （第一套） · 的描述。 听录音应首先听清 he 指代的对象， 注意重点抓住四个选项的关键信息 (historical subjects， elements Of humor， mor",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "They have remained basically unchanged from their original forms.",
+            "B": "They have been able to adapt to ecological changes.",
+            "C": "They have caused rapid change in the environment.",
+            "D": "They are no longer in existence."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "Extinction of species has occurred from time to time throughout Earth’s history.",
+            "B": "Extinctions on Earth have generally been massive.",
+            "C": "There has been only one mass extinction in Earth’s history.",
+            "D": "Dinosaurs became extinct much earlier than scientists originally believed."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Extinctionsduringthepast25millionyearshavetendedtobemoreintenseevery2.6millionyears.",
+            "B": "ThetheorythattheperiodicextinctionhadsomethingtodowiththeEarth’s movementisonlya speculation.",
+            "C": "This finding was already confirmed by the most prestigious scientists in the world.",
+            "D": "A species’ survival totally depends on its ability or inability to adapt."
+          },
+          "answer": "A",
+          "explanation": "【解题思路】 四个选项均以 they 开头， 对其进行描述， 分别表示四个方面： 形态、 适应能力、 对环境的影响以及是否存在。 听录音时注意听清山 ey 的指代对象， 抓住每项所描述的某个方面的内容。 【解析】 在讲座的开始部分， 主持人询问 “ 超过 ％ 的物种已经灭绝的原因 \"， 这里 “ 超过 ％ 的物种 \" 即对应问题中的 “ 绝大部分物种 ”。 赫德森博士接下来对它们灭绝的原因做了解释。 由此可知它们都已经灭绝了， 不复存在， 故选 D 形态方面文中未提及， 排除 A； B 项和 C 项则与讲座内容不符。 〖 解【解题思路】 四个选项均出现了有关 “ 灭绝 \" （extinction、 extinctions 和 extinct) 的词汇， 考查的内容与物种或生物灭绝有关。 听录音时注意抓住各项的关键信息 (occurred. . . throughout Earth， s history, generally been massive, only one mass extinction 礻口 dinosaurs became extinct much earlier)。 【解析】 在提到化石证据时， 赫德森博士说 “ 灭绝从未停止过 \" （extinction has occurred throughout the history ofEarth)0A 项是对讲座内容的同义转述， 为正确答案。 B 项表述过于绝对， 不符合讲座内容， 应 · 20 巧年 6 月六级真题 （第一套） · 16 排除； 历史上曾有过多次大规模生物灭绝事件发生， 规模最大的一次发生在 2 亿 25 万年前， 因此排除 C； 对于恐龙灭绝的时间讲座中并未提及， 排除 D。 〖 解【解题思路】 四个选项的主语各不相同， 需要逐一提取各项的重点信息： 灭绝事件的加剧、 周期性灭绝的原因、 是否被验证以及生存能力与适应能力的关系。 听录音时应有针对性地留意这些重点信息。 【解析】 在讲座的结尾部分， 赫德森博士这样论述该发现： 在过去 2 亿 50 万年间",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "超过 ％ 的物种已经灭绝的原因 \"， 这里 “ 超过 ％ 的物种 \" 即对应问题中的 “ 绝大部分物种 ”。 赫德森博士接下来对它们灭绝的原因做了解释。 由此可知它们都已经灭绝了， 不复存在， 故选 D 形态方面文中未提及， 排除 A； B 项和 C 项则与讲座内容不符。 〖 解【解题思路】 四个选项均出现了有关 “ 灭绝 \" （extinction、 extinctions 和 extinct) 的词汇， 考查的内容与物种或生物灭绝有关。 听录音时注意抓住各项的关键信息 (occurred. . . throughout Earth， s history, generally been",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "According to Duncan Watts, the superiority of the “Mona Lisa” to Leonardo’s other\nworks resulted from the cumulative advantage.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Some social scientists have raised doubts about the intrinsic value of certain works of art.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "It is often random events or preferences that determine the fate of a piece of art.",
+          "answer": "H",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "。 最后一句又提到， 但是一些社会科学家一直在问一些尴尬的问题， 指出成为艺术名作可能仅仅是历史中难以改变的偶然事件， 由此可知， 一些社会科学家已经对某些艺术作品的内在价值提出了质疑。 故题干是对原文的同义概括。 38 · H 解析： 注意抓住题干中的关键词 random events orpreferenceso 文章段落中提及决定一件艺术品命运的因素的内容出现在 H 段。 该段最后一句提到， 画作、 诗歌和流行歌曲的沉浮源于一些偶然事件或个别人的喜好， 随后成为一种趋势世代相传。 而前文也指出， 《蒙娜， 丽莎》 不过是这种普遍规则的一个极端案例。 由此可知，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "In his experiment, Cutting found that his subjects liked lesser known works better than\ncanonical works because of more exposure.",
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "好， 随后成为一种趋势世代相传。 而前文也指出， 《蒙娜， 丽莎》 不过是这种普遍规则的一个极端案例。 由此可知， 题干是对原文的同义概括。 random events orpreferences 是原词重现。 39 ． C 解析： 注意抓住题干中的关键词 his experiment 和 Cutting。 文章段落中论及心理学家卡廷的卖验的是 c 段。 该段提到， 卡廷教授为了弄清楚 “ 曝光效应 \" 是否对决定哪些画作能跻身为文化界的佼佼者有影响， 特意设计了一个实验。 实验结果是学生们更喜欢不太知名的画作， 而对照实验组的学生最喜欢经典画作。 卡廷的学生变得喜欢不太",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "The author thinks the greatness of an art work still lies in its intrinsic value.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "It is true of critics as well as ordinary people that the popularity of artistic works is\nclosely associated with publicity.",
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "蒙娜， 丽莎》 和 《哈姆雷特》 为例分别加以说明。 由此可知， 作者对于艺术作品的内在价值是很看重的。 故题干是对本段内容的概括。 intrinsic value 对应原文中的 intrinsic quality 41 · D 解析： 注意抓住题干中的关键词 the popularity of artistic works is closely associated with publicityo 文章段落中论及艺术作品的流行程度和公众的关注度密切相关的内容出现在 D 段。 该段最后一句提到， 正如一些当代艺术家所理解的那样， 评论家们的赞扬和公众的关注是紧密交织在一起的。 卡",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "We need to expose ourselves to more art and literature in order to tell the superior from\n\nthe inferior.",
+          "answer": "L",
+          "explanation": "析： 注意抓住题干中的关键词 expose ourselves to more art and literature 和 tell the superior from the inferioro 文章段落中提及我们需要接触更多的艺术和文学的内容出现在 L 段。 该段末尾提到伟大的艺术和平庸的艺术会混淆， 甚至连专家都难以分辨。 但这就是为什么我们需要尽可能地多看、 多读。 我们接触好的和坏的事物越多， 就越能分辨出其中的差别。 由此可知， 题干是对原文的同义转述。 题干中的 tell the superior from the inferior 对应原文中的 telling the differenceo 解析： 注意抓住题干中的关键词 a study ofthe history ofthe greatest paintingso 文章 F 段提及对伟大作品的历史的研究。 该段首句提到， 当沃茨调查 “ 有史以来最伟大的画作 \" 的历史时， 他发现， 《蒙娜 · 丽莎》 在被创作完成后的绝大部分时间里是相对没有名气的。 倒数第二句又提到， 仅仅在 20 世纪， 莱昂纳多为其资助人的妻子画的画像才跃居为人们首要关注的作品。 由此可知， 即便是伟大的艺术作品， 也有可能遭遇被忽视很多年的情况。 故题干是对原文的同义概括， 其中 the history ofthe greatest painu",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "ue of critics as well as ordinary people 对应原文中的 Sch01ars are no different from the publico · 20 巧年 6 月六级真题 （第一套） · 20 42 ． L 解析： 注意抓住题干中的关键词 expose ourselves to more art and literature 和 tell the superior from the inferioro 文章段落中提及我们需要接触更多的艺术和文学的内容出现在 L 段。 该段末尾提到伟大的艺术和平庸的艺术会混淆， 甚至连专家都难以分辨。 但这就是为什么我们需要尽可能地",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "A study of the history of the greatest paintings suggests even a great work of art could\nexperience years of neglect.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Culture is still used as a mark to distinguish one social class from another.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Opinions about and preferences for cultural objects are often inheritable.",
+          "answer": "I",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-06-1/key_OCR_2015-06-1.txt",
+            "sourceText": "隘品位区分开来的一种新的方式。 由此可知， 题干是对原文的同义转述。 题干中的 a mark to distinguish one social class 什 om 0 山 er 对应原文中的 a badge of identityo 45 · I 解析： 注意抓住题干中的关键词 oprnions about and preferences for cultural objects 和 mheritableo 文章段落中论及对文物的观点和喜好的内容出现在 I 段。 该段第二句提到， 我们所消费的几乎所有文物都带着继承的观点而至； 在某种程度上， 我们的喜好总是带有他人喜好的色彩。 由此可知， 题干是",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nWhen the right person is holding the right job at the right moment, that person’s\ninfluence is greatly expanded. That is the position in which Janet Yellen, who is expected\nto be confirmed as the next chair of the Federal Reserve Bank (Fed) in January, now finds\nherself. If you believe, as many do, that unemployment is the major economic and social\nconcern of our day, then it is no stretch to think Yellen is the most powerful person in the\nworld right now.\nThroughout the 2008 financial crisis and the recession and recovery that followed,\ncentral banks have taken on the role of stimulators of last resort, holding up the global\neconomy with vast amounts of money in the form of asset buying. Yellen, previously a\nFed vice chair, was one of the principal architects of the Fed’s $3.8 trillion money dump.\nA star economist known for her groundbreaking work on labor markets, Yellen was a\nkind of prophetess early on in the crisis for her warnings about the subprime ( 次级债)\nmeltdown. Now it will be her job to get the Fed and the markets out of the biggest and\nmost unconventional monetary program in history without derailing the fragile recovery.\nThe good news is that Yellen, 67, is particularly well suited to meet these challenges.\nShe has a keen understanding of financial markets, an appreciation for their imperfections\nand a strong belief that human suffering was more related to unemployment than anything\nelse.\nSome experts worry that Yellen will be inclined to chase unemployment to the\nneglect of inflation. But with wages still relatively flat and the economy increasingly\ndivided between the well-off and the long-term unemployed, more people worry about the\nopposite, deflation (通货紧缩) that would aggravate the economy’s problems.\nEither way, the incoming Fed chief will have to walk a fine line in slowly ending the\nstimulus. It must be steady enough to deflate bubbles ( 去泡沫) and bring markets back\ndown to earth but not so quick that it creates another credit crisis.\nUnlike many past Fed leaders, Yellen is not one to buy into the finance industry’s\nargument that it should be left alone to regulate itself. She knows all along the Fed has\nbeen too slack on regulation of finance.\nYellen is likely to address the issue right after she pushes unemployment below 6%,\nstabilizes markets and makes sure that the recovery is more inclusive and robust. As\nPrinceton Professor Alan Blinder says, “She’s smart as a whip, deeply logical, willing to\nargue but also a good listener. She can persuade without creating hostility.” All those\ntraits will be useful as the global economy’s new power player takes on its most annoying\nproblems.",
+          "questions": [
+            {
+              "id": "q56",
+              "number": 56,
+              "stem": "What do many people think is the biggest problem facing Janet Yellen?",
+              "options": {
+                "A": "Lack of money.",
+                "B": "Subprime crisis.",
+                "C": "Unemployment.",
+                "D": "Social instability."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q57",
+              "number": 57,
+              "stem": "What did Yellen help the Fed do to tackle the 2008 financial crisis?",
+              "options": {
+                "A": "Take effective measures to curb inflation.",
+                "B": "Deflate the bubbles in the American economy.",
+                "C": "Formulate policies to help financial institutions.",
+                "D": "Pour money into the market through asset buying."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q58",
+              "number": 58,
+              "stem": "What is a greater concern of the general public?",
+              "options": {
+                "A": "Recession.",
+                "B": "Deflation.",
+                "C": "Inequality.",
+                "D": "Income."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q59",
+              "number": 59,
+              "stem": "What is Yellen likely to do in her position as the Fed chief?",
+              "options": {
+                "A": "Develop a new monetary program.",
+                "B": "Restore public confidence.",
+                "C": "Tighten financial regulation.",
+                "D": "Reform the credit system."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q60",
+              "number": 60,
+              "stem": "How does Alan Blinder portray Yellen?",
+              "options": {
+                "A": "She possesses strong persuasive power.",
+                "B": "She has confidence in what she is doing.",
+                "C": "She is one of the world’s greatest economists.",
+                "D": "She is the most powerful Fed chief in history."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nAir pollution is deteriorating in many places around the world. The fact that public\nparks in cities become crowded as soon as the sun shines proves that people long to\nbreathe in green, open spaces. They do not all know what they are seeking but they flock\nthere, nevertheless. And, in these surroundings, they are generally both peaceful and\npeaceable. It is rare to see people fighting in a garden. Perhaps struggle unfolds first, not\nat an economic or social level, but over the appropriation of air, essential to life itself. If\nhuman beings can breathe and share air, they don’t need to struggle with one another.\nUnfortunately, in our western tradition, neither materialist nor idealist theoreticians\ngive enough consideration to this basic condition for life. As for politicians, despite\nproposing curbs on environmental pollution, they have not yet called for it to be made a\ncrime. Wealthy countries are even allowed to pollute if they pay for it.\nBut is our life worth anything other than money? The plant world shows us in\nsilence what faithfulness to life consists of. It also helps us to a new beginning, urging us\nto care for our breath, not only at a vital but also at a spiritual level. The interdependence\nto which we must pay the closest attention is that which exists between ourselves and the\nplant world. Often described as “the lungs of the planet”, the woods that cover the earth\noffer us the gift of breathable air by releasing oxygen. But their capacity to renew the air\npolluted by industry has long reached its limit. If we lack the air necessary for a healthy\nlife, it is because we have filled it with chemicals and undercut the ability of plants to\nregenerate it. As we know, rapid deforestation combined with the massive burning of\nfossil fuels is an explosive recipe for an irreversible disaster.\nThe fight over the appropriation of resources will lead the entire planet to hell unless\nhumans learn to share life, both with each other and with plants. This task is\n\nsimultaneously ethical and political because it can be discharged only when each takes it\nupon herself or himself and only when it is accomplished together with others. The lesson\ntaught by plants is that sharing life expands and enhances the sphere of the living, while\ndividing life into so-called natural or human resources diminishes it. We must come to\nview the air, the plants and ourselves as the contributors to the preservation of life and\ngrowth, rather than a web of quantifiable objects or productive potentialities at our\ndisposal. Perhaps then we would finally begin to live, rather than being concerned with\nbare survival.",
+          "questions": [
+            {
+              "id": "q61",
+              "number": 61,
+              "stem": "What does the author assume might be the primary reason that people would struggle with each other?",
+              "options": {
+                "A": "To get their share of clean air",
+                "B": "To pursue a comfortable life.",
+                "C": "To gain a higher social status.",
+                "D": "To seek economic benefits."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q62",
+              "number": 62,
+              "stem": "What does the author accuse western politicians of?",
+              "options": {
+                "A": "Depriving common people of the right to clean air.",
+                "B": "Giving priority to theory rather than practical action.",
+                "C": "Offering preferential treatment to wealthy countries.",
+                "D": "Failing to pass laws to curb environmental pollution."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q63",
+              "number": 63,
+              "stem": "What does the author try to draw our closest attention to?",
+              "options": {
+                "A": "The massive burning of fossil fuels.",
+                "B": "Our relationship to the plant world.",
+                "C": "The capacity of plants to renew polluted air.",
+                "D": "Large-scale deforestation across the world."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q64",
+              "number": 64,
+              "stem": "How can human beings accomplish the goal of protecting the plant according to the author?",
+              "options": {
+                "A": "By showing respect for plants.",
+                "B": "By preserving all forms of life.",
+                "C": "By tapping all natural resources.",
+                "D": "By pooling their efforts together."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q65",
+              "number": 65,
+              "stem": "What does the author suggest we do in order not just to survive?",
+              "options": {
+                "A": "Expand the sphere of living.",
+                "B": "Develop nature’s potentials.",
+                "C": "Share life with nature.",
+                "D": "Allocate the resources."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from\nChinese into English. You should write your answer on Answer Sheet 2.",
+      "source": "2011年是中国城市化(urbanization)进程中的历史性时刻,其城市人口首次超过农村人口。在未来20年里,预计约有3.5亿农村人口将移居到城市。如此规模的城市发展对城市交通来说既是挑战，也是机遇。中国政府一直提倡“以人为本”的发展理念,强调人们以公交而不是私家车出行。它还号召建设“资源节约和环境友好型\"社会。有了这个明确的目标,中国城市就可以更好地规划其发展，并把大量投资转向安全、清洁和经济型交通系统的发展上。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

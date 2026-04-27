@@ -26,8 +26,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": "as to关于，至于 [D] such as像，诸如，例如 [C] in particular特别地 本题考核的知识点是∶逻辑关系.正确率∶60% 「精准定位]空格处填入的连接词表示前后部分prominent cases和the trial of Rosemary West 之间的关系.前者泛指\"一些著名的案件\"，后者是一个具体的案件，即\"对露丝玛莉.韦斯特案件的 审判\"，两者是例证关系.首先排除as to和in particular.for instance（或for example）可表示\"举 例\"，但放在句中多为插入语，且后面不可直接加宾语.选项中只有such as可以接名词做宾语，表达 \"例如.，像这种的\"含义. 空格设置下本题考查了句内逻辑关系及连接词的用法.注意从下一年的知识运用题型开始， 首句不再设空，本句保留完整的主要部分The government...prominent cases，将空格设置在句末表 示例证关系的词组such as上.例句∶professional people such as bank managers and solicitors诸如银 行经理和事务律师一类的专业人士. [干扰设置]其他项都是常用连接词，例句∶I don't know anything as to the others.至于其他，我 一无所知.The whole meal was good but the wine in particular was excellent.整顿饭都很好，尤其是 葡萄酒更好.Here in Chicago，for instance，the movement was growing by leaps and bounds.比如在 芝加哥，运动正在迅猛发展. Ⅱ In a significant 2 of legal controls over the 为了加强对报界的法律控制，大法官 press,Lord Irvine, the Lord Chancellor, will introduce 埃尔温勋爵将要提出一项草拟法案.该 a 3"
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "1.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -40,7 +49,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "2.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -52,8 +70,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": "sketch素描，速写;简报，略图，梗概 [B] rough草稿，草图;概略的，不完善.未完成的 [C] preliminary初步行动或活动，预备性措施;初步的，预备性的 [D] draft草稿，草案 本题考核的知识点是.固定搭配.正确率.36% 精准定位draft bil] 是法律用语中的一个固定搭配.意为\"草案.（提交议会讨论的）法案\".其 他选项虽然都可以表示类似于\"初步的，不完整的，简略的\"的含义，但不与bil1搭配. 空格设置draft有名词做定语的用法，并常用于法律术语中，构成一些固定搭配，如∶a draft constitution/agreement宪法/协议草案. [干扰设置]其他项目对draft构成近义干扰.sketch与draft类似，也有名词做定语的用法，如∶ a sketch map/plan略图.示意图/草拟计划.rough做名词表示\"草图\"是专业术语，它更常用作形容 词，如∶a rough drawing/guess草图/大致估计;preliminary有名词和形容词的用法，如∶a preliminary to taking an decision做出决定之前的预备活动;a preliminary examination初试."
+              "answer": "A",
+              "explanation": "sketch 素描，速写;简报，略图，梗概 [B] rough 草稿，草图;概略的，不完善. 未完成的 [C] preliminary 初步行动或活动，预备性措施;初步的，预备性的 [D] draft 草稿，草案本题考核的知识点是. 固定搭配. 正确率.36% 精准定位 draft bil] 是法律用语中的一个固定搭配. 意为\"草案. （提交议会讨论的）法案\". 其他选项虽然都可以表示类似于\"初步的，不完整的，简略的\"的含义，但不与 bil1 搭配. 空格设置 draft 有名词做定语的用法，并常用于法律术语中，构成一些固定搭配，如∶a draft constitution/agreement 宪法/协议草案. [干扰设置]其他项目对 draft 构成近义干扰. sketch 与 draft 类似，也有名词做定语的用法，如∶ a sketch map/plan 略图. 示意图/草拟计划. rough 做名词表示\"草图\"是专业术语，它更常用作形容词，如∶a rough drawing/guess 草图/大致估计;preliminary 有名词和形容词的用法，如∶a preliminary to taking an decision 做出决定之前的预备活动;a preliminary examination 初试.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "3. [A]sketch 素描，速写;简报，略图，梗概 [B] rough 草稿，草图;概略的，不完善. 未完成的 [C] preliminary 初步行动或活动，预备性措施;初步的，预备性的 [D] draft 草稿，草案本题考核的知识点是. 固定搭配. 正确率.36% 精准定位 draft bil] 是法律用语中的一个固定搭配. 意为\"草案. （提交议会讨论的）法案\".",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -65,8 +92,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ".正确率∶71% 「精准定位]空格所在部分是that引导的定语从句that will propose making payments to witnes- ses 4 ，修饰先行词bill，说明\"草案将提议使支付报酬给证人的行为⋯⋯\".联系上下文，Ⅱ段提 到\"为了加强对报界的控制，大法官埃尔温勋爵将要提出这个法案\"应是首句\"政府禁止报界收买要 案证人的举动\"的具体表现.因此，大法官提出法律草案的目的也是反对报界收买证人的做法.il- legal强调不符合法律规定，符合文意.illogical强调不合逻辑;improbable指可能性很小;improper 指\"不得体\"，都不符合上下文意. 「空格设置]本题考查对上下文意的理解.此处illegal做payment to witness的宾补，语法结构 较特殊. [干扰设置] 其他项与illegal在构词上类似，都是由\"否定前缀il-/im-＋形容词\"构成;且im- probable与improper词形接近，illogical也与illegal词形接近.例句∶Sometimes illogical behaviors may result in a great invention.有时不合逻辑的做法可能会导致伟大的发明.It is improbable that she will go.她不大可能会走.improper business practices不正当的商业手法，an act improper to the occasion不合时宜的行为. [B] penalty处罚，罚款"
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "4.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -79,7 +115,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2009/paper_1998-2009年考研英语真题答案速查.txt",
+                "sourceText": "5. A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -91,8 +136,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": "since自⋯⋯以后，自⋯⋯以来 [B] f当，无论何时，每次 [C] before在⋯.之前 [D] as当·之时，随着 本题考核的知识点是∶上下文语义 ＋ 逻辑推理.正确率∶56% 『精准定位] 空格处应填入的连词用来连接两个动作.\"严格限制案件的公开程度\"和\"审判开 始\".根据上下文逻辑推理，政府之所以要禁止报界付钱给案件的证人，是因为新闻界要把这些证人 的观点公诸于众，而司法要求的是公正，不能因为这些观点影响案件的审理.因此要严格控制的应 该是案件在审理开始\"之前\"（before）就过分公开. 空格设置] 本题考查了句内的时间逻辑. 「干扰设置]其他项都是可以表示时间的连词.例句∶She's been off work since Tuesday.星期二 以来她一直没上班.He sat watching her as she got ready.他一直坐着看她准备停当.As she grew older she gained in confidence.随着年龄的增长，她的信心增强了.She glares at me ifⅠ go near her desk. 我一走近她的办公桌，她就对我瞪眼."
+              "answer": "A",
+              "explanation": "since 自⋯⋯以后，自⋯⋯以来 [B] f 当，无论何时，每次 [C] before 在⋯. 之前 [D] as 当·之时，随着本题考核的知识点是∶上下文语义 ＋ 逻辑推理. 正确率∶56% 『精准定位] 空格处应填入的连词用来连接两个动作. \"严格限制案件的公开程度\"和\"审判开始\". 根据上下文逻辑推理，政府之所以要禁止报界付钱给案件的证人，是因为新闻界要把这些证人的观点公诸于众，而司法要求的是公正，不能因为这些观点影响案件的审理. 因此要严格控制的应该是案件在审理开始\"之前\"（before）就过分公开. 空格设置] 本题考查了句内的时间逻辑. 「干扰设置]其他项都是可以表示时间的连词. 例句∶She's been off work since Tuesday. 星期二以来她一直没上班. He sat watching her as she got ready. 他一直坐着看她准备停当. As she grew older she gained in confidence. 随着年龄的增长，她的信心增强了. She glares at me ifⅠ go near her desk. 我一走近她的办公桌，她就对我瞪眼.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "6.[A] since 自⋯⋯以后，自⋯⋯以来 [B] f 当，无论何时，每次 [C] before 在⋯. 之前 [D] as 当·之时，随着本题考核的知识点是∶上下文语义 ＋ 逻辑推理. 正确率∶56% 『精准定位] 空格处应填入的连词用来连接两个动作. \"严格限制案件的公开程度\"和\"审判开始\". 根据上下文逻辑推理，政府之所以要禁止报界付钱给案件的证人，是因为新",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -105,7 +159,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2009/paper_1998-2009年考研英语真题答案速查.txt",
+                "sourceText": "7. D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -117,8 +180,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ".正确率∶56% 精准定位]本题再次考查了动词与control的搭配.根据上下文，埃尔温勋爵批评报界收买证 人.随意公开案件的行为，认为报界自我约束不能⋯⋯足够的监督控制.四个选项中，manifest和 indicate的含义明显不符合文意.offer属于使用非常广泛的词语，当表示\"给\"的含义时等于give，它 放入文中，表达的含义是;自我约束（self regulation）不能提供足够的监控.present一般指正式的呈 递，不与control搭配. 7 「空格设置] 动词的搭配用法是知识运用的重要考查内容.offer是基础词汇，此处考察了它与 control的搭配.例句∶He offered some useful advice.他提出了一些有益的建议.He did not offer any explanation for his behavior.他没有对自己的行为做出任何解释. 「干扰设置其他项都可接control做宾语，其中present构成对offer的近义干扰，manifest也与 indicate含义相近.例句;The committee is presenting its investigation report next week.委员会将于 下星期提出调查报告.He doesn't manifest much interest in his studies. 他对学业没显示出多大兴 趣.The symptoms indicate immediate surgery.症状表明需要立即做外科手术."
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "8.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -130,8 +202,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ".正确率∶39 % 『精准定位] 空格所在句子指出，\"这封信的⋯.在埃尔温勋爵引起媒体抗议两天后发生了\". 选项中，release强调\"经过努力发表.发布\"，多用于消息（发布）.影片或者书籍（发行）;printing在文 中表示\"两天后把信印刷出来\"显然不符合逻辑;exposure多指\"暴露或损露-些不好的事情.如违法 或犯罪行为\";因此正确答案是[B]publication，它表达的含义是\"两天后，这封信便公布于众\". 空格设置publication是表示动作的抽象名词，且含义丰富，是考生需要掌握的重点词汇.例 句∶a delay in the publication of the exam results考试成绩的延期公布.specialist publications专业出 版物 [干扰设置]其他项对publication构成近义干扰.例句∶The new software is planned for release in April.新软件计划四月份发行.the printing trade印刷业，The book is in its sixth printing.这本书 是第六次印刷了.exposure of graft in the government对政府贪污的揭露."
+              "answer": "A",
+              "explanation": ". 正确率∶39 % 『精准定位] 空格所在句子指出，\"这封信的⋯. 在埃尔温勋爵引起媒体抗议两天后发生了\". 选项中，release 强调\"经过努力发表. 发布\"，多用于消息（发布）. 影片或者书籍（发行）;printing 在文中表示\"两天后把信印刷出来\"显然不符合逻辑;exposure 多指\"暴露或损露-些不好的事情. 如违法或犯罪行为\";因此正确答案是[B]publication，它表达的含义是\"两天后，这封信便公布于众\". 空格设置 publication 是表示动作的抽象名词，且含义丰富，是考生需要掌握的重点词汇. 例句∶a delay in the publication of the exam results 考试成绩的延期公布. specialist publications 专业出版物 [干扰设置]其他项对 publication 构成近义干扰. 例句∶The new software is planned for release in April. 新软件计划四月份发行. the printing trade 印刷业，The book is in its sixth printing. 这本书是第六次印刷了. exposure of graft in the government 对政府贪污的揭露.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "9.[A] Release 发布，发行 [B] Publication 发表，刊登，公之于众∶出版（物） [C] Printing 印刷，打印;印刷术，（书籍的）一次印刷，印刷字体 [D] ExpOsure 暴露，揭露本题考核的知识点是∶名词词义辨析. 正确率∶39 % 『精准定位] 空格所在句子指出，\"这封信的⋯. 在埃尔温勋爵引起媒体抗议两天后发生了\". 选项",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -144,7 +225,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2009/paper_1998-2009年考研英语真题答案速查.txt",
+                "sourceText": "10. A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -157,7 +247,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2009/paper_1998-2009年考研英语真题答案速查.txt",
+                "sourceText": "11. B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -169,8 +268,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": "释权留给法官不同于留给国会\"本身仅是 一个客观事实，不至于会引起媒体的一片抗议，因此可推知rather than最恰当，文中意为\"把隐私控 制的解释权留给法官而不留给国会\". 「空格设置] 本题考香了选择并列连词rather than及句内逻辑关系.例句∶These shoes are comfortable rather than pretty.这双鞋子是舒服而不是好看. 「干扰设置] 其他项都是含有than的介词/连词词组.例句∶There's nothing better than a long soak in a hot bath.没有什么比好好地泡个热水澡更舒服的了.She never speaks to me other than to ask for something. 她除了向我要东西，从不跟我说话.The result was quite other than we had ex- pected.结果和我们预期的不同.They arrived home sooner than expected. 他们到家比预料的要早. [B] makes使变得，使成为⋯⋯"
+              "answer": "A",
+              "explanation": "释权留给法官不同于留给国会\"本身仅是一个客观事实，不至于会引起媒体的一片抗议，因此可推知 rather than 最恰当，文中意为\"把隐私控制的解释权留给法官而不留给国会\". 「空格设置] 本题考香了选择并列连词 rather than 及句内逻辑关系. 例句∶These shoes are comfortable rather than pretty. 这双鞋子是舒服而不是好看. 「干扰设置] 其他项都是含有 than 的介词/连词词组. 例句∶There's nothing better than a long soak in a hot bath. 没有什么比好好地泡个热水澡更舒服的了. She never speaks to me other than to ask for something. 她除了向我要东西，从不跟我说话. The result was quite other than we had ex- pected. 结果和我们预期的不同. They arrived home sooner than expected. 他们到家比预料的要早. [B] makes 使变得，使成为⋯⋯",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "12.[A]better than 好过，胜于 「B other than 除⋯·以外;不同，不同于 [C] rather than 是⋯⋯而不是，与其⋯⋯·毋宁 [D] sooner than 快于，早于本题考核的知识点是∶逻辑关系＋并列连词. 正确率∶66% 「精准定位]空格处的连接词应表示前后两个介词短语（left）to judges（留给法官）与（left）",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -182,8 +290,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": "决问题，改正错误，set sb free/loose释放某人，把（危险人物）放走，set9 your hat straight把帽子戴正.turn常用于表示颜色或天气的变化等，其搭配有;turn green变绿， She turned white她脸色变白;turn cold变冷，the milk turned sour牛奶变酸，turn nasty天气变坏或 人.动物变得凶恶.turn也可接复合宾语，但只表示状态的改变，如∶The heat turned the milk sour. 炎热的天气使牛奶变酸了. [B] convincing令人信服的，具有说服力的"
+              "answer": "A",
+              "explanation": "决问题，改正错误，set sb free/loose 释放某人，把（危险人物）放走，set9 your hat straight 把帽子戴正. turn 常用于表示颜色或天气的变化等，其搭配有;turn green 变绿， She turned white 她脸色变白;turn cold 变冷，the milk turned sour 牛奶变酸，turn nasty 天气变坏或人. 动物变得凶恶. turn 也可接复合宾语，但只表示状态的改变，如∶The heat turned the milk sour. 炎热的天气使牛奶变酸了. [B] convincing 令人信服的，具有说服力的",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "13. [A] changes 改变，变革，改造 [D] turns（使）成为，变成（另外一种状态） [C] sets 使处于某种状态，使开始本题考核的知识点是∶动词用法. 正确率∶45% 「精准定位] 本题所在部分为 which 引导的非限制性定语从句，该从句的主语是 which 指代的 the Human Rights Bill. 从本题和下一题的选项可看出两个空格应",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -196,7 +313,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ".正确率∶14% [精准定位] 从上一题的分析可知，空格填入的形容词做make复合结构的宾补∶make the Euro- pean Convention on Human Rights legally14.由下文可知，《人权法案》规定每一个人都有隐私 权.公众人物可以走上法庭去保护自己和家人.从《人权法案》的具体内容可推知.它对《欧洲人权公 约》的影响应该是使其在法律上有约束力（binding），而不仅仅是\"具有说服力\"，更不是\"具有抑制性\" 或\"持续的\"因此[A]符合文意. [空格设置]本题考查形容词实际上是对上下文语义的考查.binding来自动词bind\"约束，迫 使\"的含义，例句∶The agreement binds her to repay the debt in full within six months.根据协议，她必 须在六个月之内还清全部债务.a binding agreement/contract有约束力的协议/合同. [干扰设置]其他项与binding一样，都是-ing分词.例句∶a convincing argument/case有说服力 的论点/事例.The warning had some restraining influence.这次警告有一些遏制的效果.sustaining 是sustain的现在分词，而sustain\"维持（生命.生存）;使稳定持续;支撑，承受住\"是及物动词，其现在 分词形式不如其过去分词常用.sustained意为\"持续的，持久的\"，如∶a period of sustained economic growth经济持续增长的时期."
+              "explanation": ". 正确率∶14% [精准定位] 从上一题的分析可知，空格填入的形容词做 make 复合结构的宾补∶make the Euro- pean Convention on Human Rights legally14.由下文可知，《人权法案》规定每一个人都有隐私权. 公众人物可以走上法庭去保护自己和家人. 从《人权法案》的具体内容可推知. 它对《欧洲人权公约》的影响应该是使其在法律上有约束力（binding），而不仅仅是\"具有说服力\"，更不是\"具有抑制性\" 或\"持续的\"因此[A]符合文意. [空格设置]本题考查形容词实际上是对上下文语义的考查. binding 来自动词 bind\"约束，迫使\"的含义，例句∶The agreement binds her to repay the debt in full within six months. 根据协议，她必须在六个月之内还清全部债务. a binding agreement/contract 有约束力的协议/合同. [干扰设置]其他项与 binding 一样，都是-ing 分词. 例句∶a convincing argument/case 有说服力的论点/事例. The warning had some restraining influence. 这次警告有一些遏制的效果. sustaining 是 sustain 的现在分词，而 sustain\"维持（生命. 生存）;使稳定持续;支撑，承受住\"是及物动词，其现在分词形式不如其过去分词常用. sustained 意为\"持续的，持久的\"，如∶a period of sustained economic growth 经济持续增长的时期.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "14. [A]binding 必须遵守的，有法律约束力的 [D] sustaining 支撑的，持久性的 [C]restraining 抑制的，遏制的，阻止的本题考核的知识点是∶上下文语义十形容词词义辨析. 正确率∶14% [精准定位] 从上一题的分析可知，空格填入的形容词做 make 复合结构的宾补∶make the Euro- pean Convention",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -209,7 +335,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2009/paper_1998-2009年考研英语真题答案速查.txt",
+                "sourceText": "15. C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -222,7 +357,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2009/paper_1998-2009年考研英语真题答案速查.txt",
+                "sourceText": "16. A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -234,8 +378,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ".正确率∶61% 精准定位下①句含义为;自韦斯特被判十次无期徒刑后，付款给证人的做法成为了...首先 /77 考生需将West和前面提到的the trial of Rosemary West联系起来，这个事件的影响很大，政府和法 官都意识到要严格控制报界付款给证人的行为.由此可以推断出这种行为应该成为颇有争议的问 题（issue），而不只是一个事件（incident），或推断（inference）.impact指\"对（其他人或事）的巨大影 响.强大作用\"，不符合文意. 「空格设置]此处考查issue的含义及根据上下文意作出推断.例句∶The party was divided on this issue. 该党在这一问题上存在分歧. 「干扰设置]impact常用于～ of sth on sb/sth，如∶This book had a great impact on its readers.这 本书对读者有很大的影响.incident常为不寻常的.令人不快的事情，或指暴力事件.国与国间的冲 突.摩擦，如∶His bad behavior was just an isolated incident.他的不良行为只是个别事件.The dem- onstration passed off without incident.这次示威平静地结束了.a border incident边境冲突.infer- ence例句∶to draw/make inferences from the data根据资料推论出结果. [B] remarked说起，谈论，评论"
+              "answer": "A",
+              "explanation": ". 正确率∶61% 精准定位下①句含义为;自韦斯特被判十次无期徒刑后，付款给证人的做法成为了. . . 首先 /77 考生需将 West 和前面提到的 the trial of Rosemary West 联系起来，这个事件的影响很大，政府和法官都意识到要严格控制报界付款给证人的行为. 由此可以推断出这种行为应该成为颇有争议的问题（issue），而不只是一个事件（incident），或推断（inference）. impact 指\"对（其他人或事）的巨大影响. 强大作用\"，不符合文意. 「空格设置]此处考查 issue 的含义及根据上下文意作出推断. 例句∶The party was divided on this issue. 该党在这一问题上存在分歧. 「干扰设置]impact 常用于～ of sth on sb/sth，如∶This book had a great impact on its readers. 这本书对读者有很大的影响. incident 常为不寻常的. 令人不快的事情，或指暴力事件. 国与国间的冲突. 摩擦，如∶His bad behavior was just an isolated incident. 他的不良行为只是个别事件. The dem- onstration passed off without incident. 这次示威平静地结束了. a border incident 边境冲突. infer- ence 例句∶to draw/make inferences from the data 根据资料推论出结果. [B] remarked 说起，谈论，评论",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "17.[A] impact 冲撞;巨大影响，强大作用 「D] issue 重要问题，争论焦点 [C] inference 推断，结论本题考核的知识点是∶上下文语义十名词词义辨析. 正确率∶61% 精准定位下①句含义为;自韦斯特被判十次无期徒刑后，付款给证人的做法成为了. . . 首先 /77 考生需将 West 和前面提到的 the trial of Rosemary",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -247,8 +400,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ".正确率∶39% 「精准定位] 空格所在部分是被动语态的动词复合结构∶be ＋过去分词＋ to have done sth.适 用这个结构的只有said，be said to have done sth意为\"据说做讨某事\"，所在句意为.据说多达19个 证人因向报社讲述他们的故事而获得报酬.因此正确答案为[C].tell可用于tell sb to do sth的结 构，但意为\"命令，指示，吩咐某人做某事\"，因此其不定式结构不能使用完成式，即\"让某人做过某事\" 不合逻辑. 「空格设置] 本题考查了基础词汇say的一个特殊用法.be said to do/be sth意为\"据说⋯⋯\"， 如∶He is said to have been a brilliant scholar.据说他曾是个了不起的学者. 干扰设置] 其他项都是表示\"说\"的动词，对said构成近义干扰.例句∶He has already stated his intention to run for election.他已声明打算参加竞选.The similarities between the two have often been remarked on.人们经常谈到两者的相似之处.She remarked how tired I was looking. 她说我看 上去显得特别累.He was told to sit down and wait. 有人吩咐他坐下等着. [B] when关系副词"
+              "answer": "A",
+              "explanation": ". 正确率∶39% 「精准定位] 空格所在部分是被动语态的动词复合结构∶be ＋过去分词＋ to have done sth. 适用这个结构的只有 said，be said to have done sth 意为\"据说做讨某事\"，所在句意为. 据说多达 19 个证人因向报社讲述他们的故事而获得报酬. 因此正确答案为[C]. tell 可用于 tell sb to do sth 的结构，但意为\"命令，指示，吩咐某人做某事\"，因此其不定式结构不能使用完成式，即\"让某人做过某事\" 不合逻辑. 「空格设置] 本题考查了基础词汇 say 的一个特殊用法. be said to do/be sth 意为\"据说⋯⋯\"， 如∶He is said to have been a brilliant scholar. 据说他曾是个了不起的学者. 干扰设置] 其他项都是表示\"说\"的动词，对 said 构成近义干扰. 例句∶He has already stated his intention to run for election. 他已声明打算参加竞选. The similarities between the two have often been remarked on. 人们经常谈到两者的相似之处. She remarked how tired I was looking. 她说我看上去显得特别累. He was told to sit down and wait. 有人吩咐他坐下等着. [B] when 关系副词",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "18.[A]stated 陈述，说明，声明 [C] said 说 「D] told 告诉;讲述;命令，指示，吩附本题考核的知识点是∶动词用法辨析. 正确率∶39% 「精准定位] 空格所在部分是被动语态的动词复合结构∶be ＋过去分词＋ to have done sth. 适用这个结构的只有 said，be said to have done sth 意为\"据说做讨某事",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -260,8 +422,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": "释\"关注\"的内容.选项中能引导同位 语从句的关系代词只有that.注意;同位语从句本来应该直接跟在先行词concerns后面，但因为从 句太长，谓语太短，显得头重脚轻，所以将谓语提前，达到句子平衡. 厂空格设置门本题老查了同位语从句的用法同位语从句接在抽象名词后，对其作进一步解释， 说明其具体内容.这类名词包括∶belief（相信），conclusion（结论），decision（决定），doubt（怀疑），evi- dence（证据），fact（事实），hope（希望），idea（想法），information（消息），news（消息），probability（可 能），problem（问题），rumor（传闻），suggestion（建议），truth（真理）等等. 干扰设置]其他项都是常用的关系词，需要对它们各自的用法加以辨析.when意为\"在那时， 其时\"，如∶Sunday is the only day when I can relax. 星期日是我唯一可以休息的日子.what意为 ⋯⋯的事物，无论如何\"，如;Nobody knows what will happen next.没有人知道接下来将会发生什么 事情.which意为\"⋯⋯的那个，那些\"，如∶Houses which overlook the lake cost more.俯瞰湖泊的房 子要价高些."
+              "answer": "A",
+              "explanation": "释\"关注\"的内容. 选项中能引导同位语从句的关系代词只有 that. 注意;同位语从句本来应该直接跟在先行词 concerns 后面，但因为从句太长，谓语太短，显得头重脚轻，所以将谓语提前，达到句子平衡. 厂空格设置门本题老查了同位语从句的用法同位语从句接在抽象名词后，对其作进一步解释， 说明其具体内容. 这类名词包括∶belief（相信），conclusion（结论），decision（决定），doubt（怀疑），evi- dence（证据），fact（事实），hope（希望），idea（想法），information（消息），news（消息），probability（可能），problem（问题），rumor（传闻），suggestion（建议），truth（真理）等等. 干扰设置]其他项都是常用的关系词，需要对它们各自的用法加以辨析. when 意为\"在那时， 其时\"，如∶Sunday is the only day when I can relax. 星期日是我唯一可以休息的日子. what 意为 ⋯⋯的事物，无论如何\"，如;Nobody knows what will happen next. 没有人知道接下来将会发生什么事情. which 意为\"⋯⋯的那个，那些\"，如∶Houses which overlook the lake cost more. 俯瞰湖泊的房子要价高些.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "19.[A]what 关系代词 [D] that 关系代词 [C] which 关系代词本题考核的知识点是∶ 同位语从句中的关系代词. 正确率∶54% 『精准定位空格后面部分是 concerns 的同位语，具体解释\"关注\"的内容. 选项中能引导同位语从句的关系代词只有 that. 注意;同位语从句本来应该直接跟在先行词 concerns 后面，但因为从句太长，谓语太",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -273,8 +444,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": "及用法.正确率∶35% 「精准定位]guilty verdicts意为\"（陪审团的）定罪决定\".空格所在句意为;证人被鼓励在法庭 上夸大事实，目的就是为了.定罪.assure后面一般接sb，表示消除别人的疑虑.confide接sth 时，可意为\"（将贵重物品）托付（给某人照管）\"，显然不符合文意.guarantee接sth时意为\"保证，保 障（承诺的事），确保\"等，当含义是\"确保\"时多接褒义的名词.ensure意为\"保证，确保，使..一定 得到\".根据文意.证人夸大事实的目的就是确保被告被定罪.因此ensure最符合文意 「空格设置]本题考查了核心动词ensure的用法，它有许多重要的近义动词.例句∶The book ensured his success.这本书保证了他的成功. [干扰设置]assure常用～sb of sth，如∶I can assure you of its quality. 我可以向您保证它的质 量.confide常用～ sth to sb，如∶He confided his troubles to a friend.他向朋友倾诉烦恼事，confide my property to your care.把我的财产托付你保管.guarantee意为\"保证，保障（承诺的事）;确保，使 必然发生\"，如∶We guarantee to deliver your goods within a week.我们保证一周内交货.guarantee a good crop保证了好收成. Section Ⅱ Reading Comprehension Part A Text 1科学发展的专业化和职业化 淤一.文章总体分析 本文客观地描述了科学的专业化和职业化发展过程，并且以英国地质学的发展为例说明专业化 导致职业化越来越明显.文章按照\"引出话题-分析问题\"的脉络展开论述. 二.语篇分析及试题精解 I ①Specialisation2 can be seen as a response to the 专业化是随着科学知识不断增长 problem2of an incre"
+              "answer": "A",
+              "explanation": "及用法. 正确率∶35% 「精准定位]guilty verdicts 意为\"（陪审团的）定罪决定\". 空格所在句意为;证人被鼓励在法庭上夸大事实，目的就是为了. 定罪. assure 后面一般接 sb，表示消除别人的疑虑. confide 接 sth 时，可意为\"（将贵重物品）托付（给某人照管）\"，显然不符合文意. guarantee 接 sth 时意为\"保证，保障（承诺的事），确保\"等，当含义是\"确保\"时多接褒义的名词. ensure 意为\"保证，确保，使. . 一定得到\". 根据文意. 证人夸大事实的目的就是确保被告被定罪. 因此 ensure 最符合文意 「空格设置]本题考查了核心动词 ensure 的用法，它有许多重要的近义动词. 例句∶The book ensured his success. 这本书保证了他的成功. [干扰设置]assure 常用～sb of sth，如∶I can assure you of its quality. 我可以向您保证它的质量. confide 常用～ sth to sb，如∶He confided his troubles to a friend. 他向朋友倾诉烦恼事，confide my property to your care. 把我的财产托付你保管. guarantee 意为\"保证，保障（承诺的事）;确保，使必然发生\"，如∶We guarantee to deliver your goods within a week. 我们保证一周内交货. guarantee a good crop 保证了好收成. Section Ⅱ Reading Comprehension Part A Text 1 科学发展的专业化和职业化淤一. 文章总体分析本文客观地描述了科学的专业化和职业化发展过程，并且以英国地质学的发展为例说明专业化导致职业化越来越明显. 文章按照\"引出话题-分析问题\"的脉络展开论述. 二. 语篇分析及试题精解 I ①Specialisation2 can be seen as a response to the 专业化是随着科学知识不断增长 pro",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2001/paper_2001年考研英语真题解析.txt",
+                "sourceText": "20.[A] assure 确保，保证 [B] confide（向某人）吐露（内幕），倾诉;托付 [C] ensure 保证，担保，确保 [D] guarantee 保证，承诺 12 本题考核的知识点是;动词词义辨析及用法. 正确率∶35% 「精准定位]guilty verdicts 意为\"（陪审团的）定罪决定\". 空格所在句意为;证人被鼓励在法庭上夸大事实，目的就是",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

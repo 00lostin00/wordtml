@@ -7,14 +7,31 @@ wordtml 本地服务
 """
 import http.server
 import json
+import os
 import socketserver
 import sqlite3
 import sys
+import urllib.request
 import webbrowser
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
 ROOT = Path(__file__).parent
+
+def _load_env():
+    for name in ("deepseek.env", ".env"):
+        p = ROOT / name
+        if p.exists():
+            for line in p.read_text(encoding="utf-8").splitlines():
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    k, _, v = line.partition("=")
+                    k, v = k.strip(), v.strip()
+                    if k and k not in os.environ:
+                        os.environ[k] = v
+
+_load_env()
+
 PORT = int(sys.argv[1]) if len(sys.argv) > 1 else 8080
 DB_PATH = ROOT / "wordtml.db"
 
@@ -238,6 +255,39 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                     conn.commit()
                     row = conn.execute("SELECT * FROM practice_history WHERE id=?", (cur.lastrowid,)).fetchone()
                 json_response(self, {"ok": True, "item": practice_from_row(row)}, 201)
+                return
+
+            if parsed.path == "/api/ai-chat":
+                messages = payload.get("messages", [])
+                if not messages:
+                    json_response(self, {"ok": False, "error": "no messages"}, 400)
+                    return
+                api_key = os.environ.get("DEEPSEEK_API_KEY", "")
+                if not api_key:
+                    json_response(self, {"ok": False, "error": "DEEPSEEK_API_KEY 未配置"}, 503)
+                    return
+                body = json.dumps({
+                    "model": "deepseek-v4-flash",
+                    "messages": [
+                        {"role": "system", "content":
+                         "你是一个英语学习助手，专门帮助用户学习英语词汇、做CET6/考研英语真题。"
+                         "回答简洁清晰，中英文混用均可。"}
+                    ] + messages,
+                    "max_tokens": 1024,
+                    "stream": False,
+                }, ensure_ascii=False).encode("utf-8")
+                req = urllib.request.Request(
+                    "https://api.deepseek.com/chat/completions",
+                    data=body,
+                    headers={
+                        "Content-Type": "application/json",
+                        "Authorization": f"Bearer {api_key}",
+                    },
+                )
+                with urllib.request.urlopen(req, timeout=60) as r:
+                    result = json.loads(r.read().decode("utf-8"))
+                reply = result["choices"][0]["message"]["content"]
+                json_response(self, {"ok": True, "reply": reply})
                 return
 
             json_response(self, {"ok": False, "error": "unknown endpoint"}, 404)

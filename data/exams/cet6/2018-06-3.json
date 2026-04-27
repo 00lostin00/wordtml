@@ -24,14 +24,32 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "空格前的 and 连接两个并列谓语动词，因此空格处所填入的词应在词形上与 bringing 对应，此处应填入及物动词的现在分词。备选项中有 D). enabling 使能够和 I). misleading 将……引入歧途，误导，两项符合，但结合此处句意“……正在将电动汽车引入大众市场，并使人们能在其他行星上生活”，可判断 enabling“使能够”一词符合句意，因此选 D). enabling。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-3/paper_2018年6月英语六级真题答案解析_卷三.txt",
+            "sourceText": "答案：D). enabling 使能够详解：空格前的 and 连接两个并列谓语动词，因此空格处所填入的词应在词形上与 bringing 对应，此处应填入及物动词的现在分词。备选项中有 D). enabling 使能够和 I). misleading 将……引入歧途，误导，两项符合，但结合此处句意“……正在将电动汽车引入大众市场，并使人们能在其他行星上生活”，可判断 e",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "空格位于省略引导词 that 的定语从句中，且在该从句中作谓语，又因为空格处于助动词 has 之后，因此此处应填入及物动词过去分词形式。备选项中符合要求的单词有 amassed 积累，积聚（尤其财富）、exaggerated 夸张，夸大和 terrified 使恐惧，使害怕。再结合本句含义可知，该动词应该能与 fortune“财富”构成固定搭配，表达“积累财富”之意，即此处句意为“但这位企业家积累的将近 130 亿美元的财富来自于他的实际成就而非假想”， 因此应该选 A). amassed。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-3/paper_2018年6月英语六级真题答案解析_卷三.txt",
+            "sourceText": "答案：A). amassed 积累，积聚（尤其财富） 详解：空格位于省略引导词 that 的定语从句中，且在该从句中作谓语，又因为空格处于助动词 has 之后，因此此处应填入及物动词过去分词形式。备选项中符合要求的单词有 amassed 积累，积聚（尤其财富）、exaggerated 夸张，夸大和 terrified 使恐惧，使害怕。再结合本句含义可知，该动词应该能与",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q28",
@@ -60,14 +78,32 @@
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "空格位于动词 required 之后、名词 intelligence 之前，因此可填入一个形容词作定语修饰该名句。根据语言知识可知 emotional intelligence 为固定搭配，意为“情绪智力，情商”，加之上文提到“保姆和护士合二为一”， 根据常识可知保姆和护士这两种工作都需要与人打交道，除了专业知识以外，情绪智力也是很重要的，因此答案为 C). emotional。此处意为“又或者如果所需的情绪智力超越了马斯克先生设想的机器人”。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-3/paper_2018年6月英语六级真题答案解析_卷三.txt",
+            "sourceText": "答案：C). emotional 情绪上的详解：空格位于动词 required 之后、名词 intelligence 之前，因此可填入一个形容词作定语修饰该名句。根据语言知识可知 emotional intelligence 为固定搭配，意为“情绪智力，情商”，加之上文提到“保姆和护士合二为一”， 根据常识可知保姆和护士这两种工作都需要与人打交道，除了专业知识以外，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "空格位于定冠词 the 之后、名词 user 之前，因此可填入一个形容词作定语修饰名词。备选项中 C)、L)和 N)已被选，可供选择的还有 B). casual 临时的，偶然的、G). extravagant 奢移的，挥霍的、I). misleading 误解的， 误导的和 J). precious 宝贵的。根据语言知识可知 casual user 为常用搭配，表示“临时用户”，再分析原句可知此处要表达的意思为“使用户节省金钱和时间”，用户是否是奢侈的、误导的或宝贵的，这些特点并不重要，因此答案为 B). casual。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-3/paper_2018年6月英语六级真题答案解析_卷三.txt",
+            "sourceText": "答案：B). casual 临时的，偶然的详解：空格位于定冠词 the 之后、名词 user 之前，因此可填入一个形容词作定语修饰名词。备选项中 C)、L)和 N)已被选，可供选择的还有 B). casual 临时的，偶然的、G). extravagant 奢移的，挥霍的、I). misleading 误解的， 误导的和 J). precious 宝贵的。根据语言知识可知",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
@@ -152,8 +188,17 @@
           "id": "q38",
           "number": 38,
           "stem": "The author came to\nsee how costly college\neducation could be when\nshe was trying to choose\na university to attend.\n译文：当作者试图选择\n一所大学就读时，她开\n始明白大学教育有多\n贵。\n定位：由题干关键词\ncame to see、costly 和\ncollege education 定位到\nC 段画线处。\n[C]. In reflection, my firm belief in the power of the brand was naive, not to mention a bit\nsnobby. I quickly passed over state schools and southern schools, believing their\ncurriculum to be automatically inferior to northeastern or western counterparts. Instead,\nI dreamed of living in New York City and my parents obliged me with a visit to New\nYork University’s （NYU ）campus. During the tour, tuition fees were discussed.\n（NYU is consistently ranked one of the country’s most expensive schools, with room\nand board costs totaling upwards of $64,000 a year.）Up until then, I hadn’t truly\nrealized just how expensive an education can be. Over the next few months, I realized\nnot only could I not afford my dream school, I couldn’t even afford the ones where I’d\nbeen accepted. City University of New York （CUNY ）, Rutgers University, and\nIndiana University were out of reach as were Mississippi State and the University of\nAlabama, where I would have to pay out-of-state fees. Further complicating my college\nsearch was a flourishing stack career—I wanted to keep running but my times weren’t\nquite fast enough to secure a scholarship.\n详解：C 段画线部分提到：直到那时，我才真正意识到教育是多么昂贵，根据上下文可知，定位句中的then 指代作\n者高三择校时，题干中的came to see 对应原文中的realized；costly 对应原文中的expensive，故答案为C。",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "C 段画线部分提到：直到那时，我才真正意识到教育是多么昂贵，根据上下文可知，定位句中的 then 指代作者高三择校时，题干中的 came to see 对应原文中的 realized；costly 对应原文中的 expensive，故答案为 C。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-3/paper_2018年6月英语六级真题答案解析_卷三.txt",
+            "sourceText": "choose a university to attend. 译文：当作者试图选择一所大学就读时，她开始明白大学教育有多贵。 定位：由题干关键词 came to see、costly 和 college education 定位到 C 段画线处。 [C]. In reflection, my firm belief in the power of the brand was naive, not to mention a bit snobby. I quickly passed over state schools and southern schools, believing the",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q39",
@@ -166,8 +211,17 @@
           "id": "q40",
           "number": 40,
           "stem": "The author cannot recall for sure\nwhat\nmade\ncertain\ntop\nuniversities\nappear a lotbetter.\n译文：作者记不清是什么让某些顶尖\n大学显得好许多。\n定位：由题干关键词cannot recall for\nsure、top universities 以及appear a lot\nbetter 定位到B 段画线处。\n[B]. Looking back now, nine years later, I can’t remember exactly what it was\nabout these universities that made them seem so much better. Was it a\ncurriculum that appeared more rigorous, perhaps ？Or an alumni\nnetwork that I hoped would open doors down the line？Maybe. “I do\nthink there are advantages to schools with more recognition,” notes\nMarybeth Gasman, a professor of higher education at the University of\nPennsylvania. “I don’t necessarily think that’s a reason to go to one.”\n详解：B 段第一句提到，如今回想起来，作者记不清这些大学在哪一点令它们看起来好许多。由上下文可知，定位\n句中的these universities 指代上一段最后一句中的top school。题干中的cannot recall for sure 对应原文中的can’t\nremember exactly；appear a lot better 对应原文中的seem so much better，故答案为B。",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "B 段第一句提到，如今回想起来，作者记不清这些大学在哪一点令它们看起来好许多。由上下文可知，定位句中的 these universities 指代上一段最后一句中的 top school。题干中的 cannot recall for sure 对应原文中的 can’t remember exactly；appear a lot better 对应原文中的 seem so much better，故答案为 B。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-3/paper_2018年6月英语六级真题答案解析_卷三.txt",
+            "sourceText": "appear a lotbetter. 译文：作者记不清是什么让某些顶尖大学显得好许多。 定位：由题干关键词 cannot recall for sure、top universities 以及 appear a lot better 定位到 B 段画线处。 [B]. Looking back now, nine years later, I can’t remember exactly what it was about these universities that made them seem so much better. Was it a curriculum that appeared",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q41",
@@ -187,8 +241,17 @@
           "id": "q43",
           "number": 43,
           "stem": "In order to be admitted to a prestigious university, the\nauthor took part in various extracurricular activities and\nattended test preparation courses.\n译文：为了考上名牌大学，作者参加了各种课外活动，\n还去上了备考课程。\n定位：由题干关键词be admitted to a prestigious\nuniversity, the author took part in various extracurricular\nactivities and attended test preparation courses 定位到A 段\n画线处。\n[A].\nAs a high school junior, everything in my life\nrevolved around getting into the right college. I\ndiligently\nattended my SAT, ACT, and Advanced Placement test\npreparation courses. I juggled （尽力应付）cross-\ncountry and track schedules, newspaper staff, and my\nchurch’s youth group and drama team. I didn’t drink,\nparty, or even do much dating. The right college, I\nthought, was one with prestige, one with a name. It\ndidn’t have to be the Ivy League, but it needed to be\n“top school.”\n详解：A 段前三句提到，作为一名高三的学生，作者生活的每一件事都围绕着进入合适的大学而展开。她努力参加\n学术水平测验考试、美国大学入学考试和美国大学预修课程考试的备考课程。并尽量兼顾越野赛和田径赛日程表、\n报社打工以及她的教堂少年班和戏剧队。由此可知，作者为了考上合适的大学，参加了备考课程和各种课外活动。\n该段第五句则指出作者认为合适的大学是一所有声望的大学，一所有名的大学。题干中的be admitted to a prestigious\nuniversity 对应原文中的getting into the right college; various extracurricular activities 对应原文中的cross-country and\ntrack schedules, newspaper staff, and my church’s youth group and drama team，故答案为A。",
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A 段前三句提到，作为一名高三的学生，作者生活的每一件事都围绕着进入合适的大学而展开。她努力参加学术水平测验考试、美国大学入学考试和美国大学预修课程考试的备考课程。并尽量兼顾越野赛和田径赛日程表、 报社打工以及她的教堂少年班和戏剧队。由此可知，作者为了考上合适的大学，参加了备考课程和各种课外活动。 该段第五句则指出作者认为合适的大学是一所有声望的大学，一所有名的大学。题干中的 be admitted to a prestigious university 对应原文中的 getting into the right college; various extracurricular activities 对应原文中的 cross-country and track schedules, newspaper staff, and my church’s youth group and drama team，故答案为 A。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-06-3/paper_2018年6月英语六级真题答案解析_卷三.txt",
+            "sourceText": "tigious university, the author took part in various extracurricular activities and attended test preparation courses 定位到 A 段画线处。 [A]. As a high school junior, everything in my life revolved around getting into the right college. I diligently attended my SAT, ACT, and Advanced Placement test preparat",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q44",

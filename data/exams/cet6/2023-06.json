@@ -1,0 +1,274 @@
+{
+  "id": "cet6-2023-06",
+  "type": "cet6",
+  "year": 2023,
+  "month": 6,
+  "set": 0,
+  "title": "2023年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “It is widely accepted that an important goal of education is to help students learn how to learn.,, You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions; In this section, there is a passage with ten blanks. You are required to select one\nword for each blank from a list of choices given in a word bank following the passage. Read the\npassage through carefully before making your choices. Each choice in the bank is identified by\na letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single\nline through the centre. You may not use any of the words in the bank more than once.\nYou might not know yourself as well as you think. According to a new study, people\nare \n\naccurate judges of only some of their behaviors. While most previous studies\non how well people know themselves have been done on long-term personality traits, this\nnew study \n\nhow well people understand how they are acting from one moment to\nthe next. Researchers asked participants to wear audio recorders that automatically \n\nevery 9.5 minutes between 7 a.m. and 2 a.m. to record 30 seconds of audio. These\nparticipants were then emailed surveys four times a day asking them to \n\nhow\noutgoing, agreeable, or conscientious they were during a particular hour of the day. The\nstudy used data from 248 participants, all of whom answered questions about their behavior\nfor two \n\nweeks and wore the audio device for one of those weeks.\nSix laboratory assistants rated each participant's audio clips to see how their\nobservations compared with people's \n\nof themselves. The six assistants were\ngenerally in agreement with one another about how the people they were observing acted.\nFurther, participants? ratings of their own behaviors agreed with observers5 for how\noutgoing and how conscientious they were being. But the agreement between participants\nand outside observers was much smaller for agreeableness. Some of this \n\ncould be\nbecause the observers used only audio clips, and thus could not read \n\nlike body\nlanguage, but there are \n\nother explanations, as people should be able to hear when a\nparticipant is being kind versus being rude. The weak agreement between how participants\nthought they were acting and what observers heard could be because people would rather\n\nrude behavior.",
+      "wordBank": {
+        "A": "activated",
+        "I": "probes",
+        "B": "articulates",
+        "J": "random",
+        "C": "assessment",
+        "K": "recall",
+        "D": "consecutive",
+        "L": "relatively",
+        "E": "cues",
+        "M": "saturated",
+        "F": "deny",
+        "N": "symptoms",
+        "G": "discrepancy",
+        "H": "probably",
+        "O": "terminate"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "We're experiencing the rebirth of smallness. Farmers markets, tiny homes, and brew\npubs all exemplify our love of smallness. So do charter schools, coffee shops, and local\nbookstores. Small is often (but not always) more affordable, healthier, and sustainable,\nbut its finest characteristic, the one that turns charm into love, is that going small allows\nus to be more fully who we are."
+        },
+        {
+          "label": "B",
+          "text": "In higher education the trend is mostly in the opposite direction: Universities with\n20,000 or 30,000 students are considered “mid-sized”. The nation's largest university,\nArizona State University, has 80,000 students on campus and aims to enroll another\n100,000 students online. At the other end of the spectrum is a handful of colleges that\nhave fewer than a hundred students on campus and no online courses: colleges such as\nSterling College, Thomas More College of Liberal Arts, and Deep Springs College.\nThese colleges are so small that they can only be called \"tiny.”"
+        },
+        {
+          "label": "C",
+          "text": "Tiny colleges focus not just on a young person's intellect, but on the young person as a\nwhole. Equally important, tiny colleges ask, “How can education contribute to human\nflourishing and the well-being of the world?” And they shape a college experience to\naddress that question. They replace concerns about institutional growth with attention to\nthe growth of students as fully developed participants in their communities."
+        },
+        {
+          "label": "D",
+          "text": "Fve had the privilege of teaching at three different institutions of higher learning during\nmy career- a small liberal arts college and two mid-sized public universities. Fve also\nbeen profoundly disappointed in each of these institutions, and in many of my colleagues,\nespecially when it comes to helping students and preparing them for the many\nresponsibilities of adulthood. Administrators focus on the business of running a university,\nand most faculty focus on their scholarship and teaching their discipline. Little deliberate\n\nattention is given to how students mature as individuals and social beings."
+        },
+        {
+          "label": "E",
+          "text": "Having just retired from teaching at a public university, I'm now returning to my\nhometown of Flagstaff Arizona, to establish a tiny college- Flagstaff College. Fm\nconvinced that there's a need fbr another type of education, one devoted to helping\nstudents come into their own and into this beautiful and troubled world. Young people\nneed an education that will provide them with meaning, hope, courage, and passion, as\nwell as information and skills. Large institutions, I believe, are particularly ill-suited to\nthis type of education."
+        },
+        {
+          "label": "F",
+          "text": "There's no \"best of9 list when it comes to tiny colleges, at least not yet. But around the\ncountry people are creating new colleges that provide an alternative to small liberal arts\ncolleges, large public universities, and online education."
+        },
+        {
+          "label": "G",
+          "text": "With only 26 students, Deep Springs is the smallest college in the country and, quite\nlikely, the most atypical ( NF 典型的).Located on a working cattle ranch on the\nCalifornia-Nevada border, Deep Springs is a private, residential, two-year college for\nmen, committed to educating students fbr “a life of service to humanity.^^ Founded by\nthe electricity tycoon (大亨)L. L. Nunn in 1917, Deep Springs' \"curriculum“ revolves\naround academics, labor, and self-governance. In addition to their courses, students are\ncharged with running the 155-acre ranch and overseeing the functioning of the college.\nStudents chair both the admissions and the curriculum committees."
+        },
+        {
+          "label": "H",
+          "text": "“Living in close community with one's teachers and fellow students, and being forced\nto take on adult responsibilities, makes for one's growth as a person/5 says William\nHunt, who graduated last year. t4To exist for very long in a community like that, you\nhave to get over the question of whether you5 re sufficiently talented or principled and\nget started worrying about how you can stretch yourself and your peers, how much you\ncan manage to learn with them.^^"
+        },
+        {
+          "label": "I",
+          "text": "Sterling College, in Craftsbury Common, Vermont, is also very small- fewer than 100\nstudents. Unlike Deep Springs, Sterling focuses its curriculum on environmental and\nsocial justice issues, but like Deep Springs it places a high value on personal\nresponsibility and manual labor. According to its catalog, a college education at Sterling\ncombines “rigorous academics, roll-up-your-sleeves challenges, and good old hard work.^^"
+        },
+        {
+          "label": "J",
+          "text": "The average tuition at a small liberal-arts college is $30,000 to $40,000 a year, not\nincluding the cost of living on campus, as compared to $8,000 to $10,000 a year for\ntuition alone at a public university. Of the tiny colleges, only Deep Springs doesn't\ncharge tuition or room and board; students pay only fbr books and the cost of traveling\nto and from college. If tiny schools are to become a player on the higher education\nscene, they will need to find a way to be truly affordable."
+        },
+        {
+          "label": "K",
+          "text": "Doing so may not be that difficult so long as they do not pattern themselves too closely\non existing norms. We've come to believe that a good college should have many\nacademic programs and excellent facilities, posh (豪华的)dorms, an array of athletic\nprograms, and a world-class student activity center. Imagine a good college without a\n\nclimbing wall! We also have accepted the idea that college presidents, and their many\nvice-presidents, should be paid like their counterparts in the business world and that\nhigher education requires an elaborate, up-to-date technology infrastructure. All of this\ndrives up the cost of education.\nL) The “trick“ to making tiny colleges affordable, if thafs the right word, is simplicity. At\nits core, education is a human-to-human interaction. Reflecting on his own college\neducation, President Garfield once commented that an ideal college would consist of\nnothing more than the legendary teacher Mark Hopkins on one end of a log and a\nstudent on the other. The economics of a tiny college, in other words, might be similar\nto that of a tiny house. Because it is small, a tiny house costs less to build and less to\nfurnish, insure, and maintain. But the economic benefits of a small house don't end\nthere. Tiny homes discourage homeowners from buying stuff that they really don't need,\nbecause there ?s no place to put it.\nM) I'm a late convert to the idea of tiny colleges, and I fully understand the need for many\ndiverse types of educational institutions. Academic research and job training are\nimportant, but tiny colleges aren't suited for either. The educational needs of a complex\nsociety are themselves complex, and no single model can meet all of these needs. But\nI'm now convinced there's an educational need that's now going almost completely\nunmet: namely, the need to help young people transition into adulthood. Tiny colleges\ncan do this better than any other type of educational institution.\nN) The ultimate justification for a tiny college is the conviction that each of us comes into\nour full humanity by close interaction with those who know and care for us, and that\none of the basic purposes of higher education is social. Although we give lip service to\nthe idea that a college education will make us better people, when all's said and done,\nwe think of higher education primarily in economic terms. We've come to think of\nhigher education as a means to make a living rather than make a life. We've also come\nto see higher education as a private good rather than a public one. Tiny colleges are not\nthe answer to all of our educational requirements, but they're an answer to one of our\nmost basic educational necessities; the need to produce thoughtful, engaged, and\ncompassionate human beings."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "One tiny American college situated on a cattle farm is devoted to educating students to\nserve mankind throughout their lives.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Much to the author's disappointment, the three institutions of higher learning where she\ntaught largely ignore students5 growth as social beings.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Tiny colleges must be made affordable in order to play a role in higher education.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "According to a recent graduate from a tiny college, living together with faculty and\nfellow students is conducive to a studenfs growth as a person.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Rather than going small, most American universities are trying to go big.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "In a certain tiny college, rigorous academic work and traditional manual labor are\n\nintegrated.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Tiny colleges focus on educating students to become well-rounded citizens instead of\nseeking their own expansion.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "The essence of education lies in the interaction between people.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "After her retirement, the author has decided to set up a tiny college in her hometown.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Tiny colleges are justified as it is believed that our growth into full humanity comes\nthrough interaction with people near and dear to us.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nIf you're someone who has turned to snacking on junk food more in the pandemic (大\n流行病) , you're not alone. Investigative reporter Michael Moss says processed food is\nengineered to hook you, not unlike alcohol, cigarettes, or other harmful substances. His\n2013 book, Salt Sugar Fat, explored food companies5 aggressive marketing of those\nproducts and their impact on our health. In his new book, Hooked, Moss updates the food\ngiants' efforts to keep us eating what they serve, and how they're responding to complaints\nfrom consumers and health advocates.\nProcessed food is inexpensive, ifs legal, and ifs everywhere. Companies9 advertising\nis cueing us to remember those products and we want those products constantly. So the\nfood environment is one of those key things that makes food even more problematic for so\nmany people. Memory, nostalgia (怀 旧)in particular, plays a big role in the foods we crave.\nSoda companies discovered that if they put a soda in the hands of a child when they're at a\nball game with their parents, that soda will forever be associated with that joyous moment.\nLater in life, when that child wants to experience a joyous moment, they're going to think\nof soda. Many people seek comfort in the snacks they remember from childhood.\nMoss examines the way companies capitalize on our memories, cravings and brain\nchemistry to keep us snacking.\nOne of the reasons I came to think that some of these food products are even more\npowerful, more trouble some than drugs can be is memory. What we eat is all about\nmemory. And we begin forming memories fbr food at a really early age. And we keep those\nmemories for a lifetime. Knowing this, the food industry spends lots of time trying to shape\nthe memories that we have for their products. One of the features of addiction that scientists\nstudying drug addiction discovered back in the 1990s was that the fester a substance hits\n\nthe brain, the more apt we are as a result to act impulsively. There 5s nothing faster than food\nin its ability to hit the brain. For Moss, this puts the notion of ”宿st fbod“ in an entirely new\nlight as this isn't limited to fast food chains-\nalmost 90% of food products in grocery stores\nare processed foods. Everything in the industry is about speed, from the manufacturing to\nthe packaging.\nOverall, Moss outlines the industry's dependence on making their products inexpensive,\nsuper delicious, and incredibly convenient for consumers. Now that more and more people\ncare about what they put in their bodies and are wanting to eat healthier, these companies are\nfinding it really difficult to meet that new demand because of their own addiction to making\nthese convenience foods.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "In what way does Michael Moss think processed food is comparable to alcohol and cigarettes?",
+              "options": {
+                "A": "They are all addictive.",
+                "B": "They are all necessary evils.",
+                "C": "They are all engineered to be enjoyed.",
+                "D": "They are all in increasingly great demand. 47 .What does the author say plays a key role in the foods we crave?"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nChimpanzees （，\n黑猩猩），human beings' closest animal relatives, share up to 98% of our\ngenes. Yet humans and chimpanzees lead very different lives. Fewer than 300,000 wild\nchimpanzees live in a few forested comers of Africa today, while humans have colonized\nevery comer of the globe. At more than 7 billion, human population dwarfs that of nearly\nall other mammals- despite our physical weaknesses.\nWhat could account for our species5 incredible evolutionary successes?\nOne obvious answer is our big brains. It could be that our raw intelligence gave us an\nunprecedented ability to think outside the box, innovating solutions to thorny problems as\npeople migrated across the globe.\nBut a growing number of cognitive scientists and anthropologists （人类学家）are\nrejecting that explanation. They think that, rather than making our living as innovators, we\nsurvive and thrive precisely because we don't think fbr ourselves. Instead, people cope with\nchallenging climates and ecological contexts by carefully copying others.\nIn a famous study, psychologists Victoria Homer and Andrew Whiten showed two\ngroups of test subjects—children and chimpanzees—a mechanical box with a treat inside.\nIn one condition, the box was opaque, while in the other it was transparent. The\nexperimenters demonstrated how to open the box to retrieve the treat, but they also included\nthe irrelevant step of tapping on the box with a stick.\nOddly, the children carefully copied all the steps to open the box, even when they\ncould see that the stick had no practical effect. That is, they copied irrationally: Instead of\ndoing only what was necessary to get their reward, children slavishly imitated every action\nthey5 d witnessed.\nOf course, that study only included three- and four-year-olds. But additional research\nhas shown that older children and adults are even more likely to mindlessly copy others'\nactions, and infants are less Hkely to over-imitate- that is, to precisely copy even\nimpractical actions.\nBy contrast, chimpanzees in the study only over-imitated in the opaque condition. In\nthe transparent condition- where they saw that the stick was mechanically useless-they\nignored that step entirely. Other research has since supported these findings.\nWhen it comes to copying, chimpanzees are more rational than human children or\nadults.\nWhere does the seemingly irrational human preference fbr over-imitation come from?\nAnthropologist Joseph Henrich points out that people around the world rely on technologies\nthat are often so complex that no one can learn them rationally. Instead, people must learn\nthem step by step, trusting in the wisdom of more experienced elders and peers.\nSo the next time you hear someone arguing passionately that everyone should embrace\n\nnonconformity and avoid imitating others, you might laugh a little bit. We're not\nchimpanzees, after all.\n51 .What might explain humans' having the largest population of almost all mammals?\nA) They are equipped with raw strength for solving the most challenging problems.\nB) They cope with the outside world more effectively than their animal relatives.\nC) They possess the most outstanding ability to think.\nD) They know how to survive everywhere on earth.\n52 .What accounts for humans' evolutionary successes according to a growing number of\ncognitive scientists and anthropologists?\nA) They are better at innovating solutions.\nB) They thrive through creative strategies.\nC) They are naturally adaptive to ecological contexts.\nD) They meet challenges by imitating others carefully.\n53 .What does the author think is odd about the findings of the study by Victoria Homer and\nAndrew Whiten?\nA) Children irrationally imitated every action of the experimenters.\nB) Chimpanzees could tell the transparent box from the opaque one.\nC) Chimpanzees could retrieve the treat more quickly than children did.\nD) Children omitted the step of tapping on the box with a stick to open it.\n54 .What is anthropologist Joseph Henrich's explanation for the human preference for copying?\nA) It originates in the rationality of people around the world.\nB) It stems from the way people learn complex technologies.\nC) It results from people distrusting their own wisdom.\nD) It derives from the desire to acquire knowledge step by step.\n55 .What point does the author want to emphasize when he says \"We're not chimpanzees”?\nA) It is arguable whether everyone should avoid imitation.\nB) It is characteristic of human beings to copy others.\nC) It is desirable to trust in more knowledgeable peers.\nD) It is naive to laugh at someone embracing nonconformity.",
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into\nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "近年来，中国城市加快发展，城市人居环境得到显著改善。许多城市努力探索中国特色的城市高质量发展之路，城市功能不断完善，治理水平明显提高。中国持续开展城市生态修复和功能修补，全面实施城镇老旧小区改造，大力推进城市园林绿化，消除污染；同时大力推进城市基础设施体系化建设，开展房屋建筑和市政设施普查以及安全隐患排查整治，努力为市民创造高品质的生活环境，让城市更美丽、更安全、更宜居。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

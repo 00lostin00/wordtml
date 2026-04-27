@@ -155,8 +155,17 @@
           "id": "q43",
           "number": 43,
           "stem": "The author has come to see that his problem results from a misunderstanding of the meaning of resilience.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "了复原力的意思而导致的。 （艹） 由题干关键词 problem 和 the meaning of resilience 定位到文章 [ B ] 段画线处。 (B) 山 y should flying deplete？ We， re just sitting there d0ing nothing. y can， t we be tougher， more “ e （有复原力的） and deternuned in 0 work so we can accomplish all of the goals we set for ourselves？ Based on our current research， we have come to realize that the problem is not 0 hectic schedule or the plane travel itself; the problem comes from a nusconception ofwhat it means to be resilient， and the resulting impact of overworking 〈 连） [B] 段定位句提到， 问题的根源是我们错误地理解了复原力的含义以及过度工作带来的影响。 题干一中的 results 对应原文中的 comes from;misunderstanding 对应原文中的 misconception， 故答案为 [。 44 ． PeopIe， s distoned view about 《(G) The misconception of resilience is often bred 什 om an early age. resilience may have developed om their upbfinging （0 还",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2018-12-3/key_OCR_2018-12-3.txt",
+            "sourceText": "和学分越低， 初中的成绩就越低， 因此高中毕业率也就会低 40 ％。 “ 我们确认的有注意力障碍的儿童并未被诊断为注意力缺乏多动症 （ADHD), 但有些可能已经患有这种病症。 @） 我们的发现表明， 甚至更轻微的注意力障碍也会增加学习成效的面风险， \" 杜克大学三一艺术与科学学院的副院长大卫 · 拉宾纳说， 其研究的重点是注意力缺乏多动",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q44",
@@ -193,8 +202,17 @@
                 "C": "The factors that affect children’s emotional well-being.",
                 "D": "The determinants of children’s development of social skills."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "到， 学生的成功需要一个更全面的方法一一不仅包含学业技能， 而且包社会的、 自我管理的和注意力的技能， \" 道奇说。 “ 如果我们忽视了这些方面中任何一个， 孩子的发展就会滞后。 如果我们处理了这些方面， 孩子的成功可能通过积极的反馈回路来自我强化。 \" B)O （0 定位） 由题干中的 focus 和 new study from Duke University 定位到文章第三段： Wi 山 this， researchers examined early academic attention and socio-emotional skills and hOW each contributed t0 acadenuc success int0 young adulthood. 和第四段 •They fo ld that early attention s 1 were the most consistent predictor Of academic success， and that likability by peers 囤 SO had a modest effect on academ1C performance. （0 连留 〕 事实细节题。 文章第三段指出， 通过这项研究， 研究人员探究了早期的学业注意力和社会情感技能以及它们各自对青年时期的学业成就的贡献， 而第四段提到早期注意力技能是学习成就最稳定的预测因素， 由此可知， 这个研究的重点是孩子学业成就的预测因素， 故答案为 B)。 （艹 〕 A) “ 儿童早期注意力的影响因素 \"， 该项是对定位部分的曲解， 原文介绍的是早期注意力对学业成就的影响， 故排除； c） “ 影响儿童情感健康的因素 \"， 虽然文章提到了儿童在同辈中的受欢迎因素， 但探究的主题是其对学业成就的影响， 故排除； D） “ 儿童社会技能发展的决定因素 \"， 文章中虽然提到了社会技能， 但只是说到它们对学业成就的影响， 故排除。 47， C)O （0 定位 〕 由题干中的 ens",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-3/key_OCR_2018-12-3.txt",
+                "sourceText": "方法一一不仅包含学业技能， 而且包社会的、 自我管理的和注意力的技能， \" 道奇说。 “ 如果我们忽视了这些方面中任何一个， 孩子的发展就会滞后。 如果我们处理了这些方面， 孩子的成功可能通过积极的反馈回路来自我强化。 \" B)O （0 定位） 由题干中的 focus 和 new study from Duke University 定位到文章第三段： Wi 山 this， researchers examined early academic attention and socio-emotional skills and hOW each contributed t0 acade",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -206,8 +224,17 @@
                 "C": "By preventing them from being affected by factors not under study.",
                 "D": "By focusing on the family background of the children being studied."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "） 事实细节题。 文章第七段第二句提到， 我们的发现表明， 甚至更轻微的注意力障碍也会增加学习成效的负面风险， 0） “ 孩子们的学业表现甚至会受轻微的注意力不集中的影响 \" 是对这句话的同义转述， 该项中的 suffer from 对应原文中的 increase the risk of， slight inattention 对应原文中的 more modest attennon d 而 cultles， 故答案为 D)。 （艹） A) “ 谦虚的孩孑总体而言比同龄人更易集中精力 \" ' 是利用第四段和第七段第： 句中的 “ 0。 一词设置的千扰， 原文中此词用于修饰注意力困难的程度， 而不是用说明儿童的特点， 故排除； 玢 “ 有注意力障碍的儿童比之前所认为的要多 \"， 原文中并未有、 故排除； 0） “ 注意力缺： 多 2018 ． 12 / 13 （3 套） 动症是大多数学业失败的原因 \"， 属于过度推断， 尽管这是一个因素， 但作者并未说这是大多数学业失败的原因， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-3/key_OCR_2018-12-3.txt",
+                "sourceText": "47， C)O （0 定位 〕 由题干中的 ensure that their findings valid 定位到文章第五段最后一句： was after controlling for IQ， socio-economic status and academic skills at school ent1Y. （艹） 推理判断题。 第五段前半部分介绍了研究",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -232,8 +259,17 @@
                 "C": "They are teachers’ favorites.",
                 "D": "They care less about grades."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "〕 事实细节题。 定位句指出， 不被一年级同学喜欢的孩子在五年级时成绩稍差， 而那些社会接受度高的孩子成绩较好， 由此可见， 同伴接受度更高的孩子学业成绩更好一些， 故答案为 A)。 〔 0） B) “ 他们更好相处 ”、 C) “ 他们更受老师喜爱 \" 和 D) “ 他们对学分更不在意 \" 在原文中均没有提到， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-3/key_OCR_2018-12-3.txt",
+                "sourceText": "49 ． A)O （0 定位） 由题干中的 better accepted by peers 定位到文章第八段第二句： Children not “ liked by 山 e 让 first-grade peers had slightly lower grades in 意亂 h grade， while those 山 higher social acceptance had",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q50",
@@ -245,8 +281,17 @@
                 "C": "Social skills are playing a key role in children’s development.",
                 "D": "An all-round approach should be adopted in school education. - 4 -"
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "推理判断题。 定位句指出， 研究者正了解到， 学生的成功需要一个更全面的方法一一不仅包含学业技能， 而且包含社会的、 自我管理的和注意力的技能， 由此可知， D） 项是该句的同义转述， 题干中的 all-round 对应原文中的 comprehensive， 故 D) 为答案。 0 点睛 A） “ 儿童的成功与他们的学习环境有关 \"、 B） “ 学校课程应该涵盖更多种类的学科 \" 和 C) “ 社会技能对儿童发展起着关键作用 ” 在文中均未提及， 故排除。 鼢高频词汇及短语 1 contribute 有助于， 促成 consistent Ckan's1stant] adj. 一贯的， 一致的 contempomry [ kan'temparari ] 同辈， 同时代的人 be diagnosed 而山被确诊患有 focus on 集中于 intewenfion [ lmto've 可川] 几介人， 干预 comprehensive [lkompnlhensrv] adj. 综合的， 广泛的 incorporate [ m ko： porelt] ． 包含 lag [læg] 落后 （于）， 拖后 attend to 处理， 照料 Passage TWO 2 開 7 年 1 月 9 日， 史蒂夫 · 乔布斯正式发布苹果公司的 “ 革命性手机 \" 一一该设备将苹果音乐播放器、 手机和互联网通信的功能整合到单台设备上， 并通过触摸控制。 这是智能手机发展的一个重大里程碑， 如今大多数美国成年人都拥有智能手机， 而且它们在全球也变得越来越常见。 随着智能手机大量增加， 关于它们如何影响我们生活和工作的问题也在大量增加。 （51） 通常情况下， 便捷移动技术的优势既显而易见， 又被视为理所当然， 这为相关讨论留下了更微妙的话题： 智能手机是否在扰乱儿童的睡眠？ 无法摆脱工作是否正对健康造成负面影响？ 这对隐私有什么影响？ （52） 但今天， 在 iPhone 发布 10 周年之际， 让我们花点时间来思考一个不太明显的优势： 智能手机技术彻底改变行为科",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-3/key_OCR_2018-12-3.txt",
+                "sourceText": "50 ． D)O （0 定位） 由题干中的 conclude 定位到文章最后一段第一句： \"We， re leaming that student success requires a mo comprehensive approach， one that incorporates not 0 司 y acadermc skills but so social， s",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -264,8 +309,17 @@
                 "C": "It is not so obvious but has caused some concern.",
                 "D": "It is subtle but should by no means be overstated."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "事实细节题。 定位句指出， 但今天， 在 iPhone 发布 10 周年之际， 让我们花点时间来思考一个不太明显的优势： 智能手机技术彻底改变行为科学的潜力。 而行为科学就是对人类行为的研究， 故答案为 D)O （@点睛〕 A) “ 它系统地记录了真实的人类互动 \"， 第四段第二句只表明该技术能够记录个人行为和环境的关键特征， 并未提到系统地记录真实的人类互动， 故排除； B) “ 它帮助人们受益于技术进步 \"， 原文未提及， 故排除； C） “ 它使人与人之间更紧密地联系 \"， 原文虽然提到持续接触， 但是指人们持续接触智能手机技术， 而不是人与人之间更紧密地联系， 故排除。 53 ． B)。 〈 0 定位 〕 由题干中的恤山 № n psychological research 定位到文章第五段最后一句： ese studies are confirming， challenging and extending what， S been found usmg more 廿 a 山行 on approaches， in which people report how they behaved real life or participate in relatively short and artificial labomtory-based t， （0 详） 事实细节题。 定位句指出， 在这些较为传统的方法中， 人们报告他们在现实生活中如",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-3/key_OCR_2018-12-3.txt",
+                "sourceText": "C)O （0 〔） 由题干中的 the negative impact of smaftphones 定位到文章第三段第二句： O en the advantages of convenient， mobile technology are b0th Ob 访 0 and taken for granted， leavi",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "low",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -277,8 +331,17 @@
                 "C": "It brings people into closer contact with each other.",
                 "D": "It greatly improves research on human behavior."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "事实细节题。 定位句指出， 但今天， 在 iPhone 发布 10 周年之际， 让我们花点时间来思考一个不太明显的优势： 智能手机技术彻底改变行为科学的潜力。 而行为科学就是对人类行为的研究， 故答案为 D)O （@点睛〕 A) “ 它系统地记录了真实的人类互动 \"， 第四段第二句只表明该技术能够记录个人行为和环境的关键特征， 并未提到系统地记录真实的人类互动， 故排除； B) “ 它帮助人们受益于技术进步 \"， 原文未提及， 故排除； C） “ 它使人与人之间更紧密地联系 \"， 原文虽然提到持续接触， 但是指人们持续接触智能手机技术， 而不是人与人之间更紧密地联系， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-3/key_OCR_2018-12-3.txt",
+                "sourceText": "52 ． D)。 （0 定 0） 山题干中的 a less ob 访 0 advantage 定位到文章第四段第一句： But today， on the 10th anniversaty of the iPhone， let， s take a moment t0 consider a less 0b 访 01 旧 advantage： the potential fo",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -290,8 +353,17 @@
                 "C": "It makes use of the questionnaire method.",
                 "D": "It is often expensive and time-consuming."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "的正确组合还可以帮助个人识别他们自己行为的独特特征， 包括能表明需要某种形式干预的状况一一一例如， 表明抑郁期的行为在异常增加。 由列举的表明抑郁期的行为可知， 未来的心理学研究通过帮助个人确定他们的异常行为来使他们受益， 故答案为 A)。 （艹） B) “ 通过帮助他们保持积极的心态 \"， 原文并未提及积极的心态， 故排除； c） “ 通过帮助他们用独特的方式生活 \"， 最后一段提到这是智能手机可能改变我们生活和工作方式的另一种方法， 而不是未来的心理学研究帮助人们用独特的方式生活， 故排除； D） “ 通过帮助他们处理异常状况 \"， 定位句虽然提到了异常行为， 但只表明帮助个人识别而不是帮助个人处理这些行为， 故排除。 55， B)O （位） 由题干中的 current psychological studies 定位到文章第七段第二句： T0day， the field № 2018， 12 / 15 （第 3 套） 田 ] s 而 on， moving away 什 om a focus on laboratory studies with undergraduate p 葡 cip 1 w 肛 more complex， real-world situations studied with more diverse groups of people. （0！） 推理判断题。 定位句指出， 如今， 该领域正处于转型期， 从专注于本科生参与的实验室研究， 转向更多元人群一起研究的更复杂真实的情景。 山上一句可知， 该领域是指心理学， 而 today 表明是现阶段的心理学研究， “ mo ng away from 一 tow ds ． “ \" 表明如今的心理学研究发生了转变， 转向研究更复杂真实的情景， 故答案为 B)O （0 西） A) “ 它们正在经历一个痛苦的转型期 \"， 定位句虽然提到了心理学研究正处于转型期， 但并未表明该阶段是否痛苦， 故排除； c） “ 它们在以更严格的方式进行 \"，",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-3/key_OCR_2018-12-3.txt",
+                "sourceText": "53 ． B)。 〈 0 定位 〕 由题干中的恤山 № n psychological research 定位到文章第五段最后一句： ese studies are confirming， challenging and extending what， S been found usmg more 廿 a 山行 on approaches， in which peopl",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q54",
@@ -316,8 +388,17 @@
                 "C": "They are conducted in a more rigorous manner.",
                 "D": "They are mainly targeted towards undergraduates."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "55， B)O （位） 由题干中的 current psychological studies 定位到文章第七段第二句： T0day， the field № 2018， 12 / 15 （第 3 套） 田 ] s 而 on， moving away 什 om a focus on laboratory studies with undergraduate p 葡 cip 1 w 肛 more complex， real-world situations studied with more diverse groups of people. （0！） 推理判断题。 定位句指出， 如今， 该领域正处于转型期， 从专注于本科生参与的实验室研究， 转向更多元人群一起研究的更复杂真实的情景。 山上一句可知， 该领域是指心理学， 而 today 表明是现阶段的心理学研究， “ mo ng away from 一 tow ds ． “ \" 表明如今的心理学研究发生了转变， 转向研究更复杂真实的情景， 故答案为 B)O （0 西） A) “ 它们正在经历一个痛苦的转型期 \"， 定位句虽然提到了心理学研究正处于转型期， 但并未表明该阶段是否痛苦， 故排除； c） “ 它们在以更严格的方式进行 \"， 原文并未提及是否使用更严格的方式， 故排除； D） “ 它们针刈的主要是本科生 \"， 定位句虽然提到了心理学研究专注于本科生参与的实验室研究， 但这是指转型前而不是现在， 故排除。 milestone [ 'mallstoun] 裱里程碑 take. . . for gmnted 认为 “ “ “ 理所当然 implication [ampll'kelfan] （行动、 事件、 决定等的） 可能的影响 （后果） query [ ' ' ]， ． 询问； 对一 “ ． 提出疑问 sensor [ 法传感器 evolve [ 逐步发展； 进化 over time 随着时间的流逝 productivity [ ipmdAk'trvati] 生产力； 生产率 d",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2018-12-3/key_OCR_2018-12-3.txt",
+                "sourceText": "55， B)O （位） 由题干中的 current psychological studies 定位到文章第七段第二句： T0day， the field № 2018， 12 / 15 （第 3 套） 田 ] s 而 on， moving away 什 om a focus on laboratory studies with undergraduate p 葡 ci",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

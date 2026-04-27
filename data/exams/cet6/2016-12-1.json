@@ -30,8 +30,17 @@
             "C": "It studies the impacts of global climate change on people's lives.",
             "D": "It tries to predict the possible trends of global climate change."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "] C)O A) 将 2 段 the likely impacts of climate change. ． ． “ 可能影响 ” 篡改为 the possible trends of global climate change “ 可能趋势 ” B） 虽对应 2 段 the likely impacts of climate change， 但这只是亨德森教授所在研究中心的部分研究内容 （Some of our research)， 而非主要研究领域。 C） 完全对应 2 段第一句亨德森教授对其主要研究领域的描述 links the science of climate change to issues around economics and policyo D) 将 6 段亨德森教授建议 “ 在全球范围内采取行动 ” 曲解为其主要研究领域。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】BADAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q2",
@@ -43,8 +52,17 @@
             "C": "It is the most pressing issue confronting all countries.",
             "D": "It is bound to cause endless disputes among nations."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "] B)O A) consensus 复现于 6 段， 但其意指 “ 主要国家在气候变化应对策略上尚未达成共识 ” B） 对应 4 段末句亨德森引为己用的经济学观点 it， s probably cheaper to avoid climate change than it is to deal with the likely consequenceso C） “ 最紧迫问题 ” 对话中并无相关信息。 D） 复现 4 段 disputed， 但其意指 “ 气候变化研究， 在除全球变暖外的其它方面， 还存在争议 ”",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】BADAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q3",
@@ -56,8 +74,17 @@
             "C": "The cooperation among world major powers.",
             "D": "The transition to low-carbon energy systems."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】BADAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q4",
@@ -69,8 +96,17 @@
             "C": "Carry out more research on it.",
             "D": "Cut down energy consumption."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "] C)O A) 将 6 段亨德森教授建议 “ 发展气候变化科学研究 ” 偷换为 “ 开展更多研究 ”。 B) 将 6 段亨德森教授建议 “ 向低碳能源体系转型 ” 篡改为 “ 削减能源消耗 ”。 C） 对应 8 段 plan aheado D) 将 6 段 low-carbon energy （低碳能源 / 新能源） 曲解为 new technology( 新技术）。 々 四、 听力词汇攻关 · 气候变化相关词汇 Oclimate change 气候变化 〖 联想 〗 global warming 全球变暖； greenhouse gases 温室气体； glacial retreat 冰川退缩； ocean acidification 海洋酸化 2 } consequence 0 konslkwansl ” ·， 舌果 〖 近义 〗 outcome",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】BADAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q5",
@@ -82,8 +118,17 @@
             "C": "What determines success.",
             "D": "How important natural talent is."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "] B)。 题干 + 正确项是对 1 段 we often end up talking about things like success and what leads to success 的合理解读， What determines success 直接对应 what leads to success。 A)、 C)、 D)： 1 uck、 practice、 natural 均为文章关键词汇， 但它们都是主话题 “ 成功要素 ” 之下的子话题 （细节信息）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】BADAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q6",
@@ -95,8 +140,17 @@
             "C": "It is something that no one can possibly create.",
             "D": "It comes naturally out of one's self-confidence."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "] D)O A） 利用常识进行干扰， 但文中并未提及。 B)： 与文中 4 一 5 段男士 / 女士都持有的观点 “ 人们可以自己创造运气 ” （男士指出 what people regard as luck， you can actually create， 女士以 Sure 对此表示赞同） 相反。 C) 文中并未提及 “ 运气与自信 ” 之间的关系。 D) 是对女士观点 luck is attributed to hOW you respond to the opportunities that come your way( 5 上殳）、 Seizing the opportunities( 7 段） 的概括。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BABDC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q7",
@@ -108,8 +162,17 @@
             "C": "One must have natural talent to be successful.",
             "D": "Luck rarely contributes to a person's success."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "] D)O A)3 段 he doesn t mention luck at all 表示演讲视频中谈论成功时， 并未提及 “ 运气 ”， 故排除。 B) 源自 8 段 natural talent is something you must have in order to be successful， 亻日这是 “ 许多人 （many people） ” 的观点， 而非 TED 演讲视频中的观点。 C) 源自 7 段 Seizing the opportunities， 但这是女士的观点， 而非 TED 视频中的观点。 D） 对应 8 段中的视频观点 the point about getting good at something IS. about practlce， practlce， practlceo",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BABDC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q8",
@@ -121,8 +184,17 @@
             "C": "Putting time and effort into fun things is profitable.",
             "D": "People in need of money work hard automatically."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "] C)O A) 将 11 段女士观点中， 投人时间和精力的对象由 “ 你所做的事 （what you do） ” 篡改为 “ 有趣的事 （fun things) ”。 B） 文中并未涉及 “ 热爱自己职业的人们 ” 对于钱的态度。 C） 对应 11 段女士观点 if you. ·， the mone Y kind of comes automaticallyo D) 文中并不 ． are really passionate about it. 涉及 “ 需要钱的人们 ” 0 四、 听力词汇攻关 · 成功相关词汇 Oluck [ lAk1 ” · 运气 Opassion [， pæfan)",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BABDC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q9",
@@ -134,8 +206,17 @@
             "C": "The peak of a mountain.",
             "D": "The stump of a giant tree."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "] A)O A) 是对开篇首句的同义改写， 开篇指出魔鬼塔很可能被误认为是一个巨大的树 the stump of an enormous tree)， 即魔鬼塔很像一个巨大的树桩， be mistaken for 与桩 ()e mistaken. look like 同义。 B） 利用 I 段的 rock sides、 the massive column of rock 等进行干扰。 C） 利用 summit( 峰顶）、 volcano （火山） 等设置干扰， 但由原文可知魔鬼塔本身就是一座巨型岩石， 本质是火山口的凸起地貌 （火山峰）， 干扰信息与题干所问的 “ 魔鬼塔像什么 ” 不符。 D) 由 column of rock （岩石柱） 的外形过度联想出原文并未提及的 chimneyo",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BABDC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q10",
@@ -147,8 +228,17 @@
             "C": "Wind and water.",
             "D": "Fire and fury."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "] A)O A) 是对开篇首句的同义改写， 开篇指出魔鬼塔很可能被误认为是一个巨大的树 the stump of an enormous tree)， 即魔鬼塔很像一个巨大的树桩， be mistaken for 与桩 ()e mistaken. look like 同义。 B） 利用 I 段的 rock sides、 the massive column of rock 等进行干扰。 C） 利用 summit( 峰顶）、 volcano （火山） 等设置干扰， 但由原文可知魔鬼塔本身就是一座巨型岩石， 本质是火山口的凸起地貌 （火山峰）， 干扰信息与题干所问的 “ 魔鬼塔像什么 ” 不符。 D) 由 column of rock （岩石柱） 的外形过度联想出原文并未提及的 chimneyo 10 · 是什么导致火山外层被侵蚀？ A) 人类活动。 B) 风和水。 [ 设题要点 ] 原因分析处 (shaped (y)。 C) 化学过程。 D) 烈火和怒焰。 [ 答案精析 ] B)O A） 干扰源自 III 段 “ 七个女孩在岩石顶部避难 ” 的信息， 但该信息是印第安传说的内容， 并非火山侵蚀的真实原因。 B） 和题干共同复现了 II 段信息 “ 魔鬼塔在火山爆发的烈火中形成， 随后在风与水的作用下， 火山外层被侵蚀 （shaped by. . Wind and water. The outer layers. worn 13 away) ”。 C） 将火山",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BABDC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q11",
@@ -160,8 +250,17 @@
             "C": "It was created by supernatural powers.",
             "D": "It is Indians' sacred place for worship."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "] D)O A) 源于 II 段的 Devils Tower is a relic of the past （魔鬼塔是历史的遗迹）， 亻日这并非印第安传说的内容。 B） 错误有二： 魔鬼塔并非建造而成 （built）， 而是自然形成； 而且这不是印第安传说的内容。 C） 干扰源自 Rock God( 岩神）， 但印第安传说只提到 “ 魔鬼塔是岩神创造的 ”， 未提到 “ 魔鬼塔是印第安人崇拜的圣地 ”。 D) 是对 III 段印第安传说内容 “ 魔鬼塔是由超自然力量形成的 ” 的同义改写， created 同义替换 formedo",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CCDDA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q12",
@@ -173,8 +272,17 @@
             "C": "By lifting them well above the ground.",
             "D": "By taking them to the top of a mountain."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "] C)O A) 将 III 段 “ 女孩们跑到岩石上避难 ” 曲解为 “ 岩神帮她们藏在洞穴内 ”。 B) 利用 bears 进行干扰， 但原文并未提到杀死熊。 C） 是对 III 段 “ 岩神让岩石生长， 把女孩们抬升到远离地面的地方 ” 的同义改写， well above 同义替换 far aboveo D) 将 III 段 “ 女孩们爬到岩石顶部， 岩石被岩神抬高成为高耸山峰 ” 扭曲为 “ 岩神把女孩们带到山顶 ” 四、 听力词汇攻关 · 历史遗迹相关词汇 ． devil [， devaÜ 魔鬼 〖 近义 〗 devil",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CCDDA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q13",
@@ -186,8 +294,17 @@
             "C": "They will take advantage of the time to rest a while.",
             "D": "They will buy something from the convenience stores."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "] A)。 A） 是对 I 段段首 “ 加油后， 人们还会在加油站配备的便利店中买点零食、 香烟等 ” 的概括， 其中 buy something 是对 buying a few snacks. 一的概括， convenience stores 复现原文 B) 由 hard- working 一词主观臆测而来， 但文中并未提及 rest 相关内容。 C） 将 “ 加油 （fill up the tank） ” 曲解为 “ 清洗和保养车辆 ”。 D) pick up 虽与 buying 近义， 但将原文 “ 可有可无的小东西 ” 偷换成 “ 纪念品和礼品 ”。 16",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CCDDA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q14",
@@ -199,8 +316,17 @@
             "C": "They are meant for the extremely wealthy.",
             "D": "They can bring only temporary pleasures."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "] A）。 A） 是对 II 段段首 the pleasure that comes from extravagances often disappears long before the bills do “ 因大手大脚而带来的愉悦感早在账单付清之前就消失殆尽 ” 的同义转述。 B) 由 extravagances 一词主观臆测而来， 文中并未提及相关信息。 C) 是由表惋惜语气的 Sadly 一词臆测来的应对措施， 但与 “ 这些享受是他们应得的 （They do deserve such indulgences) ” 文意相悖。 D) 由， disappears long before the bills do （账单还没付清就 “ ． “ ．） 过度引申而来， 但原文完全没有提及 “ 破产 ”",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CCDDA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q15",
@@ -212,8 +338,17 @@
             "C": "Retirement savings should come first in one's family budgeting.",
             "D": "A good way to socialize is to have daily lunch with one's colleagues."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "] D)O A） 将该事例的重点由 “ 个人的财务安排 ” 曲解为 “ 社交生活 ”。 B） 利用 Retirement savings 设置干扰， 但这位女士每周投人假日基金和退休储蓄金的金额相同， 选项强调后者忽略前者， 有失偏颇。 C) saves 20 dollars a week 符合 II 段段尾 put $ 20 a week into my vacation fund， 亻日 will be affordable 并未找到对应信息。 D） 准确体现了 “ 这位女士计划通过定期小额储蓄， 最终实现假日享受和退休保障两大目的 ” 反映出的积少成多的储蓄观念。 璧四、 听力词汇攻关 · 理财相关词汇 Olavish 0 læVIJ1 盛大奢华的 〖 近义 〗 extravagant 奢侈的， 浪费的； prodigal a. 奢侈的， 挥霍的； spendthrift a. 挥霍的， 浪费的； wasteful a. 浪费的； indulgence 从放纵搭配 〗 a lavish display， meal， reception 铺张的展示、 饭菜、 招待 Oregular 0 regjÖlaI 定期的， 有规律的 〖 近义 〗 periodic a. 周期的， 定期的 Op off 偿清 （债务等） 〖 近义 〗 pay back 偿还； repay 詵尝还； pay a debt 偿还债务； meet one's engagements 履行契约， 偿还债务 Obundle [ 'bnndaÜ 法一大笔钱 〖 近义 〗 a large sum 一大笔钱 Ofund [ fnnd)",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】CCDDA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q16",
@@ -225,8 +360,17 @@
             "C": "They are necessary in our lives.",
             "D": "They should be done away with."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "] B)O A) 由 III 段中 shouldn， t have them 推出， 亻日忽略前面否定表达 it doesn t mean， 即演讲人认为有消极情绪是正常的， 不应被抛弃。 B) necessary 是对 III 段 Feeling. · ． negative emotions is a natural part of being human\" 感受到消极情绪是人生中自然的一部分 ”、 it doesn t mean. · ． bad or we shouldn， t have. . ， “ 不代表消极情绪不好 （即， 消极情绪也有益处）、 不代表我们不该有消极情绪 （即， 我们可以有消极情绪） ” 的高度概括。 C) experience 虽复现 III 段尾词， 但却将文中动词义 “ 感受 / 体验 ” 偷换为名词义 “ 体验 ”， 并添加新信息 enrich\" 丰富 ” 消极情绪不好 ” 相悖。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】CBDCB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q17",
@@ -238,8 +382,17 @@
             "C": "They are anxious to free themselves from life's troubles.",
             "D": "They feel stressed out even without any challenges in life."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "] B)O 题干 -I-B) 同义改写 V 段 When negative emotions are out of balance， problems might seem t00 big to handle “ 问题似乎很大 / 难到解决不了 / 承受不住 ”。 A)、 C)、 D） 均源自 V 段 ． · ． feel overwhelmed， anxious， exhausted o r stressed out， 且四个并列形容词真正所指内容均为其后 ． too big to handle “ 不能解决问题 （而感觉不知所措、 焦急、 精疲力尽、 极度紧张） ”， 但三选项 problems. 均将这一具体指向进行了篡改。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】CBDCB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q18",
@@ -251,8 +404,17 @@
             "C": "They prolong our lives.",
             "D": "They expand our mind."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "] A)O 题干 + A） 是对 VI 段第二、 三句 “ 积极情绪通过增强我们感悟力、 注意力和记忆力而影响我们的大脑， 不像消极情绪那样缩小我们的注意力范围， 积极情绪帮我们领会更多信息、 想到更多想法并明白不同想法之间的关联 ” 的高度概括， 其中 mind 对应 brain， expand 对应 moreo B) “ 延长寿命 ” 从 VI 段末 “ 积极情绪使我们更加健康 （healthier） ” 过度推断而来。 C) 将 “ 消极情绪的影响 ” 偷换为 “ 积极情绪的影响 ”。 D） 关于积极情绪的录音片段中 ()I 段中） 并未出现任何关乎 our burdens 的信息。 0 四、 听力词汇攻关 · 心理活动相关词汇 Oemotion @maojn)",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】CBDCB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q19",
@@ -264,8 +426,17 @@
             "C": "It came from a 3D printer.",
             "D": "It was made by a fashion designer."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "] B)O A) not easily breakable 虽近义复现 VI 段第句 lt， s strong， yet very flexible， 但该信息对应的描述对象是 Filaflex 这种新型打印材料， 而非讲话者所穿的裙子。 B） 是对 I 段倒数第二句",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】CBDCB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q20",
@@ -277,8 +448,17 @@
             "C": "When she had just graduated from her college.",
             "D": "When she attended a conference in New York."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "] C)O A) college， B) conference、 New York， D) nine months 虽都复现文中信息， 但其最终指向分别为 “ 学校毕业时装展 （II 段） ”、 “ 技术会议 （I 段） / 暑假纽约实习 （IV 段） ”、 “ 花九个月时间研究时装打印 （II 段） ”， 选项中的时间所指 “ 刚大学毕业时 ”、 “ 在纽约参加会议时 ”、 “ 九个月前参加时装秀时 ” 均未在文中提及。 题干 + C) 近义复现 II 段第一句 For my senior collection at fashion design school， I decided to try and 3 D print. ． ． “ 为了时装设计学院的毕业设计尝试 3D 打印 ”",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】CBDCB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q21",
@@ -290,8 +470,17 @@
             "C": "It was difficult to print.",
             "D": "It was hard to come by."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ACDAB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q22",
@@ -303,8 +492,17 @@
             "C": "It marks a breakthrough in printing material.",
             "D": "It gives fashion designers room for imagination."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "] D)。 A） 虽复现 IV 段 mod 小， 但原文取意 “ 模特 ”， 而非 “ 型号 ”， 且与 \"Filaflex 是一种打印材料 ” 文意相悖。 B） “ 广泛应用 (widely used） ” 与原文 “ 新型材料 （a new kind) ” 正相悖。 C） fashion designers. ． imagination 虽似复现末段 I （讲话人实为服装设计师） think. · ·， 但该处实为事实陈述讲话者的观点而非想象空间。 D） 是对 VI 段首句 “ 突破性进展出现在新型打印材料 Filaflex ” 的同义改写， 其中 breakthrough 复现。 々 四、 听力词汇攻关 · 3D 打印相关词汇 ． 3D printers 3D 打印机 ()D 打印技术是一种以数字模型文件为基础， 通过逐层打印的方式来构造三维物体的技术） 〖 联想 〗 copier 法复印机； · 扫描仪； 服务器； fax",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ACDAB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q23",
@@ -316,8 +514,17 @@
             "C": "They have not been examined in detail so far.",
             "D": "They arise from the advances in technology."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "决。 D) 没有政府的支持它们就无法解决。 [ 设题要点 ] 因果关系处 (which arise at least in part from. ． ·）。 [ 答案精析 ] A)O A） 直接对应 I 段第一句 which arise from. ． ． advances in technology\" 问题产生原因， 不得不适应科技发展步伐 ”， 选项是对 which 从句的同义转述。 B) 由 I 段第二句讲座目的 to examine in more detail “ 要更细致地探讨中小企企业面临的问题 ” 扭曲出 have not been examined in detail so far\" 中小企业面临的问题从未被细致探讨过 ”。 C) 将 I 段第二句 which 从句所述 “ 问题产生的部分原因： 适应科技发展步伐 ” 篡改为 “ 问题解决的办法： 借科技解决 ”。 D） 利用 I 段末句 financial 一词设置干扰， 但该词文意为 “ 从财务角度 （提供一些有望奏效的解决方案） ”， 选项中 “ 政府支持 ” 文中并未涉及。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ACDAB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q24",
@@ -329,8 +536,17 @@
             "C": "It demands huge investment.",
             "D": "It is attractive to entrepreneurs."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ACDAB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q25",
@@ -342,8 +558,17 @@
             "C": "Recruiting more qualified staff.",
             "D": "In-service training of IT personnel."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "决方案是什么？ A) 与大企业合作。 B) 招聘更合格的员工。 C) 在职培训 IT 员工。 D) 相互分摊成本。 [ 设题要点 ] 提出建议处 (there， s a possibility that. · they could. · a very practical solution. perfectly feasible solution)。 [ 答案精析 ] D)。 A) 中 big companies 同义改写 V 段第一句末尾 large organizations， 但却将文意 “ 中 28 小企业 （之间） 成本分担的方式： 像大企业内联网那样 （in much the same way a s ． ． · an lntranet. ． · within large organizations) ” 直接篡改为 “ （中小企业） 与大企业合作 ”。 B) 源自 II 段第二句 recruiting high quality staff， 但这实际是问题， 而非解决方案。 C) 中 training 源自 II 段第二句句尾词 trained， 但该处仍旧用于提出问题， 而非解决问题， V 段的解决方案中并没有 ln-service training( 在职培训） 这一概念。 D) 是对 V 段所提建议 “ 共同承担升级成本、 成本分摊是一个非常行之有效的方法 ” 中高频词 share the cost/cost-sharing 的原词复现 0 四、 听力词汇攻关 · 企业管理相关词汇 1 enterprise 0 entapralz)",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ACDAB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -373,62 +598,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "” 构建科学研究的过程。 digits\" 数字 ” 与 experiments、 methodologies 无法形成并列语义。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】GBACI",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "27 · 答案 (B) contextual 〖 确定词性 〗 空格词位于谓语动词 requires 之后， 名词 understanding 之前， 且 understanding 与 clear explanation 以及 concise presentation 并列， 可判断匕是形容词、 ed 分词、 或 ing 分词， 可选范围 B) contextua",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】GBACI",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "题思路 ． 讠胃讠吾状语 〖 确定词性 〗 首先， 空格位于 step out in the public 结构中、 形容词 public 之后， 可推断其为名词或动名词 （作中心词被 public 修饰）， 可选范围： A) arena、 E) digits、 0） warrant、 L) inertia、 M) prideo 补充： 从语法上看， 空格处还可能是副词， 修饰 step out in the public( 此时 public 为名词）， 但由于 15 个备选项中没有副词， 所以忽略这一可能。 31 〖 锁定答案 〗 空格句指出 “ 我们国家需要更多的科学家在公众站出来 ”， 显然状语 in the. 一应表示 “ 某个地点 / 领域 ”， 可选范围中能够表示地点或场所的只有 arena， 它符合 “ 科学家在公众舞台中站出来， 就重要事件发表自己观点 ” 的语境。 digits\" 数字 ”、 warrant\" 凭据、 保证、 授权 ”、 inertia\" 惯性、 惰性 ”、 pride\" 骄傲、 自豪 ” 均无法与 in the public 搭配 〖 点拨技巧 〗 和汉语类似， 英语中也讲求结构平行、 对仗工整， 这可作为我们解答选词填空题的辅助线索。 如本题， 根据 “ 对仗工整原则 ” 可推测 step out in the public 一与 Offer their opimons on important matters 很可能均为 “ 谓语动词 （step out； offer their opinions) + 介词短语 （in the public matters） ” 结构， 从而得知空格处为名词",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】GBACI",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "释自己所做之事时所用语言 ” 应具备的特点： 且令公众易懂， convincing 符合文意。 indefinite\" 模糊的 ” 与 understandable 语义方向相反， 不符合 and 所体现的 “ 同向 ” 关系； D) devoted 意为 “ 投人的、 忠诚的 ” 时， 不能修饰 language, 意为 “ 专用于 · ． ” 时， 可修饰 language, 但 language devoted to the public （专用于公众的语言） 不合逻辑， 故也可以排除。 补充 ． 解题时需抓大方向、 不可过多纠结于细节： 本句中 that is convincing and understandable to the public 最准确的切分虽然是 convincing and understandable （to the public)， 但若切分为 convincing( and understandable to the public) 语法上成立、 语义上也没太大差别， 解题过程中可不去纠结。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】GBACI",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "30 · 答案 (I) incorporate 〖 确定词性 〗 由 and 可知 to scientific knowledge into. ． ． ． 与 to support public engagement by scientists 为并列不定式， 因此推断空格应为及物动词的原形， 可选范围： F) hasten、 I) incorporate、 M） pride、 K)indulge、 0） warrant。 另外该动词应该能构成 lncorporate。 sth into sth 结构， 基本能确定正确项为 〖 锁定答案 〗 该段前两句指出 “ 科学家 ” 在增强公众对于科学的参与方面需要做的事， 空格句指出 “ 不是科学家的我们 ” 应如何做： 做好支持科学家的准备， 并把科学知识进我们的大众传播。 incorporate 符合语义逻辑： 把科学知识融人大众传播， 促进公众参与。 注： incorporate sth into sth 为固定搭配， 意为 “ 把 · 一 “ 融人 ． “ pride\" 使得意， 以 · · · · 自豪 ”、 warrant\" 保证 ”、 indulge “ 放纵， 纵容 ” 在语法、 语义上都不成立， 可轻易排除； hasten 语义符合 （加速知识传播）、 有一定干扰， 但不能用于 sth into sth 结构， 也可排除。 ll",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】GBACI",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "题思路 · / 主语 〖 确定词性 〗 分析可知 the United States nearly 17 ％ Of discreuonary spending to research and development 为句子主干， 空格处应为谓语动词， 再结合时间状语 ln the 1960S 可知空格为动词过去式。 再进一步分析可知该词应能用于 sth to sth 结构， 基本可确定正确项为 D) devoted （devote sth to sth 意为 “ 把 “ ． “ ． 用于 / 投人到 · · · 补充： 由于本句设置两个空格， 所以较难判断其结构。 从理论上说， 本句其实还存在另一种可能， 主干为 the United States. decades Of econormc growth， ifij- · development 为 the nearly United States 后置定语。 但若是如此， 更可能的情况是主语和其长修饰成分之间用 “ 逗号 ” 隔开： United States， nearly decades of economic growtho 所以， 我们可暂时不考虑这情形， 若在解",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】DNEMF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "题的重要线索。 如本段中， ． 句 （观点句） 中暗含因果 “ 对研究进行强劲的投资会带来很大益处 ”， O 句 （以 19 6 0 年代情形例证上句） 则在主干和状语之中形成与之对应的因果关系 “ 大幅投资研究带来长期经济增长 ”。 把握住这一对应关系会大大化解",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】DNEMF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "33 · 答案 :E) 〖 确定词性 〗 对象。 可选范围 ． digits 由， · ． had fallen into the single 可知空格为名词或动名词， 为形容词 single 修饰 · E) digits、 0） warrant、 L) inertia、 M) pride、 H)。 〖 锁定答案 〗 空格句指出 “ 到了 2008 年， 这一数字已经降到了 · digitso single digits 表示 “ 个位数 ” 其余备选项均无法衔接。 ”， 能与 “ 数字下降 ” 相关的只有 〖 补充语法 〗 when 引导定语从句， 置于时间名词 （即先行词， 如 a time， 1970S 等） 之后， when 在定语从句中作状语。 如文中 at a time when other nations. ． At the University of CaIifornia （UC）， we ourselves not only on the quality Of our 34 research， bl_lt alSO on ltS contribution to lmprovmg our world. OTo 3 5 the development Of science from the lab bench to the market place， UC is inve st ing our O wn [ 256 wordsl money ln our ()Wn good ideas. 在加州大学， 我们不仅为自己研究的质量自豪， 还为自己的研究为改善世界所做出的贡献自豪。 为了加快科学发展从实验台走向市场， 加州大学正在把 “ 我们自己的资金 ” 投入于 “ 我们自己的好创意 ” (D contribution [ikontrl'bju'fanl n. 贝南尺",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】DNEMF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "· / § Obench CbentI) 刀 · 工作台 ． 解题思路 · / 〖 确定词性 〗 空格句中缺少谓语动词， 且空格后为反身代词 ourselves， 故推断空格为及物动词。 可选范围： F) hasten、 M) pride、 K) indulge、 0） warranto 进一步分析可发现， 空格词须能用于 oneself on sth 结构， 基本可确定答案为 M)pride(pride oneself on sth 意为 “ 为某事自豪 ”）。 〖 锁定答案 〗 空格句指出 “ 我们不仅为自己研究的质量而， 还为这些研究为改善世界所做出的贡献 ”， pride 恰能表达出 “ 我们 ” 对于 “ 加州大学的研究水平以及其对世界的贡献 ” 的情感与感受， 确认无误。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】DNEMF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "本文选自 The、 訪 g ／ 0 月 Po 丷 《华盛顿邮报》 2016 年 1 月 6 日一篇题为 Consumer Electromcs Show 2016： Are we in an innovation lull？ （2016 年消费类电子产品展： 我们处于创新间歇期吗？） 的文章。 本文由 “ 今年 CES 会展上创新产品少 ” 这一现象提出问题 “ 科技创新是否陷人停滞 ”， 并以理念上的转变说明创新正小步前进， 科技产业正针对消费者 “ 厌倦亮丽外表， 看重实用价值， 担心隐私安全 ” 的心态作出调整， 在新品设计和展示上侧重实用价值。 最后呼吁人们以更加包容的心态， 正确看待科技发展 / 创新的双面效应。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】DNEMF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -442,71 +757,161 @@
           "id": "q36",
           "number": 36,
           "stem": "Consumers are often hesitant to try smart-home devices because they are\nworried about compatibility problems.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "] 根据 [ 定位词定位 ]、 [ 核心义匹配 ] 可知本题对应 [ 0 段 O 句。 两句指出 “ 普通 [ 答案 ] [ D] 消费者对尝试智能家居感到犹豫， 是因为他们必须考虑兼容性问题 ”。 试题是对此两句的同义概括， 其中 Consumers are Often hesitant 区刂丿苡 overwhelmmg. · ． for the average consumer， try --fi dip a toe in the water 丨司 ． 义 ·",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】DKBLF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "This year's electronics show featured the presence of many officials from the\nfederal government.",
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "决问题。 健康问题的负面影响： 公共医疗支出巨大。 雇员反应快的后果： 工作任务变多。 技术普及的后果： 工作生活失衡。 青少年的压力： 比成年人还大。 ． 词汇注释与难句分析 · @/ Onorms 匚 n. 规范， 行为标准 Odeter Cd1'ts:1 v. 制止， 阻止 Opaid time off 带薪休假 Ooverwhelming 0 “ welml 刂 ] 压倒性的 Oattribute 0， trlbju•t) 詵 （、 sth to sth） 把， 一， ． 归因于， ． Ostress n. 精神压力， 心理负担 0 excessive C1k'ses1v1 a · 过分的， 过度的！ @workload 0 w3:klaodl 工作量 Oflexibility C'fleksa'b110t1) 硫灵活度， 灵活性 @motivate 0 maouvelt， · 激励， 激发 Oquit， · 离职， 离任 Owellness 匚 welnas ” · ． 健康 Oultimate C'AIUmat1 a · 最终的， 终极的氵 @virtually 0v3： t · 「 （圄 1 ] （． 几乎， 差不多定位词选取原则： （1） 排除复现信息 stress/ employees( workers) /employers/flexibility； （2） 优先选择具有区分度的机构名、 身份、 职位等专有名词， 如 in office wellness programs/Moeno （3） 补充选取易于区分的细节信息 （即各题区别于他题所独具的细节），",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】DKBLF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "The market demand for electronic devices is now either declining or not\ngrowing as fast as before.",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "] 根据 [ 定位词定位 ]、 [ 核心义匹配 ] 可知本题对应 [ B ] 段 ． 句。 该句指出 “ 电子产品市场增速放缓， 甚至缩小 ”， 试题是对该句的同义转述。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】DKBLF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "One analyst suggests it is necessary to accept both the positive and negative\naspects of innovative products.",
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】DKBLF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "The Consumer Electronics Show in recent years has begun to focus more on\n\nthe practical value than the showiness of electronic devices.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】DKBLF",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "Fewer innovative products were found at this year's electronic products show.",
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "] 根据 [ 定位词定位 ]、 [ 核心义匹配 ] 可知本题对应 [ A ] 段。 该段介绍今年 CES 展的缺陷 “ 许多亮点产品与往年相同 （即： 相对去年， 今年有新意的产品较少） ”。 试题是对本段内容的同义概括， 其中 fewer innovative products 是对段中 having seen them before/have seen it all before/many ． last year¯or the year before 的合理概括。 ． are the same as. 42 · 消费者对将个人信息交给科技企业以获取个性化产品和服务这种做法越来越担忧。 [ 答案",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】AHEIC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "Consumers are becoming more worried about giving personal information to\ntech companies to get customized products and services.",
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "] 根据 [ 定位词定位 ]、 [ 核心义匹配 ] 可知本题对应 [ H ] 段 ． 句。 该句指出 “ 为了获取企业的个性化服务， 消费者需要向其交出数据， 而他们对这一做法感到担忧 ”。 试题是对该句的同义转述， 其中 giving. ． · to tech companies to get. 一亻本见 6J 中 handing over. that to provide. · “ 消费者交出数据以获取企业服务 ” 这一交换关系。 compames need. 44",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】AHEIC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "The Consumer Technology Association is the sponsor of the annual Consumer\nElectronics Show.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "] 根据 [ 定位词定位 ]、 [ 核心义匹配 ] 可知本题对应 [ E ] 段@句。 该句介绍杜布拉瓦克身份时提及 CTA， 并解释该机构每年都会举办展览。 试题是对该句 which 定语从句的同义转述， 其中 the sponsor of the annual Consumer EIectronics Show 是对句中 puts on the show each year(the show 指代 the Consumer EIectronics Show) 的同义转述",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】AHEIC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "Many consumers wonder about the necessity of having their fitness monitored.",
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "] 根据 [ 定位词定位 ]、 [ 核心义匹配 ] 可知本题对应 0 ] 段。 该段 ． 句谈到科技无 [ 答案 ] CI] 孔不人， 甚至开始监测人们的步数和心跳； O 句转而指出消费者对于这种新产品持犹疑态度， 至句进而以消费者对智能手表、 健康监测器、 智能恒温器等电子产品的热情不足予以说明。 试题是对该段文意的合理推断， 其中 wonder about the necessity of 传递出文中 Why do I need that？、 flat demand 隐藏文意 “ 对于科技产品的必要性存有疑虑 ”。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】AHEIC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "The electronic industry is maturing even though no wonder products hit the\nmarket.",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【41-45】AHEIC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -529,8 +934,17 @@
                 "C": "it is beneficial to only fewer than 4% of countries.",
                 "D": "it burdens developed countries with the sole responsibility."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "决气候正义问题的粗略性政策 （暗示不能切实解决问题） ”， 随后两段具体解释这种局限性， 尤其第七段暗示了协议的伪公正性： 在减排的责任分配上忽视发达国家的历史排放， 对于气候脆弱国至关重要的援助资金问题缺乏具体细则 （未明确发达国家 / 高排放国家的出资责任）， 这些对于气候脆弱国实质上是不公平的， 故 A 项正确。 [ 排除干扰 ] B 项与首段及第六段传达的作者观点 “ 把气温升幅控制在 2 ℃ 之内预示着气候行动的新时代， 这一控温目标值得赞扬 ” 不符。 C 项复现第二段 Fewer than 4 ％ of countries( 指高排放的发达国家）， 但选项含意 “ 巴黎协定只对高排放的发达国家有利 ” 显然违背巴黎协定的最终目标 “ 应对全球气候变化 （这对全球有利， 尤其对气候脆弱国至关重要） ”。 D 项与第七段 O 句信息 “ 巴黎协定规定发达国家和发展中国家的减排责任没有区别 ” 相悖。 [ 提炼思路 ] 本题考查对细节信息的推理概括。 根据题干关键信息 “ 作者对巴黎协定的具体态度 ” 锁定大致的信息搜索范围： 第五至七段； 然后分析第五至七段发现： 第五段存在语义转折 （although 前后）： 先赞扬巴黎协定的进步性， 后批评其局限性； 随后两段重点解释其局限性 （标志词 but、 However)， 对围绕 “ 局限性 ” 的信息进行推理概括可确定 A 项符合文意。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ACCBD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q47",
@@ -542,8 +956,17 @@
                 "C": "They hardly pay anything for the problems they have caused.",
                 "D": "They are free from the greenhouse effects affecting unforced riders\"."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "释性信息， 解释了这一称号的来源 / 原因： 这些高排放的发达国家是气候问题的主要责任者， 却几乎未遭受相应的损失 / 付出相应的代价 (costs 意为 “ 损失， 代价 ”）， 正确项 C 是对冒号后 causing the majority of the problems. · While incurring few of the costs. ． · 这一对比逻辑的合理解读。 [ 排除干扰 ] A、 B、 D 项干扰均源自 while 后信息， 而 free-riders 实际囊括 while 前后对比信息 “ 一面 47 制造问题、 一面不用付出代价 ”， 也即， 这三个选项并未全面体现 free-riders 之意。 与此同时， A 项只从 while 后例证信息做文章， 尽管这属于合理推断， 但实际脱离气候问题这一主题； B、 D 项则将 “ 发达国家几乎未受气候变化影响 ” 分别篡改为 “ 它们更有能力应对气候变化 ”、 夸大为 “ 完全不受气候变化影响 ” 注： D 项中 “ 侵害 ' 强制搭车者， 的温室效应 ” 代指气候变化。 [ 提炼思路 ] 本题题干所问可转化为 “ 免费搭车者的本质特点 ”， 即意在考查对抽象概念的正确理解。 由题干抽象概念 climate “ free riders ” 很容易定位到第三段， 该段 ． 句出现 fræ riders， 其后随即出现语用功能为 “ 引出对前文的解释说明 ” 的冒号 （：） 以及 “ 表述前文的隐层含义 ” 的 ln other wordso 由此可知， 冒号及 ln other words 后信息均是对 fræ riders 的解读， 而这两部分均包含一个蕴藏语义对比的 while， 其中冒号后语义对比为 “ 制造大部分问题、 却不受惩罚 ”、 in other words 后语义对比为 “ 既是既得利益者、 又是问题制造者 ”。 纵观四个选项， 唯有 C 项体现出这种语义对比关系， 而 A、 B、 D 项均体现出词义的一个面 “ 未受惩罚、 既得利益 ”， 却未体现另一面 “",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ACCBD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q48",
@@ -555,8 +978,17 @@
                 "C": "They have to bear consequences they are not responsible for.",
                 "D": "They are unaware of the potential risks they are confronting."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ACCBD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q49",
@@ -568,8 +1000,17 @@
                 "C": "There is no clarification of how the money will be spent.",
                 "D": "It will effectively reduce greenhouse emissions worldwide."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "读。 [ 排除干扰 ] A 项将第七段 ． 句所述 1000 亿资金的用途 “ 支持发展中国家减排 ” 篡改为 “ 激励所有国家减排 ”。 C 项偷换概念， 将第七段 ． @ 句论述的未被明确阐明的对象 “ 资金来源 ” 偷换为 “ 资金用途 ”， 而由本段 ． 句可知资金用途为 “ 用于支持发展中国家减排 ”。 D 项将第七段 O 句的 cut emissions、 effectively 杂糅曲解出 “ 有效减少排放 ”， 而实际上该段只论及减排责任、 出资责任问题， 未谈论 1000 亿资金的减排效果， effectively 在文中意为 “ 事实上， 实际上 ”， 用于引出某情形的真实情况。 [ 提炼思路 ] 解答事实细节题时要学会研读选项， 本题四个选项中 A、 D 项指向 “ 预期结果 ”，、 C 项指向 “ 协定细则 ”， 而据由定位段核心主旨 （通常由同义复现等手段体现， 如本题所定位第七段即根据 there is no formal distinction、 There is also very little detail on 可知信皂、 聚焦 “ 协定细则 ”， 最后再由它个 who 从句所复现文意 “ 谁是筹集这笔资金的真正责任人 ”） 可知 B 项所述 “ 资金来源未达共识 ” 正确。、 川 The most climate-vulnerable countries in the world have contributed very little to creating the global 国 There disease from which they now suffer the most. must urgently be a meaningful mobilisation Of the policies outlined in the agreement if we are to achieve national emiSSlons reductions while helping the most vulnerable coun",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ACCBD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q50",
@@ -581,8 +1022,17 @@
                 "C": "Pushing the current world leaders to come to a consensus",
                 "D": "Putting in effect the policies in the agreement at once."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "题契机。 题干所问为 “ 实现巴黎协定的紧急行动 ”， 而 A、 B、 C 项 “ 鼓励 “ ． “ ． 带头行动 / 呼吁 ． 一 “ 共同努力 / 推动 · 一 “ 达成共识 ” 并未体现出 “ 紧迫感 ”， 唯有 D 项不仅提及巴黎协定本身， 且 Putting in effect. ． at once 也体现出 “ 紧迫 ” 之意， 故正确。 Passage Two 青少年的抑郁风险行为 々 一、 总体分析来源： 石 m 以时代周刊》 2014，",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ACCBD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         },
@@ -600,8 +1050,17 @@
                 "C": "Teenagers' mental problems are often too conspicuous not to be observed.",
                 "D": "Depression and anxiety are the most common symptoms of mental problems."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】CDBAB",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q52",
@@ -613,8 +1072,17 @@
                 "C": "Teenagers experiencing psychological problems tend to use a lot of media.",
                 "D": "Many hitherto unobserved youngsters may have psychological problems."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "心理压力。 mental relief. C) Teenagers experiencing psychological problems C） 有心理问题的青少年往往大量使用媒体。 tend to use a lOt Of media. D) Many hitherto unobserved youngsters may have D） 许多迄今未被注意到的年轻人可能有心理问题。 psychological problems. [ 精准定位 ] 本题考查新研究发现 （the finding of the new study)， 可定位至第二段 a new study finds that. [ 锁定答案 ] D)O 第二段直指研究新发现： 还存在另一群体， 他们跟酗酒、 吸毒等青少年一样， 经历着相同心理病症、 处于相同危险中。 而由 “ 新发现 ” 可知这一群体并未被注意到。 由后续第三、 四段 “ 这一群体因其行为 （大量使用媒体、 缺乏充足睡眠、 过着久坐不动生活） 通常不被视为警示信号而被家长和教师等忽视 ” 亦可佐证这一推断。 正确项 D 是对这一内容的同义转述。 [ 排除干扰 ] A 项由段中冒号后 teens who. · · lifestyle 曲解而来， 但新研究并未对比青少年生活方式的变化， 其研究重点在 “ 青少年的心理问题 ” 而非 “ 青少年生活方式 ”。 B 项源于首段 O 句 drinking too much alcohol， using illegal drugs 等危险行为， 但这并非新研究的发现。 C 项源自段中冒号后 use tons of media， 但这只是有心理问题青少年的表征之一， 而非唯一， 故而排除。 [ 提炼思路 ] 本题虽易定位， 但由定位处却并不容易确保答案的正确性。 因此应利用段群意识， 将几个有着紧密语义逻辑关联的段落组合在一起， 根据整体的主旨文意 （通常通过词义复现、 特殊句式结构等方式体现） 佐证正确项的正确性： 本题定位的第二段与第三、 四段实际",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】CDBAB",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q53",
@@ -626,8 +1094,17 @@
                 "C": "Their behaviors do not tend towards mental problems.",
                 "D": "Their behaviors can be found in almost all teenagers on earth."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】CDBAB",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q54",
@@ -639,8 +1116,17 @@
                 "C": "They do not often demonstrate risky behaviors as their peers.",
                 "D": "They do not attract the media attention the high-risk group does."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "为 “ 不表现出危险行为 （do not demonstrate risky behaviors) ”。 D 项利用文中碎片信息 overlook、 use tons of media、 the high-risk group 设置干扰， 将文意 “ 青少年大量使用媒体等隐形危险行为未被家长和教师关注 ” 曲解为 “ 隐形风险群体未受到媒体关注 ”。 [ 提炼思路 ] 事实细节题不一定非要采取 “ 回文定位， 一一比对 ” 这一经典做法， 亦可借鉴 “ 主旨贴合法 ” 予以解答。 如本题， 文章着重介绍某一研究， 而该研究的关键性要务是 “ 寻找危险行为与心理健康问题之间的关联 ”， 换言之， 研究结果应该与这一要务相关， 而纵观四个选项， 提及心理问题的唯有 A 项和 B 项， 但是 B 项中 without showing any symptoms 太过绝对， 且事实上也与文意不符训 O The findings caught CarIi off guard. O\"We were very surpnsed， ” he says. “ The high- risk group and 10w 一 r1Sk group are obvious 0 But this third group was not only unexpected， it was so distinct and SO large¯ nearly one third Of our sample— that it became a 研究结果让卡利措手不及。 他说， “ 我们非常惊讶。 高风险群体和低风险群体是显而易见的， 但是这第三个群体不仅出人意料， 而且如此显著、 如此庞大一一一几乎占到我们样本的三分之一使它成为本研究的一个关键性发现。 ” key finding of the study. O obvious a · 明显的， 显著的 ． 词汇注释与难句分析 · /！ Odistinct Cd1'st1 刂 a. 明显的 O unexpected CAn1k ' spekt",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】CDBAB",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q55",
@@ -652,8 +1138,17 @@
                 "C": "It may have found an ideal way to handle teenagers with behavioral problems.",
                 "D": "It sheds new light on how unhealthy behaviors trigger mental health problems."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "题时可从正面与侧面两个方向展开。 第九段 ． 句直接指出， 研究最重要的意义之一是为家长、 教师和心理健康保健师提供预警信号。 根据选项复现信息， 可基本确定正确项为 B。 再根据上文介绍的研究内容和结果， 可以发现研究只涉及青少年危险行为与心理问题的关系， 并未涉及干扰项中的治疗方法和影响机制， 从侧面排除了 A、 C、 D 选项， 进一步明确了正确项。 Part IV Translation 旅游业 0 一、 参考译文 With Chinese people， s living standards improving， taking a vacation is playing an mcreasingly important role in Chinese people， s lives. ln the past， Chinese people spent most Of their time making a living and rarely got the chance to go on a trip. ln recent years， hO wever， China S tounsm industry has been growing by leaps and bounds. A booming economy and the emergence Of a ne wl y rich middle class have led to an unprecedented tourism boom. While Chinese people's domestic trips keep increasmg， travelling abroad is also becommg an mcreasingly popular choice for them. During the 2 016 National Day holiday， t0tal spending by Chinese tourists exceeded 400 billion",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-1/paper_卷一_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】CDBAB",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         }

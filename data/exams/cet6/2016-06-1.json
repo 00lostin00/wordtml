@@ -1,0 +1,570 @@
+{
+  "id": "cet6-2016-06-1",
+  "type": "cet6",
+  "year": 2016,
+  "month": 6,
+  "set": 1,
+  "title": "2016年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "Project organizer.",
+            "B": "Public eltionsoffier.",
+            "C": "Marketing manager.",
+            "D": "Market research consultant."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "They are intensive studies of people's spending habits.",
+            "B": "They examine relations between producers and customers.",
+            "C": "They look for new and effective ways to promote products.",
+            "D": "They study trends or customer satisfaction over a long period."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "His view on Canadian universities.",
+            "B": "His understanding of higher education.",
+            "C": "His suggestions for improvements in higher education.",
+            "D": "His complaint about bureaucracy in American universities."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "It is well designed.",
+            "B": "It i rather inflexible.",
+            "C": "It varies among universities.",
+            "D": "It has undergone great changes."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "The United States and Canada can learn from each other.",
+            "B": "Public universities are often superior to private universities.",
+            "C": "Everyone should be given equal access to higher education.",
+            "D": "Private schools work more efficiently than public institutions."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "University systems vary from country to country.",
+            "B": "Efficiency is essential to university management.",
+            "C": "It is hard to say which is better,a public university or a private one.",
+            "D": "Many private universities in the US are actually large bureaucracies."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "Government's role in resolving an economic crisis.",
+            "B": "The worsening real wage situation around the world.",
+            "C": "Indications of economic recovery in the United States.",
+            "D": "The impact of the current economic crisis on people's life."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "They will feel less pressure to raise employees'wages.",
+            "B": "They will feel free to choose the most suitable employees.",
+            "C": "They will feel inclined to expand their business operations.",
+            "D": "They will feel more confident in competing with their rivals."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Employees and companies cooperate to pull trough the economic crisis.",
+            "B": "Government and companies join hands to create jobs for the unemployed.",
+            "C": "Employees work shorter hours to avoid layoffs.",
+            "D": "Team work will be encouraged in companies."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "They are available at most country fairs.",
+            "B": "They are taken in relatively high dosage.",
+            "C": "They are collected or grown by farmers.",
+            "D": "They are prescribed by trained practitioners."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "They have often proved to be as helpful as doing mental exercise.",
+            "B": "Taking them with other medications might entail unnecessary risks.",
+            "C": "Their effect lasts only a short time.",
+            "D": "Many have benefited from them."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "How catastrophic natural disasters turn out to be to developing nations.",
+            "B": "How the World Meteorological Organization studies natural disasters.",
+            "C": "How powerless humans appear to be in face of natural disasters.",
+            "D": "How the negative impacts of natural disasters can be reduced."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "By training rescue teams for emergencies.",
+            "B": "By taking steps to prepare people for them.",
+            "C": "By changing people's views of nature.",
+            "D": "By relocating people to safer places."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "How preventive action can reduce the loss of life.",
+            "B": "How courageous Cubans are in face of disasters.",
+            "C": "How Cubans suffer from tropical storms.",
+            "D": "How destructive tropical storms can be."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "Pay back their loans to the American government.",
+            "B": "Provide loans to those in severe financial difficulty.",
+            "C": "Contribute more to the goal of a wider recovery.",
+            "D": "Speed up their recovery from the housing bubble."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Some banks may have to merge with others.",
+            "B": "Many smaller regional banks are going to fail.",
+            "C": "It will be hard for banks to provide more loans.",
+            "D": "Many banks will have to lay off some employees."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "It won't help the American economy to turn around.",
+            "B": "It won't do any good to the major commercial banks.",
+            "C": "It will win the approval of the Obama administration.",
+            "D": "It will be necessary if the economy starts to shrink again."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "Being unable to learn new things.",
+            "B": "Being rather slow to make changes.",
+            "C": "Losing temper more and more often.",
+            "D": "Losing the ability to get on with others."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Ignoring the signs and symptoms of aging.",
+            "B": "Adopting an optimistic attitude towards life.",
+            "C": "Endeavoring to give up unhealthy lifestyles.",
+            "D": "Seeking advice from doctors from time to time."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions:In this section, there is a passage with ten blanks. You are required to select one wordfor each\nblank,from a list of choices given in a word bank following the passage.Read the passage\nthrough curefully before making your choices. Each choice in the bank is identified by a letter.\nPlease marh the corresponding letter for each item on Answer Sheet 2 with a single line\nthrough the centre. You may not use any of the words in the bank more than once.\nPursuing a career is an essential part of adolescent development.\"The adolescent becomes an\nadult when he _26 a real job.\" To cognitive researchers like Piaget, adulthood meant the\nbeginning of an __27\nPiaget argued that once adolescents enter the world of work, their newly acquired ability to form\nhypotheses allows them to create representations that are too ideal. The 28 of such ideals,\nwithout the tempering of the reality of a job or profession, rapidly leads adolescents to become\n29 of the non-idealistic world and to press for reform in a characteristically adolescent way.\nPiaget said:\"True adaptation to society comes 30 when the adolescent reformer attempts to put\nhis ideas to work.\"\nOf course,youthful idealism is often courageous,and no one likes to give up dreams. Perhaps,\n6·4\n\ntaken 31_ out of context, Piaget's statement seems harsh.What he was 32 ,however, is the way\nreality can modify idealistic views. Some people refer to such modification as maturity. Piaget argued\nthat attining and accepting a vocation is one of the best ways to modify idealized views and to mature.\nAs careers and vocations become less available during times of 33 ,adolescents may be\nespecally hard hit.Such diffiult economic times may leave many adolescents 34 about their roles in\nsociety. For this reason, community interventions and government job programs that offer summer and\nvacation work are not only economically 35_ but also help to stimulate the adolescent's sense of worth.\nA) automaticaly\nI) incidenaly\nB) beneficial\nJ intoerant",
+      "wordBank": {
+        "C": "capuring",
+        "K": "occupation",
+        "L": "promises",
+        "D": "confusd",
+        "E": "emphasizing",
+        "M": "recssion",
+        "N": "sightly",
+        "F": "ntrance",
+        "O": "undertakes",
+        "G": "exited",
+        "H": "existeni"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Examples show that both rich and poor countries exploited the environment for economic progress.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Environmental protection and improvement benefit people all over the world.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "It is not necessarily true that economic growth will make our world cleaner.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "The common theme of the UN reports is the relation between environmental protection and\neconomic growth.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Development agencies disagree regarding how to tackle environment issues while ensuring\neconomic progress.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "It is difficult to find solid evidence to prove environmental friendliness generates more profits than\nexploiting the natural environment.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Sustainable management of ecosystems will prove rewarding in the long run.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "A politician noted for being cautious asserts that sustainable human development depends on the\nnatural environment.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Poor countries will have to bear the cost for rich nations'economic development.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "One recent study warns us of the danger of the exhaustion of natural resources on Earth.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nInteractive television advertising, which allows viewers to use their remote controls to click on\nadvertisements, has been pushed for years. Nearly a decade ago it was predicted that viewers of\n\"Friends,\"a popular situation comedy, would soon be able to purchase a sweater like Jennifer\nAniston's with a few taps on their remote control.\"It's been the year of interactive television\nadvertising for the last ten or twelve years,\"says Colin Dixon of a digital-media consultancy.\n6· 8\n\nSo the news that Cablevision, an American cable company, was rolling out interactive\nadvertisements to all its customers on October 6th was greeted with some skepticism. During\ncommercials,an overlay will appear at the bottom of the screen, prompting viewers to press a button\nto request a free sample or order a catalogue. Cablevision 8 hopes to allow customers to buy things\nwith their remote controls early next year.\nTelevision advertising could do with a boost. Spending fell by 10? the first half of the year.\nThe popularization of digital video recorders has caused advertisers to worry that their commercials\nwill be skipped. Some are turning to the Internet, which is cheaper and offers concrete measurements\nlike click-through rates—especially important at a time when marketing budgets are tight. With the\nlaunch of interactive advertising,\"many of the dollars that went to the Internet will come back to the\nTV,\"says David Kline of Cablevision. Or so the industry hopes.\nIn theory, interactive advertising can engage viewers in a way that 30-second spots do not.\nUnilever recently ran an interactive campaign for its Axe deodorant（除臭剂），which kept viewers\nengaged for more than three minutes on average.\nThe amount spent on interactive advertising on television is still small. Magna, an advertising\nagency, reckons it will be worth about S138 million this year. That falls far short of the billions of\ndollars people once expected it to generate. But DirecTV, Comcast and Time Warner Cable have all\ninvested in it. A new effort led by Canoe Ventures, a coalition of leading cable providers, aims to make\ninteractive advertising available across America later this year. BrightLine iTV, which designs and sells\ninteractive ads, says interest has surged: it expects its revenues almost to triple this year. BSkyB,\nBritain's biggest satellite-television service, already provides 9 million customers with interactive ads.\nYet there are doubts whether people watching television,a \"lean back\"medium, crave interaction.\nClick-through rates have been high so far(around 3 -4?ompared with less than 0.3online), but\nthat may be a result of the novelty. Interactive ads and viewers might not go well together.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What does Colin Dixon mean by saying\"It's been the year of interactive television advertising for the last ten or twelve years\"(Lines 4 - 5, Para.1)?",
+              "options": {
+                "A": "Interactive television advertising will become popular in 10-12 years.",
+                "B": "Interactive television advertising has been under debate for the last decade or so.",
+                "C": "Interactive television advertising is successful when incorporated into situation comedies.",
+                "D": "Interactive television advertising has not achieved the anticipated results."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What is the public's response to Cablevision's planned interactive TV advertising program? C) Somewhat doubtful.",
+              "options": {
+                "A": "Pretty positive.",
+                "B": "Totally indifferent.",
+                "C": "Somewhat doubtful.",
+                "D": "Rather critical."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What is the impact of the wide use of digital video recorders on TV advertising?",
+              "options": {
+                "A": "It has made TV advertising easily accessible to viewers.",
+                "B": "It helps advertisers to measure the click-through rates.",
+                "C": "It has placed TV advertising at a great disadvantage.",
+                "D": "It enables viewers to check the sales items with ease. 6·9"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What do we learn about Unilever's interactive campaign?",
+              "options": {
+                "A": "It proves the advantage of TV advertising.",
+                "B": "It has done well in engaging the viewers.",
+                "C": "It helps attract investments in the company.",
+                "D": "It has boosted the TV advertising industry."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "How does the author view the hitherto high click-through rates?",
+              "options": {
+                "A": "They may be due to the novel way of advertising.",
+                "B": "They signify the popularity of interactive advertising.",
+                "C": "They point to the growing curiosity of TV viewers.",
+                "D": "They indicate the future direction of media reform."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nWhat can be done about mass unemployment? All the wise heads agree: there're no quick or\neasy answers.There's work to be done,but workers aren't ready to do it—theyre in the wrong places,\nor they have the wrong skills. Our problems are\"structural,\"and will take many years to solve.\nBut don't bother asking for evidence that justifies this bleak view. There isn't any.On the contrary,\nall the facts suggest that high unemployment in America is the result of inadequate demand.Saying that\nthere're no easy answers sounds wise, but it's actually foolish: our unemployment crisis could be cured\nvery quickly if we had the intellectual clarity and political will to act. In other words, structural\nunemployment is a fake problem, which mainly serves as an excuse for not pursing real solutions.\nThe fact is job openings have plunged in every major sector, while the number of workers forced\ninto part-time employment in almost all industries has soared. Unemployment has surged in every\nmajor occupational category. Only three states, with a combined population not much larger than that\nof Brooklyn, have unemployment rates below 5?o the evidence contradicts the claim that we're\nmainly suffering from structural unemployment. Why, then, has this claim become so popular?\nPart of the answer is that this is what always happens during periods of high unemployment—in\npart because experts and analysts believe that declaring the problem deeply rooted, with no easy\nanswers, makes them sound serious.\nI've been looking at what self-proclaimed experts were saying about unemployment during the\nGreat Depression; it was almost identical to what Very Serious People are saying now. Unemployment\ncannot be brought down rapidly, declared one 1935 analysis, because the workforce is\"unadaptable\nand untrained. It cannot respond to the opportunities which industry may offer.\"A few years later, a\nlarge defense buildup finally provided a fiscal stimulus adequate to the economy's needs—and\nsuddenly industry was eager to employ those\"unadaptable and untrained\"workers.\nBut now,as then, powerful forces are ideologically opposed to the whole idea of government\naction on a sufficient scale to jump-start the economy.And that, fundamentally, is why claims that we\nface huge structural problems have been multiplying: they offer a reason to do nothing about the mass\n6·10\n\nunemployment that is crippling our economy and our society.\nSo what you need to know is that there's no evidence whatsoever to back these claims. We aren't\nsuffering from a shortage of needed skills; were suffering from a lack of policy resolve.As I said,\nstructural unemployment isn't a real problem, it's an excuse—a reason not to act on America's\nproblems at a time when action is desperately needed.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What does the author think is the root cause of mass unemployment in America? C) Technological advances.",
+              "options": {
+                "A": "Corporate mismanagement.",
+                "B": "Insufficient demand.",
+                "C": "Technological advances.",
+                "D": "Workers' slow adaptation."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does the author say helped bring down unemployment during the Great Depression?",
+              "options": {
+                "A": "The booming defense industry.",
+                "B": "The wise heads'benefit package.",
+                "C": "Nationwide training of workers.",
+                "D": "Thorough restructuring of industries."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What has caused claims of huge structural problems to multiply?",
+              "options": {
+                "A": "Powerful opposition to government's stimulus efforts.",
+                "B": "Very Serious People's attempt to cripple the economy.",
+                "C": "Evidence gathered from many sectors of the industries.",
+                "D": "Economists' failure to detect the problems in time."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What is the author's purpose in writing the passage?",
+              "options": {
+                "A": "To testify to the experts'analysis of America's problems.",
+                "B": "To offer a feasible solution to the structural unemployment.",
+                "C": "To show the urgent need for the government to take action.",
+                "D": "To alert American workers to the urgency for adaptation. (30 minutes)"
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part,you are allowed 30 minues to translate a passage from Chnese into English.\nYou should write your answer on Answer Sheet 2.",
+      "source": "中国的创新正以前所未有的速度蓬勃发展。为了在科学技术上尽快赶超世界发达国家，中国近年来大幅度增加了研究开发资金。中国的大学和研究所正在积极开展创新研究，这些研究覆盖了从大数据到生物化学、从新能源到机器人等各类高科技领域。它们还与各地的科技园合作，使创新成果商业化。与此同时，无论在产品还是商业模式上，中国企业家也在努力争做创新的先锋，以适应国内外消费市场不断变化和增长的需求。未得到监考教师指令前，不得翻阅该试题册!（请于正式开考后半小时内完成该部分，之后将进行听力考试）请用黑色签字笔在答题卡1指定区域内作答作文题，在试题册上的作答无效!请认真填写以下信息∶准考证号∶姓名∶__错填、未填以上信息，按违规处理!",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

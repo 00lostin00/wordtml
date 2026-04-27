@@ -1,0 +1,261 @@
+{
+  "id": "cet6-2013-12",
+  "type": "cet6",
+  "year": 2013,
+  "month": 12,
+  "set": 0,
+  "title": "2013年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions：In this section, there is a passage with ten blanks. You are required to select one word\nfar each blank from a list of choices given in a word bank following the passage. Read the passage\nthrough carefully before making your choices. Each choice in the bank is identified by a letter.\nPlease mark the corresponding letter for each item on Answer Sheet 2 with a single line through the\ncentre. You may not use any of the words in the bank more than once.\nQuestions 36 to 45 are based on the following passage.\nCell phones provide instant access to people. They are creating a major\n\nin the social\nexperiences of both children and adolescents. In one recent U.S. survey, about half the teens polled\nsaid that their cell phone had 37\ntheir communications with friends. Almost all said that their cell\nphone was the way they stayed in touch with peers, one-third had used the cell phone to help a peer in\nneed, and about 80% said the phone made them feel safer. Teenagers in Australia,\n\n, said that\ntheir mobile phones provided numerous benefits and were an\n\npart of their lives; some were so\n\nto their phones that the researchers considered it an\naddiction. In Japan, too, researchers are concerned about cell phone addiction. Researchers in one\nstudy in Tokyo found that more than half of junior high school students used their phones to\nexchange e-mails with schoolmates more than 10 times a day.\nCell phones 41 social connections with peers across time and space. They allow young people\nto exchange moment-by-moment experiences in their daily lives with special partners and thus to\nhave a more 42 sense of connection with friends. Cell phones also can 43 social tolerance because\nthey reduce children’s interactions with others who are different from them. In addition to connecting\npeers, cell phones connect children and parents. Researchers studying teenagers in Israel concluded\nthat, in that\n\nenvironment, mobile phones were regarded as “security objects” in parent-teen\nrelationships — important because they provided the possibility of\n45 and communication at all\ntimes.",
+      "wordBank": {
+        "A": "affiliated",
+        "I": "hazardous",
+        "B": "attached",
+        "J": "improved",
+        "C": "contact",
+        "K": "instantaneous",
+        "D": "contend",
+        "L": "intrinsic",
+        "E": "continuous",
+        "M": "relatively",
+        "F": "diminish",
+        "N": "shift",
+        "G": "endurance",
+        "O": "similarly",
+        "H": "foster"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": []
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 56 to 60 are based on the following passage.\nCall it the “learning paradox”：the more you struggle and even fail while you’re trying to learn\nnew information, the better you’re likely to recall and apply that information later.\nThe learning paradox is at the heart of “productive failure,” a phenomenon identified by\nresearcher Manu Kapur. Kapur points out that while the model adopted by many teachers when\nintroducing students to new knowledge — providing lots of structure and guidance early on, until the\nstudents show that they can do it on their own — makes intuitive sense, it may not be the best way to\npromote learning. Rather, it5s better to let the learners wrestle（较劲）with the material on their own\nfor a while, refraining from giving them any assistance at the start. In a paper published recently,\nKapur applied the principle of productive failure to mathematical problem solving in three schools.\nWith one group of students, the teacher provided strong “scaffolding” — instructional support\n—and feedback. With the teacher’s help, these pupils were able to find the answers to their set of\nproblems. Meanwhile, a second group was directed to solve the same problems by collaborating with\none another, without any prompts from their instructor. These students weren’t able to complete the\nproblems correctly. But in the course of trying to do so, they generated a lot of ideas about the nature\nof the problems and about what potential solutions would look like. And when the two groups were\ntested on what they’d learned, the second group “significantly outperformed” the first.\nThe apparent struggles of the floundering（挣扎的）group have what Kapur calls a “hidden\nefficacy”：they lead people to understand the deep structure of problems, not simply their correct\nsolutions. When these students encounter a new problem of the same type on a test, they’re able to\ntransfer the knowledge they’re gathered more effectively than those who were the passive recipients\nof someone else’s expertise.\nIn the real world, problems rarely come neatly packaged, so being able to discern their deep\nstructure is key. But, Kapur notes, none of us like to fail, no matter how often Silicon Valley\nentrepreneurs praise the beneficial effects of an idea that fails or a start-up company that crashes and\nbums. So we need to “design for productive failure” by building it into the learning process. Kapur\nhas identified three conditions that promote this kind of beneficial struggle. First, choose problems to\nwork on that “challenge but do not frustrate.” Second, provide learners with opportunities to explain\nand elaborate on what they’re doing. Third, give learners the chance to compare and contrast good\nand bad solutions to the problems. And to those students who protest this tough-love teaching style:\nyou’ll thank me later.",
+          "questions": [
+            {
+              "id": "q56",
+              "number": 56,
+              "stem": "Why does the author call the learning process a paradox?",
+              "options": {
+                "A": "Pains do not necessarily lead to gains.",
+                "B": "What is learned is rarely applicable in life.",
+                "C": "Failure more often than not breeds success.",
+                "D": "The more is taught, the less is learnt."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q57",
+              "number": 57,
+              "stem": "What does Kapur disapprove of in teaching?",
+              "options": {
+                "A": "Asking students to find and solve problems on their own.",
+                "B": "Developing students’ ability to apply what they learn.",
+                "C": "Giving students detailed guidance and instruction.",
+                "D": "Allowing students a free hand in problem solving."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q58",
+              "number": 58,
+              "stem": "What do people tend to think of providing strong “scaffolding” in teaching?",
+              "options": {
+                "A": "It will make teaching easier.",
+                "B": "It is a sensible way of teaching.",
+                "C": "It can motivate average students.",
+                "D": "It will enhance students’ confidence."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q59",
+              "number": 59,
+              "stem": "What kind of problem should be given to students to solve according to Kapur?",
+              "options": {
+                "A": "It should be able to encourage collaborative learning.",
+                "B": "It should be easy enough so as not to frustrate students.",
+                "C": "It should be solvable by average students with ease.",
+                "D": "It should be difficult enough but still within their reach."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q60",
+              "number": 60,
+              "stem": "What can be expected of “this tough-love teaching style” (Lines 8-9, Para. 5)?",
+              "options": {
+                "A": "Students will be grateful in the long run.",
+                "B": "Teachers will meet with a lot of resistance.",
+                "C": "Parents will think it too harsh on their kids.",
+                "D": "It may not be able to yield the desired results."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 61 to 65 are based on the following passage.\nVernon Bowman, a 75-year-old farmer from rural Indiana, did something that got him sued. He\nplanted soybeans（大豆）sold as cattle feed. But Monsanto, the agricultural giant, insists it has a\npatent on the kind of genetically modified seeds Bowman used — and that the patent continues to all\nof the progeny（后代）of those seeds.\nHave we really gotten to the point that planting a seed can lead to a high-stakes Supreme Court\npatent lawsuit? We have, and that case is Bowman vs. Monsanto, which is being argued on Tuesday.\nMonsanto’s critics have attacked the company for its “merciless legal battles against small farmers,”\nand they are hoping this will be the case that puts it in its place. They are also hoping the court’s\nruling will rein in patent law, which is increasingly being used to claim new life forms as private\nproperty.\nMonsanto and its supporters, not surprisingly, see the case very differently. They argue that\nwhen a company like Monsanto goes to great expense to create a valuable new genetically modified\nseed, it must be able to protect its property interests. If farmers like Bowman are able to use these\nseeds without paying the designated fee, it will remove the incentives for companies like Monsanto\nto innovate.\nMonsanto accused Bowman of patent infringement and won an $84,456 damage award. Rather\nthan pay up or work out a settlement, Bowman decided to appeal — all the way to the Supreme Court.\nHe said “Monsanto should not be able, just because they’ve got billions of dollars to spend on legal\nfees, to try to terrify farmers into obeying their agreements by massive force and threats.”\nThe central issue in the case is whether patent rights to living things extend to the progeny of\nthose things. Monsanto argues that its patents extend to later generations. But Bowman’s supporters\nargue that Monsanto is trying to expand the scope of patents in ways that would enrich big\ncorporations and hurt small farmers. They say that if Monsanto wins, the impact will extend far\nbeyond agriculture — locking up property rights in an array of important areas. Knowledge Ecology\nInternational contends that the Supreme Court’s ruling could have “profound effects” on other\nbiotech industries.\nIf this were a Hollywood movie, the courageous old Indiana farmer would beat the\nprofit-minded corporation before the credits rolled. But this is a real-life argument before a Supreme\n\nCourt that has a well-earned reputation for looking out for the interests of large corporations. This\ncase gives the court an opportunity to rein in the growing use of patents to protect genetically\nengineered crops and other life forms — but the court may well use it to give this trend a powerful\nnew endorsement.",
+          "questions": [
+            {
+              "id": "q61",
+              "number": 61,
+              "stem": "Why did Vernon Bowman get sued?",
+              "options": {
+                "A": "He used genetically modified seeds to feed his cattle.",
+                "B": "He planted soybeans without paying for the patent.",
+                "C": "He made a profit out of Monsanto’s commercial secrets.",
+                "D": "He obtained Monsanto’s patented seeds by illegal means."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q62",
+              "number": 62,
+              "stem": "What are Monsanto’s critics hoping the Supreme Court will do?",
+              "options": {
+                "A": "Allow small farmers to grow genetically modified soybeans.",
+                "B": "Punish Monsanto for infringing on small farmer’s interests.",
+                "C": "Rule against Monsanto’s excessive extension of its patent rights.",
+                "D": "Abolish the patent law concerning genetically engineered seeds."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q63",
+              "number": 63,
+              "stem": "What is the argument of Monsanto and its supporters?",
+              "options": {
+                "A": "Patent rights should be protected to encourage innovation.",
+                "B": "Bowman cannot plant the seeds without Monsanto’s consent.",
+                "C": "Monsanto has the right to recover the costs of its patented seeds.",
+                "D": "Patent law on genetically modified seeds should not be challenged."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q64",
+              "number": 64,
+              "stem": "What is the key issue in the Bowman vs. Monsanto case?",
+              "options": {
+                "A": "Whether patent for seeds is harmful to agricultural production.",
+                "B": "Whether the biotech industry should take priority over agriculture.",
+                "C": "Whether measures should be introduced to protect small farmers.",
+                "D": "Whether patent for living things applies to their generations."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q65",
+              "number": 65,
+              "stem": "What do we learn from the last paragraph?",
+              "options": {
+                "A": "Hollywood movies usually have an unexpected, dramatic impact on real-life arguments.",
+                "B": "The Supreme Court will try to change its reputation for supporting large corporations.",
+                "C": "The Supreme Court is likely to persuade the parties concerned to work out a settlement.",
+                "D": "The ruling would be in Bowman’s favor if the case were argued in a Hollywood movie."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into\nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "中国园林(the Chinese garden )是经过三千多年演变而成的独具一格的园林景观(landscape ) 。它既包括为皇室成员享乐而建造的大型花园，也包括学者、商人和卸任的政府官员为摆脱嘈杂的外部世界而建造的私家花园。这些花园构成了一种意在表达人与自然之间应有的和谐关系的微缩景观。典型的中国园林四周有围墙，园内有池塘、假山(rockwork)、树木、花草以及各种各样由蜿蜒的小路和走廊连接的建筑。漫步在花园中，人们可以看到一系列精心设计的景观犹如山水画卷（scroll) 一般展现在面前。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

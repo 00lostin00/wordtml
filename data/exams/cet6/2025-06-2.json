@@ -1,0 +1,1078 @@
+{
+  "id": "cet6-2025-06-2",
+  "type": "cet6",
+  "year": 2025,
+  "month": 6,
+  "set": 2,
+  "title": "2025年6月大学英语六级真题(第2套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence giypn in quotes at the beginning of your essay.",
+      "prompt": "As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly."
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "They have to make a choice by the end of the day.",
+            "B": "Both candidates are very keen on getting the job.",
+            "C": "They hold different views on the procedure.",
+            "D": "Both candidates are quite competitive."
+          },
+          "answer": "C",
+          "explanation": ";•蔚话并买:…勇王好女王说可能戛看又给植的公奇就百酎江正话:五王绪出了音荒面容：…舁说道;N 莪王蔺 1 二，也就是 10 天前，跟你们公司的一位女士说过。”由此可知，C 项与对话内容相符。 2 六级 2 0 2 5 .6 第一套",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06/key_2025.06六级解析全3套_带书签.txt",
+            "sourceText": "1. What did the woman do last Tuesday?女士上周二做了什么？ A）见到了电脑维修技术员。 C）给男士所在的公司打了电话。 B）向男士讲述了她的麻烦。 D）去了阿尔法维修公司。 解;•蔚话并买:…勇王好女王说可能戛看又给植的公奇就百酎江正话:五王绪出了音荒面容：…舁说道;N 莪王蔺 1 二，也就是 10 天前，跟你们公司的一位女士说过。”由此可知，C 项与对话内容相符。 2 六级 2 0 2 5 .6 第一套",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "Both Rachel and Peter came across as respectful and professional.",
+            "B": "Rachel scored moderately higher grades than Peter at school.",
+            "C": "Both Rachel and Peter excelled in their academic pursuit.",
+            "D": "Peter appeared slightly stronger than Rachel physically."
+          },
+          "answer": "B",
+          "explanation": "+ 对话中间， 两人开始讨论两名候选人各自的优势， 男士提到： “ 唯一值得注意的不同之处可能是， 瑞秋在整个高中和大学期间的成绩似乎都略胜一筹。 ” 同时， 女士也赞同这一点， 由此可知， B 项为正确答案。 对话中女士提到彼得给人的印象是恭敬且专业， 但他们两个人都未提到瑞秋也是如此， 故排除 A 项。 对话中确实提到两名候选人在学术背景上基本旗鼓相当， 但这并不是对话双方认为值得注意的地方， 故排除 c 项。 D 项在对话中并未提及， 故排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "2 ． What dO the speakers say may be worth noting? 对话双方指出什么可能， 值得注意？ A) 瑞秋和彼得给人的印象都是恭敬且专业。 B) 瑞秋在学校的成绩比彼得略高一些。 C) 瑞秋和彼得在学业上都很出色。 D) 彼得在体格上显得比瑞秋稍壮一些解 + 对话中间， 两人开始讨论两名候选人各自的优势， 男士提到： “ 唯一值得注意的不同之处可能是， 瑞秋在整个高中和大学期间的成绩似乎都略胜一筹。 ” 同时， 女士也赞同这一点， 由此可知， B 项为正确答案。 对话中女士提",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "His use of body language.",
+            "B": "His accumulation of experience.",
+            "C": "His unusual state of mind.",
+            "D": "His knowledge about the company."
+          },
+          "answer": "A",
+          "explanation": "。 解 + 对话中， 对话双方在对比两位候选人的差异时， 男士表示： “ 彼得不知为何显得更自信一些。 也许是他们的肢体语言差异造成的。 ” 由此可知， A 项为正确答案。 对话中虽然女士提到彼得也许只是没那么紧张， 但并非说彼得有不同寻常的心理状态， 而且这也不是男士的看法， c 项为干扰项， 故排除。 其他两项在对话中均未提及， 故排除",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "3 ． According to the man, what might account for Peter appearing somewhat more self-assured than Rachel? 男士认为彼得比瑞秋显得稍微更自信的原因可能是什么？ A) 他的肢体语言运用 B) 他的经验积累。 C) 他不同寻常的心理状态。 D） 他对公司的了解。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "Compare the candidates side by side again.",
+            "B": "Ask the board to cast the deciding vote.",
+            "C": "Find a way to break the tie next time.",
+            "D": "Let John make the final decision."
+          },
+          "answer": "D",
+          "explanation": "+ 对话最后， 男士说道： “ 如果我们僵持不下， 无法达成一致， 那我们就把这件事交给约翰， 让他来投决定性的一票吧。 ” 由此可知， D 项为正确答案。 其他三项在对话中均未提及， 故排除。 Conversation TWO",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "they will do if they can， t reach an agreement? 男士表示若他们无法达成共识将怎么做？ A) 再次将候选人放在一起比较。 C) 下次找方法打破僵局。 B) 请董事会投决定性的一票。 D) 让约翰来做最终决定。 解 + 对话最后， 男士说道： “ 如果我们僵持不下， 无法达成一致， 那我们就把这件事交给约翰， 让他来投决定性的一票吧。 ” 由此可知， D 项为正确答案。 其他三项在对话中均未提及， 故排除。 Conversation TWO",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "The private label \"L'Orange”.",
+            "B": "The woman's latest collection.",
+            "C": "This season's new fashion.",
+            "D": "The head designer's role."
+          },
+          "answer": "B",
+          "explanation": "+ 对话开头， 男士介绍道： “ 今天我们请到了私人时装品牌 L ℃ range 的首席设计师克莱门汀 · 奥尔特加， 同探讨她的最新系列作品。 ” 由此可知， B 项为正确答案。 对话中虽然提到私人时装品牌 L ℃ range， 但这并非是对话双方讨论的主题， A 项为干扰项， 故排除。 其余两项在对话中均未提及， 故排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "5 ． What are the speakers mainly talking about? 对话双方主要围绕什么展开讨论？ A) 私人品牌 \"L'Orange' B) 女士的最新系列作品。 C) 本季的新时尚潮流。 D) 首席设计师的作用。 解 + 对话开头， 男士介绍道： “ 今天我们请到了私人时装品牌 L ℃ range 的首席设计师克莱门汀 · 奥尔特加， 同探讨她的最新系列作品。 ” 由此可知， B 项为正确答案。 对话中虽然提到私人时装品牌 L ℃ range， 但这并非是对话双方讨论的主题，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Something reflecting the social norms.",
+            "B": "Something meeting public expectations.",
+            "C": "Something slightly absurd.",
+            "D": "Something a bit ambiguous."
+          },
+          "answer": "C",
+          "explanation": "肀对话中， 女士说道： “ 相反， 我总是试图在自己的美学中加人些许荒诞的元素。 ” 由此可知， c 项为正确答案。 女士表示她尽量不去迎合社会规范和期待， 而 A 项与 B 项内容正好与此相悖， 故排除。 女士虽然提及她偏爱的风格向来带有几分模糊感， 但并未表示要在自己的美学中加人有点模糊不清的元素， D 项为干扰项， 故排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "6 ． What does the woman say she always tries to incorporate into her aesthetic? 女士提到她始终尝试在自己的美学中加入什么元素？ A) 反映社会规范的元素 B) 满足公众期望的元素。 0 略显荒诞的元素。 D) 有点模糊不清的元素。 解肀对话中， 女士说道： “ 相反， 我总是试图在自己的美学中加人些许荒诞的元素。 ” 由此可知， c 项为正确答案。 女士表示她尽量不去迎合社会规范和期待， 而 A 项与 B 项内容正好与此相悖， 故排除。 女士虽然提及她偏爱的风格向来带有几分模糊感， 但并未表示要在自己",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "Merge styles often at opposite ends of the fashion spectrum.",
+            "B": "Learn from the designs of the Asian rural mountain villagers.",
+            "C": "Make velvet capes look both majestic and masculine.",
+            "D": "Draw intricate patterns onto a traditional power suit."
+          },
+          "answer": "A",
+          "explanation": "+ 对话中， 女士说道： “ 我喜欢融合时尚领域内常常对立的风格。 ” 由此可知， A 项为正确答案。 女士说到自己的灵感来源时， 她提到： “ 尝试复刻她们的设计可能徒劳无功。 ” B 项内容与此相悖， 故排除。 对话中， 男士说这件斗篷气势非凡还带有阳刚之气， 这是男士的评价， 并非是女士的设计手法， 故排除 c 项。 女士只是说用亮片在丝绒斗篷上 “ 描绘 ” 出繁复纹样， 同时这件斗篷还搭配了一件传统职业西装， 但并未说到在这件西装上绘制繁复纹样， 因此 D 项是对话中碎片信息的错误整合， 故排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "7 ． What does the woman say she likes to do? 女士表示自己喜欢做什么？ A) 融合时尚领域中往往处于对立的风格。 B） 学习亚洲山区村民的设计。 0 让丝绒斗篷看起来既大气又阳刚。 D) 在传统职业西装上绘制繁复纹样解 + 对话中， 女士说道： “ 我喜欢融合时尚领域内常常对立的风格。 ” 由此可知， A 项为正确答案。 女士说到自己的灵感来源时， 她提到： “ 尝试复刻她们的设计可能徒劳无功。 ” B 项内容",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "Obtaining the woman's signature.",
+            "B": "Seeing the woman's new creations.",
+            "C": "Incorporating indigenous aspects into his work.",
+            "D": "Sharing more ideas with the woman next time. ・2025年6 月六级真题（第二套）， Directions: In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+          },
+          "answer": "B",
+          "explanation": "+ 对话最后， 男士说道： “ 您已证明自己是一位令人敬畏的年轻设计师， 我们等不及看您接下来想出的作品。 ” 由此可知， B 项为正确答案。 其余三项对话中均未提及， 故排除 section Passage One",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "8 ． What is the man looking forward to? 男士期待的事是什么？ A) 获得女士的签名。 B) 看到女士的新作。 C) 将本土元素融人自己的作品。 D) 下次与女士分享更多的想法。 解 + 对话最后， 男士说道： “ 您已证明自己是一位令人敬畏的年轻设计师， 我们等不及看您接下来想出的作品。 ” 由此可知， B 项为正确答案。 其余三项对话中均未提及， 故排除 section Passage One",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "They could readily recognize their owner simply by looking.",
+            "B": "They could understand the implications of human commands.",
+            "C": "They could be domesticated to act as our companions.",
+            "D": "They could follow pointing gestures without training."
+          },
+          "answer": "D",
+          "explanation": "人类指令的含义。 C) 它们可以被驯化来充当我们的伙伴。 D) 它们无需训练就能理解指向性手势。 解文章开头部分提到， 一项新研究调查了流浪狗是否能理解人类的手势。 该研究显示， 尽管这些参与研究的狗之前从未接受过相关训练， 但仍有 80 ％ 的狗能成功地根据指向性手势找到特定位置。 选项 D 是对这句话的总结概括， 故为正确选项。 选项 A 曲解原文， 流浪狗并无 “ 主人 ”； 选项 B 错在 commands， 原文说的是 gestureso 选项 c 原文未提及， 故排除",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "g dogs in the new study? 关于新研究中大约 80 ％ 的参与实验的狗， 文章说了什么？ A) 它们仅通过观察就能轻松认出自己的主人。 B) 它们能理解人类指令的含义。 C) 它们可以被驯化来充当我们的伙伴。 D) 它们无需训练就能理解指向性手势。 解文章开头部分提到， 一项新研究调查了流浪狗是否能理解人类的手势。 该研究显示， 尽管这些参与研究的狗之前从未接受过相关训练， 但仍有 80 ％ 的狗能成功地根据指向性手势找到特定位置。 选项 D 是对这句话的总结概括， 故为正确选项。 选项 A 曲解原文， 流浪狗并无 “ 主人 ”； 选项 B 错在 comman",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "Cultivating them to be intelligent creatures.",
+            "B": "Training them to behave like domesticated dogs.",
+            "C": "Understanding how humans impact their behavior.",
+            "D": "Taking measures to reduce their numbers."
+          },
+          "answer": "C",
+          "explanation": "流浪狗造成的问题？ A) 将它们培育成聪明的生物。 B) 训练它们， 使其表现得像家养狗一样。 0 了解人类如何影响它们的行为。 D) 采取措施减少它们的数量。 解 + 文章提到， 流浪狗与人类之间的冲突是个问题。 了解人类如何影响流浪狗的行为可能有助于缓解这一问题。 选项 c 中的 impact 与原文中的 shape 是同义词， 都有 “ 影响 ” 的意思， 故 c 项正确。 选项 A、 B 都是根据文中的个别词汇 （mtelligent creatures、 domesticated dogs） 设置的干扰项， 故排除。 选项 D 原文未提及， 故排除。 ]",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "10 ． What may help alleviate the problem caused by stray dogs? 什么可能有助于缓解流浪狗造成的问题？ A) 将它们培育成聪明的生物。 B) 训练它们， 使其表现得像家养狗一样。 0 了解人类如何影响它们的行为。 D) 采取措施减少它们的数量。 解 + 文章提到， 流浪狗与人类之间的冲突是个问题。 了解人类如何影响流浪狗的行为可能有助于缓解这一问题。 选项 c 中的 impact 与原文中的 shape 是同义词， 都有 “ 影响 ” 的意思， 故 c 项正确。 选项 A、 B 都是根据文中的个别词汇 （mtelligent c",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Tame them through repeated training.",
+            "B": "Treat them with sensitivity and respect.",
+            "C": "Make them responsive to our commands.",
+            "D": "Watch their behavior and try to improve it."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "The temperature inside it varies from place to place.",
+            "B": "Proper placement facilitates access to food products.",
+            "C": "Its different shelves are designed for different purposes.",
+            "D": "The space in an average fridge changes from top to bottom."
+          },
+          "answer": "A",
+          "explanation": "文章开头即指出， 普通冰箱内部的温度从前到后、 从下到上， 甚至各个角落实际上都存在差异。 正因如此， 食物在冰箱内的摆放位置远比你可能想象的要重要得多。 选项 A 是对这部分内容的总结概括， 其中的什 om place to place 高度概括了原文中的什 om front to back, bottom t0 top and everywhere in between， 故选项 A 正确。 其他三项都不是冰箱内食品的摆放位置非常重要的原因， 故均排除",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "12， Why is food product placement within the fridge very important? 为什么冰箱内食品的摆放位置非常重要？ A) 其内部的温度因位置而异。 B) 合理摆放便于取用食品。 C) 它的不同架子是为不同用途而设计的。 D） 普通冰箱的空间从上到下有所不同。 解文章开头即指出， 普通冰箱内部的温度从前到后、 从下到上， 甚至各个角落实际上都存在差异。 正因如此， 食物在冰箱内的摆放位置远比你可能想象的要重要得多。 选项 A 是对这部分内容的总结概括，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "To slow the rising of temperature in it.",
+            "B": "To provide a big box of evenly cold air.",
+            "C": "To prevent germs from growing quickly.",
+            "D": "To keep the food cold as long as possible."
+          },
+          "answer": "C",
+          "explanation": "+ 文章提到， 现代冰箱的全部目的就是减缓细菌的繁殖。 选项 c 中的 prevent germs from growing quickly 是原文中 slow the growth ofbacteria 的同义转述， 故 c 项正确。 选项 A、 D 原文并未提及， 故排除。 选项 B 中的 big box of air 虽是文中原词， 但是用来引出本篇文章 “ 冰箱 ” 这个主题的， 它与现代冰箱的目的无关， 故排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "13， What does the passage say is the whole purpose Of the modern refrigerator? 文章中提到现代冰箱的全部目的是什么？ A) 为了减缓其内部温度的上升。 B) 为了提供一个均匀制冷的大箱子。 0 为了防止细菌快速繁殖。 D) 为了尽可能长时间地冷藏食物。 解 + 文章提到， 现代冰箱的全部目的就是减缓细菌的繁殖。 选项 c 中的 prevent germs from growing quickly 是原文中 slow the growth ofbacteria 的同义转述， 故 c 项正确。 选项 A、 D 原文并未提",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "On the top shelf.",
+            "B": "In the middle section.",
+            "C": "On the inside of its doors.",
+            "D": "At the back of its bottom shelf."
+          },
+          "answer": "A",
+          "explanation": "文章后半部分分别介绍了冰箱内部各个位置的温度情况以及各自适合存放哪种类型的食品。 其中提到， 冰箱上层的温度不如底层低， 因此可以把那些不需要超低温保存的食物放在上层。 即食食品或已煮熟的食物 《可以放在上层架子上。 因此， 选项 A 正确",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "14 ． Where in the fridge should we store foods already cooked? 我们应该将已经煮熟的食物存放在冰箱的哪个位置？ A) 在上层架子上。 B） 在中间部分。 0 在冰箱门内侧。 D) 在底层架子的后方。 解文章后半部分分别介绍了冰箱内部各个位置的温度情况以及各自适合存放哪种类型的食品。 其中提到， 冰箱上层的温度不如底层低， 因此可以把那些不需要超低温保存的食物放在上层。 即食食品或已煮熟的食物 《可以放在上层架子上。 因此， 选项 A 正确",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "They will be extra-chilly.",
+            "B": "They will be hard to defrost.",
+            "C": "They will be contaminated.",
+            "D": "They will be ruined. Directions: In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer sheet 1 with a single line though the centre."
+          },
+          "answer": "D",
+          "explanation": "冻 0 它们会被污染。 D) 它们会变质。 解 + 文章最后介绍， 冰箱底层搁架的靠后区域是冰箱最冷的位置， 适合存放容易变质的乳制品。 千万不要在此存放水分含量高的食物， 因为食物中的水分会结冰， 从而让食物彻底变质。 因此， 选项 D 正确。 26 六级 2025 ． 6 第二 Section@ Recording One",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "th high water content at the back Of the bottom shelf? 为什么一定不应将含水量高的食物存放在底层搁架的靠后位置？ A) 它们会变得格外冰凉。 B) 它们会很难解冻 0 它们会被污染。 D) 它们会变质。 解 + 文章最后介绍， 冰箱底层搁架的靠后区域是冰箱最冷的位置， 适合存放容易变质的乳制品。 千万不要在此存放水分含量高的食物， 因为食物中的水分会结冰， 从而让食物彻底变质。 因此， 选项 D 正确。 26 六级 2025 ． 6 第二 Section@ Recording One",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "Chronic depression.",
+            "B": "Growing feebleness.",
+            "C": "Hip fracture.",
+            "D": "Fatal infections."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "It feels real and relevant.",
+            "B": "It contributes to psychology.",
+            "C": "It outcompetes lots of academics5 research.",
+            "D": "It wins recognition outside of Birmingham."
+          },
+          "answer": "A",
+          "explanation": "+ 讲话者在讲话后面提到， “ 我认为我的研究最让我感到兴奋的地方在于它既真实又有意义 \"， 题干中的 excites. “ most 和选项 A 中的 it feels real and relevant 均为原词复现。 由此可知， 选项 A 为正确答案。 选项 B 讲话中未提及， 选项 c、 D 的内容在讲话中仅提到了个别单词， 相关描述并未提及， 故均排除。 1 & How does the speaker approach her research project? 讲话者是如何开展她的研究项目的？ 0 通过充分利用她的专业知识。 A) 通过将年轻和年长的专家聚集在一起。 B) 通过依靠先进的现代技术。 D) 通过整合多种视角六级 2025 ． 6 第二響 27 解 + 讲话者在讲话最后提到： “ 我们不仅仅局限于单一视角， 比如只从心理医生的角度看待衰老和健康， 而是现在整合了多种不同的技术和观点， 来切实研究影响健康的各种因素。 ” 由此可知， 选项 D 为正确答案。 其他三个选项的内容讲话中均未提及， 故可直接排除。 Recording Two",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "17 ． What does the speaker think excites her most about her research? 讲话者认为她的研究最令她兴奋的是什么？ A) 它既真实又有意义。 B) 它对心理学有贡献。 0 它胜过许多学者的研究。 D) 它在伯明翰以外的地方赢得了认可。 解 + 讲话者在讲话后面提到， “ 我认为我的研究最让我感到兴奋的地方在于它既真实又有意义 \"， 题干中的 excites. “ most 和选项 A 中的 it feels real and relevant 均为原词复现。 由此可知，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "By bringing together experts old and young.",
+            "B": "By counting on advanced modem technology.",
+            "C": "By making full use of her expertise.",
+            "D": "By combining multiple perspectives. ,2025年6 月六级真题（第二套）・"
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "They don't teach basic organization.",
+            "B": "They don't focus on teaching techniques.",
+            "C": "They attach little importance to recipes.",
+            "D": "They hire very few distinguished chefs."
+          },
+          "answer": "A",
+          "explanation": "+ 在讲话开头， 讲话者明确提到 “ 大多数学院和研究生院不教授基本的组织技能 \"， 选项 A 为原词复现， 很 《容易得出其为正确答案。 选项 B、 C、 D 的内容讲话中并未提及， 均可直接排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "19 ． What does the speaker say about most colleges and graduate schools in America? 关于美国大多数学院和研究生院， 讲话者说了什么？ A) 它们不教授基本的组织技能。 B) 它们不专注于教学技巧。 0 它们对食谱的重视程度很低。 D) 它们极少聘用顶尖大厨解 + 在讲话开头， 讲话者明确提到 “ 大多数学院和研究生院不教授基本的组织技能 \"， 选项 A 为原词复现， 很 《容易得出其为正确答案。 选项 B、",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "It's unique to celebrity chefs.",
+            "B": "It's a way of transformation.",
+            "C": "Ifs too demanding for them.",
+            "D": "It's a way of life to them."
+          },
+          "answer": "D",
+          "explanation": "+ 讲话者在中间提到， \"Students at the culinary institute of America view it as away of life ”， 选项 D 中的 a way oflife 为原词复现， 故为正确答案。 选项 A 是基于讲话中提到的 celebrity chefs 设置的干扰项， 故排除。 选项 B 中的 transformation 在讲话中有相关内容， 但讲话中强调的是一些厨师将 mise ． en ． place 视为信仰， 通过专注和自律改变他们的生活， 但这并不是烹饪学院的学生的看法， 也可排除。 选项 c 和讲话内容矛盾， 可直接排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "in place ”？ 美国烹饪学院的学生如何看待 mise-en-place\" 或 “ 放在适当的位置 \"？ A） 这是明星大厨独有的。 B) 这是一种转变的方式。 28 六 2025 ． 6 第： 套 C) 这对他们来说要求太高。 D) 这是他们的一种生活方式。 解 + 讲话者在中间提到， \"Students at the culinary institute of America view it as away of life ”， 选项 D 中的 a way oflife 为原词复现， 故为正确答案。 选项 A 是基于讲话中提到的 celebrity chefs 设置的干扰项， 故排除",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Respect others so as to be respected.",
+            "B": "Use time and resources in a wise way.",
+            "C": "Cultivate a habit of self-discipline.",
+            "D": "Learn from philosophers earnestly."
+          },
+          "answer": "B",
+          "explanation": "讲话者在最后提到， “ 时间是宝贵的， 资源是宝贵的， 空间是宝贵的， 你的自尊和他人的尊重也是宝贵的。 要明智地利用它们。 ” 很容易由此得出选项 B 为正确选项。 选项 A 中的 respect 虽有提及， 但尊重本身不是讲话者的建议， 重点是让我们明智地利用尊重， 故排除。 选项 c 中的 self-discipline 讲话中虽有相关字眼， 但不是题目问的内容， 可直接排除。 选项 D 是根据最后一句话中的 phi ] ～ phy 设置的干扰项， 故排除。 Recording Three",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "21. What does the speaker advise us t0 d0 at the end of the talk? 讲话者在讲话的最后建议我们做什么？ A) 尊重他人以获得尊重。 B) 明智地利用时间和资源。 C) 培养自律的习惯。 D) 认真向哲学家学习。 解讲话者在最后提到， “ 时间是宝贵的， 资源是宝贵的， 空间是宝贵的， 你的自尊和他人的尊重也是宝贵的。 要明智地利用它们。 ” 很容易由此得出选项 B 为正确选项。 选项 A 中的 respect 虽有提及， 但尊重本身不是讲话者的建议， 重点是让我们明智地利用尊",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "The motive for hard work.",
+            "B": "The reason for stagnation.",
+            "C": "The basis for self-improvement.",
+            "D": "The justification fbr self-confidence."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "Feel confidence, happiness and satisfaction.",
+            "B": "Believe they have achieved their life goals.",
+            "C": "Use a key tool for setting ambitious goals.",
+            "D": "Stop imagining further progress in life."
+          },
+          "answer": "D",
+          "explanation": "4 讲话者在讲话中提到， 当我们步人中年时， 我们便不再憧憬自己想要达成的目标， 而且对设定目标这件事也产生了消极的看法。 不再憧憬自己想要达成的目标， 即不再憧憬更大的进步， 选项 D 为正确答案。 讲话者提到， 步人中年后我们不再因实现目标而感到自信、 快乐和满足， 反而会觉得自己总是达不到目标， 故排除选项 A 和选项 B 选项 c 讲话中并未提及， 可排除。 2 生 Why dO we find ourselves irritated for not achieving the goal? 为什么我们会因为没有实现目标而感到沮丧？ A) 我们觉得自己总是落后于他人。 B) 我们必须适应不断变化的目标。 0 关于目标设定存在各种错误的认识 D) 最初设定的目标总是有问题。 解 + 讲话者在讲话中间提到， 我们之所以会因未能达成目标而感到恼怒， 是因为目标总是会变化， 而我们也在不断调整适应。 因此， 选项 B 为正确答案。 其余三项讲话者均未提及， 可排除",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "d to dO when they have reached midlife? 当人们到了中年时， 他们倾向于做什么？ A） 感到自信、 快乐和满足。 B) 认为他们已经实现了人生目标。 0 使用关键手段来制定雄心勃勃的目标。 D) 停止想象生活中更大的进步。 解 4 讲话者在讲话中提到， 当我们步人中年时， 我们便不再憧憬自己想要达成的目标， 而且对设定目标这件事也产生了消极的看法。 不再憧憬自己想要达成的目标， 即不再憧憬更大的进步， 选项 D 为正确答案。 讲话者提到， 步人中年后我们不再因实现目标而感到自信、 快乐和满足， 反而会觉得自己总是达不到目标， 故",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "We feel we are always falling behind others.",
+            "B": "We have to adapt to the ever-changing goal.",
+            "C": "There are various misconceptions about goal setting.",
+            "D": "There are always problems with the goal originally set."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "A noticeable change in the number of goals to achieve.",
+            "B": "Measuring always against the gap rather than the gain.",
+            "C": "Measuring where we've come from instead of measuring against the goal.",
+            "D": "A proper conception of what we fail to notice in trying to achieve our goals."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word far each blank\nfrom a list o f choices given in a word bank fallowing the passage. Read the passage through carefully before\nmaking your choices. Each choice in the bank is identified by a letter: Please mark the corresponding letter for\neach item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank\nmore than once.\nNo beast on Earth is tougher than the tiny tardigrade (缓步类动物).It can \n\nbeing frozen at -272°\nCelsius, being exposed to the vacuum of outer space and even being \n\nwith 500 times the dose of X-rays\nthat would kill a human. In other words, the creature can endure conditions that don't even exist on Earth. And\nresearchers are looking to the microscopic animals to learn how to prepare humans and crops to handle the \n\nof\nspace travel.\nThe tardigrade^ indestructibility stems from its \n\nto its environment- which may seem surprising,\nsince it lives in \n\ncomfortable places, like the cool, wet patches of moss (青苔)that dot a garden wall.\nBut it turns out that a tardigrade5s damp, mossy home can dry out many times each year. Drying is\npretty \n\nfor most living things. It does damage to cells in some of the same ways that freezing, vacuum and\nradiation do. Tardigrades, however, have \n\nspecial strategies for dealing with these kinds of damage.\nAs a tardigrade dries out, its cells produce several strange proteins that are unlike anything found in other animals.\nIn water, the proteins are shapeless. But as water disappears, the proteins self^assemble into long fibers that\nfill the celfs \n\n. The fibers support the cell's membranes (细胞膜)and proteins, preventing them from\nbreaking or \n34 .\n•2025年6 月六级真题（第二套）・\n\nEmulating tardigrades could one day help humans colonize outer space. Food crops could be engineered to\nproduce tardigrade proteins, allowing these organisms to grow more efficiently on spacecraft where levels of radiation\nare elevated compared with on Earth.\nSo if humans ever succeed in reaching the stars, they may accomplish this \n\n, in part, by standing on the\nshoulders of the tiny eight-legged endurance specialists in your backyard.",
+      "wordBank": {
+        "A": "adaptations",
+        "I": "rigors",
+        "B": "blasted",
+        "J": "seemingly",
+        "C": "catastrophic",
+        "K": "survive",
+        "D": "evolved",
+        "L": "tempt",
+        "E": "feat",
+        "M": "thrill",
+        "F": "interior",
+        "N": "unanimously",
+        "G": "probing",
+        "O": "unfolding",
+        "H": "recurrence"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": "K",
+          "explanation": "26 ． K) survive 气存活， 幸存） 陋画 ] 空格前是情态动词 can， 空格后是 being frozen at, 由此可知， 空格处应填人一个动词原形， 与动名词短语 being frozen at 构成动宾搭配陋圄文章首句提及， 地球上没有哪种生物比微小的缓步类动物更坚韧。 本句承接上文， 举例说明其坚韧性， 由此可知， 此处是说缓步类动物可以在零下 272 摄氏度的严寒中 “ 存活 \"， survive 符合语境， 故选 K",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "26 ． K) survive 气存活， 幸存） 陋画 ] 空格前是情态动词 can， 空格后是 being frozen at, 由此可知， 空格处应填人一个动词原形， 与动名词短语 being frozen at 构成动宾搭配陋圄文章首句提及， 地球上没有哪种生物比微小的缓步类动物更坚韧。 本句承接上文， 举例说明其坚韧性， 由此可知， 此处是说缓步类动",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": "B",
+          "explanation": "27 ． B) blasted （vt. 向一一猛吹或喷射； 炸毁 adj. 该死的， 可恶的） 陋画 | 空格前是 being， 空格后是介词 with， 由此可知， 空格处应填人一个形容词或过去分词。 陋厮 ] 由 and 可知前后为并列关系， 故空格所在分句仍在举例说明缓步类动物的坚韧性。 与 “ 在零下 272 摄氏度的严寒中存活 \" 构成并列关系的应该是 “ 甚至能承受比人类致死剂量高出 500 倍的 x 射线辐射 \" blast 意为 “ 向一一猛吹或喷射 \"， 在此处可引申为 x 射线的辐射， 符合语境， 故选 B",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "27 ． B) blasted （vt. 向一一猛吹或喷射； 炸毁 adj. 该死的， 可恶的） 陋画 | 空格前是 being， 空格后是介词 with， 由此可知， 空格处应填人一个形容词或过去分词。 陋厮 ] 由 and 可知前后为并列关系， 故空格所在分句仍在举例说明缓步类动物的坚韧性。 与 “ 在零下 272 摄氏度的严寒中存活 \" 构成并列关系的应该",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": "I",
+          "explanation": "28 ． I) rigors （” ． 艰苦， 严酷） 法空格前是定冠词 the， 空格后是介词短语 ofspace trave",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "28 ． I) rigors （” ． 艰苦， 严酷） 法空格前是定冠词 the， 空格后是介词短语 ofspace trave",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": "A",
+          "explanation": "29 ． A) adaptations (). 适应） 陋刂圃空格前是形容词性物主代词 its， 空格后是介词短语 to its environment， 由此可知， 空格处应填人一个名词， 且能与介词 to 搭配使用。 陋叉圃本句主语 indestructibility 的意思是 “ 不可摧毁的特性 \"， 而谓语 stems from 意为 “ 源于 ”， 由此可知， 本句揭示缓步类动物不可摧毁的特性的来源。 这种动物能在各种极其恶劣的环境下生存， 说明它们对环境的适应能力惊人， adaptations 符合语境， 故选 A",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "29 ． A) adaptations (). 适应） 陋刂圃空格前是形容词性物主代词 its， 空格后是介词短语 to its environment， 由此可知， 空格处应填人一个名词， 且能与介词 to 搭配使用。 陋叉圃本句主语 indestructibility 的意思是 “ 不可摧毁的特性 \"， 而谓语 stems from 意为 “ 源于 ”， 由此可知",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": "J",
+          "explanation": "释它似乎令人惊讶的原因， 由下一段的开头句 “ 但事实证明， 缓步类动物潮湿的苔藓家园每年会多次干涸 \" 可知， 缓步类动物生活的环境只是看似舒适， 故空格处应填人 seemmgly， 表示 “ 看似 （但可能并非如此） ”， 故选 J。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "30， J) seemingly （adv. 看似） 陋过画 ] 空格前是动词短语 lives in， 空格后是其宾语 comfo 啪 ble places， 由此可知， 空格应填人一个副词， 对形容词 comfi able 进行修饰和限制。 陋 ) 由 whichmayseemsurpnsing （这似乎令人惊讶） 可知， 此处用 since 引导原因状语从句解",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": "C",
+          "explanation": "31. C) catastrophic （口砌灾难性的） 陋法空格前为 is pretty， 空格后是介词短语 for living things， 由此可知， 空格处应填人一个形容词， 构成 \"be+adJ. +for\" 的结构， pretty 为副词， 意为 “ 十分， 很 \"， 修饰该形容词。 六级 2025 ． 6 第二套 31 { 亟 01 由常识可知， 生物生长需要水， 干燥缺水对于大多数生物而言都是灾难性的， catastrophic 符合语境， 故选 c。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "31. C) catastrophic （口砌灾难性的） 陋法空格前为 is pretty， 空格后是介词短语 for living things， 由此可知， 空格处应填人一个形容词， 构成 \"be+adJ. +for\" 的结构， pretty 为副词， 意为 “ 十分， 很 \"， 修饰该形容词。 六级 2025 ． 6 第二套 31 { 亟 01 由常识可",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": "D",
+          "explanation": "32 ． D) evolved 气进化， 演变， 发展） 〔 避垂列空格前为 Tardigrades, however， have， 空格后为名词短语 special strategies， 由此可知空格处应填人一个过去分词， 构成 have done 现在完成时的结构义上文提到， 干燥对大多数生物来说是灾难性的， 它对细胞造成损害的方式与冷冻、 真空和辐射造成损害的方式部分相同。 本句话锋一转， 讲述特殊情况， 即缓步类动物例外， 它们进化出了应对这类损害的特殊策略， 故 evolved 符合语境， 本题应选 D",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "32 ． D) evolved 气进化， 演变， 发展） 〔 避垂列空格前为 Tardigrades, however， have， 空格后为名词短语 special strategies， 由此可知空格处应填人一个过去分词， 构成 have done 现在完成时的结构义上文提到， 干燥对大多数生物来说是灾难性的， 它对细胞造成损害的方式与冷冻、 真空和辐射",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": "F",
+          "explanation": "33 ． F) interior (). 内部， 里面口内部的， 里面的） 法圃空格前为 long fibers that fill the cel",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "33 ． F) interior (). 内部， 里面口内部的， 里面的） 法圃空格前为 long fibers that fill the cel",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": "O",
+          "explanation": "， 此处说的是长纤维的作用， 即它支撑细胞的细胞膜和蛋白质， 防止细胞膜和蛋白质破裂或 “ 展开 ”， 皿 folding 符合语境， 故选 O",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "， 由此可知， 空格处应填人一个与 breaking 并列的动名词。 〔 亟司结合上一题的分析， 此处说的是长纤维的作用， 即它支撑细胞的细胞膜和蛋白质， 防止细胞膜和蛋白质破裂或 “ 展开 ”， 皿 folding 符合语境， 故选 O",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": "E",
+          "explanation": "句意， 空格处的名词与前面的 if. 从句 ifhumans ever succeed in reaching the stars 表达的意思一致， “ 人类能成功抵达其他恒星 ” 显然是人类的壮举或功绩， 故 feat 符合语境， 本题应选 E。 干扰项注释 G) probing 气查看； 探究口砌 ． 探查性的， 追根究底的） H) recurrence （重现； 复发） L) tempt （评引诱， 诱惑） M) thrill （” ． 兴奋， 激动使非常兴奋或激动） N) unanimously （adu 全体一致地） SectionÄ ． · 概览 · 本文选自美联社新闻平台 AP News 于 2019 年 4 月 29 日发表的一篇标题为 \"Yes, eating meat affects the environment， but cows the climate ” 的文章。 文章围绕 “ 畜牧业与气候变化的关系 \" 展开论述， 驳斥了 “ 畜牧业是全球温室气体排放的主要来源 \" 这一错误观点， 从减排效果有限、 畜牧业有助于满足营养需求、 畜牧业具有经济效益等方面， 强调应该基于科学事实， 理性看待肉类生产的环境影响。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "35 ． E) feat （” ． 壮举， 功绩） 陋画 ] 空格前是 they may accompli sh this， 空格后是逗号， 由此可知， 空格处应填人一个名词， 充当 accomplish 的宾语叉分析句意， 空格处的名词与前面的 if. 从句 ifhumans ever succeed in reaching the stars 表达的意思一致",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "As the scale and impacts of climate change become increasingly alarming, meat is a popular target for action.\nAdvocates for the protection of the natural environment from destruction or pollution urge the public to eat\nless meat. Some activists have even called for taxing meat to reduce consumption of it."
+        },
+        {
+          "label": "B",
+          "text": "A key claim underlying these arguments holds that globally, meat production generates more greenhouse\ngases than the entire transportation sector. However, this claim is demonstrably wrong, as I will show. And its\npersistence has led to false assumptions about the linkage between meat and climate change."
+        },
+        {
+          "label": "C",
+          "text": "My recent research focuses on ways in which animal agriculture affects air quality and climate change. In my\nview, there are many reasons for either choosing animal protein or opting for a vegetarian selection. However,\nabandoning meat and meat products is not the environmental panacea (万灵药)many would have us believe.\nAnd if taken to an extreme, it also could have harmful nutritional consequences."
+        },
+        {
+          "label": "D",
+          "text": "A healthy portion of meafs negative reputation centers on the assertion that livestock is the largest source\nof greenhouse gases worldwide. For example, an analysis published in 2009 by the World Watch Institute\nbased in Washington, D.C. asserted that 51 percent of global greenhouse gas emissions come from rearing\nand processing livestock. According to the U.S. Environmental Protection Agency, the largest sources of U.S.\ngreenhouse gas emissions in 2016 were electricity production (28 percent of total emissions), transportation\n(28 percent) and industry (22 percent). All of agriculture accounted for a total of 9 percent, but all of\nanimal agriculture contributes less than half of this amount, representing 3.9 percent of the total greenhouse\nemission in the U.S. That is very different from claiming that livestock represents as much as or more than\ntransportation."
+        },
+        {
+          "label": "E",
+          "text": "Why is there such a misconception? In 2006 the United Nations Food and Agriculture Organization (FAO)\npublished a study titled “Livestock's Long Shadow,“ which received widespread international attention. It\nstated that livestock produced a staggering 18 percent of the world's greenhouse gas emissions. The agency\n\n•2 0 2 5年6 月六级真题（第二套）・\n\ndrew a startling conclusion that livestock was doing more to harm the climate than all modes of transportation\ncombined. This latter claim was wrong, and has since been corrected by Henning Stenfeld, the reporfs senior\nauthor."
+        },
+        {
+          "label": "F",
+          "text": "The problem was that analysts from the FAO used a comprehensive life-cycle assessment to study the climate\nimpact of livestock, but a different method when they analyzed transportation. For livestock, they considered\nevery factor associated with producing meat. This included emissions from fertilizer production, converting\nland from forests to pastures, growing feed, and direct emissions from animals (manure as well as expelling\nof gas from the stomach) from birth to death."
+        },
+        {
+          "label": "G",
+          "text": "However, when they looked at transportation's carbon footprint, they ignored impacts on the climate from\nmanufacturing vehicle materials and parts, assembling vehicles and maintaining roads, bridges and airports.\nInstead, they only considered the exhaust smoke emitted by finished cars, trucks, trains and planes. As a\nresult, the FAO's comparison of greenhouse gas emissions from livestock to those from transportation was\ngreatly distorted."
+        },
+        {
+          "label": "H",
+          "text": "I pointed out this flaw during a speech to fellow scientists in San Francisco on March 22, 2010, which led to a\nflood of media coverage. To its credit, the FAO immediately owned up to its error. Unfortunately, the agency's\ninitial claim that livestock was responsible fbr the lion's share of world greenhouse gas emissions had already\nreceived wide coverage. To this day, we struggle to “unring“ the bell. In its most recent assessment report,\nthe FAO estimated that livestock produces 14.5 percent of global greenhouse gas emissions from human\nactivities. There is no comparable full life-cycle assessment fbr transportation. However, as Stenfeld has\npointed out, direct emissions from transportation versus livestock can be compared and amount to 14 versus 5\npercent, respectively."
+        },
+        {
+          "label": "I",
+          "text": "Many people continue to think that avoiding meat as infrequently as once a week will make a significant\ndifference to the climate. But according to one recent study, even if Americans eliminated all animal protein\nfrom their diets, they would reduce U.S. greenhouse gas emissions by only 2.6 percent. According to our\nresearch at the University of California, Davis, if the practice of Meatless Monday were to be adopted by all\nAmericans, we'd see a reduction of only 0.5 percent."
+        },
+        {
+          "label": "J",
+          "text": "Moreover, technological, genetic and management changes that have taken place in U.S. agriculture over the\npast 70 years have made livestock production more efficient and less greenhouse gas-intensive. According\nto the FAO's statistical database, total direct greenhouse gas emissions from U.S. livestock have declined by\n11.3 percent since 1961, while production of livestock meat has more than doubled."
+        },
+        {
+          "label": "K",
+          "text": "Demand fbr meat is rising in developing and emerging economies, especially in the Middle East, North\nAfrica and Southeast Asia. For example, raising livestock such as goats in Kenya is an important source of\nfood and income fbr many small-scale farmers and herders. But meat consumption per person in these regions\nstill lags that of developed countries. In 2015, average annual meat consumption per person in developed\ncountries was 92 kilograms, compared to 24 kilograms in the Middle East and North Africa and 18 kilograms\nin Southeast Asia. Still, given projected population growth in the developing world, there will certainly be an\nopportunity fbr countries such as the United States to bring their sustainable livestock rearing practices to the\ntable.\nL) Removing animals from U.S. agriculture would lower national greenhouse gas emissions to a small degree,\nbut it would also make it harder to meet people's nutritional requirements. Many critics of animal agriculture\nare quick to point out that if farmers raised only plants, they could produce more pounds of food and more\ncalories per person. But humans also need many essential micro- and macro-nutrients fbr good health. It's\nhard to make a compelling argument that the United States has a calorie deficit, given its high national rates\n,2025年6 月六级真题（第二套）・\n\nof adult and child obesity. Moreover, not all plant parts are edible or desirable. Raising livestock is a way to\nadd nutritional and economic value to plant agriculture.\nM) As one example, the energy in plants that livestock consume is most often contained in cellulose (纤维素),\nwhich is indigestible fbr humans and many other mammals. But cows, sheep and other ruminant (反刍的)\nanimals can break cellulose down and release the solar energy contained in this vast resource. According\nto the FAO, as much as 70 percent of all agricultural land globally is range land that can only be utilized as\ngrazing land fbr ruminant livestock.\nN) The world population is currently projected to reach 9.8 billion by 2050. Feeding this many people will raise\nimmense challenges. Meat is more calorie-dense per serving than vegetarian options, and ruminant animals\nlargely thrive on feed that is not suitable fbr humans. Raising livestock also offers much-needed income fbr\nsmall-scale farmers in developing nations. Worldwide, livestock provides a livelihood fbr 1 billion people.\nO) Climate change demands urgent attention, and the livestock industry has a large overall environmental\nfootprint that affects air, water and land. These, combined with a rapidly rising world population, give us\nplenty of compelling reasons to continue to work fbr greater efficiencies in animal agriculture. I believe the\nplace to start is with science-based facts."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "The FAO concluded that farm animals were producing more greenhouse gases than all modes of\ntransportation combined.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Consumption of meat per person in developing countries is much less than that in countries like the U.S.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "The FAO was worthy of praise in that it admitted its mistake once it was pointed out.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Environmentalists try hard to make people consume less meat to combat climate change.",
+          "answer": "A",
+          "explanation": "39 ． 主环保主义者竭力倡导人们少吃肉， 以应对气候变化匿园 A 由题干关键词 EnvironmentaIists 和 make people consume less meat 定位到 A 段第二句。 该句指出， 倡导保护自然环境免受破坏或污染的人士敦促公众少吃肉。 题干是对此句的同义转述， 其中 Environmentalists 对应原文中的 Advocates for the protection Of the natural environment from destruction or pollution， 呵 hardto make 对应 urgeo 故答案为 A",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "39 ． 主环保主义者竭力倡导人们少吃肉， 以应对气候变化匿园 A 由题干关键词 EnvironmentaIists 和 make people consume less meat 定位到 A 段第二句。 该句指出， 倡导保护自然环境免受破坏或污染的人士敦促公众少吃肉。 题干是对此句的同义转述， 其中 Environmentalists 对应原文中的 Advocates for the protection Of the natur",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Recent research has shown that even if Americans quit eating meat altogether, the resulting reduction of\ngreenhouse gases in the U.S. would be slight.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "More than half of the world's farmland is suitable only for animals like cows to graze on.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "The allegation that form animals produce the world's largest portion of greenhouse gases is responsible fbr\nmeafs bad reputation.",
+          "answer": "D",
+          "explanation": "42 ． [ 唾亟 〕 “ 农场牲畜是全球温室气体的最大排放源 ” 的说法是肉类背负坏名声的根源园 D 由题干关键词 meat's bad reputation 定位到 D 段第一句。 该句指出， 肉类的负面声誉在很大程度 34 六级 2025 ． 6 第二套上源于一种说法， 即畜牧业是全球最大的温室气体排放源。 题干是对此句的同义转述， 其中 allegation 对应原文中的 assertion， farm animals produee the world， s largest portion of greenhouse gases 对应 livestock is the largest source gases worldwide， is responsible for 对应 centers on 故答案为 D",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+            "sourceText": "42 ． [ 唾亟 〕 “ 农场牲畜是全球温室气体的最大排放源 ” 的说法是肉类背负坏名声的根源园 D 由题干关键词 meat's bad reputation 定位到 D 段第一句。 该句指出， 肉类的负面声誉在很大程度 34 六级 2025 ． 6 第二套上源于一种说法， 即畜牧业是全球最大的温室气体排放源。 题干是对此句的同义转述， 其中 allegation 对应原文中的 assertion， farm animals produee the world，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Raising farm animals makes it easier to meet people's nutritional needs.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "The author doesn't believe giving up meat and meat products will be a cure-all fbr the environmental\nproblem.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Changes in America's farming technology and management in the past decades have increased efficiency and\nreduced greenhouse gas emissions in meat production.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nWhy are we so worried about our careers? Partly ifs to do with money, but there's a psychological aspect to\nour fears as well.\nWe worry because we suspect- not wrongly- that the world is full of a frightening sort of person ready to\njudge us ruthlessly and swiftly: a person we can call a snob.\n\n・2025年6 月六级真题（第二套）・\n\nA snob is anyone who takes a relatively small part of us and uses it to come to a rigid conclusion about how\nmuch of their attention we deserve. In the past, that might be your ancestry and royal connections. Nowadays,\nthe snob cares about one thing only: what you do fbr a living.\nThis explains why the first question we will be asked in any new social context is 'What do you do?' and\naccording to how we answer, snobs will either welcome us with broad smiles, or leave us in the cold.\nAnd that is why we are fired up by such a desperate urge to achieve and impress.\nSometimes our behaviour is mistaken fbr greed and vanity, but it is more than this. A lot of our interest\nin fancy cars, jobs and houses has nothing to do with materialism. It has to do with a hunger fbr the respect\nand esteem that is only available in our societies through the acquisition of material goods. It isn't the goods\nthemselves we seek, it is the love we stand to gain through our possession of them. The next time we see\nsomeone driving a Ferrari, we shouldn't condemn them fbr their greed, we should pity them fbr the intensity of\ntheir need fbr love from the world.\nAt the root of snobbery is a lack of imagination and confidence about how to decide who in the world is\nvaluable. The snobs are brutally misguided and slavish in their beliefs about how the superior individuals can be\nidentified. For snobs, it is the already acclaimed and already successful who are the only ones worthy of respect.\nThere is no room in their timid regimented minds to imagine that someone might be clever, kind or good- and\nyet somehow have been overlooked entirely by society, their qualities lying hidden beneath an unfamiliar veil,\nand having as yet discovered no obvious outlet.\nThe true answer to snobbery is not to say that there is no such thing as a better or worse person, but to insist\nthat better or worse exist in constantly unexpected places and carry none of the outward signs of distinction. And\nbecause we are such poor judges of the worth of others, our ultimate duty remains to be kind, good, curious and\nimaginative about pretty much everyone who ever crosses our path.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What gives rise to our worry about careers apart from money?",
+              "options": {
+                "A": "Fear of being judged in a snobbish manner.",
+                "B": "The prospect of facing fault-finding managers.",
+                "C": "The ruthless way employees are often treated.",
+                "D": "Fright at the difficulty in hunting fbr a job."
+              },
+              "answer": "A",
+              "explanation": "+ 第一段提到， 我们之所以担心自己的职业， 部分原因与金钱有关， 但这种担忧也有心理层面的原因； 第二段具体阐述了心理原因， 即我们怀疑这个世界上有很多势利小人， 他们随时准备无情且迅速地对我们做出评判。 A 项是对原文内容的概括， 故为正确答案。 其他三项原文并未提及， 故均排除",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+                "sourceText": "最终的 · greed 贪婪， 贪心 · vanity ” ． 虚荣， 自负 · materialism n. 物质主义 · esteem n. 尊重， 敬重 · acquisition 获得， 得到 · condemn 谴责， 指责 A) 担心被以势利的方式评判。 B) 面对吹毛求疵的管理者的可能性。 0 员工常常受到的无情对待。 D) 对于求职困难的恐惧定， 根据题干信息词 wo 町 about 和 apart from money 可将答案线索定位至前两段解 + 第一段提到， 我们之所以担心自己的职业， 部分原因与金钱有关， 但这种担忧也有心理层面的原因； 第二段具体阐述了心理原因",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What do we learn from the passage about today's snobs?",
+              "options": {
+                "A": "They try hard to dig into a person's past.",
+                "B": "They draw a rigid conclusion about people.",
+                "C": "They judge a person by their occupation.",
+                "D": "They tend to place people in a social context."
+              },
+              "answer": "C",
+              "explanation": "到什么？ A) 他们竭力挖掘一个人的过去。 B) 他们对人得出刻板的结论 C) 他们通过职业来评判一个人。 D) 他们往往将人置于社会背景中看待。 定 + 根据题干信息词 today ' s snobs 可将答案线索定位至第三段解； 第二段已经介绍过， 势利小人是那些随时准备无情且迅速地对他人做出评判的人， 第三段最后一句话指出， 如今， 势利小人只关心一件事： 你的职业是什么。 由此可知， 如今的势利小人通过职业来评判一个人， 故 c 项正确。 第三段第一句话确实提到， 势利小人会做出刻板结论， 但这是过去和如今的势利小人都会做的事， 题目主要问的是如今的势利小人有什么特点， B 项回答针对性不强， 故排除。 A 项和 D 项的内容原文并未提及， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+                "sourceText": "47 ． 关于如今的势利小人， 从文章中我们了解到什么？ A) 他们竭力挖掘一个人的过去。 B) 他们对人得出刻板的结论 C) 他们通过职业来评判一个人。 D) 他们往往将人置于社会背景中看待。 定 + 根据题干信息词 today ' s snobs 可将答案线索定位至第三段解； 第二段已经介绍过， 势利小人是那些随时准备无情且迅速地对他人做出评判的人， 第三段最后一句话指出， 如今， 势利小人只关心一件事： 你的职业是什么。 由此可知， 如今的势利小人通过职业",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What does the author say about people's interest in material goods?",
+              "options": {
+                "A": "It is the cause fbr condemnation of their greed.",
+                "B": "It has a lot to do with the comforts they provide.",
+                "C": "It arouses pity rather than respect from the wealthy.",
+                "D": "It arises from their craving fbr social recognition."
+              },
+              "answer": "D",
+              "explanation": "+ 由第六段第三句可知， 人们对物质财富的兴趣与他们对尊重和敬重的渴望有关， 也就是说人们希望通过获取物质财富来获得社会的认可， D 项与原文表述相符， 故为正确答案。 原文提到， 当我们看到有人开着法拉利跑车时， 不应该请责他们的贪婪， 这说明作者认为人们对物质财富的兴趣不能作为谴责他们贪婪的原因， A 项说法与原文相悖， 故排除。 B 项内容原文并未提及， 故排除。 文中说的是我们应怜悯开法拉利跑车的人 （即富人）， 而非富人怜悯他人， c 项偷换概念， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+                "sourceText": "48， 关于人们对物质财富的兴趣， 作者说了什么？ A) 这是他们的贪婪遭到谴责的原因。 B) 这与它们提供的舒适感有很大关系。 36 六级 2025， 6 第二響 0 这会唤起富人的怜悯而非尊重。 D) 这源于他们对社会认可的渴望。 定， 根据题干信息词 pe 闸 e ' s interest 和 material goods 可将答案线索定位至第六段解 + 由第六段第三句可知， 人们对物质财富的兴趣与他们对尊重和敬重的渴望有关， 也就是说人们希望通过获取物质财富来获得社会的认可， D 项与原文表述相符， 故为正确答案。 原文提到， 当我们看到有人开",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What kind of people do snobs deem worth respect and esteem?",
+              "options": {
+                "A": "Those with fame and fortune.",
+                "B": "Those with regimented minds.",
+                "C": "Those with intelligence and imagination.",
+                "D": "Those with qualities lying hidden in disguise."
+              },
+              "answer": "A",
+              "explanation": "+ 第七段第三句提到， 对于势利小人来说， 只有已然声名显赫的成功人士才值得尊重。 A 项符合原文描述， 故为正确答案。 B 项 “ 那些思维刻板的人 \" 是势利小人自身的特点， 而非他们尊重的对象， 故排除。 根据原文可知， c 项与 D 项均不是势利小人会尊重的人， 故排除",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+                "sourceText": "49 ． 势利小人认为什么样的人值得尊重和敬重？ A) 那些有名望和财富的人。 B) 那些思维刻板的人。 C) 那些有智慧和想象力的人。 D) 那些品质隐藏在伪装之下的人。 定肀根据题干信息词 w h respect and esteem 可将答案线索定位至第七段解 + 第七段第三句提到， 对于势利小人来说， 只有已然声名显赫的成功人士才值得尊重。 A 项符合原文描述， 故为正确答案。 B 项 “",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What does the author imply we should do to avoid being snobbish?",
+              "options": {
+                "A": "Be aware there has never been such a thing as a better or worse person.",
+                "B": "Be kind to and curious about those who we happen to meet in our lives.",
+                "C": "Realize that better or worse keeps changing in unexpected ways.",
+                "D": "Judge people on the basis of their distinctive character traits. •2 0 2 5年6 月六级真题（第二套）・"
+              },
+              "answer": "B",
+              "explanation": "+ 作者在最后一段提出了如何避免变得势利的方法， 即对每一个出现在我们生活中的人， 保持友好、 善良、 好奇与充满想象力。 B 项表述与原文相符， 故为正确答案。 最后一段第一句话提到， 对抗势利的真正答案并非宣称不存在更好或更坏的人， A 项与原文内容相悖， 故排除。 文中说的是更好或更坏的人总是存在于意想不到的地方， 而非会发生变化， c 项曲解文意， 故排除。 D 项内容原文并未提及， 故排除。 Passage TWO ． · 概览 · 本文揭示了性别薪资差距持续存在的深层原因， 女性生育后因承担更多无偿家务、 职场中断和被排除晋升而薪资落后。 研究表明， 即便消除社会偏见， 女性仍会因生理因素 （如哺乳） 被迫中断工作， 这使得性别平等成为结构性难题， 单靠政策干预难以从根本上解决。 这一现象在全球范围内普遍存在， 大流行病期间推动薪资平等的进展甚至出现倒退。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+                "sourceText": "50， 作者暗示我们应该如何避免变得势利？ A) 要意识到从来就没有所谓更好或更差的人。 B) 对我们在生活中偶然遇到的人保持友善与好奇。 C) 认识到更好或更坏会以意想不到的方式不断变化 D) 根据人们独特的性格特征来评判他们。 定 + 根据题干信息词 imply 和 avoid being snobbish 可将答案线索定位至最后一段解 + 作者在最后一段提出了如何避免变得势利的方法， 即对每一个出现在我们生活中的人， 保持友好、 善良、",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nWomen have historically been paid less. But in the US in the 1980s, they began to catch up—fast. During\nthat decade, the gender pay gap closed by about one percentage point a year. Had that trend continued, the gender\nwage gap would have been closed by 2017.\nBut the trend didn't continue, and the gap remains yawning.\nAccording to a new study from academics at Harvard, the stagnation can be put down, perhaps\ncounterintuitively, to the introduction of state and federal family leave policies.\nThe academics argue that during the 1990s, as governments began to introduce leave policies, it was mainly\nwomen who took advantage of them. Though the leave policies might have helped those women to stay in the\nworkplace- instead of dropping out to have families- those who returned saw their wages had increased at\nlower rates than the men.\nAfter family leave was introduced in the US, in fact, the rate of gender wage convergence fell to just 0.03\npercentage points per year, and has remained there ever since.\nThose monitoring the process towards salary equity at work have long watched as progress slowed in many\ncountries around the world. In fact, that progress began to reverse during the pandemic (大流行病).\nThe gender pay gap is one of the most outstanding examples of that lack of parity (平等)，and still exists\njust about everywhere. The motherhood penalty has become a shorthand fbr describing why: In many places,\nespecially rich countries, women earn the same as men until they reach their childbearing years. Women who\nhave children begin to see their salaries slip behind their male counterparts.\nPart of this is because women take on more of the unpaid labor at home, which can eat into time available\nfbr work and energy fbr career advancement. But ifs also because mothers are passed over fbr raises and\npromotion, and because time out of the workplace sets women back, even if that time is taken voluntarily, and\nsupported by company or government policy.\nWhat would have happened if leave policies hadn't been introduced? The study doesn't go into that question,\nother than to say that if the 1980s trend continued, we would have been at parity by now.\nIt's possible, however, that the journey towards wage parity would have stalled either way. If women5s gains\nin the 1980s were made through the erasure of things like bias, once those less uncontrollable problems had been\naddressed, there would still have been an issue with women- who are the ones to bear children and take care of\nthem in the early weeks because of biological factors like the ability to breastfeed, forcing them to take breaks,\nwhether or not those breaks were mandated.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What do we learn about the gender pay gap in the US during the 1980s?",
+              "options": {
+                "A": "It was being slowly closed.",
+                "B": "It was shrinking rapidly.",
+                "C": "It started to yawn.",
+                "D": "It remained substantial."
+              },
+              "answer": "B",
+              "explanation": "到什么？ · counterpart ” ． 对应的人 （或事物） ． unpaid labor 无偿劳动 ． eatinto 亻受蚀、 ． careeradvancement 职业发展 · setback 阻碍 · uncontrollable adj. 不可控的 · biological factor 生理因素 · breastfeed v. 哺乳 · m da 崮口砌强制性的 · outstanding example 突出例证 ． mo 山 nal 呼母职惩罚 · shoflhandn. 简略表达 · childbeanngyears 生育年龄 A) 它正被缓慢缩小。 B) 它正快速缩小。 C) 它开始扩大。 D) 它仍然显著。 定根据题干信息词 the gender pay gap 和 during the 1980S 可将答案线索定位至第一段。 解 + 第一段明确提到， 在 20 世纪 80 年代的美国， 女性薪资开始快速赶了上来。 在那十年间， 性别薪资差距每年缩小约一个百分点， 并指出如果这一趋势持续下去， 到 2017 年， 性别薪资差距就会消失。 这表明 20 世纪 80 年代差距缩小的速度很快。 选项 B “ 它正快速缩小 \" 准确概括了这一现象， 故为正确答案。 选项 A 与文中描述的快速缩小趋势不符。 选项 c 与事实完全相反， 20 世纪 80 年代是缩小最快的时期。 选项 D 描述的是现状， 而非 20 世纪 80 年代的情况。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+                "sourceText": "tfeed v. 哺乳 · m da 崮口砌强制性的 · outstanding example 突出例证 ． mo 山 nal 呼母职惩罚 · shoflhandn. 简略表达 · childbeanngyears 生育年龄 A) 它正被缓慢缩小。 B) 它正快速缩小。 C) 它开始扩大。 D) 它仍然显著。 定根据题干信息词 the gender pay gap 和 during the 1980S 可将答案线索定位至第一段。 解 + 第一段明确提到， 在 20 世纪 80 年代的美国， 女性薪资开始快速赶了上来。 在那十年间， 性别薪资差距每年缩小约一个百分点， 并指出如果这一趋势持续下去， 到",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What happened with the introduction of state and federal family leave policies?",
+              "options": {
+                "A": "The process towards salary equity at work began to reverse.",
+                "B": "The rate of gender wage convergence started to fall noticeably.",
+                "C": "The trend of women returning to work after childbirth started.",
+                "D": "The narrowing of the gender pay gap attracted more attention."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What partly accounts fbr the slip in women's salaries?",
+              "options": {
+                "A": "The insufficient motivation women generally have fbr career advancement.",
+                "B": "The opportunities numerous women give up fbr pay raise and promotion.  • 2025年6 月六级真题（第二套）・",
+                "C": "The huge amounts of time and energy women spend taking care of the family.",
+                "D": "The lack of policy support from government and business corporations."
+              },
+              "answer": "A",
+              "explanation": "4 倒数第四段提及女性在生育后薪资开始落后于男性的现象， 并在下一段具体说明了原因。 部分原因在于， 女性承担了更多在家庭中所做的无偿劳动， 这挤占了她们用于工作和职业发展的时间和精力。 选项 c 与此相符， 故为正确答案。 选项 A 不正确， 文中未提及女性职业发展动力问题； 选项 B 不正确， 原文是说生育后的女性通常没有加薪和晋升机会， 而非主动放弃； 选项 D 与家庭休假政策相矛盾， 故排除这三项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+                "sourceText": "53 ． 女性薪资下滑的部分原因是什么？ A) 女性普遍缺乏职业发展动力。 B) 多数女性放弃加薪和晋升机会。 38 六级 2025 ． 6 第二套 0 女性投人大量时间和精力照顾家庭。 D) 缺乏政府和企业的政策支持。 定肀根据题干信息词 accounts for 和 slip in women' salaries， 可将答案线索定位至倒数第三、 四段解 4 倒数第四段提及女性在生育后薪资开始落后于男性的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What does the new study say about wage parity?",
+              "options": {
+                "A": "It would have stalled if those controllable problems had not been addressed.",
+                "B": "It would have halted if company and government had not worked together.",
+                "C": "It would have been achieved with the complete erasure of gender biases.",
+                "D": "It would have been attained with the continuation of the 1980s trend."
+              },
+              "answer": "D",
+              "explanation": "决可控问题就会停滞。 B) 若政企不合作就会中止 0 若彻底消除性别偏见即可实现。 D) 若延续 20 世纪 80 年代的趋势本可实现。 定根据题干信息词 new study 和 wage parity， 可将答案线索定位至倒数第二段。 解 + 倒数第二段明确指出， 新研究指出若延续 20 世纪 80 年代的趋势， 如今本可实现薪资平等。 选项 D 准确概括了研究的核心结论， 即如果维持 20 世纪 80 年代的薪资缩小速度， 理论上已经可以实现平等， 故为正确答案。 研究强调的是即使解决可控问题 （如偏见）， 仍存在生理因素导致的不可控问题， 故选项 A 和 c 错误。 文中未提及政企合作因素， 故排除选项 B",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+                "sourceText": "54 ． 这項新研究指出了有关薪资平等的什么信息？ A) 若不解决可控问题就会停滞。 B) 若政企不合作就会中止 0 若彻底消除性别偏见即可实现。 D) 若延续 20 世纪 80 年代的趋势本可实现。 定根据题干信息词 new study 和 wage parity， 可将答案线索定位至倒数第二段。 解 + 倒数第二段明确指出， 新研究指出若延续 20 世纪 80 年代的趋势， 如今本可实现薪资平等。 选项 D 准确概括了研究的核心结论， 即如果维持 20 世纪 80 年代的薪资缩小速度， 理论上已经可以实现平等， 故",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What prevents women from achieving parity with men in the final analysis?",
+              "options": {
+                "A": "Ignoring biases against women in the workplace.",
+                "B": "Giving birth to children and taking care of them.",
+                "C": "Failing to mandate breaks for childbirth and care.",
+                "D": "Lacking resources to address biological problems."
+              },
+              "answer": "B",
+              "explanation": "决生理问题的资源。 定根据题干信息词 prevents women from achieving parity 和 final analysis， 可将答案线索定位至最后一段。 解， 文章最后得出结论， 由于哺乳能力等生理因素， 女性必然要承担生育责任并在产后初期照顾婴儿， 这迫使她们不得不休假， 无论这种休假是否是被强制要求的。 选项 B 指出了女性面临的最根本障碍一一一由生育和抚养子女带来的生理性职业中断， 故为正确答案。 文中指出偏见是可解决的 “ 可控问题 \"， 并非障碍， 故排除选项 A。 选项 c 与文中表述相矛盾， 故排除。 文中强调的是生理因素， 而非资源问题， 故排除选项 D。 Part IV 得天独厚的 exceptional 地理位置 geographic location 完善的 well-developed 交通基础设施 transportation infrastructure 丰富的 abundant 战略地位 strategic importance 充满活力的 dynamic",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-2/key_OCR_2025-06-2.txt",
+                "sourceText": "55 ． 归根结底， 阻碍女性实现与男性平等的是什么？ A) 忽略职场中对女性的偏见。 B) 生育和抚养子女。 C) 未强制休产假和育儿假。 D) 缺乏解决生理问题的资源。 定根据题干信息词 prevents women from achieving parity 和 final analysis， 可将答案线索定位至最后一段。 解， 文章最后得出结论， 由于哺乳能力等生理因素， 女性必然要承担生育责任并在产后初期照顾婴儿， 这迫使",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You\nshould write your answer on Answer Sheet 2.",
+      "source": "粤港澳大湾区( Guangdong-Hong Kong-Macao Greater Bay Area) 具有得天独厚的地理位置，拥有完善的交通基础设施和丰富的产业资源。大湾区是中国开放程度最高、经济活力最强的区域之一，在国家经济发展中具有重要的战略地位。大湾区不仅将建成充满活力的世界级城市群和具有全球影响力的国际科技创新中心，还将打造成适合工作、购物、旅游的优质生活圈。随着改革开放的不断深入，大湾区的建设将进一步推动区域经济发展。到2035年，大湾区将实现成为国际一流湾区的目标。・2025年6 月六级真题(第二套)・",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

@@ -11,8 +11,8 @@
       "type": "writing",
       "title": "Part I Writing",
       "minutes": 30,
-      "directions": "For this p a rt, you are allowed 30 minutes to write an essay that begins with the sentence \"It is now widely accepted that mutual trust and openness is the key to promoting cooperation.\" You can make comments,cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words",
-      "prompt": "It is now widely accepted that mutual trust and openness is the key to promoting cooperation."
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “It is now widely accepted that mutual trust and openness is the key to promoting cooperation.w You can make comments,cite examples, or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "prompt": ""
     },
     {
       "id": "listening",
@@ -20,19 +20,6 @@
       "title": "Part II Listening Comprehension",
       "minutes": 30,
       "questions": [
-        {
-          "id": "q1",
-          "number": 1,
-          "stem": "",
-          "options": {
-            "A": "It enables people to earn more money.",
-            "B": "It teaches the importance of financing",
-            "C": "It helps people with budgeting.",
-            "D": "It introduces a novel way to invest."
-          },
-          "answer": null,
-          "explanation": ""
-        },
         {
           "id": "q2",
           "number": 2,
@@ -43,8 +30,17 @@
             "C": "Most Americans do not know how to save money.",
             "D": "Most Americans do not stick to a budget."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "the pigeons' nesting territory 为主语中心词 Jarge______ of 为限定成分，空格词应为名词。 【锁定答案】空格句指出，此外，鸽子巢区的庞大 （大的鸽子巢区）被清理出来，用于（for）种植庄稼和开辟牧场。由 fo r 可知，“清理鸽子巢区的庞大 （大的鸽子巢区）”的目的是为农作物和牲畜留出空地，以发展农业和畜牧业，可见, large of the pigeons5 nesting territory 应指向“鸽子巢区所占据的大面积土地“，tract 可表示“大片土地；地带”，符合文意，C 项正确。 【排除干扰】G） plazas 也表示“露天空地”，有一定干扰性，但该词实指 an open square in a city\"城市中的空地；露天广场“，并不合文意。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "2 . 文章讨论了哪种让人费解的现象？ A）差劲的人可能会做好事。 C）优秀的人可能不会每次都愿意合作。 B）差劲的人可能会不受惩罚。 D）优秀的人可能会受到不公正的对待。 16 ［答案精析］D。II 段①句提到 This seems baffling, 其中 This 回指 I 段末句所介绍的现象“有时优秀的人也会被惩罚或批评，因为他们太优秀了 “。换言之，优秀的人也会受到不公正的对待, 这点令人费解；D 项是对该信息的正确概括。A 项将 I 段出现的 bad guys 及 W 段提到的 good de",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q3",
@@ -56,8 +52,17 @@
             "C": "Find more sources of income.",
             "D": "Refrain from buying luxuries."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "A) Keep track of his money.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "A) Keep track of his money.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q4",
@@ -69,8 +74,17 @@
             "C": "It changes one's way of living.",
             "D": "It saves one's time for shopping."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "］B o 第 1 0 段女士给出具体建议时提到“选择网购，以免受到不必要的诱惑”，B 项契合该信息， 故正确。A 项由细节信息 unnecessary temptations 和 chocolate 捏造而来，如果考生漏听了 avoid, 可能会得出与原文恰好相反的“网上购物能够提供更广泛的购物选择，包括像巧克力这样的非必需品 C 项利用 makesomechanges 干扰，但此处是女士建议男士“改变自己的消费习惯”，并非网上购物能够“改变人们的生活方式”。D 项利用对话末尾的 part-time 和常识捏造干扰，但 part-time job 指\"兼职工作”，与购物时间无关。 舂四、全文翻译男：欢迎收看《钱很重要》，一档帮助你理财的周播节目。今晚，我将与玛丽• 约翰逊探讨制定预算的话题。 女:大家好。 男：钱有一种魔力。当你不去制定消费计划、不去跟踪和记录它的去向，它就会凭空消失。我们可以采取哪些措施来防止这种现象发生呢？ 女：嗯，这一切都关乎跟踪钱财的去向。如果你不这样做，你将永远无法设定任何目标预算，也无法自觉地执行预算。 男：这说起来容易，做起来难。我最近读到，只有 4 1 % 的美国人严格执行预算。 女：是的，但了解你的收入和支出可以让你确信自己从一开始就不会负债。你可以把你所有的收入来源加起来，都写在一张纸上。然后在同一张纸上写下你每月的所有开支。 男：我总是惊讶于我的支出加起来怎么那么多，但确定每一项收入或支出确实有助于我更好地了解我的所有花销。 女：对，大多数人都不清楚自己每天花了多少钱，更不用说每周或每月的花销了，不管他们在花钱的时候看起来多么谨慎。接下来，用收入减去你每月的支出。如果结果是正数，那就说明你量入为出。如果结果是负 6 数，那你就必须得削减开支了。 男：我经常都是负数。我实在禁不住那些名贵商品的诱惑。 女：好吧，这算不上灭顶之灾，不过你确实得有所改变。试着减少购买那些非必需品，卖掉一些阁楼上的（闲置）物品，或者选择网购，以免受到像巧克力这样的不必要的诱惑。如果这些都做不到，你总可以给自己找一份兼职工作嘛。 Con",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "a y 语调上扬, online shopping 先升后降，重音落在 shopping 上，提示本题询问“有关网购女士说了什么申三、试题精解 ［设题要点］开篇信息介绍处（a weekly program th a t. . .） ［答案精析］C o 男士在对话开头提到，本期节目聚焦“制定预算（budgeting）”，C 项契合该信息，故正确。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q5",
@@ -82,8 +96,17 @@
             "C": "It belongs to her mother.",
             "D": "It has been vacant for months."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "］Co C 项契合第 2 段女士所述“这儿其实是我母亲的房子”，故正确。A 项 b ran d -n ew 源自第 4 段女士对公寓内设备的进一步介绍，并非指公寓本身是全新的，且第 2 段女士用 old p lac e 形容该公寓，也说明公寓之老旧。B 项利用第 3 段男士之言“公寓面积很大，空间很宽敞”干扰，但选项中 ro oms 为可数名词的复数形式，表示“房间”，表“空间”时为不可数名词，且“房间很多”在对话中没有体现。D 项利用第 2 段女士所言“我们打算将这套老公寓租出去”及第 8 段碎片信息 mon th 主观臆断出“公寓已经闲置数月 ［设题要点］男士发问处（Now, the big question. . .） o ［答案精析］B o 第 5 段男士主动询问女士周围是否吵闹，并表示这个问题很重要（big question）, 女士回",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "A) It is brand-new. B) It has plenty of rooms. C) It belongs to her mother. D) It has been vacant for months.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q6",
@@ -95,21 +118,17 @@
             "C": "Appliances.",
             "D": "Location."
           },
-          "answer": null,
-          "explanation": ""
-        },
-        {
-          "id": "q7",
-          "number": 7,
-          "stem": "",
-          "options": {
-            "A": "Talk to his wife about the contract terms.",
-            "B": "Pay the first month's rent and a deposit.",
-            "C": "Check the references of the flat owner.",
-            "D": "Consult his solicitor one more time."
-          },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "男士找房时的首要考量因素是什么？ A）空间大小。 C）设备。 B）环境安静。 D）地点。 9 答“周围很安静”后，男士非常满意，并补充道“自己当前的住处邻居很吵闹，已不堪其扰”。综合可知，男士找房时首要考虑的是安静，B 项正确。A 项干扰源自第 3 段男士称赞公寓“空间很宽敞”，C 项干扰源自第 4 段女士话语中的关键词 appliances 以及第 5 段男士称赞“衣橱空间大”，D 项干扰源自第 7 段男士抱怨自己现在的住处通勤不方便，但这三项均非男士首要考量的因素。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "A) Space. B) Tranquility. C) Appliances. D) Location.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q8",
@@ -121,18 +140,62 @@
             "C": "She can make friends with new neighbours.",
             "D": "She will have plenty of space for her shoes."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "］DoD 项契合对话末尾男士所述“我妻子会很高兴搬离我们现在住的破地方，马上就会开始把她所有的鞋子都塞满衣柜”，故正确。A 项由第 6 段女士所言“从公寓背面可以看到池塘”捏造而来，对话中女士提及“池塘”只是为了说明公寓环境安静。B 项利用第 7 段男士所言“家里唯一的一辆车只能由上夜班的妻子来开”主观臆断出“在阿伯丁的公寓距离妻子的工作地点较远”，进而捏造出“新公寓将会使妻子离工作地点更近”，对话中并未提及新公寓与男士妻子工作地点的距离。C 项利用对话中多次出现的关键词 ne 运 hbours 设置干扰，对话并未提及“妻子打算与新邻居交朋友”。 祥㈣、全文翻译男：您好，我是来看房子的。我叫马克•亚当斯。我们周三在电话里沟通过。 女：嗨，马克，请上来吧。我给您开（楼下的）大门。二楼右侧绿色的门（就是我家）。很高兴见到您。我和您的推荐人都交谈过了，他们对您的反馈很不错。那么，让我带您参观一下吧。这儿实际上是我母亲的房子， 但她的健康状况不佳，所以我们最终成功说服她搬来和我们一起住，并把这套老房子租出去。 男：这儿面积很大，空间很宽敞，用处挺多。我认为这对我们来说是好事。 女：是的，所有的设备都是全新的。厨房旁边的杂物间里还有一台洗衣机和一台滚筒烘干机。 男：衣橱的空间也很大，太好了。我妻子的鞋子多到离谱。现在问个重要的问题：周围吵吗？邻居们怎么样？ 女：嗯，周围住的都是老年人，没有吵闹的孩子。从公寓背后还能看到一个清澈、平静的池塘，所以如果您想要安静，那这里再适合不过了。 男：这是个好消息。我们一直住在阿伯丁的一个不太起眼的地方，日夜被聒噪的邻居烦扰。通勤也是一场噩梦，因为我们只有一辆车，而我妻子在医院上晚班，所以只能给她用。 女：好的，如果您喜欢这里，等我和律师把租房合同起草完之后，您就可以租下它了。在签订合同时必须支付第一个月的租金以及押金。之后我们可以商定您每个月支付租金的最佳日期。 男：我们非常高兴成为您的新房客。非常感谢。我妻子会很高兴搬离我们现在住的破地方，并且马上就会开始把她所有的鞋子都塞满衣柜。 Section B Passage One",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "8 . 为什么男士说他的妻子会对搬进新公寓感到十分激动？ A）她可以欣赏绝佳的池塘景观。 C）她可以与新邻居交朋友。 B）她将会离工作地点更近。 D）她将有充足的空间放置自己的鞋子。 ［设题要点］信息补充处（M y wife will be thrilled to. . . and start filling. . .） o ［答案精析］DoD 项契合对话末尾男士所述“我妻子会很高兴搬离我们现在住的破地方，马上就会开始把她所有的鞋子都塞满衣柜”，故正确。A 项由第 6 段女士所言“从公寓背面可以看到",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q9",
           "number": 9,
           "stem": "",
           "options": {
-            "A": "The more commercials they see, the more brands they get to know",
-            "B": "The more commercials they see, the more they adore celebrities",
-            "C": "The more television they watch, the fewer conflicts in the family",
-            "D": "The more television they watch, the greater their parents' stress"
+            "A": "The more commercials they see, the more brands they get to know.",
+            "B": "The more commercials they see, the more they adore celebrities.",
+            "C": "The more television they watch, the fewer conflicts in the family.",
+            "D": "The more television they watch, the greater their parents' stress."
+          },
+          "answer": "D",
+          "explanation": "的品牌就越多。 C）他们看电视越多，家庭冲突就越少。 B）他们看的广告越多，就越崇拜名人。 D）他们看电视越多，家长的压力就越大。 ［设题要点］开篇兼新信息引出处（Anew study has found. . .） o ［答案精析］D o 录音开头指出“孩子看电视的时间和家长的压力水平呈正相关”，随后展开原因分析，并在 I 段末归纳孩子看电视时间长的结果“使家长的整体压力水平升高”。D 项契合此部分内容，故正确。A 项将录音所述 “孩子看的广告越多”造成的后果由“越想购买相应商品（items）”窜改为“了解的品牌（brands）越多 B 项干扰源自 IV 段 celebrity endorsements to appeal to children, 此处仅为举例说明广告商吸引孩子的策略，录音并未提及收看广告的数量和崇拜名人的程度之间的关联。C 项与 I 段中的 This could generate conflict 相悖。 1 0 . 建议家长如何减少电视广告的影响？ A）告知孩子家庭的经济状况。 C）让孩子参与购买决策。 B）把孩子的注意力转移到趣味活动上。 D）帮助孩子理解广告的意图。 ［设题要点］建议提出处（The researchers suggest that. . .） o ［答案精析］C o Ill 段先概述研究人员的建议“在家庭购买决策方面，家长应寻求孩子的意见”，随后举例说明具体做法“告诉孩子自己愿意听孩子对某些产品或品牌的建议”。C 项是对此部分内容的合理概括，故正确。A 项将家长应告知孩子的内容由“愿意听孩子的建议”窜改为符合常识的“家庭经济状况”，录音并未提及此信息。B 项由 11 段④句 shut off the T V 并结合常识过度推断而来, 录音并未提及此信息。D 项干扰源自 IV 段④句 children don't have the cognitive ability to fully understand advertising, s intent, 但此部分为客观阐述孩子易受广告影响的原因，并未提及家长应在这一方面有所",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "9 . 关于孩子看电视，这项新研究有什么发现？ A）他们看的广告越多，了解的品牌就越多。 C）他们看电视越多，家庭冲突就越少。 B）他们看的广告越多，就越崇拜名人。 D）他们看电视越多，家长的压力就越大。 ［设题要点］开篇兼新信息引出处（Anew study has found. . .） o ［答案精析］D o 录音开头指出“孩子看电视的时间和家长的压力水平呈正相关”，随后展开原因分析，并在 I 段末归纳孩子看电视时间长的结果“使家长的整体压力水平升高”。D 项契合此部分内容，故正确。A 项将录音所述 “孩子看的广",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "Inform children of the family's financial situation.",
+            "B": "Shift children's attention to interesting activities.",
+            "C": "Involve children in making purchasing decisions.",
+            "D": "Help children understand advertising's intent."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Their limited cognitive ability.",
+            "B": "Their strong natural curiosity.",
+            "C": "Their admiration for celebrities.",
+            "D": "Their lack of social experience."
           },
           "answer": null,
           "explanation": ""
@@ -143,25 +206,56 @@
           "stem": "",
           "options": {
             "A": "Being dismissed as hypocritical.",
-            "B": "Not getting the reward they deserve",
+            "B": "Not getting the reward they deserve.",
             "C": "Good guys may not always cooperate.",
             "D": "Good guys may get unfair treatment."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "”均指向主体未得到公正的对待。结合 12、1 4 题选项内容，推测主体为做好事的优秀的人。故推测题目询问优秀的人可能会遭遇什么不好的对待。 ［看选项复现词预测主题］选项中的复现词可分为三类。Bad guys、Good guys 指向“优秀的人和差劲的人“；what we do fa ir evaluation、comparison with othersaccordance with set standards 才旨向''评判人的标准”； L earn, C om pete、Leave, C ooperate, dism issed as hypocritical m isunderstood 等指向''如何对待优秀的人”。结合各题预测信息，可推测文章以“好人好事”为中心，讲述了好坏的判断标准及如何与优秀的人相处等。 将二、录音分析 I Everyone is supposed to cheer for good guys, and we should only punish the bad guys. But th at's not what we always do. M ost of the tim e, we do indeed reward good people. We also often punish people who harm others ? or who aren't good team players. 回 But sometimes ? the good guys also get punished or criticized? specifically because they are so good. 介绍看似反常识的现象：优秀的人会因为太优秀而受到惩罚或批评。话语标记词：Everyone is supposed. . . But 14 that's not. . . Most of the time. . . W e also often. . . But sometimes. . . o 核&'语义词：the good guys also ge",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "mes? the good guys. . . This seems baffling) o 1 2 . 文章讨论了哪种让人费解的现象？ A）差劲的人可能会做好事。 C）优秀的人可能不会每次都愿意合作。 B）差劲的人可能会不受惩罚。 D）优秀的人可能会受到不公正的对待。 16 ［答案精析］D。II 段①句提到 This seems baffling, 其中 This 回指 I 段末句所介绍的现象“有时优秀的人也会被惩罚或批评，因为他们太优秀了 “。换言之，优秀的人也会受到不公正的对待, 这点令人费解；D 项是对该信息的正确概括。A 项将 I 段出现的 bad guys 及 W 段提到的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q16",
           "number": 16,
           "stem": "",
           "options": {
-            "A": "They are increasingly aware of gender differences",
+            "A": "They are increasingly aware of gender differences.",
             "B": "They engage themselves in positive recollection.",
-            "C": "They begin to see the importance of friendship",
+            "C": "They begin to see the importance of friendship.",
             "D": "They make friends with peers of the same sex."
           },
           "answer": null,
           "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "Competing for position.",
+            "B": "Forging close ties with friends.",
+            "C": "Pursuing fashion.",
+            "D": "Fulfilling family obligations."
+          },
+          "answer": "A",
+          "explanation": "A) Competing for position. B) Forging close ties with friends. C) Pursuing fashion. D) Fulfilling family obligations.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "A) Competing for position. B) Forging close ties with friends. C) Pursuing fashion. D) Fulfilling family obligations.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q18",
@@ -169,12 +263,21 @@
           "stem": "",
           "options": {
             "A": "They prioritize romance over friendship.",
-            "B": "They try to strengthen same-sex friendships",
-            "C": "Forging close ties with friends.",
-            "D": "Fulfilling family obligations"
+            "B": "They try to strengthen same-sex friendships.",
+            "C": "They begin to take friendship more seriously.",
+            "D": "They compete intensely for romantic partners."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "I In America? most researchers concede that boys and girls are brought up in different ways, taught different skills and rewarded for different acts. Women, it is agreed, excel at certain task s, men at others. T here's little argum ent that some personality traits appear more dominant in one sex than in the other. All of this notwithstanding, gender differences are very much in the media these days. Since the rise of the wom en's m ovem ent, gender-role behavior has come under closer scrutiny. How has this affected friendship? How do the sexes differ in their friendship relations? 指出一项学界公认的事实“男孩与女孩之间的性别差异是真实存在的”，引出中心话题“性别差异在交友上有何表现”。话语标记词：In America? most researchers concede that. . . Women, it is agreed. . . T here's little argum ent that. . . All of this notwithstanding. . . Since the rise of the wom en's movement. . . How has this affected. . . How do the sexes differ in",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "各项主语均为 They, 且 A、B、C 项指向他们对待友谊的态度，而 D 项指向他们对待恋爱的态度，推测试题询问某群体对待友谊或恋爱的态度。 ［看选项复现词预测主题］选项中的复现词大致分为三类：一、与性别相关，如 gender differencesA the same sex、same-sex 等；二、与友谊/交友相关，如 friendship（s）、make friends with^",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q19",
@@ -194,9 +297,9 @@
           "number": 20,
           "stem": "",
           "options": {
-            "A": "After receiving a job offer",
+            "A": "After receiving a job offer.",
             "B": "During a job interview.",
-            "C": "When con伍ming an interview.",
+            "C": "When confirming an interview.",
             "D": "Upon completing a cover letter."
           },
           "answer": null,
@@ -210,17 +313,26 @@
             "A": "Describe the true state of their health.",
             "B": "Provide all the information required.",
             "C": "Stress the irrelevance of their disability to the job.",
-            "D": "A void mentioning the name of their dis ab血y"
+            "D": "Avoid mentioning the name of their disability."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "［设题要点］因果关系处（A s such, many candidates fear they wouldn't be considered for a position. . .） o ［答案精析］Bo n 段首句指出，许多求职者担心自己一旦透露了残疾这一个人信息，就会遭到拒绝，B 项契合该信息。A 项结合 H 段首句中 this personal information 及惯常认知捏造，原文未提及残疾人将自己的情况视作隐私。C、D 两项结合首段④句关键词 discrimination 及末句“残疾人不能确定雇主会如何看待他们的残疾”捏造出“雇主将在雇用残疾人后做出对残疾人不利的行为”，两项均为对原文信息的过度解读。 1 9 . 为什么残疾的求职者不愿透露自己的残疾情况？ A）他们将其完全看作隐私。 C）他们害怕自己的疾病被广而告之。 B）他们担心遭到拒绝。 D）他们害怕被雇用后遭到歧视。 ［设题要点］建议处（It's most appropriate. . . when they reply to confirm an interview） o ［答案精析］C。Hl 段首句指出“说明自身残疾的最佳时机是在回复确定参加面试的时候”，C 项正确。A、 B、D 三项结合 HI 段①②句的 an interview、cover letter 等碎片信息及惯常认知推断而来，与原文不符。 2 0 . 演讲人建议求职者什么时候透露自己的残疾情况？ A）在得到工作机会之后。 C）在确认参加面试时。 B）在求职面试时。 D）在写求职信时。 2 1 . 人们被建议如何填写职位申请表？ A）真实描述其健康状况。 C）强调他们的残疾不会影响工作。 B）提供所有所需信息。 D）避免提及其残疾的名称。 ［设题要点 1 建议处（People should avoid sharing the name of their disability or condition） o ［答案精析］DoW 段①句指出公司有时会提供职位申请表，表中有要求填写自身的残疾情况，",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "答案精析］Bo n 段首句指出，许多求职者担心自己一旦透露了残疾这一个人信息，就会遭到拒绝，B 项契合该信息。A 项结合 H 段首句中 this personal information 及惯常认知捏造，原文未提及残疾人将自己的情况视作隐私。C、D 两项结合首段④句关键词 discrimination 及末句“残疾人不能确定雇主会如何看待他们的残疾”捏造出“雇主将在雇用残疾人后做出对残疾人不利的行为”，两项均为对原文信息的过度解读。 1 9 . 为什么残疾的求职者不愿透露自己的残疾情况？ A）他们将其完全看作隐私。 C）他们害怕自己的疾病被广而告之。 B）他们担心遭到拒绝。 D）他们害怕被",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q22",
           "number": 22,
           "stem": "",
           "options": {
-            "A": "Their scores were least affected by music with speech",
+            "A": "Their scores were least affected by music with speech.",
             "B": "It was the poorest when there was background speech.",
             "C": "Their scores were most depressed with instrumental music.",
             "D": "It was disrupted by the sound of an air conditioner or fan."
@@ -233,10 +345,10 @@
           "number": 23,
           "stem": "",
           "options": {
-            "A": "It has to do with the type and volume of the background noise",
+            "A": "It has to do with the type and volume of the background noise.",
             "B": "It has to do with short-term memory for listening comprehension.",
             "C": "It depends on the overlap in processing different kinds of information.",
-            "D": "It depends on the participants5 ability to concentrate on the task at hand."
+            "D": "It depends on the participants? ability to concentrate on the task at hand."
           },
           "answer": null,
           "explanation": ""
@@ -246,10 +358,10 @@
           "number": 24,
           "stem": "",
           "options": {
-            "A": "Keep everything as quiet as possible",
+            "A": "Keep everything as quiet as possible.",
             "B": "Play nothing but instrumental music.",
             "C": "Use vocal material as little as possible.",
-            "D": "Wear a pair of earphones or headphones"
+            "D": "Wear a pair of earphones or headphones."
           },
           "answer": null,
           "explanation": ""
@@ -261,11 +373,557 @@
           "options": {
             "A": "Sociable people were immune to all distractions.",
             "B": "Shy quiet people were most adversely impacted.",
-            "C": "Less outgoing people were more affected by silence",
-            "D": "Confident people were unaffected by high-arousal music"
+            "C": "Less outgoing people were more affected by silence.",
+            "D": "Confident people were unaffected by high-arousal music."
           },
+          "answer": "C",
+          "explanation": "I Smartphones distract attention and reduce learning because of their potential to offer activities more inviting than study. But what about background sound alone? 引出主题：背景音是否会分散注意力？话语标记词：Smartphones. . . because of. . . But. . . o 核心语义词： distract attention reduce learnings offer activities more inviting than study background sound o ①句说明智能手机对注意力的负面影响。Smartphones 后停顿，明确讨论对象“智能手机”。distract attention and reduce learning 语调先升后降，指出智能手机的两项危害“分散注意力，降低学习效率”，随后 because of 引出原因阐释, inviting（意为“诱人的；吸引人的”）重读，提示原因的核心所在“提供有吸引力的活动”。 ②句转而引出主题“只有背景音会如何？\"But 提示转折，background sound 重读后略作停顿，明确新的关注对象“背景音\"。alone 重读，补充强调条件“（没有智能手机的其他功能）只有背景音的情况下”。 H A group of American researchers compared students' comprehension of verbal material when reading in the presence of background speech? instrumental music or general noise. General noise is neutral, such as that from the sound of an air conditioner or fan. ® S",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "各项主语为不同性格特征的人（Sociable、Shy quiet、Less outgoingConfident）, 表语/谓语部分则描述这些人受（声音）影响/干扰的程度，推测题目询问不同性格特征的人对（声音）影响/干扰的反应。 ［看选项复现词预测主题］选项复现词主要分为两类：一、“声音”相关表达，如 music with speech、 background speech>instrumental musicsound of an",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one\nword for each blank from a list of choices given in a word bank following the passage. Read the\npassage through carefully before making your choices, Each choice in the bank is identified by\na letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single\nline through the centre. You may not use any of the words in the bank more than once.\n\nThe now extinct passenger pigeon has the dubious honor of being the last species\nanyone ever expected to disappear. At one point, there were more passenger pigeons than\nany other species of bird. Rough \n\nof their population went as high as five billion\nand they accounted for around 40 percent of the total indigenous bird population of North\nAmerica in the early 19th century.\nDespite their huge population, passenger pigeons were \n\nto human intrusion\ninto their nesting territory. Their nests were shabby things and two weeks after the eggs\n\nthe parent pigeons would abandon their offspring, leaving them to take care of\nthemselves. People discovered that these baby pigeons were really tasty, and the adult birds\nwere also quite \n\n. First the Native Americans and then the transplanted Europeans\ncame to consider the birds a great \n\n.\nBy the 1850s, commercial trapping of passenger pigeons was proceeding at an \n\npace. Hundreds of thousands of the birds were being harvested every day to be made into\npopular pigeon pies. In addition, large \n\nof the pigeons' nesting territory were being\ncleared away for planting crops and creating pasture land. As numerous as the passenger\npigeons were, they were not an \n\nresource. By the 1880s, it was noticed that the bird\npopulation had become seriously \n\n. The last passenger pigeons killed in the wild\nwere shot in 1899.\nEventually those billions and billions of birds shrank to a single remaining \n\na\npassenger pigeon named Martha, who died on September 1,1914, in captivity at the\nCincinnati Zoo. In addition to being the end of an era, it was also the first time humans\nwere able to exactly time the extinction of a species.",
+      "wordBank": {
+        "A": "vulnerable",
+        "I": "hatched",
+        "B": "unprecedented",
+        "J": "expired",
+        "C": "tracts",
+        "K": "excerpts",
+        "D": "specimen",
+        "L": "estimates",
+        "E": "robust",
+        "M": "edible",
+        "F": "refuge",
+        "N": "depleted",
+        "G": "plazas",
+        "O": "delicacy",
+        "H": "infinite"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": "L",
+          "explanation": "26 . 答案：L） estimates 【确定词性】空格词位于首段③句的分句 1 中（and 之前部分）。分句 1 的结构为“主语（Rough of their population） + 谓语（we n t） + 状语（as high as five billion）, , o 空格词作主语中心词，应为名词或动名词。 注：g。as high as. ・・为常见用法，意为“（程度、数额）高达… …”，g o 取“达到特定程度”之义。 【锁定答案】空格句指出，对旅鸽数量的粗略高达 5 0 亿只，它们约占北美本土鸟类总数的 4 0 %。 由 as high as five billion accounted for around 40 percent 可知，“高达 5 0 亿只”是对旅鸽数量的粗略估计/计算，空格词应表示“估计/估算/计算”，L 项正确。 【点拨技巧】梳理第一段三句可知其间逻辑：先指出已灭绝的旅鸽曾是人们预计最不可能灭绝的物种一随后指出历史上旅鸽的数量曾高居所有鸟类之首— 最后具体说明历史上旅鸽曾经达到的庞大规模。由此也可推断 Rough of their population 应指向“对旅鸽历史繁盛时期数量的大致估计”。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "26 . 答案：L） estimates 【确定词性】空格词位于首段③句的分句 1 中（and 之前部分）。分句 1 的结构为“主语（Rough of their population） + 谓语（we n t） + 状语（as high as five billion）, , o 空格词作主语中心词，应为名词或动名词。 注：g。as high as. ・・为常见用法，意",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": "A",
+          "explanation": "答案：A） vulnerable 【确定词性】空格词位于第二段首句的主干中（were 之后，介词短语 to human intrusion 之前）。空格词有三种可能：1. were 为系动词，空格词为形容词或名词，构成系表结构；2. were 为助动词，空格词为-e d 分词，构成被动语态；3. were 为助动词，空格词为-in g 分词，构成过去进行时。 【锁定答案】空格句指出，尽管其数量庞大，旅鸽人类入侵他们的巢区。D6spit6 表明句子主干应与状语“旅鸽数量庞大”形成语义反差；联系首段 Thenow extinct passenger pigeon vs the last species anyone ever expected to disappear 的对比可知，空格句应意在强调：旅鸽虽然数量庞大，但在生态上非常脆弱（故而灭绝）。空格词应体现旅鸽的“脆弱性/易受伤害性”，A 项正确。 【排除干扰】E） robust 符合词性要求（形容词）、搭配要求（能与 t o 搭配），且似乎与上下文语义一致（与 huge population 等一起体现旅鸽物种的安全/难以灭绝），因此有较强干扰。但可从两个角度予以排除：填入文中，既无法构成句内的前后转折（D6spit6）, 又与下句指出的旅鸽巢窝简陋（shabby）相矛盾。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "答案：A） vulnerable 【确定词性】空格词位于第二段首句的主干中（were 之后，介词短语 to human intrusion 之前）。空格词有三种可能：1. were 为系动词，空格词为形容词或名词，构成系表结构；2. were 为助动词，空格词为-e d 分词，构成被动语态；3. were 为助动词，空格词为-in",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": "I",
+          "explanation": "28 . 答案：I） hatched 【确定词性】空格词位于第二段②句分句 2 中的时间状语内，其结构为“名词短语（two weeks）+ 介词 （after） + 宾语从句：主语（eggs）+ 谓语（）”。联系分句 1 和分句 2 的时态（wer e、would abandon）可知， 空格词应为动词过去式。 【锁定答案】空格句指出，它们的巢窝很简陋，并且在蛋两周后，旅鸽父母就会抛弃幼崽，让他们自食其力。由 two weeks after 所表达的时间关联可知，“蛋 ”应体现“幼鸽诞生”，空格词应表示“（蛋）孵化/破壳”等，1 项正确。 29 . 答案：M） edible 【确定词性】空格词位于第二段③句的宾语从句中。从句的内部结构为“引导词（that） + 主语 1（these baby pigeons） + 系表结构 l（w6r6 really tasty）+ and + 主语 2 （the adult birds） + 系表结构 2 （w6r6 also quite）”，空格词为表语 2 的核心词，受副词 quite 修饰，应为形容词、-ing 分词或-ed 分词。 【锁定答案】空格句指出，人类发现这些幼鸽非常美味，并且成年鸽子也（also）非常______ o 借由 also 传递的同向并列逻辑可知，空格词应与 tasty 指向相同，表示“美味的/可食用的“，M 项正确「",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "28 . 答案：I） hatched 【确定词性】空格词位于第二段②句分句 2 中的时间状语内，其结构为“名词短语（two weeks）+ 介词 （after） + 宾语从句：主语（eggs）+ 谓语（）”。联系分句 1 和分句 2 的时态（wer e、would abandon）可知， 空格词应为动词过去式。 【锁定答案】空格句指出，它们的巢窝很简陋，并且在蛋两周后，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q29",
+          "number": 29,
           "answer": null,
           "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": "O",
+          "explanation": "。 31 I ❶By the 1850s, commercial trapping① of passenger pigeons was proceeding at an 31 pace. @ Hundreds of thousands of the birds were being harvested every day to be made into popular pigeon pies. © In addition, large 32 of the pigeons5 nesting territory were being cleared away® for planting crops and creating pasture2 land. 0 As numerous as the passenger pigeons were? they were not an 33 resource. ❺By the 1880s, it was noticed that the bird population had become seriously",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "30 . 答案：O） delicacy 【确定词性】空格词所在句谓语部分为 came to do sth 形式，不定式短语内部为“不定式（to consider） + 宾语（the birds） + 宾补（a great _______）”结构，即 to consider sb s th 结构，空格词应为单数名词。 【锁定答案】空格句指出，最初至美洲原住民，然后是欧洲移民者，开",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": "B",
+          "explanation": "答案：B） unprecedented 【确定词性】空格词前为不定冠词 an, 后为名词 pace, 可推知空格词为 pace 的修饰限定成分，可能为形容词、名词、-e d 分词或-in g 分词。 【锁定答案】空格句指出，到了 19 世纪 5 0 年代，商业捕捉旅鸽正以________ 速度进行。下句继而指出，每天都有数十万只旅鸽被捕获做成鸽子派。可见，以上两句是在顺承上直采女布开始把旅鸽视为一种美味佳肴”，指出“ 19 世纪 5 0 年代旅鸽遭到过度捕杀”，空格词应体现速度之快/程度之大，unpriced6nt6d 表示“前所未有的；空前的“，符合文意，B 项正确。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "答案：B） unprecedented 【确定词性】空格词前为不定冠词 an, 后为名词 pace, 可推知空格词为 pace 的修饰限定成分，可能为形容词、名词、-e d 分词或-in g 分词。 【锁定答案】空格句指出，到了 19 世纪 5 0 年代，商业捕捉旅鸽正以________ 速度进行。下句继而指出，每天都有数十万只旅鸽被捕获做成鸽子派。可见，以上两句是在顺承上",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": "C",
+          "explanation": "答案:C） tracts 【确定词性】空格词位于第三段③句的主语 large of the pigeons' nesting territory 中。有两种可能：1 . 空格词为主语中心词，受到 large、of the pigeons' nesting territory 的共同修饰，可能为名词或动名词；",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "答案:C） tracts 【确定词性】空格词位于第三段③句的主语 large of the pigeons' nesting territory 中。有两种可能：1 . 空格词为主语中心词，受到 large、of the pigeons' nesting territory 的共同修饰，可能为名词或动名词；",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": "H",
+          "explanation": "33 . 答案：H） infinite 【确定词性】空格词所在句为主从复合句。从句的内部结构为“表语（As numerous） + 引导词（as） + 主语 （the passenger pigeons） + 系动词（were）” ; 其中第一个 A s 为副词，修饰 numerous;第二个 a s 为连词，表示“尽管；虽然“，引导让步状语从句（倒装）。主句为主系表结构，空格词前为不定冠词 an, 后为名词 resource, 可推知空格词为 resource 的修饰限定成分，可能为形容词、名词、-ed 分词或-in g 分词。 【锁定答案】空格句指出，尽管旅鸽数量众多，但它们并非资源。联系 a s 传递的让步转折逻辑以及上文内容“旅鸽最初数量庞大，但后来人们对其大肆捕杀（该物种最终灭绝）”可知，空格所在主句应意在体现旅鸽的有限性：虽然数量众多，但并非无穷无尽/随时再生，H 项正确。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "33 . 答案：H） infinite 【确定词性】空格词所在句为主从复合句。从句的内部结构为“表语（As numerous） + 引导词（as） + 主语 （the passenger pigeons） + 系动词（were）” ; 其中第一个 A s 为副词，修饰 numerous;第二个 a s 为连词，表示“尽管；虽然“，引导让步状语从句（倒装）。主句为主系表结构，空格词",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": "D",
+          "explanation": "本文选自 U, S, News & World K e / o 汽《美国新闻和世界报道》2 0 1 6 年 1 0 月 1 3 日文章 Some Say Computer Coding Is a Foreign Language（有人说计算机编程是一门外语）。本文围绕“编程是否算作外语以及是否应该取代外语课程”这一争议问题展开论述，介绍了教育工作者和美国各州的意见，并指出计算机编程和外语学习同等重要，以一方取代另一方的做法不可取, 人们需找到平衡两者的教学方法。 41 二、试题分析试题定位词核心义",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "eons）死于 1 8 9 9 年。联系上文“旅鸽并非无尽的资源（not an infinite resource）”可知，空格句应意在强调 1 9 世纪 8 0 年代旅鸽数量/资源的急速下滑/大量减少/消耗殆尽，N 项正确。 3 5 . 答案： D） sp e cim e n 【确定词性】空格词位于末段首句, a single remaining 作介词 t o 的宾语，a passenger pigeon namedMartha 作 a single remaining 的同位语，空格词应为单数名词。 【锁定答案】空格句指出，最终，数十亿只旅鸽缩减到只剩下唯一的______，即一",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "As computer coding has become an increasingly sought-after skill, more K-12 schools\nare working it into their curriculums. Some states have considered allowing students to\nforgo (放弃)foreign language for coding classes, despite opposition from educators."
+        },
+        {
+          "label": "B",
+          "text": "There's a debate over whether ifs appropriate to teach coding in elementary schools,\nwith fierce opinions on each side. When it comes to allowing coding to fill foreign\nlanguage requirements, though, most educators agree: Coding should be added to\ncurriculums, but not at the expense of foreign language classes."
+        },
+        {
+          "label": "C",
+          "text": "The idea is that computer programming is a language, allowing people to communicate\nwith machines and programs. It's the language of the 21st century and more valuable\nthan a natural language, some advocates argue. The computer science field is growing\nfaster than schools can keep up because of budget constraints and a lack of skills\ntraining for teachers."
+        },
+        {
+          "label": "D",
+          "text": "According to the 2016 U.S. News/Raytheon STEM Index, computer science jobs have\nhelped boost wages in the U.S., and computer-related jobs hold the top seven positions\nin STEM fields for highest number of workers. Foreign language interest, on the other\nhand, is declining for the first time since 1995. The number of higher education\nlanguage enrollments declined between 2009 and 2013 by more than 111,000 spots,\naccording to the Modem Language Association of America."
+        },
+        {
+          "label": "E",
+          "text": "“I think the opportunity to give people a choice is im portant,says Florida state Senator\nJeremy Ring, who introduced a bill last year that would allow Florida students to\nchoose between foreign language and coding classes for the purpose of university\nadmissions requirements, 4tI think if you5re going to give two years of language in high\nschool, you might as well do computer coding.^^"
+        },
+        {
+          "label": "F",
+          "text": "The Florida bill died this year after passing 35:5 in the state Senate when the full\nLegislature failed to take action. It would have been the first state to try this initiative.\nRing says that although he will be out of office, an identical bill will be reintroduced\nwithin the next year by others on his behalf. 4tIn the speech I gave on the Senate floor, I\nsaid, 4We can be the first state to do this, or we can be the 50th state to do it. Ifs our\nchoice. It's going to happen,'\" Ring says."
+        },
+        {
+          "label": "G",
+          "text": "A Kentucky bill similar to the one in Florida was met with complaints from educators,\nand was then amended to promote computer science education initiatives with no\nmention of foreign language requirements. Instead, the state will provide support for\nhigher quality certified teachers for programming classes. Under the Washington bill,\npublic universities would accept two years of computer science classes in place of two\nyears of foreign language for admission purposes. A report detailing the opinions of\nstate university officials is due to the Legislature by November 2017."
+        },
+        {
+          "label": "H",
+          "text": "Texas passed a bill in 2013 that allows students to substitute computer coding only after\nthey have attempted and performed poorly in a foreign language class. Srini Mandyam,\nCTO and co-fbunder of kid-friendly instructional coding company Tynker, believes\nallowing students to forgo foreign language because they struggle with it is unproductive\nbecause every subject, whether art, math or language, is a significant contribution to a\nwell-rounded existence. \"Many students don't fare well with algebra but we never\ndiscuss eliminating it or... say chemistry is now counted as an algebra class,“ he said via\n\nemail. \"We teach algebra because ifs important and we should teach foreign language\nand coding for the same reason. Exposure to a wide breadth of subjects and material\nresults in well-rounded students who are able to make informed decisions... about what\nthey want to pursue.”"
+        },
+        {
+          "label": "I",
+          "text": "Computer science courses already fulfill a math or science high school graduation\nrequirement in 28 states and the District of Columbia, up from only 12 states in 2013.\nAnd while advocates of the bills say they should count as foreign language instead,\nopponents stress the importance of balancing computer and foreign language skills."
+        },
+        {
+          "label": "J",
+          "text": "Studies show that bilingualism (双语)correlates with cognitive development, intelligence,\nmemory and problem solving abilities, according to the American Council on the\nTeaching of Foreign Languages. A 2007 study showed that foreign language students\noutperformed their non-fbreign language peers on standardized tests after only two to\nthree years of study. And while a 2014 report from German and American universities\nsuggests that programmers are using language ( but not mathematical) regions of the\nbrain when understanding code, critics remain wary. They say that regardless of\ncognitive functions, being monolingual is a disadvantage in the increasingly international\neconomy, even if English has become the de facto (事实上的)language of business."
+        },
+        {
+          "label": "K",
+          "text": "“Our world is shrinking but its problems are really growing,5, says ACTFL National\nLanguage Teacher of the Year Ted Zarrow, who teaches high school Latin in Westwood,\nMassachusetts, and has also studied Spanish, French, German, Italian and Greek. \"We\nneed to find a way to put ourselves at the global table and to treat each other with\nmutual respect. And learning languages allows us to do that because language is not\npart of culture, language is culture.55\nL) Even with the benefits and skill sets languages provide, recruiters and employers value\ncomputer skills more. According to the National Association of Colleges and\nEmployers? 2016 report, study abroad and foreign language fluency were not very\ninfluential in the employee hiring processes, but 55 percent of employers looked for\ncomputer skills on applicants9 resumes. However, although 2016 computer science\ngraduates can expect to make the second highest starting salary compared with other\njobs this year, the Bureau of Labor predicts the demand for computer programmers will\ndecrease 8 percent or by 26,500 jobs by 2024.\nM) Ring says foreign language skills are important, but expresses doubt that school districts\ncould work both coding and language into their curriculum in a significant way because\nthey lack the time in the school day. \"Nothing against language/ he says. \"I just think\nit's something you have to start early and not just have something that you do for a\ncouple of years in high school,55 he says.\nN) Zarrow agrees that foreign language education should begin earlier, but says it is\npossible to work both computer programming and foreign language learning into\nschools evenly. He suggests an immersive, dual language program where students spend\nhalf the day in English and half the day in another language, as several schools around\nthe country have successfully implemented. t4The study of language fosters a respect for\ndiversity, a respect for ethnicity and really a respect for language,Zarrow says.\nO) Though the benefits of computer programming skills are vast, foreign language and\ncoding experts agree that computer science should be negotiated into curriculums rather\n\nthan replacing foreign language outright. Mandyam says the two skill sets are essential\nbut unrelated. \"Coding is an incredibly important 21st century skill for our kids to learn,\nand thafs why we spend so much time trying to teach it,“ Mandyam says via email.\n“But I believe it is the same as or even really comparable to learning a foreign language.\nIt would be a shame to lose something so important for the sake of adding something\nelse, even something as important as coding. Clearly, education leaders must figure out\na way to teach both.”"
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Employers attach more importance to applicants? computer skills than their language\ncompetence.",
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": "tiative [I'm jativ] n. 计划；措施 § ④out of o ffice 离职；不执政 g ⑤identical [ai'dentikl] a. 完全同样的；相同的夕 ⑥on sb's behalf 代表（或代替）某人 36 G) O A Kentucky bill similar to the one in Florida was met with complaints1 from educators, and was then amended② to promote computer science education initiatives with no mention",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "One U. S. state senator proposed that high school students be allowed to study either\nforeign language or computer coding.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "Learning languages broadens students5 international perspective and nurtures mutual\nrespect among peoples, according to a high school language teacher.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "One U. S. state will see to it that programming classes are taught by quality teachers.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Statistics show while computer-related jobs have been on the rise, foreign languages\nhave become less appealing to American students since mid-1990s.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "All school subjects are said to be essential to students5 well-rounded development.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "There is consensus among most educators that coding should be taught in schools but\nshould not replace foreign language.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "One study showed that foreign language learning improved students' academic\nperformance.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Being short of funding and qualified teachers, schools lag behind the fast developing\ncomputer science field.",
+          "answer": "N",
+          "explanation": "］C 段③句指出，计算机科学领域发展迅猛，而学校由于经费有限，教师技能培训不足， 43 所以很难跟上。试题是对该句信息的合理改写。其中，Being short of funding 同义转述 budget constraints; （Being short of） qualified teachers 是对 a lack of skills training for teachers 的合理解读；lag behind 是对③ 句. . . is growing faster than. . . can keep up 的准确概括；computer science field 在句中原词复现。 45 . 一位杰出的高中语言教师也认为，最好是在年龄较小时就开始学习外语。 [答案]N [精解 I M 段末句介绍了佛罗里达州参议员 Ring 的观点：应该尽早开始学习外语。随后 N 段首句指出，高中语言教师 Zarrow 对这一观点表示认同（Zarrow agrees that foreign language education should begin earlier） o 试题是对 N 段首句前半部分的同义改写，其中 A distinguished high school language teacher 符合 K 段对 Zarrow 身份的介绍，also believes it is advisable to. . . 则体现 Zarrow 对 Ring 观点的认同。 Section C Passage One 全球加强对科技巨头的反垄断监管餐一、总体分析来源： （彭博社）2020.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+            "sourceText": ". . is growing faster than. . . can keep up 的准确概括；computer science field 在句中原词复现。 45 . 一位杰出的高中语言教师也认为，最好是在年龄较小时就开始学习外语。 [答案]N [精解 I M 段末句介绍了佛罗里达州参议员 Ring 的观点：应该尽早开始学习外语。随后 N 段首句指出，高中语言教师 Zarrow 对这一观点表示认同（Zarrow agrees that foreign language education should begin earlier） o 试题是对 N 段首句前半部分的同义改写，其中 A distinguishe",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "A distinguished high school language teacher also believes it is advisable to start\nlearning a foreign language at an earlier age.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nThe U. S. and China don't agree on much these days. Germany and France share a\nborder and a currency but are frequently at odds. The U. K. and India like to march to their\nown drum. But there5s one issue on which all these countries see eye to eye: Technology\ncompanies are too big, too powerful, and too profitable. And that power is only likely to\nintensify, leaving governments with no choice but to confront it head-on by taking the\ncompanies to court, passing new competition laws, and perhaps even breaking up the tech\ngiants.\nChina is the latest to implement an anti-trust crackdown, unveiling anti-monopoly\nrules last month. The draft rules followed the surprise suspension of a $ 37 billion stock\noffering by billionaire Jack Ma's Ant Group Co., making clear that no company can evade\nthe govemmenfs regulation. The moves in China coincide with accelerating efforts in the\n\nU. S. and Europe to rein in Amazon, com, Apple, Facebook, and Google.\n“The big get bigger and bigger but without being better,“ says Andreas Schwab, a\nGerman member of the European Parliament who championed a 2014 resolution to break\nup Google. \"Growing economic power, growing influence on local markets all over the\nworld, and a growing concern of competitors and consumers altogether have made it\nhappen now.^^\nIn this new anti-trust era, the old focus on pricing power no longer applies, because\nseveral of the biggest tech companies have established trillion-dollar monopolies by\ncharging consumers next to nothing. Tech giants are increasingly assuming powerful\npositions in banking, finance, advertising, retail, and other markets that force smaller\nbusinesses to rely on their platforms to reach customers.\nFor years, Europe alone confronted the power of digital giants. Governments were\nalarmed that European companies were failing to match Silicon Valley's innovations or to\nstop Google and Facebook from vacuuming up personal data and, with that, advertising\nrevenue. Led by Margrethe Vestager, the European Union's competition chief, countries\nhave sought to police the market and encourage fair play.\nIn China the crackdown has been driven at least partly by fear that the homegrown\ntech industry is becoming too powerful. The country has long championed Alibaba and\nTencent, but their massive accumulation of data on the Chinese citizenry is a growing\nconcern for Beijing.\nIn the U.S., a new breed of anti-trust experts argues that consideration should be given\nto privacy, control over data, workers5 rights, and the overall impact on smaller companies.\nAnd the public in general have grown increasingly skeptical of social media companies.\nMore than 60% say the sector has a negative effect on the country, and almost half want\nmore regulation fbr social media, according to a 2020 Pew Research Center study.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What does the author say is the issue all major economic powers have to address?",
+              "options": {
+                "A": "How to ensure the sustainable growth of their tech giants.",
+                "B": "How to keep the competitiveness of their tech companies.",
+                "C": "How to break up the powerful giant tech companies.",
+                "D": "How to stop tech companies from gaining monopoly."
+              },
+              "answer": "D",
+              "explanation": "决的问题是什么？ A) How to ensure the sustainable growth of their tech giants. A）如何确保本国科技巨头的可持续发展。 B) How to keep the competitiveness of their tech companies. B）如何保持本国科技公司的竞争力。 C) How to break up the powerful giant tech companies. C）如何拆分实力雄厚的科技巨头公司。 D) How to stop tech companies from gaining monopoly. D）如何阻止科技公司获得垄断地位。 ［锁定答案］D o 第一段④句指出，在一件事情上，所有这些国家都看法一致：科技公司的规模过大，实力过强，利润过高。⑤句进一步指出：科技公司的力量只可能越来越强，这让政府别无选择，只能借助将公司告上法庭、通过新的竞争法，甚或是拆分科技巨头来与其进行正面对抗。由此可见，所有经济大国必须解决的问题是如何阻止科技公司垄断市场，D 项正确。 ［排除干扰］A 项将第一段⑤句 that power is. . . likely to in ten sify 曲解为“各国希望科技巨头不断增强实力，确保其可持续发展“，但原文实际表达对科技巨头实力愈发强大的担忧。B 项将第一段⑤句 passing new competition la w s 曲解为“通过法律，保持科技公司的竞争力”，但原文实指“通过竞争法，避免科技公司的不正当竞争”。C 项利用第一段⑤句 breaking up the tech g ian ts 设置干扰，但“拆分科技巨头”仅为经济大国反垄断的可能方式之一，选项未触及问题核心。 ［提炼思路］解答本题可先根据题干关键词直接锁定第一段④句，但该句并未明确展示各国政府针对科技巨头/公司采取的行动，故应将范围扩大至对④句进行补充说明的⑤句，并提取两句之间的主要逻辑链条 “科技公司已经过于强大且会更加强大— 政府只能通过各种方式与其对抗”，由此稍作延伸可判断各",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+                "sourceText": "ess of their tech companies. B）如何保持本国科技公司的竞争力。 C) How to break up the powerful giant tech companies. C）如何拆分实力雄厚的科技巨头公司。 D) How to stop tech companies from gaining monopoly. D）如何阻止科技公司获得垄断地位。 ［锁定答案］D o 第一段④句指出，在一件事情上，所有这些国家都看法一致：科技公司的规模过大，实力过强，利润过高。⑤句进一步指出：科技公司的力量只可能越来越强，这让政府别无选择，只能借助将公司告上法庭、通过新的竞争法",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What does the suspension of Ant Group Co/s stock offering suggest?",
+              "options": {
+                "A": "All attempts to evade regulation are doomed to failure.",
+                "B": "All attempts to monopolize sales must be cracked down.",
+                "C": "All companies must be regulated by the government.",
+                "D": "All companies, domestic or foreign, are created equal."
+              },
+              "answer": "C",
+              "explanation": "第二段②句中“没有一家公司可以逃避政府的监管”的含义：原文强调“政府的反垄断力度大，任何公司都要接受其监管”，而非“所有逃避监管的尝试都注定要失败“，且原文并未提及蚂蚁集团逃避监管。B 项由第二段①②句碎片信息 crackdownmonopolyoffering 杂糅而来，原文并未提及蚂蚁集团涉嫌垄断销售（attempts to monopolize sales 没有信息支撑）。D 项利用第二段③句提及的国外科技公司设置干扰，但蚂蚁集团一事仅涉及对中国本土企业的监管，与国外公司无关。 ［提炼思路］本题为事实细节题，通过题干关键词 suspension of Ant Group Co. 's stock offering 可直接定位至第二段②句，原句中 making clear th at 与题干里的 suggest 近义，暗示其后内容为正确项出处，进而通过比对原文可知，C 项正确。干扰项多利用文中与之形近的表达干扰，可采取“分别定位，仔细比对”的策略进行排除：A 项中 evade regulation 曲解文意，B 项中 monopolize sales 属糅杂捏造信息，D 项 companies? domestic or foreign 则为强加关联的信息，故均可排除。而 C 项 All companies must be regulated by the government 源自原文 no company can evade the government's regulation, 是将原文的双重否定改写为与之同义的肯定句，故正确。 N Oln this new anti-trust era? the old focus on pricing power no longer applies①，because several of the biggest tech companies have established trillion^ - dollar monopolies by charging③ consumers next to nothing®. ❷ Tech gia",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+                "sourceText": "e d oomed to failure. A）所有逃避监管的尝试都注定要失败。 B) All attempts to monopolize sales must be cracked down. B）所有垄断销售的尝试都必须被打击。 C) All companies must be regulated by the government. C）所有公司都必须接受政府的监管。 D) All companies, domestic or foreign, are created equal. D）所有国内外公司一律平等。 46 stock offering 可定位至第二段②句（the s",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "How are smaller companies impacted by tech giants' business expansion?",
+              "options": {
+                "A": "They can no longer do business independent of tech giants.",
+                "B": "They are frequently denied access to tech giants' platforms.",
+                "C": "They have to change marketing strategies to keep customers.",
+                "D": "They no longer have the power to price their own products."
+              },
+              "answer": "A",
+              "explanation": "读。 ［排除干扰］B 项将第四段②句的“小公司依赖科技巨头的平台来获取客户”扭曲为“小公司经常被拒绝访问科技巨头的平台” 0 C 项由第四段②句主观推断出“小公司必须改变营销策略以留住顾客”，但原文强调的是“小企业受到科技巨头钳制(且无力摆脱)”，因此推断不成立，且原文实指“获取客户”，而非“留住客户 D 项利用第四段①句 the old focus on pricing power no longer applies 设障，但该句“新时代下不应再关注对商品价格/定价权的垄断”表明“大公司不再把控商品定价权”，而非“小公司不再拥有定价权”，又即：“小公司丧失商品定价权”是旧时代的特征，而非题目所问的新时代特征。 ［提炼思路］本题为事实细节题，可抓住关键主体(smaller companies、tech giants)进行快速定位。第四段②句信息恰好对应科技巨头的业务扩张对小公司的影响( R ch giants. . . force smaller businesses to. . . )，故通过进一步比对原文，可判断 A 项正确( no. . . independent of. . . 对应 rely on. . . ) Q B、C、D 项均为对原文事实的扭曲，均可排除。 V O For years, Europe alone confronted the power of digital1 giants. 0 Governments were alarmed② that European companies were failing to match Silicon Valley's innovations④ or to stop Google and Facebook from vacuuming up personal data and? with that, advertising revenue®. © L ed by Margrethe Vestager, the European Union's competition chief, countries h",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+                "sourceText": "48. How are smaller companies impacted by tech giants9 business expansion? 4 8 . 科技巨头的业务扩张对小公司有何影响? A) They can no longer do business independent of tech giants. A）它们无法再独立于科技巨头开展业务。 B) They are frequently denied access to tech giants1 platforms. B）它们经常被拒绝访问科技巨头的平台。 C) They have t",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What have EU countries done to confront the power of digital giants?",
+              "options": {
+                "A": "They have imposed strict regulation over digital giants' advertising.",
+                "B": "They have considered regulatory action to promote fair competition.",
+                "C": "They have limited sales of digital giants' products.",
+                "D": "They have sought to protect consumers9 privacy."
+              },
+              "answer": "B",
+              "explanation": "为“限制科技巨头的产品销售”，但此处实指“监管数字市场”。D 项由第五段②句“防止谷歌和脸书吸走欧洲公民的个人数据“臆断而来，但由 revenuefair p la y 可知欧洲各国的举措意在促进公平竞争，文中并未指出欧洲各国试图保护消费者的隐私。 ［提炼思路］本题对欧盟国家的措施进行考查，可先由 E U、confront the power of digital giants 定位至第五段，再通过各句主干确认主要内容：①句 For years? Europa. . 为概述引入，②句 Governments were alarmed 49 th at. . . 明确欧洲各国的担忧，③句 countries have sought to. . . 提出具体应对举措，故可锁定答案在③句 have sought to police the market and encourage fair playo 对比选项发现：C、D 项与该信息差别较大，可先排除，A、 B 项均与其相近，但 A 项中 over digital giants' advertising 纯属捏造，可排除，B 项中 have considered regulatory action to promote fair competition 为其同义替换，确定为正确项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+                "sourceText": "盟国家采取了哪些措施来对抗数字巨头的力量？ A ) They have imposed strict regulation over digital giants' advertising. A）他们对数字巨头的广告实施了严格监管。 B) They have considered regulatory action to promote fair competition. B）他们考虑采取监管措施来促进公平竞争。 C) They have limited sales of digital giants' products. C）他们对数字巨头的产品销售进行了限制。 D) They h",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What do Americans generally think of social media companies according to the author?",
+              "options": {
+                "A": "They are invading people's privacy.",
+                "B": "They are increasingly influential.",
+                "C": "They are becoming untrustworthy.",
+                "D": "They are growing out of control."
+              },
+              "answer": "C",
+              "explanation": "题时应牢牢抓住题干所示的两个主体“美国公众（Americans generally）”“社交媒体公司（social media companies）”寻找信息，从而暂不关注介绍反垄断专家观点的①句，锁定②③句 the public in general. . . skeptical of social media companies. . . More than 60% say the sector. . . o 随后将原文与选项对比可知：A 项来自①句“专家”的观点，可排除；B 项为对原文的杂糅捏造，D 项夸大公众的担忧，亦可排除；C 项为对②③句核心信息的概括，为正确项。 Passage Two 重量不重质的旅游业遭到强烈抵制祥| 一、总体分析来源：The Conversation 对话网 2017. 12. 18 文章 The Travel Industry Has Sparked a Backlash against Tourists by Stressing Quantity over Quality（重量不重质的旅游业使游客遭到强烈抵制）。主题：传统旅游业重量不重质， 给当地生活带来困扰的同时并未惠及当地及其居民；对此，“游客”作为决定旅游业利益分配的主角，应慎重选择旅游服务企业，尊重当地民俗，做一个有责任的旅游者。脉络：提出问题（第一、二段）— 从社会、环境角度说明问题（第三、四段）— 从经济、个人角度说明问题（第五至七段）— 给出针对性的解决办法（第八至十一段）。 十|二、语篇分析及试题精解大众化航空旅游的无障碍可达孕育了现代国际旅游业，使之在拥有沙滩、阳光和海洋这些相对地理优势的区域以 “休闲度假”的形式流行开来。旅游常常被描述为促进个人成长的手段，而旅游业则被描述为推动旅游目的地国家、城市经济发展的引擎。人们倾向于认为旅游业有益于所有相关人员。 如今，旅游业爆炸式发展，每年带动 1 2 多亿游客走出国门。许多热门旅游地简直被游客爱到死。近期，在威尼斯和巴塞罗那等停靠港爆发了针对“游轮打扰当地居民生活”的抗议活动",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+                "sourceText": "普遍如何看待社交媒体公司？ A) They are invading people's privacy. A）它们正侵犯人们的隐私。 B) They are increasingly influential. B）它们的影响力越来越大。 C) They are becoming untrustworthy. C）它们越来越不值得信任。 D) They are growing out of control. D）它们的发展失去了控制。 ［精准定位］本题考查美国人对社交媒体公司的看法。由题干关键词 Americans generally think of social media companie",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nBom from the accessibility of mass air travel, modem international tourism has been\npopularized as “holiday-making“ in regions that offer comparative advantages of sand, sun\nand sea. Travel is often portrayed as a tool for personal growth and tourism as an economic\nmotor fbr destination countries and cities. There is a tendency to assume that tourism is\ngood fbr everyone involved.\nToday the big bang of tourism drives over 1.2 billion tourists across international\nborders annually. Many popular places are literally being loved to death. Recent protests in\nports of call like Venice and Barcelona against disturbances created by cruise ships show\nthe unfortunate consequences of emphasizing quantity over quality in tourism.\nUncontrolled tourism development has become a primary driver of social and\nenvironmental disruption. Tourism studies provide much documentation of the many\nnegative social impacts of tourism and resulting resentment that local populations direct\ntoward visitors.\nAntagonism toward tourists typically develops in mature, heavily visited destinations.\nProtests in heavily visited destinations suggest that traditional tourism has overstayed its\nwelcome.\nResidents often become frustrated when the benefits of tourism are not felt locally.\nAlthough it can generate foreign exchange, income and employment, there ?s no guarantee\nthat multinational hotel chains will allocate these benefits equitably among local\ncommunities.\nOn the contrary, when people stay at large resorts or on cruise ships, they make most\nof their purchases there, leaving local communities little opportunity to benefit from tourist\nspending. These forms of tourism widen economic and political gaps between haves and\nhave-nots at local destinations.\nIn recent decades, local residents in destination communities also have found\nthemselves negotiating new cultural boundaries, class dynamics, service industry roles and\nlifestyle transformations. For example, data show that tourism activity corresponds to\nincreased social problems as local residents adopt the behaviors of tourists.\nWhat does all this mean fbr the everyday traveler?\nFirst, all tourists should make every effort to honor their hosts and respect local\nconditions. This means being prepared to adapt to local customs and norms, rather than\nexpecting local conditions to adapt to travelers.\nSecond, tourism is a market-based activity and works best when consumers reward\nbetter performers. In the information age, there's little excuse for travelers being\nuninformed about where their vacation money goes and who it enriches.\nInformed travelers also are better able to distinguish between multinational companies\n\nand local entrepreneurs whose businesses provide direct social, environmental, and\neconomic benefits for local residents. Such businesses are in love with the destination and\nare therefore deserving of market reward. In the long run, being a responsible traveler\nmeans ensuring net positive impacts for local people and environments. With the\ninformation available at our fingertips, there has never been more opportunity to do so.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What is the popular assumption about international tourism?",
+              "options": {
+                "A": "Its benefits may compensate for the adverse environmental consequences.",
+                "B": "Its rapid development is attributed to people's improved living standard.",
+                "C": "It appeals to people in places with favorable geographical conditions.",
+                "D": "It contributes to the economy of destination countries and regions."
+              },
+              "answer": "D",
+              "explanation": "为“国际旅游业对处于优越地理环境的人有吸引力”。 [提炼思路]本题为事实细节题，考查人们对国际旅游业的普遍看法（popular assumption）, 可先由关键词 international tourism 及题文同序原则定位至第一段，然后抓取文中有关假设、看法的标记词（is often portrayed as. . . and. . . as. . . 、a tendency to assume that）以圈定解题范围，最终通过比对原文锁定 D 项。A 项中 adverse environmental consequencesB 项中 rapid development 项中 favorable geographical conditions 虽能在原文中找至 1J 出处，但 A、B 两项并不出自定位段，可快速排除，C 项虽出自定位段，但很明显曲解文意，故排除。 H O Uncontrolled tourism development has become a primary driver of social and environmental disruption1 . © Tourism studies provide much documentation of the many negative social impacts of tourism and resulting resentment that local populations direct toward visitors. N O Antagonism 1 toward tourists typically develops in mature ? heavily visited destinations. 0 Protests in heavily visited destinations suggest⑤ that traditional tourism has overstayed its welcome⑥. 更多此版本解析联系 VX： KZRZ2019 旅",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+                "sourceText": ". B）它的快速发展归功于人们生活水平的提高。 C) It appeals to people in places with favorable geographical conditions. C）它对处于优越地理环境的人有吸引力。 D) It contributes to the economy of destination countries and regions. D）它有助于旅游目的地国家和地区的经济。 ［精准定位］本题考查人们对国际旅游业的普遍看法。d，题干关键词 popular assumptioninternational tourism 可定位至第一段（modern",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What do we learn from some studies about uncontrolled tourism development?",
+              "options": {
+                "A": "It gives rise to an increase in mass confrontations.",
+                "B": "It incurs local residents5 antagonism to tourists.",
+                "C": "It inhibits the steady growth of local economy.",
+                "D": "It brings in a large chunk of mobile population."
+              },
+              "answer": "B",
+              "explanation": "到什么？ A ) It gives rise to an increase in mass confrontations. A）它导致大规模抗议活动的增加。 B) It incurs local residents，antagonism to tourists. B）它引起当地居民对游客的敌对情绪。 C) It inhibits the steady growth of local economy. C）它抑制了当地经济的稳定增长。 D) It brings in a large chunk of mobile population. D）它带来了大量的流动人口。 [锁定答案]B o 第三段指出，旅游业的恣意发展已成为社会、环境破坏的主要驱动因素，旅游业相关研究已提供大量文献资料，证明了该行业对社会造成诸多负面影响，并由此引发了当地居民对游客的仇恨情绪。 第四段①句继续强调：对游客的敌对情绪通常出现在发展成熟、人满为患的旅游目的地。由此可知，旅游业的恣意发展引起了当地居民对游客的敌对情绪，故 B 项正确。 [排除干扰]A 项中的 confrontations 源自第四段②句中的 Protests, 但原文并未提及这种抗议活动的规模以及增长情况。C 项源自第三段①句中的 social and environmental disruption 和②句中的 many negative social impacts of tourism, 但原文指的是“破环社会和环境”而非”抑制经济的稳定增长”。D 项将第二段①句信息“旅游业的爆炸式发展带动 1 2 亿多游客走出国门（短暂旅游）”曲解为“旅游业恣意发展带来了大量（搬迁 52 至当地定居）的流动人口”。 ［提炼思路］本题为事实细节题，可先由题干关键词 uncontrolled tourism development 初步定位至第三段，再由 some studies 进一步定位至第三段②句。通过观察各选项可知，只有 B 项复现了第三段②句的内容， A、D 两项的干扰出处均非该句，而 C 项虽看似与第三段②句中 many negative",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+                "sourceText": "m development? 52.关于旅游业的恣意发展，我们从一些研究中了解到什么？ A ) It gives rise to an increase in mass confrontations. A）它导致大规模抗议活动的增加。 B) It incurs local residents，antagonism to tourists. B）它引起当地居民对游客的敌对情绪。 C) It inhibits the steady growth of local economy. C）它抑制了当地经济的稳定增长。 D) It brings in a large chunk of mobil",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "Why does the author say local residents of popular destinations often feel frustrated?",
+              "options": {
+                "A": "They fall victim to social conflicts and environmental disturbances.",
+                "B": "They have little opportunity to enjoy themselves on cruise ships.",
+                "C": "They cannot find employment in multinational hotel chains.",
+                "D": "They do not think they benefit as much as they deserve."
+              },
+              "answer": "D",
+              "explanation": "题关键在于识别文中因果关联，并找到“因”的同义表达。解题步骤：1 . 根据题干关键词可定位至第五段①句，通过句型结构 Residents often become frustrated when. . . 识别隐性因果关系并锁定关键信息为 when 引导的从句；2 . 根据下文进一步明确从句信息 the benefits of tourism are not felt locally 所指，发现“跨国连锁酒店未必会在当地社区公平分配这些好处/当地社区几乎没有机会从游客消费中获益”，基本确定 D 项正确；3 . 最后再看其他选项，发现 A 项答非所问，B、C 两项利用原文碎片信息进行捏造，均可排除。 刊❶ In recent decades® ? local residents in destination communities also have found them selves negotiating② new cultural boundaries③，class dynamics\", service industry roles and lifestyle transformations. @ For example? data show that tourism activity corresponds to increased social problems as local residents adopt the behaviors of tourists. 近几十年来，目的地社区的当地居民也发现自己一直在适应新的文化差异、阶层动态、服务业角色以及生活方式的变迁。比如，数据显示旅游活动相应地增加了社会问题，因为当地居民会习得游客的种种不良行为。 「• i 司无注蟀写难句分桥 （Ddecade ['d ek eid ]九十年 § ©dynamic [dai'nsemik] n. V 〜s〉动态 ②negotiate [ni'gaojieit] v. 通过；越过 $ ⑤transformation [ itrsensfa'meijn] n.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+                "sourceText": "on cruise ships. B）他们几乎没有机会在游轮上享受玩乐。 C) They cannot find employment in m ultinational hotel chains. C）他们无法在跨国连锁酒店找到工作。 D) They do not think they benefit as much as they deserve. D）他们认为自己没有得到应有的好处。 [锁定答案] D。第五段①句指出，当地居民无法感受到旅游业带来的好处时，他们往往会心生沮丧。② 句进一步说明，尽管旅游业能够创造外汇、收入以及就业机会，但跨国连锁酒店未必会在当地社区公平分配这些好处",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "How does the author say local residents in destination communities respond to tourism activity?",
+              "options": {
+                "A": "They endeavor to adapt to it.",
+                "B": "They readily adopt new lifestyles.",
+                "C": "They immerse tourists in their culture.",
+                "D": "They try to upgrade their business models."
+              },
+              "answer": "A",
+              "explanation": "为“游客浸入本地文化”，D 项则将“适应服务行业角色”曲解为“升级自己的商业模式”。 ［提炼思路］本题为事实细节题，考查当地居民对旅游活动的应对之策，可根据主体 local residents in destination com m unities 以及与回应、反应相关的标记词定位至第七段①句（local residents in destination communities also have found themselves negotiating. . .） o 句中 negotiating 属于熟词僻义，本义指“协商；洽谈”，而这里结合其后内容所指向的“新”及其所蕴藏的“难/挑战”可推测该词可能表示“解决；处理；办妥“，再结合例证句②句（For example. . .）local residents adopt the behaviors of tourists 中的 adopt”采纳/吸收”可判断它指向“努力接受/适应”，即当地居民正在努力接受/适应外来游客带来的各种冲击，A 项正确。C 项恰与原文的意思相反, B、D 两项由文章的碎片信息捏造而成，均可排除。 皿 W hat does this mean for the everyday traveler? K O First ? all tourists should make every effort to honor① their hosts and respect local conditions. ❷ This means being prepared to adapt toa local customs and norms③，rather than expecting local conditions to adapt to travelers. X O Second, tourism is a market-based@ activity and works。 best when consumers reward better performers. ❷ In the info",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+                "sourceText": "does the author say local residents in destination communities respond to tourism activity? 54.作者说目的地社区的当地居民如何应对旅游活动？ A ) They endeavor to adapt to it. A）他们努力去适应它。 B) They readily adopt new lifestyles. B）他们欣然接受新的生活方式。 C) They immerse tourists in their culture. C）他们让游客沉浸在当地文化中。 D) They try to upg",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What can tourists do to exert more positive impacts on the tourist destinations?",
+              "options": {
+                "A": "Show interest in local customs and lifestyles.",
+                "B": "Seek possibilities to invest in local companies.",
+                "C": "Use the services provided by local businesses.",
+                "D": "Give favorable comments about their services."
+              },
+              "answer": "C",
+              "explanation": "为“游客需投资本土企业”。D 项将第十段“游客应选择服务更佳者提供的服务”曲解为“应对旅游目的地的服务给予好评”。 ［提炼思路］本题考查作者的建议。解答时可先根据建议标记词(can、should、must 等)锁定末三段建议内容，再根据题干中的 positive impacts 关联至末两段(ensuring net positive impacts), 通过分析末两段信息可知：作者认为本土企业应该获得经济回报，建议游客应该使用本土企业提供的服务，C 项正确；A、B、D 三项虽然都出自作者发表建议的末三段，但均与原文信息不符。 Part N Translation 春联餐一、参考译文 Pasting Spring Festival couplets is an important custom for Chinese people to celebrate the Spring Festival. Spring Festival couplets are composed of a pair of lines of poetry and a four-character horizontal scroll, both of which are written in gold or black ink on red paper, with red representing luck and gold symbolizing wealth. Spring Festival couplets are pasted on both sides of the main door and above the door frame. The lines of Spring Festival couplets, reflecting the characteristics of traditional Chinese poetry, have an equal number of characters and are related in content. T h",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-09/key_2022.09六级解析全3套_带书签.txt",
+                "sourceText": "n local customs and lifestyles. A）对当地风俗和生活方式流露兴趣。 B) Seek possibilities to invest in local companies. B）寻找投资本土企业的可能性。 C) Use the services provided by local businesses. C）使用本土企业提供的服务。 D) Give favorable comments about their services. D）对它们的服务给予好评。 56 ［锁定答案］C o 第九段提出第一条建议：所有游客都应该竭尽全力去尊重东道主，去适应当地风俗",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
         }
       ]
     },
@@ -274,8 +932,8 @@
       "type": "translation",
       "title": "Part IV Translation",
       "minutes": 30,
-      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into \nEnglish. You should write your answer on Answer Sheet 2.",
-      "source": "中央电视台总部大楼位于北京市朝阳区，总建筑面积约55万平方术。主楼由两座塔楼组成，因其独特的造型，成为这座城市的一个热门景点，每天都吸引众多特客前来参观。大楼的创新结构是中外建筑师长期合作的成果，不仅体现了环保意识，而且大大节约了建筑材料。中央电视台总部设有一条穿过大楼的专用通道，向公众展示各个工作室以及中央电视台的历史。在那里，参观者还可以看到故宫和北京其他地方的壮观景色。2022年6月英语六级真题第3套第1页共1页英语菌的笔记",
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into\nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "中央电视台总部大楼位于北京市朝阳区，总建筑面积约5 5 万平方米。主楼由两座塔楼组成，因其独特的造型，成为这座城市的一个热门景点，每天都吸引众多游客前来参观。大楼的创新结构是中外建筑师长期合作的成果，不仅体现了环保意识，而且大大节约了建筑材料。中央电视台总部设有一条穿过大楼的专用通道，向公众展示各个工作室以及中央电视台的历史。在那里，参观者还可以看到故宫和北京其他地方的壮观景色。",
       "reference": "",
       "explanation": ""
     }

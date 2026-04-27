@@ -381,6 +381,7 @@ async function submit(host, exam, answers, router, startedAt) {
   const endedAt = Date.now();
   let totalObj = 0, answered = 0;
   let scorableObj = 0, correctObj = 0;
+  let verifiedObj = 0, pendingObj = 0;
   let writingChars = 0, translationChars = 0;
   for (const s of exam.sections || []) {
     if (s.type === "writing") writingChars += (answers[s.id || "writing"] || "").length;
@@ -392,6 +393,8 @@ async function submit(host, exam, answers, router, startedAt) {
         if (answers[q.number]) answered += 1;
         if (q.answer) {
           scorableObj += 1;
+          if (isVerifiedAnswer(q)) verifiedObj += 1;
+          else pendingObj += 1;
           if (answers[q.number] === q.answer) correctObj += 1;
         }
       }
@@ -410,6 +413,8 @@ async function submit(host, exam, answers, router, startedAt) {
     answeredObjective: answered,
     scorableObjective: scorableObj,
     correctObjective: correctObj,
+    verifiedObjective: verifiedObj,
+    pendingObjective: pendingObj,
     writingChars,
     translationChars,
     scoredSections: [],
@@ -423,8 +428,11 @@ async function submit(host, exam, answers, router, startedAt) {
   const localSaved = await trySaveExamAttempt(attempt);
 
   const feedback = answerReady
-    ? el("div", { class: "feedback ok", style: "max-width:600px; margin:0 auto 16px" },
-        `客观题已自动判分: ${correctObj}/${scorableObj} · ${totalScore}%`)
+    ? el("div", {
+        class: verifiedObj === scorableObj ? "feedback ok" : "feedback warn",
+        style: "max-width:600px; margin:0 auto 16px",
+      },
+        `客观题已判分: ${correctObj}/${scorableObj} · ${totalScore}% · 已核验 ${verifiedObj} 题 / 待复核 ${pendingObj} 题`)
     : el("div", { class: "feedback warn", style: "max-width:600px; margin:0 auto 16px" },
         "⚠️ 答案库还在抽取中(Step 2.5)。结构化的题目和你的作答都已就位,等答案灌进 JSON 后这里会自动显示对错和解析。");
 
@@ -465,7 +473,7 @@ export function renderReviewBoard(exam, answers) {
   const root = el("div", { class: "card", style: "margin-top:16px" });
   root.appendChild(el("h3", { style: "margin-top:0" }, "📋 逐题查看"));
   root.appendChild(el("div", { class: "label", style: "margin-bottom:12px" },
-    "✓ 答对  ✗ 答错  · 未作答  ☆ 暂无标准答案"));
+    "✓ 答对  ✗ 答错  · 未作答  ☆ 暂无标准答案。答案旁会标出已核验或待复核。"));
 
   for (const s of exam.sections || []) {
     if (s.type === "writing" || s.type === "translation") {
@@ -540,6 +548,7 @@ function renderQuestionReview(q, answers) {
     }, userAns || "未答"));
     answerLine.appendChild(el("span", {}, ` · 标准: `));
     answerLine.appendChild(el("strong", { style: "color:var(--ok)" }, correct));
+    answerLine.appendChild(answerStatusBadge(q));
   }
   body.appendChild(answerLine);
 
@@ -555,6 +564,29 @@ function renderQuestionReview(q, answers) {
 
   row.appendChild(body);
   return row;
+}
+
+export function isVerifiedAnswer(q) {
+  return q?.answerMeta?.verified === true;
+}
+
+export function answerStatusBadge(q) {
+  const meta = q?.answerMeta || {};
+  if (!q?.answer) return el("span");
+  if (meta.verified === true) {
+    const auto = String(meta.verification || "").startsWith("auto-");
+    return el("span", {
+      class: "pill",
+      style: "margin-left:8px; border-color:var(--ok); color:var(--ok)",
+      title: auto ? "严格自动核验" : (meta.verifiedBy ? `复核人: ${meta.verifiedBy}` : "已人工复核"),
+    }, auto ? "自动核验" : "已核验");
+  }
+  const confidence = meta.confidence ? ` · ${meta.confidence}` : "";
+  return el("span", {
+    class: "pill",
+    style: "margin-left:8px; border-color:var(--warn); color:var(--warn)",
+    title: meta.sourceFile || "答案来源待补全",
+  }, `待复核${confidence}`);
 }
 
 function renderWritingReview(s, answers) {

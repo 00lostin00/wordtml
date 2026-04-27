@@ -64,6 +64,24 @@ def count_questions(section: dict) -> int:
     return 0
 
 
+def valid_answer_keys(section: dict, q: dict) -> set:
+    opts = q.get("options")
+    if isinstance(opts, dict) and opts:
+        return set(opts.keys())
+    word_bank = section.get("wordBank")
+    if isinstance(word_bank, dict) and word_bank:
+        return set(word_bank.keys())
+    paragraphs = section.get("paragraphs")
+    if isinstance(paragraphs, list) and paragraphs:
+        labels = set()
+        for idx, paragraph in enumerate(paragraphs):
+            if isinstance(paragraph, dict) and paragraph.get("label"):
+                labels.add(str(paragraph["label"]).strip()[:1])
+            labels.add(chr(ord("A") + idx))
+        return labels
+    return set()
+
+
 def validate_section(section: dict, rule: dict) -> list:
     """返回该 section 的问题清单(空 = 通过)。"""
     issues = []
@@ -116,9 +134,24 @@ def validate_section(section: dict, rule: dict) -> list:
     for q in questions:
         opts = q.get("options")
         if opts is None:
-            continue  # banked-cloze / matching 没选项,正常
-        if len(opts) != 4 or any(not v for v in opts.values()):
+            pass  # banked-cloze / matching 没选项,正常
+        elif len(opts) != 4 or any(not v for v in opts.values()):
             issues.append(f"[{sid}] q{q.get('number')} 选项不全:{list(opts.keys())}")
+        answer = q.get("answer")
+        if answer:
+            valid = valid_answer_keys(section, q)
+            if valid and answer not in valid:
+                issues.append(f"[{sid}] q{q.get('number')} 答案 {answer} 不在可选范围 {sorted(valid)}")
+            meta = q.get("answerMeta")
+            if not isinstance(meta, dict):
+                issues.append(f"[{sid}] q{q.get('number')} 有答案但缺 answerMeta")
+            else:
+                if not meta.get("sourceFile"):
+                    issues.append(f"[{sid}] q{q.get('number')} answerMeta 缺 sourceFile")
+                if not meta.get("sourceText"):
+                    issues.append(f"[{sid}] q{q.get('number')} answerMeta 缺 sourceText")
+                if meta.get("confidence") not in {"high", "medium", "low"}:
+                    issues.append(f"[{sid}] q{q.get('number')} answerMeta 缺 confidence")
 
     return issues
 
@@ -194,7 +227,10 @@ def main():
 
         issues = validate_exam(exam)
         # 严重:section 缺失 / 题数错 → fail;只缺答案 → warn;其他 → warn
-        critical = [i for i in issues if "section 缺失" in i or "题数" in i or "选项不全" in i]
+        critical = [
+            i for i in issues
+            if "section 缺失" in i or "题数" in i or "选项不全" in i or "不在可选范围" in i
+        ]
         if critical:
             print(f"FAIL  {typ}/{slug}")
             for i in issues:

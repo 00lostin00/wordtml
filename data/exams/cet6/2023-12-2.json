@@ -31,7 +31,16 @@
             "D": "Spending their holidays in a novel way."
           },
           "answer": "D",
-          "explanation": "3 对话并买五王说】•二嚷二置茬藏:举屋夏芜••…莪行禾陵茬曾二帝窟虏鹿植亍:…莪悉高以祖二桶■誉军:苕 析;|探索一些地方。”由此可知，今年夏天女士想通过租露营车这种新方式来度过，D项与对话内容相符，故 i 为正确答案。"
+          "explanation": "3 对话并买五王说】•二嚷二置茬藏:举屋夏芜••…莪行禾陵茬曾二帝窟虏鹿植亍:…莪悉高以祖二桶■誉军:苕析;|探索一些地方。”由此可知，今年夏天女士想通过租露营车这种新方式来度过，D 项与对话内容相符，故 i 为正确答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "1. What has the woman been thinking of doing for this summer?女士一直想在今年夏天做什么？ A）租车而不是开自己的车。 C）探索更多的避暑胜地。 B）上网查询最优惠的价格。 D）以新奇的方式度过假期。 二套解 3 对话并买五王说】•二嚷二置茬藏:举屋夏芜••…莪行禾陵茬曾二帝窟虏鹿植亍:…莪悉高以祖二桶■誉军:苕析;|探索一些地方。”由此可知，今年夏天女士想通过租露营车这种新方式来度过，D 项与对话内容相符，故 i 为正确答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q2",
@@ -44,7 +53,16 @@
             "D": "He did not like to be locked into one place."
           },
           "answer": "A",
-          "explanation": "到什么信息？ A）他曾经有一辆面包车。 C）他觉得度假屋没有吸引力。 B）他游历广泛。 D）他不喜欢待在一个地方。 解+…奸法申勇王盘蓟；…莪忌落莪希.希唐看近二神而祥而武苞车:…诉超莱不意么破耳［莪；…;;“…由应时面：…勇王的 析|爷爷曾经有一辆面包车，因此A项为正确答案，选项中的once owned是对对话中had的同义替换。"
+          "explanation": "到什么信息？ A）他曾经有一辆面包车。 C）他觉得度假屋没有吸引力。 B）他游历广泛。 D）他不喜欢待在一个地方。 解+…奸法申勇王盘蓟；…莪忌落莪希. 希唐看近二神而祥而武苞车:…诉超莱不意么破耳［莪；…;;“…由应时面：…勇王的析|爷爷曾经有一辆面包车，因此 A 项为正确答案，选项中的 once owned 是对对话中 had 的同义替换。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "2. What do we learn about the man's grandfather from the conversation? 关于男士的爷爷，从这段对话中我们了解到什么信息？ A）他曾经有一辆面包车。 C）他觉得度假屋没有吸引力。 B）他游历广泛。 D）他不喜欢待在一个地方。 解+…奸法申勇王盘蓟；…莪忌落莪希. 希唐看近二神而祥而武苞车:…诉超莱不意么破耳［莪；…;;“…由应时面：…勇王的析|爷爷曾经有一辆面包车，因此 A 项为正确答案，选项中的 once owned 是对对话中 had 的同义替换。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q3",
@@ -57,7 +75,16 @@
             "D": "Generate their own electricity."
           },
           "answer": "D",
-          "explanation": "；蔚话,芟王袤示；・顼茬的嘉替举巨誉免至不同亍;•商蕃亍荡青顼代花而爵造汲施;・至著说道・「工莪觅•汪玉 忻j 少露营车装了太阳能电池板，可以在停车时提供电力。”由此可知，如今许多露营车都配备了太阳能电池 I 板这类自动发电的装置，可以自己发电，故D项为正确答案。"
+          "explanation": "；蔚话, 芟王袤示；・顼茬的嘉替举巨誉免至不同亍;•商蕃亍荡青顼代花而爵造汲施;・至著说道・「工莪觅•汪玉忻 j 少露营车装了太阳能电池板，可以在停车时提供电力。”由此可知，如今许多露营车都配备了太阳能电池 I 板这类自动发电的装置，可以自己发电，故 D 项为正确答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "What can many camper vans do nowadays according to the woman? 根据女士所述，如今许多露营车能做什么？ A）确保乘客的安全。 C）通过电脑接收指令。 B）在任何天气条件下驾驶。 D）自己发电。 解；蔚话, 芟王袤示；・顼茬的嘉替举巨誉免至不同亍;•商蕃亍荡青顼代花而爵造汲施;・至著说道・「工莪觅•汪玉忻 j 少露营车装了太阳能电池板，可以在停车时提供电力。”由此可知，如今许多露营车都配备了太阳能电池 I 板这类自动发电的装置，可以自己发电，故 D 项为正确答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q4",
@@ -70,7 +97,16 @@
             "D": "Riding one's mountain bike on vacation."
           },
           "answer": "B",
-          "explanation": "奸啬币王王盘蓟；…:湘蒙二中1.祢司议百万施亲住荷布抵罢而施沅.•…茬证第王衽荷施芳王祚•・…由位时 析| 知，B项与对话内容相符，故为正确答案。对话中男士提到，只要能满足如厕和淋浴等基本需求，他绝对 I 加入，并非女士，故排除A项。其他两项在对话中均未提及，故均排除。 Conversation Two 今 •听力原文• W: You wanted to see me? M: Yes, ril get straight to the point. [5] Over the past month or so, it has become apparent that your performance has dipped. You've been late to work several times these past few weeks, which is very uncharacteristic of you. But what really concerns me is your curtailed output. Lately, you seem to be constantly one step behind. Whafs going on? W: I'm sorry. [6] I'm going through some unfortunate family issues at the moment. It's a personal matter, so if you don't mind, I much prefer we don't get into it. Nevertheless, I expect it to have all blown over in another month or so. M: Do you need some time off? W: Actually, yes. Would it be possible to take the next two Mondays off? I was deliberating whethe"
+          "explanation": "奸啬币王王盘蓟；…:湘蒙二中 1.祢司议百万施亲住荷布抵罢而施沅. •…茬证第王衽荷施芳王祚•・…由位时析| 知，B 项与对话内容相符，故为正确答案。对话中男士提到，只要能满足如厕和淋浴等基本需求，他绝对 I 加入，并非女士，故排除 A 项。其他两项在对话中均未提及，故均排除。 Conversation Two 今 •听力原文• W: You wanted to see me? M: Yes, ril get straight to the point. [5] Over the past month or so, it has become apparent that your performance has dipped. You've been late to work several times these past few weeks, which is very uncharacteristic of you. But what really concerns me is your curtailed output. Lately, you seem to be constantly one step behind. Whafs going on? W: I'm sorry. [6] I'm going through some unfortunate family issues at the moment. It's a personal matter, so if you don't mind, I much prefer we don't get into it. Nevertheless, I expect it to have all blown over in another month or so. M: Do you need some time off? W: Actually, yes. Would it be possible to take the next two Mondays off? I was deliberating whethe",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "4. What idea does the woman find attractive?女士觉得什么想法有吸引力? A）离家在外时基本需求得到满足。 C）在日益忙碌的生活中放慢脚步。 B）可以自由选择出游地点和工作地点。 D）在度假时骑山地车。 解：奸啬币王王盘蓟；…:湘蒙二中 1.祢司议百万施亲住荷布抵罢而施沅. •…茬证第王衽荷施芳王祚•・…由位时析| 知，B 项与对话内容相符，故为正确答案。对话中男士提到，只要能满足如厕和淋浴等基本需求，他绝对 I 加入，并非女士，故排除 A 项。其他两项在对话中均未提及，故均排除。 Conversation",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q5",
@@ -83,7 +119,16 @@
             "D": "Her physical health has deteriorated these past few weeks."
           },
           "answer": "B",
-          "explanation": "到女士的什么信息？ A）她最近错过了几个重要的约会。 B）在过去的一个月里，她的工作业绩变差了。 C）她的工作产出落后于大多数同事。 D）过去几周，她的身体状况恶化了。 解；・好话并买：…勇王就井门•见山地指出女士的问题：“在过去的一个月左右，你的工作业绩明显下滑了。”由 析 此可知，B项与对话内容相符，故为正确答案，选项中的worsened是对对话中dipped的同义替换。"
+          "explanation": "到女士的什么信息？ A）她最近错过了几个重要的约会。 B）在过去的一个月里，她的工作业绩变差了。 C）她的工作产出落后于大多数同事。 D）过去几周，她的身体状况恶化了。 解；・好话并买：…勇王就井门•见山地指出女士的问题：“在过去的一个月左右，你的工作业绩明显下滑了。”由此可知，B 项与对话内容相符，故为正确答案，选项中的 worsened 是对对话中 dipped 的同义替换。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "5. What do we learn about the woman from the man's description? 根据男士所述，我们了解到女士的什么信息？ A）她最近错过了几个重要的约会。 B）在过去的一个月里，她的工作业绩变差了。 C）她的工作产出落后于大多数同事。 D）过去几周，她的身体状况恶化了。 解；・好话并买：…勇王就井门•见山地指出女士的问题：“在过去的一个月左右，你的工作业绩明显下滑了。”由此可知，B 项与对话内容相符，故为正确答案，选项中的 worsened 是对对话中 dipped 的同义替换。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q6",
@@ -96,7 +141,16 @@
             "D": "Penalty for curtailed output."
           },
           "answer": "C",
-          "explanation": "+对话中男士询问女士最近怎么了，女士回答说：“抱歉，我目前正在经历一些不幸的家庭问题。”由此可 析 知，C项与对话内容相符，故为正确答案，选项是对对话中some unfortunate family issues的同义改写。"
+          "explanation": "+对话中男士询问女士最近怎么了，女士回答说：“抱歉，我目前正在经历一些不幸的家庭问题。”由此可知，C 项与对话内容相符，故为正确答案，选项是对对话中 some unfortunate family issues 的同义改写。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "6. What does the woman say she9s experiencing at the moment?女士说她目前正在经历什么？ A）严重的健康问题。 B）精神紊乱。 C）家里的一些问题。 D）因为产出减少而受罚。 解+对话中男士询问女士最近怎么了，女士回答说：“抱歉，我目前正在经历一些不幸的家庭问题。”由此可知，C 项与对话内容相符，故为正确答案，选项是对对话中 some unfortunate family issues 的同义改写。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q7",
@@ -122,7 +176,16 @@
             "D": "The man will help the woman get back to her usual self."
           },
           "answer": "C",
-          "explanation": "对话末毫:…勇王希安壬说;莪濡萋称械复氢jio》% 而获青而濡荒菁荫不商二朝偷就褥亍直鼠； 广商后芟 士给予了肯定回答，然后男士说：“嗯，很好。那我们就这么办。”由此可知，女士接下来两个周一会请 假，并获得了男士的许可，C项与对话内容相符，故为正确答案。对话中女士请的是两个周一的假，并非 两周，A项说法错误。恢复到100%的状态是男士对女士的期望，并非男士自身，故B项也排除。D项对话 中未提及。 Section 鱼 Passage One 。 ・听力原文• There are many factors that impact our health. These include our finances, our emotions and the way we work. Education is one such factor. [9] Research suggests that higher levels of education can lead to better health and even greater longevity. But what about the education of your partner? New research seeks to answer this question. Researchers use data from a longitudinal study. The data came from surveys first administered to high school seniors in 1957. The surveys ended in 2011. [10] The team found that a person whose spouse had a higher level of education tended to report better health. This remained the case when adjusting for other factors, such as par"
+          "explanation": "对话末毫:…勇王希安壬说;莪濡萋称械复氢 jio》% 而获青而濡荒菁荫不商二朝偷就褥亍直鼠； 广商后芟士给予了肯定回答，然后男士说：“嗯，很好。那我们就这么办。”由此可知，女士接下来两个周一会请假，并获得了男士的许可，C 项与对话内容相符，故为正确答案。对话中女士请的是两个周一的假，并非两周，A 项说法错误。恢复到 100%的状态是男士对女士的期望，并非男士自身，故 B 项也排除。D 项对话中未提及。 Section 鱼 Passage One。 ・听力原文• There are many factors that impact our health. These include our finances, our emotions and the way we work. Education is one such factor. [9] Research suggests that higher levels of education can lead to better health and even greater longevity. But what about the education of your partner? New research seeks to answer this question. Researchers use data from a longitudinal study. The data came from surveys first administered to high school seniors in 1957. The surveys ended in 2011. [10] The team found that a person whose spouse had a higher level of education tended to report better health. This remained the case when adjusting for other factors, such as par",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "8. What agreement have the speakers reached by the end of the conversation? 对话末尾，对话双方达成了什么约定? A）女士将在两周后复工。 C）女士将在接下来的两个周一休假。 B）男士将在几周后恢复到 100%的状态。 D）男士将帮助女士恢复到她原来的状态。 解：对话末毫:…勇王希安壬说;莪濡萋称械复氢 jio》% 而获青而濡荒菁荫不商二朝偷就褥亍直鼠； 广商后芟士给予了肯定回答，然后男士说：“嗯，很好。那我们就这么办。”由此可知，女士接下来两个周一会请假，并获得了男士的许可，C 项与对话内容相符",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q9",
@@ -135,7 +198,16 @@
             "D": "It can help us achieve better work performance."
           },
           "answer": "B",
-          "explanation": "； 析 文章开头即指出，研究表明，受教育程度越高，健康状况就越好，甚至更长寿，故选项B正确:…逸顷币的 live a healthier and longer liffe是对原文中lead to better health and even greater longevity的同义转述。文中并未 提及受教育程度对情绪、情感、财务状况和工作业绩的影响，因此，其他三项均排除。"
+          "explanation": "What does research suggest about a higher level of education?关于更高的教育水平, 研究表明了什么？ A）它会对我们的情绪和情感产生影响。 C）它可以显著改善我们的财务状况。 B）它可以使我们活得更健康、更长寿。 D）它可以帮助我们取得更好的工作业绩。 文章开头即指出，研究表明，受教育程度越高，健康状况就越好，甚至更长寿，故选项 B 正确:…逸顷币的 live a healthier and longer liffe 是对原文中 lead to better health and even greater longevity 的同义转述。文中并未提及受教育程度对情绪、情感、财务状况和工作业绩的影响，因此，其他三项均排除。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": ". What does research suggest about a higher level of education?关于更高的教育水平, 研究表明了什么？ A）它会对我们的情绪和情感产生影响。 C）它可以显著改善我们的财务状况。 B）它可以使我们活得更健康、更长寿。 D）它可以帮助我们取得更好的工作业绩。 文章开头即指出，研究表明，受教育程度越高，健康状况就越好，甚至更长寿，故选项 B 正确:…逸顷币的 live a healthier and longer liffe 是对原文中 lead to better health and even greater longevity 的同义转述。文",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q10",
@@ -148,7 +220,16 @@
             "D": "The spouse's level of education can impact one's health."
           },
           "answer": "D",
-          "explanation": "； 析I 文章在提到这项新研究的结果时指出，研究团队发现，配偶受教育程度较高的人往往报告健康状况较好， 这与选项D的说法相符，故D项正确。社会背景、婚前婚后的健康状况都是新研究参考的因素，不是该研 究的结果，故排除选项A和B ; 选项C在文中未提及，故排除。"
+          "explanation": "I 文章在提到这项新研究的结果时指出，研究团队发现，配偶受教育程度较高的人往往报告健康状况较好， 这与选项 D 的说法相符，故 D 项正确。社会背景、婚前婚后的健康状况都是新研究参考的因素，不是该研究的结果，故排除选项 A 和 B ; 选项 C 在文中未提及，故排除。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "om the finding of the new research?我们从这项新研究的结果中得知什么? A） 一个人的健康状况在婚前和婚后往往会不同。 C） 一个人的配偶越富有，这个人就越健康。 B） 一个人的健康状况与其社会背景有关。 D）配偶的受教育程度会影响一个人的健康状况。 析 I 文章在提到这项新研究的结果时指出，研究团队发现，配偶受教育程度较高的人往往报告健康状况较好， 这与选项 D 的说法相符，故 D 项正确。社会背景、婚前婚后的健康状况都是新研究参考的因素，不是该研究的结果，故排除选项 A 和 B ; 选项 C 在文中未提及，故排除。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q11",
@@ -161,7 +242,16 @@
             "D": "They had more education than their spouses."
           },
           "answer": "D",
-          "explanation": "； 析I 文章结尾处提到，这个样本中的女性受教育程度和职业成就都低于男性，选项D是对这句话的反向推 理，故选项D正确。选项A是根据文中词汇reap the benefits设置的干扰项，文中指出研究人员认为个人可 以从伴侣的受教育程度中获益，而不是男性从自己的事业成就中获益，故排除；选项B是根据文中词汇 occupational achievements设置的干扰项，文中指出样本中的女性职业成就低于男性，并没有提到男性对自 己配偶的职业感兴趣，故排除；选项C在文中并未提及，故排除。 Passage Two 端 •听力原文• Climate scientists predict that many parts of the world will be increasingly prone to floods. This is a serious risk to human lives and property. [12] So understanding and accurately fbuecasting flood risks is a key challenge fbr vulnerable cities around the globe. In 2017, Derek Loftis of the Virginia Institute of Marine Science started a project called Catch the King. It uses a smartphone app to collect the data of ordinary citizens during high tides. [13] He'll use those data to validate and improve his mathematical flooding model, called TideWatch. [14] Loftis's mission is to know where the water goes before it goes there. "
+          "explanation": "I 文章结尾处提到，这个样本中的女性受教育程度和职业成就都低于男性，选项 D 是对这句话的反向推理，故选项 D 正确。选项 A 是根据文中词汇 reap the benefits 设置的干扰项，文中指出研究人员认为个人可以从伴侣的受教育程度中获益，而不是男性从自己的事业成就中获益，故排除；选项 B 是根据文中词汇 occupational achievements 设置的干扰项，文中指出样本中的女性职业成就低于男性，并没有提到男性对自己配偶的职业感兴趣，故排除；选项 C 在文中并未提及，故排除。 Passage Two 端 •听力原文• Climate scientists predict that many parts of the world will be increasingly prone to floods. This is a serious risk to human lives and property. [12] So understanding and accurately fbuecasting flood risks is a key challenge fbr vulnerable cities around the globe. In 2017, Derek Loftis of the Virginia Institute of Marine Science started a project called Catch the King. It uses a smartphone app to collect the data of ordinary citizens during high tides. [13] He'll use those data to validate and improve his mathematical flooding model, called TideWatch. [14] Loftis's mission is to know where the water goes before it goes there. But",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "the men in the sample of the new research? 关于这项新研究样本中的男性，文章说了什么？ A）他们从自己的事业成就中获益良多。 C）他们和自己的配偶有很多共同之处。 B）他们对自己配偶的职业感兴趣。 D）他们比自己的配偶受过更多教育。 析 I 文章结尾处提到，这个样本中的女性受教育程度和职业成就都低于男性，选项 D 是对这句话的反向推理，故选项 D 正确。选项 A 是根据文中词汇 reap the benefits 设置的干扰项，文中指出研究人员认为个人可以从伴侣的受教育程度中获益，而不是男性从自己的事业成就中获益，故排除；选项 B 是根据文中词汇 occupationa",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q12",
@@ -174,7 +264,16 @@
             "D": "Finding out the changing climate patterns."
           },
           "answer": "B",
-          "explanation": "；. 析：文章开头即指出，气候科学家预测，世界许多地区将越来越容易发生洪灾，而了解并准确预报洪水风险是 全球易受洪水侵袭的城市所面临的关键挑战，故选项B正确。其他三项文中并未提及，均排除。"
+          "explanation": "；. 析：文章开头即指出，气候科学家预测，世界许多地区将越来越容易发生洪灾，而了解并准确预报洪水风险是全球易受洪水侵袭的城市所面临的关键挑战，故选项 B 正确。其他三项文中并未提及，均排除。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "12. What is said to be a key challenge for cities prone to floods? 据说易受洪水侵袭的城市面临的关键挑战是什么？ A）消除其根源。 C）确定城市的地质特征。 B）准确预测洪水风险。 D）发现不断变化的气候模式。 解；. 析：文章开头即指出，气候科学家预测，世界许多地区将越来越容易发生洪灾，而了解并准确预报洪水风险是全球易受洪水侵袭的城市所面临的关键挑战，故选项 B 正确。其他三项文中并未提及，均排除。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q13",
@@ -186,8 +285,17 @@
             "C": "To improve his mathematical flooding model.",
             "D": "To see the feasibility of his project on flooding."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "他的防洪计划的可行性。 解；. 文章提到，2017 年，德里克•洛夫蒂斯启动了一个项目，该项目利用一款智能手机应用程序在涨潮时收集普通市民的数据。而他这样做的目的是利用这些数据来验证和改进他的洪水数学模型。选项 C 为文中原词复现，故为正确选项。其他三项文章中未提及，故均排除。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "s Derek Loftis collect the data of ordinary citizens during high tides? 德里克•洛夫蒂斯在涨潮时收集普通市民的数据，他的目的是什么？ A）验证他关于洪水严重性的假设。 C）改进他的洪水数学模型。 B）确定涨潮引发洪水的频率。 D） 了解他的防洪计划的可行性。 解；. 文章提到，2017 年，德里克•洛夫蒂斯启动了一个项目，该项目利用一款智能手机应用程序在涨潮时收集普通市民的数据。而他这样做的目的是利用这些数据来验证和改进他的洪水数学模型。选项 C 为文中原词复现，故为正确选项。其他三项文章中未提及，故均排除。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q14",
@@ -200,7 +308,16 @@
             "D": "To classify the flooding data processed."
           },
           "answer": "C",
-          "explanation": "； 析（文章中间部分明确提到Loftis's m issio n ,说洛夫蒂斯的任务是在洪水到达某地之前就知道它要流向那里。 know where the water goes before it goes there即选项C总结的forecast rapid floods in real tim e ,因此，选项C 正确。关于涨潮对洪涝地区的影响、教当地居民收集数据、对数据进行分类的信息文中并未提及，故均 排除。"
+          "explanation": "（文章中间部分明确提到 Loftis's m issio n, 说洛夫蒂斯的任务是在洪水到达某地之前就知道它要流向那里。 know where the water goes before it goes there 即选项 C 总结的 forecast rapid floods in real tim e, 因此，选项 C 正确。关于涨潮对洪涝地区的影响、教当地居民收集数据、对数据进行分类的信息文中并未提及，故均排除。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "14. What does the passage say is Derek Loftis、m ission?文章中说德里克•洛夫蒂斯的任务是什么？ A）研究涨潮对洪涝地区的影响。 C）实时预测湍急的洪水。 B）教当地居民如何收集即将到来的洪水的数据。 D）对处理过的洪水数据进行分类。 析（文章中间部分明确提到 Loftis's m issio n, 说洛夫蒂斯的任务是在洪水到达某地之前就知道它要流向那里。 know where the water goes before it goes there 即选项 C 总结的 forecast rapi",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q15",
@@ -213,7 +330,16 @@
             "D": "They observed the direction of water flow on the spot."
           },
           "answer": "A",
-          "explanation": "； 析：文章指出，在2017年，洛夫蒂斯及其同事在弗吉尼亚州诺福克的洪水高风险社区安装了一组共28个联网的 水位传感器。这些新传感器将水位和流动情况的粗略测量结果传送到弗吉尼亚研究所的一台计算机上。由 此可知，洛夫蒂斯及其同事是通过联网的水位传感器获取水位和流动情况的数据的，选项A正确。涨潮情 况是当地居民拍摄照片传送给研究所的，故选项B错误；文中虽然提到了超级计算机，但只是提供背景信 息，与洛夫蒂斯获取数据的方式无关，故C项排除；选项D文中未提及，故排除。 Section 集 Recording One 6 •听力原文• [16] Now, it's become something of a ritual to debate the value of a college degree, but as Current Population Survey data show, there has been a sharp decline in employment among men without college degrees compared with those who have them. This decline began in the 1960s and has become more serious over time. What has actually caused this decline? Well, economists have been working to ascertain the roots of the decline for decades and have come up with several theories. One popular theory is that it's a case of too low wages for jobs that don't require a degree. An alternate theory is that there were more jobs not requiring "
+          "explanation": "文章指出，在 2017 年，洛夫蒂斯及其同事在弗吉尼亚州诺福克的洪水高风险社区安装了一组共 28 个联网的水位传感器。这些新传感器将水位和流动情况的粗略测量结果传送到弗吉尼亚研究所的一台计算机上。由此可知，洛夫蒂斯及其同事是通过联网的水位传感器获取水位和流动情况的数据的，选项 A 正确。涨潮情况是当地居民拍摄照片传送给研究所的，故选项 B 错误；文中虽然提到了超级计算机，但只是提供背景信息，与洛夫蒂斯获取数据的方式无关，故 C 项排除；选项 D 文中未提及，故排除。 Section 集 Recording One 6 •听力原文• [16] Now, it's become something of a ritual to debate the value of a college degree, but as Current Population Survey data show, there has been a sharp decline in employment among men without college degrees compared with those who have them. This decline began in the 1960s and has become more serious over time. What has actually caused this decline? Well, economists have been working to ascertain the roots of the decline for decades and have come up with several theories. One popular theory is that it's a case of too low wages for jobs that don't require a degree. An alternate theory is that there were more jobs not requiring a co",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "15. What did Loftis and his colleagues do to obtain data about water height and movement? 洛夫蒂斯和他的同事是如何获取有关水位和流动情况的数据的？ A）他们安装了连接互联网的水位传感器。 C）他们使用了新研发的超级计算设备。 B）他们用摄像机追踪涨潮情况。 D）他们在现场观察了洪水流动的方向。 析：文章指出，在 2017 年，洛夫蒂斯及其同事在弗吉尼亚州诺福克的洪水高风险社区安装了一组共 28 个联网的水位传感器。这些新传感器将水位和流动情况的粗略测量结果传送到弗吉尼亚研究所的一台计算机上。由此可知，洛夫蒂",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q16",
@@ -226,7 +352,16 @@
             "D": "To compare men without college degrees with those who have."
           },
           "answer": "A",
-          "explanation": "释男性就业率的急剧下降。 B）讨论当前调查数据的有效性。 D）比较没有大学文凭的男性和有大学文凭的男性。 解；. 析：在讲话开头，讲话者便提到，现在讨论大学学位的价值已经成为一种惯例，由此很容易得出正确答案为 A o 讲话中虽然提到了选项C所述的经济学家们一直致力于弄清男性就业率下降的根源，但这并不是讲话 者所说的惯例，故排除。选项B、D都和本题所问问题无关，故排除。"
+          "explanation": "释男性就业率的急剧下降。 B）讨论当前调查数据的有效性。 D）比较没有大学文凭的男性和有大学文凭的男性。 解；. 析：在讲话开头，讲话者便提到，现在讨论大学学位的价值已经成为一种惯例，由此很容易得出正确答案为 A o 讲话中虽然提到了选项 C 所述的经济学家们一直致力于弄清男性就业率下降的根源，但这并不是讲话者所说的惯例，故排除。选项 B、D 都和本题所问问题无关，故排除。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "What does the speaker say has become something of a ritual?讲话者说什么已经成为一种惯例？ A）讨论大学文凭的价值。 C）解释男性就业率的急剧下降。 B）讨论当前调查数据的有效性。 D）比较没有大学文凭的男性和有大学文凭的男性。 解；. 析：在讲话开头，讲话者便提到，现在讨论大学学位的价值已经成为一种惯例，由此很容易得出正确答案为 A o 讲话中虽然提到了选项 C 所述的经济学家们一直致力于弄清男性就业率下降的根源，但这并不是讲话者所说的惯例，故排除",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q17",
@@ -252,7 +387,16 @@
             "D": "The sharp decline in marriage among men with no college degrees."
           },
           "answer": "D",
-          "explanation": "释是什么？ A）在通货膨胀加剧的时代，男性不愿意接受低工资。 C）现在更多的工作要求任职者拥有大学文凭。 B）有大学文凭和没有大学文凭的人之间的工资差距。 D）没有大学文凭的男性结婚率急剧下降。 解； 析：讲话者在讲话最后提到，研究人员发现了两个新的可能的解释：首先是自20世纪60年代以来，没有大学文 凭的男性结婚率大幅下降。由此可知，选项D为正确答案。 Recording Two 。 ・听力原文• While an increasing number of people are trying to eat less meat, a market research team has found in its latest fashion and sustainability report that the trend is now spreading from kitchen to closet. [19] It found animal welfare came top of a list of issues that people considered before buying clothes, with 42% saying it was important to them. The researchers of the team predicted that the next year would see a boom in animal-free shoe collections, since they heard shoppers of all ages say they would buy footwear designated as “vegan”, meaning the goods were produced without using any animal or animal part. 六级 2023.12[第ZW] 27 As well as being on trend, and with a much better ring to it "
+          "explanation": "释是什么？ A）在通货膨胀加剧的时代，男性不愿意接受低工资。 C）现在更多的工作要求任职者拥有大学文凭。 B）有大学文凭和没有大学文凭的人之间的工资差距。 D）没有大学文凭的男性结婚率急剧下降。 析：讲话者在讲话最后提到，研究人员发现了两个新的可能的解释：首先是自 20 世纪 60 年代以来，没有大学文凭的男性结婚率大幅下降。由此可知，选项 D 为正确答案。 Recording Two。 ・听力原文• While an increasing number of people are trying to eat less meat, a market research team has found in its latest fashion and sustainability report that the trend is now spreading from kitchen to closet. [19] It found animal welfare came top of a list of issues that people considered before buying clothes, with 42% saying it was important to them. The researchers of the team predicted that the next year would see a boom in animal-free shoe collections, since they heard shoppers of all ages say they would buy footwear designated as “vegan”, meaning the goods were produced without using any animal or animal part. As well as being on trend, and with a much better ring to it than synthetic leather",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "en's employment? 最近的论文认为，关于男性就业问题的一种新的可能的解释是什么？ A）在通货膨胀加剧的时代，男性不愿意接受低工资。 C）现在更多的工作要求任职者拥有大学文凭。 B）有大学文凭和没有大学文凭的人之间的工资差距。 D）没有大学文凭的男性结婚率急剧下降。 析：讲话者在讲话最后提到，研究人员发现了两个新的可能的解释：首先是自 20 世纪 60 年代以来，没有大学文凭的男性结婚率大幅下降。由此可知，选项 D 为正确答案。 Recording Two。 ・听力原文• While an increasing number of people are trying to eat less",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q19",
@@ -265,7 +409,16 @@
             "D": "An increasing number of people follow the latest trend of becoming vegetarians."
           },
           "answer": "B",
-          "explanation": "+讲话者在一开头就提到，一个市场研究团队在其最新的时尚和可持续发展报告中发现，少吃肉的趋势正在 析 从厨房蔓延到衣橱，人们在购买衣服前考虑的一系列问题中，动物福祉排在首位。由此很容易得出，选项 B为正确答案。"
+          "explanation": "+讲话者在一开头就提到，一个市场研究团队在其最新的时尚和可持续发展报告中发现，少吃肉的趋势正在从厨房蔓延到衣橱，人们在购买衣服前考虑的一系列问题中，动物福祉排在首位。由此很容易得出，选项 B 为正确答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "n its latest fashion and sustainability report? 一个市场研究团队在其最新的时尚和可持续发展报告中发现了什么？ A）越来越多的人重视保护濒危动物。 C）越来越多的人要求释放被关在笼子里的动物。 B）越来越多的人在购买服装时优先考虑动物福祉。 D）越来越多的人追随成为素食主义者的最新趋势。 解+讲话者在一开头就提到，一个市场研究团队在其最新的时尚和可持续发展报告中发现，少吃肉的趋势正在从厨房蔓延到衣橱，人们在购买衣服前考虑的一系列问题中，动物福祉排在首位。由此很容易得出，选项 B 为正确答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q20",
@@ -278,7 +431,16 @@
             "D": "Utilized a silk substitute made from mushrooms."
           },
           "answer": "A",
-          "explanation": "； 析： 讲话者在讲话中间提到，在高端时装领域，一些世界知名时装设计师已经有一段时间不使用皮革和毛 皮了。由此可知，选项A为正确答案。选项B中的label和v e g a n ,选项C中的chemicals以及选项D中的silk substitute和mushrooms讲话中虽有提及，但都不符合题干针对世界知名时装设计师的行为进行的提问，故 均可排除。"
+          "explanation": "What have some world-renowned fashion designers done for some time? 一段时间以来，一些世界知名时装设计师做了什么？ A）避免使用皮革和毛皮。 C）避免在他们的产品中使用化学物质。 B）把他们所有的产品都贴上纯素标签。 D）使用蘑菇制成的丝绸替代品。 讲话者在讲话中间提到，在高端时装领域，一些世界知名时装设计师已经有一段时间不使用皮革和毛皮了。由此可知，选项 A 为正确答案。选项 B 中的 label 和 vegan, 选项 C 中的 chemicals 以及选项 D 中的 silk substitute 和 mushrooms 讲话中虽有提及，但都不符合题干针对世界知名时装设计师的行为进行的提问，故均可排除。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "20. What have some world-renowned fashion designers done for some time? 一段时间以来，一些世界知名时装设计师做了什么？ A）避免使用皮革和毛皮。 C）避免在他们的产品中使用化学物质。 B）把他们所有的产品都贴上纯素标签。 D）使用蘑菇制成的丝绸替代品。 讲话者在讲话中间提到，在高端时装领域，一些世界知名时装设计师已经有一段时间不使用皮革和毛皮了。由此可知，选项 A 为正确答案。选项 B 中的 label 和 vegan, 选项 C 中的 chemicals 以及选项 D 中的 silk sub",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q21",
@@ -291,7 +453,16 @@
             "D": "Whether they can be regarded as ethical."
           },
           "answer": "D",
-          "explanation": "i 否可以被认为是道德产品，故选项D为正确答案。 Recording Three 。 ・听力原文• By the end of 2016, anyone who had been paying even passing attention to the news headlines was highly likely to conclude that everything was terrible, and that the world was going to hell. It was easy to feel depressed by the wars in different parts of the world, the spread of deadly viruses or terror attacks. 2 8 六级2023.12］第二套〕 Yet, 2016 was the best year in the history of humanity. Child mortality was roughly half what it was as recently as 1990. And 300,000 more people gained access to electricity each day. Every single measure of material and environmental welfare in America, Europe, Asia, Africa and the world as a whole has improved rather than deteriorated. [22] We are living in history's most peaceful era, with violence of all kinds in steep decline. Those are the facts. So why aren't we all optimists? [23] In a 2015 survey fbr Yo"
+          "explanation": "•",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "y is unclear concerning vegan products? 讲话者表示，关于纯素产品还有哪些尚不清楚的地方？ A）它们是否真的意味着实质性的变化。 C）它们是否可以被认为是可持续的。 B）匕仰是查有效地保护了所有动物。 D）它们是否可以被视为是道德产品。 堡+泮法署黄山洁嘉片荫施盘蓟;…百啬商示潘港佥国新声喜：…如箭面揖蓟而蔽注而亍砒豪商标而声嘉［. …显 i 否可以被认为是道德产品，故选项 D 为正确答案。 Recording Three。 ・听力原文• By the end of 2016, anyone who had been paying even passing at",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q22",
@@ -304,7 +475,16 @@
             "D": "The belief is less prevalent that the world is going to hell."
           },
           "answer": "A",
-          "explanation": "，讲话者在讲话中提到，2016年是人类历史上最好的一年，我们生活在历史上最和平的时代，各种暴力事件 析 都急剧减少。故选项A为正确答案，同时排除选项B。讲话者还提到，在美洲、欧洲、亚洲、非洲乃至整个 世界，物质福利和环境福利的每一项指标都得到了改善，而不是恶化，故选项C错误。讲话者提到任何稍微 关注新闻头条的人都极有可能得出结论：一切都糟透了，世界正在走向地狱，选项D与此相反，可排除。"
+          "explanation": "，讲话者在讲话中提到，2016 年是人类历史上最好的一年，我们生活在历史上最和平的时代，各种暴力事件都急剧减少。故选项 A 为正确答案，同时排除选项 B。讲话者还提到，在美洲、欧洲、亚洲、非洲乃至整个世界，物质福利和环境福利的每一项指标都得到了改善，而不是恶化，故选项 C 错误。讲话者提到任何稍微关注新闻头条的人都极有可能得出结论：一切都糟透了，世界正在走向地狱，选项 D 与此相反，可排除。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "22. What is one of the facts stated by the speaker?讲话者陈述的事实之一是什么？ A）我们所处的时代是历史上最和平的时代 o C）世界的环境福利恶化了。 B）近年来世界上的暴力事件增多了。 D） “世界将走向地狱”的观念不那么普遍了。 解，讲话者在讲话中提到，2016 年是人类历史上最好的一年，我们生活在历史上最和平的时代，各种暴力事件都急剧减少。故选项 A 为正确答案，同时排除选项 B。讲话者还提到，在美洲、欧洲、亚洲、非洲乃至整个世界，物质",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q23",
@@ -317,7 +497,16 @@
             "D": "They were convinced by the statistics presented to them."
           },
           "answer": "B",
-          "explanation": "到大多数英国人和法国人的什么情况? A）他们实际上头脑不正常。 B）他们认为世界正在变差。 C）他们不希望生活在上个世纪。 D）他们相信提供给他们的统计数据。 解：讲话著茬讲话用提蓟车真观祠看两的二顼福者甲：65%的英国人和81%的法国人表示，他们认为 析 世界正在变得更糟，故选项B为正确答案。"
+          "explanation": "到大多数英国人和法国人的什么情况? A）他们实际上头脑不正常。 B）他们认为世界正在变差。 C）他们不希望生活在上个世纪。 D）他们相信提供给他们的统计数据。 解：讲话著茬讲话用提蓟车真观祠看两的二顼福者甲：65%的英国人和 81%的法国人表示，他们认为世界正在变得更糟，故选项 B 为正确答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "23. What do we learn about most British and French people in a 2015 survey for YouGov? 在 2015 年舆观调查网的一项调查中，我们了解到大多数英国人和法国人的什么情况? A）他们实际上头脑不正常。 B）他们认为世界正在变差。 C）他们不希望生活在上个世纪。 D）他们相信提供给他们的统计数据。 解：讲话著茬讲话用提蓟车真观祠看两的二顼福者甲",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q24",
@@ -330,7 +519,16 @@
             "D": "Our ancestors' influence."
           },
           "answer": "C",
-          "explanation": "；…就活著茬苗洁市盘到:…莪们普遍的绝望情绪是不理性的。这种情绪更多地反映了我们自身，而不是真正的 析 现实。最好的解释是，这是各种心理偏差造成的结果。由此可知，我们如今普遍的绝望情绪其实来源于心 理偏差，故选项C为正确答案，同时排除选项B。讲话中提到当今社会媒体饱和，但并未提到大众媒体的 主观性，故排除选项A。讲话中提到各种心理偏差对我们逐步进化的祖先产生了一定的影响，而非我们的 祖先对普遍的绝望情绪产生了影响，故排除选项D。 六级2023.12「第二套:2 9"
+          "explanation": "；…就活著茬苗洁市盘到:…莪们普遍的绝望情绪是不理性的。这种情绪更多地反映了我们自身，而不是真正的现实。最好的解释是，这是各种心理偏差造成的结果。由此可知，我们如今普遍的绝望情绪其实来源于心理偏差，故选项 C 为正确答案，同时排除选项 B。讲话中提到当今社会媒体饱和，但并未提到大众媒体的主观性，故排除选项 A。讲话中提到各种心理偏差对我们逐步进化的祖先产生了一定的影响，而非我们的祖先对普遍的绝望情绪产生了影响，故排除选项 D。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "24. What does our prevailing mood of despair indicate?我们普遍的绝望情绪表明了什么？ A）大众传媒的主观性。 B）事情的现状。 C）我们的心理偏差。 D）我们祖先的影响。 解；…就活著茬苗洁市盘到:…莪们普遍的绝望情绪是不理性的。这种情绪更多地反映了我们自身，而不是真正的现实。最好的解释是，这是各种心理偏差造成的结果。由此可知，我们如今普遍的绝望情绪其实来源于心理偏差，故选项 C 为正确答案，同时排除选项 B。讲话中提到当今社会媒体饱和，但并未提到大众媒体的主观性，故排除选项 A。讲话",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q25",
@@ -343,7 +541,16 @@
             "D": "Paying attention to negative information."
           },
           "answer": "D",
-          "explanation": "+…讲话著茬讲话后率舒芬提到:“…茬莪桁迸花而防英王:…贫面蓿鱼福蓉房破讥莪布前汪素五；.聂鬼二雨定事二 析j 因此选项D为正确答案。选项A讲话中未提及，故排除。选项C是“关注负面消息”有一定好处的原因，选 I 项B是它的一个后果，故排除这两项。 Part III (>) Reading Comprehension Section 画 •概览. 本文节选自纽约大学官网2020年12月7 日发布的一篇标题为\"How Do We Separate the Factual from the Possible? New Research Shows How Our Brain Responds to Both” 的文章。纽约大学的研究发现，大脑对表 达事实的语言的反应与对表达可能性的语言的反应不同，这为人们如何区分真实和可能的陈述提供了新 的见解。 。 •全文翻译• 纽约大学的科学家们最近发现，我们的大脑对表达事实的语言的反应与对表达可能性的语言的反应不 同。他们的研究为词语选择对我们如何［26］区分真实的和仅仅是可能的陈述的影响提供了新的见解。研究人员 声称他们的发现很重要，因为我们总是收到虚假的信息。其中一些是［27］故意的，就像欺骗性广告一样，但由 于有些人认为他们分享的信息是正确的，这一问题就［28］严重了。因此，在我们的沟通方式中，将事实与可能 或仅仅是［29］推测区分开来比以往任何时候都更加重要。这一点尤其正确，因为这项研究清楚地表明，作为事 实呈现的信息会在我们的大脑中［30］引起特殊的反应，这与我们处理具有明确的［31］不确定性标志的相同内容 时有所不同。 在他们的新研究中，科学家们打算［32］弄清大脑是如何计算“可能” “或许”和“如果”等词表达的可能 性的。研究人员比较了大脑对表达事实［33］场景的陈述和表达可能性的陈述的反应。“我床下有个怪物”是一个 事实陈述的例子。“我会待在家里”也是事实的陈述。这与表达可能性的说法相反，比如“我床下可能有个怪 物”或“如果下雨，我会待在家里”。研究结果表明，事实语言［34］激活了大脑活动的快速增加，与表达可能性 的语言"
+          "explanation": "+…讲话著茬讲话后率舒芬提到:“…茬莪桁迸花而防英王:…贫面蓿鱼福蓉房破讥莪布前汪素五；. 聂鬼二雨定事二析 j 因此选项 D 为正确答案。选项 A 讲话中未提及，故排除。选项 C 是“关注负面消息”有一定好处的原因，选 I 项 B 是它的一个后果，故排除这两项。 Part III (>) Reading Comprehension Section 画 •概览. 本文节选自纽约大学官网 2020 年 12 月 7 日发布的一篇标题为\"How Do We Separate the Factual from the Possible? New Research Shows How Our Brain Responds to Both” 的文章。纽约大学的研究发现，大脑对表达事实的语言的反应与对表达可能性的语言的反应不同，这为人们如何区分真实和可能的陈述提供了新的见解。。 •全文翻译• 纽约大学的科学家们最近发现，我们的大脑对表达事实的语言的反应与对表达可能性的语言的反应不同。他们的研究为词语选择对我们如何［26］区分真实的和仅仅是可能的陈述的影响提供了新的见解。研究人员声称他们的发现很重要，因为我们总是收到虚假的信息。其中一些是［27］故意的，就像欺骗性广告一样，但由于有些人认为他们分享的信息是正确的，这一问题就［28］严重了。因此，在我们的沟通方式中，将事实与可能或仅仅是［29］推测区分开来比以往任何时候都更加重要。这一点尤其正确，因为这项研究清楚地表明，作为事实呈现的信息会在我们的大脑中［30］引起特殊的反应，这与我们处理具有明确的［31］不确定性标志的相同内容时有所不同。 在他们的新研究中，科学家们打算［32］弄清大脑是如何计算“可能” “或许”和“如果”等词表达的可能性的。研究人员比较了大脑对表达事实［33］场景的陈述和表达可能性的陈述的反应。“我床下有个怪物”是一个事实陈述的例子。“我会待在家里”也是事实的陈述。这与表达可能性的说法相反，比如“我床下可能有个怪物”或“如果下雨，我会待在家里”。研究结果表明，事实语言［34］激活了大脑活动的快速增加，与表达可能性的语言",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "as a very good thing in our evolutionary past?在我们进化的历史上，什么是非常好的事情？ A）广泛传播我们身边令人兴奋的新闻。 C）预测我们生存所面临的致命风险。 B）搜罗令人沮丧或愤怒的故事。 D）关注负面信息。 解+…讲话著茬讲话后率舒芬提到:“…茬莪桁迸花而防英王:…贫面蓿鱼福蓉房破讥莪布前汪素五；. 聂鬼二雨定事二析 j 因此选项 D 为正确答案。选项 A 讲话中未提及，故排除。选项 C 是“关注负面消息”有一定好处的原因，选 I 项 B 是它的一个后果，故排除这两项。 Part III (>) Reading Comprehension Section 画 •概览",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -373,62 +580,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "E） differentiate （v. 区分） ［ 语法判断|空格前是 on how we, 空格后是介词短语 between statements, 由此可知，空格处应填入一个动词， 充当 how 引导的宾语从句的谓语。 文章开头提及纽约大学的科学家发现大脑对表达事实的语言和表达可能性的语言有不同反应，此处承接上文，继续探讨科学家发现的意义。由 between statements expressing what is real versus what is merely possible 可知，文章将两种情况列出来，是为了加以“区分”，故备选动词中 differentiate 符合语境。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "E） differentiate （v. 区分） ［ 语法判断|空格前是 on how we, 空格后是介词短语 between statements, 由此可知，空格处应填入一个动词， 充当 how 引导的宾语从句的谓语。 文章开头提及纽约大学的科学家发现大脑对表达事实的语言和表达可能性的语言有不同反应，此处承接上文，继续探讨科学家发现的意义。由 between",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "D） deliberate （adj. 故意的 u 仔细考虑） 醯前空格前是 be 动词 i s, 空格后是逗号，由此可知，空格处应填入一个形容词或分词，构成系表结构。 〔 语义判断 I 由下文所举例子 as is the case with deceptive advertisements （像欺骗性广告一样）可知，欺骗性广告的目的就是骗人们购买相应产品，是广告商蓄意而为之，故 deliberate 符合语境。 3 0 六。2023.12 足司",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "D） deliberate （adj. 故意的 u 仔细考虑） 醯前空格前是 be 动词 i s, 空格后是逗号，由此可知，空格处应填入一个形容词或分词，构成系表结构。 〔 语义判断 I 由下文所举例子 as is the case with deceptive advertisements （像欺骗性广告一样）可知，欺骗性广告的目的就是骗人们购买相应产品，是广告",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "B） aggravated （vt. 使严重，使恶化） 卓圃空格前是 be 动词 i s, 空格后是介词短语 by individuals, 由此可知，该句是被动语态，空格处应填入一个过去分词。 上文提及人们总是收到虚假信息，其中有些就像欺骗性广告一样是故意的，这属于不良状况，而由空格后的内容 by individuals who believe they are sharing correct information （被那些认为自己分享的是正确信息的人）可知，有人认为自己散播的虚假信息是正确信息，这是雪上加霜的情况，因此 aggravated 符合语境。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "B） aggravated （vt. 使严重，使恶化） 卓圃空格前是 be 动词 i s, 空格后是介词短语 by individuals, 由此可知，该句是被动语态，空格处应填入一个过去分词。 上文提及人们总是收到虚假信息，其中有些就像欺骗性广告一样是故意的，这属于不良状况，而由空格后的内容 by individuals who believe they are",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "M） speculative （adj. 猜测的，推测的） |语法判断|空格前是表示选择关系的连词 or 和副词 m erely, 后面是介词短语 in how we communicate （介词 in 的宾语由 how 引导的宾语从句充当）, 由此可知，空格处应填入一个形容词，与 or 前面的 possible 一起构成选择关系。 ［语义判断］本句中使用了 separate A from B 的结构，意为“将 A 与 B 分离；区分 A 与 B”，这里的 A 是 the factual （“the+形容词”结构，表示一类人或事物），意为“事实情况”，BMthe possible or merely, the possible 意为“可能的事”，or 后面的内容应与“可能的事”语义相近，将备选形容词代入原文，可知 speculative 符合语境，the speculative 即“猜测的事”，能与 the possible 构成选择关系。因为由 or 连接，所以 the speculative 中的 the 可以省略。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "M） speculative （adj. 猜测的，推测的） |语法判断|空格前是表示选择关系的连词 or 和副词 m erely, 后面是介词短语 in how we communicate （介词 in 的宾语由 how 引导的宾语从句充当）, 由此可知，空格处应填入一个形容词，与 or 前面的 possible 一起构成选择关系。 ［语义判断］本句中使用了 separate A",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "句子结构可知，此处是 make sth. clear 的结构，意为“澄清某事”，其中 sth. 是由 that 引导的宾语从句充当；在该宾语从句中，句子主语是 information, 其后的 presented as fact 是过去分词短语，充当 information 的后置定语，空格后的 special responses 是该宾语从句的宾语，可知该宾语从句缺少谓语动词， 空格处应填入第三人称单数形式的谓语动词。 文章开头部分就指出纽约大学研究人员发现了大脑对表达事实的语言的反应与对表达可能性的语言的反应不同，由空格后的 special responses in our brains 可推断，此处是说，作为事实呈现的信息会在我们的大脑中“引起”特殊的反应，故 evokes 符合语境。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "G） evokes （vt. 弓| 起，唤起） 分析句子结构可知，此处是 make sth. clear 的结构，意为“澄清某事”，其中 sth. 是由 that 引导的宾语从句充当；在该宾语从句中，句子主语是 information, 其后的 presented as fact 是过去分词短语，充当 information 的后置定语，空格后的 special response",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "O",
+          "explanation": "释纽约大学的研究结果，前面提到作为事实呈现的信息会在我们的大脑中引起特殊的反应，而这与大脑处理表达可能性的语言的反应不同（distinct） o fact 意为“事实”，是“确定的事”，可能的事是“不确定的事”，将备选名词代入原文，可知 uncertainty 符合语境，即“这与我们处理具有明确的不确定性标志的相同内容时有所不同”。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "O） uncertainty （n. 不确定性） ［ 语法判断 I 空格前是介词 of, 空格后是句点，由此可知，空格处应填入名词，充当。谢宾语。 此处还是在解释纽约大学的研究结果，前面提到作为事实呈现的信息会在我们的大脑中引起特殊的反应，而这与大脑处理表达可能性的语言的反应不同（distinct） o fact 意为“事实”，是“确定的事”，可能的事是“",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "决问题的，由此可知此处是说，在新研究中，科学家们打算“弄清楚”大脑是如何计算“可能” “或许”和“如果”等词表达的可能性的，将备选动词原形代入原文，可知 ascertain 符合语境。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "C） ascertain （例. 弄清，查明） ［ 语法判断 I 空格前是 intended t o, 空格后是 how 引导的宾语从句，由此可知，空格处应填入一个动词原形，构成 intend to do sth. （打算做某事）的结构。 众所周知，研究是科学家用来揭示真相和解决问题的，由此可知此处是说，在新研究中，科学家们打算“弄清楚”大脑是如何计算“可能” “或",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "L） scenarios （几场景） ［ 语法判断］空格前是现在分词 expressing 和形容词 factual, 空格后是连词 and, 由此可知，空格处应填入一个名词，充当现在分词 expressing 的宾语。 由下文作者所举之例可知，“我床下有个怪物”是事实陈述，是一种“情景”或“场景”，“我床下可能有个怪物”是一种可能性，可知本句要表达的是，研究人员比较了大脑对表达事实场景的陈述和表达可能性的陈述的反应，故 scenarios 符合语境。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "L） scenarios （几场景） ［ 语法判断］空格前是现在分词 expressing 和形容词 factual, 空格后是连词 and, 由此可知，空格处应填入一个名词，充当现在分词 expressing 的宾语。 由下文作者所举之例可知，“我床下有个怪物”是事实陈述，是一种“情景”或“场景”，“我床下可能有个怪物”是一种可能性，可知本句要表达的是，研究人员",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "句子结构可知，此处是 that 引导的宾语从句，充当 showed 的宾语，在该宾语从句中，主语是 factual language, a rapid increase 是宾语，由此可知，空格处应填入一个谓语动词。 ［ 1 ^ ］此处在讲述该研究的结果，将备选动词代入原文可知，activated 符合语境，即“研究结果表明， 事实语言激活了大脑活动的快速增加，与表达可能性的语言相比，大脑对事实性短语的反应更强烈，表现出更多的参与。”",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "A） activated （vt. 激活） 分析句子结构可知，此处是 that 引导的宾语从句，充当 showed 的宾语，在该宾语从句中，主语是 factual language, a rapid increase 是宾语，由此可知，空格处应填入一个谓语动词。 ［ 1 ^ ］此处在讲述该研究的结果，将备选动词代入原文可知，activated 符合语境，即“研究结果表明",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "我们的过去至关重要。难怪从打捞人员到学者，每个人都有寻找他们的不懈动力。 G） 2016 年 5 月，位于佛罗里达州坦帕市的全球海洋勘探公司（GME）总裁鲍比•普里切特宣布，他在距离卡纳维拉尔角一公里的地方发现了一艘埋在那里的船只散落的残骸。在过去的三年里，他和他的船员们已经获得了 14 个州的许可证，可以在卡纳维拉尔角外近 260 平方公里的区域进行勘测；［40］他声称，他们一年工作 250 天，得到了投资者 400 万美元的资助。这是一项艰苦的工作。船员们黎明时分便起床，年复一年、 日复一日地从探险船上来回拖动传感器，以探测各种金属。普里切特和他的船员们使用计算机技术，绘制了复杂的彩色编码地图，上面标有数千个发现物的 GPS 坐标，这些发现物在一米深的沙子下，肉眼是看不见的。 H） 2015 年的一天，磁力计检测到了金属，原来是一门铁炮。潜水员吹走了沙子，还发现了一门更珍贵的青铜大炮，上面显示有法国皇室的标记，不远的地方，还有一根著名的大理石柱，从历史绘画中得知，大理石柱上面雕刻的是法国的纹章。这一发现值得庆祝。这些文物表明，潜水员很可能发现了拉特里尼泰号沉船，这是一艘 16 世纪的法国舰艇，曾处于法国和西班牙之间一场血腥战斗的中心，那场战斗改变了美国的命运。 I）然后法律风暴开始了，全球海洋勘探公司和普里切特与佛罗里达州政府和法国政府展开了对抗。美国 2004 年的联邦法案《沉没军舰法案》保护任何执行军事任务的舰船，允许船只来源国对其船只宣示所有权，即便是过了几个世纪。［38］ 2018 年，也就是普里切特发现沉船两年后，联邦地区法院做出了有利于法国的裁决。对普里切特来说，这一决定是毁灭性的。投资者数百万美元的资助和多年的辛苦劳动都白费了。 J）但这远不是打捞人员第一次失去与发现有关的所有权利。例如，2012 年，西班牙赢得了与奥德赛海洋勘探公司的一场为期五年的法律诉讼，该公司将 59.4 万枚金币和银币从葡萄牙海岸外的一艘西班牙沉船上拖到了大西洋对岸的美国。律师大卫•康坎农说：“寻宝者可能很天真。”他在为几位海洋考古学家服务，并在围绕泰坦尼克号的争论中为双方做",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "F） discourse （九话语） ［语法判断］空格前是 Brain regions involved in processing, 空格后是 rapidly distinguish facts from possibilities, 可知 Brain regions 是句子主语，distinguish 是谓语，那么空格处应填入一个名词，和 processing 一起",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -487,36 +784,81 @@
           "id": "q36",
           "number": 36,
           "stem": "Exploration of shipwrecks on the sea floor is crucial in updating our understanding of humanity's past.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "至关重要。 ［答案解析］Fo 由题干关键信息 is crucial in updating our understanding of humanity's past 定位到 F 段。该段第二句提到，其中有些船只对于重新理解我们的过去至关重要。以上题干关键信息是对 are critical t。a new understanding of our past 的同义转述。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "对海底沉船的探索对于更新我们对人类过去的了解至关重要。 ［答案解析］Fo 由题干关键信息 is crucial in updating our understanding of humanity's past 定位到 F 段。该段第二句提到，其中有些船只对于重新理解我们的过去至关重要。以上题干关键信息是对 are critical t。a new understanding of our past 的同义转述。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "Quite a number of majestic ships sailing from Europe to America were wrecked off the Florida coast over the\ncenturies.",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "］B o 由题干关键信息 sailing fh)m Europe to America 以及 over the centuries 定位到 B 段。该段第二句指出，几个世纪以来，来自旧世界的数十艘雄伟的帆船在佛罗里达沿岸这片变幻莫测、狂风肆虐的海域被摧毁而沉没。题干中的 Quite a number of majestic ships sailing from Europe 对应原文中的 dozens of majestic Old World sailing ships; were wrecked off the Florida coast 对应原文中的 smashed and sank on this irregular stretch of windy Florida coast; over the centuries 属于原词重现。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "几个世纪以来，有许多从欧洲驶往美国的雄伟船只在佛罗里达海岸附近失事。 ［答案解析］B o 由题干关键信息 sailing fh)m Europe to America 以及 over the centuries 定位到 B 段。该段第二句指出，几个世纪以来，来自旧世界的数十艘雄伟的帆船在佛罗里达沿岸这片变幻莫测、狂风肆虐的海域被摧毁而沉没。题干中的 Quite a number of majestic ships sailing from Eur",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "Pritchett suffered a heavy loss when a US district court ruled against him.",
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "］I。由题干关键信息 Pritchett 和 a US district court 定位到 I 段。该段最后三句话指出，2018 年，也就是普里切特发现沉船两年后，联邦地区法院做出了有利于法国的裁决。对普里切特来说，这一决定是毁灭性的。投资者数百万美元的资助和多年的辛苦劳动都白费了。题干是对原文的总结概括。题干中的 suffereda heavy loss 对应原文中的 Millions of dollars of investor ftinding and years of labor were losto",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "当美国地区法院做出不利于普里切特的裁决时，他蒙受了巨大的损失。 ［答案解析］I。由题干关键信息 Pritchett 和 a US district court 定位到 I 段。该段最后三句话指出，2018 年，也就是普里切特发现沉船两年后，联邦地区法院做出了有利于法国的裁决。对普里切特来说，这一决定是毁灭性的。投资者数百万美元的资助和多年的辛苦劳动都白费了。题干是对原文的总结概括。题干中的 suffereda heavy loss 对应原文中的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "Recently, people who found treasures in shipwrecks have been sued over their rights to own them.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "］ D。由题干关键信息 have been sued over their rights 定位到 D 段。该段倒数第二句指出，但最近， 当打捞人员找到这些船只时，他们的权利在法庭上受到了质疑。题干中的 people who found treasures in shipwrecks 对应原文中的 salvors; have been sued over their rights 是对 their rights have been challenged in court 的同义转述。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "最近，在沉船中发现宝藏的人因拥有这些宝藏的权利而被起诉。 ［答案解析］ D。由题干关键信息 have been sued over their rights 定位到 D 段。该段倒数第二句指出，但最近， 当打捞人员找到这些船只时，他们的权利在法庭上受到了质疑。题干中的 people who found treasures in shipwrecks 对应原文中的 salvors; have been sued over their rig",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "Pritchett claims he got support of millions of dollars from investors for his shipwreck exploration.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "］G o 由题干关键信息 Pritchett claims he got support of millions of dollars from investors 定位到 G 段。 该段第二句后半句指出，他声称，他们一年工作 250 天，得到了投资者 400 万美元的资助。题干中的 got support of millions of dollars from investors 对应原文中的 backed by investor funds of, he claims, US $4 million o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "普里切特声称，他从投资者那里获得了数百万美元的支持，用于他的沉船勘探。 ［答案解析］G o 由题干关键信息 Pritchett claims he got support of millions of dollars from investors 定位到 G 段。 该段第二句后半句指出，他声称，他们一年工作 250 天，得到了投资者 400 万美元的资助。题干中的 got support of millions of dollars from inves",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q41",
@@ -529,29 +871,65 @@
           "id": "q42",
           "number": 42,
           "stem": "With technological advancement in recent years, salvors now can detect the invaluable man-made objeets\nlying buried under the sea.",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "］C。由关键信息 technological advancement 定位到 C 段。该段后两句指出，近年来. . . 但科技可以让隐藏在海底的珍贵人工制品显露无遗。题干正是对这两句话的同义转述。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "随着近年来科技的进步，打捞人员现在可以检测到埋在海底的那些宝贵的人造物品。 ［答案解析］C。由关键信息 technological advancement 定位到 C 段。该段后两句指出，近年来. . . 但科技可以让隐藏在海底的珍贵人工制品显露无遗。题干正是对这两句话的同义转述。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "According to a lawyer, many treasure hunters are susceptible to loss because they are unaware they face a\nfinancially stronger opponent in court.",
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "］J o 由题干关键信息 many treasure hunters are susceptible to loss 定位到 J 段。该段首句提到打捞人员失去了与发现有关的所有权利，最后一句指出，许多寻宝者不明白他们将不得不为自己的权利与政府抗争，而政府有无穷无尽的资金用于法律诉讼，寻宝者很可能会输掉官司。题干中的 many treasure hunters are susceptible to loss 对应原文中的 treasure hunters are likely to lose; face a financially stronger opponent in court 对应原文中的 against a government that has an endless supply of money o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "便适的根据一位律师的说法，许多寻宝者很容易蒙受损失，因为他们没有意识到自己在法庭上面对的是经济上更强大的对手。 ［答案解析］J o 由题干关键信息 many treasure hunters are susceptible to loss 定位到 J 段。该段首句提到打捞人员失去了与发现有关的所有权利，最后一句指出，许多寻宝者不明白他们将不得不为自己的权利与政府抗争，而政府有无穷无尽的资金用于法律诉讼，寻宝者很可能会输掉官司。题干中的 many treasure hunters are",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "Salvors of treasures in sunken ships and marine archaeologists are now hostile to each other.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "］ E o 由题干关键信息 are now hostile to each other 定位到 E 段。该段最后一句指出，打捞人员和考古学家曾经并肩工作，而现在他们这两个群体相互对立、互相嗤之以鼻。题干中的 are now hostile to each other 是对原文 now they belong to opposing, and equally contemptuous, tribes 的概括。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "沉船珍宝的打捞人员和海洋考古学家现在相互敌对。 ［答案解析］ E o 由题干关键信息 are now hostile to each other 定位到 E 段。该段最后一句指出，打捞人员和考古学家曾经并肩工作，而现在他们这两个群体相互对立、互相嗤之以鼻。题干中的 are now hostile to each other 是对原文 now they belong to opposing, and equally contempt",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "Archacologists want to see artifacts help humans understand their past instead of being sold to private\ncollectors at an outrageous price.",
-          "answer": "C",
-          "explanation": "它们的过去，而不是被以惊人的价格出售给私人收藏家。 ［答案解析］ K o 由题干关键信息artifacts和being sold to private collectors at an outrageous price定位到K段。该段 3 4 六4 2 0 2 3 .1 2 * 3 * 最后一句提到，考古学家不希望文物最终成为私人收藏品，而不是带着人类踏上理解之旅。题干中的being sold to private collectors是对原文ending up in a private collection的同义转述。 Section 画 Passage One 。 •概览・ 本文节选自 https://inews.co.uk/opinion/selena-gomez-switched-off-intemet-l 5601621^1 i^2022#-4^1 发表 的一篇标题为 “Selena Gomez has switched off from the internet, if only we all had that privilege，，的文章。 文章指出，赛琳娜•戈麦斯为改善心理健康状况而停用了社交媒体，但这其实是种特权，因为很多人尚 且生活在“数字隔绝” 中，没有稳定的网络连接。随着互联网的重要性日益增加，需要缩小这种数字鸿 沟，让需要远离网络的人远离，但首先要让弱势群体先正常使用网络。 © • 全文翻译• ［46］你能在四年半的时间里不使用互联网吗？这正是歌手兼演员赛琳 娜・戈麦斯为改善心理健康状况所做的努力。 她曾广泛谈及自己使用社交媒体与心理健康之间的关系，回忆起自己在 2016年成为照片墙上关注人数最多的用户时，她感觉自己像“上瘾” 了一样。 她说：“暂停使用社交媒体是我为自己的心理健康做出的最好决定。一旦我放下 手机，那些不必要的仇恨和比较就烟消云散了。” 然而，完全抛弃网络是一种更为微妙和复杂的设想。［47］我们的社会日益 数字化，这意味着从支付燃气费到规划去朋友家的路线，甚至是打电话，都受 制于网络连接。主动选择不使用互联网已成为一种特权。 戈"
+          "answer": "K",
+          "explanation": "它们的过去，而不是被以惊人的价格出售给私人收藏家。 ［答案解析］ K o 由题干关键信息 artifacts 和 being sold to private collectors at an outrageous price 定位到 K 段。该段 3 4 六 4 2 0 2 3 .1 2 * 3 * 最后一句提到，考古学家不希望文物最终成为私人收藏品，而不是带着人类踏上理解之旅。题干中的 being sold to private collectors 是对原文 ending up in a private collection 的同义转述。 Section 画 Passage One。 •概览・ 本文节选自 https://inews. co. uk/opinion/selena-gomez-switched-off-intemet-l 5601621^1 i^2022#-4^1 发表的一篇标题为 “Selena Gomez has switched off from the internet, if only we all had that privilege，，的文章。 文章指出，赛琳娜•戈麦斯为改善心理健康状况而停用了社交媒体，但这其实是种特权，因为很多人尚且生活在“数字隔绝” 中，没有稳定的网络连接。随着互联网的重要性日益增加，需要缩小这种数字鸿沟，让需要远离网络的人远离，但首先要让弱势群体先正常使用网络。 © • 全文翻译• ［46］你能在四年半的时间里不使用互联网吗？这正是歌手兼演员赛琳娜・戈麦斯为改善心理健康状况所做的努力。 她曾广泛谈及自己使用社交媒体与心理健康之间的关系，回忆起自己在 2016 年成为照片墙上关注人数最多的用户时，她感觉自己像“上瘾” 了一样。 她说：“暂停使用社交媒体是我为自己的心理健康做出的最好决定。一旦我放下手机，那些不必要的仇恨和比较就烟消云散了。” 然而，完全抛弃网络是一种更为微妙和复杂的设想。［47］我们的社会日益数字化，这意味着从支付燃气费到规划去朋友家的路线，甚至是打电话，都受制于网络连接。主动选择不使用互联网已成为一种特权。 戈",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+            "sourceText": "考古学家希望看到人工制品帮助人类了解它们的过去，而不是被以惊人的价格出售给私人收藏家。 ［答案解析］ K o 由题干关键信息 artifacts 和 being sold to private collectors at an outrageous price 定位到 K 段。该段 3 4 六 4 2 0 2 3 .1 2 * 3 * 最后一句提到，考古学家不希望文物最终成为私人收藏品，而不是带着人类踏上理解之旅。题干中的 being sold to private col",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -601,7 +979,16 @@
                 "D": "Most families in the UK do not have stable broadband connections."
               },
               "answer": "D",
-              "explanation": "；题干定位部分意为：脸书等公司却将元宇宙作为下一个伟大的前沿领域而大肆宣扬，这让人感到格外恼 析 火。作者感到恼火的原因在上文：在过去两年中，英国的数字鸿沟加深了，导致诸多贫困家庭家中没有宽 带连接。故答案为D项。“数字鸿沟”加深不是因为元宇宙的出现，A项曲解文意，故排除。B、C两项原 文未提及，均排除。 4 9 .关于社交媒体平台，什么值得被记住? A）它们有利于促进社会平等。 C）它们为“数字戒瘾”提供了必要的工具。 B）它们帮助许多人感受到与他人相连。 D）它们在互联网上创建了一个虚拟社区。 定・根据期平信息词worth bearing in mind用蒋客集线索死位室倒数第二段。 位： 解;倒数第二段提及，因此，值得记住的是，虽然删除所有社交媒体账户无疑会让某些人感觉好很多，但还有 析：很多人受益于共享平台所孕育的强烈的社区感。因此B项符合题意，feel connected with others对应的是原 文中的sense of community o D项虽然出现了关键词community,但文章重点是虚拟社区带给人们与他人的 连接感，不是社区本身，故排除。A、C两项均与定位段落内容无关，故排除。 5 0.作者认为对于那些生活在数字隔绝中的人来说，什么才是真正重要的? A）能上网。 B）进一步向网络3.0靠拢。 C）获得更多的教育资源。 D）开设更多的社交媒体账户。 定，植搪蓝丰篇意曲iving in digital exclusion司1蒋客案线豪蔻叔室盘后一葭最后一句。 位： 解;最后一段最后一句总结道，要让那些认为社交媒体对其心理健康产生有害影响的人关闭社交媒体，让那些 析. 生活在数字隔绝中的人能够首先打开社交媒体，这才是至关重要的。因此A项符合题意。Having access to the internet对应原文中的 switch ono 3 6 六级2023.12］第二套］ Passage Two ® •概览• 本文节选自https:〃psychology.jrank.org网站上发表的一篇标题为\"Competition” 的文章。文章指出， "
+              "explanation": "；题干定位部分意为：脸书等公司却将元宇宙作为下一个伟大的前沿领域而大肆宣扬，这让人感到格外恼火。作者感到恼火的原因在上文：在过去两年中，英国的数字鸿沟加深了，导致诸多贫困家庭家中没有宽带连接。故答案为 D 项。“数字鸿沟”加深不是因为元宇宙的出现，A 项曲解文意，故排除。B、C 两项原文未提及，均排除。 4 9 . 关于社交媒体平台，什么值得被记住? A）它们有利于促进社会平等。 C）它们为“数字戒瘾”提供了必要的工具。 B）它们帮助许多人感受到与他人相连。 D）它们在互联网上创建了一个虚拟社区。 定・根据期平信息词 worth bearing in mind 用蒋客集线索死位室倒数第二段。 位： 解;倒数第二段提及，因此，值得记住的是，虽然删除所有社交媒体账户无疑会让某些人感觉好很多，但还有析：很多人受益于共享平台所孕育的强烈的社区感。因此 B 项符合题意，feel connected with others 对应的是原文中的 sense of community o D 项虽然出现了关键词 community, 但文章重点是虚拟社区带给人们与他人的连接感，不是社区本身，故排除。A、C 两项均与定位段落内容无关，故排除。 5 0.作者认为对于那些生活在数字隔绝中的人来说，什么才是真正重要的? A）能上网。 B）进一步向网络 3.0 靠拢。 C）获得更多的教育资源。 D）开设更多的社交媒体账户。 定，植搪蓝丰篇意曲 iving in digital exclusion 司 1 蒋客案线豪蔻叔室盘后一葭最后一句。 位： 解;最后一段最后一句总结道，要让那些认为社交媒体对其心理健康产生有害影响的人关闭社交媒体，让那些析. 生活在数字隔绝中的人能够首先打开社交媒体，这才是至关重要的。因此 A 项符合题意。Having access to the internet 对应原文中的 switch ono Passage Two ® •概览• 本文节选自 https:〃psychology. jrank. org 网站上发表的一篇标题为\"Competition” 的文章。文章指出， 从心理学上讲竞争被视为人类驱动力的必然结果",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+                "sourceText": "作者为什么说“目睹企业……感觉格外恼火” （第 6 段第 2・4 行）？ A）由于元宇宙的存在，英国的数字鸿沟将进一步加深。 B）人们认为元宇宙的概念还很虚幻。 C）学龄儿童将更远离现实世界。 D）英国大多数家庭没有稳定的宽带连接。 定” 版据藤不可蒋奢案线索蔻役室第大段; 位： 解；题干定位部分意为：脸书等公司却将元宇宙作为下一个伟大的前沿领域而大肆宣扬，这让人感到格外恼火。作者感到恼火的原因在上文：在过去两年中，英国的数字鸿沟加深了，导致诸多贫困家庭家中没有宽带连接。故答案为 D 项。“数字鸿沟”加深不是因为元宇宙的出现，A 项曲解文意，故排除。",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -646,7 +1033,16 @@
                 "D": "The impact of competition."
               },
               "answer": "D",
-              "explanation": ";文章第一段第二句提到，无论是什么，你都不能不承认竞争在学术界和当代生活的许多其他领域中所产 析；生的影响。题干中的many areas of contemporary life属于原词复现，D项中的impact对应原文中的effect,故 |选项D为正确答案。 六级2023.12〔第二套［3 7 5 2 .根据心理学，人们在人生的最初阶段之后会努力做什么？ A）满足个人需求，而不会受到人为因素的不利影响。C）在不显露纯粹放纵的情况下获得广泛认可。 B）沉迷于文化追求，同时抑制自己的基本冲动。 D）在遵守社会习俗的同时满足自己的欲望。 定・植搪巅午宿直、后people strive to do following the initial stage of their life时蒋客集残素楚检手第二座。 位： 解;文章第二段倒数第二句提到，一开始，我们争抢父母的注意力。接着又说，此后，我们受制于自我实现的基本 析 冲动与禁止纯粹放纵的社会文化规范之间的斗争。也就是说，人们在最初阶段之后，一边会努力满足自我的欲 望，一边要遵守社会文化规范，不能完全放纵自我。选项D是对这句话的同义转述，故为正确答案。 5 3 .对于托马斯-霍布斯描述的“自然世界” ，我们得知什么? A）它被哲学家和人类学家歪曲了。 B）它在达尔文的《物种起源》中被扭曲了。 C）它不受人类的理性干预。 D）它是一个前理性世界，如今很少被人欣赏。 定,根据题干褚息词the \"natural wo^ld^^ characterized by Thomas Hobbes可将答案线集定位于第三段。 位； 解+文章第三段第二句提到，托马斯•霍布斯笔下的“自然世界”是“肮脏、野蛮和短暂的”，这个自然世界是 析. 在强加人类意志之前的世界，也就是不受人类理性干预的世界，故选项C正确。选项A在文中未提及，故排 除。原文提到达尔文的《物种起源》加强了而不是扭曲了前理性世界的形象，故选项B排除。选项D是强 干扰项，前半句正确，但后半句与原文”这种前理性世界的形象仍然被广泛认同”相反，故也排除。 5 4 .从达尔文在《物种起源》一"
+              "explanation": ";文章第一段第二句提到，无论是什么，你都不能不承认竞争在学术界和当代生活的许多其他领域中所产析；生的影响。题干中的 many areas of contemporary life 属于原词复现，D 项中的 impact 对应原文中的 effect, 故 |选项 D 为正确答案。 5 2 . 根据心理学，人们在人生的最初阶段之后会努力做什么？ A）满足个人需求，而不会受到人为因素的不利影响。C）在不显露纯粹放纵的情况下获得广泛认可。 B）沉迷于文化追求，同时抑制自己的基本冲动。 D）在遵守社会习俗的同时满足自己的欲望。 定・植搪巅午宿直、后 people strive to do following the initial stage of their life 时蒋客集残素楚检手第二座。 位： 解;文章第二段倒数第二句提到，一开始，我们争抢父母的注意力。接着又说，此后，我们受制于自我实现的基本冲动与禁止纯粹放纵的社会文化规范之间的斗争。也就是说，人们在最初阶段之后，一边会努力满足自我的欲望，一边要遵守社会文化规范，不能完全放纵自我。选项 D 是对这句话的同义转述，故为正确答案。 5 3 . 对于托马斯-霍布斯描述的“自然世界”，我们得知什么? A）它被哲学家和人类学家歪曲了。 B）它在达尔文的《物种起源》中被扭曲了。 C）它不受人类的理性干预。 D）它是一个前理性世界，如今很少被人欣赏。 定, 根据题干褚息词 the \"natural wo^ld^^ characterized by Thomas Hobbes 可将答案线集定位于第三段。 位； 解+文章第三段第二句提到，托马斯•霍布斯笔下的“自然世界”是“肮脏、野蛮和短暂的”，这个自然世界是析. 在强加人类意志之前的世界，也就是不受人类理性干预的世界，故选项 C 正确。选项 A 在文中未提及，故排除。原文提到达尔文的《物种起源》加强了而不是扭曲了前理性世界的形象，故选项 B 排除。选项 D 是强干扰项，前半句正确，但后半句与原文”这种前理性世界的形象仍然被广泛认同”相反，故也排除。 5 4 . 从达尔文在《物种起源》一书中的论断，我们能得出什么结论? A）所",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2023-12-2/key_2023.12英语六级解析第2套.txt",
+                "sourceText": "作者认为在当代生活的许多领域容易看到什么？ A）关于竞争的必然性的分歧。 C）人类驱动力的影响。 B）心理调查的结果。 D）竞争的影响。 定・康搪巅干彳言直向 easy to see in many areas of contemporary life 奇蒋客橐线策比位于第一段。 位! 解;文章第一段第二句提到，无论是什么，你都不能不承认竞争在学术界和当代生活的许多其他领域中所产析；生的影响。题干中的 many areas of contemporary life 属于原词复现，D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",

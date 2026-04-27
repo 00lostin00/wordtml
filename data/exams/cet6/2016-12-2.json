@@ -30,8 +30,17 @@
             "C": "They were all good at cooking.",
             "D": "They were fond of bacon and eggs."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CCABC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q2",
@@ -43,8 +52,17 @@
             "C": "His friends.",
             "D": "His schoolmates."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CCABC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q3",
@@ -56,8 +74,17 @@
             "C": "No tea was served with the meal.",
             "D": "It was the real English breakfast."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CCABC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q4",
@@ -69,8 +96,17 @@
             "C": "It was a risky experience.",
             "D": "It was really extraordinary."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CCABC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q5",
@@ -82,8 +118,17 @@
             "C": "The business success of the woman's shop.",
             "D": "The woman's relationship with other shops."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CCABC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q6",
@@ -95,8 +140,17 @@
             "C": "Expand its business scale.",
             "D": "Upgrade the goods it sells."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】ADACD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q7",
@@ -108,8 +162,17 @@
             "C": "They are very popular with the local residents.",
             "D": "They are sold at lower prices than in other shops."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】ADACD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q8",
@@ -121,8 +184,17 @@
             "C": "To attract more customers in the neighborhood.",
             "D": "To follow the custom of the local shopkeepers."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】ADACD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q9",
@@ -134,8 +206,17 @@
             "C": "They deliver pollutants from the ocean to their nesting sites.",
             "D": "They can be used to deliver messages in times of emergency."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】ADACD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q10",
@@ -147,8 +228,17 @@
             "C": "They have the ability to survive in extreme weathers.",
             "D": "They travel as far as 400 kilometers in search of food."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】ADACD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q11",
@@ -160,8 +250,17 @@
             "C": "They poisoned some of the fulmars.",
             "D": "They were less than on the continent."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】BBDAB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q12",
@@ -173,8 +272,17 @@
             "C": "The diminishing colonies for Arctic seabirds.",
             "D": "The threats humans pose to Arctic seabirds,"
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】BBDAB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q13",
@@ -186,8 +294,17 @@
             "C": "It has been exaggerated.",
             "D": "It has decreased."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】BBDAB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q14",
@@ -199,8 +316,17 @@
             "C": "It calls for more intensive research.",
             "D": "It has had no effective cure so far."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】BBDAB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q15",
@@ -212,8 +338,17 @@
             "C": "Their quality of life deteriorates rapidly.",
             "D": "They care more about their physical health."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】BBDAB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q16",
@@ -225,8 +360,17 @@
             "C": "They were done by his former colleague at Yale.",
             "D": "They are focused more on attraction than love."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】DBCBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q17",
@@ -238,8 +382,17 @@
             "C": "Romance is just impossible without mutual understanding.",
             "D": "Intimacy is essential but not absolutely indispensable to love."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】DBCBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q18",
@@ -251,8 +404,17 @@
             "C": "How the relationship is to be defined if any one is missing.",
             "D": "When the absence of any one doesn't affect the relationship."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】DBCBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q19",
@@ -264,8 +426,17 @@
             "C": "Academic degrees required of social work applicants.",
             "D": "The aim of the National Association of Social Workers."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】DBCBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q20",
@@ -277,8 +448,17 @@
             "C": "They create a lot of opportunities for the unemployed.",
             "D": "They help enhance the well-being of the underprivileged."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】DBCBD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q21",
@@ -290,8 +470,17 @@
             "C": "They all have an academic degree in social work.",
             "D": "They have all received strict clinical training."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】CAADD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q22",
@@ -303,8 +492,17 @@
             "C": "The importance of training for social workers.",
             "D": "The promotion of social workers' social status."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】CAADD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q23",
@@ -316,8 +514,17 @@
             "C": "To urge kids to follow their role models.",
             "D": "To encourage kids to play more sports."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】CAADD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q24",
@@ -329,8 +536,17 @@
             "C": "They are becoming more and more prevalent.",
             "D": "They impress kids more than they do adults."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】CAADD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q25",
@@ -342,8 +558,17 @@
             "C": "Pay attention to their image before children.",
             "D": "Message positive behaviors at all times."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】CAADD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -373,62 +598,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "O",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OMDKH",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OMDKH",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OMDKH",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OMDKH",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【26-30】OMDKH",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】LEFBG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】LEFBG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】LEFBG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】LEFBG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【31-35】LEFBG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -442,36 +757,81 @@
           "id": "q36",
           "number": 36,
           "stem": "According to Chinese officials, their activities in Antarctica lay greater\nemphasis on scientific research.",
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】JCEGD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "Efforts to create one of the world's largest ocean sanctuaries failed because of\nRussia's obstruction.",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】JCEGD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "With several monitoring stations operating in Antarctica, Russia is trying\n\nhard to counter America's dominance in the field of worldwide navigational facilities.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】JCEGD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "According to geologists' estimates, Antarctica has enormous reserves of oil\nand natural gas.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】JCEGD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "It is estimated that Antarctica boasts of the richest reserves of fresh water on\nearth.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+            "sourceText": "【36-40】JCEGD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q41",
@@ -529,8 +889,17 @@
                 "C": "Plain packaging discourages non-smokers from taking up smoking.",
                 "D": "It has little impact on their decision whether or not to quit smoking."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DABAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q47",
@@ -542,8 +911,17 @@
                 "C": "Subsidise companies to adopt plain packaging.",
                 "D": "Reclassify cigarettes according to packaging."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DABAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q48",
@@ -555,8 +933,17 @@
                 "C": "The sales of tobacco substitutes have increased considerably.",
                 "D": "Cigarette sales have been falling far more quickly than in the UK."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DABAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q49",
@@ -568,8 +955,17 @@
                 "C": "Many Members of Parliament are addicted to smoking.",
                 "D": "Pressure from tobacco manufacturers remains strong."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DABAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q50",
@@ -581,8 +977,17 @@
                 "C": "They made more British people obese.",
                 "D": "They had certain ingredients missing.  Passage Two Questions 51 to 55 are based on the following passage. What a waste of money! In return for an average o£ f 44,000 of debt, students get ah average of only 14 hours of lecture and tutorial time a week in Britain. Annual fees have risen from£l,000 to £9,000 in the last decade, but contact time at university has barely risen at all. And graduating doesn't even provide any guarantee of a decent job； six in ten graduates today are in non-graduate jobs. No wonder it has become fashionable to denounce many universities as little more than elaborate con-tricks (耳扇术).There's a lot for students to complain about； the repayment threshold for paying back loans will be frozen for five years, meaning that lower-paid graduates have to start repaying their loans ；and maintenance grants have been replaced by loans, meaning that students from poorer backgrounds face higher debt than those with wealthier parents. Yet it still pays to go to university. If going to university doesn't work out, students pay very little — if any — of their tuition fees back；you only start repaying when you are earning £21,000 a year. Almost half of graduates — those who go on to earn less — will have a portion of their debt written off. It's not just the lectures and tutorials that are important. Education is the sum of what students teach each other in between lectures and seminars. Students do not merely benefit while at university； studies show they go on to be healthier and happier than non-graduates, and also far more likely to vote. Whatever your talents, it is extraordinarily difficult to get a leading job in most fields without having been to university. Recruiters circle elite universities like vultures (兀鹰).Many top firms will not even look at applications from those who lack a 2.1, i. e., an upper-second class degree, from an elite university. Students at university also meet those likely to be in leading jobs in the future, forming contacts for life. This might not be right, but school-leavers who fail to acknowledge as much risk making the wrong decision about going to university. Perhaps the reason why so many universities offer their students so little is they know studying at a top university remains a brilliant investment even if you don't learn anything. Studying at university will only become less attractive if employers shift their focus aWay from where someone went to university — and there is no sign of that happening anytime soon. School-leavers may moan, but they have little choice but to embrace university and the student debt that comes with it."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【46-50】DABAC",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q51",
@@ -594,8 +999,17 @@
                 "C": "It is hard to say whether it is good or bad.",
                 "D": "It is too expensive for most young people."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】ADCBD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q52",
@@ -607,8 +1021,17 @@
                 "C": "Graduates from elite universities usually can get decent jobs.",
                 "D": "Most of them take jobs which don't require a college degree."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】ADCBD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q53",
@@ -620,8 +1043,17 @@
                 "C": "Interactions among themselves outside the classroom.",
                 "D": "Developing independent and creative thinking abilities."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】ADCBD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q54",
@@ -633,8 +1065,17 @@
                 "C": "Having opportunities of playing a leading role in society.",
                 "D": "Gaining up-to-date knowledge in science and technology."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】ADCBD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q55",
@@ -646,8 +1087,17 @@
                 "C": "University education is becoming attractive to students who can afford it.",
                 "D": "The prestige of the university influences employers' recruitment decisions."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2016-12-2/paper_卷二_2016年12月英语六级真题及答案.txt",
+                "sourceText": "【51-55】ADCBD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         }

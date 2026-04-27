@@ -1,0 +1,267 @@
+{
+  "id": "cet6-2009-12",
+  "type": "cet6",
+  "year": 2009,
+  "month": 12,
+  "set": 0,
+  "title": "2009年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write a short essay entitled Should Parents Send Their Kids to Art Classes? You should write at least 150 words following the outline given below. 1. 现在有不少家长送孩子参加各种艺术班 2. 对这种做法有人表示支持，也有人并不赞成 3. 我认为…… Should Parents Send Their Kids to Art Classes? Part II Reading Comprehension (Skimming and Scanning) (15 minutes) Directions: In this part, you will have 15 minutes to go over the passage quickly and answer the questions on Answer Sheet 1. For questions 1-7, choose the best answer from the four choices marked [A], [B], [C] and [D]. For questions 8-10, complete the sentences with the information given in the passage. Bosses Say “Yes” to Home Work Rising costs of office space, time lost to stressful commuting, and a slow recognition that workers have lives beyond the office—all are strong arguments for letting staff work from home. For the small business, there are additional benefits too—staff are more productive, and happier, enabling firms to keep their headcounts (员工数) and their recruitment costs to a minimum. It can also provide competitive advantage, especially when small businesses want to attract new staff but don’t have the budget to offer huge salaries. While company managers have known about the benefits for a long time, many have done little about it, skeptical of whether they could trust their employees to work to full capacity without supervision, or concerned about the additional expenses teleworking policies might incur as staff start charging their home phone bills to the business. Yet this is now changing. When communications provider Inter-Tel researched the use of remote working solutions among small and medium sized UK businesses in April this year, it found that 28% more companies claimed to have introduced flexible working practices than a year ago. The UK network of Business Links confirms that it too has seen a growing interest in remote working solutions from small businesses seeking its advice, and claims that as many as 60-70% of the businesses that come through its doors now offer some form of remote working support to their workforces. Technology advances, including the widespread availability of broadband, are making the",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "They would rather travel around than stay at home.",
+            "B": "They prefer to carry cash when traveling abroad.",
+            "C": "They usually carry many things around with them.",
+            "D": "They don’t like to spend much money on traveling."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "The selection process was a little unfair.",
+            "B": "He had long dreamed of the dean’s position.",
+            "C": "Rod was eliminated in the selection process.",
+            "D": "Rod was in charge of the admissions office."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "Applause encourages the singer.",
+            "B": "She regrets paying for the concert.",
+            "C": "Almost everyone loves pop music.",
+            "D": "The concert is very impressive."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "They have known each other since their schooldays.",
+            "B": "They were both chairpersons of the Students’ Union.",
+            "C": "They have been in close touch by email.",
+            "D": "They are going to hold a reunion party."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Cook their dinner.",
+            "B": "Rest for a while.",
+            "C": "Get their car fixed.",
+            "D": "Stop for the night."
+          },
+          "answer": "A",
+          "explanation": "A) Cook their dinner. B) Rest for a while. C) Get their car fixed. D) Stop for the night.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2009-12/paper_2009年12月英语六级真题及答案.txt",
+            "sourceText": "A) Cook their dinner. B) Rest for a while. C) Get their car fixed. D) Stop for the night.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "Newly-launched products.",
+            "B": "Consumer preferences.",
+            "C": "Survey results.",
+            "D": "Survey methods."
+          },
+          "answer": "A",
+          "explanation": "A) Newly-launched products. B) Consumer preferences. C) Survey results. D) Survey methods. 5 / 23",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2009-12/paper_2009年12月英语六级真题及答案.txt",
+            "sourceText": "A) Newly-launched products. B) Consumer preferences. C) Survey results. D) Survey methods. 5 / 23",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "He would rather the woman didn’t buy the blouse.",
+            "B": "The woman needs blouses in the colors of a rainbow.",
+            "C": "The information in the catalog is not always reliable.",
+            "D": "He thinks the blue blouse is better than the red one."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "The course is open to all next semester.",
+            "B": "The notice may not be reliable.",
+            "C": "The woman has not told the truth.",
+            "D": "He will drop his course in marketing."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "A director of a sales department.",
+            "B": "A manager at a computer store.",
+            "C": "A sales clerk at a shopping center.",
+            "D": "An accountant of a computer firm."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Handling customer complaints.",
+            "B": "Recruiting and training new staff.",
+            "C": "Dispatching ordered goods on time.",
+            "D": "Developing computer programs."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "She likes something more challenging.",
+            "B": "She likes to be nearer to her parents.",
+            "C": "She wants to have a better-paid job.",
+            "D": "She wants to be with her husband."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Right away.",
+            "B": "In two months.",
+            "C": "Early next month.",
+            "D": "In a couple of days."
+          },
+          "answer": "A",
+          "explanation": "A) Right away. B) In two months. C) Early next month. D) In a couple of days. Questions 23 to 25 are based on the conversation you have just heard.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2009-12/paper_2009年12月英语六级真题及答案.txt",
+            "sourceText": "A) Right away. B) In two months. C) Early next month. D) In a couple of days. Questions 23 to 25 are based on the conversation you have just heard.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "It will face challenges unprecedented in its history.",
+            "B": "It is a resolute advocate of the anti-global movement.",
+            "C": "It is bound to regain its full glory of a hundred years ago.",
+            "D": "It will be a major economic power by the mid-21st century."
+          },
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2009-12/paper_2009年12月英语六级真题及答案.txt",
+            "sourceText": "er findings. B) The job posed a potential threat to her health. C) She found the working conditions frustrating. 6 / 23 D) She was offered a better job in a minority community. 28. A) Some giant industrial polluters have gone out of business. B) More environmental organizations have appeared. C) Man",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "The lack of overall urban planning.",
+            "B": "The huge gap between the haves and have-nots.",
+            "C": "The inadequate supply of water and electricity.",
+            "D": "The shortage of hi-tech personnel."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "They attach great importance to education.",
+            "B": "They are able to grasp growth opportunities.",
+            "C": "They are good at learning from other nations.",
+            "D": "They have made use of advanced technologies."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "Complete the sentences by translating into English the Chinese given in brackets. Please write\nyour translation on Answer Sheet 2.",
+      "source": "82. How long does a jacket like this last me? — (这要看你多长时间穿一次).83. The theory he advanced has proved (对许多传统概念的一种挑战).(本可以亲自参加会议), but he was called away for some urgent business abroad.85. Both research and practical experience have shown that a (均衡的饮食对健康是必不可少的).86. Much (我感到遗憾), I was unable to finish the work on time.1. 现在有不少家长送孩子参加各种艺术班2. 对这种做法有人表示支持，也有人并不赞成3. 我认为……范文1范文2范文3快速阅读答案：听力复合式听写答案快速阅读答案完型填空答案翻译答案完整版答案解析(图片版)听力原文听力短对话听力长对话原文",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

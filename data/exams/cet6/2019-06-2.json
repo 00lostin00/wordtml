@@ -31,7 +31,16 @@
             "D": "Why so many girls adored Audrey Hepburn."
           },
           "answer": "D",
-          "explanation": "题千+ D) 同义改写第2 段男士话语”我从未真正搞懂过为何那么多女孩是她（即奥 黛丽·赫本）的铁杆粉“。A) 借第2 段Roman Holiday , Breakfast at Tiffany's 千扰，但文中并 未比较二者名气。E) 借第2 段为何如此多的女孩都是赫本的铁杆粉丝“千扰，但文中未比 较赫本男女粉丝的数量。C) 借第l 段女士话语”我愿意付出一切，为了更加像奥黛丽·赫本” 千扰，但这并非男士的疑惑所在。"
+          "explanation": "题千+ D) 同义改写第 2 段男士话语”我从未真正搞懂过为何那么多女孩是她（即奥黛丽·赫本）的铁杆粉“。A) 借第 2 段 Roman Holiday, Breakfast at Tiffany's 千扰，但文中并未比较二者名气。E) 借第 2 段为何如此多的女孩都是赫本的铁杆粉丝“千扰，但文中未比较赫本男女粉丝的数量。C) 借第 l 段女士话语”我愿意付出一切，为了更加像奥黛丽·赫本” 千扰，但这并非男士的疑惑所在。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What does the man say he never really understood? - 2 - 【答案】D 【解析】题千+ D) 同义改写第 2 段男士话语”我从未真正搞懂过为何那么多女孩是她（即奥黛丽·赫本）的铁杆粉“。A) 借第 2 段 Roman Holiday, Breakfast at Tiffany's 千扰，但文中并未比较二者名气。E) 借第 2 段为何如此多的女孩都是赫本的铁杆粉丝“千扰，但文中未比较赫本男女粉丝的数量。C) 借第 l 段女士话语",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q2",
@@ -44,7 +53,16 @@
             "D": "Her family’s suspension of financial aid."
           },
           "answer": "B",
-          "explanation": "B) 准确概括女士对男士发问“赫本为何未坚待其舞蹈事业？”的回答“她战争时期 缺乏营养，将舞蹈作为事业可能会让她的身体吃不消“。A) 利用第7 段对赫本的性格描写 干扰，但与赫本放弃舞蹈转攻演艺没有因果关系。C) 将第5 段＠句“赫本（因身体原因） 将事业焦点转向表演窜改为“赫本因兴趣原因由舞蹈变为表演“。D) 将第9 段信息”赫本家 人接受经济援助”窜改为“她的家人停止对她的经济支持”。"
+          "explanation": "B) 准确概括女士对男士发问“赫本为何未坚待其舞蹈事业？”的回答“她战争时期缺乏营养，将舞蹈作为事业可能会让她的身体吃不消“。A) 利用第 7 段对赫本的性格描写干扰，但与赫本放弃舞蹈转攻演艺没有因果关系。C) 将第 5 段＠句“赫本（因身体原因） 将事业焦点转向表演窜改为“赫本因兴趣原因由舞蹈变为表演“。D) 将第 9 段信息”赫本家人接受经济援助”窜改为“她的家人停止对她的经济支持”。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What prevented Audrey Hepburn from becoming a professional dancer? 【答案】B 【解析】B) 准确概括女士对男士发问“赫本为何未坚待其舞蹈事业？”的回答“她战争时期缺乏营养，将舞蹈作为事业可能会让她的身体吃不消“。A) 利用第 7 段对赫本的性格描写干扰，但与赫本放弃舞蹈转攻演艺没有因果关系。C) 将第 5 段＠句“赫本（因身体原因） 将事业焦点转向表演窜改为“赫本因兴趣原因由舞蹈变为表演“。D) 将第 9 段信息”赫本家人接受经济",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q3",
@@ -57,7 +75,16 @@
             "D": "She was usually not very optimistic."
           },
           "answer": "A",
-          "explanation": "A) 是对第7 段现实生活中，赫本总将自己描述为一个脑腴、安静的人”的同义 转述，shy and quiet 义同选项not an outgoing person。 B)、D) 借助赫本自述性格”脑腴、安 静”与饰演角色性格”外向、迷人”的反差分别捏造出她”为人谦逊、工作努力“、“不怎么乐观\"' 但对话中并无信息支持。C) 利用角色性格outgoing\"好交际的，外向的“捏造出easy-going “脾气随和的，温和的“，但对话中并无信息支持。"
+          "explanation": "A) 是对第 7 段现实生活中，赫本总将自己描述为一个脑腴、安静的人”的同义转述，shy and quiet 义同选项 not an outgoing person。 B)、D) 借助赫本自述性格”脑腴、安静”与饰演角色性格”外向、迷人”的反差分别捏造出她”为人谦逊、工作努力“、“不怎么乐观\"' 但对话中并无信息支持。C) 利用角色性格 outgoing\"好交际的，外向的“捏造出 easy-going “脾气随和的，温和的“，但对话中并无信息支持。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What do we learn about Audrey Hepburn in real life? 【答案】A 【解析】A) 是对第 7 段现实生活中，赫本总将自己描述为一个脑腴、安静的人”的同义转述，shy and quiet 义同选项 not an outgoing person。 B)、D) 借助赫本自述性格”脑腴、安静”与饰演角色性格”外向、迷人”的反差分别捏造出她”为人谦逊、工作努力“、“",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q4",
@@ -70,7 +97,16 @@
             "D": "Her family benifited from other people’s help."
           },
           "answer": "D",
-          "explanation": "题干+D) 正确概括第9 段前三句所揭示的因果关系：赫本小时候一家受到国际援 助，这给她留下了深刻印象，故息影后投身慈善事业。A) 在“赫本演绎不同角色”与“赫本息 影后投身慈善”之间强拉因果，文中无信息支待。B) 曲解第9 段I think that left a big impression on her 中that 所指：回指赫本一家受到援助”而非＇父母教导赫本要同情穷人”。C) 将第9 段信息”赫本小时候一家受到国际援助\"窜改为“赫本从小学做志愿者工作“。 【听力原文】 Conversation Two （准备公司整改汇报） W: So, how is our presentation about the restructuring of the company coming along? M: Fine. I'm putting the finishing touches to it now. M:. But we'll have to be prepared for questions. W: Yes, there's already a feeling that this is a top-down change. We really need to get everyone on board. M: Well, there's been an extensive consultation period. W: I know, but there's always the feeling that if it isn't broke, don't fix it. M: People are worried about their jobs, too. I think we need to stress that while there will be some job changes, there won't be anyone getting dismissed. In fact, we're looking to take on more staff."
+          "explanation": "题干+D) 正确概括第 9 段前三句所揭示的因果关系：赫本小时候一家受到国际援助，这给她留下了深刻印象，故息影后投身慈善事业。A) 在“赫本演绎不同角色”与“赫本息影后投身慈善”之间强拉因果，文中无信息支待。B) 曲解第 9 段 I think that left a big impression on her 中 that 所指：回指赫本一家受到援助”而非＇父母教导赫本要同情穷人”。C) 将第 9 段信息”赫本小时候一家受到国际援助\"窜改为“赫本从小学做志愿者工作“。 【听力原文】 Conversation Two （准备公司整改汇报） W: So, how is our presentation about the restructuring of the company coming along? M: Fine. I'm putting the finishing touches to it now. M:. But we'll have to be prepared for questions. W: Yes, there's already a feeling that this is a top-down change. We really need to get everyone on board. M: Well, there's been an extensive consultation period. W: I know, but there's always the feeling that if it isn't broke, don't fix it. M: People are worried about their jobs, too. I think we need to stress that while there will be some job changes, there won't be anyone getting dismissed. In fact, we're looking to take on more staff.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "Why did Audrey Hepburn devote much her life to charity after her acting career? 【答案】D 【解析】题干+D) 正确概括第 9 段前三句所揭示的因果关系：赫本小时候一家受到国际援助，这给她留下了深刻印象，故息影后投身慈善事业。A) 在“赫本演绎不同角色”与“赫本息影后投身慈善”之间强拉因果，文中无信息支待。B) 曲解第 9 段 I think that left a big impression on her 中 that 所指：回指赫本一家受到援",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q5",
@@ -83,7 +119,16 @@
             "D": "Atteed a board meeting."
           },
           "answer": "A",
-          "explanation": "首轮对话中女士询问男士关千公司整改汇报的进展情况，男士表示他正在为汇报做 最后的润色(I'm putting the finishing touches to it now; 其中it 指代presentation) , 可见男士 将就公司整改情况作汇报，A 正确。B) 将第3 段男士角色由“回答听众问题的汇报人(we'll have to be prepared for questions) \"窜改为“提问题的听众“。C) 将文中”对公司整改做汇报” 窜改为“创建一家新公司飞D) 利用习语get everyone on board (让大家都参与进来）捏造出 a board meeting。"
+          "explanation": "首轮对话中女士询问男士关千公司整改汇报的进展情况，男士表示他正在为汇报做最后的润色(I'm putting the finishing touches to it now; 其中 it 指代 presentation), 可见男士将就公司整改情况作汇报，A 正确。B) 将第 3 段男士角色由“回答听众问题的汇报人(we'll have to be prepared for questions) \"窜改为“提问题的听众“。C) 将文中”对公司整改做汇报” 窜改为“创建一家新公司飞 D) 利用习语 get everyone on board (让大家都参与进来）捏造出 a board meeting。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What is the man going to do? 【答案】A 【解析】首轮对话中女士询问男士关千公司整改汇报的进展情况，男士表示他正在为汇报做最后的润色(I'm putting the finishing touches to it now; 其中 it 指代 presentation), 可见男士将就公司整改情况作汇报，A 正确。B) 将第 3 段男士角色由“回答听众问题的汇报人(we'll have to be",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q6",
@@ -96,7 +141,16 @@
             "D": "No new staff will be hired."
           },
           "answer": "C",
-          "explanation": "C) 符合第7 段男士话语 “ 没有任何人会被解雇(there won't be anyone getting - 4 - dismissed) \"。A)、B) 利用第10 段restart growth 捏造出“ 削减生产成本 ” 和 ”提高生产率\", 对话中未涉及相关内容。D) 与第7 段男士话语 “我们希望雇用更多员工 ” 相悖。"
+          "explanation": "C) 符合第 7 段男士话语 “ 没有任何人会被解雇(there won't be anyone getting - 4 - dismissed) \"。A)、B) 利用第 10 段 restart growth 捏造出“ 削减生产成本 ” 和 ”提高生产率\", 对话中未涉及相关内容。D) 与第 7 段男士话语 “我们希望雇用更多员工 ” 相悖。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What does the man say about the restructuring? 【答案】C 【解析】 C) 符合第 7 段男士话语 “ 没有任何人会被解雇(there won't be anyone getting - 4 - dismissed) \"。A)、B) 利用第 10 段 restart growth 捏造出“ 削减生产成本 ” 和 ”提高生产率\", 对话中未涉及相关内容。D) 与第 7 段男士话语 “我们希望雇用更多员工 ” 相悖。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q7",
@@ -109,7 +163,16 @@
             "D": "The company’s new missions."
           },
           "answer": "B",
-          "explanation": "题干+B) 同义复现男士汇报的第一步I'll start with a brief review o釭he reasons for the change, 其中the change 回指上文提到的the restructuring of the company。A)、C) 分别 源千第10 段末句discuss the timeline 和第11 段女士补充的the channels of communication, 但均不属千第一步：前者为男士第三步要交由女士来做的事，后者为后续补充内容。D) 将 第10 段＠句“新公司的架构(the new company's structures)\"窜改为 “公司的新使命(company's new missions) 。"
+          "explanation": "题干+B) 同义复现男士汇报的第一步 I'll start with a brief review o 釭 he reasons for the change, 其中 the change 回指上文提到的 the restructuring of the company。A)、C) 分别源千第 10 段末句 discuss the timeline 和第 11 段女士补充的 the channels of communication, 但均不属千第一步：前者为男士第三步要交由女士来做的事，后者为后续补充内容。D) 将第 10 段＠句“新公司的架构(the new company's structures)\"窜改为 “公司的新使命(company's new missions)。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What will the man explain first? 【答案】B 【解析】题干+B) 同义复现男士汇报的第一步 I'll start with a brief review o 釭 he reasons for the change, 其中 the change 回指上文提到的 the restructuring of the company。A)、C) 分别源千第 10 段末句 discuss the timeline 和第 11",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q8",
@@ -122,7 +185,16 @@
             "D": "By visiting the company’s own computer network."
           },
           "answer": "D",
-          "explanation": "13 段女士询问男士能否通过公司内网查看整改汇报和问题，男士随即肯定 “要做 一个网页供员工下载详情＇，可见员工能通过访问公司内网了解整改信息。A)、B) 均利用 第11 段who they can contact or direct questions to about these changes 捏造员工沟通的对象， 实际文中并未明确员工可与谁沟通。C) 将第11 段女士建议“要让员工了解沟通渠道(let the staff know the channels of communication)\" 窜改为 “探索多样的沟通渠道”。 Section B 【听力原文】 Passage One (机场的动物理疗师） Airline passengers have to deal with a lot these days, getting bumped from flights and losing luggage on top of the general anxiety that nervous passengers always feel. At the Cincinnati/Northern Kentucky International Airport, miniature horses deliver a calming force two times a month. Denver and Ruby are two of the 34 therapy horses brought in from a local farm. They can usually be found in the ticket counter area interacting with travelers. More than 30 airports across the country now have therapy dogs. San Francisco has a therapy pig. San Jose, California, began a dog program af"
+          "explanation": "13 段女士询问男士能否通过公司内网查看整改汇报和问题，男士随即肯定 “要做一个网页供员工下载详情＇，可见员工能通过访问公司内网了解整改信息。A)、B) 均利用第 11 段 who they can contact or direct questions to about these changes 捏造员工沟通的对象， 实际文中并未明确员工可与谁沟通。C) 将第 11 段女士建议“要让员工了解沟通渠道(let the staff know the channels of communication)\" 窜改为 “探索多样的沟通渠道”。 Section B 【听力原文】 Passage One (机场的动物理疗师） Airline passengers have to deal with a lot these days, getting bumped from flights and losing luggage on top of the general anxiety that nervous passengers always feel. At the Cincinnati/Northern Kentucky International Airport, miniature horses deliver a calming force two times a month. Denver and Ruby are two of the 34 therapy horses brought in from a local farm. They can usually be found in the ticket counter area interacting with travelers. More than 30 airports across the country now have therapy dogs. San Francisco has a therapy pig. San Jose, California, began a dog program af",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "How can the staff learn more about the company's restructuring? 【答案】D 【解析】13 段女士询问男士能否通过公司内网查看整改汇报和问题，男士随即肯定 “要做一个网页供员工下载详情＇，可见员工能通过访问公司内网了解整改信息。A)、B) 均利用第 11 段 who they can contact or direct questions to about these changes 捏造员工沟通的对象， 实际文中并未明确员工可与",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q9",
@@ -135,7 +207,16 @@
             "D": "It allows passengers to have animal travel with them."
           },
           "answer": "C",
-          "explanation": "C) 概括II 段主要内容辛辛那提／北肯塔基国际机场引进迷你马／治疗马(miniature horses/therapy horses) 安抚紧张的乘客(deliver a calming force) , 为正确项。A) 将II 段 miniature horses 脆断为“宠物”，而文中只提到“动物理疗师”，未提及宠物。B) 借短文中 luggage、horses、donkey 以及常识”马／驴多用千驮物”捏造干扰。D)利用文中passagers、animal 主观胧断，文中并未提及“乘客带动物出行“。"
+          "explanation": "C) 概括 II 段主要内容辛辛那提／北肯塔基国际机场引进迷你马／治疗马(miniature horses/therapy horses) 安抚紧张的乘客(deliver a calming force), 为正确项。A) 将 II 段 miniature horses 脆断为“宠物”，而文中只提到“动物理疗师”，未提及宠物。B) 借短文中 luggage、horses、donkey 以及常识”马／驴多用千驮物”捏造干扰。D)利用文中 passagers、animal 主观胧断，文中并未提及“乘客带动物出行“。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What is special about the Cincinnati/Northern Kentucky International Airport? 【答案】C 【解析】C) 概括 II 段主要内容辛辛那提／北肯塔基国际机场引进迷你马／治疗马(miniature horses/therapy horses) 安抚紧张的乘客(deliver a calming force), 为正确项。A) 将 II 段",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q10",
@@ -148,7 +229,16 @@
             "D": "Looking after sick passengers."
           },
           "answer": "B",
-          "explanation": "I V 段末句指出”这些受过训练的专业动物可能比出行最频繁的旅客还要善于机场 认路\", B) 符合该信息，为正确项。A)、C) 分别利用导盲犬、缉毒犬等受过训练的动物 的技能设置千扰，但并非本文关注的 “动物理疗师 ” 的能力。D) 由therapy 一词胧断而来， 但文中提到的是动物理疗师可 “安抚乘客的紧张情绪 ”，而非 “照顾患病乘客 ”。 Qll : What do some passengers try to do? 【答案】A 【解析】V 段末旬指出，一些乘客非常喜欢这些动物，甚至会打电话给机场将自己的航班安 排在它们的来访期(their visits= animal visits), A) 契合乘客行为，为正确项。文中没有提 到＇拍摄照片“、\"宠物 ” 相关信息，排除B)、D)。C) 由 VI 段owner、therapy animal—donkeys 拼凑隐断而来，但该旬并非乘客的行为，而是动物理疗师饲主的行为 “ 研究如何将驴培养成 新的动物理疗师 ”。 【听力原文】 Passage Two (法国城市阿尔勒出土古罗马时期壁画） Hello, viewers. Today I'm standing at the 2000-year-old Roman-era site. Here the brightly-colored scenes that once decorated a mansion are being dug up. These scenes are turning up in the southern French city of Arles, surprising the historians who have been working here since 2014. Patches of paint still cling to the stone walls of the bedroom and reception hall. Some of these painted walls are preserved in places "
+          "explanation": "I V 段末句指出”这些受过训练的专业动物可能比出行最频繁的旅客还要善于机场认路\", B) 符合该信息，为正确项。A)、C) 分别利用导盲犬、缉毒犬等受过训练的动物的技能设置千扰，但并非本文关注的 “动物理疗师 ” 的能力。D) 由 therapy 一词胧断而来， 但文中提到的是动物理疗师可 “安抚乘客的紧张情绪 ”，而非 “照顾患病乘客 ”。 Qll : What do some passengers try to do? 【答案】A 【解析】V 段末旬指出，一些乘客非常喜欢这些动物，甚至会打电话给机场将自己的航班安排在它们的来访期(their visits= animal visits), A) 契合乘客行为，为正确项。文中没有提到＇拍摄照片“、\"宠物 ” 相关信息，排除 B)、D)。C) 由 VI 段 owner、therapy animal—donkeys 拼凑隐断而来，但该旬并非乘客的行为，而是动物理疗师饲主的行为 “ 研究如何将驴培养成新的动物理疗师 ”。 【听力原文】 Passage Two (法国城市阿尔勒出土古罗马时期壁画） Hello, viewers. Today I'm standing at the 2000-year-old Roman-era site. Here the brightly-colored scenes that once decorated a mansion are being dug up. These scenes are turning up in the southern French city of Arles, surprising the historians who have been working here since 2014. Patches of paint still cling to the stone walls of the bedroom and reception hall. Some of these painted walls are preserved in places",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What are the trained animals probably capable of doing in an airport? 【答案】B 【解析】I V 段末句指出”这些受过训练的专业动物可能比出行最频繁的旅客还要善于机场认路\", B) 符合该信息，为正确项。A)、C) 分别利用导盲犬、缉毒犬等受过训练的动物的技能设置千扰，但并非本文关注的 “动物理疗师 ” 的能力。D) 由 therapy 一词胧断而来， 但文中提到的是动物理疗师可 “安抚乘客的紧张情绪 ”，而非 “照顾患病乘客 ”。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q11",
@@ -174,7 +264,16 @@
             "D": "At the entrance to a reception hall in Rome."
           },
           "answer": "C",
-          "explanation": "C) 契合开篇信息”现在，我（讲话人）正站在古罗马时期遗址上；这里，（人们） 正在挖掘一座宅邸的壁画'。A) 虽然复现原文Arles、brightly-colored 等词，体现墙体特征， 但由II 段可知，饰有壁画的墙不只一面(stone walls ) , 且讲话人只说自己站在“遗址上(at the site) \", 没说自己就在墙边(Beside a ... wall) \"。B) 将文中”一座古罗马时期的宅邸” 窜改为“一座古罗马城市的大门”。D) 利用原文提及的reception hall 干扰，但文中指出的是 “此处的墙上附着颜料 ” 并非是 “讲话人正站在此处 ”，且原文为“古罗马(Roman- era) \" 而非“罗马(Rome)\"。"
+          "explanation": "C) 契合开篇信息”现在，我（讲话人）正站在古罗马时期遗址上；这里，（人们） 正在挖掘一座宅邸的壁画'。A) 虽然复现原文 Arles、brightly-colored 等词，体现墙体特征， 但由 II 段可知，饰有壁画的墙不只一面(stone walls ), 且讲话人只说自己站在“遗址上(at the site) \", 没说自己就在墙边(Beside a. . . wall) \"。B) 将文中”一座古罗马时期的宅邸” 窜改为“一座古罗马城市的大门”。D) 利用原文提及的 reception hall 干扰，但文中指出的是 “此处的墙上附着颜料 ” 并非是 “讲话人正站在此处 ”，且原文为“古罗马(Roman- era) \" 而非“罗马(Rome)\"。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "Where is the speaker standing? 【答案】C 【解析】C) 契合开篇信息”现在，我（讲话人）正站在古罗马时期遗址上；这里，（人们） 正在挖掘一座宅邸的壁画'。A) 虽然复现原文 Arles、brightly-colored 等词，体现墙体特征， 但由 II 段可知，饰有壁画的墙不只一面(stone walls ), 且讲话人只说自己站在“遗址上(at the site) \", 没说自己就在墙边(Bes",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q13",
@@ -187,7 +286,16 @@
             "D": "Paintings by famous French artists."
           },
           "answer": "A",
-          "explanation": "A)符合III 段信息”碎片拼接后展示出各种图像(a variety of images)兀B)将a variety of和mythology 揉杂，文中只是推测”壁画所呈现的形象之一来自神话人物(a character from mythology)\", 并非指出“壁画展示了多位神话英雄(A number of mythological heroes) \"。C) 将a variety of 和a stringed instrument 揉杂，以偏概全。D) 利用France 捏造“法国艺术家\", 但下文指出壁画作者来自意大利。 Ql4:What makes experts think the paintings were done by artists from Italy? 【答案】D 【解析】D)复现IV 段信息壁画绘制的高超技巧和使用的昂贵颜料(with such skill and with such expensive dyes) 使专家认为画师来自意大利”。A) 中expertise 虽近义复现skill,但 originality曲解originally: 文中指画师当初来自何方，而非画作具有原创性。B) 虽然复现 文中worldly sophistication, 但这是关于”壁画拥有者”的信息，而非对“壁画／画师”的特点描 - 7 - 述。C)虽然符合壁画本身特点，但不足以以此确定壁画作者的国籍。"
+          "explanation": "A)符合 III 段信息”碎片拼接后展示出各种图像(a variety of images)兀 B)将 a variety of 和 mythology 揉杂，文中只是推测”壁画所呈现的形象之一来自神话人物(a character from mythology)\", 并非指出“壁画展示了多位神话英雄(A number of mythological heroes) \"。C) 将 a variety of 和 a stringed instrument 揉杂，以偏概全。D) 利用 France 捏造“法国艺术家\", 但下文指出壁画作者来自意大利。 Ql4:What makes experts think the paintings were done by artists from Italy? 【答案】D 【解析】D)复现 IV 段信息壁画绘制的高超技巧和使用的昂贵颜料(with such skill and with such expensive dyes) 使专家认为画师来自意大利”。A) 中 expertise 虽近义复现 skill, 但 originality 曲解 originally: 文中指画师当初来自何方，而非画作具有原创性。B) 虽然复现文中 worldly sophistication, 但这是关于”壁画拥有者”的信息，而非对“壁画／画师”的特点描 - 7 - 述。C)虽然符合壁画本身特点，但不足以以此确定壁画作者的国籍。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What do the thousands of fragments display when they are put back together? 【答案】A 【解析】A)符合 III 段信息”碎片拼接后展示出各种图像(a variety of images)兀 B)将 a variety of 和 mythology 揉杂，文中只是推测”壁画所呈现的形象之一来自神话人物(a character from mythology)\", 并非指出“壁画展示了多位神话英雄(A number of mythological her",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q14",
@@ -213,7 +321,16 @@
             "D": "He was a rich Italian merchant."
           },
           "answer": "B",
-          "explanation": "B) 符合V 段对宅邸主人的推测“他可能是古罗马帝国官员(Perhaps a Roman official) , 也可能是当地一名富人(Or maybe a wealthy local) \"。A) 干扰源自文中worldly sophistication, 但由此只可得知”某一当地富人为了显得自己老成练达（有能力欣赏高雅艺术） 而请人绘制壁画“，与“该富商是一个品味高雅的人”存在语义偏差，且这只是对宅邸主人身 份的一种推测，并非确认事实。C)将”出土的壁画在当今已可以算作古董”歪曲为“宅邸主人 在当时收集古董”。D) 将from Italy和a wealthy local 杂鞣，但前者指”画师”，后者才指”宅 邸主人（的可能身份） “。 Section C 【听力原文】 Recording One （科学界跨国合作兴起） Good aftemoon,class. Today I want to discuss with you a new approach to empirical research. In the past, scientists often worked alone. They were confined to the university or research center where they worked. Today, though, we are seeing mergers of some of the greatest scientific minds, regardless of their location. There has never been a better time for collaborations with foreign scientists. In fact, the European Union is taking the lead. Spurred on by funding policies, half of European research articles had international co"
+          "explanation": "B) 符合 V 段对宅邸主人的推测“他可能是古罗马帝国官员(Perhaps a Roman official), 也可能是当地一名富人(Or maybe a wealthy local) \"。A) 干扰源自文中 worldly sophistication, 但由此只可得知”某一当地富人为了显得自己老成练达（有能力欣赏高雅艺术） 而请人绘制壁画“，与“该富商是一个品味高雅的人”存在语义偏差，且这只是对宅邸主人身份的一种推测，并非确认事实。C)将”出土的壁画在当今已可以算作古董”歪曲为“宅邸主人在当时收集古董”。D) 将 from Italy 和 a wealthy local 杂鞣，但前者指”画师”，后者才指”宅邸主人（的可能身份） “。 Section C 【听力原文】 Recording One （科学界跨国合作兴起） Good aftemoon, class. Today I want to discuss with you a new approach to empirical research. In the past, scientists often worked alone. They were confined to the university or research center where they worked. Today, though, we are seeing mergers of some of the greatest scientific minds, regardless of their location. There has never been a better time for collaborations with foreign scientists. In fact, the European Union is taking the lead. Spurred on by funding policies, half of European research articles had international co",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What do we learn from the passage about the owner of the mansion? 【答案】B 【解析】B) 符合 V 段对宅邸主人的推测“他可能是古罗马帝国官员(Perhaps a Roman official), 也可能是当地一名富人(Or maybe a wealthy local) \"。A) 干扰源自文中 worldly sophistication, 但由此只可得知”某一当地富人为了显得自己老成练达（有能力欣赏高雅艺术） 而请人绘制壁画“，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q16",
@@ -226,7 +343,16 @@
             "D": "They favour scientists from its member countries."
           },
           "answer": "A",
-          "explanation": "A)是对IV段＠句 “在欧盟资助政策的激励下，欧洲有一半的论文是国际合作完 成的 ” 以及文末两句 “合作的增强与欧盟资助政策有关，这些政策强调团队合作 ” 的合理概 括。B)、D)分别由“基础科研极其重要 ” 及 “欧盟内部互帮互助 ” 这两项常识编造而来， 在文中缺少依据。C)中 “实证研究 ” 复现于I段，但它意在引出国际合作，IV段也仅指出 欧盟研究资助政策对国际合作的推动作用，并未指出这些政策极度强调实证研究。"
+          "explanation": "A)是对 IV 段＠句 “在欧盟资助政策的激励下，欧洲有一半的论文是国际合作完成的 ” 以及文末两句 “合作的增强与欧盟资助政策有关，这些政策强调团队合作 ” 的合理概括。B)、D)分别由“基础科研极其重要 ” 及 “欧盟内部互帮互助 ” 这两项常识编造而来， 在文中缺少依据。C)中 “实证研究 ” 复现于 I 段，但它意在引出国际合作，IV 段也仅指出欧盟研究资助政策对国际合作的推动作用，并未指出这些政策极度强调实证研究。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What do we learn about the research funding policies in the European Union? 【答案】A 【解析】A)是对 IV 段＠句 “在欧盟资助政策的激励下，欧洲有一半的论文是国际合作完成的 ” 以及文末两句 “合作的增强与欧盟资助政策有关，这些政策强调团队合作 ” 的合理概括。B)、D)分别由“基础科研极其重要 ” 及 “欧盟内部互帮互助 ” 这两项常识编造而来， 在文中缺少依据。C)中 “实证研究 ” 复现于 I 段，但它意在引出国际合作，IV 段也仅指",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q17",
@@ -239,7 +365,16 @@
             "D": "Many of their projects have become complicated."
           },
           "answer": "D",
-          "explanation": "VI段提到国际合作增强的原因“科研工作变复杂，需要多国合力（国际合作）“， 故D)正确。A)、C)由VIII段国际合作的优点”产出的论文更受关注”及V段国际合作的 趋势”各国日趋增强”隐断出研究者寻求国际合作是为了寻求国际关注或追赶国际潮流，但文 章并未谈及他们的主观动机。B)由VI段客观局势”需要多国合力“ 曲解出主观观点”认为众 人拾柴火焰高”，但并无信息支持。"
+          "explanation": "VI 段提到国际合作增强的原因“科研工作变复杂，需要多国合力（国际合作）“， 故 D)正确。A)、C)由 VIII 段国际合作的优点”产出的论文更受关注”及 V 段国际合作的趋势”各国日趋增强”隐断出研究者寻求国际合作是为了寻求国际关注或追赶国际潮流，但文章并未谈及他们的主观动机。B)由 VI 段客观局势”需要多国合力“ 曲解出主观观点”认为众人拾柴火焰高”，但并无信息支持。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "Why do researchers today favour international collaboration? 【答案】D 【解析】VI 段提到国际合作增强的原因“科研工作变复杂，需要多国合力（国际合作）“， 故 D)正确。A)、C)由 VIII 段国际合作的优点”产出的论文更受关注”及 V 段国际合作的趋势”各国日趋增强”隐断出研究者寻求国际合作是为了寻求国际关注或追赶国际潮流，但文章并未谈及他们的主观动机。B)由 VI 段客观局势”需要多国合力“ 曲解出主观观点”认为众人拾柴火焰高",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q18",
@@ -252,7 +387,16 @@
             "D": "It calls for more research funding to catch up."
           },
           "answer": "C",
-          "explanation": "C) 正确阐释XI 段暗含因果关系 “因为数学家历来喜欢单千，所以数学在国际合 作方面落后于其他学科 ”。A) 与XI 段末旬数学界当下趋势 “合作增加（暗示数学研究需要 合作） ” 相悖。B) 将XI 段数学界遇到的一项困难 “在合作上落后于其他学科 ” 夸大为 “许 多前所未有的挑战 ”。D 将XI 段数学界在国际合作上的落后与IV,XII 段碎片信息funding( 指 向欧盟资助政策）杂鞣，捏造出 “数学界要求更多资助以摆脱落后 ”。 【听力原文】 Recording Two (我们所不知道的浪漫的金星） Good evening. In 1959, on the day that 1 was born, a headline in Life magazine proclaimed \"Target Venus: There May be Life There!\" It told of how scientists rode a balloon to an altitude of 80,000 feet to make telescope observations of Venus's atmosphere? and how their discovery of water raised hopes that there could be living things there. As a kid, I thrilled to tales of adventure and Isaac Asimov's juvenile science-fiction novel Lucky Starr and the Oceans of Venus. For many of my peers, though, Venus quickly lost its romance. The very first thing that scientists discovered with a mission to another planet was that Venus was not a"
+          "explanation": "C) 正确阐释 XI 段暗含因果关系 “因为数学家历来喜欢单千，所以数学在国际合作方面落后于其他学科 ”。A) 与 XI 段末旬数学界当下趋势 “合作增加（暗示数学研究需要合作） ” 相悖。B) 将 XI 段数学界遇到的一项困难 “在合作上落后于其他学科 ” 夸大为 “许多前所未有的挑战 ”。D 将 XI 段数学界在国际合作上的落后与 IV, XII 段碎片信息 funding( 指向欧盟资助政策）杂鞣，捏造出 “数学界要求更多资助以摆脱落后 ”。 【听力原文】 Recording Two (我们所不知道的浪漫的金星） Good evening. In 1959, on the day that 1 was born, a headline in Life magazine proclaimed \"Target Venus: There May be Life There!\" It told of how scientists rode a balloon to an altitude of 80,000 feet to make telescope observations of Venus's atmosphere? and how their discovery of water raised hopes that there could be living things there. As a kid, I thrilled to tales of adventure and Isaac Asimov's juvenile science-fiction novel Lucky Starr and the Oceans of Venus. For many of my peers, though, Venus quickly lost its romance. The very first thing that scientists discovered with a mission to another planet was that Venus was not a",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What do we learn about the field of mathematics? - 9 - 【答案】C 【解析】C) 正确阐释 XI 段暗含因果关系 “因为数学家历来喜欢单千，所以数学在国际合作方面落后于其他学科 ”。A) 与 XI 段末旬数学界当下趋势 “合作增加（暗示数学研究需要合作） ” 相悖。B) 将 XI 段数学界遇到的一项困难 “在合作上落后于其他学科 ” 夸大为 “许多前所未有的挑战 ”。D 将 XI 段数学界在国际合作上的落后与 IV, XII",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q19",
@@ -265,7 +409,16 @@
             "D": "Scientists observed Venus from a space vehicle."
           },
           "answer": "B",
-          "explanation": "讲话人开篇即借《生活》杂志的头版文章引入讲话主题，B项同义改写该文章的讲 述内容Cit told of…)之一“科学家们在金星上发现水\" (their discovery of water)。A项利用 个别单词balloon、Venus干扰，听时应注意与这叩名词相关的动作信息（乘气球、观测金星 大气层）。C项将Venus's atmosphere 和discovery鞣杂干扰。D项a space vehicle在 “开篇对 杂志文章的介绍“中并未提及。"
+          "explanation": "讲话人开篇即借《生活》杂志的头版文章引入讲话主题，B 项同义改写该文章的讲述内容 Cit told of…)之一“科学家们在金星上发现水\" (their discovery of water)。A 项利用个别单词 balloon、Venus 干扰，听时应注意与这叩名词相关的动作信息（乘气球、观测金星大气层）。C 项将 Venus's atmosphere 和 discovery 鞣杂干扰。D 项 a space vehicle 在 “开篇对杂志文章的介绍“中并未提及。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What do we learn from the Life magazine article? 【答案】B 【解析】讲话人开篇即借《生活》杂志的头版文章引入讲话主题，B 项同义改写该文章的讲述内容 Cit told of…)之一“科学家们在金星上发现水\" (their discovery of water)。A 项利用个别单词 balloon、Venus 干扰，听时应注意与这叩名词相关的动作信息（乘气球、观测金星大气层）。C 项将 Venus's atmosphere",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q20",
@@ -278,7 +431,16 @@
             "D": "It undergoes geological changes like Earth."
           },
           "answer": "A",
-          "explanation": "A项概括原文”在质量、密度和大小等整体性质上，金星与我们的星球类似”（其中 resembles 与is nearly identical to 同义，in many aspects 概括in bulk properties such as. . .)。 B项与科学家们关千金星的发现“根本就不是小说里描绘的那片＇人间＇天堂”相悖，注意绝对 否定表述not at all。C项利用a possible home for alien life及theEarthly paradise等碎片信息 干扰，但无视否定表达“最不可能成真Cleast likely to succeed) \"、\"根本不是“ 。D项无中生 有，原文并未对金星和地球进行地质方面的比较。"
+          "explanation": "A 项概括原文”在质量、密度和大小等整体性质上，金星与我们的星球类似”（其中 resembles 与 is nearly identical to 同义，in many aspects 概括 in bulk properties such as. . . )。 B 项与科学家们关千金星的发现“根本就不是小说里描绘的那片＇人间＇天堂”相悖，注意绝对否定表述 not at all。C 项利用 a possible home for alien life 及 theEarthly paradise 等碎片信息干扰，但无视否定表达“最不可能成真 Cleast likely to succeed) \"、\"根本不是“。D 项无中生有，原文并未对金星和地球进行地质方面的比较。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What are scientists'findings about Venus? 【答案】A 【解析】A 项概括原文”在质量、密度和大小等整体性质上，金星与我们的星球类似”（其中 resembles 与 is nearly identical to 同义，in many aspects 概括 in bulk properties such as. . . )。 B 项与科学家们关千金星的发现“根本就不是小说里描绘的那片＇人间＇天堂”相悖，注意绝对否定表述",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q21",
@@ -291,7 +453,16 @@
             "D": "It used to be covered with rainforests."
           },
           "answer": "B",
-          "explanation": "B项准确概述俄美两国航天器的发现：金星的远古气候可能比现在更加湿润凉爽， 甚至可能利千生命存在，a co勾habitat for life同义改写friendly to life。A项与原文“金星过 去的气候可能比现在更加凉爽”相悖。C项将对比点从“ 自身今昔对比（金星曾拥有比现在更 多的水）＂窜改为“两者横向对比（金星曾拥有比地球更多的水） ”。D项rainforests为原文未 提及信息。 【听力原文】 Recording Three （跨文化睡眠研究） I'm a psychology professor at the University of British Columbia. I specialize in cultural psychology, examining similarities and differences between East Asians and North Americans. Our research team has been looking at cultural differences in self-enhancing motivations? - 11 - how people have positive feelings towards not only themselves, but things connected to themselves. For example, when you own something, you view it as more valuable than when you don't own it. It s called the endowment effect\". The strength of that effect is stronger in Western cultures than in East Asian cultures. So we've been looking at other ways of seeing whether this motivation t"
+          "explanation": "B 项准确概述俄美两国航天器的发现：金星的远古气候可能比现在更加湿润凉爽， 甚至可能利千生命存在，a co 勾 habitat for life 同义改写 friendly to life。A 项与原文“金星过去的气候可能比现在更加凉爽”相悖。C 项将对比点从“ 自身今昔对比（金星曾拥有比现在更多的水）＂窜改为“两者横向对比（金星曾拥有比地球更多的水） ”。D 项 rainforests 为原文未提及信息。 【听力原文】 Recording Three （跨文化睡眠研究） I'm a psychology professor at the University of British Columbia. I specialize in cultural psychology, examining similarities and differences between East Asians and North Americans. Our research team has been looking at cultural differences in self-enhancing motivations? - 11 - how people have positive feelings towards not only themselves, but things connected to themselves. For example, when you own something, you view it as more valuable than when you don't own it. It s called the endowment effect\". The strength of that effect is stronger in Western cultures than in East Asian cultures. So we've been looking at other ways of seeing whether this motivation t",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What information did Russian and American space probes provide about Venus? 【答案】B 【解析】B 项准确概述俄美两国航天器的发现：金星的远古气候可能比现在更加湿润凉爽， 甚至可能利千生命存在，a co 勾 habitat for life 同义改写 friendly to life。A 项与原文“金星过去的气候可能比现在更加凉爽”相悖。C 项将对比点从“ 自身今昔对比（金星曾拥有比现在更多的水）＂窜改为“两者横向对比（金星曾拥有比地球更多的水） ”",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q22",
@@ -304,7 +475,16 @@
             "D": "Motivation and positive feelings."
           },
           "answer": "C",
-          "explanation": "题千+C)同义复现首段I specialize in cultural psychology。A)利用3段东亚人的 睡眠情况”较北美人少\"( sleep about an hour and a half less each night)编造出sleeplessnesso。 B)源于1段末differences between ... 以及2段首旬cultural differences等碎片信息，选项中 “ 跨 ” 没错，但“交流”有误。D)将2段首旬 “ 研究自我提升动因方面的文化差异，人们如 何积极看待自己 ” 窜改为 “ 研究动因和积极情感 ”。"
+          "explanation": "题千+C)同义复现首段 I specialize in cultural psychology。A)利用 3 段东亚人的睡眠情况”较北美人少\"( sleep about an hour and a half less each night)编造出 sleeplessnesso。 B)源于 1 段末 differences between. . . 以及 2 段首旬 cultural differences 等碎片信息，选项中 “ 跨 ” 没错，但“交流”有误。D)将 2 段首旬 “ 研究自我提升动因方面的文化差异，人们如何积极看待自己 ” 窜改为 “ 研究动因和积极情感 ”。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What does the speaker mainly study? 【答案】C - 12 - 【解析】题千+C)同义复现首段 I specialize in cultural psychology。A)利用 3 段东亚人的睡眠情况”较北美人少\"( sleep about an hour and a half less each night)编造出 sleeplessnesso。 B)源于 1 段末 differences between. . .",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q23",
@@ -317,7 +497,16 @@
             "D": "They generally sleep longer than East Asians."
           },
           "answer": "D",
-          "explanation": "D)符合3段＠句指出的 “ 东亚人平均每晚比北美人少睡约一个半小时（即，北 美人比东亚人睡得久些） ”。A)由3段＠句“ 东亚人比北美人睡得少 ” 过度推测出 “ 北美人 重视睡眠\"; B)将其反向窜改为 “ 北美人入睡困难 ”。C)由3段＠句“东亚人睡眠少，效率 也不是多高(not a more efficient sleep)\"捏造而来。"
+          "explanation": "D)符合 3 段＠句指出的 “ 东亚人平均每晚比北美人少睡约一个半小时（即，北美人比东亚人睡得久些） ”。A)由 3 段＠句“ 东亚人比北美人睡得少 ” 过度推测出 “ 北美人重视睡眠\"; B)将其反向窜改为 “ 北美人入睡困难 ”。C)由 3 段＠句“东亚人睡眠少，效率也不是多高(not a more efficient sleep)\"捏造而来。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What does the speaker say about North Americans? 【答案】D 【解析】D)符合 3 段＠句指出的 “ 东亚人平均每晚比北美人少睡约一个半小时（即，北美人比东亚人睡得久些） ”。A)由 3 段＠句“ 东亚人比北美人睡得少 ” 过度推测出 “ 北美人重视睡眠\"; B)将其反向窜改为 “ 北美人入睡困难 ”。C)由 3 段＠句“东亚人睡眠少，效率也不是多高(not a more efficient sleep)\"捏造而来。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q24",
@@ -330,7 +519,16 @@
             "D": "By videotaping people’s daily sleeping processes."
           },
           "answer": "C",
-          "explanation": "C)符合4段＠旬所说研究方法：借给人们运动监测手表，让其佩戴一周。A)在 录音中无信息支撑。B)与4段句旬 “我们未在睡眠实验室进行实验 ” 相悖。D)利用＠旬 提及的手表监测的内容measuring how long people ... how efficient. .. and whether they are… 千扰，但段首已表明监测为 “动作感应 ”，而非 “录下影像视频 ”。"
+          "explanation": "C)符合 4 段＠旬所说研究方法：借给人们运动监测手表，让其佩戴一周。A)在录音中无信息支撑。B)与 4 段句旬 “我们未在睡眠实验室进行实验 ” 相悖。D)利用＠旬提及的手表监测的内容 measuring how long people. . . how efficient. . . and whether they are… 千扰，但段首已表明监测为 “动作感应 ”，而非 “录下影像视频 ”。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "How did the speaker conduct the sleep study? 【答案】C 【解析】C)符合 4 段＠旬所说研究方法：借给人们运动监测手表，让其佩戴一周。A)在录音中无信息支撑。B)与 4 段句旬 “我们未在睡眠实验室进行实验 ” 相悖。D)利用＠旬提及的手表监测的内容 measuring how long people. . . how efficient. . . and whether they are… 千扰，但段首已表明监测为",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q25",
@@ -343,7 +541,16 @@
             "D": "It has attached attention all over the world."
           },
           "answer": "B",
-          "explanation": "题干+B)同义复现末段前两句问答内容：为何要研究睡眠？（因为）睡眠是一个 从未真正在跨文化视角下探究过的话题。A)由3段＠句Other studies have found (一些研究 已发现）过度推出“睡眠研究取得巨大进步“，与前文(3段）所提”研究尚处探索阶段”矛盾。 C)与3段＠句“其他一些研究已发现”所暗示的“睡眠研究已得出一些结论”相悖。D)对 cross-culturally、attracted断章取义，捏造出”研究受到全世界关注“。 Part III Reading Comprehension (40 minutes) Section A 【原文译文】 飞行汽车的现在与未来 在许多发明家心中，个人化飞行之梦仍清晰可见，他们有人开发出自行车驱动的飞行器， 有人向喷气飞行背包投入大量资金。不过，飞行汽车始终是个人交通自由的终极象征。 世界上有几家公司已经制造出了能在路上行驶且能飞行的原型车。空中客车公司有一款 未来风的组件式概念车，它包含一个能从“道路上行驶的底盘”上分离并被直升飞机式的机器 “抓＇起的乘客舱。 但所有这些概念车都非常昂贵，需要道路和空中行驶的安全认证标准，需要双重控制装 置，需要复杂的折叠机翼和螺旋桨，且必须得从跑道上起飞。因而，它们可能只会是富人的 玩具，而非面向大众的实用交通方案。 “一辆车从伦敦的某条街道上起飞，降落在任意另一条街道上，这是不可能发生的。 ” 首席航空工程师格雷教授说，“空中出租车的可能性要大得多。”但这并不会阻碍发明家设想 出新的飞行方式并试图说服投资者资助他们时而惊人的方案。 民用航空工业正处千混乱之中，打乱它的不是由来已久的对速度、浪漫和魅力的渴 望，而是应对气候变化的迫切需求。新型电动发动机加上人工智能和自主系统将会促成更加 高效协调、污染和噪音更少的交通运输系统。这听上去或许普普通通，但正如格雷教授所说： “ 当我在某处旅行时，我喜欢这样一种理念：旅程结束时，我的感觉比旅程开始时更好。那 - 13 - 完全不同于我现在的感觉。” 而这就会是进步。 【答案解析】"
+          "explanation": "题干+B)同义复现末段前两句问答内容：为何要研究睡眠？（因为）睡眠是一个从未真正在跨文化视角下探究过的话题。A)由 3 段＠句 Other studies have found (一些研究已发现）过度推出“睡眠研究取得巨大进步“，与前文(3 段）所提”研究尚处探索阶段”矛盾。 C)与 3 段＠句“其他一些研究已发现”所暗示的“睡眠研究已得出一些结论”相悖。D)对 cross-culturally、attracted 断章取义，捏造出”研究受到全世界关注“。 Part III Reading Comprehension (40 minutes) Section A 【原文译文】 飞行汽车的现在与未来在许多发明家心中，个人化飞行之梦仍清晰可见，他们有人开发出自行车驱动的飞行器， 有人向喷气飞行背包投入大量资金。不过，飞行汽车始终是个人交通自由的终极象征。 世界上有几家公司已经制造出了能在路上行驶且能飞行的原型车。空中客车公司有一款未来风的组件式概念车，它包含一个能从“道路上行驶的底盘”上分离并被直升飞机式的机器 “抓＇起的乘客舱。 但所有这些概念车都非常昂贵，需要道路和空中行驶的安全认证标准，需要双重控制装置，需要复杂的折叠机翼和螺旋桨，且必须得从跑道上起飞。因而，它们可能只会是富人的玩具，而非面向大众的实用交通方案。 “一辆车从伦敦的某条街道上起飞，降落在任意另一条街道上，这是不可能发生的。 ” 首席航空工程师格雷教授说，“空中出租车的可能性要大得多。”但这并不会阻碍发明家设想出新的飞行方式并试图说服投资者资助他们时而惊人的方案。 民用航空工业正处千混乱之中，打乱它的不是由来已久的对速度、浪漫和魅力的渴望，而是应对气候变化的迫切需求。新型电动发动机加上人工智能和自主系统将会促成更加高效协调、污染和噪音更少的交通运输系统。这听上去或许普普通通，但正如格雷教授所说： “ 当我在某处旅行时，我喜欢这样一种理念：旅程结束时，我的感觉比旅程开始时更好。那 - 13 - 完全不同于我现在的感觉。” 而这就会是进步。 【答案解析】",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "What does the speaker say about research on sleep? 【答案】B 【解析】题干+B)同义复现末段前两句问答内容：为何要研究睡眠？（因为）睡眠是一个从未真正在跨文化视角下探究过的话题。A)由 3 段＠句 Other studies have found (一些研究已发现）过度推出“睡眠研究取得巨大进步“，与前文(3 段）所提”研究尚处探索阶段”矛盾。 C)与 3 段＠句“其他一些研究已发现”所暗示的“睡眠研究已得出一些结论”相悖",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -373,8 +580,17 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "】others money into jetpacks 与 some developing cycle-powered craft 并列，均为独立主格结构作伴随状语，空格词的形式应与 developing 一致， 为-ing 分词。 【答案解析】空格句后半部分大意为：有人开发出自行车驱动的飞行器，有人将资金到喷气飞行背包中。可见，空格词应表示“投入，投放\", I) pouring 符合文意，pour money into sth 为固定搭配， 表示“向拿…．．投入大量资金”。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "26. 【答案】I) pouring 【语法分析】others money into jetpacks 与 some developing cycle-powered craft 并列，均为独立主格结构作伴随状语，空格词的形式应与 developing 一致， 为-ing 分词。 【答案解析】空格句后半部分大意为：有人开发出自行车驱动的飞行器，有人将资金到喷气飞行背包中。可见，空",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q27",
@@ -385,50 +601,122 @@
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "】空格词位于谓语 have produced 与 that 从句之间， 为所在句的宾语， 应为名词。 【答案解析】空格句指出，世界上有几家公司已经制造出了能在路上行驶且能飞行的＿；下旬介绍 Airbus 研发的一款概念车。可见，空格词应表示”概念车，样车，模型车\", J) prototypes 符合文意。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "28. 【答案】J) prototypes 【语法分析】空格词位于谓语 have produced 与 that 从句之间， 为所在句的宾语， 应为名词。 【答案解析】空格句指出，世界上有几家公司已经制造出了能在路上行驶且能飞行的＿；下旬介绍 Airbus 研发的一款概念车。可见，空格词应表示”概念车，样车，模型车\", J) prototypes 符合文意。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q29",
           "number": 29,
           "answer": "B",
-          "explanation": "】_from…与picked up并列， 位于can be之后， 构成谓语被动态，空格 词应为-ed分词，且与from搭配。 【答案解析】从空格句已知信息 “包含一个可以从在道路上行驶的底盘＿并被直升飞 机式的机器吊起的乘客舱 ” 可知这款车的概貌：在地面行驶时，乘客舱与（带有轮胎的）底盘 相连，飞行时则依靠直升机式的机器将乘客舱提拉至空中，此时（为了减轻重量）底盘会留在 地面，即乘客舱与底盘分开。B) detached与M) segmented均有“分开” 之意，但前者指从 独立结构中脱离、拆卸下来(becomes separated from sth)\", 后者指“ 对整体进行切分／划分(to divide sth into different parts)\",B) detached 符合文意。"
+          "explanation": "】_from…与 picked up 并列， 位于 can be 之后， 构成谓语被动态，空格词应为-ed 分词，且与 from 搭配。 【答案解析】从空格句已知信息 “包含一个可以从在道路上行驶的底盘＿并被直升飞机式的机器吊起的乘客舱 ” 可知这款车的概貌：在地面行驶时，乘客舱与（带有轮胎的）底盘相连，飞行时则依靠直升机式的机器将乘客舱提拉至空中，此时（为了减轻重量）底盘会留在地面，即乘客舱与底盘分开。B) detached 与 M) segmented 均有“分开” 之意，但前者指从独立结构中脱离、拆卸下来(becomes separated from sth)\", 后者指“ 对整体进行切分／划分(to divide sth into different parts)\", B) detached 符合文意。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "【答案】B) detached 【语法分析】_from…与 picked up 并列， 位于 can be 之后， 构成谓语被动态，空格词应为-ed 分词，且与 from 搭配。 【答案解析】从空格句已知信息 “包含一个可以从在道路上行驶的底盘＿并被直升飞机式的机器吊起的乘客舱 ” 可知这款车的概貌：在地面行驶时，乘客舱与（带有轮胎的）底盘相连，飞行时则依靠直升机式的机器将",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q30",
           "number": 30,
           "answer": "C",
-          "explanation": "】空格词位于动词need和名词controls之间， 应为名词、形容词、-ed分词 或-ing分词。 【答案解析】空格所在句意为：这些概念车很贵，需要地面和空中两种安全认证，还需 要＿控制装置；下句指出，它们可能只是富人的玩具， 很难成为大众的实用工具。可见， 空格部分旨在罗列当前概念车 “装置复杂、操控困难 ” ，备选项中只有C) dual限定control 能体现该语义逻辑：呼应前文，表明驾驶员必须掌握 “地面和空中行驶 ” 两种模式下不同的 操作方式，非普通人所能驾驭。A) autonomous虽能与controls搭配，但 “ 自主操控 ” 反而 降低驾驶难度，与该句传达的消极意义不符。"
+          "explanation": "】空格词位于动词 need 和名词 controls 之间， 应为名词、形容词、-ed 分词或-ing 分词。 【答案解析】空格所在句意为：这些概念车很贵，需要地面和空中两种安全认证，还需要＿控制装置；下句指出，它们可能只是富人的玩具， 很难成为大众的实用工具。可见， 空格部分旨在罗列当前概念车 “装置复杂、操控困难 ”，备选项中只有 C) dual 限定 control 能体现该语义逻辑：呼应前文，表明驾驶员必须掌握 “地面和空中行驶 ” 两种模式下不同的操作方式，非普通人所能驾驭。A) autonomous 虽能与 controls 搭配，但 “ 自主操控 ” 反而降低驾驶难度，与该句传达的消极意义不符。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "【答案】C) dual 【语法分析】空格词位于动词 need 和名词 controls 之间， 应为名词、形容词、-ed 分词或-ing 分词。 【答案解析】空格所在句意为：这些概念车很贵，需要地面和空中两种安全认证，还需要＿控制装置；下句指出，它们可能只是富人的玩具， 很难成为大众的实用工具。可见， 空格部分旨在罗列当前概念车 “装置复杂、操控困难 ”，备选项中只有 C)",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "】空格词位于形容词性限定词 another 和名词 street 之间应为名词、形容词、 -ed 分词或-ing 分词。 【答案解析】空格句指出， 一辆车从伦敦的某条街道上起飞，降落在另一条街道上，这是不可能发生的。结合上段首句“ 这些概念车需要在跑道上起飞”可知，这些车需利 - 14 - 用专门铺设的跑道才能起飞，不能随便在一条街道上起降，K)random 符合文意。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "31. 【答案】K) random 【语法分析】空格词位于形容词性限定词 another 和名词 street 之间应为名词、形容词、 -ed 分词或-ing 分词。 【答案解析】空格句指出， 一辆车从伦敦的某条街道上起飞，降落在另一条街道上，这是不可能发生的。结合上段首句“ 这些概念车需要在跑道上起飞”可知，这些车需利 - 14 - 用专门铺设的跑道才能起飞，不能随便在一条街道上",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "】空格词位于形容词性物主代词 their 和名词 schemes 之间，且由副词 sometimes 修饰，应为形容词、-ed 分词或-ing 分词。 【答案解析】空格旬承上“飞行交通方案不可行“转而指出，但这并不会阻碍发明家设想出新的飞行方式并试图说服投资者资助他们时而＿的方案。结合首段提及的 cycle-powered craft 和 jetpacks 可知，发明家充满想象力，空格旬中 sometimes 则暗示出更为极端的情形： 他们有时会给出疯狂大胆（但实际上不可行）的方案；H) outrageous 符合文意。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "32. 【答案】H)outrageous 【语法分析】空格词位于形容词性物主代词 their 和名词 schemes 之间，且由副词 sometimes 修饰，应为形容词、-ed 分词或-ing 分词。 【答案解析】空格旬承上“飞行交通方案不可行“转而指出，但这并不会阻碍发明家设想出新的飞行方式并试图说服投资者资助他们时而＿的方案。结合首段提及的 cycle-powered craft 和",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
           "number": 33,
           "answer": "D",
-          "explanation": "】speed,romanticism and作介词for 的宾语，空格词应为名词。 【答案解析】空格旬指出，打乱民用航空的，不是（人们）由来已久的对速度、浪漫和＿的 渴望，而是…… 。可见，空格词应与“ 速度”和浪漫＇一样，体现某种积极意义，备选项中只 有D)glamour符合要求，表示“魅力，吸引力“ 。"
+          "explanation": "】speed, romanticism and 作介词 for 的宾语，空格词应为名词。 【答案解析】空格旬指出，打乱民用航空的，不是（人们）由来已久的对速度、浪漫和＿的渴望，而是……。可见，空格词应与“ 速度”和浪漫＇一样，体现某种积极意义，备选项中只有 D)glamour 符合要求，表示“魅力，吸引力“。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "【答案】D)glamour 【语法分析】speed, romanticism and 作介词 for 的宾语，空格词应为名词。 【答案解析】空格旬指出，打乱民用航空的，不是（人们）由来已久的对速度、浪漫和＿的渴望，而是……。可见，空格词应与“ 速度”和浪漫＇一样，体现某种积极意义，备选项中只有 D)glamour 符合要求，表示“魅力，吸引力“。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
           "number": 34,
           "answer": "A",
-          "explanation": "】空格词位于连词and和名词systems之间，应为名词、形容词、-ed分词 或-ing分词。 【答案解析】空格旬指出，新型电动发动机加上人工智能和一系统将会促成更加高 效协调、污染和噪音更少的交通运输系统。可见，''_系统” 应与“ 新型电动发动机 ”和” 人 工智能”一样体现出先进性、智能性、科技感，备选项中只有A)autonomous符合"
+          "explanation": "】空格词位于连词 and 和名词 systems 之间，应为名词、形容词、-ed 分词或-ing 分词。 【答案解析】空格旬指出，新型电动发动机加上人工智能和一系统将会促成更加高效协调、污染和噪音更少的交通运输系统。可见，''_系统” 应与“ 新型电动发动机 ”和” 人工智能”一样体现出先进性、智能性、科技感，备选项中只有 A)autonomous 符合",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "【答案】A)autonomous 【语法分析】空格词位于连词 and 和名词 systems 之间，应为名词、形容词、-ed 分词或-ing 分词。 【答案解析】空格旬指出，新型电动发动机加上人工智能和一系统将会促成更加高效协调、污染和噪音更少的交通运输系统。可见，''_系统” 应与“ 新型电动发动机 ”和” 人工智能”一样体现出先进性、智能性、科技感，备选项中只有 A)a",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "】空格词位于介词 at 和 with 之间，应为名词。 【答案解析】空格旬指出，这完全＿我现在的感觉；how I feel today 对应当前的民航交通运输系统下的体验，That 对应＠旬设想的各种新技术结合而成的更高效环保的运输系统下的体验，显然后者应优千、不同千前者。F)odds 符合文意，at odds with 为固定搭配， 表示“ 不一致，有差异”。G)opposites 虽有相反，对立”之意，但不与 at 和 with 搭配，故排除。 Section B 【原文译文】 公司正与消费者合力减少浪费 [A]作为消费者，我们非带浪费。每年，全世界产生 13 亿吨固体废物。到 2025 年，这一数字预计将达到 22 亿。发达国家所产垃圾占比高达 44%, 仅在美国，普通人每月扔弃的垃圾量与其体重相当。 [B] 公众似乎普遍认为，公司没有延长产品生命周期、减少新品销旧收益的动力。然而， 越来越多的企业正在思忖如何减少消费者浪费。部分原因在千原材料及金属价格上涨。还有部分原因在于消费者和公司都更加意识到环境保护的必要性。 [C]在选择购买产品及购买品牌时，越来越多的消费者开始关注可待续性。这与他们过去只关心价格和性能截然相反。在对全球 54 个领先品牌的调查中，几乎所有品牌都表示， 消费者愈来愈关注可持续的生活方式。与此同时，对美国和英国消费者的调查显示，他们也关注如何最大限度地减少能源使用以及如何减少浪费。 [D]在很大程度上，消费者控制着产品的命运。但一些公司逐渐意识到，将回收的重担完全推给消费者并非有效策略，尤其是在随意扔弃东西似乎是最容易且最方便选择的境况下。 [E] 服装、鞋类以及电子行业的一些零售商和制造商已经推出了环保计划。他们想让顾客对“维护产品、以防仍然有价值之物被扔进垃圾堆“感兴趣。通过提供有助于延长产品寿命的服务，他们向消费者承诺产话质量及耐用度，还因环境友好而获得声誉收益。 [F]例如，瑞典牛仔裤公司 Nudie Jeans 在 20 家门店提供免费修补服务。顾客不再丢弃 - 15 - 破旧牛仔裤，而是将其拿到店里修补。该公司甚至提供邮购修补工具及在线视频服务，这样顾客就可",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "35. 【答案】F)odds 【语法分析】空格词位于介词 at 和 with 之间，应为名词。 【答案解析】空格旬指出，这完全＿我现在的感觉；how I feel today 对应当前的民航交通运输系统下的体验，That 对应＠旬设想的各种新技术结合而成的更高效环保的运输系统下的体验，显然后者应优千、不同千前者。F)odds 符合文意，at odds with 为固定搭配， 表示“ 不",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -442,71 +730,161 @@
           "id": "q36",
           "number": 36,
           "stem": "Some companies believe that products’ prolonged lifespan benefits both the environment\nand customers.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "[F]段＠旬提及瑞典牛仔裤公司 NudieJeans 推行环保项目的理念：延长产品使用寿命不仅对环境有利，还可让消费者购买的产品更加物有所值。试题是对该旬所述公司理念的合理泛化（句中 Their philosophy 虽只是指代 NudieJeans 的理念，但 NudieJeans 只是文章的一个具体实例，故试题用 Some companies 对其进行了泛化），其中 benefits both the environment and customers 是对旬中 not only great for the environment, but allows the consumer to get more value out of their product 的高度概括。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "36. 【译文】一些公司认为，延长产品使用寿命对环境和消费者都有益。 - 16 - 【答案】[F] 【解析】[F]段＠旬提及瑞典牛仔裤公司 NudieJeans 推行环保项目的理念：延长产品使用寿命不仅对环境有利，还可让消费者购买的产品更加物有所值。试题是对该旬所述公司理念的合理泛化（句中 Their philosophy 虽只是指代 NudieJeans 的理念，但 NudieJeans 只是文章的一个具体实例，故试题用 Some companies 对其进行了",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "A survey shows shoppers today are getting more concerned about energy conservation\nand environmental protection when deciding what to buy.",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "[CJ 段首两旬提出当今购物者消费理念的改变：购物时越来越关注可持续性， 而非价格和性能；末两旬进而以多项调查结果辅以佐证。本题是结合段首所设定场景及末两句所述调查结果的综合概述，其中 when. . . 契合段首所设定的情境”购买产品及品牌时\", are getting more concerned about 同义改写 are showing increasing care about。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "37. 【译文】一项调查显示，如今的购物者在做购买决定时越来越关注能源节约和环境保护。 【答案】[C] 【解析】[CJ 段首两旬提出当今购物者消费理念的改变：购物时越来越关注可持续性， 而非价格和性能；末两旬进而以多项调查结果辅以佐证。本题是结合段首所设定场景及末两句所述调查结果的综合概述，其中 when. . . 契合段首所设定的情境”购买产品及品牌时\", are getting more concerned about 同义改写 are showing inc",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "Companies can build customer loyalty by creating a positive culture of environmental\nawareness.",
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "[M]段首先提议”与顾客建立共同的价值观文化\", ® 旬连用 by 介绍具体做法 “提高环保意识，培育一种责任、维修及再利用的文化”，并指出此举有利于公司建立顾客忠诚度。试题是对本段核心大意的综合概括，其中 can. . . by. . . 结构在＠旬复现，positive 一词是基于 more awareness. . 对环保努力做出的正面定性。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "38. 【译文】公司可以通过营造积极的环保意识文化来培养客户忠诚度。 【答案】[M] 【解析】[M]段首先提议”与顾客建立共同的价值观文化\", ® 旬连用 by 介绍具体做法 “提高环保意识，培育一种责任、维修及再利用的文化”，并指出此举有利于公司建立顾客忠诚度。试题是对本段核心大意的综合概括，其中 can. . . by. . . 结构在＠旬复现，positive 一词是基于 more awareness. . 对环保努力做出的正面定性。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "When companies launch environmental programs, they will have their brand reputation\nenhanced.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "[E]段末句指出“三大行业一些公司推行环保计划(By offering. . . 是心句 launched environmental programs 的具化）既保证了产品质量和耐用度，又因环保获得良好声誉试题是基于该旬所述部分公司的情况( [ some retailers and manufacturers are ] promising. . . and receiving…)做出的共性推论(When companies. . . , they wil",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "39. 【译文】公司推出环保项目，它们的品牌声誉会得到提升。 【答案】[E] 【解析】[E]段末句指出“三大行业一些公司推行环保计划(By offering. . . 是心句 launched environmental programs 的具化）既保证了产品质量和耐用度，又因环保获得良好声誉试题是基于该旬所述部分公司的情况( [ some retailers and manufacturers are ] promising. .",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "One multinational company offers discounts to customers who bring in old footwear to be\nused as fuel.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "[G]段介绍跨国公司阿迪达斯（巴西）的鞋子回收项目，切至＠句具体介绍其内容：将顾客送来的不同品牌旧鞋粉碎并转化为可替代性能源，为水泥窑供能，还每次给送来旧鞋的顾客提供折扣优惠。试题是对这四句阿迪达斯（巴西）鞋子回收项目内容的概括。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "40. 【译文】一家跨国公司为那些将旧鞋送回用作燃料的顾客提供折扣。 【答案】[G] 【解析】[G]段介绍跨国公司阿迪达斯（巴西）的鞋子回收项目，切至＠句具体介绍其内容：将顾客送来的不同品牌旧鞋粉碎并转化为可替代性能源，为水泥窑供能，还每次给送来旧鞋的顾客提供折扣优惠。试题是对这四句阿迪达斯（巴西）鞋子回收项目内容的概括。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "Recycling used products can help manufacturers reduce production costs.",
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "[NJ 段＠句指出通过将旧材料纳入生产环节可以减少浪费、降低采购价格和成本。试题是对该句大意的概括，manufacturers 虽未在本段直接出现，但可由本文针对对象 “公司”及本段 production、procurement 等与生产制造相关的词推出。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "41. 【译文】回收旧产品可以帮助制造商降低生产成本。 【答案】[N] 【解析】[NJ 段＠句指出通过将旧材料纳入生产环节可以减少浪费、降低采购价格和成本。试题是对该句大意的概括，manufacturers 虽未在本段直接出现，但可由本文针对对象 “公司”及本段 production、procurement 等与生产制造相关的词推出。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "Electronic products contain valuable metals that could be recovered.",
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "[HJ 段＠＠句指出：电子垃圾包含包括铁、铜、金等材料，这些材料可以再利用、再出售、再回收、循环利用，总价值约合 520 亿美元，可见试题是对两句内容的综合概括，其中 valuable metals that could be recovered 是对 iron, copper, gold, silver, and aluminum ——materials that could be reused, resold, salvaged, or recycled. The value of these materials. . . 的精简概括。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "42. 【译文】电子产品含有可以回收的有价金属。 【答案】[H] 【解析】[HJ 段＠＠句指出：电子垃圾包含包括铁、铜、金等材料，这些材料可以再利用、再出售、再回收、循环利用，总价值约合 520 亿美元，可见试题是对两句内容的综合概括，其中 valuable metals that could be recovered 是对 iron, copper, gold, silver, and aluminum ——materia",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "It seems commonly believed that companies are not motivated to prolong their products’\nlifespan.",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "[BJ 段首旬介绍一种普遍观点：公司没有动力延长产品的生命周期（这只会导致新品销量和收益下降）。试题是对该句的同义改写。 - 17 -",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "43. 【译文】人们似乎普遍认为，公司没有动力延长产品的使用寿命。 【答案】[B] 【解析】[BJ 段首旬介绍一种普遍观点：公司没有动力延长产品的生命周期（这只会导致新品销量和收益下降）。试题是对该句的同义改写。 - 17 -",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "It is advisable for companies to partner with each other in product recycling.",
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "[J]段建议有意减少浪费、保护环境的公司 “ 寻找合作伙伴“，并举例说明。 试题是对全段内容的综合概括，It is advisable 对应首旬祈使句型，表示建议，product recycling 是贯穿全文的主题、暗含在首句建议语气中，也对应＠旬 collecting old products、＠句 recycling。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "44. 【译文】公司宜在产品回收方面相互合作。 【答案】[J] 【解析】[J]段建议有意减少浪费、保护环境的公司 “ 寻找合作伙伴“，并举例说明。 试题是对全段内容的综合概括，It is advisable 对应首旬祈使句型，表示建议，product recycling 是贯穿全文的主题、暗含在首句建议语气中，也对应＠旬 collecting old products、＠句 recycling。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "Some businesses have begun to realize it may not be effective to let consumers take full\nresponsibility for recycling.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "[DJ 段＠句指出一些公司逐渐意识到将回收的重担完全推给消费者并非有效策略，特别是因为随意扔弃产品似乎是最简单、最方便的选择。试题是对该旬大意的同义转述，Some businesses 同义替换 some companies»have begun to realize 对应 are realizing (静态动词 realize 用进行时态表示一个逐渐的过程，即 “逐渐意识到\")。 Section C 【原文译文】 Passage One 配音演员罢工反对电子游戏公司周五生效：美国演员工会——美国电视和广播艺术家联合会(SAG-AFTRA) 宣布将针对 11 家电子游戏发行商 2015 年 2 月 17 日后投入制作的游戏发起罢工。这些公司中有些是该行业的巨头，如美国艺电公司(Electronic Arts Productions 入失眠者游戏主作室(Insomniac Games)、动视暴雪(Activision)和迪士尼(Disney)。 2014 年底现行劳工合同《互动媒体协议》已到期，之后进行了持续 19 个月的谈判，谈判失败触发了此次罢工。总的来说，这场罢工主要是一场”提供更多二次付酬”的努力，同时意在解决其他重要关切，如招聘人才方面的透明度以及制作过程中的安全保护措施。 电子游戏业近些年来迅速壮大。《洛杉矶时报》报道称，该行业正处于现金流猛增之际。 2015 年，游戏创造了 235 亿美元的国内收入。 但 SAG-AFTRA 表示配音演员并未收到所参与游戏工作的追加酬金。相反，他们拿的是固定酬劳（四小时配音时段的标准工资通常约为 825 美元）。因此，配音演员们在努力推动”二次付酬“这一目标即每款游戏卖出 200 万份、下载量达 200 万次、或拥有 200 万用户时（上限为 8 00 万）可获得绩效奖金。 “只有极少数游戏会引发关千二次付酬的问题，”工会谈判委员会成员、配音演员克里斯平·弗里曼说。”对千一个不是每天都固定有配音项目的自由职业演员来说，这是很重要的一方面。 ” 演员们的另一个主要抱怨是这个行业的秘而不宣。SAG-AFTRA 谈判委员会主席、配音演员基思·法利说： “我无法想象世界上",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+            "sourceText": "45. 【译文】一些企业已经开始意识到，让消费者承担全部的回收责任可能没有效果。 【答案】[D] 【解析】[DJ 段＠句指出一些公司逐渐意识到将回收的重担完全推给消费者并非有效策略，特别是因为随意扔弃产品似乎是最简单、最方便的选择。试题是对该旬大意的同义转述，Some businesses 同义替换 some companies»have begun to realize 对应 are realizing (静态动词 realize 用进行时态表示一个逐渐",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -530,7 +908,16 @@
                 "D": "The negotiations between them had broken down."
               },
               "answer": "D",
-              "explanation": "A将双方的劳动合同” 已到期(expired) \"窜改为 ”被违反(be violated) \"。B 违背第二段首句“现行劳动合同到期后，双方进行了长时间的谈判“ 。C由19 months of negotiations及transparency杂揉捏造，但transparency与“谈判是否透明／存在欺骗”无关，而是 指“招聘人才的透明度＇。第二段首旬指出，2014年底现行劳工合同到期，而后双方持续了19 个月的谈判，最后谈判失败触发了此次罢工。可见SAG-AFTRA宣布罢工的原因是谈判失 败，D正确。"
+              "explanation": "A 将双方的劳动合同” 已到期(expired) \"窜改为 ”被违反(be violated) \"。B 违背第二段首句“现行劳动合同到期后，双方进行了长时间的谈判“。C 由 19 months of negotiations 及 transparency 杂揉捏造，但 transparency 与“谈判是否透明／存在欺骗”无关，而是指“招聘人才的透明度＇。第二段首旬指出，2014 年底现行劳工合同到期，而后双方持续了 19 个月的谈判，最后谈判失败触发了此次罢工。可见 SAG-AFTRA 宣布罢工的原因是谈判失败，D 正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+                "sourceText": "【答案】D 【定位】本题考查 SAG-AFTRA 罢工的原因，可定位至第二段首句(The strike comes in light of…)。 - 18 - 【解析】A 将双方的劳动合同” 已到期(expired) \"窜改为 ”被违反(be violated) \"。B 违背第二段首句“现行劳动合同到期后，双方进行了长时间的谈判“。C 由 19 months of neg",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -543,7 +930,16 @@
                 "D": "It has invested a lot in its domestic market."
               },
               "answer": "A",
-              "explanation": "B利用第二段transparency设障，但“罢工者要求透明”恰恰说明”该行业不透明 “。C对第三段事实“电子游戏产业迅速壮大“ 以及文中主要人物”配音演员”过度推断，文中 并未提及配音演员的数量变化。D将第三段末句“电子游戏业创造了巨额国内收入 (produced ... domestic revenue) \"窜改为 “向国内市场大量投资(invested... domestic market) “。第三段指出，电子游戏业近年来迅速壮大，现金流猛增，2015年创造了巨额国内收入， 可知该行业收益巨大，A正确。"
+              "explanation": "B 利用第二段 transparency 设障，但“罢工者要求透明”恰恰说明”该行业不透明 “。C 对第三段事实“电子游戏产业迅速壮大“ 以及文中主要人物”配音演员”过度推断，文中并未提及配音演员的数量变化。D 将第三段末句“电子游戏业创造了巨额国内收入 (produced. . . domestic revenue) \"窜改为 “向国内市场大量投资(invested. . . domestic market) “。第三段指出，电子游戏业近年来迅速壮大，现金流猛增，2015 年创造了巨额国内收入， 可知该行业收益巨大，A 正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+                "sourceText": "【答案】A 【定位】本题考查电子游戏产业(the video gaming industry)相关信息，可定位至第三段(The video gaming industry. . . the industry. . . gaming)。 【解析】B 利用第二段 transparency 设障，但“罢工者要求透明”恰恰说明”该行业不透明 “。C 对第三段事实“电子游戏产业迅速壮大",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -556,7 +952,16 @@
                 "D": "A limit on the maximum work hours."
               },
               "answer": "C",
-              "explanation": "A由Freeman对配音演员的描述”工作不固定(isn't regularly employed) \"主观 推断要求稳定就业”，但原文强调“对工作不固定的配音演员二次付酬“，并非“应使他们稳 定就业”。B由who/a freelancer performer isn't regularly employed主观脆断出“自由职业的配 音演员受到歧视“，但文中实指“配音演员的工作性质是自由职业”，与歧视无关。D将第四 段cap所指”二次付酬金额的上限”改为 “工作时间的上限”。第四段＠句指出，配音演员们在 努力争取二次付酬，即每款游戏达到一定销售额时(200万份销售量／下载量／用户），配音演 员可获得绩效奖金(a performance bonus)。即，配音演员要求根据销售额支付额外工资，C 正确。"
+              "explanation": "A 由 Freeman 对配音演员的描述”工作不固定(isn't regularly employed) \"主观推断要求稳定就业”，但原文强调“对工作不固定的配音演员二次付酬“，并非“应使他们稳定就业”。B 由 who/a freelancer performer isn't regularly employed 主观脆断出“自由职业的配音演员受到歧视“，但文中实指“配音演员的工作性质是自由职业”，与歧视无关。D 将第四段 cap 所指”二次付酬金额的上限”改为 “工作时间的上限”。第四段＠句指出，配音演员们在努力争取二次付酬，即每款游戏达到一定销售额时(200 万份销售量／下载量／用户），配音演员可获得绩效奖金(a performance bonus)。即，配音演员要求根据销售额支付额外工资，C 正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+                "sourceText": "【答案】C 【定位】本题考查配音演员的要求，可定位至第四段＠旬(the voice actors are pushing for. . . ) 【解析】A 由 Freeman 对配音演员的描述”工作不固定(isn't regularly employed) \"主观推断要求稳定就业”，但原文强调“对工作不固定的配音演员二次付酬“，并非“应使他们稳定就业”。B 由 who/a",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -569,7 +974,16 @@
                 "D": "They are not employed full-time."
               },
               "answer": "A",
-              "explanation": "B 对第六段断章取义，误认为the secrecy of the industry ... I can't imagine if there's any other acting job ... 是在指出“游戏业对待配音演员明显不如其他人员“，而实际含义 为 “在其他表演行业无法想象的事情在游戏业却每天都在发生”。C、D对第五段内容张冠李 戴说明”配音演员不是全职雇员(isn't regularly employed)、（由此导致）没有稳定收入”的 是Crispin Freeman, 而非Keythe Farley。第六段Keythe Farley提出，在电子游戏行业里，配 音演员不知道自己在出演什么，也不知道自己什么时候被录用；第七段Farley讲述亲身经历 “工作了一年半都不知道自己在为哪款游戏配音“。可见他提出配音演员对许多工作细节一 无所知，A正确。"
+              "explanation": "B 对第六段断章取义，误认为 the secrecy of the industry. . . I can't imagine if there's any other acting job. . . 是在指出“游戏业对待配音演员明显不如其他人员“，而实际含义为 “在其他表演行业无法想象的事情在游戏业却每天都在发生”。C、D 对第五段内容张冠李戴说明”配音演员不是全职雇员(isn't regularly employed)、（由此导致）没有稳定收入”的是 Crispin Freeman, 而非 Keythe Farley。第六段 Keythe Farley 提出，在电子游戏行业里，配音演员不知道自己在出演什么，也不知道自己什么时候被录用；第七段 Farley 讲述亲身经历 “工作了一年半都不知道自己在为哪款游戏配音“。可见他提出配音演员对许多工作细节一无所知，A 正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+                "sourceText": "【答案】A 【定位】本题考查 Keythe Farley 谈及的内容，可定位至第六、七段(. . . says voice actor Keythe Farley. . . ;. . . Farley told reporters. . . )。 【解析】B 对第六段断章取义，误认为 the secrecy of the industry. . . I can't imagine if",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q50",
@@ -582,7 +996,16 @@
                 "D": "Paying voice actors on an hourly basis is in line with the law."
               },
               "answer": "B",
-              "explanation": "A、C均利用top craftsmen千扰： A将原文“转折关系（即使是顶尖工匠／配音 演员，对其采用不同的薪酬体系也会带来问题） ＂窜改为 “假设关系（如果顶尖，则可采用不 同薪酬体系／加薪）\"; C将原文“同指关系（工匠即指配音演员） ”改为 “对立关系（工匠不是 专业演员）。D由Scott Witlin的资方律师立场（代表电子游戏公司的利益）及现行薪酬制度 $ 825 for a standard four-hour vocal session脆断而来，原文并无根据。末段Scott Witlin提出， 对于电子游戏制作，配音演员的工作仅占所有工作的不到千分之一，如果对其采用与那些做 - 19 - 了99. 9%工作的人不同的薪酬体系，会给电子游戏公司带来更多问题，可见Scott Witlin认 为改变薪酬体系会给电子游戏业带来更多问题，B正确。 【原文译文】 Passage Two 白宫呼吁太空交通管制 自宫官员宣布了一项新的太空政策，重在对公司和政府发射至太空的日益增多的卫星进 行管理。“第3号太空政策指令”为美国缓解太空碎片的影响以及追踪和管理太空交通阐明了 通用的指导原则。 这一政策为商务部接手太空交通管理做好了准备。商务部将确保新发射的卫星不使用会 千扰现有卫星的无线电频率，并安排好何时可以发射这种新卫星。该政策仅适用于美国的太 空活动，但美国希望它有助于新生的商业航天业形成一套标准化的全球准则。 随着更多的政府和企业发射卫星，太空——尤其是我们星球周边的太空——正变得越来 越拥挤。这项政策的推动因素之一，是企业已经开始建设由成百上千颗卫星及大量不停运转 的组件所组成的巨型星座。太空中的东西如此之多，而我们星球周围的空间却有限，因此政 府想要减少发生碰撞的可能性。两颗或更多卫星彼此撞击会产生更多失控的碎片，对太空中 日益壮大的卫星群造成更大隐患。 这种情况不是没有发生过。2009年，一架老旧的俄罗斯航天器猛撞上一颗通信卫星， 产生了一团数以百计的碎片残骸，将其他设备置于危险之中。记者莎拉·斯科尔斯报道称， 美国国家航空航天局(NASA) 目前追踪着太空中约"
+              "explanation": "A、C 均利用 top craftsmen 千扰： A 将原文“转折关系（即使是顶尖工匠／配音演员，对其采用不同的薪酬体系也会带来问题） ＂窜改为 “假设关系（如果顶尖，则可采用不同薪酬体系／加薪）\"; C 将原文“同指关系（工匠即指配音演员） ”改为 “对立关系（工匠不是专业演员）。D 由 Scott Witlin 的资方律师立场（代表电子游戏公司的利益）及现行薪酬制度 $ 825 for a standard four-hour vocal session 脆断而来，原文并无根据。末段 Scott Witlin 提出， 对于电子游戏制作，配音演员的工作仅占所有工作的不到千分之一，如果对其采用与那些做 - 19 - 了 99. 9%工作的人不同的薪酬体系，会给电子游戏公司带来更多问题，可见 Scott Witlin 认为改变薪酬体系会给电子游戏业带来更多问题，B 正确。 【原文译文】 Passage Two 白宫呼吁太空交通管制自宫官员宣布了一项新的太空政策，重在对公司和政府发射至太空的日益增多的卫星进行管理。“第 3 号太空政策指令”为美国缓解太空碎片的影响以及追踪和管理太空交通阐明了通用的指导原则。 这一政策为商务部接手太空交通管理做好了准备。商务部将确保新发射的卫星不使用会千扰现有卫星的无线电频率，并安排好何时可以发射这种新卫星。该政策仅适用于美国的太空活动，但美国希望它有助于新生的商业航天业形成一套标准化的全球准则。 随着更多的政府和企业发射卫星，太空——尤其是我们星球周边的太空——正变得越来越拥挤。这项政策的推动因素之一，是企业已经开始建设由成百上千颗卫星及大量不停运转的组件所组成的巨型星座。太空中的东西如此之多，而我们星球周围的空间却有限，因此政府想要减少发生碰撞的可能性。两颗或更多卫星彼此撞击会产生更多失控的碎片，对太空中日益壮大的卫星群造成更大隐患。 这种情况不是没有发生过。2009 年，一架老旧的俄罗斯航天器猛撞上一颗通信卫星， 产生了一团数以百计的碎片残骸，将其他设备置于危险之中。记者莎拉·斯科尔斯报道称， 美国国家航空航天局(NASA) 目前追踪着太空中约",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+                "sourceText": "【答案】B 【定位】本题考查 Scott Witlin 律师的观点，定位至末段(Scott Witlin, the lawyer. . . says. . . )。 【解析】A、C 均利用 top craftsmen 千扰： A 将原文“转折关系（即使是顶尖工匠／配音演员，对其采用不同的薪酬体系也会带来问题） ＂窜改为 “假设关系（如果顶尖，则可采用不同薪酬体系／加薪）\"; C 将",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -601,7 +1024,16 @@
                 "D": "To improve traffic conditions in space."
               },
               "answer": "D",
-              "explanation": ")A复现首段＠句lays out general guidelines, 但将政策目的“减轻太空碎片的影响、 追踪和管理空间交通(to mitigate ... and track and manage ...)窜改为“探索太空(for space exploration兀B将首段O句和第三段＠句信息“企业自主发射卫星／构建巨型星座”扭曲为“企 业参与（政府）太空项目“。C从文中guideline 、manage等碎片信息腌断而来，但新政策与 卫星资源利用问题无关。首段指出：新太空政策重在管理日益增多的太空卫星。第3号太空 政策指令（新太空政策）为美国缓解太空碎片的影响以及追踪和管理太空交通制定了通用的 指导方针，可见新政策旨在改善太空交通状况、减少太空碎片威胁，D 正确。"
+              "explanation": ")A 复现首段＠句 lays out general guidelines, 但将政策目的“减轻太空碎片的影响、 追踪和管理空间交通(to mitigate. . . and track and manage. . . )窜改为“探索太空(for space exploration 兀 B 将首段 O 句和第三段＠句信息“企业自主发射卫星／构建巨型星座”扭曲为“企业参与（政府）太空项目“。C 从文中 guideline、manage 等碎片信息腌断而来，但新政策与卫星资源利用问题无关。首段指出：新太空政策重在管理日益增多的太空卫星。第 3 号太空政策指令（新太空政策）为美国缓解太空碎片的影响以及追踪和管理太空交通制定了通用的指导方针，可见新政策旨在改善太空交通状况、减少太空碎片威胁，D 正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+                "sourceText": "【答案】D 【定位】本题考查美国新太空政策的目标宗旨，依据题目顺序规律、搜寻目的状语可定位至首段(focused on. . . 、to mitigate. . . and track and manage. . . )。 【解析)A 复现首段＠句 lays out general guidelines, 但将政策目的“减轻太空碎片的影响、 追踪和管理空间交通(to mit",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -614,7 +1046,16 @@
                 "D": "Update satellite communications technology."
               },
               "answer": "C",
-              "explanation": "A背离末段所述美国政策核心”防止形成新碎片，而非清理现有太空碎片“。B 将第二段＠句商务部监管对象”新发射卫星的无线电频率“泛化为”所有卫星的运行状况（包 括速度周期、轨道高度等）“。D源自第二段＠句radio frequencies, 但商务部只负责”协调分 - 20 - 配无线电频率的管理工作“，不负责通信技术升级”。第二段指出新政策将令商务部接手太 空交通管理，商务部将确保新发射卫星不使用会千扰现有卫星的无线电频率，并安排何时才 可发射这种新卫星，C正确。"
+              "explanation": "A 背离末段所述美国政策核心”防止形成新碎片，而非清理现有太空碎片“。B 将第二段＠句商务部监管对象”新发射卫星的无线电频率“泛化为”所有卫星的运行状况（包括速度周期、轨道高度等）“。D 源自第二段＠句 radio frequencies, 但商务部只负责”协调分 - 20 - 配无线电频率的管理工作“，不负责通信技术升级”。第二段指出新政策将令商务部接手太空交通管理，商务部将确保新发射卫星不使用会千扰现有卫星的无线电频率，并安排何时才可发射这种新卫星，C 正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+                "sourceText": "【答案】C 【定位】本题考查新政策所规定的商务部职权，由关键词 the Department of Commerce 可定位至第二段句＠旬(the Department of Commerce. . . The department. . . ) 【解析】A 背离末段所述美国政策核心”防止形成新碎片，而非清理现有太空碎片“。B 将第二段＠句商务部监管对象”新发射卫星的无线电",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -627,7 +1068,16 @@
                 "D": "Promote international collaboration in space exploration."
               },
               "answer": "A",
-              "explanation": "B 由＠旬“美国希望其新政策有助国际商业航天标准化（即希望他国也能参考、 借鉴）”脆断出“美国欲垄断行业\"o C将＠句美国愿景 商业航天业能＇生成全球统一标准” 曲解为”取得进一步发展”。D 由throughout the world 捏造出“美国欲推进国际合作”，且将新 政策核心内容＇太空交通治理”窜改为“太空探索“。第二段＠旬指出，美国新政策虽仅适用于 本国，但美国希望它有助商业航天业形成一套标准化的全球准则，可见，美国新政策的深层 目标是”为商业航天业确立国际标准\", A 正确。"
+              "explanation": "B 由＠旬“美国希望其新政策有助国际商业航天标准化（即希望他国也能参考、 借鉴）”脆断出“美国欲垄断行业\"o C 将＠句美国愿景商业航天业能＇生成全球统一标准” 曲解为”取得进一步发展”。D 由 throughout the world 捏造出“美国欲推进国际合作”，且将新政策核心内容＇太空交通治理”窜改为“太空探索“。第二段＠旬指出，美国新政策虽仅适用于本国，但美国希望它有助商业航天业形成一套标准化的全球准则，可见，美国新政策的深层目标是”为商业航天业确立国际标准\", A 正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+                "sourceText": "【答案】A 【定位】本题考查美国新政策的愿景 I 深层目标，可定位至第二段＠旬(the hope is that it [ the new policy] will help. . . ) 【解析】B 由＠旬“美国希望其新政策有助国际商业航天标准化（即希望他国也能参考、 借鉴）”脆断出“美国欲垄断行业\"o C 将＠句美国愿景商业航天业能＇生成全球统一标准” 曲解为”取得进",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q54",
@@ -640,7 +1090,16 @@
                 "D": "Make a thorough analysis of any possible addition to space debris."
               },
               "answer": "D",
-              "explanation": "A 中”估算碎片滞留时间”虽属实体需执行的步骤之一，但并非现行规范主要要 求“解释可能滞留太空25 年及以上的碎片的产生原因”。B 中Account for the debris it has released into space 复现于＠旬，但at any time 不符合该旬对碎片的限定条件that might stay in orbit for 25 years or more (可能会在轨道上滞留25 年及以上）。C 由＠旬关键词any piece of debris they plan to release 杂揉重组而来，将现行规范要求“分析太空行动产生碎片的可能性、 解释说明计划释放的新碎片”窜改为“制定详细计划、管理已释放的碎片“。第五段指出，现 行”规范”要求“任何发射卫星或航天器的实体，均需分析其任一行动产生太空碎片的可能， 包括对计划释放的任一片5 亳米以上的、可能会在轨道上滞留25 年及以上的碎片作出解释 （即，详尽分析任一可能释放的碎片、并对特定危险性碎片作出解释）\", D 正确。"
+              "explanation": "A 中”估算碎片滞留时间”虽属实体需执行的步骤之一，但并非现行规范主要要求“解释可能滞留太空 25 年及以上的碎片的产生原因”。B 中 Account for the debris it has released into space 复现于＠旬，但 at any time 不符合该旬对碎片的限定条件 that might stay in orbit for 25 years or more (可能会在轨道上滞留 25 年及以上）。C 由＠旬关键词 any piece of debris they plan to release 杂揉重组而来，将现行规范要求“分析太空行动产生碎片的可能性、 解释说明计划释放的新碎片”窜改为“制定详细计划、管理已释放的碎片“。第五段指出，现行”规范”要求“任何发射卫星或航天器的实体，均需分析其任一行动产生太空碎片的可能， 包括对计划释放的任一片 5 亳米以上的、可能会在轨道上滞留 25 年及以上的碎片作出解释 （即，详尽分析任一可能释放的碎片、并对特定危险性碎片作出解释）\", D 正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+                "sourceText": "【答案】D 【定位】本题考查现行”规范”对空间飞行器发射实体的要求，由关键词 current U. S. Government Orbital Debris Mitigation Standard Practices 可定位至第五段。 【解析】A 中”估算碎片滞留时间”虽属实体需执行的步骤之一，但并非现行规范主要要求“解释可能滞留太空 25 年及以上的碎片的产生原因”",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q55",
@@ -653,7 +1112,16 @@
                 "D": "Cooperate closely to retrieve space debris."
               },
               "answer": "B",
-              "explanation": "A、C 提及的空间碎片属“尚未形成的、未进入太空的(before they tum into debris、 debris entering space)\", 背离政府机构和企业普遍努力方向“清理太空现有垃圾”。D 利用末 段throughout the world 编造出“合作“，同时将文中“处理、捕获(dispose of or capture)\" 窜改 为“收回(retrieve)\"。末段句句指出，全世界的政府机构和企业都在努力开发可以处理或捕获 太空碎片的技术，以防碎片造成严重损害，B 正确。 Part IV Translation (30 minutes) 【参考译文】 China has a vast territory and a large population. People in many places of China speak their own dialects. Chinese dialects differ most in pronunciation, and to a lesser extent in vocabulary and grammar. Some dialects, especially northern dialects and southern dialects»vary so much that they are often not mutually intelligible with each other. Dialects are considered an integral part of local cultures, but the number of people who can speak in dialects has been decreasing in recent years. In order to encourage people to speak local dialects more often, some local governments have taken measures suc"
+              "explanation": "A、C 提及的空间碎片属“尚未形成的、未进入太空的(before they tum into debris、 debris entering space)\", 背离政府机构和企业普遍努力方向“清理太空现有垃圾”。D 利用末段 throughout the world 编造出“合作“，同时将文中“处理、捕获(dispose of or capture)\" 窜改为“收回(retrieve)\"。末段句句指出，全世界的政府机构和企业都在努力开发可以处理或捕获太空碎片的技术，以防碎片造成严重损害，B 正确。 Part IV Translation (30 minutes) 【参考译文】 China has a vast territory and a large population. People in many places of China speak their own dialects. Chinese dialects differ most in pronunciation, and to a lesser extent in vocabulary and grammar. Some dialects, especially northern dialects and southern dialects»vary so much that they are often not mutually intelligible with each other. Dialects are considered an integral part of local cultures, but the number of people who can speak in dialects has been decreasing in recent years. In order to encourage people to speak local dialects more often, some local governments have taken measures suc",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-2/key_2019年6月六级_第二套_答案解析.txt",
+                "sourceText": "【答案】B 【定位】本题考查航天机构及企业当前势力方向，由关键词 space agencies and companies aiming to do 可定位至末段句旬(Agencies and companies. . . are working on. . . ) 【解析】A、C 提及的空间碎片属“尚未形成的、未进入太空的(before they tum into de",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

@@ -26,8 +26,17 @@
                 "C": "Till",
                 "D": "Towards"
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -39,8 +48,17 @@
                 "C": "satisfy",
                 "D": "influence"
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -52,8 +70,17 @@
                 "C": "surprise",
                 "D": "enjoyment"
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （《",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -65,8 +92,17 @@
                 "C": "compelled",
                 "D": "privileged"
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （《卫",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -78,8 +114,17 @@
                 "C": "issued",
                 "D": "cancelled 6."
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -91,8 +136,17 @@
                 "C": "for",
                 "D": "at 7."
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （《",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -104,8 +158,17 @@
                 "C": "finish",
                 "D": "regret 8."
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （《卫",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -118,7 +181,16 @@
                 "D": "initially 9."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -130,8 +202,17 @@
                 "C": "While",
                 "D": "Unless"
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （《卫",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -143,8 +224,17 @@
                 "C": "secondary",
                 "D": "negative"
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -157,7 +247,16 @@
                 "D": "slow"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -169,8 +268,17 @@
                 "C": "On the basis of",
                 "D": "In contrast to"
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -183,7 +291,16 @@
                 "D": "advisable"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （《",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -195,8 +312,17 @@
                 "C": "resemblance",
                 "D": "In particular"
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （《卫",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -208,8 +334,17 @@
                 "C": "saved",
                 "D": "pattern"
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -222,7 +357,16 @@
                 "D": "served"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （《",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -234,8 +378,17 @@
                 "C": "reluctantly",
                 "D": "In general"
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -247,8 +400,17 @@
                 "C": "experience",
                 "D": "carefully"
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （《",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -260,8 +422,17 @@
                 "C": "open up",
                 "D": "campaign"
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -273,8 +444,17 @@
                 "C": "",
                 "D": "pick up"
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证 20 答案汇总 1-5 CABDA 6~10 BDADC 11-15 CABDC 16-20 BABCD 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. Section □ Reading Comprehension Part Q Text 1 ⑥命题分析 Text 1 选自 2018 年 12 月 30 日的 The Guardian （《卫",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }
@@ -301,7 +481,16 @@
                 "D": "focus Britain's limited resources on cultural events."
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "21. C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q22",
@@ -314,7 +503,16 @@
                 "D": "an inaccessible target."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "22， A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q23",
@@ -327,7 +525,16 @@
                 "D": "commits to its long-term growth."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "23 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q24",
@@ -340,7 +547,16 @@
                 "D": "a related topic."
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "24 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q25",
@@ -353,7 +569,16 @@
                 "D": "Critical. 2020年英语（一）试题第4 页共14页"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "25 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -372,7 +597,16 @@
                 "D": "its content acquisition costs nothing."
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "26 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q27",
@@ -385,7 +619,16 @@
                 "D": "financed researchers generously."
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "27 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q28",
@@ -398,7 +641,16 @@
                 "D": "Encouraged."
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "28 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q29",
@@ -411,7 +663,16 @@
                 "D": "free universities from financial burdens."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "29 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q30",
@@ -424,7 +685,16 @@
                 "D": "The few feed on the many. 2020年英语（一）试题第6 页共14页"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "30 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -442,8 +712,17 @@
                 "C": "raise women's position in politics.",
                 "D": "greatly broaden career options."
               },
-              "answer": "D",
-              "explanation": "答--如何得出正解 找关键词；bills sponsored by. Lewis和Haddad0回文定位:根据关键词可定位至二段.比对匹配:该段提 到，由马萨诸塞州参议员Jason Lewis和众议院临时议长Patricia Haddad提出的两项议案便是恰当的例子，这 两项议案旨在确保各委员会中的“性别平等”.可见，此处提及Lewis和Haddad的两项议案均是为了佐证 上文提到的某种观点，因此要得知作者的具体观点，需联系上文.辐射匹配:一段.句提到，进步人士通 常支持多样化指令，将其作为一种实现平等和打造公平竞争环境的方式；接着粉句用But作为转折，提到 这种政策往往是一种体现美德的虚伪形式，只会让最享有特权的人受益，而对普通人几乎没有帮助.综上可 知，Lewis和Haddad的议案是以多样化指令实现平等和打造公平竞争环境的具体事例，而作者并不看好这两 项议案，认为这两项议案对普通人几乎没有帮助.换言之，对于普通人来说，这两项议案并不能实现“性别 平等”，A选项与此表意相同，故正确. • - ------- --- • • - --- __________________________________ I [路径二]从选项的角度解答一如何排除干扰 找关键词:the state governmento回文定位:根据关键词可定位至三段❹句.比对匹配:该句提到，哈 B达德和刘易斯担心的是，超过一半的州政府委员会中，女性所占比例均不足40%.此处并未提及哈达德 和刘易斯提出的议案是否将对州政府构成威胁的相关信息，故排除Bo C找关键词:women和politicso回文定位:根据关键词可定位至三段❸句，其中politics与该句中的state ； boards and commissions相对应.比对匹配:该句提到，如果这两项议案成为法规，那么该州各委员会将 18 被要求在2022年之前为女性预留出50%的委员会席位.此处虽表明这两项议案有可能会提高女性在该 州各委员会中的占比，但这并不能说明女性的政治地位将会提高，C选项属于过度推断，故排除.- 找关键词:broade"
+              "answer": "A",
+              "explanation": "答--如何得出正解找关键词；bills sponsored by. Lewis 和 Haddad0 回文定位:根据关键词可定位至二段. 比对匹配:该段提到，由马萨诸塞州参议员 Jason Lewis 和众议院临时议长 Patricia Haddad 提出的两项议案便是恰当的例子，这两项议案旨在确保各委员会中的“性别平等”. 可见，此处提及 Lewis 和 Haddad 的两项议案均是为了佐证上文提到的某种观点，因此要得知作者的具体观点，需联系上文. 辐射匹配:一段. 句提到，进步人士通常支持多样化指令，将其作为一种实现平等和打造公平竞争环境的方式；接着粉句用 But 作为转折，提到这种政策往往是一种体现美德的虚伪形式，只会让最享有特权的人受益，而对普通人几乎没有帮助. 综上可知，Lewis 和 Haddad 的议案是以多样化指令实现平等和打造公平竞争环境的具体事例，而作者并不看好这两项议案，认为这两项议案对普通人几乎没有帮助. 换言之，对于普通人来说，这两项议案并不能实现“性别平等”，A 选项与此表意相同，故正确. • - ------- --- • • - --- __________________________________ I [路径二]从选项的角度解答一如何排除干扰找关键词:the state governmento 回文定位:根据关键词可定位至三段❹句. 比对匹配:该句提到，哈 B 达德和刘易斯担心的是，超过一半的州政府委员会中，女性所占比例均不足 40%. 此处并未提及哈达德和刘易斯提出的议案是否将对州政府构成威胁的相关信息，故排除 Bo C 找关键词:women 和 politicso 回文定位:根据关键词可定位至三段❸句，其中 politics 与该句中的 state； boards and commissions 相对应. 比对匹配:该句提到，如果这两项议案成为法规，那么该州各委员会将 18 被要求在 2022 年之前为女性预留出 50%的委员会席位. 此处虽表明这两项议案有可能会提高女性在该州各委员会中的占比，但这并不能说明女性的政治地位将会提高，C 选项属于过度推断，故排除. - 找关键词:broa",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "The author believes that the bills sponsored by Lewis and Haddad will・ A. help little to reduce gender bias B. pose a threat to the state government C. raise women's position in politics D. greatly broaden career options 作者认为，刘易斯和哈达德提出的议案将______. 选项",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q32",
@@ -456,7 +735,16 @@
                 "D": "It will settle the prior controversies."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "32， A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q33",
@@ -469,7 +757,16 @@
                 "D": "the needlessness of government interventions."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "33， A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q34",
@@ -482,7 +779,16 @@
                 "D": "the growing tension between labor and management."
               },
               "answer": "C",
-              "explanation": "答--如何得出正解 挪威在全国范围内实行公司性别配额制， 已经导致______ O 选项出处 A.精英女性的作用被低偶 三段•句 九段 B.女性参与董事会遭到反对 六段❷句 C.不能胜任的候选人进入董事会 八段 D.劳工与管理者之间的关系日益紧张 原文未提 |找关键词:Norway,s adoption of a nationwide corporate gender quotao回文定位:根据关键词可定位至八段•句. 比对匹配:该句提到，这正是挪威在全国范围内实行公司性别配额制时出现的情况.由此无法得知这种情况的 '具体内容，故需联系上文.辐射匹配:八段❶句提到，要求公司将性别作为在董事会中任职的首要条件，将不 [可避免地导致私营企业董事会经验不足.综上可知，挪威实行公司性别配额制时导致董事会经验不足，即导致 |经验不足的人员进入董事会，C选项表述与此一致，故正确. [路径二]从选项的角度解答--如何排除干扰 找关键词:elite womeno回文定位:根据关键词可定位至三段,句和九段.比对匹配:三段♦句提到， 为确保精英女性能拥有更多这样的机会（在州政府委员会中任职），他们已经提议实行政府配额制.九 段提到，增加女性在董事会中任职的机会，但却不增加能够胜任这些职位的女性备选人员数量，已经导 致“金裙”现象.这两处均未提及精英女性的作用被低估的相关信息，故排除A. 找关键词:female participation on boards0回文定位:根据关键词可定位至六段■句.比对匹配:该句提 B到，目前，女性在公司董事会中的参与比重可能并不能反映女性在总人口中所占的比例.此处并未提及 女性参与董事会遭到反对的相关信息，故排除B. D D选项内容在文中无法定位，文中并未提及劳工与管理者之间的关系的相关信息,故排除."
+              "explanation": "答--如何得出正解挪威在全国范围内实行公司性别配额制， 已经导致______ O 选项出处 A. 精英女性的作用被低偶三段•句九段 B. 女性参与董事会遭到反对六段❷句 C. 不能胜任的候选人进入董事会八段 D. 劳工与管理者之间的关系日益紧张原文未提 |找关键词:Norway, s adoption of a nationwide corporate gender quotao 回文定位:根据关键词可定位至八段•句. 比对匹配:该句提到，这正是挪威在全国范围内实行公司性别配额制时出现的情况. 由此无法得知这种情况的 '具体内容，故需联系上文. 辐射匹配:八段❶句提到，要求公司将性别作为在董事会中任职的首要条件，将不 [可避免地导致私营企业董事会经验不足. 综上可知，挪威实行公司性别配额制时导致董事会经验不足，即导致 |经验不足的人员进入董事会，C 选项表述与此一致，故正确. [路径二]从选项的角度解答--如何排除干扰找关键词:elite womeno 回文定位:根据关键词可定位至三段, 句和九段. 比对匹配:三段♦句提到， 为确保精英女性能拥有更多这样的机会（在州政府委员会中任职），他们已经提议实行政府配额制. 九段提到，增加女性在董事会中任职的机会，但却不增加能够胜任这些职位的女性备选人员数量，已经导致“金裙”现象. 这两处均未提及精英女性的作用被低估的相关信息，故排除 A. 找关键词:female participation on boards0 回文定位:根据关键词可定位至六段■句. 比对匹配:该句提 B 到，目前，女性在公司董事会中的参与比重可能并不能反映女性在总人口中所占的比例. 此处并未提及女性参与董事会遭到反对的相关信息，故排除 B. D D 选项内容在文中无法定位，文中并未提及劳工与管理者之间的关系的相关信息, 故排除.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "ender quota has led to. A. the underestimation of elite women's role B. the objection to female participation on boards C. the entry of unqualified candidates into the board D. the growing tension between labor and management [路径一]从题干的角度解答--如何得出正解挪威在全国范围内实行公司性别配额制， 已经导致______ O 选项出处 A. 精英女性的作用被低偶三段",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q35",
@@ -494,8 +800,17 @@
                 "C": "Everyone should try hard to promote social justice.",
                 "D": "Major social issues should be the focus of legislation. 2020年英语（一）试题第8 页共14页"
               },
-              "answer": "D",
-              "explanation": "题最为高效. 从题干的角度解答--如何得出正解，排除干扰 [梳理结构:本文共十段，其中，首段引出观点；二.三段介绍两项议案以进一步说明一段的观点；四.五段以 加利福尼亚州的一项法规为例，说明将人按照性别分类的法规可能违反宪法；六.七段举例说明政府多样化指 ，令无实施的必要；八.九段揭示实施性别配额政策的负面影响；十段重申观点.概括主旨:文章一段指出，多 样化指令只会强化特权，对普通人几乎没有帮助；二.三段列举马萨诸塞州为确保在各委员会中实现“性别平等” 的两项议案，并介绍议案提出的原因以及具体内容；四.五段引出加利福尼亚州的一项实行性别配额制的法规, 表明其可能违反宪法，并预测美国最高法院可能会裁定该法规违反宪法；六.七段作者对政府多样化指令的必 20 要性提出质疑并以Catalyst的一项研究为例，说明政府无须干预；八.九段揭示实施性别配额政策的负面影响， 包括导致私营企业董事会经验不足及“金裙”现象；十段重申观点，即公司配额制在很大程度上是利己的措施， W普通女性几乎没有帮助.综上可知，文章使用大量篇幅说明性别配额制政策看似公平，实则会强化特权，对! '大多数人无益且没有实施的必要这一事实，强调制定政策时可行性的重要性，B选项表述与此一致，故正确. 文中主要讨论的是女性在委员会和董事会中的占比问题.并非关注女性就业方面的需求，故排除A;文章探讨 了旨在实现“性别平等”的性别配额制法规，并未提及每个人都应该努力促进社会公正，故排除C;文章围绕 强行实施性别配额制展开论述，与“性别平等”这一社会问题相关，但作者认为强行实施性别配额制没有多大 帮助，可能违反宪法且没有实施的必要.可见，文中虽有提及“性别平等”这一社会问题，但无法推断出重大 社会问题应该成为立法的焦点，故排除D. 命题分析 Text 4 配会外教音频 Text 4选自2019年7月15日的The New York Times (《纽约时报》),原文标题为\"Beware. Other Nations Will Follow France With Their Own Digital Tax.M （《当心！其他"
+              "answer": "B",
+              "explanation": "题最为高效. 从题干的角度解答--如何得出正解，排除干扰 [梳理结构:本文共十段，其中，首段引出观点；二. 三段介绍两项议案以进一步说明一段的观点；四. 五段以加利福尼亚州的一项法规为例，说明将人按照性别分类的法规可能违反宪法；六. 七段举例说明政府多样化指，令无实施的必要；八. 九段揭示实施性别配额政策的负面影响；十段重申观点. 概括主旨:文章一段指出，多样化指令只会强化特权，对普通人几乎没有帮助；二. 三段列举马萨诸塞州为确保在各委员会中实现“性别平等” 的两项议案，并介绍议案提出的原因以及具体内容；四. 五段引出加利福尼亚州的一项实行性别配额制的法规, 表明其可能违反宪法，并预测美国最高法院可能会裁定该法规违反宪法；六. 七段作者对政府多样化指令的必 20 要性提出质疑并以 Catalyst 的一项研究为例，说明政府无须干预；八. 九段揭示实施性别配额政策的负面影响， 包括导致私营企业董事会经验不足及“金裙”现象；十段重申观点，即公司配额制在很大程度上是利己的措施， W 普通女性几乎没有帮助. 综上可知，文章使用大量篇幅说明性别配额制政策看似公平，实则会强化特权，对! '大多数人无益且没有实施的必要这一事实，强调制定政策时可行性的重要性，B 选项表述与此一致，故正确. 文中主要讨论的是女性在委员会和董事会中的占比问题. 并非关注女性就业方面的需求，故排除 A;文章探讨了旨在实现“性别平等”的性别配额制法规，并未提及每个人都应该努力促进社会公正，故排除 C;文章围绕强行实施性别配额制展开论述，与“性别平等”这一社会问题相关，但作者认为强行实施性别配额制没有多大帮助，可能违反宪法且没有实施的必要. 可见，文中虽有提及“性别平等”这一社会问题，但无法推断出重大社会问题应该成为立法的焦点，故排除 D. 命题分析 Text 4 配会外教音频 Text 4 选自 2019 年 7 月 15 日的 The New York Times (《纽约时报》), 原文标题为\"Beware. Other Nations Will Follow France With Their Own Digital Tax. M （《当心！其他",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "be inferred from the text? A. Women's need in employment should be considered. 从文中可以推断出下列哪项? A. 应考虑女性在就业方面的需求. 选项出处原文未提 B. Feasibility should be a prime concern in policymaking. B. 可行性应该是决策中的首要考虑因素. 全文 C. Everyone should try hard to promote social justice. D. Major social issues should be the focus",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -514,7 +829,16 @@
                 "D": "curb the influence of advertising."
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "36 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q37",
@@ -527,7 +851,16 @@
                 "D": "may trigger countermeasures against France."
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "37 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q38",
@@ -540,7 +873,16 @@
                 "D": "all countries ought to enjoy equal taxing rights."
               },
               "answer": "B",
-              "explanation": "答--如何得出正解 采取单边措施的国家都认为o 选项出处 A. 必须确保对科技巨头收入的重新分配 四段.句 B. 现有的国际税收制度需要改进 四段 C. 应当防止跨国科技公司的垄断 四段.句 D. 所有国家都应当享有平等的征税权 四段❶句 '找关键词:unilateral measures和share the opinion that.回文定位:根据关键词可定位至三段❶句.四段和五段 .句，其中前者与三段.句中的unilateral move和四段.句中的unilateral developments相对应，后者与四段 ❷句中的share a view that相对应.比对匹配:三段.句提到，法国的数字服务税并不仅仅是一个需要税收的 国家采取的单边行动.四段.句提到，这些单边措施在细节方面各不相同，但它们的目的都是对跨国公司的 净收入及总收入征税，这些国家认为自己应该有权对这些收入征收税款；四段.句提到，这些国家都认为， 国际税收制度已经跟不上目前的经济发展状况了.由四段可推知，采取单边措施'的国家都认为现有的国际税收 制度需要改进，B选项表述与此相符，故正确.已由四段得出答案，故不再分析五段❶句. [路径二]从选项的角度解答--如何排除干扰 找关键词:tech giants和revenue.回文定位:根据关键词可定位至四段•句，其中tech giants与该句中 的multinationals相对应.比对匹配:该句提到，这些单边措施的目的都是对跨国公司的净收入及总收入 A征税，这些国家（采取单边措施的国家）认为自己应该有权对这些收入征收税款.此处有权对跨国公司 的净收入及总收入征税并不代表能对其收入进行重新分配，故排除Ao 找关键词:multinationalso回文定位:根据关键词并结合题干信息unilateral measures可定位至四段❶句， 其中题干信息与该句中的unilateral developments相对应.比对匹配:该句提到，这些采取单边措施的国 C 家认为自己应该有权对跨国公司的净收入及总收入征收税款.此处并未提及跨国科技公司垄断的相关信 息，"
+              "explanation": "答--如何得出正解采取单边措施的国家都认为 o 选项出处 A. 必须确保对科技巨头收入的重新分配四段. 句 B. 现有的国际税收制度需要改进四段 C. 应当防止跨国科技公司的垄断四段. 句 D. 所有国家都应当享有平等的征税权四段❶句 '找关键词:unilateral measures 和 share the opinion that. 回文定位:根据关键词可定位至三段❶句. 四段和五段. 句，其中前者与三段. 句中的 unilateral move 和四段. 句中的 unilateral developments 相对应，后者与四段 ❷句中的 share a view that 相对应. 比对匹配:三段. 句提到，法国的数字服务税并不仅仅是一个需要税收的国家采取的单边行动. 四段. 句提到，这些单边措施在细节方面各不相同，但它们的目的都是对跨国公司的净收入及总收入征税，这些国家认为自己应该有权对这些收入征收税款；四段. 句提到，这些国家都认为， 国际税收制度已经跟不上目前的经济发展状况了. 由四段可推知，采取单边措施'的国家都认为现有的国际税收制度需要改进，B 选项表述与此相符，故正确. 已由四段得出答案，故不再分析五段❶句. [路径二]从选项的角度解答--如何排除干扰找关键词:tech giants 和 revenue. 回文定位:根据关键词可定位至四段•句，其中 tech giants 与该句中的 multinationals 相对应. 比对匹配:该句提到，这些单边措施的目的都是对跨国公司的净收入及总收入 A 征税，这些国家（采取单边措施的国家）认为自己应该有权对这些收入征收税款. 此处有权对跨国公司的净收入及总收入征税并不代表能对其收入进行重新分配，故排除 Ao 找关键词:multinationalso 回文定位:根据关键词并结合题干信息 unilateral measures 可定位至四段❶句， 其中题干信息与该句中的 unilateral developments 相对应. 比对匹配:该句提到，这些采取单边措施的国 C 家认为自己应该有权对跨国公司的净收入及总收入征收税款. 此处并未提及跨国科技公司垄断的相关信",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+                "sourceText": "ries adopting the unilateral measures share the opinion that. A. redistribution of tech giants' revenue must be ensured B. the current international tax system needs upgrading C. tech multinationals' monopoly should be prevented D. all countries ought to enjoy equal taxing rights [路径一]从题干的角度解答--如何得出",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q39",
@@ -553,7 +895,16 @@
                 "D": "needs to involve more countries."
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "39 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q40",
@@ -566,7 +917,16 @@
                 "D": "France Says \"NO\" to Tech Multinationals 2020年英语（一）试题第10页共14页"
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "40 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }
@@ -577,37 +937,98 @@
       "type": "matching",
       "title": "Section II Part B · New Question Type",
       "minutes": 15,
-      "paragraphs": [
+      "options": {
+        "A": "Eye fixations are brief.",
+        "B": "TOO much eye contact is instinctively felt to be rude.",
+        "C": "Eye contact can be a friendly social signal.",
+        "D": "Personality can affect how a person reacts to eye contact.",
+        "E": "Biological factors behind eye contact are being investigated.",
+        "F": "Most people are not comfortable holding eye contact with strangers.",
+        "G": "Eye contact can be aggressive. In a social situation, eye contact with another person can show that you are paying attention in a friendly way. But it can also be antagonistic, such as when a political candidate turns toward their competitor during a debate and makes eye contact that signals hostility. Here9s what hard science reveals about eye contact: 41. We know that a typical infant will instinctively gaze into its mother's eyes, and she will look back. This mutual gaze is a major part of the attachment between mother and child. In adulthood, looking at someone else in a pleasant way can be a complimentary sign of paying attention. It can catch someone's attention in a crowded room, “Eye contact and smiles^^ can signal availability and confidence, a common-sense notion supported in studies by psychologist Monica Moore. 42. Neuroscientist Bonnie Auyeung found that the hormone oxytocin increased the amount of eye contact from men toward the interviewer during a brief interview when the direction of their gaze was recorded. This was also found in high-functioning men 2020年英语（一）试题第n 页共14页 with some autistic spectrum symptoms, who may tend to avoid eye contact. Specific brain regions that respond during direct gaze are being explored by other researchers, using advanced methods of brain scanning. 43. With the use of eye-tracking technology, Julia Minson of the Harvard Kennedy School of Government concluded that eye contact can signal very different kinds of messages, depending on the situation. While eye contact may be a sign of connection or trust in friendly situations, it's more likely to be associated with dominance or intimidation in adversarial situations. \"Whether you9re a politician or a parent, it might be helpful to keep in mind that trying to maintain eye contact may backfire if you9re trying to convince someone who has a different set of beliefs than you,“said Minson. 44. When we look at a face or a picture, our eyes pause on one spot at a time, often on the eyes or mouth. These pauses typically occur at about three per second, and the eyes then jump to another spot, until several important points in the image are registered like a series of snapshots. How the whole image is then assembled and perceived is still a mystery although it is the subject of current research. 45. In people who score high in a test of neuroticism, a personality dimension associated with self-consciousness and anxiety, eye contact triggered more activity associated with avoidance,according to the Finnish researcher Jari Hietanen and colleagues. ctOur findings indicate that people do not only feel different when they are the centre of attention but that their brain reactions also differ.\" A more direct finding is that people who scored high for negative emotions like anxiety looked at others for shorter periods of time and reported more comfortable feelings when others did not look directly at them. 2020年英语（一）试题第12页共14页"
+      },
+      "paragraphs": [],
+      "questions": [
         {
-          "label": "A",
-          "text": "Eye fixations are brief."
+          "id": "q41",
+          "number": 41,
+          "stem": "Para 41",
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+            "sourceText": "41. C",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
-          "label": "B",
-          "text": "TOO much eye contact is instinctively felt to be rude."
+          "id": "q42",
+          "number": 42,
+          "stem": "Para 42",
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+            "sourceText": "42. E",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
-          "label": "C",
-          "text": "Eye contact can be a friendly social signal."
+          "id": "q43",
+          "number": 43,
+          "stem": "Para 43",
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+            "sourceText": "43. G",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
-          "label": "D",
-          "text": "Personality can affect how a person reacts to eye contact."
+          "id": "q44",
+          "number": 44,
+          "stem": "Para 44",
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+            "sourceText": "44. A",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
-          "label": "E",
-          "text": "Biological factors behind eye contact are being investigated."
-        },
-        {
-          "label": "F",
-          "text": "Most people are not comfortable holding eye contact with strangers."
-        },
-        {
-          "label": "G",
-          "text": "Eye contact can be aggressive. In a social situation, eye contact with another person can show that you are paying attention in a friendly way. But it can also be antagonistic, such as when a political candidate turns toward their competitor during a debate and makes eye contact that signals hostility. Here9s what hard science reveals about eye contact: 41. We know that a typical infant will instinctively gaze into its mother's eyes, and she will look back. This mutual gaze is a major part of the attachment between mother and child. In adulthood, looking at someone else in a pleasant way can be a complimentary sign of paying attention. It can catch someone's attention in a crowded room, “Eye contact and smiles^^ can signal availability and confidence, a common-sense notion supported in studies by psychologist Monica Moore. 42. Neuroscientist Bonnie Auyeung found that the hormone oxytocin increased the amount of eye contact from men toward the interviewer during a brief interview when the direction of their gaze was recorded. This was also found in high-functioning men 2020年英语（一）试题第n 页共14页 with some autistic spectrum symptoms, who may tend to avoid eye contact. Specific brain regions that respond during direct gaze are being explored by other researchers, using advanced methods of brain scanning. 43. With the use of eye-tracking technology, Julia Minson of the Harvard Kennedy School of Government concluded that eye contact can signal very different kinds of messages, depending on the situation. While eye contact may be a sign of connection or trust in friendly situations, it's more likely to be associated with dominance or intimidation in adversarial situations. \"Whether you9re a politician or a parent, it might be helpful to keep in mind that trying to maintain eye contact may backfire if you9re trying to convince someone who has a different set of beliefs than you,“said Minson. 44. When we look at a face or a picture, our eyes pause on one spot at a time, often on the eyes or mouth. These pauses typically occur at about three per second, and the eyes then jump to another spot, until several important points in the image are registered like a series of snapshots. How the whole image is then assembled and perceived is still a mystery although it is the subject of current research. 45. In people who score high in a test of neuroticism, a personality dimension associated with self-consciousness and anxiety, eye contact triggered more activity associated with avoidance,according to the Finnish researcher Jari Hietanen and colleagues. ctOur findings indicate that people do not only feel different when they are the centre of attention but that their brain reactions also differ.\" A more direct finding is that people who scored high for negative emotions like anxiety looked at others for shorter periods of time and reported more comfortable feelings when others did not look directly at them. 2020年英语（一）试题第12页共14页"
+          "id": "q45",
+          "number": 45,
+          "stem": "Para 45",
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/ky1/2020/key_2020年真题逐题细解.txt",
+            "sourceText": "45. D",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
-      ],
-      "questions": []
+      ]
     },
     {
       "id": "translation",

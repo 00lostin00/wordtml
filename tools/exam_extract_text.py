@@ -22,6 +22,11 @@ from pathlib import Path
 
 import fitz  # PyMuPDF
 
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES = [ROOT / "cet_eg", ROOT / "KY_eg"]
 OUT_BASE = ROOT / "data" / "exams" / "_raw"
@@ -34,6 +39,20 @@ CN_TO_NUM = {
 ROLE_KEYWORDS = ["解析", "答案", "详解", "细解", "详细", "解析册", "参考"]
 
 
+def path_has(path_text: str, pattern: str) -> bool:
+    return re.search(pattern, path_text, re.I) is not None
+
+
+def find_cet_year_month(path: Path) -> tuple[int, int]:
+    date_re = re.compile(r"(?<![\d-])((?:19|20)\d{2})\s*(?:年|[.\-_])\s*(1[0-2]|0?[1-9])\s*(?:月)?(?!\d)")
+    texts = [path.name, *[part for part in reversed(path.parts)]]
+    for text in texts:
+        m = date_re.search(text)
+        if m:
+            return int(m.group(1)), int(m.group(2))
+    return 0, 0
+
+
 def classify(path: Path) -> dict:
     """根据文件名 + 路径推断试卷元信息。"""
     full = str(path).replace("\\", "/")
@@ -42,15 +61,15 @@ def classify(path: Path) -> dict:
     full_clean = full.replace("四六级", "")
 
     # 1) 类型 —— 文件名优先(最具体),再退回路径
-    if "四级" in name or "CET4" in name or "cet4" in name:
+    if path_has(name, r"CET4") or "四级" in name:
         type_ = "cet4"
-    elif "六级" in name or "CET6" in name or "cet6" in name:
+    elif path_has(name, r"CET6") or "六级" in name:
         type_ = "cet6"
     elif any(k in name for k in ["英语一", "英一", "考研"]):
         type_ = "ky1"
-    elif "四级" in full_clean or "CET4" in full_clean:
+    elif path_has(full_clean, r"CET4") or "四级" in full_clean:
         type_ = "cet4"
-    elif "六级" in full_clean or "CET6" in full_clean:
+    elif path_has(full_clean, r"CET6") or "六级" in full_clean:
         type_ = "cet6"
     elif any(k in full for k in ["KY_eg", "考研", "英语一", "英一"]):
         type_ = "ky1"
@@ -67,10 +86,10 @@ def classify(path: Path) -> dict:
     DEEP_ANALYSIS = ["逐题细解", "真相-解析", "解析册"]
     if any(k in full for k in DEEP_ANALYSIS) or any(k in name for k in ["逐题", "细解"]):
         role = "key"
-    elif "真题" in name:
-        role = "paper"
     elif any(k in name for k in ROLE_KEYWORDS):
         role = "key"
+    elif "真题" in name:
+        role = "paper"
     elif any(k in name for k in ["逐词翻译", "翻译专项", "完型专项", "新题型专项", "专项"]):
         role = "supplementary"
     elif "真题" in full:
@@ -82,23 +101,13 @@ def classify(path: Path) -> dict:
 
     # 3) 年份
     year = 0
-    yr = re.search(r"(20\d{2})", name) or re.search(r"(20\d{2})", full)
-    if yr:
-        year = int(yr.group(1))
-
-    # 4) 月份(CET 才有)
     month = 0
     if type_ in ("cet4", "cet6"):
-        # "12月" / "06月"
-        m = re.search(r"(\d{1,2})\s*月", name) or re.search(r"(\d{1,2})\s*月", full)
-        if m:
-            month = int(m.group(1))
-        # "2022.09" / "2022-09"
-        if not month:
-            m = re.search(r"20\d{2}[\.\-_](0?\d|1[0-2])(?!\d)", name) or \
-                re.search(r"20\d{2}[\.\-_](0?\d|1[0-2])(?!\d)", full)
-            if m:
-                month = int(m.group(1))
+        year, month = find_cet_year_month(path)
+    else:
+        yr = re.search(r"(20\d{2})", name) or re.search(r"(20\d{2})", full)
+        if yr:
+            year = int(yr.group(1))
 
     # 5) 套数
     set_num = 0

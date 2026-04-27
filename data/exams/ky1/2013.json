@@ -26,8 +26,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Bus",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -39,8 +48,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Busi",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -52,8 +70,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Busin",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -65,8 +92,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Bus",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -78,8 +114,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Busines",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -92,7 +137,16 @@
                 "D": ""
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Busines",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -104,8 +158,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Bus",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -117,8 +180,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Busi",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -130,8 +202,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Busi",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -143,8 +224,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Bus",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -157,7 +247,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": "的，合乎情理的 [C] replaceable可替换的，可代替的 [D] exceptional异常的;罕见的 [考点提炼]上下文语义十形容词辨析.正确率∶18% [解题思路]由空格上文In theory（理论上，暗示事实并非如此）与空格前转折连词but可知， Simonsohn认为实情与理论情形不同，即实情并非是\"一位申请者的成功不取决于同一天内被随机抽取 的其他申请者\"，且下文\"一位申请者的分数确实会受到之前的人的得分的影响\"印证了其观点，故空格 处应表示\"不同\"，[A]符合文意.注otherwise文中用作形容词，意为other than supposed;different. [错项排除][B]意为\"（意见.想法或行动等）合理的，说得过去的\"，[D]侧重\"不同寻常.罕见 （unusual and likely not to happen often）\"，但\"认为事实是合理的或不同寻常的\"无法与上文的理论情形 构成转折逻辑;[C]侧重\"可替换性.可替代性\"，强调并非必不可少，用于此处不合文意. Ⅲ ④He studied the results of 9,323 MBA interviews ①他研究了由31位招生人员进行的 12 by 31 admissions officers. ②The interviewers had 9323场MBA面试的结果.② 面试官将中 13 applicants on a scale\" of one to five. ③This scale请者按照1到5的等级分级.③这一评分 14 numerous factors into consideration.④The scores等级会考虑多方因素.④该分数随后与申 请者的管理学研究生入学考试（即GMAT were 15 used in conjunction with\"an applicant's score 考试，一种从800分的满分中评分的标准 on the Graduate Management Admission Test,or GMAT,a 化测试）分数一起，被用来决定是"
+              "explanation": "的，合乎情理的 [C] replaceable 可替换的，可代替的 [D] exceptional 异常的;罕见的 [考点提炼]上下文语义十形容词辨析. 正确率∶18% [解题思路]由空格上文 In theory（理论上，暗示事实并非如此）与空格前转折连词 but 可知， Simonsohn 认为实情与理论情形不同，即实情并非是\"一位申请者的成功不取决于同一天内被随机抽取的其他申请者\"，且下文\"一位申请者的分数确实会受到之前的人的得分的影响\"印证了其观点，故空格处应表示\"不同\"，[A]符合文意. 注 otherwise 文中用作形容词，意为 other than supposed;different. [错项排除][B]意为\"（意见. 想法或行动等）合理的，说得过去的\"，[D]侧重\"不同寻常. 罕见 （unusual and likely not to happen often）\"，但\"认为事实是合理的或不同寻常的\"无法与上文的理论情形构成转折逻辑;[C]侧重\"可替换性. 可替代性\"，强调并非必不可少，用于此处不合文意. Ⅲ ④He studied the results of 9,323 MBA interviews ①他研究了由 31 位招生人员进行的 12 by 31 admissions officers. ②The interviewers had 9323 场 MBA 面试的结果. ② 面试官将中 13 applicants on a scale\" of one to five. ③This scale 请者按照 1 到 5 的等级分级. ③这一评分 14 numerous factors into consideration. ④The scores 等级会考虑多方因素. ④该分数随后与申请者的管理学研究生入学考试（即 GMAT were 15 used in conjunction with\"an applicant's score 考试，一种从 800 分的满分中评分的标准 on the Graduate Management Admission Test,",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/paper_2013年考研英语一真题解析.txt",
+                "sourceText": "11.[A] otherwise 不那样的，另外的 [B] defensible 可辩解的，合乎情理的 [C] replaceable 可替换的，可代替的 [D] exceptional 异常的;罕见的 [考点提炼]上下文语义十形容词辨析. 正确率∶18% [解题思路]由空格上文 In theory（理论上，暗示事实并非如此）与空格前转折连词 but 可知， Sim",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -169,8 +268,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": "题思路]空格处考查\"招生人员（admissions officers）\"与\"MBA面试（MBA interviews）\"之间的 关系.不难看出，招生人员是面试的组织者，应该负责\"实施面试\"，下文也介绍了他们在面试中是如何 操作的，只有[C]符合文意. [错项排除][A]指\"鼓舞某人\"或\"（使）某人产生（某种感情或反应），激起\"，[B]表示\"通过话语.表 情或行动来表达想法.情绪等\"，但\"被招生人员所鼓舞的面试\"与文意不符，interviews也不是某种感情. 反应或想法，可排除此两项;[D]表示\"使某物安全，保护某物\"或\"（尤指经过努力而）获得，得到某物\"，但 \"面试\"是针对\"入学申请者\"，而非由\"招生人员\"得到，\"被招生人员保护\"也不合文意."
+              "answer": "A",
+              "explanation": "题思路]空格处考查\"招生人员（admissions officers）\"与\"MBA 面试（MBA interviews）\"之间的关系. 不难看出，招生人员是面试的组织者，应该负责\"实施面试\"，下文也介绍了他们在面试中是如何操作的，只有[C]符合文意. [错项排除][A]指\"鼓舞某人\"或\"（使）某人产生（某种感情或反应），激起\"，[B]表示\"通过话语. 表情或行动来表达想法. 情绪等\"，但\"被招生人员所鼓舞的面试\"与文意不符，interviews 也不是某种感情. 反应或想法，可排除此两项;[D]表示\"使某物安全，保护某物\"或\"（尤指经过努力而）获得，得到某物\"，但 \"面试\"是针对\"入学申请者\"，而非由\"招生人员\"得到，\"被招生人员保护\"也不合文意.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/paper_2013年考研英语一真题解析.txt",
+                "sourceText": "12.[A] inspired 鼓舞;激起 [B] expressed 表达，表示 [C] conducted 组织，实施 [D] secured 保护;获得 [考点提炼] 上下文语义＋动宾搭配. 正确率∶85% [解题思路]空格处考查\"招生人员（admissions officers）\"与\"MBA 面试（MBA interviews）\"之间的关系. 不难看出，招生人员",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -182,8 +290,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ".正确率∶20% [解题思路]空格句指出∶面试官按照一到五级来_____申请者.由本句关键词\"一到五级（on a scale of one to five）\"及下文③句\"该分数（The scores）\"的语义回指功能可推知，此处是在介绍面试官对 申请者的评分等级，[B]符合文意. [错项排除][A]表示\"分配（某物），分派（工作.任务等）\"，由上下文可知，面试官是对申请者进行面 试，而非给申请者分配工作或任务;[C]表示\"找相称（或相关）的人（或物），配对\"或\"与⋯⋯相匹敌，不相 上下（to be as good，interesting，successful，etc.as sb/sth else）\"，常用于match sb/sth to/with sb/sth 或match sb/sth结构中，而文中既不是将申请者与不同等级进行匹配（此时需用match applicants to/ with five levels），也不是比较面试官与申请者的高下;[D]接表示事物的名词作宾语（ sth），如表示\"安排 某人做某事\"需要用for sb to do，文中空格后为applicants，语法上不合要求，且\"按照一到五的等级来安 排申请者\"亦无法体现评分等级."
+              "answer": "A",
+              "explanation": ". 正确率∶20% [解题思路]空格句指出∶面试官按照一到五级来_____申请者. 由本句关键词\"一到五级（on a scale of one to five）\"及下文③句\"该分数（The scores）\"的语义回指功能可推知，此处是在介绍面试官对申请者的评分等级，[B]符合文意. [错项排除][A]表示\"分配（某物），分派（工作. 任务等）\"，由上下文可知，面试官是对申请者进行面试，而非给申请者分配工作或任务;[C]表示\"找相称（或相关）的人（或物），配对\"或\"与⋯⋯相匹敌，不相上下（to be as good，interesting，successful，etc. as sb/sth else）\"，常用于 match sb/sth to/with sb/sth 或 match sb/sth 结构中，而文中既不是将申请者与不同等级进行匹配（此时需用 match applicants to/ with five levels），也不是比较面试官与申请者的高下;[D]接表示事物的名词作宾语（sth），如表示\"安排某人做某事\"需要用 for sb to do，文中空格后为 applicants，语法上不合要求，且\"按照一到五的等级来安排申请者\"亦无法体现评分等级.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/paper_2013年考研英语一真题解析.txt",
+                "sourceText": "13. [A] assigned 分配，指派 [B] rated 划分等级，分等 [C] matched 使相匹配，相称;与⋯⋯·相匹敌 [D] arranged 安排;布置;筹备 [考点提炼] 句内语义十动词辨析. 正确率∶20% [解题思路]空格句指出∶面试官按照一到五级来_____申请者. 由本句关键词\"一到五级（on a scale of one to five）\"及",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -195,8 +312,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": "题思路]由空格后into consideration可知，本句指出\"这一分级考虑到了多方因素\"，只有[C]能 以物（This scale）做主语，且与into consideration构成固定搭配，表示\"把⋯⋯考虑在内\"，故为正确项. [错项排除][A]虽可与into consideration搭配，但put sth into consideration通常表示\"某人将某事 纳入考虑范围内\"，而此处主语为The scale，可排除;[B].[D]均可与consideration构成动宾搭配，如∶ They've got no consideration for others.（他们一点都不为别人着想.），We would have to give serious consideration to banning it altogether.（我们将不得不认真地考虑全面禁止这种情况.），但无法与into consideration构成合理搭配，故排除."
+              "answer": "A",
+              "explanation": "题思路]由空格后 into consideration 可知，本句指出\"这一分级考虑到了多方因素\"，只有[C]能以物（This scale）做主语，且与 into consideration 构成固定搭配，表示\"把⋯⋯考虑在内\"，故为正确项. [错项排除][A]虽可与 into consideration 搭配，但 put sth into consideration 通常表示\"某人将某事纳入考虑范围内\"，而此处主语为 The scale，可排除;[B]. [D]均可与 consideration 构成动宾搭配，如∶ They've got no consideration for others. （他们一点都不为别人着想.），We would have to give serious consideration to banning it altogether. （我们将不得不认真地考虑全面禁止这种情况.），但无法与 into consideration 构成合理搭配，故排除.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/paper_2013年考研英语一真题解析.txt",
+                "sourceText": "14.[A] put 放，放置[B] got 收到;得到，获得 [C] took 拿;做 [D] gave 递给;给予 [考点提炼]固定搭配. 正确率∶90% [解题思路]由空格后 into consideration 可知，本句指出\"这一分级考虑到了多方因素\"，只有[C]能以物（This scale）做主语，且与 into consideration 构成固定搭配",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -209,7 +335,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": "题思路]空格句\"该分数与申请者在GMAT测试中的分数一起作为决定是否录用该申请 者的考虑因素\"与上文\"面试官会对申请者按照1到5级来评分\"均是对MBA录取过程的介绍（面试评 分-辅以GMAT分数-决定是否录用），两句间存在顺承逻辑，[B] then符合文意. [错项排除][A]意为\"代替;反而（in the place of sb/sth）\"，表取舍;[D]也可表取舍，用于提出不同 或相反的观点，常用于not...but rather结构中;还可做程度副词，修饰形容词或副词，表示轻微的批判. 失望或惊讶等，如∶The instructions were rather complicated.（这些说明相当复杂.）;但空格上下文之间 并非取舍逻辑，空格处也不是意在说明程度，故排除此两项.[C]常用于疑问句.否定句.if从句中，表示 \"在任何时候，从来（at any time）\"，如∶Do you ever wish you were rich?（你曾希望过自己很富有吗?）;或 用于比较结构中以加强语气，表示\"比以往任何时候，曾经\"，如∶It was raining harder than ever.（当时下5 认准淘宝店铺∶光速考研工作室，赠送配套课程 着前所未有的大雨.）;空格所在句为陈述句，且无比较结构，语义与语法均不合要求，故排除."
+              "explanation": "题思路]空格句\"该分数与申请者在 GMAT 测试中的分数一起作为决定是否录用该申请者的考虑因素\"与上文\"面试官会对申请者按照 1 到 5 级来评分\"均是对 MBA 录取过程的介绍（面试评分-辅以 GMAT 分数-决定是否录用），两句间存在顺承逻辑，[B] then 符合文意. [错项排除][A]意为\"代替;反而（in the place of sb/sth）\"，表取舍;[D]也可表取舍，用于提出不同或相反的观点，常用于 not. . . but rather 结构中;还可做程度副词，修饰形容词或副词，表示轻微的批判. 失望或惊讶等，如∶The instructions were rather complicated. （这些说明相当复杂.）;但空格上下文之间并非取舍逻辑，空格处也不是意在说明程度，故排除此两项. [C]常用于疑问句. 否定句. if 从句中，表示 \"在任何时候，从来（at any time）\"，如∶Do you ever wish you were rich?（你曾希望过自己很富有吗?）;或用于比较结构中以加强语气，表示\"比以往任何时候，曾经\"，如∶It was raining harder than ever. （当时下 5 认准淘宝店铺∶光速考研工作室，赠送配套课程着前所未有的大雨.）;空格所在句为陈述句，且无比较结构，语义与语法均不合要求，故排除.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/paper_2013年考研英语一真题解析.txt",
+                "sourceText": "15.[A]instead 代替;反而 [B] then 然后，继而 [C] ever 曾经;从来 [D] rather 相反;相当 [考点提炼]上下文逻辑. 正确率∶70% [解题思路]空格句\"该分数与申请者在 GMAT 测试中的分数一起作为决定是否录用该申请者的考虑因素\"与上文\"面试官会对申请者按照 1 到 5 级来评分\"均是对 MBA 录取过程的介绍（面试评分-辅",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -222,7 +357,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Busin",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -235,7 +379,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Bus",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -248,7 +401,16 @@
                 "D": ""
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Busin",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -260,8 +422,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Busines",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -273,8 +444,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2013/key_2013年真题逐题细解.txt",
+                "sourceText": "答案汇总，规律验证答案汇总 1~5ADCAB 6-10BADDA 11〜15DCBDB 16-20 CACBC 5A5B5C5D 结论 A. B. C. D 四个选项作为正确答案出现的频次均为 5, 符合命题规律. 口命题分析 Section II] Reading Comprehension ♦ Part A, Text 1 艇全外教音濒 Text 1 选自 2012 年 6 月 21 日的 Busin",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

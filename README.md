@@ -1,65 +1,156 @@
 # wordtml
 
-本地运行的英语学习 SPA。前端是原生 ES Module，没有 npm/build step；后端是一个轻量 Python 静态服务，并额外提供本地 SQLite API，用来保存做题记录和同步浏览器里的 IndexedDB 数据。
+wordtml 是一个本地运行的英语学习网站。前端使用原生 ES Module，不需要 npm、打包器或前端框架；后端是一个轻量 Python 服务，用来托管静态页面，并提供本地 SQLite 接口保存做题记录。
 
-## 当前状态
+项目主要覆盖两类内容：
 
-这版先作为阶段性检查点保存：
+- 单词学习：CET-6 词表、学习、复习、错题、统计、地图闯关、段位、商店和小游戏练习。
+- 真题练习：CET-6 和考研英语一结构化真题、整卷做题、随机刷题、答案回看和本地记录。
 
-- 单词学习、复习、挑战、成就、商店等基础功能仍走浏览器 IndexedDB。
-- 真题中心已接入 CET-6 和考研英语一数据。
-- 考研英语一已经补入“真题答案速查”答案映射，随机抽题会直接读取更新后的结构化 JSON。
-- 新增随机抽题入口和本地做题记录落库能力，适合后面继续把网页端记录迁移到本地数据库。
-- 仍有部分真题结构需要继续清理，例如早年 KY1 缺阅读/作文 section、部分年份选项不全。
+## 本地部署
 
-## 快速开始
+### 1. 准备环境
 
-```bash
+需要本机安装 Python 3。项目没有 npm 依赖，所以不需要执行 `npm install`。
+
+在 PowerShell 中进入项目目录：
+
+```powershell
+cd D:\wordtml
+```
+
+检查 Python 是否可用：
+
+```powershell
+python --version
+```
+
+如果系统里同时安装了多个 Python，也可以用：
+
+```powershell
+py --version
+```
+
+### 2. 本地私有配置
+
+项目根目录可以放本地环境变量文件，例如：
+
+```text
+.env
+```
+
+`server.py` 启动时会自动读取本地环境变量文件里的 `KEY=value` 配置。环境变量文件只应该留在本机，不能提交到仓库；`.gitignore` 已经包含 `*.env`。
+
+### 3. 启动服务
+
+推荐使用 9000 端口：
+
+```powershell
 python server.py 9000
 ```
 
-然后打开：
+看到类似输出就说明启动成功：
+
+```text
+wordtml serving at http://127.0.0.1:9000/
+local database: D:\wordtml\wordtml.db
+Ctrl+C to stop.
+```
+
+然后在浏览器打开：
 
 ```text
 http://127.0.0.1:9000/
 ```
 
-必须通过 HTTP 访问，不要直接双击 `index.html`，否则浏览器会拦截 ES module 的本地 import。
+必须通过 HTTP 地址访问，不要直接双击 `index.html`。直接打开本地 HTML 文件时，浏览器会拦截 ES Module 的本地导入，页面功能会不完整。
 
-## 主要入口
+### 4. 端口被占用时
 
-- `/`：首页
-- `/learn`：今日学习
-- `/review`：复习
-- `/browse`：词表浏览
-- `/stats`：学习统计
-- `/exams`：真题中心
-- `/exam?id=...`：整卷做题
-- `/practice?type=ky1&year=2024`：指定真题练习
-- `/random?type=ky1`：随机抽题
-- `/settings`：设置、导入导出、本地数据库同步状态
+如果 9000 被占用，换一个端口即可：
 
-## 本地数据库
+```powershell
+python server.py 8080
+python server.py 5173
+python server.py 3000
+```
 
-`server.py` 启动后会在项目根目录创建本地数据库：
+对应访问：
+
+```text
+http://127.0.0.1:8080/
+```
+
+### 5. 停止服务
+
+回到运行 `server.py` 的 PowerShell 窗口，按：
+
+```text
+Ctrl+C
+```
+
+## 页面入口
+
+页面使用 hash 路由，浏览器地址会长这样：
+
+```text
+http://127.0.0.1:9000/#/learn
+```
+
+常用入口：
+
+- `#/`：首页
+- `#/learn`：今日学习
+- `#/review`：复习
+- `#/browse`：词表浏览
+- `#/map`：地图闯关
+- `#/rank`：段位赛
+- `#/shop`：道具商店
+- `#/stats`：学习统计
+- `#/exams`：真题中心
+- `#/exam?id=ky1-2025`：指定真题整卷练习
+- `#/practice`：随机刷题入口
+- `#/random?...`：随机抽出的单题练习
+- `#/attempt?...`：做题记录回看
+- `#/settings`：设置、导入导出、本地数据库状态
+
+## 数据保存
+
+浏览器端数据保存在 IndexedDB，包括单词进度、错题、设置、成就、金币、段位记录等。
+
+本地服务启动后，还会在项目根目录创建 SQLite 数据库：
 
 ```text
 wordtml.db
+wordtml.db-shm
+wordtml.db-wal
 ```
 
-相关文件已加入 `.gitignore`：
+这些文件用于保存真题做题记录和随机刷题历史，已经加入 `.gitignore`，只留在本机。
 
-- `wordtml.db`
-- `wordtml.db-shm`
-- `wordtml.db-wal`
+可以在设置页查看本地数据库是否启用。服务端相关接口包括：
 
-数据库 API 主要用于保存：
+- `GET /api/local/status`
+- `GET /api/exam-attempts`
+- `POST /api/exam-attempts`
+- `GET /api/practice-history`
+- `POST /api/practice-history`
 
-- exam attempts
-- local sync state
-- 后续可扩展的用户做题记录
+## 词表数据
 
-如果只使用 GitHub Pages，静态页面仍能打开，但本地 SQLite API 不可用；需要本机运行 `python server.py 9000` 才有本地落库能力。
+词表位于：
+
+```text
+data/wordlists/
+```
+
+关键文件：
+
+- `data/wordlists/index.json`：词表索引
+- `data/wordlists/cet6.json`：CET-6 词汇
+- `data/wordlists/sample-cet4.json`：示例 CET-4 词表
+
+当前页面默认围绕 CET-6 词表使用。设置页可以切换词表、导入备份或导出本地学习数据。
 
 ## 真题数据
 
@@ -73,77 +164,87 @@ data/exams/
 
 - `data/exams/index.json`：真题索引
 - `data/exams/ky1/*.json`：考研英语一结构化试卷
-- `data/exams/cet6/*.json`：六级结构化试卷
-- `data/exams/_answer_report.json`：答案覆盖报告
+- `data/exams/cet6/*.json`：CET-6 结构化试卷
+- `data/exams/_answer_report_ky1.json`：KY1 答案覆盖报告
+- `data/exams/_answer_audit_report.json`：答案质量审计报告
 - `data/exams/_validation_report.json`：结构校验报告
+- `data/exams/_raw/ky1/`：KY1 原始抽取文本
+- `data/exams/_raw/cet6/`：CET-6 原始抽取文本
+- `data/exams/_raw/cet6_listening/`：单独整理的 CET-6 听力原文/答案文本
 
-目前 KY1 答案覆盖报告：
+当前索引规模：
+
+- 总计：`140`
+- CET-6：`114`
+- 考研英语一：`26`
+- 完整度标签：`complete=7`、`near-complete=23`、`partial=47`、`paper-only=63`
+
+KY1 当前答案覆盖：
 
 - `OK=25`
 - `WARN=1`
 - `FAIL=0`
-- `2000` 是空卷，所以仍为 WARN
+- 客观题答案：`754/754`
+- 缺失答案：`0`
+- 待复核答案：`7`
 
-重点年份已经补满：
+其中 `ky1-2000` 是空卷，所以仍为 WARN。
 
-- `2010 40/40`
-- `2012 40/40`
-- `2024 45/45`
-- `2025 40/40`
+## 当前缺少的内容
 
-## 答案提取
+已知缺口主要在真题结构质量，不是页面运行问题：
 
-KY1 答案提取脚本：
+- 部分早年 KY1 缺少作文、阅读、新题型或翻译 section。
+- 部分 KY1 题目只有答案字母，选项正文不完整。
+- KY1 有 7 个答案因为当前选项解析不完整，被标为待复核。
+- CET-6 数据仍有大量 `paper-only` 和 `partial` 条目，很多试卷只抽到了部分 section 或部分答案。
+- CET-6 听力音频没有接入，当前只保存了可用的文本型听力原文/答案资料。
+- 静态部署时只能使用前端页面和浏览器 IndexedDB，本地 SQLite 记录能力需要运行 `server.py`。
 
-```bash
-python tools/exam_extract_answers.py ky1 --all --write
-python tools/exam_build_index.py
-```
+## 常用维护命令
 
-这版增强了：
+检查前端 JS 语法：
 
-- 跨年份“答案速查”文件识别
-- 按年份切片，避免答案串年
-- `1.D`、行内多答案、全角标点、OCR 后异常符号的解析
-- 2010-2025 图片型速查 PDF 的 OCR 文本接入
-
-图片型 PDF OCR 的临时目录是：
-
-```text
-tmp_exam_ocr/
-```
-
-该目录已忽略，不提交。
-
-## 校验
-
-常用检查：
-
-```bash
+```powershell
 Get-ChildItem -Path src -Recurse -Filter *.js | ForEach-Object { node --check $_.FullName }
-python tools/exam_validate.py ky1 --all
+```
+
+重新生成真题索引：
+
+```powershell
 python tools/exam_build_index.py
 ```
 
-注意：`exam_validate.py ky1 --all` 现在仍会报很多结构问题，主要是旧数据解析不完整，不代表答案映射失败。判断答案覆盖优先看：
+回填 KY1 可用答案：
 
-```text
-data/exams/_answer_report.json
+```powershell
+python tools/exam_extract_answers.py ky1 --all --write
 ```
 
-## 开发约定
+审计 KY1 答案质量：
 
-- 不引入 bundler / npm / TypeScript / 前端框架。
-- 静态前端继续用原生 ES Module。
-- 真题 JSON 的题号和 ID 发布后尽量不要改。
-- 本地数据库、OCR 图片、PDF 原始资料不要提交。
-- 新增真题 PDF 后，先抽文本/OCR，再跑答案提取和索引构建。
+```powershell
+python tools/exam_audit_answers.py ky1
+```
 
-## 下次继续
+校验 KY1 结构：
 
-建议下一轮优先做：
+```powershell
+python tools/exam_validate.py ky1 --all
+```
 
-- 清理 KY1 早年试卷结构，让阅读、翻译、作文 section 更完整。
-- 把随机抽题的做题结果更完整地写入本地 SQLite。
-- 给 `/attempt` 或做题历史页补一个更清晰的列表和回看入口。
-- 处理 CET6 还有大量未跟踪原始抽取文件的问题，决定哪些需要提交、哪些只保留本地。
+## 文件提交注意
+
+这些文件和目录是本地运行或抽取过程产生的，不应该提交：
+
+- `wordtml.db`
+- `wordtml.db-shm`
+- `wordtml.db-wal`
+- `*.env`
+- `tmp_*`
+- `data/external/`
+- `data/reports/`
+- `cet_eg/`
+- `KY_eg/`
+
+真题 JSON 的题号和 ID 被页面引用，修改时要保持稳定。

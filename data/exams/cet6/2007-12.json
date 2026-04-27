@@ -1,0 +1,25 @@
+{
+  "id": "cet6-2007-12",
+  "type": "cet6",
+  "year": 2007,
+  "month": 12,
+  "set": 0,
+  "title": "2007年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    }
+  ]
+}

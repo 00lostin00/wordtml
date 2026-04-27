@@ -1,0 +1,35 @@
+{
+  "id": "cet6-2010-12",
+  "type": "cet6",
+  "year": 2010,
+  "month": 12,
+  "set": 0,
+  "title": "2010年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "Complete the sentences by translating into English the Chinese given in brackets.\nPlease write your translation on Answer Sheet 2.",
+      "source": "注意：此部分试题请在答题卡2 上作答，只需写出译文部分。82. There is no denying that you __________________________________ ( 越仔细越好) in83. Only when I reached my thirties _____________________________(我才意识到读书是不能被忽视的).84. Much _________________________________(使研究人员感到惊讶), the outcome of the85. Oh, my, I can’t find my key; ______________________________(我一定是把它忘在哪儿了).86. I ____________________________________________ (宁愿加入你们去做义工) than go to",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

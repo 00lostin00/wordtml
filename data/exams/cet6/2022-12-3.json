@@ -47,14 +47,32 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "题。 K ) 【语法判断】空格前面是一个介词短语 in a report, 后面是时间副词 yesterday, 由此可推断空格处填的单词应该是 report 的后置定语, 那么只能是动词的过去分词形式。 【语义判断】空格所在段主要讲美国高校的煤炭使用量大幅度下降，这段描述中涉及很多真实的数据，均出自美国能源信息署(EIA)的一份报告。动词的过去分词中，K) released 表示“发布，公开”， 用在这里表示“昨天发布的报告”，符合文意，故答案为 K )。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "26 . 【考点】动词辨析题。 K ) 【语法判断】空格前面是一个介词短语 in a report, 后面是时间副词 yesterday, 由此可推断空格处填的单词应该是 report 的后置定语, 那么只能是动词的过去分词形式。 【语义判断】空格所在段主要讲美国高校的煤炭使用量大幅度下降，这段描述中涉及很多真实的数据，均出自美国能源信息署(EIA)的一份报告。动词的过去分词中，K) rel",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "题。 A ) 【语法判断】空格前面是 have, 后面是名词 coa",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "27 . 【考点】动词辨析题。 A ) 【语法判断】空格前面是 have, 后面是名词 coa",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q28",
@@ -66,13 +84,31 @@
           "id": "q29",
           "number": 29,
           "answer": "B",
-          "explanation": "题。 B ) 【语法判断】空格所在部分是一个定语从句，修饰 前面的时间the 1800s,该从句包含系动词w as和 表语scarce,但主语不完整，由此可推断空格处应 填入一个名词，并且是单数名词或不可数名词,和 后面的to power组成名词短语。 【语义判断】空格所在句的前半句和后半句语义上 是相对的，前半句的意思是这些学术机构实际煤 炭使用量很小，即需求量并不大,后半句则提到19 世纪时的状况，那时电力的 是匮乏的。 在所有单数/不可数名词中，B) access\"使用的机 会”用在这里表示“能得到电力供应的机会是很少 的”，符合语境，故答案为B )。"
+          "explanation": "题。 B ) 【语法判断】空格所在部分是一个定语从句，修饰前面的时间 the 1800s, 该从句包含系动词 w as 和表语 scarce, 但主语不完整，由此可推断空格处应填入一个名词，并且是单数名词或不可数名词, 和后面的 to power 组成名词短语。 【语义判断】空格所在句的前半句和后半句语义上是相对的，前半句的意思是这些学术机构实际煤炭使用量很小，即需求量并不大, 后半句则提到 19 世纪时的状况，那时电力的是匮乏的。 在所有单数/不可数名词中，B) access\"使用的机会”用在这里表示“能得到电力供应的机会是很少的”，符合语境，故答案为 B )。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "【考点】名词辨析题。 B ) 【语法判断】空格所在部分是一个定语从句，修饰前面的时间 the 1800s, 该从句包含系动词 w as 和表语 scarce, 但主语不完整，由此可推断空格处应填入一个名词，并且是单数名词或不可数名词, 和后面的 to power 组成名词短语。 【语义判断】空格所在句的前半句和后半句语义上是相对的，前半句的意思是这些学术机构实际煤炭使用量很小，即需求量",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "题。 N ) 【语法判断】空格前面是动词 sell, 后面是名词 power, 说明空格处应填入一个形容词性或者名词性的单词，而备选项中的所有名词都不能与 power 搭配, 因此可推断出空格处应该是一个形容词。 【语义判断】空格所在句意思是政府鼓励电力生产, 允许这些拥有自己发电厂的院校出售电力，由于院校自身也需要使用部分电力，可以推断出它们出售的电力应该是满足自身供给后剩余的部分。由此确定 N) surplus“剩余的”为答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "30. 【考点】形容词辨析题。 N ) 【语法判断】空格前面是动词 sell, 后面是名词 power, 说明空格处应填入一个形容词性或者名词性的单词，而备选项中的所有名词都不能与 power 搭配, 因此可推断出空格处应该是一个形容词。 【语义判断】空格所在句意思是政府鼓励电力生产, 允许这些拥有自己发电厂的院校出售电力，由于院校自身也需要使用部分电力，可以推断出它们出售的电力应该是满足自身",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q31",
@@ -84,25 +120,61 @@
           "id": "q32",
           "number": 32,
           "answer": "D",
-          "explanation": "题。 I ) 【语法判断】由句子结构可判断，空格处的词应和 前面的carbon共同组成名词短语，作to b e 的表 语，由此可知，空格处应该填入一个名词。 【语义判断】上文已经提到高校承诺要实施有利于 气候的行动，即减少温室气体排放,而下文再次提 及了相关的“超越煤炭运动”，说明空格所在处的 词也与此相关。备选项中的名词D neutral和 carbon是固定搭配，carbon neutral表示“碳中 和”，符合语境，故答案为D 。"
+          "explanation": "题。 I ) 【语法判断】由句子结构可判断，空格处的词应和前面的 carbon 共同组成名词短语，作 to b e 的表语，由此可知，空格处应该填入一个名词。 【语义判断】上文已经提到高校承诺要实施有利于气候的行动，即减少温室气体排放, 而下文再次提及了相关的“超越煤炭运动”，说明空格所在处的词也与此相关。备选项中的名词 D neutral 和 carbon 是固定搭配，carbon neutral 表示“碳中和”，符合语境，故答案为 D。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "成名词短语，作 to b e 的表语，由此可知，空格处应该填入一个名词。 【语义判断】上文已经提到高校承诺要实施有利于气候的行动，即减少温室气体排放, 而下文再次提及了相关的“超越煤炭运动”，说明空格所在处的词也与此相关。备选项中的名词 D neutral 和 carbon 是固定搭配，carbon neutral 表示“碳中和”，符合语境，故答案为 D。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "题。 F ) 【语法判断】空格前面是形容词性物主代词 their, 英语菌的笔记后面是地点状语，由此可推断出空格处应该填入名词。 【语封判断】空格所在段讲的是“超越煤炭运动”, 这一运动也是为了减少温室气体排放，为了实现这一目标需要相应地减少煤炭使用量，由此可推断也应该减少对其的资金投入，备选项中 F） investments 表示“投资”, 用在这里表示“减少对煤炭和其他化石燃料的投资”，符合语境，故为答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "33. 【考点】名词辨析题。 F ) 【语法判断】空格前面是形容词性物主代词 their, 英语菌的笔记后面是地点状语，由此可推断出空格处应该填入名词。 【语封判断】空格所在段讲的是“超越煤炭运动”, 这一运动也是为了减少温室气体排放，为了实现这一目标需要相应地减少煤炭使用量，由此可推断也应该减少对其的资金投入，备选项中 F） investments 表示“投资”, 用在这里表示“减少",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "题。 J）【语法判断】空格前面是名词短语 coal use, 后面是地点状语，且空格所在部分 the largest coal use at colleges 是整句话的主语，由此可推断该部分没有谓语动词，所以空格处应填入的是一个名词。 【语义判原】下一句提到印第安纳州的高校煤炭使用量具体缩减了多少，说明上文中（也就是空格所在句）讲的也是缩减煤炭使用量的内容，备选项中的 J〉reductions\"减少”符合文意，故为答案。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "34 . 【考点】名词辨析题。 J）【语法判断】空格前面是名词短语 coal use, 后面是地点状语，且空格所在部分 the largest coal use at colleges 是整句话的主语，由此可推断该部分没有谓语动词，所以空格处应填入的是一个名词。 【语义判原】下一句提到印第安纳州的高校煤炭使用量具体缩减了多少，说明上文中（也就是空格所在句）讲的也是缩减煤炭使用量的内容，备",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "题。 C）【语法判断】空格所在句结构完整，空格前是名词 coal, 后面是介词 b y 引出状语，由此可推断空格处应该填入一个名词，和 coal 组成名词短语。 【语义判断】上下文中都提到各州高校减少煤炭的使用, 因此空格处的名词也应该与“使用”的意思相近, 备选项中只有 C） consumption“消耗”可以搭配动词 cut, 且符合文意，故为答案。 参考译文美国能源信息署（EIA）在昨天发布的一份报告中称，美国高校的煤炭使用量比十年前减少了 64%, 从 2008 年的 200 万吨下降到去年燃烧的 7 0 万吨。 美国能源信息署发现, 2008 年使用煤炭的所有 57 所学校现在都在减少煤炭的使用，其中 2 0 所学校已完全弃用煤炭。 大多数高校已经转而使用天然气作为替代品，并有国家资金支持燃料转换。 虽然学术机构使用的煤炭不到美国用于电力燃烧的 0 .1 %, 但校园煤炭使用的历史可以追溯到 19 世纪, 当时电力供应匮乏。 许多高校仍在经营着自己的发电厂。1978 年颁布的《公共事业管制政策法》允许院校向公用事业公司出售剩余电力, 从而鼓励更多的电力生产。 但美国能源信息署指出，许多燃煤的高校已经签署了 2007 年启动的“美国高校校长气候承诺”。 大约 665 所学校参与了该计划，旨在减少温室气体排放。30% 的参与者承诺在 2 0 年内实现碳中和。 塞拉俱乐部发起的“超越煤炭运动”还领导了高校撤回对煤炭和其他化石燃料投资的运动，其中列出了 22 所承诺“超越煤炭”的学校，包括克莱姆森大学、印第安纳大学、俄亥俄大学、宾夕法尼亚州立大学、路易斯维尔大学和田纳西大学诺克斯维尔分校。 密歇根州、密苏里州、田纳西州和印第安纳州的高校煤炭使用量减少幅度最大。在 2008 年至 2015 年期间，仅印第安纳州的高校就减少了 81% 的煤炭消耗。 同一时期, 密歇根州的高校煤炭使用量削减了 8 0 %, 田纳西州的州立院校削减了 94%。 Section B 【文章来源】本文选自 2012 年刊登在 The Huffington Pos《《赫芬顿邮报》）上一篇标题为“Classical Music Aims to Evolve, Bui",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "35 . 【考点】名词辨析题。 C）【语法判断】空格所在句结构完整，空格前是名词 coal, 后面是介词 b y 引出状语，由此可推断空格处应该填入一个名词，和 coal 组成名词短语。 【语义判断】上下文中都提到各州高校减少煤炭的使用, 因此空格处的名词也应该与“使用”的意思相近, 备选项中只有 C） consumption“消耗”可以搭配动词 cut, 且符合文意，故为答案。 参考译文美国能源",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -141,71 +213,161 @@
           "id": "q36",
           "number": 36,
           "stem": "It was not a rare occurrence that audiences behaved wildly while listening to classical music.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "】细节归纳题。E）段第一句提至!）, 古典音乐的听众并不总是那么有礼貌，接着以观众迫切要求乐团重奏第七交响曲的例子来佐证这一观点。 该段最后一句又提到，在过去的几十年里，歌剧表演中的许多观众已经放弃了伪装, 他们喜欢表演时就会大喊“Bravo（好极了）、由此可知, 题干是对 E）段定位句的归纳概括:观众在听古典音乐时经常出现狂热失控的行为。题干中的 not a rare occurrence 和 behaved wildly 对应原文中的 weren't always so polite, 故答案为 E） □",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "36 . 【定位】由题干中的 not a rare occurrence、 audiences 和 behaved wildly 定位到文章 E）段第 —■句和最后一■句。 E）【精析】细节归纳题。E）段第一句提至!）, 古典音乐的听众并不总是那么有礼貌，接着以观众迫切要求乐团重奏第七交响曲的例子来佐证这一观点。 该段最后一句又提到，在过去的几十年里，歌剧表演中的许多观众已经放弃了伪装, 他们喜欢表演时就会大喊“Bravo（好极了）、由此可知, 题干是对 E）段定位句的归纳概括:观众在听古典音乐",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "Some high-art institutions don't actually mean it when they say they want more general audiences.",
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "】细节推断题。L）段定位句指出，这些高级艺术机构都表示希望有更多的普通观众，以打破文化障碍，但后来他们却提出了一些非常目中无人的要求，这些要求会让观众发疯。由此可以推断，这些高级艺术机构并非真心实意地欢迎更多的普通观众。题干中的 don't actually mean i t 是根据原文中 they come up with some very snooty thing that makes you crazy 推断出的意思，题干事的 want more general audiences 直接对应原文内容，故答案为 L）o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "37 . 【定位】由题干市的 high-art institutions 和 general audiences 定位到 L）段最后两句。 L）【精析】细节推断题。L）段定位句指出，这些高级艺术机构都表示希望有更多的普通观众，以打破文化障碍，但后来他们却提出了一些非常目中无人的要求，这些要求会让观众发疯。由此可以推断，这些高级艺术机构并非真心实意地欢迎更多的普通观众。题干中的 don't actually mean i t 是根据原文中 they come up with",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "The theatre was in chaos when an unconventional ballet was first put on stage in the capital of France.",
           "answer": "A",
-          "explanation": "】同义转述题。A）段定位句提到，1913年， 在巴黎，伊戈尔• 斯特拉文斯基向世界展示了他 革命性的芭蕾舞《春之祭》，旋律不和谐,编舞非正 统，人群中的纯粹主义者大声而明确地表达了他 们的不满，因而引发了一场骚乱。题干中的was in chaos对应原文中的sparked a riot；题干中的 unconventional 是原文中 unorthodox 的同义词； 题干中的was first put on stage是对原文中 introducing的同义转述，题干中的the capital of France对应原文中的Paris,故答案为A）o"
+          "explanation": "】同义转述题。A）段定位句提到，1913 年， 在巴黎，伊戈尔• 斯特拉文斯基向世界展示了他革命性的芭蕾舞《春之祭》，旋律不和谐, 编舞非正统，人群中的纯粹主义者大声而明确地表达了他们的不满，因而引发了一场骚乱。题干中的 was in chaos 对应原文中的 sparked a riot；题干中的 unconventional 是原文中 unorthodox 的同义词； 题干中的 was first put on stage 是对原文中 introducing 的同义转述，题干中的 the capital of France 对应原文中的 Paris, 故答案为 A）o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "【定位】由题干中的 chaos^ unconventional ballet 和 the capital of France 定位到文章 A）段前两句。 A）【精析】同义转述题。A）段定位句提到，1913 年， 在巴黎，伊戈尔• 斯特拉文斯基向世界展示了他革命性的芭蕾舞《春之祭》，旋律不和谐, 编舞非正统，人群中的纯粹主义者大声而明确地表达了他们的不满，因而引发了一场骚乱。题干中的 was in chaos 对应原文中的 sparked a riot；题干中的 unconventional 是原",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "According to one critic, the audience's warm response would encourage the musicians to do a better\njob.",
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "】同义转述题。M）段定位句提到，约翰• 特劳德斯是一位曾广泛报道过多伦多古典音乐界的评论家，他认为观众越热情，音乐家们自己的反应就越好。题干中的 one critic 直接对应原文中的 John Terauds, a critic；题干中的 the audience's warm response would encourage the musicians to do a better job 是对原文中 the warmer an audience is, the better the musicians themselves will respond 的同义转述，故答案为 M）o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "39 . 【定位】由题干中的 critic 和 warm response 定位到 M）段前两句。 M）【精析】同义转述题。M）段定位句提到，约翰• 特劳德斯是一位曾广泛报道过多伦多古典音乐界的评论家，他认为观众越热情，音乐家们自己的反应就越好。题干中的 one critic 直接对应原文中的 John Terauds, a critic；题干中的 the audience's warm response would encourage t",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "Many commenters argued for the audience enjoying classical music quietly.",
           "answer": "D",
-          "explanation": "】细节推断题。D）段定位句首先提出问题： 我们是否应该觉得在古典音乐活动中“鼓掌”是可 以接受的，即使其他人没有这样做？为什么我们 不能像在摇滚音乐会上那样为伟大的作品欢呼 呢？接着提到，《赫芬顿邮报》最近就这个问题进 行了一场大辩论，许多评论员都站在“保持安静” 一边。由此可推断,许多评论员认为听众应该安 静地去欣赏古典音乐。该段最后两句展示了其中 两位评论员的观点,从中也可以看出他们赞成传 统的欣赏古典音乐的方式。题干中的many commenters直接对应原文内容;题干中的argued fo r正好和原文中的came out on the side of silence形成呼应，故答案为D）o"
+          "explanation": "】细节推断题。D）段定位句首先提出问题： 我们是否应该觉得在古典音乐活动中“鼓掌”是可以接受的，即使其他人没有这样做？为什么我们不能像在摇滚音乐会上那样为伟大的作品欢呼呢？接着提到，《赫芬顿邮报》最近就这个问题进行了一场大辩论，许多评论员都站在“保持安静” 一边。由此可推断, 许多评论员认为听众应该安静地去欣赏古典音乐。该段最后两句展示了其中两位评论员的观点, 从中也可以看出他们赞成传统的欣赏古典音乐的方式。题干中的 many commenters 直接对应原文内容;题干中的 argued fo r 正好和原文中的 came out on the side of silence 形成呼应，故答案为 D）o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "【定位】由题干中的 commenters 和 classical music 定位到文章 D）段前三句。 D）【精析】细节推断题。D）段定位句首先提出问题： 我们是否应该觉得在古典音乐活动中“鼓掌”是可以接受的，即使其他人没有这样做？为什么我们不能像在摇滚音乐会上那样为伟大的作品欢呼呢？接着提到，《赫芬顿邮报》最近就这个问题进行了一场大辩论，许多评论员都站在“保持安静” 一边。由此可推断, 许多评论员认为听众应该安静地去欣赏古典音乐。该段",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "What appears on the seatback screen makes it unnecessary for the audience to study the works\nbeforehand.",
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "】细节推断题。H）段定位句指出，当歌剧首次在演出期间设置字幕时, 许多纯粹主义者不喜欢这个想法, 他们认为观众应该在观看之前先研究一下作品。但现在观众普遍可以在座椅靠背上找到字幕，很容易就能明白作品的内容。由此可推断出，有了这些椅背屏幕上的字幕，观众就没有必要再事先研究作品了。题干中的 on the seatback screen 对应原文中的 on the seatback；题干中的 study the works beforehand 是对原文中 study the works before attending 的同义转述，故答案为 H）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "41 . 【定位】由题干中的 seatback 和 study the works beforehand 定位到 H）段最后两句。 H）【精析】细节推断题。H）段定位句指出，当歌剧首次在演出期间设置字幕时, 许多纯粹主义者不喜欢这个想法, 他们认为观众应该在观看之前先研究一下作品。但现在观众普遍可以在座椅靠背上找到字幕，很容易就能明白作品的内容。由此可推断出，有了这些椅背屏幕上的字幕，观众就没有必要再事先研究作品了。题干中的 on the seatback scr",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "It is generally accepted that there should be no disturbance from the audience during classical music\nperformance.",
           "answer": "B",
-          "explanation": "】细节归纳题。B）段第一句衔接上文，表示 很难想象今天在美国神圣的交响乐大厅内会发生 类似的骚乱,接着提到平时在欣赏古典音乐表演 时即便手机响了也得当心。最后一句又指出，大 多数古典音乐的表演过程都被一种彬彬有礼的氛 围笼罩着。由此可知，题干是对B）段的归纳概 括:这种骚乱在古典音乐表演中极为罕见，说明人 们都认方在欣赏表演的过程中观众不可以有干扰 性的行为。题干中的there should be no disturbance 对应原文中的 it's difficult to imagine a similar disturbance；题干中的 during classical music performance 对应原 文中的 hangs over most classical proceedings,故答案为 B）„"
+          "explanation": "】细节归纳题。B）段第一句衔接上文，表示很难想象今天在美国神圣的交响乐大厅内会发生类似的骚乱, 接着提到平时在欣赏古典音乐表演时即便手机响了也得当心。最后一句又指出，大多数古典音乐的表演过程都被一种彬彬有礼的氛围笼罩着。由此可知，题干是对 B）段的归纳概括:这种骚乱在古典音乐表演中极为罕见，说明人们都认方在欣赏表演的过程中观众不可以有干扰性的行为。题干中的 there should be no disturbance 对应原文中的 it's difficult to imagine a similar disturbance；题干中的 during classical music performance 对应原文中的 hangs over most classical proceedings, 故答案为 B）„",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "【定位】由题干中的 disturbance 定位到文章 B）段。 B）【精析】细节归纳题。B）段第一句衔接上文，表示很难想象今天在美国神圣的交响乐大厅内会发生类似的骚乱, 接着提到平时在欣赏古典音乐表演时即便手机响了也得当心。最后一句又指出，大多数古典音乐的表演过程都被一种彬彬有礼的氛围笼罩着。由此可知，题干是对 B）段的归纳概括:这种骚乱在古典音乐表演中极为罕见，说明人们都认方在欣赏表演的过程中观众不",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "Higher institutions will be concerned about compromising the integrity of classical music if they have\nto resort to the television medium.",
-          "answer": null,
-          "explanation": ""
+          "answer": "O",
+          "explanation": "】同义转述题。O）段定位句提出疑问:面对如今电视节目中非正统歌剧演员深受好评的现象，更高级的机构如果也试图通过这些表演平台寻求改变，是否有可能损害音乐的完整性或智慧？ 题干和原文内容意思相符。题干中的 compromising the integrity of classical music 对应原文中的“compromising the integrity. . . of the music”；题干中的 resort to 是原文中 appeal to 的同义表达;题牛市的 television medium 对应原文中的 these outlets, 故答案为 O）。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "43 . 【定位】由题干中的 higher institutions 和 compromising the integrity of classical music 定位到文章 O）段最后两句。 O）【精析】同义转述题。O）段定位句提出疑问:面对如今电视节目中非正统歌剧演员深受好评的现象，更高级的机构如果也试图通过这些表演平台寻求改变，是否有可能损害音乐的完整性或智慧？ 题干和原文内容意思相符。题干中的 compromising the integrity of classical music 对应原文中的“compromis",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "Heavily discounted rush tickets help attract many young students to attend classical concerts.",
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "】细节归纳题。K）段定位句指出，乐团向费城学生出售会员资格，他们可以买日程表上每场音乐会的抢购票。乐团的主席瓦尔格莫也提到， 每晚大约有 300 或 350 个孩子来参加这些音乐会。由此可知，题干是对 K）段定位句的归纳概括。题干中的 heavily discounted rush tickets 对应原文中的 $25 annual memberships 和 rush tickets；底干中的 young students 对应原文中的 Philadelphia students 和 kids；题干中的 classical concerts 对应原文中的 concerts, 故答案为 K）o",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "44 . 【定位】由题干中的 rush tickets、young students 和 classical concerts 定位到文章 K）段前两句。 K）【精析】细节归纳题。K）段定位句指出，乐团向费城学生出售会员资格，他们可以买日程表上每场音乐会的抢购票。乐团的主席瓦尔格莫也提到， 每晚大约有 300 或 350 个孩子来参加这些音乐会。由此可知，题干是对 K）段定位句的归纳概括。题干中的 heavily discounted rush tickets 对应原文中的 $25 annual m",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "The formalities of high-art theatres can intimidate some people attending a performance.",
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "】细节归纳题。N)段第一句指出，早在今年 2 月，特劳德斯在他的博客上表示欣赏古典表演会令人生畏, 之后又具体解释原因:有人认为必须盛装打扮, 有人认为在去之前必须对音乐有所了解， 还有人可能会担心自己鼓掌的时机不对。这些都是高级艺术剧院中涉及古典音乐表演的一些礼节要求, 而这些要求令人对欣赏古典表演感到胆怯。 参考译文由此可知，题干是对 N)段定位句的归纳概括。题干中的 formalities 对应原文中的 dress up、know something about the music before they go 以及 time to applaud, 题干中的 intimidate 再应原文中的 intim idating, 题干中的 attending a performance 对应原文中的 going to classical performances, 故答案% N )o 古典音乐旨在不断发展，在不疏远保守派的情况下建立观众群 A) (38)1913 年, 古典音乐在巴黎引发了一场骚乱。伊戈尔・斯特拉文斯基向世界展示了他革命性的芭蕾舞《春之祭》，旋律不和谐，编舞非正统，人群中的纯粹主义者大声而明确地表达了他们的不满。这可能就像鲍勃• 迪伦在纽波特民间艺术节上使用电音的那次场景一样, 只不过这次是古典音乐的版本。美国国家公共广播电台的音乐记者迈尔斯• 霍夫曼谈到斯特拉文斯基的首演时说道:“观众中的噪音、争吵和叫喊声太大了，以至于舞蹈指导不得不向舞者大声喊出数字，这样他们才能知道自己应该做什么。” B) (42)很难想象今天在美国神圣的交响乐大厅内会发生类似的骚乱。事实上，你根本很难设想出任何形式的扰乱性活动(除非某人的手机碰巧响了，那你最好小心点)。大多数古典音乐的表演过程都被一种彬彬有礼的氛围笼罩着，许多流派的最大支持者别无选择。 C ) 如今, 欣赏古典音乐、歌剧和芭蕾舞的西方观众几乎总是穿着考究、年长、恭敬、沉默寡言的人, 而且往往非常富有(必须能够买得起大多数门票)。但是，由于许多美国最富盛名的“高雅的”机构陷入财务困境— 费城交响乐团从破产中重振旗鼓的消息广为人",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+            "sourceText": "45. 【定位】由题干中的 intimidate 和 performance 定位到文章 N）段。 英语菌的笔记 N ) 【精析】细节归纳题。N)段第一句指出，早在今年 2 月，特劳德斯在他的博客上表示欣赏古典表演会令人生畏, 之后又具体解释原因:有人认为必须盛装打扮, 有人认为在去之前必须对音乐有所了解， 还有人可能会担心自己鼓掌的时机不对。这些都是高级艺术剧院中涉及古典音乐表演的一些礼节要求, 而这些要求令人对欣赏古典表演感到胆怯。 参考译文",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -229,7 +391,16 @@
                 "D": "Why people have long been concerned about aging."
               },
               "answer": "A",
-              "explanation": "到的就是人们衰老速度差异的原因，故答案 为A）o 【避错】文章第二段介绍了基因对衰老过程的影 响,但这并不是科学家最近的新发现,B）项不符合 题意，故排除;文章首段第三句指出，人们的生活 方式会影响基因的表达方式，但并未提及各种基 因是如何表达自己的,故排除C）项；文章首段前 两句提到，人们一直在思考为何每个人以不同的 速度变老,说明他们一直关注衰老问题，但文章未 提及人们为何关注,而且这也并非科学家最近的 新发现，故排除D）项。"
+              "explanation": "到的就是人们衰老速度差异的原因，故答案为 A）o 【避错】文章第二段介绍了基因对衰老过程的影响, 但这并不是科学家最近的新发现, B）项不符合题意，故排除;文章首段第三句指出，人们的生活方式会影响基因的表达方式，但并未提及各种基因是如何表达自己的, 故排除 C）项；文章首段前两句提到，人们一直在思考为何每个人以不同的速度变老, 说明他们一直关注衰老问题，但文章未提及人们为何关注, 而且这也并非科学家最近的新发现，故排除 D）项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+                "sourceText": "【定位】由题干中的 scientists 和 today 定位到首段第一、一句。 A）［精加诵全细节题。文章首段第一、二句指出，几千年来，人类一直在追问一个问题:为什么一个人可以享受健康，而另一个人却看起来未老先衰？ 最近，科学家们越来越清楚地认识到，人们衰老速度的差异在于基因、社会关系、环境和生活方式之间复杂的相互作用。由此可知，科学家们最近了解到的就是人们衰老速度差异的原因，故答案为 A）o 【避错】文章第二段介绍了基因对衰",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -242,7 +413,16 @@
                 "D": "They may account for the stresses on cells."
               },
               "answer": "B",
-              "explanation": "】事实细节题。文章首段第三、四句提到，即 使你生来就有一组特定的基因，你的生活方式也 会影响它们的表达方式。一些生活方式方面的因 素甚至可能会打开或关闭这些基因。由此可知， 生活方式方面的因素甚至可以决定基因是否能发 挥作用，因此极其重要，故答案为B）o 【避错】文章第二段第三句提到，细胞中的端粒会 随着细胞分裂而不断缩短,此处并未提及生活方 式方面的因素与细胞分裂有何关系,A）项张冠李 戴,且逻辑错误，故排除;文章第三段第一句提到， 几种思维模式似乎会对端粒产生不利影响，结合 下文可知这种不利影响就是会让端粒变得更短， 即影响其寿命，但这种影响的主体是“思维模式， 而非“生活方式”，这里出现张冠李戴的情况，故排 除C）项;文章第二段第五句提到，科学家们还不太 了解细胞受到的其他压力，并未提及生活方式相 关因素,D）项与文章意思不符，故排除。"
+              "explanation": "】事实细节题。文章首段第三、四句提到，即使你生来就有一组特定的基因，你的生活方式也会影响它们的表达方式。一些生活方式方面的因素甚至可能会打开或关闭这些基因。由此可知， 生活方式方面的因素甚至可以决定基因是否能发挥作用，因此极其重要，故答案为 B）o 【避错】文章第二段第三句提到，细胞中的端粒会随着细胞分裂而不断缩短, 此处并未提及生活方式方面的因素与细胞分裂有何关系, A）项张冠李戴, 且逻辑错误，故排除;文章第三段第一句提到， 几种思维模式似乎会对端粒产生不利影响，结合下文可知这种不利影响就是会让端粒变得更短， 即影响其寿命，但这种影响的主体是“思维模式， 而非“生活方式”，这里出现张冠李戴的情况，故排除 C）项;文章第二段第五句提到，科学家们还不太了解细胞受到的其他压力，并未提及生活方式相关因素, D）项与文章意思不符，故排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+                "sourceText": "【定位】由题干中的 lifestyle factors 定位到首段第三、四句。 B）【精析】事实细节题。文章首段第三、四句提到，即使你生来就有一组特定的基因，你的生活方式也会影响它们的表达方式。一些生活方式方面的因素甚至可能会打开或关闭这些基因。由此可知， 生活方式方面的因素甚至可以决定基因是否能发挥作用，因此极其重要，故答案为 B）o 【避错】文章第二段第三句提到，细胞中的端粒会随着细胞分裂而不断缩短, 此处并未提及生活方式方",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -255,7 +435,16 @@
                 "D": "Their health impacts the division of cells."
               },
               "answer": "C",
-              "explanation": "】推理判断题。文章最后一段第一句指出， 衰老是一个动态的过程，有可能加速或减缓,而且 在某些方面甚至可以逆转。通过前文可知，端粒 的缩短是细胞衰老的主要原因之一，由此可推断 出细胞衰老过程就是端粒缩短过程，而这个过程 是可以被逆转的，故答案为C）。 【避错】文章并未提及端粒的数量和健康对细胞的 影响,而且关联的信息也只涉及生活方式方面的 英语菌的笔记 因素对端粒的影响，故排除A）、D）项；第二段第三 句指出，端粒随着每次细胞分裂而缩短，帮助决定 细胞老化的速度，因此端粒的长度决定了细胞的 衰老程度，而非生活质量,B）项不符合文章意思， 故排除。"
+              "explanation": "】推理判断题。文章最后一段第一句指出， 衰老是一个动态的过程，有可能加速或减缓, 而且在某些方面甚至可以逆转。通过前文可知，端粒的缩短是细胞衰老的主要原因之一，由此可推断出细胞衰老过程就是端粒缩短过程，而这个过程是可以被逆转的，故答案为 C）。 【避错】文章并未提及端粒的数量和健康对细胞的影响, 而且关联的信息也只涉及生活方式方面的英语菌的笔记因素对端粒的影响，故排除 A）、D）项；第二段第三句指出，端粒随着每次细胞分裂而缩短，帮助决定细胞老化的速度，因此端粒的长度决定了细胞的衰老程度，而非生活质量, B）项不符合文章意思， 故排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+                "sourceText": "【定位】由题干中的 the author and his colleagues 和 telomeres 定彳立到最后一段。 C）【精析】推理判断题。文章最后一段第一句指出， 衰老是一个动态的过程，有可能加速或减缓, 而且在某些方面甚至可以逆转。通过前文可知，端粒的缩短是细胞衰老的主要原因之一，由此可推断出细胞衰老过程就是端粒缩短过程，而这个过程是可以被逆转的，故答案为 C）。 【避错】文章并未提及端粒的数量和健康对细胞的影响, 而且关联的信息也只涉及生活方式方面的英语菌的笔",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -268,7 +457,16 @@
                 "D": "It may stir up agitation among those in long lines."
               },
               "answer": "B",
-              "explanation": "】事实细节题。第三段第一句指出，科学家 们已经了解到，有几种思维模式似乎会对端粒产 生不利影响，其中之一就是愤世嫉俗的敌意。由 此可知答案为B）。 【避错】第三段第二句指出，愤世嫉俗的敌意往往 会让人们高度愤怒，或者缺乏对其他人的信任,而 非产生对抗性的思维模式,A）项不符合文章意思， 故排除;同样的，这种思维模式只是容易让人很愤 怒，但愤怒并不一定通过发脾气表现出来,这样的 推论不合理,故排除C）项;第三段举例说明怀有 愤世嫉俗的敌意的人在排长队时容易变得暴躁不 安，这只是说他们会产生这样的心理状态,而不是 说他们会把这种敌意表现出来并引起躁动,D）项 不符合文章意思，故排除。 参考译文"
+              "explanation": "】事实细节题。第三段第一句指出，科学家们已经了解到，有几种思维模式似乎会对端粒产生不利影响，其中之一就是愤世嫉俗的敌意。由此可知答案为 B）。 【避错】第三段第二句指出，愤世嫉俗的敌意往往会让人们高度愤怒，或者缺乏对其他人的信任, 而非产生对抗性的思维模式, A）项不符合文章意思， 故排除;同样的，这种思维模式只是容易让人很愤怒，但愤怒并不一定通过发脾气表现出来, 这样的推论不合理, 故排除 C）项;第三段举例说明怀有愤世嫉俗的敌意的人在排长队时容易变得暴躁不安，这只是说他们会产生这样的心理状态, 而不是说他们会把这种敌意表现出来并引起躁动, D）项不符合文章意思，故排除。 参考译文",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+                "sourceText": "【定位】由题干中的 cynical hostility 定位到第三段。 B）【精析】事实细节题。第三段第一句指出，科学家们已经了解到，有几种思维模式似乎会对端粒产生不利影响，其中之一就是愤世嫉俗的敌意。由此可知答案为 B）。 【避错】第三段第二句指出，愤世嫉俗的敌意往往会让人们高度愤怒，或者缺乏对其他人的信任, 而非产生对抗性的思维模式, A）项不符合文章意思， 故排除;同样的，这种思维模式只是容易让人很愤怒，但愤怒并不一",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q50",
@@ -281,7 +479,16 @@
                 "D": "It may be controlled to a degree."
               },
               "answer": "D",
-              "explanation": "】推理判断题。文章最后一段第一句提到， 衰老是一个动态的过程,有可能加速或减缓,而且 在某些方面甚至可以逆转;最后一句又提到,享受 良好健康的关键之一就是简单地尽你自己的一份 力来促进有益于健康的细胞更新。说明衰老的过 程是可以发生改变的，而且我们可以通过自己的 努力来促进有益健康的细胞更新,从而延缓衰老。 由此可推断衰老的过程在一定程度上是可以得到 控制的，故答案为D）。 【避错】文章第一段就提到衰老的过程因人而异， 但这不是从最后一段能获取或推断出的信息，故 排除A）项;文章中介绍了科学家为探索人类细胞 衰老过程所做的实验及其发现，最后一段也提到 了新的发现，即：衰老是一个动态的过程,有可能 加速或减缓,而且在某些方面甚至可以逆转,但并 未提到科学家之后需要进一步探索什么,B）项不 符合文章意思，故排除;文章前两段都提到基因层 面上影响衰老过程的因素,说明遗传密码会影响 衰老过程,但不是决定性的影响,而且这不是最后 一段中可以得出的结论,故排除C）项。 （46）为什么一个人可以享受健康，而另一个人却看起来未老先衰？几千年来，人类一直在追问这个问 题。最近;W 家们越来越清楚地认识到，人们衰老速度的差异在于基因、社会关系、环境和生活方式之间 复杂的相互作用。（47）即使你生来就有一组特定的基因,你的生活方式也会影响它们的表达方式。一些 生活方式方面的因素甚至可能会打开或关闭这些基因。 在我们所有细胞的遗传核心深处都有端粒，或者是生活在染色体末端的非编码D N A 的重复片段。 它们在染色体的末端形成一些帽子，将遗传物质保持在一起。它们随着每次细胞分裂而缩短，帮助决定细 胞老化的速度。当它们变得太短时，细胞会完全停止分裂。这并不是细胞老化的唯一原因— 我们还不 太了解细胞受到的其他压力，但短端粒是人类细胞衰老的主要原因之一。我们在大部分职业生涯中都致 力于研究端粒，而我们实验室的一个非凡发现是，端粒实际上可以延长。 （49）科学家们已经了解到，有几种思维模式似乎会对端粒产生不利影响,其中之一就是愤世嫉俗的敌 意。愤世嫉俗的敌意是指高度的愤怒和经常认为其他人不可信任的想法"
+              "explanation": "】推理判断题。文章最后一段第一句提到， 衰老是一个动态的过程, 有可能加速或减缓, 而且在某些方面甚至可以逆转;最后一句又提到, 享受良好健康的关键之一就是简单地尽你自己的一份力来促进有益于健康的细胞更新。说明衰老的过程是可以发生改变的，而且我们可以通过自己的努力来促进有益健康的细胞更新, 从而延缓衰老。 由此可推断衰老的过程在一定程度上是可以得到控制的，故答案为 D）。 【避错】文章第一段就提到衰老的过程因人而异， 但这不是从最后一段能获取或推断出的信息，故排除 A）项;文章中介绍了科学家为探索人类细胞衰老过程所做的实验及其发现，最后一段也提到了新的发现，即：衰老是一个动态的过程, 有可能加速或减缓, 而且在某些方面甚至可以逆转, 但并未提到科学家之后需要进一步探索什么, B）项不符合文章意思，故排除;文章前两段都提到基因层面上影响衰老过程的因素, 说明遗传密码会影响衰老过程, 但不是决定性的影响, 而且这不是最后一段中可以得出的结论, 故排除 C）项。 （46）为什么一个人可以享受健康，而另一个人却看起来未老先衰？几千年来，人类一直在追问这个问题。最近;W 家们越来越清楚地认识到，人们衰老速度的差异在于基因、社会关系、环境和生活方式之间复杂的相互作用。（47）即使你生来就有一组特定的基因, 你的生活方式也会影响它们的表达方式。一些生活方式方面的因素甚至可能会打开或关闭这些基因。 在我们所有细胞的遗传核心深处都有端粒，或者是生活在染色体末端的非编码 DNA 的重复片段。 它们在染色体的末端形成一些帽子，将遗传物质保持在一起。它们随着每次细胞分裂而缩短，帮助决定细胞老化的速度。当它们变得太短时，细胞会完全停止分裂。这并不是细胞老化的唯一原因— 我们还不太了解细胞受到的其他压力，但短端粒是人类细胞衰老的主要原因之一。我们在大部分职业生涯中都致力于研究端粒，而我们实验室的一个非凡发现是，端粒实际上可以延长。 （49）科学家们已经了解到，有几种思维模式似乎会对端粒产生不利影响, 其中之一就是愤世嫉俗的敌意。愤世嫉俗的敌意是指高度的愤怒和经常认为其他人不可信任的想法",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+                "sourceText": "【定位】由题干中的 last paragraph 定位到最后一段。 D）【精析】推理判断题。文章最后一段第一句提到， 衰老是一个动态的过程, 有可能加速或减缓, 而且在某些方面甚至可以逆转;最后一句又提到, 享受良好健康的关键之一就是简单地尽你自己的一份力来促进有益于健康的细胞更新。说明衰老的过程是可以发生改变的，而且我们可以通过自己的努力来促进有益健康的细胞更新, 从而延缓衰老。 由此可推断衰老的过程在一定程度上是可以得",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -299,8 +506,17 @@
                 "C": "It was a breakthrough made with persistent efforts.",
                 "D": "It may initiate a radical reform in plastic industry."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "】事实细节题。定位句指出, 科学家偶然制出了一种能分解塑料饮料瓶的酶, 随后一句说，这一突破将首次实现塑料瓶的完全回收，可见 B）为该句的同义转述，故为答案。 【避错】定位句中的 by accident 意思是“偶然地”， 而不是出了事故, 故排除 A）项;定位部分虽然提到这是一项突破，但并未强调是否经过不懈努力， 反而说这个结果是意外所得，可知 C）与原文不符;文章在首段第二句只提到制出这种酶是一项突破, 并未提及它可能会引发塑料行业的彻底改革, 故排除 D）项。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+                "sourceText": "51 . t 定位】由题干中的 an enzyme scientists have created 定位到第一段第一句。 B）【精析】事实细节题。定位句指出, 科学家偶然制出了一种能分解塑料饮料瓶的酶, 随后一句说，这一突破将首次实现塑料瓶的完全回收，可见 B）为该句的同义转述，故为答案。 【避错】定位句中的 by accident 意思是“偶然地”， 而不是出了事故, 故排除 A）项;定位部分虽然提到这是一项突破，但并未强调是否经过不懈努力， 反而说这个结果是意外所得，可知 C）与原",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -313,7 +529,16 @@
                 "D": "It has a chemical structure unknown to scientists."
               },
               "answer": "A",
-              "explanation": "】事/细节题。第二段第二句提到了 bug, 由上下文可知，这里的bug就是指前一句中提到 的bacterium。第二段首句指出，这种细菌是第一 种自然进化出的以塑料为食的细菌，可知它具有 消耗塑料的天然能力，故答案为A）o 【避错】文章只在第四段提到细菌中的酶分解塑 料的速度，而没有介绍细菌的繁殖速度，故排除 B）；C）似是而非，读者易根据这种细菌启发了新 研究这一信息，就推断它是塑料瓶回收的关键，但 原文对这种细菌的评价仅是启发作用,后文也介 绍，细菌中的这种酶是经过改良之后增强了分解 作用,才为实现塑料完全回收提供条件的，可知 O 的表述在原文中并无直接依据,故排除；D）与 定位句所说的“科学家已经描绘出这种细菌产生 的关键酶的详细结构”这一信息恰好相反，故排 除。"
+              "explanation": "】事/细节题。第二段第二句提到了 bug, 由上下文可知，这里的 bug 就是指前一句中提到的 bacterium。第二段首句指出，这种细菌是第一种自然进化出的以塑料为食的细菌，可知它具有消耗塑料的天然能力，故答案为 A）o 【避错】文章只在第四段提到细菌中的酶分解塑料的速度，而没有介绍细菌的繁殖速度，故排除 B）；C）似是而非，读者易根据这种细菌启发了新研究这一信息，就推断它是塑料瓶回收的关键，但原文对这种细菌的评价仅是启发作用, 后文也介绍，细菌中的这种酶是经过改良之后增强了分解作用, 才为实现塑料完全回收提供条件的，可知 O 的表述在原文中并无直接依据, 故排除；D）与定位句所说的“科学家已经描绘出这种细菌产生的关键酶的详细结构”这一信息恰好相反，故排除。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+                "sourceText": "【定位】由题干中的 the bug 和 produces 定位到第二段第二句。 A） t 精析】事/细节题。第二段第二句提到了 bug, 由上下文可知，这里的 bug 就是指前一句中提到的 bacterium。第二段首句指出，这种细菌是第一种自然进化出的以塑料为食的细菌，可知它具有消耗塑料的天然能力，故答案为 A）o 【避错】文章只在第四段提到细菌中的酶分解塑料的速度，而没有介绍细菌的繁殖速度，故排除 B）；C）似是而非，读者易根据这种",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -338,8 +563,17 @@
                 "C": "It has aroused persistent interest among the general public.",
                 "D": "Manufacturers are beginning to explore ways of doing it."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "】推理判断题。该段最后一句提到，对于制造商而言，生产更多的塑料比试图回收更容易， 但由于回收塑料涉及公众利益，导致人们的看法也发生了巨大变化, 所以这些制造商公司也开始考虑如何恰当地回收这些瓶子，可知 D）是对该句部分信息的转述，故为答案。 【避错】A）是利用定位句的前半部分设置的干扰， 但原句是说制造商大量生产塑料, 而不是回收， 故排除;从麦吉汉教授的话中可知，如果单纯考虑经济利益，制造商与其回收，还不如生产塑料， 而考虑回收是出于公众利益的考虑，不是商机，故排除 B）;定位句中提到回收是出于公众利益，并说人们的看法改变了, 此处应是指制造商的想法出现了转变，并没有说公众是否一直在关注回收问题, 故排除 C）。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+                "sourceText": "54 . 【定位】由题干中的人名和选项中的 manufacturers public 等关键词定位到第八段。 D）【精析】推理判断题。该段最后一句提到，对于制造商而言，生产更多的塑料比试图回收更容易， 但由于回收塑料涉及公众利益，导致人们的看法也发生了巨大变化, 所以这些制造商公司也开始考虑如何恰当地回收这些瓶子，可知 D）是对该句部分信息的转述，故为答案。 【避错】A）是利用定位句的前半部分设置的干扰， 但原句是说制造商大量生产塑料, 而不是回收， 故排除;从麦",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q55",
@@ -352,7 +586,16 @@
                 "D": "Studying the full life cycle of the enzyme as the first step."
               },
               "answer": "C",
-              "explanation": "】推理判断题。在该段引用这位教授的话 中，提及需要进行一个全生命周期的评估，目的在 于确保新的塑料分解技术不会以引起其他环境问 题为代价，可知评估的目的在于这项新技术会不 会对环境造成负面影响，故答案为C）o 【避错】定位句中提到了额外的温室气体排放，是 举例说明新分解技术可能产生的负面环境影响， ■而不是要开发减排技术，故排除选项A ）；原文只 提到要验证是否有额外的温室气体排放,而未提 到成本问题,故排除B）；原文只提到需要进行一 个全生命周期的评估，并未具体指出全生命周期 评估是什么事项的第一步,D ）项扩大了文章意 思，故排除。 参考译文 （51）科学家偶然制出了一种能分解塑料饮料瓶的酶。这一突破将首次实现塑料瓶的完全回收，从而 有助于解决全球塑料污染危机。 （52）2016年，在日本的一个垃圾场发现了第一种自然进化出的以塑料为食的细菌，从而启发了本项 新研究。科学家现在已经揭示了这种虫子产生的关键酶的详细结构。 （53）随后，一个国际研究小组对这种酶进行了调整,以观察它是如何进化的，但测试结果显示,他们意 外地增强了这种分子分解饮料瓶所用的塑料时的作用。英国朴茨茅斯大学的首席研究员麦吉汉教授说: “事实证明,我们改良了这种酶,这有点令人震惊。” 目前,这种酶尚需几天的时间才能开始分解塑料，这比在海洋中需要几个世纪的时间要快得多，但研 究人员乐观地认为,这一过程还可以进一步加快，并可以大规模进行。 “我们希望用这种酶将塑料变回原来的成分，这样就是真正把它再循环成塑料,”麦克汉说，“这意味 着我们不需要再开采更多的石油,从根本上讲，它应该会减少环境中的塑料含量」 全球每分钟售出约100万个塑料瓶，其中只有14%得以回收，许多塑料瓶最终进入海洋，甚至污染了 最偏远的地区，危害了海洋生物和可能食用海鲜的人。“塑料非常耐降解，”麦吉汉说，“这是神奇材料的一 种，制作得有点太好了。” 英语菌的笔记 目前，这些被回收的瓶子只能变成不透明的纤维,用于制作衣服或地毯，而这种新的酶则表明,有办法 能将旧的透明塑料瓶回收制成新的透明塑料瓶。 “人们总是否认这样一个事实，即石油很便宜"
+              "explanation": "】推理判断题。在该段引用这位教授的话中，提及需要进行一个全生命周期的评估，目的在于确保新的塑料分解技术不会以引起其他环境问题为代价，可知评估的目的在于这项新技术会不会对环境造成负面影响，故答案为 C）o 【避错】定位句中提到了额外的温室气体排放，是举例说明新分解技术可能产生的负面环境影响， ■而不是要开发减排技术，故排除选项 A）；原文只提到要验证是否有额外的温室气体排放, 而未提到成本问题, 故排除 B）；原文只提到需要进行一个全生命周期的评估，并未具体指出全生命周期评估是什么事项的第一步, D）项扩大了文章意思，故排除。 参考译文 （51）科学家偶然制出了一种能分解塑料饮料瓶的酶。这一突破将首次实现塑料瓶的完全回收，从而有助于解决全球塑料污染危机。 （52）2016 年，在日本的一个垃圾场发现了第一种自然进化出的以塑料为食的细菌，从而启发了本项新研究。科学家现在已经揭示了这种虫子产生的关键酶的详细结构。 （53）随后，一个国际研究小组对这种酶进行了调整, 以观察它是如何进化的，但测试结果显示, 他们意外地增强了这种分子分解饮料瓶所用的塑料时的作用。英国朴茨茅斯大学的首席研究员麦吉汉教授说: “事实证明, 我们改良了这种酶, 这有点令人震惊。” 目前, 这种酶尚需几天的时间才能开始分解塑料，这比在海洋中需要几个世纪的时间要快得多，但研究人员乐观地认为, 这一过程还可以进一步加快，并可以大规模进行。 “我们希望用这种酶将塑料变回原来的成分，这样就是真正把它再循环成塑料, ”麦克汉说，“这意味着我们不需要再开采更多的石油, 从根本上讲，它应该会减少环境中的塑料含量」 全球每分钟售出约 100 万个塑料瓶，其中只有 14%得以回收，许多塑料瓶最终进入海洋，甚至污染了最偏远的地区，危害了海洋生物和可能食用海鲜的人。“塑料非常耐降解，”麦吉汉说，“这是神奇材料的一种，制作得有点太好了。” 英语菌的笔记目前，这些被回收的瓶子只能变成不透明的纤维, 用于制作衣服或地毯，而这种新的酶则表明, 有办法能将旧的透明塑料瓶回收制成新的透明塑料瓶。 “人们总是否认这样一个事实，即石油很便宜",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2022-12-3/key_2022.12英语六级解析第3套.txt",
+                "sourceText": "【定位】由题干中的 Prof. Adisa Azapagic 定位到最后一段。 C）【精析】推理判断题。在该段引用这位教授的话中，提及需要进行一个全生命周期的评估，目的在于确保新的塑料分解技术不会以引起其他环境问题为代价，可知评估的目的在于这项新技术会不会对环境造成负面影响，故答案为 C）o 【避错】定位句中提到了额外的温室气体排放，是举例说明新分解技术可能产生的负面环境影响， ■而不是要开发减排技术，故排除选项 A）；原文只",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

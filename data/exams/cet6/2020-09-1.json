@@ -1,0 +1,548 @@
+{
+  "id": "cet6-2020-09-1",
+  "type": "cet6",
+  "year": 2020,
+  "month": 9,
+  "set": 1,
+  "title": "2020年9月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part , you are allowed 30 minutes to write an essay on the saying \"Beauty of the soul is the essential beauty. \" You should write at least 150 words but no more than 200 words. 第 12／12页",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "She can devote all her life to pursuing her passion.",
+            "B": "Her accumulated expertise helps her to achieve her goals.",
+            "C": "She can spread her academic ideas on a weekly TV show.",
+            "D": "Her research findings are widely acclaimed in the world."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "Provision of guidance for nuclear labs in Europe.",
+            "B": "Touring the globe to attend science TV shows.",
+            "C": "Overseeing two research groups at Oxford.",
+            "D": "Science education and scientific research."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "A better understanding of a subject.",
+            "B": "A stronger will to meet challenges.",
+            "C": "A broader knowledge of related fields.",
+            "D": "A closer relationship with young people."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "By applying the latest research methods.",
+            "B": "By making full use of the existing data.",
+            "C": "By building upon previous discoveries.",
+            "D": "By utilizing more powerful computers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "They can predict future events.",
+            "B": "They have no special meanings.",
+            "C": "They have cultural connotations.",
+            "D": "They cannot be easily explained."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "It was canceled due to bad weather.",
+            "B": "She overslept and missed the flight.",
+            "C": "She dreamed of a plane crash.",
+            "D": "It was postponed to the following day."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "They can be affected by people's childhood experiences.",
+            "B": "They may sometimes seem ridiculous to a rational mind.",
+            "C": "They usually result from people's unpleasant memories.",
+            "D": "They can have an impact as great as rational thinking."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "They call for scientific methods to interpret.",
+            "B": "They mirror their long-cherished wishes.",
+            "C": "They reflect their complicated emotions.",
+            "D": "They are often related to irrational feelings."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "Radio waves.",
+            "B": "Sound waves.",
+            "C": "Robots.",
+            "D": "Satellites."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "It may be freezing fast beneath the glacier.",
+            "B": "It may have micro-organisms living in it.",
+            "C": "It may have certain rare minerals in it.",
+            "D": "It may be as deep as four kilometers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "They tend to be silenced into submission.",
+            "B": "They find it hard to defend themselves.",
+            "C": "They will feel proud of being pioneers.",
+            "D": "They will feel somewhat encouraged."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "One who advocates violence in effecting change.",
+            "B": "One who craves for relentless transformations.",
+            "C": "One who acts in the interests of the oppressed.",
+            "D": "One who rebels against the existing social order."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "They tried to effect social change by force.",
+            "B": "They disrupted the nation's social stability.",
+            "C": "They served as a driving force for progress.",
+            "D": "They did more harm than good to humanity."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "Few of us can ignore changes in our immediate environment.",
+            "B": "It is impossible for us to be immune from outside influence.",
+            "C": "Few of us can remain unaware of what happens around us.",
+            "D": "It is important for us to keep in touch with our own world."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Make up his mind to start all over again.",
+            "B": "Stop making unfair judgments of others.",
+            "C": "Try to find a more exciting job somewhere else.",
+            "D": "Recognise the negative impact of his coworkers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "They are quite susceptible to suicide.",
+            "B": "They improve people's quality of life.",
+            "C": "They suffer a great deal from ill health.",
+            "D": "They help people solve mental problems."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Few people can identify its texture.",
+            "B": "Few people can describe it precisely.",
+            "C": "Its real value is open to interpretation.",
+            "D": "Its importance is often over-estimated."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "It has never seen any change.",
+            "B": "It has much to do with color.",
+            "C": "It is a well-protected government secret.",
+            "D": "It is a subject of study by many forgers."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "People had little faith in paper money.",
+            "B": "They could last longer in circulation.",
+            "C": "It predicted their value would increase.",
+            "D": "They were more difficult to counterfeit."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "The stabilization of the dollar value.",
+            "B": "The issuing of government securities.",
+            "C": "A gold standard for American currency.",
+            "D": "A steady appreciation of the U.S. dollar."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions : In this section , there is a passage with ten blanks. You are required to select one word for\neach blank from a list of choices given in a word bank following the passage. Read the \npassage through carefully before making your choices. Each choice in the bank is identified \nby a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a \nsingle line through the centre. You may not use any of the words in the bank more than once. \nOverall, men are more likely than women to make excuses. Several studies suggest that men feel \nthe need to appear competent in all \n\n, while women worry only about the skills in which \nthey've invested \n\n. Ask a man and a woman to go diving for the first time, and the woman is \nlikely to jump in, while the man is likely to say he's not feeling too well. \nIronically, it is often success that leads people to flirt with failure. Praise won for \n\na skill \nsuddenly puts one in the position of having everything to lose. Rather than putting their reputation on \nthe line again, many successful people develop a handicap\ndrinking, \n\n, depression\nthat \nallows them to keep their status no matter what the future brings. An advertising executive \n\nfor depression shortly after winning an award put it this way: \" Without my depression, I'd be a \nfailure now; with it, I'm a success ' on hold. ' \" \nIn fact, the people most likely to become chronic excuse makers are those \n3 1  \nwith success. \nSuch people are so afraid of being \n\na failure at anything that they constantly develop one \n第 4／12页\n\nhandicap or another in order to explain away failure. \nThough self-handicapping can be an effective way of coping with performance anxiety now and \nthen, in the end, researchers say, it will lead to \n\n. In the long run, excuse makers fail to live up \nto their true \n\nand lose the status they care so much about. And despite their protests to the \n35 , they have only themselves to blame.",
+      "wordBank": {
+        "M": "reciprocal"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Brains, brains, brains. People are fascinated by brain research. And yet it can be hard to point to\nplaces where our education system is really making use of the latest neuroscience ( # ̆ :ff -!fr )\nfindings. But there is one happy link where research is meeting practice: bilingual ( ࠐ i½ ę )\neducation. \" In the last 20 years or so, there's been a virtual explosion of research on\nbilingualism,\" says Judith Kroll, a professor at the University of California, Riverside."
+        },
+        {
+          "label": "B",
+          "text": "Again and again, researchers have found, \" bilingualism is an experience that shapes our brain for\nlife,\" in the words of Gigi Luk, an associate professor at Harvard's Graduate School of Education.\nAt the same time, one of the hottest trends in public schooling is what's often called dual-language\nor two-way immersion programs."
+        },
+        {
+          "label": "C",
+          "text": "Traditional programs for English-language learners, or ELLs, focus on assimilating students into\nEnglish as quickly as possible. Dual-language classrooms, by contrast, provide instruction across\nsubjects to both English natives and English learners, in both English and a target language. The\ngoal is functional bilingualism and biliteracy for all students by middle school. New York City,\n第 5／12页\n\nNorth Carolina, Delaware, Utah, Oregon and Washington state are among the places expanding \ndual-language classrooms."
+        },
+        {
+          "label": "D",
+          "text": "The trend flies in the face of some of the culture wars of two decades ago, when advocates\ninsisted on \" English first\" education. Most famously, California passed Proposition 227 in 1998.\nIt was intended to sharply reduce the amount of time that English-language learners spent in\nbilingual settings. Proposition 58, passed by California voters on November 8, largely reversed\nthat decision, paving the way for a huge expansion of bilingual education in the state that has the\nlargest population of English-language learners."
+        },
+        {
+          "label": "E",
+          "text": "Some of the insistence on English-first was founded on research produced decades ago, in which\nbilingual students underperformed monolingual ( if i¼ ę ) English speakers and had lower IQ\nscores. Today's scholars, like Ellen Bialystok at York University in Toronto, say that research was\n\" deeply flawed.\" \" Earlier research looked at socially disadvantaged groups,\" agrees Antonella\nSorace at the University of Edinburgh in Scotland. \" This has been completely contradicted by\nrecent research\" that compares groups more similar to each other."
+        },
+        {
+          "label": "F",
+          "text": "So what does recent research say about the potential benefits of bilingual education? It turns out\nthat, in many ways, the real trick to speaking two languages consists in managing not to speak one\nof those languages at a given moment \nwhich is fundamentally a feat of paying attention.\nSaying \" Goodbye\" to morn and then \" Guten tag\" to your teacher, or managing to ask for a\ncrayola roja instead of a red crayon ( ࠑ ࠒ ) , requires skills called \" inhibition \" and \" task\nswitching.\" These skills are subsets of an ability called executive function."
+        },
+        {
+          "label": "G",
+          "text": "People who speak two languages often outperform monolinguals on general measures of executive\nfunction. \" Bilinguals can pay focused attention without being distracted and also improve in the\nability to switch from one task to another,\" says Sorace."
+        },
+        {
+          "label": "H",
+          "text": "Do these same advantages benefit a child who begins learning a second language in kindergarten\ninstead of as a baby? We don't yet know. Patterns of language learning and language use are\ncomplex. But Gigi Luk at Harvard cites at least one brain-imaging study on adolescents that\nshows similar changes in brain structure when compared with those who are bilingual from birth,\neven when they didn't begin practicing a second language in earnest before late childhood."
+        },
+        {
+          "label": "I",
+          "text": "Young children being raised bilingual have to follow social cues to figure out which language to\nuse with which person and in what setting. As a result, says Sorace, bilingual children as young as\nage 3 have demonstrated a head start on tests of perspective-taking and theory of mind \nboth of\nwhich are fundamental social and emotional skills."
+        },
+        {
+          "label": "J",
+          "text": "About 10 percent of students in the Portland, Oregon public schools are assigned by lottery to dual-\n6 · 6\n第 6／12页\n\nlanguage classrooms that offer instruction in Spanish, Japanese or Mandarin, alongside English. \nJennifer Steele at American University conducted a four-year, randomized trial and found that \nthese dual-language students outperformed their peers in English-reading skills by a full school­\nyear's worth of learning by the end of middle school. Because the effects are found in reading, not \nin math or science where there were few differences, Steele suggests that learning two languages \nmakes students more aware of how language works in general."
+        },
+        {
+          "label": "K",
+          "text": "The research of Gigi Luk at Harvard offers a slightly different explanation. She has recently done\na small study looking at a group of 100 fourth-graders in Massachusetts who had similar reading\nscores on a standard test, but very different language experiences. Some were foreign-language\ndominant and others were English natives. Here's what's interesting. The students who were\ndominant in a foreign language weren't yet comfortably bilingual; they were just starting to learn\nEnglish. Therefore, by definition, they had a much weaker English vocabulary than the native\nspeakers. Yet they were just as good at interpreting a text. \" This is very surprising,\" Luk says.\n\" You would expect the reading comprehension performance to mirror the vocabulary \nit's a\ncornerstone of comprehension.\"\nL) How did the foreign-language dominant speakers manage this feat? Well, Luk found, they also\nscored higher on tests of executive functioning. So, even though they didn't have huge mental\ndictionaries to draw on, they may have been great puzzle-solvers, taking into account higher-level\nconcepts such as whether a single sentence made sense within an overall story line. They got to\nthe same results as the monolinguals, by a different path.\nM) American public school classrooms as a whole are becoming more segregated by race and class.\nDual-language programs can be an exception. Because they are composed of native English\nspeakers deliberately placed together with recent immigrants, they tend to be more ethnically and\neconomically balanced. And there is some evidence that this helps kids of all backgrounds gain\ncomfort with diversity and different cultures.\nN) Several of the researchers also pointed out that, in bilingual education, non-English-dominant\nstudents and their families tend to feel that their home language is heard and valued, compared\nwith a classroom where the home language is left at the door in favor of English. This can\nimprove students' sense of belonging and increase parents' involvement in their children's\neducation, including behaviors like reading to children. \" Many parents fear their language is an\nobstacle, a problem, and if they abandon it their child will integrate better,\" says Antonella Sorace\nof the University of Edinburgh. \"We tell them they're not doing their child a favor by giving up \ntheir language.\"\n0) One theme that was striking in speaking to all these researchers was just how strongly they\nadvocated for dual-language classrooms. Thomas and Collier have advised many school systems\n第 7／12页\n\non how to expand their dual-language programs, and Sorace runs \" Bilingualism Matters,\" an \ninternational network of researchers who promote bilingual education projects. This type of \nadvocacy among scientists is unusual; even more so because the \"bilingual advantage hypothesis\" \nis being challenged once again. \nP) A review of studies published last year found that cognitive advantages failed to appear in 83\npercent of published studies, though in a separate analysis, the sum of effects was still significantly\npositive. One potential explanation offered by the researchers is that advantages that are\nmeasurable in the very young and very old tend to fade when testing young adults at the peak of\ntheir cognitive powers. And, they countered that no negative effects of bilingual education have\nbeen found. So, even if the advantages are small, they are still worth it. Not to mention one\nobvious, outstanding fact: \" Bilingual children can speak two languages!\""
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "A study found that there are similar changes in brain structure between those who are bilingual \nfrom birth and those who start learning a second language later.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Unlike traditional monolingual programs, bilingual classrooms aim at developing students' ability\nto use two languages by middle school.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "A study showed that dual-language students did significantly better than their peers in reading\nEnglish texts.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "About twenty years ago, bilingual practice was strongly discouraged, especially in California.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Ethnically and economically balanced bilingual classrooms are found to be helpful for kids to get\nused to social and cultural diversity.\n41 . Researchers now claim that earlier research on bilingual education was seriously flawed.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "According to a researcher, dual-language experiences exert a lifelong influence on one's brain.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Advocates of bilingual education argued that it produces positive effects though they may be \nlimited.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Bilingual speakers often do better than monolinguals in completing certain tasks because they can\nconcentrate better on what they are doing.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "When their native language is used, parents can become more involved m their children's \neducation. \n第 8／12页",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage. \nIt is not controversial to say that an unhealthy diet causes bad health. Nor are the basic elements \nof healthy eating disputed. Obesity raises susceptibility to cancer, and Britain is the sixth most obese \ncountry on Earth. That is a public health emergency. But naming the problem is the easy part. No one \ndisputes the costs in quality of life and depleted health budgets of an obese population, but the quest for \nsolutions gets diverted by ideological arguments around responsibility and choice. And the water is \nmuddied by lobbying from the industries that profit from consumption of obesity-inducing products. \nHistorical precedent suggests that science and politics can overcome resistance from businesses \nthat pollute and poison but it takes time, and success often starts small. So it is heartening to note that \na programme in Leeds has achieved a reduction in childhood obesity, becoming the first UK city to \nreverse a fattening trend. The best results were among younger children and in more deprived areas. \nWhen 28% of English children aged two to 15 are obese, a national shift on the scale achieved by \nLeeds would lengthen hundreds of thousands of lives. A significant factor in the Leeds experience appears \nto be a scheme called HENRY, which helps parents reward behaviours that prevent obesity in children. \nMany members of parliament are uncomfortable even with their own government's anti-obesity \nstrategy, since it involves a \" sugar tax\" and a ban on the sale of energy drinks to under-16s. Bans \nand taxes can be blunt instruments, but their harshest critics can rarely suggest better methods. These \ncritics just oppose regulation itself. \nThe relationship between poor health and inequality is too pronounced for governments to be \npassive about large-scale intervention. People living in the most deprived areas are four times more \nprone to die from avoidable causes than counterparts in more affluent places. As the structural nature \nof public health problems becomes harder to ignore, the complaint about overprotective government \nloses potency. \nIn fact, the polarised debate over public health interventions should have been abandoned long \nago. Government action works when individuals are motivated to respond. Individuals need \ngovernments that expand access to good choices. The HENRY programme was delivered in part \nthrough children's centres. Closing such centres and cutting council budgets doesn't magically increase \nreserves of individual self-reliance. The function of a well-designed state intervention is not to deprive \npeople of liberty but to build social capacity and infrastructure that helps people take responsibility for \ntheir wellbeing. The obesity crisis will not have a solution devised by left or right ideology\nbut \nexperience indicates that the private sector needs the incentive of regulation before it starts taking \npublic health emergencies seriously. \n第 9／12页\n\nBut the scheme is attracting criticism from scientists and conservation groups, who argue that the \ngovernment hasn't gone far enough in protecting the Coral Sea, or in other marine reserves in the \ncoastal network. \nHugh Possingham, director of the Centre of Excellence for Environmental Decisions at the \nUniversity of Queensland, points out that little more than half of the Coral Sea reserve is proposed as \na ' no take ' area, in which all fishing would be banned. The world's largest existing marine reserve, \nestablished last year by the British government in the Indian Ocean, spans 544,000 km2 and is a no­\ntake zone throughout. An alliance of campaigning conservation groups argues that more of the Coral \nSea should receive this level of protection. \n\" I  would like to have seen more protection for coral reefs,\" says Terry Hughes, director of the \nCentre of Excellence for Coral Reef Studies at James Cook University in Queensland. \" More than 20 \nof them would be outside the no-take area and vulnerable to catch-and-release fishing\" . \nAs Nature went to press, the Australian government had not responded to specific criticisms of \nthe plan. But Robin Beaman, a marine geologist at James Cook University, says that the reserve does \n\"broadly protect the range of habitats\" in the sea. \" I can testify to the huge effort that government \nagencies and other organisations have put into trying to understand the ecological values of this vast \narea,\" he says. \nReserves proposed earlier this year for Australia's southwestem and northwestem coastal regions \nhave also been criticised for failing to give habitats adequate protection. In August, 173 marine \nscientists signed an open letter to the government saying they were \" greatly concerned\" that the \nproposals for the southwestem region had not been based on the \" core science principles \" of \nreserves\nthe protected regions were not, for instance, representative of all the habitats in the region, \nthey said. \nCritics say that the southwestem reserve offers the greatest protection to the offshore areas where \ncommercial opportunities are fewest and where there is little threat to the environment, a contention \nalso levelled at the Coral Sea plan. \n5 1 .  What do we learn from the passage about the Coral Sea? \nA) It is exceptionally rich in marine life.\nB) It is the biggest marine protected area.\nC) It remains largely undisturbed by humans.\nD) It is a unique haven of endangered species.",
+          "questions": [
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What does the Australian government plan to do according to Tony Burke?",
+              "options": {
+                "A": "Make a new proposal to protect the Coral Sea.",
+                "B": "Revise its conservation plan owing to criticisms.",
+                "C": "Upgrade the established reserves to protect marine life.",
+                "D": "Complete the series of marine reserves around its coast. 第 11／12页"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What is scientists' argument about the Coral Sea proposal?",
+              "options": {
+                "A": "The government has not done enough for marine protection.",
+                "B": "It will not improve the marine reserves along Australia's coast.",
+                "C": "The government has not consulted them in drawing up the proposal.",
+                "D": "It is not based on sufficient investigations into the ecological system."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What does marine geologist Robin Beaman say about the Coral Sea plan?",
+              "options": {
+                "A": "It can compare with the British government's effort in the Indian Ocean.",
+                "B": "It will result in the establishment of the world's largest marine reserve.",
+                "C": "It will ensure the sustainability of the fishing industry around the coast.",
+                "D": "It is a tremendous joint effort to protect the range of marine habitats."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What do critics think of the Coral Sea plan?",
+              "options": {
+                "A": "It will do more harm than good to the environment.",
+                "B": "It will adversely affect Australia's fishing industry.",
+                "C": "It will protect regions that actually require little protection.",
+                "D": "It will win little support from environmental organisations."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part , you are allowed 30 minutes to translate a passage from Chinese into \nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

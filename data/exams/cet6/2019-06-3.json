@@ -48,61 +48,151 @@
           "id": "q26",
           "number": 26,
           "answer": "A",
-          "explanation": "】空格词词性分两种情况：L当\"Most forms of steel\"结构为主语时（即，steel 为of介词结构后的核心名词），句子主干成分完整Most forms of steel ( 主语）become (系动 词）brittle ( 表语），空格词为副词；2. 当\"Most forms of steel_\"为主语时，steel 为修饰成 分，空格词为of介词结构后的核心名词。 【答案解析】由前文论述主体Steel及＠句论述主体a novel type of steel 可推知，空格 句主语应为Most forms of steel 而非Most forms of steel_, 因而空格词只能为副词。＠句指 出钢具有良好的可靠性，但在低温下例外。＠句below about -25°C明确when it gets cold 具 体数值，become brittle呼应but not (valued for its reliability) , 可见-25°C为钢可靠性能的临 界点（高千-25°C可靠性高；低千-25°C可靠性低），空格词应体现钢的可靠性能在这一临界 点的突变，A)正确。D)ardently\"热烈地”符合词性要求，但一般只用千描述人的主观情感 态度，而不用千描述事物属性的客观变化。"
+          "explanation": "】空格词词性分两种情况：L 当\"Most forms of steel\"结构为主语时（即，steel 为 of 介词结构后的核心名词），句子主干成分完整 Most forms of steel ( 主语）become (系动词）brittle ( 表语），空格词为副词；2. 当\"Most forms of steel_\"为主语时，steel 为修饰成分，空格词为 of 介词结构后的核心名词。 【答案解析】由前文论述主体 Steel 及＠句论述主体 a novel type of steel 可推知，空格句主语应为 Most forms of steel 而非 Most forms of steel_, 因而空格词只能为副词。＠句指出钢具有良好的可靠性，但在低温下例外。＠句 below about -25°C 明确 when it gets cold 具体数值，become brittle 呼应 but not (valued for its reliability), 可见-25°C 为钢可靠性能的临界点（高千-25°C 可靠性高；低千-25°C 可靠性低），空格词应体现钢的可靠性能在这一临界点的突变，A)正确。D)ardently\"热烈地”符合词性要求，但一般只用千描述人的主观情感态度，而不用千描述事物属性的客观变化。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "【答案】A) abruptly 【语法分析】空格词词性分两种情况：L 当\"Most forms of steel\"结构为主语时（即，steel 为 of 介词结构后的核心名词），句子主干成分完整 Most forms of steel ( 主语）become (系动词）brittle ( 表语），空格词为副词；2. 当\"Most forms of steel_\"为主语时，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "27. 【答案】J) fractures",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "27. 【答案】J) fractures",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q28",
           "number": 28,
           "answer": "B",
-          "explanation": "】空27所在that定语从旬中缺少宾语，空格词应为名词。空28位千固定表 达the need for (doing) sth 后，且空格前为形容词expensive,空格词应为名词。 【答案解析】＠旬介绍当下钢的缺陷：低温条件下可靠性低，需与其他金属结合才可保 - 2 - 持强度和韧性。＠句指出新型钢的特色：在保持强度、韧性的同时，还能在更低温条件下抵 抗＿，且无需昂贵的 。借由两句间though所形成的语义对照功能不难推断，新型钢 能有效解决当下钢 “低温下易变脆、易断裂 ”、需其他金属添加材料才可改善低温脆性（但 价格因 此上升） ＂的缺陷，空27应照应become brittle, 表“ 脆性／破损／断裂等II ' J)正确；空 28应照应mixedwith other metals, 表“金属等混合／添加物质', B)正确。H) components亦 有“成分”之意，对空28有一定干扰。但component指某一物体中本身含有的成分、组件， 与空格词要表达的\"(来自外部的）添加成分“不符，可排除。"
+          "explanation": "】空 27 所在 that 定语从旬中缺少宾语，空格词应为名词。空 28 位千固定表达 the need for (doing) sth 后，且空格前为形容词 expensive, 空格词应为名词。 【答案解析】＠旬介绍当下钢的缺陷：低温条件下可靠性低，需与其他金属结合才可保 - 2 - 持强度和韧性。＠句指出新型钢的特色：在保持强度、韧性的同时，还能在更低温条件下抵抗＿，且无需昂贵的。借由两句间 though 所形成的语义对照功能不难推断，新型钢能有效解决当下钢 “低温下易变脆、易断裂 ”、需其他金属添加材料才可改善低温脆性（但价格因此上升） ＂的缺陷，空 27 应照应 become brittle, 表“ 脆性／破损／断裂等 II ' J)正确；空 28 应照应 mixedwith other metals, 表“金属等混合／添加物质', B)正确。H) components 亦有“成分”之意，对空 28 有一定干扰。但 component 指某一物体中本身含有的成分、组件， 与空格词要表达的\"(来自外部的）添加成分“不符，可排除。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "【答案】B) additives 【语法分析】空 27 所在 that 定语从旬中缺少宾语，空格词应为名词。空 28 位千固定表达 the need for (doing) sth 后，且空格前为形容词 expensive, 空格词应为名词。 【答案解析】＠旬介绍当下钢的缺陷：低温条件下可靠性低，需与其他金属结合才可保 - 2 - 持强度和韧性。＠句指出新型钢的特色：在保持强度、韧",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "】空格位千 provide sth for sb/sth 结构中，且空格后已有核心名词 British (British 作形容词一般置千名词前），空格词应为 British 的修饰成分，可能是名词、形容词、 ing 分词、ed 分词。 【答案解析】第二段句句追溯历史”钢的低温脆性在二战期间首次成为重大关切\"o®句详述历史事件：德国 U 型潜艇用鱼类击毁英国无数船只一英国建造 “自由轮 ” 舰队以挽救＿英国人的生命。由此可知，空格词应契合”二战期间英德海战，英国舰队被德国鱼雷击沉，英军死伤无数”的语境，表示”（在战斗中）受困／受袭／受伤等之意，备选项中只有 E) 符合文意。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "29. 【答案】E) besieged 【语法分析】空格位千 provide sth for sb/sth 结构中，且空格后已有核心名词 British (British 作形容词一般置千名词前），空格词应为 British 的修饰成分，可能是名词、形容词、 ing 分词、ed 分词。 【答案解析】第二段句句追溯历史”钢的低温脆性在二战期间首次成为重大关切\"o®句详述历史事件：德国 U 型潜",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "】空格所在句主体结构为 the steel shells…_in the icy north Atlantic. . . and 12 broke. . . and sank, 可知空格词为 broke, sank 的并列谓语成分，应为 ed 分词（动词过去式）。 【答案解析】首先，由句首 But 可知空格句与前文\"2700 艘自由轮组成的舰队解救了被围困的英国海军 ” 形成转折，可能涉及”舰队救援工作出现变故／意外”等，结合空格前 the steel shells ofhundreds of the ships 可推测意外情况为 “船体破损 ”；其次，由空格后两个 and 的连接递进作用，可推知船体 ”一\"ǅ断成两截一沉入海底”的变化过程，空格词应表示船体破坏的起始阶段，程度轻于 broke in half, sank, I)符合文意。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "30. 【答案】I) cracked 【语法分析】空格所在句主体结构为 the steel shells…_in the icy north Atlantic. . . and 12 broke. . . and sank, 可知空格词为 broke, sank 的并列谓语成分，应为 ed 分词（动词过去式）。 【答案解析】首先，由句首 But 可知空格句与前文\"2700 艘自由轮组成的舰",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "】空格词词性分为两种情况：",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "31. 【答案】N) strived 【语法分析】空格词词性分为两种情况：",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q32",
           "number": 32,
           "answer": "C",
-          "explanation": "】空格前为定冠词a+形容词比较级more physical, 空格词应为可数名词单数。 【答案解析】空格句指出，YuujiKimura及同事尝试了一种更具物理性的 ；空格句 下文指出：他们未添加其他金属，而是研发出一套复杂的物理力学过程。由比较结构more physical及取舍结构Rather than ... 可知，此处对比的是“ 化学处理法（向钢中添加其他金 属）\"VS\"物理处理法”，空格词应与前文的“ 化学处理方法(solution)\"并列，并且是对处理 流程、原理等内容的综合概括，应表”方法／工艺I模式”等，C)正确。"
+          "explanation": "】空格前为定冠词 a+形容词比较级 more physical, 空格词应为可数名词单数。 【答案解析】空格句指出，YuujiKimura 及同事尝试了一种更具物理性的；空格句下文指出：他们未添加其他金属，而是研发出一套复杂的物理力学过程。由比较结构 more physical 及取舍结构 Rather than. . . 可知，此处对比的是“ 化学处理法（向钢中添加其他金属）\"VS\"物理处理法”，空格词应与前文的“ 化学处理方法(solution)\"并列，并且是对处理流程、原理等内容的综合概括，应表”方法／工艺 I 模式”等，C)正确。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "【答案】C) approach 【语法分析】空格前为定冠词 a+形容词比较级 more physical, 空格词应为可数名词单数。 【答案解析】空格句指出，YuujiKimura 及同事尝试了一种更具物理性的；空格句下文指出：他们未添加其他金属，而是研发出一套复杂的物理力学过程。由比较结构 more physical 及取舍结构 Rather than. . . 可知，此处",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "】空格所在定语从旬主体结构为：that 关系代词作主语+is + _ + to that 状语(that 为代词），空格词可能为名词、形容词（主系表结构）、ing 分词（进行时态）、ed 分词（被动语态）。 【答案解析】根据空格旬中所涉两种钢的特性(The resulting steel… “通过变形回火制成 - 3 - 的强度及韧性兼具的新型钢 modemsteels that …“合金含最丰富、造价高昂的现代钢＂）可知本段实际指向新研发出的钢（物理制成钢）与现存的当下钢（化学合成钢）的区别．呼应首段新旧对比信息”当下多数钢低温易脆，因添加其他金属而保持了强度和韧性，但价格提升 vs 新型钢无需添加其他金属也能保待强度和韧性”：在强度和韧性上相当，在成本上则更低廉。空格词应体现“（两种合金在性能上的）一致性／同等性“，固定表达 be comparable to\"比得上，与…．相当”符合文意。L)relevant 亦可形成 be relevant to 结构，对本空有一定干扰， 但其语义”与… …相关“用千描述事物间的联系，即一事物受另一事物影响并随其发生改变， 显然不符合本空所述两事物之间的对比情形，可排除。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "33. 【答案】G) comparable 【语法分析】空格所在定语从旬主体结构为：that 关系代词作主语+is + _ + to that 状语(that 为代词），空格词可能为名词、形容词（主系表结构）、ing 分词（进行时态）、ed 分词（被动语态）。 【答案解析】根据空格旬中所涉两种钢的特性(The resulting steel… “通过变形回火制成 - 3 - 的强",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "34. 【答案】H) components",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "34. 【答案】H) components",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "】空 34 位千 bothA andB 结构中，the number of_l4_ (needed in a construction job 分词结构作后置定语）应与 their weight 为并列成分，中心词空 34 应为名词。空 35 位千 replaceA with B 结构中，且空格后已有名词 tubes, 空格词应为其修饰成分，可能是名词、 形容词、ing 分词、ed 分词。 【答案解析】第六段以 intends to, hope to、-by 分别引出研究团队对新工艺的应用方向、 目的及方式，结合上下文可整理归纳出如下逻辑链：新工艺提高钢的强度及韧性，可用千制造高强度钢部件-通过一管取代实心载体以减少建筑工程中所需一的数最和重最（因钢强度提升，建筑达到同等承载要求所需的钢材减少）一减少钢材用量。由此可知立立 tubes 应与 solid supports 相对，传递出数量更少、重量更轻的语义，K)hollow 与 solid 相对，符合”重最更轻”要求；空 34 应表“零件／组件／施工材料”等，对应 parts, bolts, solid supports, tubes 等， H)正确。 Section B 【原文译文】 个人卫星技术的未来——我们准备好了吗？ [A]人造卫星曾经是富裕国家和有钱企业的专属玩物。但随着太空愈加大众化，人造卫星变得越来越为平常百姓所及。就像之前的无人机一样，微型人造卫星正在彻底改变我们对 “谁有机会参与我们头顶之事”的认知。 [B]正如美国国家科学院最近一份报告所强调的那样，在推动卫星科学更加容易获取方面，这些人造卫星拥有巨大潜力。然而，随着往轨道上发射专属人造卫星的成本急剧下降， 不负责任地使用卫星的风险也在增加。我们面临的问题已经不是“能做与否”而是”应做与否”。 如果某个空间大量充斥着传统上未被称为“专业人士”的人们所制造的卫星设备，会有什么潜在后果呢？对卫星技术负责任且有利的开发和使用到底是什么样的？一个制造和发射业余人造卫星近五十年之久的非营利组织或许能够提供一些解答。 [C]将个人专属卫星发射到卫星轨道上听起来像是直接从科幻小说里搬出来的桥段。但在过去几十年",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "35. 【答案】K) hollow 【语法分析】空 34 位千 bothA andB 结构中，the number of_l4_ (needed in a construction job 分词结构作后置定语）应与 their weight 为并列成分，中心词空 34 应为名词。空 35 位千 replaceA with B 结构中，且空格后已有名词 tubes, 空格词应为其修饰成分，可能是名词、",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -116,71 +206,161 @@
           "id": "q36",
           "number": 36,
           "stem": "Given the easier accessibility to space, it is time to think about how to prevent misuse of\nsatellites.",
-          "answer": null,
-          "explanation": ""
+          "answer": "I",
+          "explanation": "[I]段＠句发出提醒：如今立方星非带容易获取，很难保证卫星不被坏人利用， 是时候思考立方星的后果了，也即需要思考如何防止卫星被坏人利用。本题是对该两句的概括，其中 how to prevent misuse of satellites 同义转述＠句 how can we trust…0",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "36. 【译文】鉴千向太空发射人造卫星变得更加容易，是时候思考如何避免卫星滥用的问题了。 【答案】[I] 【解析】[I]段＠句发出提醒：如今立方星非带容易获取，很难保证卫星不被坏人利用， 是时候思考立方星的后果了，也即需要思考如何防止卫星被坏人利用。本题是对该两句的概括，其中 how to prevent misuse of satellites 同义转述＠句 how can we trust…0",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "A group of mini-satellites can work together to accomplish more complex tasks.",
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "[CJ 段引出立方星这种迷你卫星(mini-satellites), ® 句指出多个迷你卫星可协同作业完成复杂任务。本题是对＠句大意的同义改写。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "37. 【译文】一组迷你卫星协同合作能够完成更加复杂的任务。 【答案】[C] 【解析】[CJ 段引出立方星这种迷你卫星(mini-satellites), ® 句指出多个迷你卫星可协同作业完成复杂任务。本题是对＠句大意的同义改写。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "The greater accessibility of mini-satellites increases the risks of their irresponsible use.",
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "[BJ 段＠句指出，如今发射个人专属卫星的成本大幅降低，意味着卫星越来越容易获取，这增加了不负责任地滥用卫星的风险。本题是对该两句的概括，其中 greater 对应表示变化的动词 drops. 均表明卫星日益普及的趋势。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "38. 【译文】迷你卫星更加容易获取增加了不负责任使用卫星的风险。 【答案】[B] 【解析】[BJ 段＠句指出，如今发射个人专属卫星的成本大幅降低，意味着卫星越来越容易获取，这增加了不负责任地滥用卫星的风险。本题是对该两句的概括，其中 greater 对应表示变化的动词 drops. 均表明卫星日益普及的趋势。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "Even school pupils can have their CubeSats put in orbit owing to the lowered launching\ncost.",
-          "answer": null,
-          "explanation": ""
+          "answer": "E",
+          "explanation": "[E]段＠＠句介绍立方星发射成本大幅降低，＠句进而指出发射成本低使得包括小学生在内的更多人都能发射专属卫星。本题是对＠句内容的同义改写。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "39. 【译文】由千发射成本降低，甚至小学生都能将他们的立方星送入轨道。 【答案】[E] 【解析】[E]段＠＠句介绍立方星发射成本大幅降低，＠句进而指出发射成本低使得包括小学生在内的更多人都能发射专属卫星。本题是对＠句内容的同义改写。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "AMSAT is careful about sharing information with outsiders to prevent hijacking of their\nsatellites.",
-          "answer": null,
-          "explanation": ""
+          "answer": "K",
+          "explanation": "[K]段＠句指出 AMSAT 不轻易对外人分享资源，以防卫星被劫持。本题是对该句的同义改写，其中 is careful about 同义替换 are… cautious about; to prevent. . 同义替换 guards against…\"",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "40. 【译文】AMSAT 在与外人分享信息方面非常谨慎，以防他们的卫星被人劫持。 【答案】[K] 【解析】[K]段＠句指出 AMSAT 不轻易对外人分享资源，以防卫星被劫持。本题是对该句的同义改写，其中 is careful about 同义替换 are… cautious about; to prevent. . 同义替换 guards against…\"",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q41",
           "number": 41,
           "stem": "NASA offers to launch CubeSats free of charge for educational and research purposes.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "[F]段＠旬指出 NASA 为教育和科研团队免费提供卫星发射服务。本题是对该句的同义改写。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "41. 【译文】NASA 为教育和研究目的免费提供发射立方星的服务。 【答案】[F] 【解析】[F]段＠旬指出 NASA 为教育和科研团队免费提供卫星发射服务。本题是对该句的同义改写。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "Even with constraints, it is possible for some creative developers to take the CubeSat\ntechnology in directions that result in harmful outcomes.",
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "[L]段＠句指出新加入的业余卫星爱好者的确受到一些限制，＠句转而继续指出一些人在利用技术方面创意无穷，很可能会将卫星用千不良目的。本题是对两句内容的总结概括。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "42. 【译文】即便有限制，一些创新的研发者仍然有可能将立方星用于导致不良结果的方向上。 【答案】[L] 【解析】[L]段＠句指出新加入的业余卫星爱好者的确受到一些限制，＠句转而继续指出一些人在利用技术方面创意无穷，很可能会将卫星用千不良目的。本题是对两句内容的总结概括。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "While making significant contributions to space science, CubeSats may pose hazards to\nother space vehicles.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "[G]段也旬肯定立方星对科学研究至关重要，＠＠句指出其并非没有风险 ”太空残骸增多，如果撞上太空中运行的设备将造成严重后果 ”。本题是对该段大意的概括总结。",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "43. 【译文】立方星尽管为太空科学做出巨大贡献，但也可能给其他太空装置带来危害。 【答案】[G] 【解析】[G]段也旬肯定立方星对科学研究至关重要，＠＠句指出其并非没有风险 ”太空残骸增多，如果撞上太空中运行的设备将造成严重后果 ”。本题是对该段大意的概括总结。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "Mini-satellites enable operators to study Earth from LEO and space around it.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "[D]段也旬介绍立方星（迷你卫星）的用途 “研究地球及其周围空间\", ®旬介绍其运行轨道要在近地轨道(LEO)运行“．本题是对句句的同义概括，LEO 是对旬中 space 的具化。 - 6 -",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "44. 【译文】迷你卫星使操作者能够从近地轨道研究地球及其周围空间。 【答案】[D] 【解析】[D]段也旬介绍立方星（迷你卫星）的用途 “研究地球及其周围空间\", ®旬介绍其运行轨道要在近地轨道(LEO)运行“．本题是对句句的同义概括，LEO 是对旬中 space 的具化。 - 6 -",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "AMSAT operates on the principle of having all its technical data accessible to its\nmembers, preventing the abuse of amateur satellites.",
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "[J]段＠句介绍 AMSAT 的原则／理念(a philosophy) \"所有技术数据全部内部开源共享，人人都能获取卫星设计和操控数据\"' CT)句指出其好处 “避免卫星为不法分子所利用 ”。本题是对两句内容的概括总结。 Section C 【原文译文】 Passage One 淡漠人际关系有助提升工作效率及个人自尊做了十年孤独的自由职业者之后，前几年我又重回全职职场，当时我最期待的一件事是： 又有与同事为友的机会了。而当我真正踏入职场时，我才意识到，与同事为友根本不算头等大事，至少对我来说是如此。鉴千学者、培训师、管理者都普遍强调工作中培养亲密人际关系的血要性，这很让人奇怪。如此多研究探讨了同事关系如何帮助解决职场中一系列影响工作效率及工作质量的问题，诸如基千团队合作中的冲突、嫉妒、使坏、怒火及其他。 我对午餐、办公室八卦以及充满关怀、深入而又有意义的交谈的期待也许是上份工作办公环境的后遗症。然而现在，随着年岁渐近 40, 我突然意识到，无需与旁座同事为友，工作也能全面开展、成就满满。 在新近发表在备受尊崇的《管理学报》上的一篇学术分析中，研究人员仔细研究了“淡漠关系这个概念。这是一个简单的术语，概括了这么一个事实：职场关系按理说可以不亲密、微不足道、不直要，甚至，说句不中听的，可以用完即扔或可任意取代。 淡漠关系既非正面也非负面。截至目前所开展的有限研究表明，淡漠关系在那些瓜独立甚于合作、重和谐甚于冲突的人群中占主导。淡漠也是那些社交懒人的首选。长期维待关系要付出努力。对我们当中一些人来说，要付出太多努力。 如前所述，在解决工作中一些突发事件时，淡漠关系可能并不总是最有效办法。但它仍有若干实证好处。其中之一是效率。更少时间闲聊、社交，意味着更多时间工作、产出。 另外一个好处在自尊。在当下这样一个催生焦虑的大环境下，身而为人的我们时刻准备着将自己与他人比较。相较朋友，我们貌似更瞧不起泛泛之交。由于泛泛之交在那些有淡漠关系倾向的人群中很常见，他们的主导地位能增强个人自我价值感。 除自尊以外，第三个好处是，人们发现淡漠关系的情感中立能提升批判性评价能",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+            "sourceText": "45. 【译文】AMSAT 的运营原则是，使所有成员都能获取所有技术数据，以避免业余卫星的滥用。 【答案】[J] 【解析】[J]段＠句介绍 AMSAT 的原则／理念(a philosophy) \"所有技术数据全部内部开源共享，人人都能获取卫星设计和操控数据\"' CT)句指出其好处 “避免卫星为不法分子所利用 ”。本题是对两句内容的概括总结。 Section C 【原文译文】 Passage One 淡漠人际关系有助提升工作效率及个人自尊做了十年孤独的自由职业者之",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },
@@ -204,7 +384,16 @@
                 "D": "Building close relationships with his colleagues was not as important as he had expected."
               },
               "answer": "D",
-              "explanation": "A) 将原文作者感悟：与同事交朋友并非那么重要(not... a priority at all)窜 改为并非那么容易(not... easy)。B)利用首旬\"10年自由职业孤单，重回职场之际最期待 又能与同事为友”捏造出“积极人际关系能消除孤独感”，但文中并未提及积极人际关系对孤 独感的作用。C) 由＠＠旬“职场中亲密人际关系的單要性”捏造出“职场工作比自由职业更需 要人际交往能力“，但文中并未提及这两种工作对人际交往能力的要求。文首两句对比作者 重回职场前后的心理感受：最期待与同事为友vs 与同事为友根本算不上头等大事。可见， 作者單回职场前以为与同事为友是头等大事，而單回职场后发现这根本算不上头等大事，故 - 7 - D)正确。"
+              "explanation": "A) 将原文作者感悟：与同事交朋友并非那么重要(not. . . a priority at all)窜改为并非那么容易(not. . . easy)。B)利用首旬\"10 年自由职业孤单，重回职场之际最期待又能与同事为友”捏造出“积极人际关系能消除孤独感”，但文中并未提及积极人际关系对孤独感的作用。C) 由＠＠旬“职场中亲密人际关系的單要性”捏造出“职场工作比自由职业更需要人际交往能力“，但文中并未提及这两种工作对人际交往能力的要求。文首两句对比作者重回职场前后的心理感受：最期待与同事为友 vs 与同事为友根本算不上头等大事。可见， 作者單回职场前以为与同事为友是头等大事，而單回职场后发现这根本算不上头等大事，故 - 7 - D)正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+                "sourceText": "【答案】D 【定位】本题考查作者重回职场的感悟，由 re-enteredthe corporate world 定位至首段 CD® 旬(When I re-entered the full-time workforce…It wasn't until I enter the corporate world that…) 【解析】A) 将原文作者感悟：与同事交朋友并非那么重",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q47",
@@ -217,7 +406,16 @@
                 "D": "Conflicting relationships in the workplace exist almost everywhere."
               },
               "answer": "A",
-              "explanation": "由首段＠句“培训师、管理者都强调亲密的同事关系的重要性“推导而来，但这 是管理现状，并非研究所涉内容。D) 根据段末句尾such as team-based conflict, jealousy, undermining, anger, and more所展现出的“职场中问题多多捏造出“职场中冲突无处不在“，但 文中无据可依。该句指出，许多研究探索了＂（亲密）同事关系如何帮助克服职场中一系列 影响工作效率和工作质最的问题的方式“，由此可见，密切／和谐的同事关系会对工作效率和 质量有积极影响，而疏远／不和谐的同事关系会对工作效率和质最有消极影响。故A)正确， 同时排除C)。"
+              "explanation": "由首段＠句“培训师、管理者都强调亲密的同事关系的重要性“推导而来，但这是管理现状，并非研究所涉内容。D) 根据段末句尾 such as team-based conflict, jealousy, undermining, anger, and more 所展现出的“职场中问题多多捏造出“职场中冲突无处不在“，但文中无据可依。该句指出，许多研究探索了＂（亲密）同事关系如何帮助克服职场中一系列影响工作效率和工作质最的问题的方式“，由此可见，密切／和谐的同事关系会对工作效率和质量有积极影响，而疏远／不和谐的同事关系会对工作效率和质最有消极影响。故 A)正确， 同时排除 C)。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+                "sourceText": "【答案】A 【定位】本题考查有关同事关系的研究，由 studies about collegial relationships 定位至首段末句(research. . . collegial ties…) 【解析】由首段＠句“培训师、管理者都强调亲密的同事关系的重要性“推导而来，但这是管理现状，并非研究所涉内容。D) 根据段末句尾 such as team-based c",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q48",
@@ -230,7 +428,16 @@
                 "D": "They should be reasonably intimate."
               },
               "answer": "B",
-              "explanation": "中对职场关系的相关信息，由relationships at work、an academic analysis 可定位至第三段(In an academic analysis ... relationships at work. ..) 【解析】A)、C)均流露出“职场关系重要＇之意，与学术分析所示信息相悖；D)将can reasonably be non-intimate\"可以合理地不亲密（不亲密也合理） ＂窜改为should be reasonably intimate\"应该适当亲密11(附注：文中reasonably用以说明can be…，选项中reasonably用以说 明intimate, 有语义差别）。段中首先引出学术分析中探讨的概念：淡漠关系；随后对它进行 具体介绍：这一术语简单，却囊括这样一个事实 职场关系可以不亲密、微不足道、不瓜 要、甚至可以用完即扔或可任意取代。由此可推知，职场关系几乎无关紧要，故B)正确。"
+              "explanation": "中对职场关系的相关信息，由 relationships at work、an academic analysis 可定位至第三段(In an academic analysis. . . relationships at work. . . ) 【解析】A)、C)均流露出“职场关系重要＇之意，与学术分析所示信息相悖；D)将 can reasonably be non-intimate\"可以合理地不亲密（不亲密也合理） ＂窜改为 should be reasonably intimate\"应该适当亲密 11(附注：文中 reasonably 用以说明 can be…，选项中 reasonably 用以说明 intimate, 有语义差别）。段中首先引出学术分析中探讨的概念：淡漠关系；随后对它进行具体介绍：这一术语简单，却囊括这样一个事实职场关系可以不亲密、微不足道、不瓜要、甚至可以用完即扔或可任意取代。由此可推知，职场关系几乎无关紧要，故 B)正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+                "sourceText": "【答案】B 【定位】本题考查学术分析中对职场关系的相关信息，由 relationships at work、an academic analysis 可定位至第三段(In an academic analysis. . . relationships at work. . . ) 【解析】A)、C)均流露出“职场关系重要＇之意，与学术分析所示信息相悖；D)将 can reas",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q49",
@@ -243,7 +450,16 @@
                 "D": "They lack basic communication skills in dealing with interpersonal issues."
               },
               "answer": "C",
-              "explanation": "A)、B)均根据＠句(value) harmony over confrontation\"重和谐甚于冲突＇分 别捏造出“人际交往不适（因为害怕冲突所以重视和谐） ＂、＂常与人发生冲突（为了避免冲 突而选择和谐）\", D)则根据＠句value independence over cooperation \"瓜独立甚千合作“捏 造出“缺乏基本沟通技巧（因为不会沟通而选择独立）\" , 但文中这两个valueA over B结构 均非说明社交陨人，而是与之并行的另一群体：重独立甚于合作、重和谐甚于冲突的人群。 第四段＠句指出，淡漠（关系）是社交懒人首选；随后＠＠句补充说明原因：长期维待关系 需要付出（太多）势力。可见，对于社交懒人而言，他们不愿意努力维持职场关系，他们选 择淡漠职场关系，认为职场关系并不重要（不影响工作效率及质量），故C)正确。"
+              "explanation": "A)、B)均根据＠句(value) harmony over confrontation\"重和谐甚于冲突＇分别捏造出“人际交往不适（因为害怕冲突所以重视和谐） ＂、＂常与人发生冲突（为了避免冲突而选择和谐）\", D)则根据＠句 value independence over cooperation \"瓜独立甚千合作“捏造出“缺乏基本沟通技巧（因为不会沟通而选择独立）\", 但文中这两个 valueA over B 结构均非说明社交陨人，而是与之并行的另一群体：重独立甚于合作、重和谐甚于冲突的人群。 第四段＠句指出，淡漠（关系）是社交懒人首选；随后＠＠句补充说明原因：长期维待关系需要付出（太多）势力。可见，对于社交懒人而言，他们不愿意努力维持职场关系，他们选择淡漠职场关系，认为职场关系并不重要（不影响工作效率及质量），故 C)正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+                "sourceText": "【答案】C 【定位】本题考查作者对社交懒人的评价，由 socially lazy 定位至第四段＠句。 【解析】A)、B)均根据＠句(value) harmony over confrontation\"重和谐甚于冲突＇分别捏造出“人际交往不适（因为害怕冲突所以重视和谐） ＂、＂常与人发生冲突（为了避免冲突而选择和谐）\", D)则根据＠句 value independen",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q50",
@@ -256,7 +472,16 @@
                 "D": "They improve Work efficiency."
               },
               "answer": "D",
-              "explanation": "A) 中fun来自文末句，但这里指”淡漠关系（带来的益处）不如下班后社交有 趣”，而非”淡漠关系为工作提供乐趣'。B) 由indifferent的常规联想（冷静克制）和末段 emotional neutrality (情感中立）杂鞣捏造出“控制情绪“，原文并无根据。C)将第五段首 旬“解决工作问题(resolving... issues ... at work ) \"篡改为“解决分歧(resolve differences) \"。 第五段末两旬指出好处之一：效率 花在闲聊、社交上的时间更少意味着有更好的时间来 工作及产出，意即，淡漠关系能够提升工作效率，故D)正确。 【原文译文】 Passage Two 人类必须利用自身创造力应对AI挑战，与其形成互补 几十年后，人工智能将在众多我们认为使我们与众不同的能力上超越我们。这是我们时 - 8 - 代的一个巨大挑战，可能需要我们做出“非理性”的回应。 2017 年初美国一则凰大新闻是有关谷歌为实现自动驾驶所作的种种努力。根据一项报 告，谷歌的无人驾驶汽车已跑了1023330公里，期间所需的人为干预操作为124次。也就 是每自动驾驶8047公里才有一次人为干预。但更令人叹服的是它在仅仅一年时间里所取得 的进步：人为干预从每千英里0. 8次下降至0.2次，改进了400%。照这样的发展速度，谷 歌汽车（的驾驶能力）到年底就轻松超越我的驾驶能力了。 曾几何时，驾驶似乎是一项人类专属技能。我们以前也如此谈论过国际象棋。而后计算 机屡次击败了国际象棋世界冠军。2016年，围棋接替国际象棋再次对人类的思维能力进行 考验，结果计算机完胜世界一流的职业围棋棋手。随着计算机不断攻克那些曾经专属千人类 的任务，未来我们身为人类的意义何在？我担心我那六岁的儿子。随着机器接二连三地在各 个领域打败我们，他在未来世界的位置会是怎样的？他永远不会比机器计算得更快、不会把 车开得更好，甚至无法做到更加安全地飞行。事实上，这一切归根结底是一个相当简单的问 题：我们的特别之处是什么？它不可能是算术那类技能，因为机器已经很擅长了。到目前为 止，机器还很难模仿人的创"
+              "explanation": "A) 中 fun 来自文末句，但这里指”淡漠关系（带来的益处）不如下班后社交有趣”，而非”淡漠关系为工作提供乐趣'。B) 由 indifferent 的常规联想（冷静克制）和末段 emotional neutrality (情感中立）杂鞣捏造出“控制情绪“，原文并无根据。C)将第五段首旬“解决工作问题(resolving. . . issues. . . at work ) \"篡改为“解决分歧(resolve differences) \"。 第五段末两旬指出好处之一：效率花在闲聊、社交上的时间更少意味着有更好的时间来工作及产出，意即，淡漠关系能够提升工作效率，故 D)正确。 【原文译文】 Passage Two 人类必须利用自身创造力应对 AI 挑战，与其形成互补几十年后，人工智能将在众多我们认为使我们与众不同的能力上超越我们。这是我们时 - 8 - 代的一个巨大挑战，可能需要我们做出“非理性”的回应。 2017 年初美国一则凰大新闻是有关谷歌为实现自动驾驶所作的种种努力。根据一项报告，谷歌的无人驾驶汽车已跑了 1023330 公里，期间所需的人为干预操作为 124 次。也就是每自动驾驶 8047 公里才有一次人为干预。但更令人叹服的是它在仅仅一年时间里所取得的进步：人为干预从每千英里 0. 8 次下降至 0.2 次，改进了 400%。照这样的发展速度，谷歌汽车（的驾驶能力）到年底就轻松超越我的驾驶能力了。 曾几何时，驾驶似乎是一项人类专属技能。我们以前也如此谈论过国际象棋。而后计算机屡次击败了国际象棋世界冠军。2016 年，围棋接替国际象棋再次对人类的思维能力进行考验，结果计算机完胜世界一流的职业围棋棋手。随着计算机不断攻克那些曾经专属千人类的任务，未来我们身为人类的意义何在？我担心我那六岁的儿子。随着机器接二连三地在各个领域打败我们，他在未来世界的位置会是怎样的？他永远不会比机器计算得更快、不会把车开得更好，甚至无法做到更加安全地飞行。事实上，这一切归根结底是一个相当简单的问题：我们的特别之处是什么？它不可能是算术那类技能，因为机器已经很擅长了。到目前为止，机器还很难模仿人的创",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+                "sourceText": "【答案】D 【定位】本题考查淡漠关系的好处，由 benefits of indifferent relationships 定位至第五、 六、七段。 【解析】A) 中 fun 来自文末句，但这里指”淡漠关系（带来的益处）不如下班后社交有趣”，而非”淡漠关系为工作提供乐趣'。B) 由 indifferent 的常规联想（冷静克制）和末段 emotional neutrality",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -275,7 +500,16 @@
                 "D": "Many human skills are fast becoming outdated."
               },
               "answer": "B",
-              "explanation": "A、D均从定位信息过度推断而来，前者与第三段段末信息\"AI尚不能仿效人 类的创造力”相悖，后者Many ... outdated过于绝对，文中并无信息支撑。C看似符合第四 段首句对AI的预测继续改进信息处理机器将为我们带来具备理性( rational) 的好帮手\"' 但首先“好帮手\"-:/:\"更理性“，其次该内容立足“正面”，并非作者担忧之事。第一段句句介绍 趋势：人工智能将在许多我们自以为独特的能力方面超越我们。＠句评论：这是我们当今时 代的一大挑战。由此可知，作者担忧AI的应用将导致很多能力不再为人类所独有，B正确。"
+              "explanation": "A、D 均从定位信息过度推断而来，前者与第三段段末信息\"AI 尚不能仿效人类的创造力”相悖，后者 Many. . . outdated 过于绝对，文中并无信息支撑。C 看似符合第四段首句对 AI 的预测继续改进信息处理机器将为我们带来具备理性( rational) 的好帮手\"' 但首先“好帮手\"-:/:\"更理性“，其次该内容立足“正面”，并非作者担忧之事。第一段句句介绍趋势：人工智能将在许多我们自以为独特的能力方面超越我们。＠句评论：这是我们当今时代的一大挑战。由此可知，作者担忧 AI 的应用将导致很多能力不再为人类所独有，B 正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+                "sourceText": "【答案】B 【定位】本题考查作者对 AI 应用的担忧，根据题千关键词 greatest concern 和 AI 定位至第一段(AI. . . grand challenge)。 【解析】A、D 均从定位信息过度推断而来，前者与第三段段末信息\"AI 尚不能仿效人类的创造力”相悖，后者 Many. . . outdated 过于绝对，文中并无信息支撑。C 看似符合第四段首句对 AI 的预测继续",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q52",
@@ -288,7 +522,16 @@
                 "D": "Google has become a world leader in the field of autonomous driving."
               },
               "answer": "C",
-              "explanation": ")A源千第二段中＠＠旬信息，但\"AI程度高＇并非题干所问的\" impresses the author the most\", 其次little intervention有些绝对：少＃几乎无需。B将＠旬“未来预测(will easily surpass) \"歪曲为“当前事实“。D由也旬谷歌驾驶技术”引发高度关注“过度推断出“领先全世 界”。本段介绍了AI领域重大应用之一”谷歌自动驾驶汽车\"\" CD旬首先指出谷歌在自动驾 驶方面的势力引发关注。＠＠旬具体介绍其成就：自动驾驶汽车仅需要极少的人为干预操作。 ＠旬进而引出更令人叹服的内容：仅一年内自动化程度就提高400%。综上可知，最令作者 - 9 - 印象深刻的当属谷歌自动驾驶技术”在短时间内取得的巨大进步\", C正确。"
+              "explanation": ")A 源千第二段中＠＠旬信息，但\"AI 程度高＇并非题干所问的\" impresses the author the most\", 其次 little intervention 有些绝对：少＃几乎无需。B 将＠旬“未来预测(will easily surpass) \"歪曲为“当前事实“。D 由也旬谷歌驾驶技术”引发高度关注“过度推断出“领先全世界”。本段介绍了 AI 领域重大应用之一”谷歌自动驾驶汽车\"\" CD 旬首先指出谷歌在自动驾驶方面的势力引发关注。＠＠旬具体介绍其成就：自动驾驶汽车仅需要极少的人为干预操作。 ＠旬进而引出更令人叹服的内容：仅一年内自动化程度就提高 400%。综上可知，最令作者 - 9 - 印象深刻的当属谷歌自动驾驶技术”在短时间内取得的巨大进步\", C 正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+                "sourceText": "【答案】C 【定位】本题询问最令作者叹服的 AI 领域成就，可结合题干关键词 impress 与选项复现词 Google 定位至第二段( Google…impressive) 【解析)A 源千第二段中＠＠旬信息，但\"AI 程度高＇并非题干所问的\" impresses the author the most\", 其次 little intervention 有些绝对：少＃几乎无需。B 将",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q53",
@@ -301,7 +544,16 @@
                 "D": "It is yet to be emulated by AI."
               },
               "answer": "D",
-              "explanation": "A 与句中 creativity的修饰语arbitrary enough not to be predicted by a computer （主观任意性很强，机器没法习得规律）所含之意”创造力非理性、不合逻辑”相悖。C将文 中比较对象”人机对比 ——机器很难模仿“偷换为“人类与万物对比 ”并得出创造力为人类专 属的武断结论。该句指出， 目前为止，机器（即AO想模仿创造力还相当困难， 因为创造 力不是单纯的随机， 它具有很强的任意性，不是计算机所能够推知的。故D正确， 同时排 除B。"
+              "explanation": "A 与句中 creativity 的修饰语 arbitrary enough not to be predicted by a computer （主观任意性很强，机器没法习得规律）所含之意”创造力非理性、不合逻辑”相悖。C 将文中比较对象”人机对比 ——机器很难模仿“偷换为“人类与万物对比 ”并得出创造力为人类专属的武断结论。该句指出， 目前为止，机器（即 AO 想模仿创造力还相当困难， 因为创造力不是单纯的随机， 它具有很强的任意性，不是计算机所能够推知的。故 D 正确， 同时排除 B。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+                "sourceText": "【答案】D 【定位】本题考查创造力的事实细节，定位至第三段末句(…creativity. . . ) 【解析】A 与句中 creativity 的修饰语 arbitrary enough not to be predicted by a computer （主观任意性很强，机器没法习得规律）所含之意”创造力非理性、不合逻辑”相悖。C 将文中比较对象”人机对比 ——机器很难模",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q54",
@@ -314,7 +566,16 @@
                 "D": "Understand how AI works."
               },
               "answer": "A",
-              "explanation": "B从＠句 obedient servants腕断出“学生不成熟、不独立”，但”顺从“在文中对 应“打破常规、创新”。C与＠句“我们不应与机器（的理性）争斗”相悖。D将段中所述＇与 机器通力合作“误读为“必须掌握AI相关技能（以驾驳、协同）\"' 但”通力合作”是作者在摆 正人类态度”不应竞争／敌对， 而应加以利用”， 而非对学校的期许，事实上文中对当前教育 的不满并非忽视AI相关教育”， 而是对理性内容灌输过多， 忽略创新能力 ”。该句指出， 我们需要帮助孩子，让他们学会如何与智能计算机合作，改善人类决策。而回顾＠＠句可知， 人类需要借助创造力与机器的理性形成互补，我们需要鼓励创新精神。综上可知，学校应该 鼓励并帮助学觉培养创新思维，A正确。"
+              "explanation": "B 从＠句 obedient servants 腕断出“学生不成熟、不独立”，但”顺从“在文中对应“打破常规、创新”。C 与＠句“我们不应与机器（的理性）争斗”相悖。D 将段中所述＇与机器通力合作“误读为“必须掌握 AI 相关技能（以驾驳、协同）\"' 但”通力合作”是作者在摆正人类态度”不应竞争／敌对， 而应加以利用”， 而非对学校的期许，事实上文中对当前教育的不满并非忽视 AI 相关教育”， 而是对理性内容灌输过多， 忽略创新能力 ”。该句指出， 我们需要帮助孩子，让他们学会如何与智能计算机合作，改善人类决策。而回顾＠＠句可知， 人类需要借助创造力与机器的理性形成互补，我们需要鼓励创新精神。综上可知，学校应该鼓励并帮助学觉培养创新思维，A 正确。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+                "sourceText": "【答案】A 【定位】本题询问学校在 AI 时代应履行的教育义务，根据题干关键词 help children 定位至第四段＠旬(help our children)。 【解析】B 从＠句 obedient servants 腕断出“学生不成熟、不独立”，但”顺从“在文中对应“打破常规、创新”。C 与＠句“我们不应与机器（的理性）争斗”相悖。D 将段中所述＇与机器通力合作“误读为",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q55",
@@ -327,7 +588,16 @@
                 "D": "By providing value with our creativity. - 7 -"
               },
               "answer": "D",
-              "explanation": "A、B 干扰均源于＠句：A利用让步状语 ”计算机可能会变得比我们聪明“ 过度 推断出“我们需要在智力／理性上胜过计算机“，但这与＠句“我们应该与计算机的理性形成互 补， 而非与之竞争”相悖；B虽然复现“ 长远眼光”，但此处意在提振我们人类的士气： 长期 来看人类仍然可以做到比机器更具创造力； “ 眼光长远”并不能解决“人类在AI时代存续”的 问题。C源于段中“合作、互补”等信息，但文中并未提及“人类必须妥协”，其次“理性地”恰 恰是作者希望人类暂且放下的东西，创造力对应的实为“非理性／非逻辑”。本句指出，如果 我们做不到这点(we aren't) , 那么我们就不能在未来创造多少价值，从而动摇自身存在的 根基。回溯＠句可知，”这点”的具体内容即指 “具有创造力(be the most creative) 综上可 知，未来人类需要利用创造力创造价值，这样才能捍卫自身存在，D正确。 Part IV Translation (30 minutes) 【参考译文】 Chinese is now the language with the largest number of native speakers in the world. One important way in which Chinese differs from western languages is that, instead of letters, it uses characters. Chinese is the oldest script still in use. In China, people from different regions may find it difficult to understand each other's dialects, but they have little difficulty in communicating through written Chinese, because Chinese characters share a common written"
+              "explanation": "A、B 干扰均源于＠句：A 利用让步状语 ”计算机可能会变得比我们聪明“ 过度推断出“我们需要在智力／理性上胜过计算机“，但这与＠句“我们应该与计算机的理性形成互补， 而非与之竞争”相悖；B 虽然复现“ 长远眼光”，但此处意在提振我们人类的士气： 长期来看人类仍然可以做到比机器更具创造力； “ 眼光长远”并不能解决“人类在 AI 时代存续”的问题。C 源于段中“合作、互补”等信息，但文中并未提及“人类必须妥协”，其次“理性地”恰恰是作者希望人类暂且放下的东西，创造力对应的实为“非理性／非逻辑”。本句指出，如果我们做不到这点(we aren't), 那么我们就不能在未来创造多少价值，从而动摇自身存在的根基。回溯＠句可知，”这点”的具体内容即指 “具有创造力(be the most creative) 综上可知，未来人类需要利用创造力创造价值，这样才能捍卫自身存在，D 正确。 Part IV Translation (30 minutes) 【参考译文】 Chinese is now the language with the largest number of native speakers in the world. One important way in which Chinese differs from western languages is that, instead of letters, it uses characters. Chinese is the oldest script still in use. In China, people from different regions may find it difficult to understand each other's dialects, but they have little difficulty in communicating through written Chinese, because Chinese characters share a common written",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-06-3/key_2019年6月六级_第三套_答案解析.txt",
+                "sourceText": "【答案】D 【定位】本题询问 “人类如何为我们未来的存在正名(=要想不被机器淘汰，应该如何做）“， 根据题干关键词 ourfuture existence 定位至第四段末句。 【解析】A、B 干扰均源于＠句：A 利用让步状语 ”计算机可能会变得比我们聪明“ 过度推断出“我们需要在智力／理性上胜过计算机“，但这与＠句“我们应该与计算机的理性形成互补， 而非与之竞争”相悖",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

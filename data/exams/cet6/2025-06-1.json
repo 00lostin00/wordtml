@@ -1,0 +1,1049 @@
+{
+  "id": "cet6-2025-06-1",
+  "type": "cet6",
+  "year": 2025,
+  "month": 6,
+  "set": 1,
+  "title": "2025年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “As requirements for job applications are getting increasingly higher, college students ought to be better prepared for their future career.95 You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "stem": "",
+          "options": {
+            "A": "Met the computer technician.",
+            "B": "Told the man about her trouble.",
+            "C": "Called the man's company.",
+            "D": "Visited Alpha Maintenance."
+          },
+          "answer": "C",
+          "explanation": ";•蔚话并买:…勇王好女王说可能戛看又给植的公奇就百酎江正话:五王绪出了音荒面容：…舁说道;N 莪王蔺 1 二，也就是 10 天前，跟你们公司的一位女士说过。”由此可知，C 项与对话内容相符。 2 六级 2 0 2 5 .6 第一套",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06/key_2025.06六级解析全3套_带书签.txt",
+            "sourceText": "1. What did the woman do last Tuesday?女士上周二做了什么？ A）见到了电脑维修技术员。 C）给男士所在的公司打了电话。 B）向男士讲述了她的麻烦。 D）去了阿尔法维修公司。 解;•蔚话并买:…勇王好女王说可能戛看又给植的公奇就百酎江正话:五王绪出了音荒面容：…舁说道;N 莪王蔺 1 二，也就是 10 天前，跟你们公司的一位女士说过。”由此可知，C 项与对话内容相符。 2 六级 2 0 2 5 .6 第一套",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "stem": "",
+          "options": {
+            "A": "Consulted someone in charge.",
+            "B": "Came as soon as possible.",
+            "C": "Informed the central office at once.",
+            "D": "Designated an engineer to the case."
+          },
+          "answer": "B",
+          "explanation": "+ 对话中间， 女士责问男士他的公司为什么不能早点派人来， 男士回答说 “ 我只能说， 我是这周接到的电话， 接到后就尽快赶过来了。 ” 由此可知， B 项与对话内容相符。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "2 ． What does the man say he did when he got the call? 男士说他接到电话时做了什么？ A） 咨询了负责人 B） 尽快赶来了。 c） 立即通知了总部。 D） 指派了一名工程师处理这个情况。 解 + 对话中间， 女士责问男士他的公司为什么不能早点派人来， 男士回答说 “ 我只能说， 我是这周接到的电话， 接到后就尽快赶过来了。 ” 由此可知， B 项与对话内容相符。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "stem": "",
+          "options": {
+            "A": "Frustration.",
+            "B": "Intimidation.",
+            "C": "Desperation.",
+            "D": "Indignation."
+          },
+          "answer": "D",
+          "explanation": "肀对话中间， 女士说道： “ 不过， 你得知道， 你这么久才来， 我的经理非常不满。 我知道这可能不是你的错， 但你还是得了解一下我们这边的感受。 ” 由此可知， 在女士的工作场所， 大家对这个问题的态度是不满的、 气愤的， D 项与对话内容相符。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "． What is the feeling about the problem around the woman， s workplace? 在女士的工作场所， 大家对这个问题是什么感受？ A） 挫败 B） 威胁 c） 绝望。 D） 愤怒。 解肀对话中间， 女士说道： “ 不过， 你得知道， 你这么久才来， 我的经理非常不满。 我知道这可能不是你的错， 但你还是得了解一下我们这边的感受。 ” 由此可知， 在女士的工作场所， 大家对这个问题的态度是不满的、 气愤的， D 项与对话内容相符。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "stem": "",
+          "options": {
+            "A": "Whether the contents have been backed up.",
+            "B": "Whether they can find help somewhere else.",
+            "C": "Whether all data stored on the hard drive has got lost.",
+            "D": "Whether they need to wipe the system directories clean."
+          },
+          "answer": "A",
+          "explanation": "申对话最后， 男士问女士是否知道电脑里的东西有无备份， 女士一开始回答不知道， 后来在男士解释过为什么问有无备份后又补充道： “ 我的经理应该知道。 我去叫他来。 ” 由此可知， A 项与对话内容相符。 Conversation TWO",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "4 ． What does the woman say her manager would know? 女士说她的经理会知道什么？ A） 内容是否已经备份。 B） 他们是否可以在其他地方寻求帮助。 c） 硬盘上存储的所有数据是否已经丢失。 D） 他们是否需要清除系统目录。 解申对话最后， 男士问女士是否知道电脑里的东西有无备份， 女士一开始回答不知道， 后来在男士解释过为什么问有无备份后又补充道： “ 我的经理应该知道。 我去叫他来。 ” 由此可知， A 项与",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "stem": "",
+          "options": {
+            "A": "Ifs boring.",
+            "B": "It's challenging.",
+            "C": "Ifs a beautiful thing.",
+            "D": "It's unlike most jobs."
+          },
+          "answer": "A",
+          "explanation": "+ 对话开头， 女士向男士表明想多了解一下法律相关的专业和职业， 男士说自己觉得从事法律职业是很美好的， 但是接着指出 “ 很多人都会说这是个枯燥的领域 ”， 由此可知， A 项与对话内容相符。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "5 ． What will many people say about a career in law? 彳艮多人会怎样评价法律行业的工作？ A） 很枯燥。 B） 很有挑战性 C） 是一件美好的事情。 D） 与大多数工作不同。 解 + 对话开头， 女士向男士表明想多了解一下法律相关的专业和职业， 男士说自己觉得从事法律职业是很美好的， 但是接着指出 “ 很多人都会说这是个枯燥的领域 ”， 由此可知， A 项与对话内容相符。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "stem": "",
+          "options": {
+            "A": "Arbitrating between disagreeing solicitors.",
+            "B": "Preventing disputes from escalating.",
+            "C": "Buying and selling property.",
+            "D": "Mediating land disputes."
+          },
+          "answer": "D",
+          "explanation": "土地纠纷。 解 + 对话中间， 女士向男士确认他的法律工作的具体从事范畴， 男士肯定了女士的说法， 并补充道： “ 我的大部分工作是调解土地纠纷。 ” 由此可知， D 项与对话内容相符。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "6 ． What does the man say most of his work involves? 男士说他的大部分工作都包括什么？ A） 在意见不合的律师之间进行仲裁。 B） 防止纠纷升级。 C） 买卖房产。 D） 调解土地纠纷。 解 + 对话中间， 女士向男士确认他的法律工作的具体从事范畴， 男士肯定了女士的说法， 并补充道： “ 我的大部分工作是调解土地纠纷。 ” 由此可知， D 项与对话内容相符。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "stem": "",
+          "options": {
+            "A": "Courts are intended for fixing major legal disputes.",
+            "B": "Courts are getting too bureaucratic to function.",
+            "C": "Courts can be frustrating and expensive.",
+            "D": "Courts can be frightening and arbitrary."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q8",
+          "number": 8,
+          "stem": "",
+          "options": {
+            "A": "The ability to make arguments in a unique way.",
+            "B": "The skill of preventing conflicts between parties concerned.",
+            "C": "The skill of foreseeing any potential stakes in their work.",
+            "D": "The ability to express themselves clearly and forcefully. • 2025年6 月六级真题（第一套）・ Directions: In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+          },
+          "answer": "D",
+          "explanation": "+ 对话最后， 两人提到了人际交往能力， 男士表示任何法律专业人士都需要有能够非常清晰地表达自己观点的能力。 由此可知， D 项与对话内容相符。 Section@ Passage One",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "required Of any law professional? 男士认为任何法律专业人士都需要具备什么能力？ A） 以独特的方式提出论点的能力。 B） 防止相关各方之间发生冲突的技能。 C） 预见工作中任何潜在利害关系的技能 D） 清晰有力地表达自己的能力。 解 + 对话最后， 两人提到了人际交往能力， 男士表示任何法律专业人士都需要有能够非常清晰地表达自己观点的能力。 由此可知， D 项与对话内容相符。 Section@ Passage One",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q9",
+          "number": 9,
+          "stem": "",
+          "options": {
+            "A": "They looked into the relationship between one's prior knowledge and creativity.",
+            "B": "They offered novel ways to help older adults to keep their memories from aging.",
+            "C": "They proposed an explanation for old people's difficulty in retrieving memories.",
+            "D": "They advanced a new model concerning human information storage and retrieval."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q10",
+          "number": 10,
+          "stem": "",
+          "options": {
+            "A": "Young adults rely on memory while older adults keep notes as a reminder.",
+            "B": "Older adults often retrieve irrelevant memories along with what they want.",
+            "C": "Young adults accumulate knowledge much more quickly than older adults.",
+            "D": "Older adults generally perform cognitive tasks much slower than young adults."
+          },
+          "answer": "B",
+          "explanation": "+ 文章中间部分提到， 三位研究人员分析了多项行为学和脑成像研究， 这些研究表明， 老年人很难抑制不再相关的信息， 而且在搜索一段特定记忆时， 他们常常会同时检索出其他不相关的记忆。 选项 B 是对这部分内容的总结概括， 故为正确选项。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "10 ． What do several behavioral and brain imaging studies 曲 ow？ 多项行为学和脑成像研究表明了什么？ A) 年轻人依赖记忆， 而老年人则通过记笔记来提醒自己。 B) 老年人在提取目标记忆时， 常常会同时检索出不相关的记忆。 0 年轻人积累知识的速度比老年人快得多。 D) 老年人完成认知任务的速度通常比年轻人慢得多。 解 + 文章中间部分提到， 三位研究人员分析了多项行为学和脑成像研究， 这些研究表明， 老年人很难抑制不再相关的信息， 而且在搜索一段特定记忆时， 他们常常会同时检索出其他不相关的记忆",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "They show preserved, and sometimes enhanced, creativity.",
+            "B": "They frequently suffer from disorderly crowded memories.",
+            "C": "They can rely on their accumulated wisdom in an emergency.",
+            "D": "They may well be served by forgetting their prior knowledge."
+          },
+          "answer": "A",
+          "explanation": "+ 文章最后提到， 有证据表明， 老年人的创造力得以保持， 有时会增强， 这归功于他们丰富的记忆。 选项 A 是对这部分内容的同义转述， 选项中的 sometimes 是文中 at times 的同义转述， 故为正确选项。 选项 B 原文虽有提及， 但不是证据表明的情况； 选项 c 中 “ 在紧急情况下 ” 这一条件与原文不符， 选项 D 与原文表述相反， 故均排除。 Passage TWO",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "11. What does evidence suggest regarding older adults? 关于老年人， 证据表明了什么？ A) 他们的创造力得以保持， 有时会有所增强。 C) 在紧急情况下， 他们可以依靠积累的智慧。 B) 他们经常受困于无序、 “ 拥挤 ” 的记忆。 D) 忘记先验知识可能对他们有好处。 解 + 文章最后提到， 有证据表明， 老年人的创造力得以保持， 有时会增强， 这归功于他们丰富的记忆。 选项 A 是对这部分内容的同义转述， 选项中的 s",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "They are actually proud of the goods and services they produce.",
+            "B": "They are worried about being alienated from the outside world.",
+            "C": "They are rarely in control of many things related to their work.",
+            "D": "They are longing to share the profits made from their work."
+          },
+          "answer": "C",
+          "explanation": "到美国劳动者的什么情况？ A) 他们实际上为自己生产的产品和服务感到自豪。 B) 他们担心与外界脱节。 0 他们很少能掌控与工作相关的许多事情。 D) 他们渴望分享自己工作所创造的利润。 解肀文章在介绍美国工作存在的四个主要问题的第一个时提到， 劳动者往往无法掌控自己的工作方式、 工作时间、 自己生产的产品和服务的用途， 以及从工作中创造的利润去向。 选项 c 是对这句话的总结概括， 选项中的 rarely in control of 是文中 en not in control o 啲同义转述， 故 c 项正确。 文中未提及美国工人对自己处境的态度， 其他三项中的 “ 自豪 \" “ 担心 ” 和 “ 渴望 ” 都属于无中生有， 故 A、 B、 D 项均排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "12 ． What do we learn about American workers from the passage? 从文章中我们了解到美国劳动者的什么情况？ A) 他们实际上为自己生产的产品和服务感到自豪。 B) 他们担心与外界脱节。 0 他们很少能掌控与工作相关的许多事情。 D) 他们渴望分享自己工作所创造的利润。 解肀文章在介绍美国工作存在的四个主要问题的第一个时提到， 劳动者往往无法掌控自己的工作方式、 工作时间、 自己生产的产品和服务的用途， 以及从工作中创造的利润去向。 选项 c 是对这句话的总结概括， 选项中的 rarely in control of 是文中",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "The steady decrease in productivity.",
+            "B": "The adverse effect on physical health.",
+            "C": "The feeling of being time poor.",
+            "D": "The rising economic inequality."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "It alters the structure of work.",
+            "B": "It puts jobs and wages at risk.",
+            "C": "It liberates people from tedious and laborious work.",
+            "D": "It creates new work opportunities in the IT industry."
+          },
+          "answer": "B",
+          "explanation": "脱出来 D) 它在 IT 行业创造了新的工作机会。 解文章在谈及美国工作存在的四个主要问题的第四个时， 开门见山地指出， 自动化使就业和薪资面临风险。 因此， 选项 B 正确。 文章提到 “ 除非改变工作结构 \"， 说明自动化并未改变工作结构， A 项错误； 文中仅说技术创新 “ 理论上 ” 可能让人们摆脱长工时， 而不是实际如此， c 项错误； D 项原文未提及， 故排除。 巧 ．、 Vhat do post-work theorists advocate? 后工作理论学者主张什么？ A) 在工作中寻找意义。 B) 优先考虑生活而非工作。 0 改善社区中的人际关系。 D) 在工作场所实现个人的社会价值。 解肀文章最后提到后工作理论学者的观点， 即工作不应占据我们生活的核心位置， 也不应占据我们太多的时间， 并认为生活本身就应该被视为目标。 选项 B 是对这部分内容的总结概括， 故为正确选项。 选项 A、 D 与 《后工作理论学者的观点相反， 故排除； 后工作理论学者认为 “ 意义、 目标和社会价值存在于工作场所之外建立和维系的社区和人际关系中 \"， 但这并不是他们主要倡导的核心观点， 他们更强调的是生活本身的重要性， 而不是单纯地改善社区中的人际关系， 故排除 c 项。 Section Recording One",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "14 ． What does automation dO， according to the passage? 礻艮据文章内容， 自动化做了什么？ A) 它改变了工作的结构 B) 它使工作和工资面临风险。 C) 它使人们从繁琐和繁重的工作中解脱出来 D) 它在 IT 行业创造了新的工作机会。 解文章在谈及美国工作存在的四个主要问题的第四个时， 开门见山地指出， 自动化使就业和薪资面临风险。 因此， 选项 B 正确。 文章提到 “ 除非改变工作结构 \"， 说明自动化并未改变工作结构， A 项错误； 文中仅说技术创新 “ 理",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Finding meaning in work.",
+            "B": "Prioritizing life over work.",
+            "C": "Improving relationships in the community.",
+            "D": "Realizing one's social value in the workplace. Directions: In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer sheet 1 with a single line though the centre."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "Affect our attitude to novel tasks.",
+            "B": "Distinguish us in the social world.",
+            "C": "Outweigh IQ in importance.",
+            "D": "Impact academic achievements."
+          },
+          "answer": "D",
+          "explanation": "在讲座开头， 讲话者便提到， 甚至我们关于努力的个人信念也会影响学业成绩。 由此很容易得出正确答案为 D",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "our personal beliefs about effort can dO？ 讲话者说， 甚至我们关于努力的个人信念也能做什么？ A) 影响我们对新任务的态度。 B) 让我们在社交世界中脱颖而出。 0 在重要性上超过智商。 D) 影响学业成绩。 解在讲座开头， 讲话者便提到， 甚至我们关于努力的个人信念也会影响学业成绩。 由此很容易得出正确答案为 D",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "By pressing a hidden button.",
+            "B": "By pushing a big button on top.",
+            "C": "By pressing two buttons at the same time.",
+            "D": "By helping the babies push the right button. ・2025年6 月六级真题（第一套）・"
+          },
+          "answer": "A",
+          "explanation": "+ 讲话者在提到音乐玩具时说到， 它似乎可以通过按顶部的一个大按钮来启动， 但这个按钮被按下后， 实际上并不会启动任何东西， 在婴丿 L 看不见的地方， 他们用一个隐藏的按钮打开了音乐玩具。 由此可知， 选项 A 为正确答案。 1 & What could the infants dO in the experiment according to the speaker? 根据说话者所述， 婴儿在实验中能做什么？ A) 只需观察成年人的行为， 就能成功完成困难任务。 C) 让自己适应不同的社会情境 B) 从几个例子中对毅力做出普适的推论。 D) 努力与实验人员互动。 解 + 讲话者在讲话最后讲述了婴儿在实验中的表现及实验的结果有何发现。 讲话者先说， 看到成年人坚持努力并成功的孩子按下按钮的次数大约是看到成年人轻松成功的孩子的两倍， 即婴儿在观看了两个成年人努力并成功的例子后， 学会了努力是有价值的。 而这可以证明， 婴儿并不是仅仅模仿成年人的动作， 而是将努力的价值推广到了一个新的任务中。 其实， 讲话者早在讲话中间就提到了 generalizable inferences 这个关键词， 实验结果也确实表明， 婴儿可以做到。 由此可知， 选项 B 为正确答案。 Recording Two",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "17 ． How did the researchers turn on the music toy in their experiment? 研究人员在他们的实验中是如何打开音乐玩具的？ A) 通过按一个隐藏的按钮。 B) 通过按顶部的大按钮。 C) 通过同时按两个按钮 D) 通过帮助婴丿 L 按正确的按钮。 解 + 讲话者在提到音乐玩具时说到， 它似乎可以通过按顶部的一个大按钮来启动， 但这个按钮被按下后， 实际上并不会启动任何东西， 在婴丿 L 看不见的地方， 他们用一个隐藏的按钮打开了音乐玩具。 由此可知， 选项 A 为正确答案",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "Perform difficult tasks successfully just by observing how adults acted.",
+            "B": "Make generalizable inferences about persistence from a few examples.",
+            "C": "Adapt themselves to different social contexts.",
+            "D": "Work hard to interact with experimenters."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "Offering advice on overcoming habitual lateness.",
+            "B": "Exemplifying various recreational opportunities.",
+            "C": "Scrutinizing individuals5 defining traits.",
+            "D": "Suggesting ways fbr setting priorities."
+          },
+          "answer": "A",
+          "explanation": "+ 讲话者通篇都围绕着 lateness 这个关键词展开。 由此很容易得出， 选项 A 为正确答案。 虽然 recreational opportunities、 defining trait 讲话中也有原词复现的情况， 但都是讲话中的细节， 并非讲话者发表演讲的目的， 而 setting pnonties 则是基于 prioritize 的过度推断， 均可直接排除",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "19， What is the speaker， s purpose of giving this talk? 讲话者发表这次演讲的目的是什么？ A) 提供克服习惯性迟到的建议。 B) 举例说明各种休闲机会。 0 审视个人的标志性特质。 D) 提出设定优先级的方法。 解 + 讲话者通篇都围绕着 lateness 这个关键词展开。 由此很容易得出， 选项 A 为正确答案。 虽然 recreational opportunities、 defining trait 讲话中也有原词复现的情况， 但都是讲",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Make the breakfast simpler.",
+            "B": "Take the alarms seriously.",
+            "C": "Ready yourself in the early dawn.",
+            "D": "Get prepared the night before."
+          },
+          "answer": "D",
+          "explanation": "讲话者在中间提到， \"lfmormngs are a struggle foryou\"， 和题干属于原词复现， 很容易定位到答案位置， 即 \"do as much as you can to ready yourself the night before （那就尽量在前一天晚上做好准备） ”。 由此可知， 选项 D 为正确答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "20 ． What should you do if mornings are a struggle for you? 如果你觉得早晨手忙脚乱， 你应该怎么做？ A) 让早餐更简单。 B) 重视闹钟。 0 在黎明时分做好准备。 D) 前一天晚上做好准备。 解讲话者在中间提到， \"lfmormngs are a struggle foryou\"， 和题干属于原词复现， 很容易定位到答案位置， 即 \"do as much as you can to ready yourself the night before （那就尽量在前一天晚上做好准备） ”。 由此可知， 选项",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Finish the prior task 30 minutes earlier.",
+            "B": "Keep ourselves from hitting a bump.",
+            "C": "Leave time in between activities.",
+            "D": "Try to avoid possible hold-ups."
+          },
+          "answer": "A",
+          "explanation": "+ 讲话者在最后提到了 unexpected delays， 但其所在的句子大意为： 计算好活动之间的交通时间， 然后再加上 10 到 30 分钟以应对可能出现的意外延误。 大家可能会被 “ 30 分钟 ” 误导， 进而错选选项 A。 但其实， 这句话的重点是预留时间以应对意外延误， 也就是末段段首提到的 “ 学会在任务和会议之间留出时间 \"。 由此可知， 选项 c 为正确答案。 8 六 2025， 6 豸-@ Recording Three",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "21. According to the speaker, what can we dO to combat unexpected delays? 根据讲话者所述， 我们可以做什么来应对意外延误？ A) 提前 30 分钟完成之前的任务。 B) 避免遇到意外情况。 0 在活动之间预留时间。 D) 尽量避免可能的延误。 解 + 讲话者在最后提到了 unexpecte",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Their lifestyles vary.",
+            "B": "Their traits vary.",
+            "C": "They have different customs.",
+            "D": "They have different feels."
+          },
+          "answer": "D",
+          "explanation": "肀讲话者在讲话开头提到， 不同的城市给游客的感觉不同。 由此可知， 选项 D 为正确答案。 其余三项讲话者均未提及， 均可排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "22 ． What do visitors find about the cities they've been t0? 游客对他们去过的城市有什么发现？ A) 它们的生活方式不同。 B) 它们的特征不同 C) 它们的习俗不同 D) 它们的感觉不同。 解肀讲话者在讲话开头提到， 不同的城市给游客的感觉不同。 由此可知， 选项 D 为正确答案。 其余三项讲话者均未提及， 均可排除。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "They are not as willing to help strangers.",
+            "B": "They are not as patient with one another.",
+            "C": "They violate traffic rules more frequently.",
+            "D": "They become more easily irritated in public."
+          },
+          "answer": "A",
+          "explanation": "+ 讲话者在讲话中提到， 一项研究发现， 与美国其他城市的居民相比， 波士顿人不太愿意主动帮助陌生人。 由此可知， 选项 A 为正确答案。 选项 B 和 c 虽是讲话中关于波士顿人的描述， 但是这两点并不是和美国其他城市的居民进行对比的， 故均排除。 选项 D 在讲话中没有明确的对应句， 故也排除。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "at did one study find about Bostonians compared with residents Of Other U. S. cities? 一项研究发现， 与美国其他城市的居民相比， 波士顿人有何特点？ A) 他们不太愿意帮助陌生人。 B) 他们对彼此缺乏耐心 0 他们更频繁地违反交通规则。 D) 他们在公共场合更容易被激怒。 解 + 讲话者在讲话中提到， 一项研究发现， 与美国其他城市的居民相比， 波士顿人不太愿意主动帮助陌生人。 由此可知， 选项 A 为正确答案。 选项 B 和 c 虽是讲话中关于波士顿人的描述， 但是这两点并不是和美国其他城市的居民",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "It was practiced by Boston's founding fathers.",
+            "B": "It is not deemed exotic by Proper Bostonians.",
+            "C": "It was adopted by Boston's upper class.",
+            "D": "It is not part of Boston's local culture."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Stick to its own way of showing courtesy to strangers.",
+            "B": "Follow the examples set by Paris and New York City.",
+            "C": "Learn from the world's major cities in promoting tourism.",
+            "D": "Take pride in its history and adhere to its cultural tradition."
+          },
+          "answer": "B",
+          "explanation": "； 讲话者在讲话末尾部分提， 巴黎和纽约这两个因更加过分的粗鲁无礼而声名狼藉的城市都在努力改变自己的形象， 波士顿也许也应该效仿。 故选项 B 为正确答案。 其余三项讲话者均未提及， 可排除。 Part III > Reading Comprehension Section ． · 概览 · 本文节选自网站 www. usnews. com 于 2022 年 7 月 20 日发布的一篇文章。 文章中的大学生夏琳加入 “ 无除草剂校园 \" 运动， 反对使用有毒农药。 传统校园维护依赖化学药剂， 危害健康和生态， 还会加剧气候危机。 该运动倡导人工除草， 推动环保。 夏琳认为这既能缓解气候焦虑， 又能为环境保护贡献力量。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "25 ． What does the speaker think Boston should do? 讲话者讠人为波士顿应该怎么亻攻？ A) 坚持以自己的方式向陌生人表示礼貌。 B) 效仿巴黎和纽约市树立的榜样。 C) 向世界主要城市学习促进旅游业的经验。 D) 以自己的历史为荣并坚守文化传统解； 讲话者在讲话末尾部分提， 巴黎和纽约这两个因更加过分的粗鲁无礼而声名狼藉的城市都在努力改变自己的形象， 波士顿也",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank\nfrom a list o f choices given in a word bank following the passage. Read the passage through carefully before\nmaking your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for\neach item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank\nmore than once.\nIn her second year, Charlene Duong learned of the use of poisonous, synthetic pesticides on her college campus.\nShocked but not surprised, she knew she had to do something. Along with a couple of classmates, Charlene did a quick\nweb search and discovered a small but growing movement led by the organization, Herbicide-Free Campus (HFC), to\nrid college campuses of artificial herbicides (灭草剂).They were \n26 .\nLike many, Charlene experiences climate anxiety- a \n\nfear of a climate catastrophe- and was, at the time,\nlooking for an \n\n. When she discovered the HFC movement, she said she felt she “had found a specific area to\nfocus on that still fit into the larger picture of fighting for a healthier, safer, cleaner \n\nfor\nToxic herbicide use in university land care is not unique. Most institutions of higher education rely on synthetic\npesticides and fertilizers to achieve \n\ngoals. Having a ubeautifuF, campus means green and perfectly maintained\nlawns along with flower beds and paved sidewalks. But these \n\nmanaged campuses can come at a cost: increased\ncancer risk, \n\nwaterways, poisoned wildlife and lifeless soil.\n\n・2025年6 月六级真题（第一套）・\n\nPesticide use on college campuses also contributes to our global climate crisis. The use of chemicals to get rid of\ninsects or unwanted plant life can increase indirect \n33 . as they can include petroleum-based ingredients. Pesticide\nuse also decreases the life in soil, \n\nthe ability of soils to absorb carbon or retain water and thus reducing\ncampuses, ability to recover quickly from climate-related extreme weather events like droughts and floods.\nInstead of using toxic chemicals, students working with HFC help out with \n\nthe campus grounds.\n“This work reminds me to be in the present moment as I play my role in reducing herbicide use and keeping my\ncampus safe and healthy,says Charlene.",
+      "wordBank": {
+        "A": "aesthetic",
+        "B": "chronic",
+        "C": "contaminated",
+        "D": "conventionally",
+        "I": "infringement",
+        "J": "intrigued",
+        "K": "juvenile",
+        "L": "outlet",
+        "E": "emissions",
+        "M": "rotating",
+        "F": "environment",
+        "N": "vibrations",
+        "G": "hampering"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": "J",
+          "explanation": "26， J) intrigued （激起一 “ 啲兴趣口砌很感兴趣的） 陋 ) 空格前是 be 动词 were， 空格后是句点， 由此可知， 空格处应填人一个形容词或分词。 [ 首段前面几句提到杨夏琳得知校园在使用有毒杀虫剂时决定做些什么， 她和同学通过网上搜索找到了 “ 无灭草剂校园 ” 组织发起的一项消除大学校园人造灭草剂的运动， 由此可知， “ 无灭草剂校园 \" 组织发起的运动与他们的理念一致， 他们对该运动应该是十分感兴趣的， 故 intrigued 符合语境， 本题应选 JO",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "26， J) intrigued （激起一 “ 啲兴趣口砌很感兴趣的） 陋 ) 空格前是 be 动词 were， 空格后是句点， 由此可知， 空格处应填人一个形容词或分词。 [ 首段前面几句提到杨夏琳得知校园在使用有毒杀虫剂时决定做些什么， 她和同学通过网上搜索找到了 “ 无灭草剂校园 ” 组织发起的一项消除大学校园人造灭草剂的运动， 由此可知， “ 无",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": "B",
+          "explanation": "27 ． B) chronic （口砌慢性的； 长期的） [ 誑空格前是不定冠词 a， 空格后是 fear ofa 由此可知， 空格处应填人一个形容词或分词， 充当名词 fear 的定语。 陋由破折号之前的 CharIene climate anxiety 可知， 夏琳受到气候焦虑的困扰， 说明她处于一种长期担忧、 害怕的心理状态， 故 chronic 符合语境， 本题应选 B。 10 六级 2025， 6 第 - 套 2 & L) outlet （”、 出口； 发泄途径； 折扣店） 陋画 〕 空格前是不定冠词皿， 空格后是句点。 由此可知， 空格处应填人一个发音以元音开头的单数名词。 陋义邦圃上文提到夏琳饱受气候焦虑的困扰， 长期对气候灾难感到恐惧， 本句承接上文， 她当时正在寻找这种焦虑情绪的发泄方式， 故 outlet 符合语境， 本题应选 L。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "27 ． B) chronic （口砌慢性的； 长期的） [ 誑空格前是不定冠词 a， 空格后是 fear ofa 由此可知， 空格处应填人一个形容词或分词， 充当名词 fear 的定语。 陋由破折号之前的 CharIene climate anxiety 可知， 夏琳受到气候焦虑的困扰， 说明她处于一种长期担忧、 害怕的心理状态， 故 chronic 符合语境",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": "F",
+          "explanation": "29， F) environment （环境） 陋 } 空格前是 fighting for a healthier， safer， cleaner， 空格后是介词短语 for al",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "29， F) environment （环境） 陋 } 空格前是 fighting for a healthier， safer， cleaner， 空格后是介词短语 for al",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": "A",
+          "explanation": "30 ． A) aesthetic 砌美的； 审美的； 美学的） 陋法空格前是不定式 to achieve， 空格后是名词 goals， 由此可知， 空格处应填人一个形容词或分词， 充当 goals 的定语陋下文提及所谓 “ 美丽 ” 校园要达到的标准。 结合本段首句 “ 大学绿化养护中使用有毒灭草剂的现象并非个例 ” 可知， 此处是指多数高等教育机构依赖合成杀虫剂和化肥来实现景观美化目标， 故 aesthetic 符合语境， 本题应选 A。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "30 ． A) aesthetic 砌美的； 审美的； 美学的） 陋法空格前是不定式 to achieve， 空格后是名词 goals， 由此可知， 空格处应填人一个形容词或分词， 充当 goals 的定语陋下文提及所谓 “ 美丽 ” 校园要达到的标准。 结合本段首句 “ 大学绿化养护中使用有毒灭草剂的现象并非个例 ” 可知， 此处是指多数高等教育机构依赖合成",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": "D",
+          "explanation": "31. D) conventionally （口血传统上； 按照惯例） 画 〕 空格前是 But these， 空格后是 managed campuses come at a cost， 由此可知， 空格处应填人一个副词， 修饰过去分词 managed 画 〕 由 come at a cost 可知该管理模式是需要付出代价的， 代价就是癌症风险上升等， 这应该是使用有毒杀虫剂清理校园草坪的结果， 是惯例做法或者说是传统做法。 故 convenUonally 符合语境， 本题应选 D",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "31. D) conventionally （口血传统上； 按照惯例） 画 〕 空格前是 But these， 空格后是 managed campuses come at a cost， 由此可知， 空格处应填人一个副词， 修饰过去分词 managed 画 〕 由 come at a cost 可知该管理模式是需要付出代价的， 代价就是癌症风险上升等， 这应该",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": "C",
+          "explanation": "32 ． C) contaminated （污染） 陋法空格前是 increased cancer risk， 空格后是 waterways, poisoned wildlife and lifeless soi",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "32 ． C) contaminated （污染） 陋法空格前是 increased cancer risk， 空格后是 waterways, poisoned wildlife and lifeless soi",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": "E",
+          "explanation": "33 ． E) emissions （汛排放； 排放物） 陋迲厮 ] 空格前是 can indirect， 空格后是逗号以及一个由 as 引导的原因状语从句， 由此可知， 空格处应填人一个名词， 充当 increase 的宾语。 陋义由空格后的原因状语从句 “ 因为它们可能含有石油基成分 \"， 再结合全文主要探讨的主题， 即校园人造灭草剂对环境和健康造成危害可知， 此处是说， 化学药剂在灭杀害虫或杂草时会增加间接排放， 故 emissions 符合语境， 本题应选 E。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "33 ． E) emissions （汛排放； 排放物） 陋迲厮 ] 空格前是 can indirect， 空格后是逗号以及一个由 as 引导的原因状语从句， 由此可知， 空格处应填人一个名词， 充当 increase 的宾语。 陋义由空格后的原因状语从句 “ 因为它们可能含有石油基成分 \"， 再结合全文主要探讨的主题， 即校园人造灭草剂对环境和健康造成危害",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": "G",
+          "explanation": "34 ． G) hampering （妨碍， 阻碍） 陋邦空格前是主谓宾俱全的句子， 空格后是名词短语 the ability of to ． ． ．， 由此可知， 空格处应填人一个非谓语动词， 与 abili 呼构成逻辑上的动宾关系。 陋叉邦此处在讲述使用有毒药剂的危害， 应是负面的， 故与 abili 呼构成搭配的非谓语动词应该是 “ 阻碍， 妨碍 ” 的意思， 即妨碍土壤固碳蓄水的能力， 故 hampering 符合语境， 本题应选 G。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "34 ． G) hampering （妨碍， 阻碍） 陋邦空格前是主谓宾俱全的句子， 空格后是名词短语 the ability of to ． ． ．， 由此可知， 空格处应填人一个非谓语动词， 与 abili 呼构成逻辑上的动宾关系。 陋叉邦此处在讲述使用有毒药剂的危害， 应是负面的， 故与 abili 呼构成搭配的非谓语动词应该是 “ 阻碍， 妨碍 ”",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": "O",
+          "explanation": "35 ． 0） weeding （为 “ ． ． “ 除草） 陋迲圳空格前是 help out with, 空格后是名词短语 the campus grounds， 由此可知， 空格处应填人一个动名词， 充当 with 的宾语， 且与 grounds 构成逻辑上的动宾关系。 陋到结合文章提到的 “ 无灭草剂校园 ” 运动致力于消除大学校园中的人造灭草剂， 再根据本段句首的 lnstead of using toxic chemicals （不使用有毒化学品） 可知， 此处是说， 参与 “ 无灭草剂校园 \" 运动的学生们帮助校园进行人工除草， 故 weedlng 符合语境， 本题应选 0。 六级 2025 ． 6 第 - 1 1 干扰项注释 H) incidentally 顺便提一句； 附带地） I) infnngement （” ． 侵犯， 侵害； 违反， 违背） K)juvenile 砌少年的； 幼稚的少年） M) rotating 气旋转， 转动 adj. 旋转的） N) vibrations （” ． 震动， 颤动） Section@ ． · 概览 · 本文节选自网站 https://publiclibrariesonline. org 于 2013 年 4 月发表的一篇标题为 \"Community Centered: 23 Reasons Why Your Library ls the Most lmportant Place in Town ” 的文章。 在数字化时代， 公共图书馆作为社区文化中心的价值常被低估。 图书馆不仅是书籍和电脑的集中存放地， 还是人们聚在一起探索发现、 交流互动和展开想象的场所， 通过免费活动、 教育项目和文化交流促进不同群体的联结。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "35 ． 0） weeding （为 “ ． ． “ 除草） 陋迲圳空格前是 help out with, 空格后是名词短语 the campus grounds， 由此可知， 空格处应填人一个动名词， 充当 with 的宾语， 且与 grounds 构成逻辑上的动宾关系。 陋到结合文章提到的 “ 无灭草剂校园 ” 运动致力于消除大学校园中的人造灭草剂， 再根据本段句首的 lnstead of using toxic chemicals （不使用有毒化学品） 可知， 此处是说， 参与 “ 无灭草剂校园 \" 运动的学生们帮助校园进行人工除草， 故 weedlng 符合语境， 本题应选",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Librarians know the value of their community services, and their patrons appreciate their importance as well.\nBut in an increasingly digital world, we see the role of libraries as community and cultural centers at times\nundervalued. When shrinking municipal budgets combine with the nonstop technological revolution, public\nlibrary services that fbcus on building communities face-to-face, inspiring and educating patrons about art,\nliterature, and music, and helping patrons engage in civil discourse can seem old-fashioned. But it is precisely\nthose shrinking budgets and the assault of technologically mediated life that make public libraries? cultural\nand community offerings more important than ever."
+        },
+        {
+          "label": "B",
+          "text": "Many people point out the value public libraries bring to their communities. More than just books and banks\nof computers, libraries are still places where individuals gather to explore, interact, and imagine. Some of the\nspecific ways in which libraries add value to our communities and serve as cultural centers for our patrons are\ncommunity builders, centers fbr the arts, and champions of youth. Libraries serve in these capacities and are\nmore than just about information."
+        },
+        {
+          "label": "C",
+          "text": "As community builders libraries are engaged in incredible work. From tiny public libraries to huge\ncity institutions with multiple branches, libraries across the United States are building community and\nsupporting local culture in exciting ways. These are inspiring and hopefully will encourage librarians\ninterested in community services and cultural outreach to make connections with each other, share ideas,\nand build partnerships. Supporters of libraries as community builders claim that unless you are out there\nchanging neighborhoods, you are not completing the work you are to do. Strengthening neighborhoods and\nchampioning the cultural lives of communities are big responsibilities."
+        },
+        {
+          "label": "D",
+          "text": "Place-based economic development stresses the importance of offering attractive, functional, and community-\n,2025年6 月六级真题（第一套）・\n\nbased places, such as libraries, in town squares and depressed neighborhoods. Like a major department store\nin a mall, libraries attract large numbers of people, creating economic opportunities for numerous businesses\nand organizations in the surrounding area. Large cities, medium-sized ones, and even small towns have\nsuccessfully transformed their libraries into the hubs (才区纽)of vibrant neighborhoods."
+        },
+        {
+          "label": "E",
+          "text": "As key municipal agencies, and focal points fbr community education, libraries are major players in creating\nlivable, environmentally friendly cities and towns. The Urban Libraries Council released a report detailing\nthe unique ways in which libraries can further sustainability at the local level. Beyond ensuring that library\nconstruction projects consider environmental impact, libraries can take a lead in supporting local foods and\ncraftsmen, like the Peabody Institute Library's partnering with local businesses to pioneer a farmers5 market\nin their courtyard, or the Richmond Public Library's seed lending library which \"'nurtures locally-adapted\nplant varieties, and fosters community resilience (韧'性),self-reliance and a culture of sharing.^^"
+        },
+        {
+          "label": "F",
+          "text": "Archives preserve historic artifacts, oral histories, digital history projects, and scholarly writings relevant\nto the community, including minority groups. Communities lucky enough to have archivists have a great\nadvantage when it comes to organizing historical records and artifacts. An organized archive is a place\nwhere people can research their ancestry and immigration history, do environmental research, and more.\nAn archivist is an advocate fbr preservation who, among other things, coordinates the restoration of maps\nand paintings, the digitization of vital records, and the creation of oral history projects. With projects like\nthe Massachussets Memories Road Show and the Veterans History Project, evidence of the importance of\narchives is everywhere."
+        },
+        {
+          "label": "G",
+          "text": "In the words of Robert Putnam, “People may go to the library looking mainly fbr information, but they\nfind each other there.^^ New moms connect at baby story-times; elderly people, often facing difficult life\ntransitions, attend events and find that they make new friends; teenagers meet up in libraries, teen spaces\nafter school; and readers discuss current events in the periodicals room. In libraries, community-building\nconnections are happening all the time."
+        },
+        {
+          "label": "H",
+          "text": "As Keith Richards said, “The public library is the great equalizer.^^ Despite the rising costs of concert and\ntheater tickets, public library events (including concerts, author visits, and gallery displays) are often offered\nfree of charge, enabling people of any income level to attend. In addition, library book groups allow people to\nexplore and discuss the literary arts, and the Great Stories Club introduces at-risk youth to literature. The best\npart: it's all free and open to the public."
+        },
+        {
+          "label": "I",
+          "text": "In a time when education is increasingly expensive, public libraries provide information and educational\nopportunities free fbr all people, regardless of their socio-economic status. Offered by libraries across the\ncountry, American Library Association's Lefs Talk about It programs are wonderful examples of scholar-\nfacilitated learning opportunities in libraries. In addition, many libraries present classes and discussion\nprograms, and some even provide online continuing education courses such as the Universal Class database."
+        },
+        {
+          "label": "J",
+          "text": "Librarians know that patrons aren't just information consumers, they're information producers. Patrons use\nthe library to gain knowledge in order to create their own new and independent works. Increasing numbers of\nlibraries provide spaces and services that meet the needs of people who want to learn how to edit Wikipedia,\nset up blogs or podcasts, create their own magazines, and so much more. Many libraries offer art or writing\nworkshops and groups, and some provide music practice rooms fbr patrons. Programs like ImaginOn in\nCharlotte, North Carolina, provide exciting models that take community partnership, creativity, and creation\nto a new level."
+        },
+        {
+          "label": "K",
+          "text": "The decline of civil discourse stems in part from the fact that it is so easy fbr people to watch news about, buy\nproducts from, and engage- in both the virtual and real worlds- only with those of similar backgrounds and\nideologies. Public libraries, through such programs as The Human Library and Socrates Cafe, can help build\n\n・2025年6月六级真题(第一套)・\n\nsmall communities of difference that encourage people to interact with and learn from each other through\ndialogue. By both actively promoting civil discourse through these programs, and modeling and upholding\nthe principles of free inquiry and expression for all, libraries help individuals rediscover the importance of\nand increased need for civil discourse in American life.\nL) Free tutoring, homework help programs, and summer reading programs for kids and teens help bridge the\neconomic divide that impacts students5 academic performance. The cost of hiring a private tutor is well\nbeyond what many library patrons can afford, so libraries offer homework help and tutoring online, by phone,\nin person, and even through social media and homework apps. Annual summer reading programs also have a\npositive impact on student performance and, according to a 2010 study conducted by Dominican University's\nGraduate School of Library and Information Science, students5 reading skills get a boost from these popular\nnationwide events.\nM) Through library collections, programs, and physical spaces, children learn to share, to be engaged in their\ncommunities, to participate in the arts, and to explore their immediate world and the world at large. There\nare surely endless examples of innovative library services fbr children, including the Middle Country Public\nLibrary's Nature Explorium, which engages children in learning about the natural world.\nN) These examples are just a few of the many amazing things that public libraries around the United States (and\nthe world) are doing to build and maintain strong community connections. We encourage you to try some of\nthese ideas in your own libraries, and we hope that these ideas will help you be better able to convince your\ncommunity leaders of the important role that public libraries play in communities large and small."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "People going to the library in search of information can build connections with each other there.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "According to advocates of libraries as community builders, librarians are not doing their job well if they do\nnot change their communities.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "With the costs of education continually rising, public libraries remain places where all people can have access\nto education.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Libraries draw large crowds, thus creating lots of business opportunities in neighboring areas.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "With the world more and more digitalized, people sometimes underestimate the role of libraries as community\nand cultural centers.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Various programs organized by public libraries fbr children and adolescents help narrow the gap between\nstudents from varying economic backgrounds.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "In an organized archive, people can do research on their family history and find out how their ancestors came\nto settle in the new land.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Public libraries organize cultural events, often allowing people of different income levels to attend free of\ncharge.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Besides being an information provider, the library performs many other important services for the\ncommunity.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Public libraries can help build small communities of people with different backgrounds and ideologies.",
+          "answer": "B",
+          "explanation": "· 46， 美国教育部长在公开信中说了什么？ A) 及时应对缺课危机至关重要。 B) 长期缺课学生的学业表现很差。 0 学业成绩低下主要归因于缺课。 D) 缺课对美国教育的影响令人担忧。 定申根据题干信息词 U ． & secretary of education 和 open le № r 可将答案线索定位至第二段。 解 · 第二段最后一句提到了美国教育部长的公开信， 他在信中指出， 无论出于何种原因 （有正当理由或无正当理由）， 一年中缺课天数达到 10 ％ 是学业成绩低下的主要原因。 c 项与原文表述相符， 该选项中的 Low academic achrevement 是原词复现， is mainly to 是原文中 is primary 的同义转述， 故为正确答案。 公开信未提到与 A 项、 B 项和 D 项有关的内容， 故此三项排除。 47 ． 关于缺课， 作者发现了什么？ A) 因故缺课对儿童学习影响甚微。 B) 无故缺课和因故缺课之间几乎没有什么差别。 0 因故缺课会带来相对较好的学业表现。 D) 无故缺课对学校和家庭而言都是一大挑战。 定根据题干信息词 nd 和 school absences 可将答案线索定位至第六段和第七段。 位解 + 第五段提到， 作者对缺课与儿童学业成绩之间的关系进行了调查， 第六段和第七段为他们的发现。 其中， 第六段提到， 作者发现经家长准许的缺课几乎不会影响孩子的学习。 经家长准许的缺课属于因故缺课， A 《项是原文的同义转述， 故为正确答案。 原文第六段提到， 因故缺课的孩子考试成绩与全勤的同龄人持平， 而第七段提到， 哪怕只有一次无故缺课的孩子也比全勤的同龄人学习成绩差很多， 由此可见， 无故缺课和因故缺课之间的差别是很大的， B 项与原文表述不符， 故排除。 原文只是提到， 因故缺课对学习成绩几乎没有什么影响， 但并未提及它会带来更好的学业表现， c 项无中生有， 故排除。 由第八段和第九段可知， 文章重点强调无故缺课是儿童及其家庭面临在学校以外挑战的强烈信号， 而非强调无辜缺课对学校和家庭是一大挑战， 故 D 项排除",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+            "sourceText": "； 迫使 · channel 引导些资源的儿童和家庭。 0 · 答案详解 · 46， 美国教育部长在公开信中说了什么？ A) 及时应对缺课危机至关重要。 B) 长期缺课学生的学业表现很差。 0 学业成绩低下主要归因于缺课。 D) 缺课对美国教育的影响令人担忧。 定申根据题干信息词 U ． & secretary of education 和 open le № r 可将答案线索定位至第二段。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nNationally, one in six children miss 15 or more days of school in a year. Education officials have deplored\nall this missed instruction.\nThese chronically absent students suffer academically because of all the classroom instruction they miss out\non. In 2015, the U.S. secretary of education responded to this crisis, urging communities to support every student\nto attend every day and be successful in school. His open letter stated that missing 10% of school days in a year\nfbr any reason- excused or unexcused- is a primary cause of low academic achievement.\nWorrying about whether children attend school makes sense. After all, if students don't show up, teachers\ncan't teach them.\nBut what if America's attendance crisis is about much more than students missing class? What if, instead,\nit is a reflection of family and community crises these students face- such as being ejected from the family\napartment, fearing fbr their safety in their neighborhood or suffering an illness?\nAs social scientists we investigated how excused and unexcused absences relate to children's academic\nachievement.\nWe find that absences excused by a parent do little to harm children's learning. In fact, children with\nno unexcused absences- but 15 to 18 excused absences- have test scores equal to their peers who have no\nabsences.\nMeanwhile, the average child with even just one unexcused absence does much worse academically than\npeers with none.\nWe believe unexcused absence is a strong signal of the many challenges children and families face,\nincluding economic and medical hardships. Unexcused absences can be a powerful signal of how those out-of­\nschool challenges affect children's academic progress.\nOur evidence suggests unexcused absences are problematic, but fbr a different reason than people often\nthink. Absence from school, and especially unexcused absence, matters mainly as a signal of many crises\nchildren and their families may be facing. It matters less as a cause of lower student achievement due to missed\ninstruction.\nHow we choose to think of school absences matters for educational policy. School attendance policies\ntypically hold schools and families accountable for the days children miss, regardless of whether they were\nexcused or unexcused absences.\nThese policies assume that missing school for any reason harms children academically because they are\nmissing classroom instruction. They also assume that schools will be able to effectively intervene by reducing\nstudent absences. We find neither to be the case.\nAs a result, these attendance policies end up disproportionately punishing families dealing with out-of­\nschool crises in their lives and pressuring schools who serve them to get students to school more often.\nWe instead suggest using unexcused absence from school as a signal to channel resources to the children and\nfamilies who need them most.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What does the U.S. secretary of education say in his open letter?",
+              "options": {
+                "A": "It is of vital importance to respond promptly to the school absence crisis.",
+                "B": "The academic performance of chronically absent students is deplorable.",
+                "C": "Low academic achievement is mainly attributed to school absences.",
+                "D": "The effect of school absences on American education is worrisome.  •2025年6 月六级真题（第一套）♦"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What do the authors find about school absences?",
+              "options": {
+                "A": "Excused school absences have little impact on children's learning.",
+                "B": "There is little difference between unexcused and excused absences.",
+                "C": "Excused absences lead to comparatively better school performance.",
+                "D": "Unexcused absences are a big challenge to both schools and families."
+              },
+              "answer": "B",
+              "explanation": "+ 第五段提到， 作者对缺课与儿童学业成绩之间的关系进行了调查， 第六段和第七段为他们的发现。 其中， 第六段提到， 作者发现经家长准许的缺课几乎不会影响孩子的学习。 经家长准许的缺课属于因故缺课， A 《项是原文的同义转述， 故为正确答案。 原文第六段提到， 因故缺课的孩子考试成绩与全勤的同龄人持平， 而第七段提到， 哪怕只有一次无故缺课的孩子也比全勤的同龄人学习成绩差很多， 由此可见， 无故缺课和因故缺课之间的差别是很大的， B 项与原文表述不符， 故排除。 原文只是提到， 因故缺课对学习成绩几乎没有什么影响， 但并未提及它会带来更好的学业表现， c 项无中生有， 故排除。 由第八段和第九段可知， 文章重点强调无故缺课是儿童及其家庭面临在学校以外挑战的强烈信号， 而非强调无辜缺课对学校和家庭是一大挑战， 故 D 项排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+                "sourceText": "47 ． 关于缺课， 作者发现了什么？ A) 因故缺课对儿童学习影响甚微。 B) 无故缺课和因故缺课之间几乎没有什么差别。 0 因故缺课会带来相对较好的学业表现。 D) 无故缺课对学校和家庭而言都是一大挑战。 定根据题干信息词 nd 和 school absences 可将答案线索定位至第六段和第七段。 位解 + 第五段提到， 作者对缺课与儿童学业成绩之间的关系进行了调查， 第六段和第七段为他们的发现。 其中， 第六段提到，",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What do the authors believe concerning unexcused school absences?",
+              "options": {
+                "A": "They are likely to cause a decrease in students5 academic achievements due to missed instruction.",
+                "B": "They point directly to many of the out-of-school challenges confronting children and their families.",
+                "C": "They are matters the American government typically ignores when formulating educational policies.",
+                "D": "They give a clear signal to children and their families of the crises they are likely to face in the future."
+              },
+              "answer": "B",
+              "explanation": "+ 第八段提到， 作者认为无故缺课是儿童和家庭面临诸多挑战 （包括经济困难和医疗困难） 的一个强烈信号， 即无故缺课作为一个强烈信号， 直接指向了儿童及其家庭面临的许多校外挑战， 故 B 项正确。 第九段提到， 无故缺课在作为因错过教学内容而导致学生成绩下降的原因方面， 其重要性相对较低， 可见在作者看来， 无故缺课对学生学习成绩的影响并非主要由于他们错过了教学内容， 故排除 A 项。 原文未提及政府在制定教育政策时是否会忽视无故缺课问题， 仅讨论政策的假设错误， 故排除 c 项。 无故缺课是当前危机的信号， 而非未来危机的信号， 故排除 D 项。 16 六级 2025 ． 6 第一套",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+                "sourceText": "48， 作者对无故缺课持什么看法？ A) 由于错过教学内容， 它们可能导致学生学习成绩下降。 B) 它们直接指向儿童及其家庭面临的许多在学校以外的挑战。 0 它们是美国政府在制定教育政策时通常会忽视的问题。 D) 它们向儿童及其家庭发出了他们未来可能会面临的危机的明确信号。 定肀根据题干信息词 unexcused school absences 可将答案线索定位至第八段解 + 第八段提到， 作者认为无故缺课是儿童和家庭面临诸多挑战 （包括经济困难",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What is the assumption underlying education policies in the U.S.?",
+              "options": {
+                "A": "Children's academic performance depends on reducing the number of absences.",
+                "B": "Schools can boost children's academic performance by effective intervention.",
+                "C": "Schools as well as families should be held responsible for out-of-school crises.",
+                "D": "Children's academic performance is closely related to the quality of instruction."
+              },
+              "answer": "B",
+              "explanation": "第十一段提到了美国教育政策的两种潜在假设： 一是任何原因的缺课 （无故缺课和因故缺课） 都会对丿 L 童的学业造成损害， 即任何缺课都会造成儿童学习成绩下降； 二是针对缺课造成的儿童学习成绩下降现象， 学校能够通过减少学生缺课来进行有效干预， 即学校可以通过有效干预提高儿童的学习成绩。 B 项表述与第二种假设相符， 故为正确答案。 A 项为强干扰项， 文章只是提到学校可以通过减少学生的缺课次数从而提高他们的学习成绩， 但并未明确说明减少缺课次数可以直接决定学习成绩， A 项说法过于绝对， 故排除。 第十段提到， 学校出勤政策通常要求学校和家庭对孩子缺课的天数负责， 并未提到两者都要对校外危机负责， 且 c 选项内容本身也不属于教育政策的假设范畴， 故排除。 D 项内容原文未提及， 故排除",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+                "sourceText": "49 ． 美国教育政策的潜在假设是什么？ A) 儿童的学习成绩取决于减少缺课次数 B) 学校可以通过有效干预提高儿童的学习成绩。 0 学校和家庭都应对校外危机负责。 D) 儿童的学习成绩与教学质量密切相关。 定， 根据题干信息词 assumption 和 education policies 可将答案线索定位至第十一段解第十一段提到了美国教育政策的两种潜在假设： 一是任何原因的缺课 （无故缺课和因故缺课） 都会对丿 L 童的学业造成损害",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What do the authors suggest doing regarding school absences?",
+              "options": {
+                "A": "Identifying their underlying causes.",
+                "B": "Refraining school attendance policies.",
+                "C": "Directing resources to helping needy children.",
+                "D": "Pressuring schools to reduce unexcused ones."
+              },
+              "answer": "C",
+              "explanation": "作者在最后一段对缺课现象提出了建议， 即将无故缺课视为一种信号， 以此将资源导向最需要这些资源的儿童和家庭。 c 项表述与原文一致， 故为正确答案。 A 项、 B 项和 D 项均不是作者所提出的建议， 故全部排除。 Passage Two ． · 概览 · 本文节选自网站 HowStuff № 0rks 于 2022 年发表的一篇标题为 “ 5 Reasons Why 'Following Your Passion， May Be problematic ” 的文章。 这篇文章探讨了 “ 追随热情 \" 这一流行职业建议的潜在问题。 作者通过自身经历和社会学研究揭示了这一理念带来的三个主要问题： 现实落差、 社会不平等、 雇主剥削。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+                "sourceText": "50 ． 作者针对缺课的建议是什么？ A) 找出其根本原因 B) 重新制定学校出勤政策。 0 将资源导向帮助贫困的儿童。 D) 迫使学校减少无故缺课。 定根据题干信息词 suggest 和 school absences 可将答案线索定位至文章最后一段解作者在最后一段对缺课现象提出了建议， 即将无故缺课视为一种信号， 以此将资源导向最需要这些资源的儿童和家庭。 c 项表述与原文一致， 故为正确答案。 A 项、 B 项和 D 项均不是作者所提出的建议， 故全部排除。 Passage Two ． · 概览 · 本文节选自网站 HowStuff № 0rks 于 2022 年发表的一篇标题为 “ 5 Re",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nAfter earning a bachelor's degree, I was determined to do what I love. I headed straight to graduate school to\ninvestigate the social problems that fascinated me.\nFor almost a decade, I told everyone I encountered that they should do the same. \"\"Follow your passion,\" I\ncounseled. 4\"You can figure out the employment stuff later.^^\nIt wasn't until I began to research this widely accepted career advice that I understood how problematic it\nreally was.\nAs a sociologist, I interviewed college students and professional workers to learn what it really meant to\npursue their dreams, which I will refer to here as the passion principle. I was stunned by what I found out about\nthis principle in the research for my new book.\nSurveys show the American public has long held the passion principle in high regard as a career decision­\nmaking priority. And its popularity is even stronger among those facing job instability.\nAdvocates of the passion principle found it compelling because they believed that following one's passion\ncan provide workers with both the motivation necessary to work hard and a place to find fulfillment.\nYet, what I found is that following one's passion does not necessarily lead to fulfillment, but is one of the\nmost powerful cultural forces perpetuating overwork. I also found that promoting the pursuit of one's passion\nhelps perpetuate social inequalities due to the fact that not everyone has the same economic resources to allow\nthem to pursue their passion with ease.\nWhile the passion principle is broadly popular, not everyone has the necessary resources to turn their passion\ninto a stable, good-paying job. Passion-seekers from wealthy families are better able to wait until a job they\nare passionate about comes along without worrying about student loans in the meantime. They are also better\nsituated to take unpaid internships to get their foot in the door while their parents pay their rent. And they often\nhave access to parents5 social networks to help them find jobs. Surveys revealed that working-class and first-\ngeneration college graduates, regardless of their career field, are more likely than their wealthier peers to end up\nin low-paying unskilled jobs when they pursue their passion.\n・\n\nColleges, workplaces and career counselors who promote the “follow your passion^^ path for everyone,\nwithout leveling the playing field, help perpetuate socioeconomic inequalities among career aspirants.\nIfs not just well-off passion-seekers who benefit from the passion principle. Employers of passionate\nworkers do, too. Potential employers showed greater interest in passionate applicants in part because they\nbelieved the applicants would work hard at their jobs without expecting an increase in pay. They even sacrifice a\ngood salaryjob stability and leisure time to work in a job they love.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What did the author advise people do for almost a decade?",
+              "options": {
+                "A": "Figure out what is the most fascinating job.",
+                "B": "Follow widely accepted career counsel.",
+                "C": "Pursue their careers with passion.",
+                "D": "Do whatever they are zealous for."
+              },
+              "answer": "D",
+              "explanation": "+ 文章第二段提到， 近十年来， 作者告诉遇到的每一个人， 他们也应该这样做， 即作者在第一段中说的， 做自己热爱的事情 （do what I love）。 选项 D 的意思与此相符， 故为正确答案， 选项内容是对 do what I love 的同义转述。 文中未提及评估工作吸引力的相关内容， 故排除选项 A。 选项 B 是对第三段内容的曲解， 作者没有建议遵循被广泛接受的职业建议。 选项 c 是强干扰项， 作者虽然在第二段第二句中建议 “ 追随你的热情 \"， 但接着说 “ 工作的事情可以以后再考虑 ”， 所以作者并不是建议人们满怀热情地追求职业， 而是去充满热情地做自己热衷之事。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+                "sourceText": "51. 近十年来， 作者建议人们做什么？ A) 弄清楚什么是最吸引人的工作。 B) 遵循被广泛接受的职业建议。 0 满怀热情地追求职业。 D) 做任何他们热衷的事情。 定 + 根据题干信息词 advise people do 和 a decade 可将答案线索定位于第二段。 解 + 文章第二段提到， 近十年来， 作者告诉遇到的每一个人， 他们也应该这样做， 即作者在第一段中说的， 做自己热爱的事情 （do what I love）。 选项 D 的意思与此相符， 故为正确答案， 选项",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "How did the author feel about the passion principle through his research?",
+              "options": {
+                "A": "He was astonished by its consequences.",
+                "B": "He was further convinced of its soundness.",
+                "C": "He was actually right to follow it through.",
+                "D": "He was struck by its broad popularity."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What is important to turning one's passion into a stable, good-paying job?",
+              "options": {
+                "A": "Willingness to take unpaid internships and low-paying jobs.",
+                "B": "Full academic preparedness and sound career counseling.",
+                "C": "Hard work and sacrifice of leisure time.",
+                "D": "Financial backing and social connections."
+              },
+              "answer": "D",
+              "explanation": "+ 倒数第三段通过对比说明： 富裕家庭的孩子能依靠 “ 父母支付房租 （经济支持） ” “ 利用父母的社交网络 \" （社会关系） 来实现职业转化， 而普通家庭的孩子缺乏这些资源。 选项 D “ 经济支持和社会关系 \" 全面概括了这些关键要素， 故为正确答案。 选项 A 是弱势群体的被迫选择， 而非获得稳定高薪工作的条件。 选项 B 中的 “ 学术准备 ” 原文未提及。 选项 c 是热情求职者常常会做的事情， 而非获得稳定高薪工作的条件。 18 六 2025， 6 第一套",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+                "sourceText": "53 ． 将热情转化为稳定高薪工作， 重要的因素是什么？ A) 愿意接受无薪实习和低薪工作。 B) 充分的学术准备和合理的职业指导。 0 努力工作和牺牲休闲时间。 D) 经济支持和社会关系。 定 + 根据题干信息词 turning one， s passion into a stable， good-paying job 可将答案线索定位于倒数第三段。 解 + 倒数第三段通过对比说明： 富裕家庭的孩子能依靠 “ 父母支付房租 （经济支持） ” “ 利用父母的社交网络 \" （社会关系） 来实现职业转化，",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What happens when everyone is encouraged to follow their passion?",
+              "options": {
+                "A": "Many more career aspirants end up unemployed.",
+                "B": "People are less concerned with socioeconomic inequality.",
+                "C": "Socioeconomic inequality is likely to persist.",
+                "D": "Career counselors are going to lose credibility."
+              },
+              "answer": "B",
+              "explanation": "+ 倒数第二段指出， 一味地向所有人推广 “ 追随热情 ” 原则 “ 会持续造成 （perpetuate） 职业追求者之间的社会经济不平等 ”， 第七段也提到 “ 鼓励人们追求热情会持续造成 （perpetuate） 社会不平等 \"， 即这种不平等会持续存在。 选项 c 与原文相符， 其中 persist 是原文中 perpetuate 的同义替换， 故为正确答案。 选项 A 中的 “ 失业 ” 原文未提及。 选项 B 与原文 “ 加剧不平等 \" 的主动效应相反。 选项 D 中的 “ 职业顾问的可信度 \" 原文并未提及， 故排除。 55 ． 对于热情员工的雇主， 作者说了什么？ A) 他们为这些员工提供工作稳定性和高薪。 B) 他们利用这些员工的热情为自己谋利。 0 他们为这些员工创造公平的竞争环境， 助其实现目标。 D) 他们鼓励这些员工实现抱负。 定 + 根据题干信息词 em 卪 oyers of passionate workers 可将答案线索定位于最后一段解， 最后一段指出， 雇主对热情的求职者表现出更大的兴趣， 部分原因是他们认为这些求职者 “ 不期待加薪 \" “ 愿意牺牲高薪、 工作稳定性和休闲时间 \"， 这些实质上是雇主的剥削行为。 选项 B “ 利用热情谋利 ” 准确揭示了这种关系， 故为正确答案。 选项 A 与原文 “ 牺牲高薪和工作稳定性 ” 矛盾。 选项 c 中的 “ 公平的竞争环境 \" 是作者呼吁但雇主未做的。 选项 D 原文并未提及。 0 · 难词译注 · 立方米 cubic meter 使用空间 usable space 驻留 host 轨道 orbit 实施 conduct 涉及 span; range from. . . to. . 0 · 参考译文 · Part IV > Translation 空间材料科学 space materials science 得到广泛应用 be widely applied 产生经济效益 generate economic benefits 高达 （一一金额） amount to 标志 mark 重大贡",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+                "sourceText": "当鼓励所有人追随热情时会发生什么？ A) 更多职业追求者最终失业 B) 人们不太关心社会经济不平等。 0 社会经济不平等可能持续存在。 D) 职业顾问将失去可信度定根据题干信息词 everyone is encouraged 和 happens 可将答案线索定位于倒数第二段。 解 + 倒数第二段指出",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "low",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What does the author say about employers of passionate workers?",
+              "options": {
+                "A": "They provide these workers with job stability and a good salary.",
+                "B": "They exploit these workers5 passion to benefit themselves.",
+                "C": "They level the playing field for these workers to reach their goals.",
+                "D": "They encourage these workers to realize their aspirations."
+              },
+              "answer": "B",
+              "explanation": "， 最后一段指出， 雇主对热情的求职者表现出更大的兴趣， 部分原因是他们认为这些求职者 “ 不期待加薪 \" “ 愿意牺牲高薪、 工作稳定性和休闲时间 \"， 这些实质上是雇主的剥削行为。 选项 B “ 利用热情谋利 ” 准确揭示了这种关系， 故为正确答案。 选项 A 与原文 “ 牺牲高薪和工作稳定性 ” 矛盾。 选项 c 中的 “ 公平的竞争环境 \" 是作者呼吁但雇主未做的。 选项 D 原文并未提及。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-1/key_OCR_2025-06-1.txt",
+                "sourceText": "55 ． 对于热情员工的雇主， 作者说了什么？ A) 他们为这些员工提供工作稳定性和高薪。 B) 他们利用这些员工的热情为自己谋利。 0 他们为这些员工创造公平的竞争环境， 助其实现目标。 D) 他们鼓励这些员工实现抱负。 定 + 根据题干信息词 em 卪 oyers of passionate workers 可将答案线索定位于最后一段解， 最后一段指出， 雇主对热情的求职者表现出更大的兴趣， 部分原因是他们认为这些求职者 “ 不期待加薪 \"",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You\nshould write your answer on Answer Sheet 2.",
+      "source": "天宫空间站(Tiangong Space Station ) 是中国首个太空实验室，拥有110多立方米使用空间，可驻留三名宇航员，在距地球表面400-450公里的轨道上运行。天宫空间站已实施180多个科学研究与应用项目，涉及空间生命科学、太空医学、空间材料科学等领域。天宫空间站的研究成果在我国得到了广泛应用，产生了显著的经济效益。例如，太空育种创造的直接经济效益高达数千亿元。这不仅标志中国在航天技术上取得了巨大进步，也表明中国为全球的太空研究和应用做出了重大贡献。・2025年6 月六级真题（第一套）・",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

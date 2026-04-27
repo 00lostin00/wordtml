@@ -1,0 +1,262 @@
+{
+  "id": "cet6-2016-12",
+  "type": "cet6",
+  "year": 2016,
+  "month": 12,
+  "set": 0,
+  "title": "2016年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write a short essay on creation. Your essay should include the importance of creation and measures to be taken to encourage creation. You are required to write at least 150 words but no more than 200 words. 请用黑色签字笔在答题卡1 指定区域内作答作文题，在试题册上的作答无效! 请认真填写以下信息: 准考证号： 姓 名：一 错填、未填以上信息，按违规处理！",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions ：\n In this section, there is a passage with ten blanks. You are required to select o〃e word for\neach blank from a list of choices given in a word bank following the passage. Read the\npassage through carefully before making your choices. Each choice in the bank is identified\nby a letter. Please mark the corresponding letter for each item on A n sw er S h e e t 2  with a\nsingle line through the centre. You may not use any of the words in the bank more than\nonce.\nQuestions 26 to 35 are based on the following passage.\nSmall communities, with their distinctive character -  where life is stable and intensely human 一\nare disappearing. Some have \n\nfrom the face of the earth, others are dying slowly, but all have\n\nchanges as they have come into contact with an \n\nmachine civilization. The merging of\ndiverse peoples into a common mass has produced tension among members of the minorities and the\nmajority alike.\nThe Old Order Amish, who arrived on American shores in colonial time, have \n\nin the\nmodem world in distinctive, small communities. They have resisted the homogenization \n\nmore\nsuccessfully than others. In planting and harvest time one can see their bearded men working the\nfields with horses and their women hanging out the laundry in neat rows to dry. Many American\npeople have seen Amish families, with the men wearing broad-brimmed black hats and the women in\nlong dresses, in railway or bus \n\nAlthough the Amish have lived with \n\nAmerica fbr\nover two and a half centuries, they have moderated its influence on their personal lives, their families,\ncommunities, and their values.\nThe Amish are often \n\nby other Americans to be relics of the past who live a simple,\ninflexible life dedicated to inconvenient out-dated customs. They are seen as abandoning both modem\n\nand the American dream of success and progress. But most people have no quarrel with the\nAmish for doing things the old-fashioned way. Their conscientious objection was tolerated in wartime,\nfor after all, they are good farmers who \n\nthe virtues of work and thrift.\n6 • 1",
+      "wordBank": {
+        "M": "undergone"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "According to Chinese officials, their activities in Antarctica lay greater emphasis on scientific research.\n6 ・",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Efforts to create one of the world's largest ocean sanctuaries failed because of Russia's obstruction.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "With several monitoring stations operating in Antarctica, Russia is trying hard to counter\nAmerica's dominance in the field of worldwide navigational facilities.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "According to geologists9 estimates, Antarctica has enormous reserves of oil and natural gas.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "It is estimated that Antarctica boasts of the richest reserves of fresh water on earth.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "The demand for energy resources may compel renegotiation of Antarctica's treaties before their\nexpiration.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Many countries are racing against each other to increase their business and strategic influence on\nAntarctica.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Antarctica's harsh natural conditions constitute huge obstacles to the exploitation of its resources.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "With competition from many countries, Antarctica is no longer dominated by the traditional white\nnations.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "American scientists complain about lack of sufficient money and equipment for their expansion in\nAntarctica.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nWhat a waste of money! In return for an average of £ 44,000 of debt, students get an average of\nonly 14 hours of lecture and tutorial time a week in Britain. Annual fees have risen from £ 1,000 to\n£ 9,000 in the last decade, but contact time at university has barely risen at all. And graduating doesn't\neven provide any guarantee of a decent job: six in ten graduates today are in non-graduate jobs.\nNo wonder it has become fashionable to denounce many universities as little more than elaborate\ncon-tricks( 骗术). There's a lot for students to complain about: the repayment threshold fbr paying\nback loans will be frozen for five years, meaning that lower-paid graduates have to start repaying\ntheir loans; and maintenance grants have been replaced by loans, meaning that students from poorer\nbackgrounds face higher debt than those with wealthier parents.\nYet it still pays to go to university. If going to university doesn't work out, students pay very\nlittle -  if any -  of their tuition fees back: you only start repaying when you are earning £ 21,000 a\nyear. Almost half of graduates -  those who go on to earn less -  will have a portion of their debt\nwritten off. Ifs not just the lectures and tutorials that are important. Education is the sum of what\nstudents teach each other in between lectures and seminars. Students do not merely benefit while at\nuniversity; studies show they go on to be healthier and happier than non-graduates, and also far more\nlikely to vote.\nWhatever your talents, it is extraordinarily difficult to get a leading job in most fields without\nhaving been to university. Recruiters circle elite universities like vultures (兀鹰).Many top firms will\nnot even look at applications from those who lack a 2.1, i.e., an upper-second class degree, from an\nelite university. Students at university also meet those likely to be in leading jobs in the future,\nforming contacts fbr life. This might not be right, but school-leavers who fail to acknowledge as\nmuch risk making the wrong decision about going to university.\nPerhaps the reason why so many universities offer their students so little is they know studying\nat a top university remains a brilliant investment even if you dont learn anything. Studying at\nuniversity will only become less attractive if employers shift their fbcus away from where someone\nwent to university -  and there is no sign of that happening anytime soon. School-leavers may moan,\nbut they have little choice but to embrace university and the student debt that comes with it.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What is the author's opinion of going to university? 6 • 7",
+              "options": {
+                "A": "It is worthwhile after all.",
+                "B": "It is simply a waste of time.",
+                "C": "It is hard to say whether it is good or bad.",
+                "D": "It is too expensive for most young people."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What does the author say about the employment situation of British university graduates?",
+              "options": {
+                "A": "Few of them are satisfied with the jobs they are offered.",
+                "B": "It usually takes a long time for them to find a decent job.",
+                "C": "Graduates from elite universities usually can get decent jobs.",
+                "D": "Most of them take jobs which don't require a college degree."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does the author say is important fbr university students besides classroom instruction?",
+              "options": {
+                "A": "Making sure to obtain an upper-second class degree.",
+                "B": "Practical skills they will need in their future careers.",
+                "C": "Interactions among themselves outside the classroom.",
+                "D": "Devloping independent and creative thinking abilities."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What is said to be an advantage of going to university?",
+              "options": {
+                "A": "Learning how to take risks in an ever-changing world.",
+                "B": "Meeting people who will be helpful to you in the future.",
+                "C": "Having opportunities of playing a leading role in society.",
+                "D": "Gaining up-to-date knowledge in science and technology."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What can we infer from the last paragraph?",
+              "options": {
+                "A": "It is natural for students to make complaints about university education.",
+                "B": "Few students are willing to bear the burden of debt incurred at university.",
+                "C": "University education is becoming attractive to students who can afford it.",
+                "D": "The prestige of the university influences employers5 recruitment decisions."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "农业是中国的一个重要产业,从业者超过3 亿。中国农业产量全球第一,主要生产水稻、小麦和豆类。虽然中国的农业用地仅占世界的百分之十，但为世界百分之二十的人口提供了粮食。中国7700年前开始种植水稻。早在使用机械和化肥之前，勤劳和富有创造性的中国农民就已经采用各种各样的方法来增加农作物产量。中国农业最新的发展是推进有机农业。有机农业可以同时服务于多种目的,包括食品安全、大众健康和可持续发展。未得到监考教师指令前，不得翻阅该试题册!",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "id": "cet6-2014-06",
+  "type": "cet6",
+  "year": 2014,
+  "month": 6,
+  "set": 0,
+  "title": "2014年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay explaining why it is unwise to jump to conclusions upon seeing or hearing something. You can give examples to illustrate your point. You should write at least 150 words but no more than 200 words. 注意：此部分试题请在答题卡1 上作答。 PartⅡ Listening Comprehension (30 minutes) Section A Directions：In this section, you will hear 8 short conversations and 2 long conversations. At the end of each conversation, one or more questions will be asked about what was said. Both the conversation and the questions will be spoken only once. After each question there will be a pause. During the pause, you must read the four choices marked A), B), C) and D), and decide which is the best, answer. Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre. 注意：此部分试题请在答题卡1 上作答。 1.A) College tuition has become a heavy burden for the students. B) College students are in general politically active nowadays. C) He is doubtful about the effect of the students5 action. D) He took part in many protests when he was at college. 2.A) Jay is organizing a party for the retiring dean. B) Jay is surprised to learn of the party for him. C) The dean will come to Jay’s birthday party. D) The class has kept the party a secret from Jay. 3. A) He found his wallet in his briefcase. C) He left his things with his car in the garage B) He went to the lost-and-found office. D) He told the woman to go and pick up his car 4. A) The show he directed turned out to be a success. B) He watches only those comedies by famous directors. C) New comedies are exciting, just like those in the 1960s. D) TV comedies have not improved much since the 1960s. 5. A)All vegetables should be cooked fresh. B) The man should try out some new recipes. C) Overcooked vegetables are often tasteless. D) The man should stop boiling the vegetables. 6.A) Sort out their tax returns. C) Figure out a way to avoid taxes B) Help them tidy up the house. D) Help them to decode a message. 7.A) He didn’t expect to complete his work so soon. B) He has devoted a whole month to his research. C) The woman is still trying to finish her work. D) The woman remains a total mystery to him. 8.A) He would like to major in psychology too. B) He has failed to register for the course. C) Developmental psychology is newly offered. D) There should be more time for registration. Questions 9 to 11 are based on the conversation you have just heard. 9.A) The brilliant product design. C) The unique craftsmanship B) The new color combinations. D) The texture of the fabrics. 10.A) Unique tourist attractions. C) Local handicrafts. B) Traditional Thai silks. D) Fancy products. 11.A) It will be on the following weekend. C) It will last only one day. B) It will be out into the countryside. D) It will start tomorrow. Questions 12 to 15 are based on the conversation you have just heard. 12.A) A good secondary education. C) A happy childhood. A pleasant neighborhood. D) A year of practical training. 13. A) He ought to get good vocational training. C) He is academically gifted. B) He should be sent to a private school. D) He is good at carpentry. 14.A) Donwell School. C) Carlton on Abbey. B) Enderby High. D) Enderby Comprehensive. 15.A) Put Keith in a good boarding school. B) Talk with their children about their decision. C) Send their children to a better private school.",
+      "prompt": ""
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank\nfrom a list of choices given in a word bank following the passage. Read the passage through carefully before\nmaking your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each\nitem on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more\nthan once.\nQuestions 36 to 45 are based on the following passage.\nFor investors who desire low risk and guaranteed income, US government bonds are a secure investment\nbecause these bonds have the financial backing and full faith and credit of the federal government. Municipal bonds,\nalso secure, are offered by local governments and often have\n\nsuch as tax-free interest. Some may even be\n\nCorporate bonds are a bit more risky.\nTwo questions often\n\nfirst-time corporate bond investors. The first is “If I purchase a corporate bond, do\nI have to hold it until the maturity date?,” The answer is no. Bonds are bought and sold daily on\n\nsecurities\nexchanges. However, if you decide to sell your bond before its maturity date, you’re not guaranteed to get the face\nvalue of the bond. For example, if your bond does not have\n\nthat make it attractive to other investors, you may\nbe forced to sell your bond at a\n41 ,i.e., a price less than the bond’s face value. But if your bond is highly valued\nby other investors, you may be able to sell it at a premium, i.e., a price above its face value. Bond prices generally\n\ninversely(相反地)with current market interest rates. As interest rates go up, bond prices fall, and versa（反之\n亦然）. Thus, like all investments, bonds have a degree of risk.\nThe second question is “ How can I\n\nthe investment risk of a particular bond issue? ”Standard & Poor’s\nand Moody’s Investors Service rate the level of risk of many corporate and government bonds. And\n\n,\nthe higher the market risk of a bond, the higher the interest rate. Investors will invest in a bond considered risky only\nif the\n\nreturn is high enough.\n注意：此部分试题请在答题卡2 上作答。",
+      "wordBank": {},
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "advantages"
+        },
+        {
+          "label": "F",
+          "text": "discount"
+        },
+        {
+          "label": "K",
+          "text": "insured"
+        },
+        {
+          "label": "B",
+          "text": "assess"
+        },
+        {
+          "label": "G",
+          "text": "embarrass\nL) major"
+        },
+        {
+          "label": "C",
+          "text": "bother"
+        },
+        {
+          "label": "H",
+          "text": "features\nM) naturally"
+        },
+        {
+          "label": "D",
+          "text": "conserved"
+        },
+        {
+          "label": "I",
+          "text": "fluctuate\nN) potential"
+        },
+        {
+          "label": "E",
+          "text": "deduction"
+        },
+        {
+          "label": "J",
+          "text": "indefinite\nO) simultaneously\n\nthan the laissez-faire(自由放任的）United States? A new study by Cornell economists Francine Blau and\nLawrence Kahn gives an explanation.\n[D] Generous parental leave policies and readily available part-time options have unintended consequences: instead\nof strengthening women’s attachment to the workplace, they appear to weaken it. In addition to a 16-month leave,\na Swedish parent has the right to work six hours a day (for a reduced salary) until his or her child is eight years old.\nMothers are far more likely than fathers to take advantage of this law. But extended leaves and part-time\nemployment are known to be harmful to careers——for both genders. And with women a second factor comes\ninto play: most seem to enjoy the flexible-time arrangement (once known as the “mommy track”) and never find\ntheir way back to full-time or high-level employment. In sum; generous family-friendly policies do keep more\nwomen in the labor market, but they also tend to diminish their careers.\n[E] According to Blau and Kahn, Swedish-style paternal (父亲的）leave policies and flexible-time arrangements\npose a second threat to women’s progress: they make employers cautious about hiring women for full-time\npositions at all. Offering a job to a man is the safer bet. He is far less likely to take a year of parental leave and\nthen return on a reduced work schedule for the next eight years.\n[F] I became aware of the trials of career-focused European women a few years ago when I met a postdoctoral\nstudent from Germany who was then a visiting fellow at Johns Hopkins. She was astonished by the professional\npossibilities afforded to young American women. Her best hope in Germany was a government job—prospects\nfor women in the private sector were dim. “In Germany，” she told me, “we have all the benefits, but employers\ndon’t want to hire us.\n[G] Swedish economists Magnus Henrekson and Mikael Stenkula addressed the following question in their 2009\nstudy: why are there so few female top executives in the European egalitarian(平等主义的）welfare states?\nTheir answer :“Broad-based welfare-state policies hinder women’s representation in elite competitive positions.”\n[H] It is tempting to declare the Swedish policies regressive (退步的）and hail the American system as superior. But\nthat would be shortsighted. The Swedes can certainly take a lesson from the United States and look for ways to\nclear a path for their ambitious female careerists. But most women are not committed careerists. When the Pew\nResearch Center recently asked\nAmerican parents to identify their “ideal” life arrangement, 47 percent of\nmothers said they would prefer to work part-time and 20 percent said they would prefer not to work at all. Fathers\nanswered differently：75 percent preferred full-time work. Some version of the Swedish system might work well\nfor a majority of American parents, but the United States is unlikely to fully embrace the Swedish model. Still,\nwe can learn from their experience.\n[I] Despite its failure to shatter the glass ceiling, Sweden has one of the most powerful and innovative economies in\nthe world. In its 2011-2012 survey, the World Economic Forum ranked Sweden as the world’s third most\ncompetitive economy; the United States came in fifth. Sweden, dubbed the “rockstar of the recovery ” in the\nWashington Post. also leads the world in life satisfaction and happiness. It is a society well worth studying, and\nits efforts to conquer the gender gap impart a vital lesson—though not the lesson the Swedes had in mind.\n[J] Sweden has gone farther than any other nation on earth to integrate the sexes and to offer women the same\nopportunities and freedoms as men. For decades, these descendants of the Vikings have been trying to show the\nworld that the right mix of enlightened policy, consciousness raising, and non-sexist child rearing would close\nthe gender divide once and for all. Yet the divide persists.\n[K] A 2012 press release from Statistics Sweden bears the title “Gender Equality in Sweden Treading (踩) Water”\nand notes:\n·The total income from employment for all ages is lower for women than for men.\n·One in three employed women and one in ten employed men work part-time.\n·Women’s working time is influenced by the number and age of their children, but men’s working time is not\naffected by these factors.\n·Of all employees, only 13 percent of the women and 12 percent of the men have occupations with an even\ndistribution of the sexes.\n[L] Confronted with such facts, some Swedish activists and legislators are demanding more extreme and far-\nreaching measures, such as replacing male and female pronouns with a neutral alternative and monitoring\nchildren more closely to correct them when they gravitate (被吸引) toward gendered play. When it came to\nlight last year that mothers, far more than fathers, chose to stay home from work to care for their sick kids, Ulf\nKristersson, minister of social security, quickly commissioned a study to determine the causes of and possible\ncures for this disturbing state of affairs.\n[M] Swedish family policies, by accommodating women’s preferences effectively, are reducing the number of\nwomen in elite competitive positions. The Swedes will find this paradoxical and try to find solutions. Let us\nhope these do not include banning gender pronouns, policing children’s play, implementing more gender\nquotas, or treating women5s special attachment to home and family as a social injustice. Most mothers do not\naspire to (向往）elite, competitive full-time positions: the Swedish policies have given them the freedom and\nopportunity to live the lives they prefer. Americans should look past the gender rhetoric and consider what\n\nthese Scandinavians have achieved. On their way to creating a feminist paradise, the Swedes have\nunintentionally created a haven (避风港）for normal mortals.\n注意：此部分试题请在答题卡2 上作答。\n46.Sweden has done more than other nations to close the gender gap, but it continues to exist.\n47.Sweden is one of the most competitive economies in the world and its people enjoy the greatest life satisfaction.\n48.More American women hold elite job positions in business than Swedish women.\n49.Swedish family-friendly policies tend to exert a negative influence on women’s careers.\n50.The quota system in Sweden ensures women’s better representation in government.\n51.Though the Swedish model appears workable for most American parents, it may not be accepted by them in its\nentirety.\n52.Swedish women are allowed the freedom and opportunity to choose their own way of life.\n53.Swedish employers are hesitant about hiring women for full-time positions because of the family-friendly\npolicies.\n54.Gender-awareness education is becoming more and more popular in state-subsidized preschools in Sweden.\n55.Some lawmakers in Sweden propose that genderless pronouns be used in the Swedish language."
+        }
+      ],
+      "questions": []
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 56 to 60 are based on the following passage.\nTexting has long been bemoaned (哀叹）as the downfall of the written word, “penmanship for illiterates,” as\none critic called it. To which the proper response is LOL. Texting properly isn’t writing at all. It’s a “spoken”\nlanguage that is getting richer and more complex by the year.\nFirst, some historical perspective. Writing was only invented 5 500 years ago, whereas language probably\ntraces back at least 80 000 years. Thus talking came first; writing is just a craft that came along later. As such, the\nfirst writing was based on the way people talk, with short sentences. However, while talking is largely subconscious\nand rapid, writing is deliberate and slow. Over time, writers took advantage of this and started crafting long-winded\nsentences such as this one: “The whole engagement lasted above 12 hours, till the gradual retreat of the Persians\nwas changed into a disorderly flight, of which the shameful example was given by the principal leaders and...”\nNo one talks like that casually—or should. But it is natural to desire to do so for special occasions. In the old\ndays, we didn’t much write like talking because there was no mechanism to reproduce the speed of conversation.\nBut texting and instant messaging do—and a revolution has begun. It involves the crude mechanics of writing, but\nin its economy, spontaneity and even vulgarity, texting is actually a new kind of talking, with its own kind of\ngrammar and conventions.\nTake LOL. It doesn’t actually mean “laughing out loud” in a literal sense anymore. LOL has evolved into\nsomething much subtler and sophisticated and is used even when nothing is remotely amusing. Jocelyn texts\n“Where have you been?” and Annabelle texts back “LOL at the library studying for two hours. ” LOL signals basic\nempathy(同感）between texters, easing tension and creating a sense of equality. Instead of having a literal meaning,\nit does something —conveying an attitude—just like the ending conveys past tense rather than “meaning” anything.\nLOL, of all things, is grammar.\nOf course no one thinks about that consciously. But then most of communication operates without being\nnoticed. Over time, the meaning of a word or an expression drifts —meat used to mean any kind of food, silly used\nto mean, believe it or not, blessed.\nCivilization, then, is fine—people banging away on their smartphones are fluently using a code separate from\nthe one they use in actual writing, and there is no evidence that texting is ruining composition skills. Worldwide\npeople speak differently from the way they write, and texting—quick, casual and only intended to be read once—is\nactually a way of talking with your fingers.\n注意：此部分试题请在答题卡2 上作答。",
+          "questions": [
+            {
+              "id": "q56",
+              "number": 56,
+              "stem": "What do critics say about texting?",
+              "options": {
+                "A": "It is mainly confined to youngsters.",
+                "B": "It competes with traditional writing.",
+                "C": "It will ruin the written language.",
+                "D": "It is often hard to understand."
+              },
+              "answer": "C",
+              "explanation": "C)。推理判断题【考频:★★★】。由题干中的 critics 定位到首段第一句。定位句指出，长期以来短信都被哀叹为造成书面语衰退的原因，一位评论家称其为“文盲的书面语言”。故答案为 C)。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2014-06/key_2014年6月英语六级答案解析_一.txt",
+                "sourceText": "C)。推理判断题【考频:★★★】。由题干中的 critics 定位到首段第一句。定位句指出，长期以来短信都被哀叹为造成书面语衰退的原因，一位评论家称其为“文盲的书面语言”。故答案为 C)。",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q57",
+              "number": 57,
+              "stem": "In what way does the author say writing is different from talking?",
+              "options": {
+                "A": "It is crafted with specific skills.",
+                "B": "It expresses ideas more accurately.",
+                "C": "It does not have as long a history.",
+                "D": "It is not as easy to comprehend."
+              },
+              "answer": "A",
+              "explanation": "A)。推理判断题【考频:★★★】。根据题文同序原则定位到第二段。定位段第三句指出，写作是一种表达技巧;第五、六句指出，写作是深思熟虑的，所以作家们便开始利用这点造出冗长的句子，由此可见写作是需要特殊的技巧的，故答案为 A)。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2014-06/key_2014年6月英语六级答案解析_一.txt",
+                "sourceText": "A)。推理判断题【考频:★★★】。根据题文同序原则定位到第二段。定位段第三句指出，写作是一种表达技巧;第五、六句指出，写作是深思熟虑的，所以作家们便开始利用这点造出冗长的句子，由此可见写作是需要特殊的技巧的，故答案为 A)。",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q58",
+              "number": 58,
+              "stem": "Why is LOL much used in texting?",
+              "options": {
+                "A": "It brings texters' closer to each other.",
+                "B": "It shows the texter’s sophistication.",
+                "C": "It is a trendy way to communicate.",
+                "D": "It adds to the humor of the text."
+              },
+              "answer": "A",
+              "explanation": "紧张并营造一种平等的感觉，也就是说它拉近了短信收发者之间的关系，故答案为 A)。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2014-06/key_2014年6月英语六级答案解析_一.txt",
+                "sourceText": "A)。事实细节题【考频: ★★★】。根据题干中的 LOL 和 much used 定位到文章第四段。定位段第五句指出，LOL 表示短信收发者之间有同样感受, 它有利于缓解紧张并营造一种平等的感觉，也就是说它拉近了短信收发者之间的关系，故答案为 A)。",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q59",
+              "number": 59,
+              "stem": "Examples like meat and silly are cited to show .",
+              "options": {
+                "A": "the difference between writing and talking",
+                "B": "how differently words are used in texting",
+                "C": "why people use the words the way they do",
+                "D": "the gradual change of word meaning"
+              },
+              "answer": "D",
+              "explanation": "D)。推理判断题【考频:★★★】。由题干中的 meat 和 silly 定位到第五段最后一句。定位句指出，随着时间的推移，单词或词组的意思也会发生改变——“meat”曾经指任意一种食物，而“silly\"在过去的意思为“神圣的”。故答案为 D)。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2014-06/key_2014年6月英语六级答案解析_一.txt",
+                "sourceText": "D)。推理判断题【考频:★★★】。由题干中的 meat 和 silly 定位到第五段最后一句。定位句指出，随着时间的推移，单词或词组的意思也会发生改变——“meat”曾经指任意一种食物，而“silly\"在过去的意思为“神圣的”。故答案为 D)。",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q60",
+              "number": 60,
+              "stem": "What does the author think of texting?",
+              "options": {
+                "A": "It facilitates exchange of ideas among people.",
+                "B": "It is a new form of verbal communication.",
+                "C": "It deteriorates people’s composition skills.",
+                "D": "It hastens the decline of the written word."
+              },
+              "answer": "B",
+              "explanation": "：",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2014-06/key_2014年6月英语六级答案解析_一.txt",
+                "sourceText": "B)。观点态度题【考频: ★☆☆】。由题干中的 think of 和 texting 定位到第三段最后一句和文章最后一句。第三段最后一句指出，短信实际上是一种新的说话方式，有着自己的语法和惯例;文章最后一句指出， 短信因其快速、随意和只会被阅读一次的特点，实际上已经成为一种用手指说话的方式。故答案为 B)。 Passage Two 答案详解：",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 61 to 65 are based on the following passage.\nIt’s possible to admire Oprah Winfrey and still wish Harvard hadn’t awarded her an honorary doctor of law\ndegree and the commencement(毕业典礼)speaker spot at yesterday’s graduation. There’s no question Oprah’s\nachievements place her in the temple of American success stories. Talent, charm, and an exceptional work ethic\nhave rarely hurled anyone as far as they have this former abused teenage mother from rural Mississippi who became\none of the worlds most successful entertainment icons and the first African-American female billionaire.\nHonorary degrees are often conferred on non-academic leaders in the arts, business, and politics. Harvard’s list\nin recent years has included Kofi Annan, Bill Gates, Meryl Streep, and David Souter. But Oprah’s particular brand\nof celebrity is not a good fit for the values of a university whose motto (座右铭）,Veritas, means truth. Oprah’s\npassionate advocacy extends, unfortunately, to a hearty embrace of fake science. Most notoriously, Oprah’s\nvalidation of Jenny McCarthy’s claim that vaccines cause autism (自闭症) has no doubt contributed to much harm\nthrough the foolish avoidance of vaccines.\nFamous people are entitled to a few failings, like the rest of us, and the choice of commencement speakers\noften reflects a balance of institutional priorities and aspirations. Judging from our conversations with many\nstudents, Oprah was a widely popular choice.\nBut this vote of confidence in Oprah sends a troubling message at precisely the time when American\nuniversities need to do more to advance the cause of reason. As former Dean of Harvard College, Harry Lewis，\nnoted in a blog post about his objections, “It seems very odd for Harvard to honor such a high profile popularizer of\nthe irrational... at a time when political and religious nonsense so jeopardize the rule of reason in this allegedly\nenlightened democracy and around the world.\nAs America’s oldest and most visible university, Harvard has a special opportunity to convey its respect for\nscience not only through its research and teaching programs but also in its public affirmation of evidence-based\ninquiry.\nUnfortunately, many American universities seem awfully busy protecting their brand name and not nearly\nbusy enough protecting the pursuit of knowledge. A recent article in The Harvard Crimson noted the shocking\ngrowth of Harvard’s public relations arm in the last five years and it questioned whether a focus on risk management\nand avoiding controversy was really the best outward-looking face of this great institution.\nAs American research universities begin to resemble profit centers and entertainment complexes, it’s easy to\nlose sight of their primary mission: to produce and spread knowledge. This mission depends on traditions of rational\ndiscourse and vigorous defense of the scientific method. Oprah Winfrey’s honorary doctorate was a step in the\nwrong direction.\n注意：此部分试题请在答题卡2 上作答。",
+          "questions": [
+            {
+              "id": "q61",
+              "number": 61,
+              "stem": "What do we learn about Oprah Winfrey from the passage?",
+              "options": {
+                "A": "She was a distinguished graduate of Harvard School of Law.",
+                "B": "She worked her way to success in the entertainment industry.",
+                "C": "She used to abuse her children when she was a young mother.",
+                "D": "She achieved her fame through persistent advocacy of fake science."
+              },
+              "answer": "B",
+              "explanation": "B)。事实细节题【考频:★★★】。由题干中的 Oprah Winfrey 并结合选项定位到首段。定位段最后一句指出，Oprah Winfrey 从遭人虐待的未成年母亲成长为世界上最成功的娱乐界偶像之一，也就是说她在娱乐界取得了成功，故答案为 B)。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2014-06/key_2014年6月英语六级答案解析_一.txt",
+                "sourceText": "B)。事实细节题【考频:★★★】。由题干中的 Oprah Winfrey 并结合选项定位到首段。定位段最后一句指出，Oprah Winfrey 从遭人虐待的未成年母亲成长为世界上最成功的娱乐界偶像之一，也就是说她在娱乐界取得了成功，故答案为 B)。",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q62",
+              "number": 62,
+              "stem": "Why does the author deem it inappropriate for Harvard to confer an honorary degree on Oprah Winfrey?",
+              "options": {
+                "A": "She did not specialize in the study of law.",
+                "B": "She was known as s supporter of fake science.",
+                "C": "She was an icon of the entertainment industry.",
+                "D": "She had not distinguished herself academically."
+              },
+              "answer": "B",
+              "explanation": "(一) 13",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2014-06/key_2014年6月英语六级答案解析_一.txt",
+                "sourceText": "B)。推理判断题【考频：★★★】。由题干中的 inappropriate 和 honorary degree 定位到第二段。定位段第三句指出，Oprah 特殊的名人类型并不适合一个以真理为座右铭的大学的价值观。第四句给出了“不适合”的例证：不幸的是，Oprah 充满激情的支持扩大到了对伪科学的强烈拥护。综上可知，作者认为哈佛不应授予 Oprah 荣誉学位是因",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q63",
+              "number": 63,
+              "stem": "How did Harry Lewis react to Harvard’s decision in his blog post?",
+              "options": {
+                "A": "He was strongly against it.",
+                "B": "He considered it unpopular.",
+                "C": "He thought it would help enhance Harvard’s reputation.",
+                "D": "He thought it represented the will of the Harvard community."
+              },
+              "answer": "A",
+              "explanation": "A)。事实细节题【考频: ★★★】。由题干中的 Harry Lewis 定位到第四段第二句。定位句指出，哈佛学院前任院长 Harry Lewis 在一篇博客帖子中提出了他的反对意见，故答案为 A)。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2014-06/key_2014年6月英语六级答案解析_一.txt",
+                "sourceText": "A)。事实细节题【考频: ★★★】。由题干中的 Harry Lewis 定位到第四段第二句。定位句指出，哈佛学院前任院长 Harry Lewis 在一篇博客帖子中提出了他的反对意见，故答案为 A)。",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q64",
+              "number": 64,
+              "stem": "What is the author’s regret about many American universities?",
+              "options": {
+                "A": "They show inadequate respect for evidence-based inquiry.",
+                "B": "They fall short of expectations in teaching and research.",
+                "C": "They attach too much importance to public relations.",
+                "D": "They are tolerant of political and religious nonsense."
+              },
+              "answer": "C",
+              "explanation": "C)。事实细节题【考频:★★★】。由题干中的 American universities 定位到倒数第二段。定位段第一句指出，许多美国大学似乎都忙于保护他们的品牌，而疏于对知识追求的保护。第二句指出，哈佛大学的公共关系部门在过去五年的发展令人震惊。结合第一句中的 Unfortunately 可知，作者对美国的许多大学过于重视公共关系而感到遗憾，故答案为 C)。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2014-06/key_2014年6月英语六级答案解析_一.txt",
+                "sourceText": "C)。事实细节题【考频:★★★】。由题干中的 American universities 定位到倒数第二段。定位段第一句指出，许多美国大学似乎都忙于保护他们的品牌，而疏于对知识追求的保护。第二句指出，哈佛大学的公共关系部门在过去五年的发展令人震惊。结合第一句中的 Unfortunately 可知，作者对美国的许多大学过于重视公共关系而感到遗憾，故答案为 C)",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q65",
+              "number": 65,
+              "stem": "What does the author think a prestigious university like Harvard should focus on?",
+              "options": {
+                "A": "Cultivation of student creativity.",
+                "B": "Defense of the scientific method.",
+                "C": "Liberation of the human mind.",
+                "D": "Pursuit of knowledge and truth."
+              },
+              "answer": "D",
+              "explanation": "D)。观点态度题【考频考频: ★☆☆】由题干中的 prestigiousuniversity 和 focuson 定位到最后两段。 倒数第二段第一句提到，不幸的是，美国的许多大学疏于对知识追求的保护。最后一段第一句指出，当美国的研究型大学变得像利润中心和娱乐中心时，它们很容易忽略自己最初的使命:创造和传播知识。也就是说，作者认为像哈佛这样有威望的大学应该专注于追求知识与真理，故答案为 D)。 PartⅣ Translation 北京计划未来三年投资 7 600 亿元治理污染，从减少 PM2.5 排放入手。这一新公布的计划旨在减少四种主要污染源，包括 500 多万辆机动车的尾气(exhaust)排放、周边地区燃煤、来自北方的沙尘暴和本地的建筑灰尘。另 850 亿元用于新建或升级城市垃圾处理和污水（sewage)处理设施，加上 300 亿元投资未来三年的丝树造林（forestation)。市政府还计划建造一批水循环利用工厂，并制止违章建筑，以改善环境。另外，北京还将更严厉地处罚违反限排规定的行为。 Beijing is planning to invest 760 billion yuan to control pollution in the next three years, starting from reducing the emission of PM2. 5. The newly announced plan is aimed at reducing four major sources of pollution, including exhaust emissions of over 5 million motor vehicles, coal-burning in surrounding areas, sandstorms from the north and local construction dust. Another 85 billion yuan will be used to establish or upgrade the facilities f",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2014-06/key_2014年6月英语六级答案解析_一.txt",
+                "sourceText": "D)。观点态度题【考频考频: ★☆☆】由题干中的 prestigiousuniversity 和 focuson 定位到最后两段。 倒数第二段第一句提到，不幸的是，美国的许多大学疏于对知识追求的保护。最后一段第一句指出，当美国的研究型大学变得像利润中心和娱乐中心时，它们很容易忽略自己最初的使命:创造和传播知识。也就是说，作者认为像哈佛这样有威望的大学应该专注",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should\nwrite your answer on Answer Sheet 2.",
+      "source": "北京计划未来三年投资7 600 亿元治理污染，从减少PM2.5 排放入手。这一新公布的计划旨在减少四种主要污染源，包括500 多万辆机动车的尾气(exhaust)排放、周边地区燃煤、来自北方的沙尘暴和本地的建筑灰尘。另850 亿元用于新建或升级城市垃圾处理和污水（sewage)处理设施，加上300 亿元投资未来三年的丝树造林（forestation)。市政府还计划建造一批水循环利用工厂，并制止违章建筑，以改善环境。另外，北京还将更严厉地处罚违反限排规定的行为。注意：此部分试题请在答题卡2 上作答。",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

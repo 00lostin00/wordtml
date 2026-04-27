@@ -1,0 +1,502 @@
+{
+  "id": "cet6-2025-12-1",
+  "type": "cet6",
+  "year": 2025,
+  "month": 12,
+  "set": 1,
+  "title": "2025年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Living in an increasingly competitive world, college students should better prepare themselves to confront various challenges.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+      "prompt": "Living in an increasingly competitive world, college students should better prepare themselves to confront various challenges."
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank\nfrom a list o f choices given in a word bank following the passage. Read the passage through carefully before\nmaking your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for\neach item on Answer Sheet 2 with a single line through the centre. You may not use any o f the words in the bank\nmore than once.\nBy now, it is generally accepted that regular exercise comes with an assortment of health benefits for people who\nmaintain the habit over time. But is it \n26 too late to start?\nNew research looked at people who increased their exercise levels after their 40s beyond levels they had when\nthey were younger and those individuals showed declines in their risk of early \n\nwhich were similar to those of\npeople who exercised consistently throughout their lives. This was a \n\nof 32% to 35% compared to people who\ndid not exercise. Those who began exercising in middle age also saw reductions in their incidence of \n\ndiseases,\nsuch as heart disease and cancer, which were similar to the steady exercisers.\nSo why bother exercising consistently throughout your life? The authors of the study \n\nthat some\nmight interpret the study's findings to mean that they can delay starting an exercise program but this would\nbe a mistake. There are other benefits, both mental and physical, to staying consistently active that we should\nnot \n\n. These real health benefits include better \n\nfunctioning and lowered risk of gaining weight. The\nlatter is \n\nimportant given the global obesity epidemic. In addition, experts assert that starting younger\nis better because, if you make a habit of exercising when you are young, you are more likely to keep up those\n\nlater in life. It is ideal, then, fbr people to start exercising when they are children or \n35 . and it is good\nto maintain an active lifestyle at all times regardless of your age. However, this study does indicate that, if you\nhave not been active, you can still benefit if you start becoming active in your 40s and 50s.",
+      "wordBank": {
+        "A": "adolescents",
+        "I": "maneuver",
+        "B": "arbitrarily",
+        "J": "mortality",
+        "C": "chronic",
+        "K": "particularly",
+        "D": "cognitive",
+        "L": "patterns",
+        "E": "concede",
+        "M": "refute",
+        "F": "disregard",
+        "N": "stereotype",
+        "G": "drop",
+        "O": "vocal",
+        "H": "ever"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+            "sourceText": "． 你知道何时该明智地放弃吗？ A) 项目、 人际关系和工作未必总能按计划顺利进行一一而且往往不清楚何时该放弃。 我们常听人说 “ 半途而废者永无胜算 ”， 但有时候， ． 止损是最明智的决定。 六级 2025 ． 12 第二 29 B) 想想那段明明已走到尽头你却依然紧抓不放的感情， 或是那份尽管老板让你痛苦不堪你却仍在坚守的工作。 我们很多人都会试图抓住最后一丝希望， 觉得自己能让情况好转一一一无论是什么 “ 情况 \"。 虽然坚持不懈通常是一种极好的品质， 但它也可能让你在早已不值得的事情上过度投人 C) 作为一名高管教练， 我和许多富有热情、 勤奋肯干的领导者合作，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "Like most chefs, Flippy is not afraid of hard work. Since last summer, that has meant 11am until 7pm shifts\nat Caliburger in Pasadena, California, as well as short assignments at Chick-N-Tots at Dodger Stadium in\nLos Angeles. These are long hours of repetitive work, where the boss demands absolute consistency. But you\nwon't hear Flippy complain or say anything, in fact. For Flippy is a robot—a cloud-connected mechanical\narm with 3D thermal scanners for eyes—that can flip burgers or fry 80 baskets of food an hour, monitor that\nfood and even clean up afterwards."
+        },
+        {
+          "label": "B",
+          "text": "Flippy was created by Miso Robotics, part of the Cali Group, which is described by its CEO, John Miller, as: \"A\ntechnology company that happens to sell cheeseburgers.^^ Cali creates new machines that it road-tests in its\nCaliburger restaurants across the world, into which Flippy will be deployed this year. And Flippy is not alone.\nAlso in California, Bear Robotics has developed a self^guiding robot, Penny, which has so far served 40,000\ndiners."
+        },
+        {
+          "label": "C",
+          "text": "Ten years ago, robot-chefs and waiters were pure science fiction. Today, they are a reality, and at prices that\nmake them a plausible investment. From May, Penny will be shipped on a subscription basis that offers \"an\nimmediate retum^^, says Bear Robotics5 chief operating officer, Juan Higueros. Flippy will cost a reported\n$60,000 to $100,000. Fully automated burger restaurants managed with minimal human oversight- where\ncustomers order at screens, pay electronically and eat food cooked and delivered by robots- are now a\npossibility."
+        },
+        {
+          "label": "D",
+          "text": "The technology exists, it just needs knitting together cost-effectively and in a way diners buy into. In an\nindustry keen to slash labour costs and increase profits, further automation seems inevitable. After an eight­\nmonth test at Kang Nam Tofu House in California, Bear Robotics credited Penny with driving a 28% increase\nin sales. Meanwhile, in US trials, the self-ordering screens that McDonald's is currently installing at its 1,300\nUK restaurants yielded a reported 30% rise in order values."
+        },
+        {
+          "label": "E",
+          "text": "Personalisation is seen as key to the appeal of this technology, alongside its ability to reliably push so-called\n“upseHs” (meal deals, extras, larger drinks) to customers. Soon when you log into a restaurant app, it will be\nable to use your data and purchasing history to recommend dishes to you~~-factoring in everything from the\nweather to, if you are ordering at a screen that can read your face, your mood."
+        },
+        {
+          "label": "F",
+          "text": "“Right now people compromise on choice. We're presented with a one-size-fits-all menu. Ultimately,\ntechnology can allow us to make personal choices. You love spicy food and chicken? Here's the dish people\nlike you mostly order,“ says Tom Weaver, CEO at the hospitality tech company Flyt. He talks enthusiastically\nabout the Helsinki pop-up Take-In, a full-service restaurant where diners ordered dishes in from various\ndelivery services. 'Tor the first time in a few hundred years, digital is allowing us to create new versions of\nrestaurants.,,"
+        },
+        {
+          "label": "G",
+          "text": "If high-street fast food is automation-ready, its impact on high-end restaurants is likely to be subtler and\nslower. C4Ifll probably be a very long time before we see a five-star robot-chef,5, says Noel Sharkey, professor\nof AI and robotics at the University of Sheffield. '\"Apart from the AI creativity gap, great cooking involves\na subtle understanding of ingredients and delicate cooking that would be enormously challenging for robots.\n• 2025年12月六级真题（第一套）•\n\nPlacing fragile foods on plates would be incredibly slow.”"
+        },
+        {
+          "label": "H",
+          "text": "Currently, robots have limited functionality. A human needs to load Penny with plates that diners lift off\nthemselves. At the robot-powered US pizza-delivery company Zume, the more difficult jobs, such as topping\npizzas, are still done by humans. But Moley, which will launch soon, offers an idea of the sophistication to\ncome. Modelled on the movements of a MasterChef contest winner, Tim Anderson, its robotic arms are fixed\nover a stove and programmed to prepare dishes from raw ingredients. It is designed for domestic use, but a\ncommercial version is planned that opens up the possibility of restaurant kitchens automating even highly\ntechnically challenging tasks."
+        },
+        {
+          "label": "I",
+          "text": "For now, the kitchen technology that QSR Automations supplies to Mitchells & Butlers' pubs or KFC is less\nglamorous. Rather than having a chef shouting out diners' orders, the QSR system automatically distributes\nthose orders across screens. The kitchen screens then tell chefs when to start cooking each dish, so that your\nplate of fish, chips and peas comes together at the right time."
+        },
+        {
+          "label": "J",
+          "text": "The restaurant industry is currently suffering a severe shortage of skilled chefs- a deficit of 11,000,\naccording to the skills agency People 1st. \"'Automation systems designed to make the process more idiot­\nproof are trying to bridge that gap,“ says Stefan Chomka, the editor of Restaurant magazine."
+        },
+        {
+          "label": "K",
+          "text": "In terms of simplifying or enhancing the customer experience, online restaurant booking has been the easily-\nwon success of the internet age. Automated at-table ordering and payment is seen as the next landmark. Until\nthen, early adopters, such as the Manchester bar owner Andy Smith, who uses the Ordoo app at his venue 33\nOldham Street, may well experience growing but “lower than expected^^ acceptance.\nL) Embarrassing failures in restaurant tech frequently hit the headlines. The TGI Fridays drone (无人机)that\ninjured a Brooklyn Daily photographer; US burger chain Shake Shack having to retreat from plans for entirely\ncashless ordering sites. But, says Chomka, such technology could miss the mark if it only offers \"solutions to\nproblems that don't really exist\". \"Payments being automatic^^ could be useful, he adds. But, in an expensive\nrestaurant, 4thow quick do you need dinner to be?,,\nM) That attachment to the human art of hospitality will be heartening for staff who see automation as a threat to\njobs. \"Unite is concerned that without safeguards, any benefits will bypass workers in low-paying jobs, such\nas waiters,M says the union's London regional officer, Dave Turnbull. \"We're urging Members of Parliament\nto ensure automation does not just benefit a wealthy few like previous industrial revolutions.^^\nN) The industry principle is that automation will allow it to redeploy staff more effectively. Jobs will change, if\nnot immediately decrease in number, \"SeForder screens mean more demand for people front-of-house. Last\nyear, we recruited 1,000 new managers,M says McDonald's COO, Jason Clark. Caliburger has a programme\nto retrain staff as robot engineers or “chef techs”.\nO) But ultimately the chance to reduce overheads (管理费用)by employing fewer people or at lower rates will\nbe what attracts big brands to technology. Invariably, over the next 10 years, jobs will go in conventional\nbricks-built restaurants, not least because automation will boost their rapidly growing rival: delivery.\nCompanies such as Domino and Just Eat have both experimented with robot and drone delivery, which is\nalready legal in Reykjavik, Iceland. \"Robot food deliveries are the future,n says Noel Sharkey. 4tSmall, 4mph\nground robots are safe and will work 24 hours a day.”\nP) Combined with machine learning of anticipated order volumes and the minute-by-minute cooking data\ngenerated by systems such as QSR, that robot fleet could deliver almost instantly. ''Restaurants will prepare\nfood ahead of orders coming in,“ predicts Just Eafs director of engineering, Daniel Richardson. UF11 be able\nto say 'Let's have pizza5 to my family, my intelligent assistant will hear and 10 minutes later the food will be\n\n■ 2025年12月六级真题（第一套）•\n\nat my door,^^ No one is putting an exact date on it yet. But in the dining room and on your doorstep, the robots\nare coming."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "It is now possible to fully automate a burger restaurant with little human supervision.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "At a robot-powered US company, complicated tasks still have to be performed by humans.",
+          "answer": "D",
+          "explanation": "· 46， 当人们急于追求个人成功时， 常常会发生什么？ A) 他们缺少可以倚靠的肩膀来哭诉 B) 他们没有能够倾诉衷肠的灵魂。 0 他们找不到可靠的朋友 D) 他们忽视与朋友的联系。 定根据题干信息词 are eager to pursue individual success 可将答案线索定位至第一段解 + 第一段第二句提到， 我们在急于追求个人成功的路上， 往往会失去朋友。 由果推因， 人们之所以会失去朋友， 是因为在急于追求个人成功的过程中， 忽视了与朋友的联系， 与朋友渐行渐远， 进而失去他们， D 项与此描述相符， 故为正确答案。 A、 B、 c 三项描述的是一种 “ 没有朋友 ” 的状态， 而文章描述的是在追求成功的过程中， 从 “ 有朋友 \" 到 “ 失去朋友 ” 的动态变化， 这三项与文章内容不符， 故排除。 47 ． 对于追求极端个人主义， 作者建议人们做什么？ A) 重新审视其有害影响。 B) 对失去挚爱之人满不在乎。 0 避开其中涉及的混乱和纷扰 D) 清除 （前进） 道路上的巨大障碍定根据题干信息词 radical individualism 可将答案线索定位至第三段解对于追求极端个人主义， 作者在第三段最后一句建议人们， 必须重新审视极端个人自由所带来",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+            "sourceText": "ifflcult jobs. . . are still done by humanso 3 & 壬对于渴望削减人工成木并提高利润的行业来说， 进一步自动化似乎已成必然 〔 餐鼕 D 由题干关键信息 More automation 和 eager to cut labour costs and raise profits 定位到 D 段。 D 段第二句提到， 在一个急于削减人工成本和提高利润的行业， 进一步的自动化似乎不可避免。 由此可",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "More automation appears to be a certainty in industries eager to cut labour costs and raise profits.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "There are often front-page reports of failures in technological innovation of the restaurant industry.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Robot-chef Flippy does not fear laborious work, nor does it make any complaints.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Digital technology makes it possible for businesses to innovate restaurant models.",
+          "answer": "B",
+          "explanation": "· 46 作者对人类有何论述？ A) 人类若不相互合作便无法繁荣。 B) 人类拥有共同兴趣并信奉正义事业。 0 人类在不同的社会群体中有着相似的思维和行为方式。 D) 人类不通过斗争就无法获得独立。 定 + 根据题干信息词 human bemgs 可将答案线索定位至第一段。 · 皿统一， 使成一体 · diverseadj. 不同的， 多种多样的 · take on 呈现， 显出 · multifaceted adj. 多方面的 · facet 汛 （事物的） 部分， 方面 · adherence ” 坚持， 遵守， 遵循 · cohesiveness ” ． 凝聚力， 内聚力 · exclusivenessn. 排他性， 排外性 · autonomy ” ． 自主； 自主权 · reaction 反抗， 抗拒 · hindranc e n. 造成妨碍的人 （或事物） · in the light of 鉴于， 由于 · calculation n. 计算； 预测， 估算 · inclusive adj. 包容性强的 · vulnerableadj. 脆弱的， 易受一一伤害的解， 第一段第一句提到， 作为相互依存的个体， 我们无法脱离他人而蓬勃发展。 该句直接说明了相互合作对人类繁荣的必要性， A 项符合文意， 故为正确答案。 原文只是说人们喜欢与志同道合、 有共同兴趣， 或同样坚信某些事情的人共事， 但没有说全人类都拥有共同",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+            "sourceText": "。 它为捍卫人类尊严而战， 倾听并回应最弱势群体的呼声。 0 · 答案详解 · 46 作者对人类有何论述？ A) 人类若不相互合作便无法繁荣。 B) 人类拥有共同兴趣并信奉正义事业。 0 人类在不同的社会群体中有着相似的思维和行为方式。 D) 人类不通过斗争就无法获得独立。 定 + 根据题干信息词 human bemgs 可将答案线索定位至第一段。 · 皿统",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Fondness fbr human warmth in catering to customers will give hope to employees who are afraid of losing\njobs to robots.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "There is an acute shortage of experienced chefs in the catering industry and automated cooking is expected to\nfill the gap.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Over the coming decade, many jobs in traditional restaurants will disappear due to robot delivery.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "According to an expert in AI and robotics, it may be quite some time before a master robot-chef appears.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nMany see friendships as a comfort blanket: a shoulder to cry on, a reliable soul to confide in. However, more\noften than not, in our eagerness to seek individual success, we lose friends along the way and that has become\npart of the process.\nThe chaos and never-ending turmoil that accompanies everyday life is an aggressive obstacle in the pursuit\nof stable friendships. As students, we use this excuse to shrug off losing people who we once thought to be loved\nones.\nInstead of viewing our lives as a race, where everyone is on their own path to some form of success, we must\nrelearn to value the connections we make along the track. We must reevaluate the harm of radical, individual\nfreedom.\nRadical individualism elevates the freedom of the individual over the collective. It argues, for instance, that\nuniversal healthcare, an example of collectivism, threatened the dream of many Americans.\nMany of us have fallen victim to an individualistic culture. Society tends to celebrate personal achievement\nand commend it based on the assumption that winning or succeeding is a consequence of working harder than\nthe next person.\nAs a society, we idolize the concept of “losing friends on the road to success.^^ I remember hearing in high\nschool, \"Don't worry about losing friendships, just focus on study and getting into college. Thafs all that will\nmatter in the long run,^^ a sentiment that is not unique to my experience. Ifs preached in many success stories,\nand it's embedded in the way we see growth. Motivational speakers will push their audience to be complacent to\nthe inevitable end of losing friends. Spend too much time with friends? You5re losing time better utilized on your\nachievements. Invest time in your relationships? Invest time in your work instead.\n• 2025年12月六级真题（第一套）•\n\nThis constant need to succeed has blinded us from seeing through the whirlwind of change that accompanies\nour everyday lives. We are expected to tangibly succeed, earn awards, get higher positions, earn better grades. In\norder to succeed, we lose friends, and that has sadly become normalized.\nWe cannot be complacent with losing friendships because they are our anchors.\nYes, pursue success. Challenge yourself. Push limits. But contrary to all the self-proclaimed success experts,\ndoing it alone does not make you more successful or any better than someone who achieved it with the help of\nothers.\nPut effort into fostering healthy relationships, and maintaining them through your busy schedule that seems\nlike it leaves no time for anyone else. Although we may be living in a society that treasures the independent\npursuit of achievement, having people to support and love you on the way is far more important than any end\nresult.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What often happens when people are eager to pursue individual success?",
+              "options": {
+                "A": "They lack a shoulder to cry on.",
+                "B": "They have no soul to confide in.",
+                "C": "They cannot find reliable friends.",
+                "D": "They ignore their ties with friends."
+              },
+              "answer": "D",
+              "explanation": "+ 第一段第二句提到， 我们在急于追求个人成功的路上， 往往会失去朋友。 由果推因， 人们之所以会失去朋友， 是因为在急于追求个人成功的过程中， 忽视了与朋友的联系， 与朋友渐行渐远， 进而失去他们， D 项与此描述相符， 故为正确答案。 A、 B、 c 三项描述的是一种 “ 没有朋友 ” 的状态， 而文章描述的是在追求成功的过程中， 从 “ 有朋友 \" 到 “ 失去朋友 ” 的动态变化， 这三项与文章内容不符， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+                "sourceText": "46， 当人们急于追求个人成功时， 常常会发生什么？ A) 他们缺少可以倚靠的肩膀来哭诉 B) 他们没有能够倾诉衷肠的灵魂。 0 他们找不到可靠的朋友 D) 他们忽视与朋友的联系。 定根据题干信息词 are eager to pursue individual success 可将答案线索定位至第一段解 + 第一段第二句提到， 我们在急于追求个人成功的路上， 往往会失去朋友。 由果推因， 人们之所以会失去朋友， 是因为在急于追求个人成功的过程中， 忽视了与朋友的联系， 与朋友渐行渐远， 进而失",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What does the author advise people to do in their pursuit of radical individualism?",
+              "options": {
+                "A": "Reexamine its detrimental effects.",
+                "B": "Shrug off the loss of their loved ones.",
+                "C": "Avoid the chaos and turmoil involved.",
+                "D": "Remove aggressive obstacles in the way."
+              },
+              "answer": "A",
+              "explanation": "对于追求极端个人主义， 作者在第三段最后一句建议人们， 必须重新审视极端个人自由所带来的危害。 A 项 Reexamine its detrimental effects 是对原文中 reevaluate the haml 的同义转述， 故为正确答案。 B 项是作者所批判的社会现象， 且与题干所问无关， 故排除。 c 项和 D 项是利用原文出现过的单词 （chaos、 turmoi",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+                "sourceText": "47 ． 对于追求极端个人主义， 作者建议人们做什么？ A) 重新审视其有害影响。 B) 对失去挚爱之人满不在乎。 0 避开其中涉及的混乱和纷扰 D) 清除 （前进） 道路上的巨大障碍定根据题干信息词 radical individualism 可将答案线索定位至第三段解对于追求极端个人主义， 作者在第三段最后一句建议人们， 必须重新审视极端个人自由所带来的危害。 A 项 Reexamine its detri",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What is American society's assumption of personal achievement?",
+              "options": {
+                "A": "It is to be duly celebrated and highly commended.",
+                "B": "It is a sure way to fulfill a person's dream.",
+                "C": "It revolves around an individualistic culture.",
+                "D": "It reflects a person's exceptional endeavor."
+              },
+              "answer": "D",
+              "explanation": "第五段第二句提到了这 —assumption （假设）， 并通过 that 引导的同位语从句对其进行了解释， 即 that winning or succeeding is a consequence Of working harder than the next person （获胜或成功是比他人更努力的结果）， D 项符合此描述， 故为正确答案。 A 项是对个人成就颂扬和称赞的社会行为， 而非假设， 故排除。 B 项原文未提及， 故排除。 c 项是个人成就产生的文化背景， 而非假设， 故排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+                "sourceText": "48 ． 美国社会对个人成就的假设是什么？ A) 它理应得到颂扬和高度称赞 B) 它是实现个人梦想的可靠途径。 C) 它围绕个人主义文化展开。 D) 它反映了一个人非凡的努力。 定 + 根据题干信息词 assumption of personal achievement 可将答案线索定位至第五段解第五段第二句提到了这 —assumption （假设）， 并通过 that 引导的同位语从句对其进行了解释， 即 that winning or succeeding is a consequence Of",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What is preached in many success stories?",
+              "options": {
+                "A": "Attaching importance to academic gains on the road to success.",
+                "B": "Investing one's time in work instead of connecting with friends.",
+                "C": "Trying to strengthen friendships in one's pursuit of personal success.",
+                "D": "Excelling in academic performance to get into a prestigious college."
+              },
+              "answer": "B",
+              "explanation": "， 第六段第三句提到， lt， s preached in many success stories， 分析上下文可知， it 指代第二句中所提到的 a sentiment （一种观点）， 即 “ 别担心失去友谊， 只要专心学习， 考上大学就行。 从长远来看， 这才是最重要的。 ” 该观点同时与第一句所提到的 the concept （观念） “ 成功路上难免失友 ” 相对应， 两者都认为成功比友谊更重要， 人们应将更多时间花在学业或工作上。 此外， 该段最后四句话通过一问一答的形式再次阐释了这一观点， 其中最后两句提到， 花时间经营人际关系？ 不如把时间花在工作上。 B 项是对这两句话的同义转述， 故为正确答案。 A 项和 D 项仅为具体例子， 且都只提到了学业， 未提到友谊， 不能完整概括文中观点， 故排除。 c 项与成功故事宣扬的观点相悖， 故排除",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+                "sourceText": "49 ． 许多成功故事宣扬什么现点？ A) 在追求成功的道路上重视学业收获。 0 在追求个人成功时尽力巩固友谊。 B) 把时间花在工作上， 而不是与朋友交往上。 D) 在学业上出类拔萃， 以考人一所名牌大学。 定根据题干信息词 preached 和 many success stories 可将答案线索定位至第六段解， 第六段第三句提到， lt， s preached in many success stories， 分析上下文可知， it 指代第二句中所提到的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What can we infer from the passage regarding the pursuit of success?",
+              "options": {
+                "A": "No one can succeed without pushing limits.",
+                "B": "No one can afford to neglect close friends.",
+                "C": "Collectivism is superior to individualism.",
+                "D": "Success experts often lead people to ruin."
+              },
+              "answer": "B",
+              "explanation": "兮通读全文可知， 原文旨在强调人们在追求成功时不要以牺牲友谊为代价的观点。 其中， 第人提可， 我们不能对失去友谊这件事无动于衷， 因为友谊是我们的精神支柱； 最后一段提到， 在追求成功的道路上， 有人支持你、 爱你， 这远比任何最终结果都重要。 由此可看出， 友谊在追求成功的路上至关重要， 不容忽视， 否则会付出代价， B 项与原文表述相符， 故为正确答案。 原文只是提到要突破极限， 但并未提及突破极限是成功的必要条件， 故排除 A 项。 原文只是批判了极端个人自由所带来的危害， 以此来强调个人在追求成功时不要忽视集体 （朋友） 的支持， 但并未得出 “ 集体主义优于个人主义 \" 的结论， 故排除 c 项。 原文只是提到一些成功学专家会鼓动人们接受失去朋友， 但并未提到他们往往会把人引向毁灭， D 项属于过度推断， 故排除。 Passage TWO",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+                "sourceText": "50 ． 关于追求成功， 我们可以从文章中推断出什么？ A) 不突破极限， 没人能取得成功。 B) 没有人能承担得起忽视挚友的代价。 0 集体主义优于个人主义。 D) 成功学专家往往会把人引向毁灭。 定根据题干信息词 infer from the passage 可将答案线索定位至全文六级 2025 」 2 第一 15 解兮通读全文可知， 原文旨在强调人们在追求成功时不要以牺牲友谊为代价的观点。 其中， 第人提可， 我们不能对失去友谊这件事无动于衷",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nDuring his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr. said, UI believe that unarmed\ntruth and unconditional love will have the final word in reality.,5\nMore than five decades later, our society is still struggling to separate truth from fantasy, fact from fiction.\nFrom disputes over the climate change to debates about how slavery is taught, America is at a crossroads. And\nthe battle fbr equity is at the heart of these vital conversations.\nStudy after study shows that inequity has had appalling consequences. A 2020 report by Citi indicated that\n“Black students could have increased their lifetime incomes $90-$113 billion^^ if equity issues related to higher\neducation had been adequately addressed over the past two decades.\nThis statistic represents a flood of issues we've failed to confront as a nation. It also highlights one truth:\nWe're missing out on valuable opportunities to bridge the differences that divide us. However, by honoring\nKing's legacy, we can get our country back on the path toward true equity.\n\n■ 2025年12月六级真题（第一套）•\n\nStudents—and adults for that matter- simply cannot understand the conflicts we have today without\nunderstanding what caused them in the first place. That means we have a responsibility to help them make\nconnections between U.S. history and current events. It also means giving them the tools they need to address\ninequity and bias in their own lives. Adherence to these principles, along with a commitment to truthful dialogue,\ncan help every student better appreciate how far we've come and more clearly see the roads we have yet to\ntravel.\nWith more truthful analysis of the need for more qualified, diverse educators, we can improve our recruiting,\ntraining, and retention strategies fbr schools across the country.\nUnfortunately, our deeply rooted divisions are delaying these advancements. A recent survey found that 77\npercent of Americans believe the nation is “more divided than ever befbre”. But reports of increased polarization\nshouldn't persuade us to look away from one another. Instead, they should compel us to address our shared issues\nhead-on.\nWe are not, as some would suggest, living in a “post-racial society^^. We simply cannot afford to keep our\nheads buried in the sand when it comes to racial inequity. Unless we get honest about intolerance, bias, and how\nthese social diseases impact the ways we treat one another, injustice will continue to haunt us. But our children\nand our grandchildren deserve better.\nOn this Martin Luther King Day and beyond, lefs commit to working together to disrupt the status quo.\nLefs continue to build a better, more inclusive nation; and in the words of Martin Luther King Jr., “A society at\npeace with itself, a society that can live with its conscience.^^",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What does the author think about today's America?",
+              "options": {
+                "A": "It is struggling to transform fiction into reality.",
+                "B": "It has been the fbcus of many vital conversations.",
+                "C": "It still has a long way to go before equity can be truly realized.",
+                "D": "It has got to a point where people disagree on nearly every issue."
+              },
+              "answer": "D",
+              "explanation": "， 第一段最后一句提到： “ 一项研究发现， 相比于权力欲较弱的人， 权力欲较强的人更爱主动给出建议。 第二段第一句接着对此进行了进一步阐释： “ 这些人一一背后的驱动力其实是想借此获得掌控感， 彰显自身权力。 ” 选项 D 与此表述一致， 故为正确答案。 选项 A 和选项 B 都是文章开头提到的 “ 有些人 \" 的动机， 但不是该研究的具体发现； 选项 c 是权力寻求倾向可能带来的结果或自我感觉， 并非研究发现本身， 故这三项均排除",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+                "sourceText": "lf-regulate 自我调节 · compassion ” ． 同情， 怜悯 · diffuse 平息， 缓和 · unsolicited advice 自作主张的建议 · offended 口砌 ． 被冒犯的 0 他们具备影响他人的能力。 D) 他们往往渴望获得权力。 定吵根据题干信息词 one study 可以把答案线索初步定位至第一段最后一句解， 第一段最后一句提到： “ 一项研究发现， 相比于权力欲较弱的人， 权力欲较强的人更爱主动给出建议。 第二段第一句接着对此进行了进一步阐释： “ 这些人一一背后的驱动力其实是想借此获得掌控感， 彰显自身权力。 ” 选项 D 与此表述一致",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What do we learn from the passage about black students in the past 20 years?",
+              "options": {
+                "A": "They have been unfairly treated regarding higher education.",
+                "B": "They have been battling hard to address equity issues.",
+                "C": "They have boosted their lifetime incomes by billions of dollars.",
+                "D": "They have come to see the consequences of racial discrimination."
+              },
+              "answer": "A",
+              "explanation": "到过去一十年里有关黑人学生的什么信息？ A) 他们在高等教育方面受到了不公对待。 0 他们的终身收人增加了数十亿美元。 B) 他们一直在为解决公平问题而奋力抗争。 D) 他们开始意识到种族歧视带来的后果。 定根据题干信息词 black students in the past 20 years 可将答案线索定位至第三段解第三段提到了花旗银行的一份报告， 该报告指出， 如果高等教育公平问题得到解决， 黑人学生的终身收人本可大幅增加。 这反向说明他们因不公平而遭受了巨大的经济损失。 选项 A 是这一数据隐含的核心事实， 故为正确答案。 选项 B 文中未提及； 选项 c 与原文虚拟语气 （could have increased） 矛盾； 选项 D 并非文中直接说明的内容， 故这三项均排除",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+                "sourceText": "52 ． 我们从文章中了解到过去一十年里有关黑人学生的什么信息？ A) 他们在高等教育方面受到了不公对待。 0 他们的终身收人增加了数十亿美元。 B) 他们一直在为解决公平问题而奋力抗争。 D) 他们开始意识到种族歧视带来的后果。 定根据题干信息词 black students in the past 20 years 可将答案线索定位至第三段解第三段提到了花旗银行的一份报告， 该报告指出， 如果高等教育公平问题得到",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "How can Americans bridge the differences that divide them?",
+              "options": {
+                "A": "By dealing with the thorny issues confronting them.",
+                "B": "By seizing every chance to enhance racial harmony.",
+                "C": "By continuing to pursue Martin Luther King Jr.'s cause.",
+                "D": "By striving to identify exceedingly valuable opportunities."
+              },
+              "answer": "D",
+              "explanation": "， 第四段提到， 当听建议的人注意到提议者行为背后的焦虑时， “ 很容易忍不住对这个提出建议的人做出强硬的回应， 指责对方在操控你， 但这种做法可能会适得其反 \"。 选项 D 是对原文 \"accuse them of being manipulative\" 的同义转述， 故为正确答案。 原文是说听建议的人强硬回应提议者的这种做法会适得其反， 选项 A 与此不符； 选项 B 是第五段讨论的 \"oufrlghtrejecuon\"， 虽可能发生， 但题干问的是看到提议者的 “ 焦虑 ” 时听建议的人的行为， 第四段明确指出 \"react harshly\"， 而不是 re e； 选项 C 在文中未明确提及， 故排除这三个选项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+                "sourceText": "53， 当注意到提议者潜在的焦虑时， 听建议的人忍不住做什么事？ A) 指出对方这种做法会适得其反 B) 毫不掩饰地拒绝对方的建议 0 戳穿对方的真实动机 D) 指责对方试图操控别人。 六级 2025 ． 12 第二響 35 定碜根据题干信息词 advice receiver tempted to do 和 underlymg anxiety 可以把答案线索定位至第四段解， 第四段提到， 当听建议的人注意到提议者行为背后的焦虑时， “ 很容易忍不住对这个提出建议的人做出强硬的回应， 指责对方在操控你， 但这种做法",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "How do most Americans view America as a nation according to a recent survey?",
+              "options": {
+                "A": "It is compelled to address its historical social issues.",
+                "B": "It is delaying advancements toward racial equality.",
+                "C": "It has kept itself from polarization.",
+                "D": "It has become increasingly split. • 2025年12月六级真题（第一套）•"
+              },
+              "answer": "D",
+              "explanation": "决其历史遗留的社会问题。 0 美国避免了自身的两极分化 B) 美国在推进种族平等的进程中不断拖延。 D) 美国的分裂程度日益加剧。 定根据题干信息词 most Americans 和 a recent， ey 可将答案线索定位至第七段解第七段明确提到： “ 近期一项调查显示， 77 ％ 的美国人认为， 美国 ' 正处于前所未有的分裂状态，。 ” 这直接对应选项 D, 故该选项为正确答案。 选项 A 是作者观点， 而不是调查的结果； 选项 B 是作者对现象的分析， 也不是调查的结果； 选项 c 与调查结果完全相反， 故这三项均排除",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+                "sourceText": "54， 根据近期的一项调查， 大多数美国人是如何看待美国这个国家的？ A) 美国被迫解决其历史遗留的社会问题。 0 美国避免了自身的两极分化 B) 美国在推进种族平等的进程中不断拖延。 D) 美国的分裂程度日益加剧。 定根据题干信息词 most Americans 和 a recent， ey 可将答案线索定位至第七段解第七段明确提到： “ 近期一项调查显示， 77 ％ 的美国人认为， 美国 ' 正处于前所未有的分裂状态，。 ” 这直接对应选项 D, 故该选项为正确答案。 选项 A 是作者观点， 而不是调查的结果； 选项 B 是作者对现象",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What does the author suggest Americans do?",
+              "options": {
+                "A": "Ensure the wellbeing of their children and grandchildren.",
+                "B": "Make joint efforts to tackle the nation's equity issues.",
+                "C": "Restrain their intolerance and discrimination.",
+                "D": "Restore social order for a harmonious nation."
+              },
+              "answer": "B",
+              "explanation": "决美国的公平问题。 0 抑制他们的不容忍与歧视 D) 恢复社会秩序， 建设一个和谐国家。 定碜根据题干信息词 the suggest Americans do 及 “ 题文同序 \" 原则可将答案线索定位至最后两段解倒数第二段第二句提到， 面对种族不公， 我们绝不能视而不见。 同时， 最后一段也提到 “ 让我们承诺共同努力打破僵化的现状 ”， 这是在号召集体行动来解决美国的公平问题。 选项 B 是对这两段的合理概括， 故为正确答案。 选项 A 是目标， 而非具体行动建议； 选项 c 是行动的一部分， 但不够全面； 选项 D 中的 “ 建设一个和谐国家 \" 只是作者想要实现的愿景， 并非重点行动建议， 故这三项均排除六级 202 到",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-12-1/key_OCR_2025-12-1.txt",
+                "sourceText": "55 ． 作者建议美国人做什么？ A) 保障子孙后代的福祉。 B) 共同努力解决美国的公平问题。 0 抑制他们的不容忍与歧视 D) 恢复社会秩序， 建设一个和谐国家。 定碜根据题干信息词 the suggest Americans do 及 “ 题文同序 \" 原则可将答案线索定位至最后两段解倒数第二段第二句提到， 面对种族不公， 我们绝不能视而不见。 同时， 最后一段也提到 “ 让我们承诺共同努力打破僵化的现状",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You\nshould write your answer on Answer Sheet 2.",
+      "source": "尊老是中华民族的传统美德，深深植根于中国人的思想和行为中，是人们普遍遵守的行为规范和社会准则。在当今的中国，这种美德得到广泛传承。社会各界积极营造敬老助老的社会氛围。为老年人提供便利服务已成为社会共识，例如社区专门开设长者食堂，公共场所配置优先座位。政府还出台了一系列政策，为老年人的权益提供有力保障。尊老是社会和谐与发展的重要基石，有助于培育良好的社会氛围，推动整个社会文明进步。• 2025年12月六级真题(第一套)•",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

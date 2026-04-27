@@ -1,0 +1,421 @@
+{
+  "id": "cet6-2019-12",
+  "type": "cet6",
+  "year": 2019,
+  "month": 12,
+  "set": 0,
+  "title": "2019年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay on the importance of having a sense of community responsibility. You should write at least 150 words but no more than 200 words. 请用黑色签字笔在答题卡1 指定区域内作答作文题，在试题册上的作答无效! 请认真填写以下信息: 准考证号： 姓 名:________________________________ 错填、未填以上信息，按违规处理！",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions ：\n In this section, there is a passage with ten blanks. You are required to select one word for\neach blank from a list of choices given in a word bank following the passage. Read the\npassage through carefully before making your choices. Each choice in the bank is identified\nby a letter. Please mark the corresponding letter for each item on A n sw er S h e e t 2  with a\nsingle line through the centre. You may not use any of the words in the bank more than\nonce.\nThe number of devices you can talk to is multiplying- first it was your phone, then your car,\nand now you can tell your kitchen appliances what to do. But even without gadgets that understand\nour spoken commands, research suggests that, as bizarre as it sounds, under certain \n\n, people\nregularly ascribe human traits to everyday objects.\nSometimes we see things as human because we are \n\nIn one experiment, people who\nreported feeling isolated were more likely than others to attribute \n\nto various gadgets. In turn,\nfeeling close to objects can \n\nloneliness. When college students were reminded of a time they\nhad been \n\nin a social setting, they compensated by exaggerating their number of friends- unless\nthey were first given tasks that caused them to interact with their phone as if it had human qualities.\nAccording to the researchers, the participants5 phones \n\nsubstituted for real friends.\nAt other times, we personify products in an effort to understand them. One study found that\nthree in four respondents yelled at their computer. Further, the more their computer gave them\nproblems, the more likely the respondents were to report that it had its own <l beliefs and \n\nSo how do people assign traits to an object? In part, we rely on looks. On humans, wide faces\nare \n\nwith dominance. Similarly, people rated cars, clocks, and watches with wide faces as more\ndominant-looking than narrow-faced ones, and preferred them- especially in \n\nsituations. An\nanalysis of car sales in Germany found that cars with grilles (护栅)that were upturned like smiles\nsold best. The purchasers saw this \n\nas increasing a car's friendliness.\n6 ・ 1",
+      "wordBank": {},
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Farmers going grass-fed are not affected by the ever-changing milk prices of the global market.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Over the years, Tim Joseph's partners have helped many dairy farmers to switch to grass-fed.\n6 ・ 4",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "One advocate believes that many other benefits should be taken into consideration when we assess\nthe cost-effectiveness of grass-fed farming.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Many dairy farmers were persuaded to switch to grass-fed when they saw its advantage in terms\nof profits.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Tim Joseph's grass-fed program is only one example of how American farming practice is\nchanging.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Tim Joseph was fascinated by the notion that sunlight brings energy and wealth to mankind.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "One problem with grass-fed products is that they are usually more expensive than conventional\nones.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Grass fed products have proved to be healthier and more nutritious.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "When Tim Joseph started his business, he found grass-fed products fell short of demand.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "A snack bar producer discovered that the supply of purely grass-fed bison meat was scarce.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nSchools are not just a microcosm ( 缩影) of society; they mediate it too. The best seek to\nalleviate the external pressures on their pupils while equipping them better to understand and handle\nthe world outside- at once sheltering them and broadening their horizons. This is ambitious in any\ncircumstances, and in a divided and unequal society the two ideals can clash outright ( 直接地).\nTrips that many adults would consider the adventure of a lifetime—treks in Borneo, a sports tour\nto Barbados- appear to have become almost routine at some state schools. Parents are being asked\nfbr thousands of pounds. Though schools cannot profit from these trips, the companies that arrange\nthem do. Meanwhile, pupils arrive at school hungry because their families can't afford breakfast. The\nChild Poverty Action Group says nine out of 30 in every classroom fall below the poverty line. The\ndiscrepancy is startlingly apparent. Introducing a fundraising requirement for students does not help,\nas better-off children can tap up richer aunts and neighbours.\nProbing the rock pools of a local beach or practising French on a language exchange can fire\n6 ・ 5\n\nchildren's passions, boost their skills and open their eyes to life's possibilities. Educational outings\nhelp bright but disadvantaged students to get better scores in A-level tests. In this globalised age,\nthere is a good case for international travel, and some parents say they can manage the cost of a\nschool trip abroad more easily than a family holiday. Even in the face of immense and mounting\nfinancial pressures, some schools have shown remarkable determination and ingenuity in ensuring that\nall their pupils are able to take up opportunities that may be truly life-changing. They should be\napplauded. Methods such as whole-school fundraising, with the proceeds ( 收益)pooled, can help to\nextend opportunities and fuel community spirit.\nBut £ 3,000 trips cannot be justified when the average income for families with children is just\nover £ 30,000. Such initiatives close doors for many pupils. Some parents pull their children out of\nschool because of expensive field trips. Even parents who can see that a trip is little more than a party\nor celebration may well feel guilt that their child is left behind.\nThe Department fbr Education's guidance says schools can charge only for board and lodging if\nthe trip is part of the syllabus, and that students receiving government aid are exempt from these\ncosts. However, many schools seem to ignore the advice; and it does not cover the kind of glamorous,\nexotic trips, which are becoming increasingly common. Schools cannot be expected to bring together\ncommunities single-handed. But the least we should expect is that they do not foster divisions and\nexclude those who are already disadvantaged.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What does the author say best schools should do?",
+              "options": {
+                "A": "Prepare students to both challenge and change the divided unequal society.",
+                "B": "Protect students from social pressures and enable them to face the world.",
+                "C": "Motivate students to develop their physical as well as intellectual abilities.",
+                "D": "Encourage students to be ambitious and help them to achieve their goals."
+              },
+              "answer": "C",
+              "explanation": "到什么? A)它塑造我们的看法和意识形态。 C)它决定我们如何应对当前环境。 B)它改善我们的心理健康 D)它改变我们思考、感受及彼此互动的方式。 [锁定答案]第二段④句指出, 我们用态度过滤、解释和回应周围的世界。由此推知, 态度直接影响我们对周围世界的理解和回应, 故 C 项正确。 [排除干扰]A 曲解文中概念:首先, 第二段③句 ideologies 实为态度所针对的客观对象, 态度可以影响我们对客观对象的感受和回应, 但不一定直接影响客观对象本身;其次, 第四段的 beliefs 实际属于 attitudes 范畴, 故 “attitudes 塑造 beliefs”不合逻辑。B 由第二段①句信息“态度是强大的心理工具”(②句解释:能让我们把过失变为机遇, 失败后重新出发)而来, 但 wellbeing 重点在于“健康、快乐、幸福”, 不包含“励志、成功”层面, 窄化了态度的作用范畴。D 曲解第二段③句:系表句式 Anattitudeisasettledwayofthinking, feelingand/orbehaving 表明态度本身就是一种习惯性的思考、感受、行为方式, 选项显然曲解了态度的内涵。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-12/key_2019.12六级解析全3套_带书签.txt",
+                "sourceText": "关于态度, 我们从本文了解到什么? A)它塑造我们的看法和意识形态。 C)它决定我们如何应对当前环境。 B)它改善我们的心理健康 D)它改变我们思考、感受及彼此互动的方式。 [锁定答案]第二段④句指出, 我们用态度过滤、解释和回应周围的世界。由此推知, 态度直接影响我们对周围世界的理解和回应, 故 C 项正确。 [排除干扰]A 曲解文中概念:首先, 第二段③句 ideologies 实为态度所针对的客观对象, 态度可以影响我们对客观对象的感",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What does the author think about school field trips?",
+              "options": {
+                "A": "They enable students from different backgrounds to mix with each other.",
+                "B": "They widen the gap between privileged and disadvantaged students.",
+                "C": "They give the disadvantaged students a chance to see the world.",
+                "D": "They only benefit students with rich relatives and neighbours."
+              },
+              "answer": "D",
+              "explanation": "作者对校外旅行持什么看法? A)它们让来自不同背景的学生彼此融合。 C)它们给予贫困阶层的学生看看世界的机会。 B)它们扩大了特权阶层及贫困阶层学生之间的差距。 D)它们仅惠及那些有富裕亲戚和邻居的学生。 [锁定答案]第二段指出, 研学旅行要求父母拿出数千英镑, 而有些学生早饭也吃不起, 差距明显;第三段退而表示, 研学旅行本身确实对学生有益;第四段转折指出, 旅行过贵致其弊远大于利, 扼杀了许多学生的受教育机会。综上可知, 作者认为研学旅行将进一步拉大有钱人家的学生与贫困生的差距, B 正确。 [排除干扰]A、C 被第三段“认可校外旅行”内容干扰, 但与第四段“校外旅行扼杀许多(经济条件较差的)学生的机会”所体现的“贫困生少有机会参加”相悖。D 将第二段末“他们更容易借助亲戚和邻居的力量完成筹款活动要求/更有望参加研学旅行”夸大为“他们是旅行唯一受惠者”, 且与第三段“教育旅行令贫困孩子受益”矛盾。 7 3",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-12/key_2019.12六级解析全3套_带书签.txt",
+                "sourceText": "为什么哈佛神经科学家说“撒谎需要付出心力”? A)从多个选择中做抉择很困难。 C)撒谎需要血液迅速流向大脑。 B)要让谎言听起来自然而真实很困难。 D)撒谎涉及诸多复杂脑力活动。 [锁定答案]第二段首先概述哈佛神经科学家观点:撒谎需要付出心力, 随后借相关研究发现予以说明:撒谎者额顶叶控制网络的活动增强, 而该网络负责高难或复杂思维活动, 由此研究者认为撒谎涉及复杂困难的思维活动, D 正确。 [排除干扰]A 源自 theyweredecidingbetweentruthanddishonesty, 但原文所指的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What does the author suggest can help build community spirit?",
+              "options": {
+                "A": "Events aiming to improve community services.",
+                "B": "Activities that help to fuel students5 ingenuity.",
+                "C": "Events that require mutual understanding.",
+                "D": "Activities involving all students on campus."
+              },
+              "answer": "A",
+              "explanation": "有所要求的活动。 B)有助于培养学生独创力的活动。 D)让全校学生参与其中的活动。 [锁定答案]第三段⑥句指出, “全校筹款、共同获益”可让更多学生享受到研学旅行的机会、促进团体精神;亦即让全体学生都参与进来有助于增强团体精神, D 正确。 [排除干扰]A 利用通常认识干扰, 但文中 communityspirit 指的是“将自己视为学校一分子、并积极参与学校活动的团体精神”, 与社区服务无关。B 将作者用以描述部分学校的说法“独创力(ingenuity)”张冠李戴到学生身上, 而原文并不涉及“培养学生独创力”。C 同样利用常识干扰, 但原文并不涉及“相互理解”。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-12/key_2019.12六级解析全3套_带书签.txt",
+                "sourceText": "关于人们的感受和想法, 许多研究有何发现? A)它们可能无法预示一个人的行为。 C)它们可能不会在人际关系之中表露出来。 B)它们在某种意义上与人们的心态相一致。 D)它们总是与人们的行为相一致。 [锁定答案]第四段②句介绍研究发现:感受和想法不一定能预测行为, 故 A 正确, maynot 对应 don􀆳tnecessarily。 [排除干扰]B、C 由第四段①句前一分句 ourattitudesareintern",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What do we learn about low-income parents regarding school field trips?",
+              "options": {
+                "A": "They want their children to participate even though they don't see much benefit.",
+                "B": "They don't want their kids to participate but find it hard to keep them from going.",
+                "C": "They don't want their kids to miss any chance to broaden their horizons despite the cost. 6 , 6",
+                "D": "They want their children to experience adventures but they don't want them to run risks."
+              },
+              "answer": "D",
+              "explanation": "到什么? A)他们想让自己的孩子参与进来, 即便他们不觉得有多大好处。 B)他们不想让自己孩子参加, 但很难阻止他们参加。 C)他们不想让自己的孩子错过任何开拓眼界的机会, 不计代价。 D)他们想让自己的孩子体验冒险经历, 但不想让他们冒风险。 [锁定答案]第四段③句指出, 有些父母因为校外旅行昂贵让孩子退学;④句指出, 有些父母认为校外旅行不过是场聚会或庆祝, 但自己孩子不参加又觉得落于人后, 即还是想让孩子参加。A 正确解读后一种父母心态。 [排除干扰]B 与定位处“父母因为孩子没能参加旅行/落后于人而感到愧疚”体现出的“想让孩子参加”相悖, 且文中并未提及“孩子不顾父母意见, 执意要去”。C 与②句信息“很多学生(即贫困家庭的孩子)失去了机会”体现的“低收入家庭父母没办法让孩子参加旅行”相悖。D 后半部分“不想让孩子冒风险”在文中无据可依。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-12/key_2019.12六级解析全3套_带书签.txt",
+                "sourceText": "为什么许多人不去做自己认为对的事? A)他们抽不出时间。 B)他们不知怎样去做。 C)他们为人虚伪。 D)他们缺乏意志力。 9 2 [锁定答案]第四段②③句指出:态度只有在特定前提下(行动不难且身边的人态度相似时)才具有内在一致性(即行动与想法感受相一致)。④句以环保和健身为例指出态度的这一特性可以解释许多人为何不去践行自己口头认同的益事:行动与想法感受常常不一致, 把所想付诸实际行动需要悟性、努力及勇气。D 正确。 [排除干扰]A 由第五段②句 Takeso",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What is the authofs expectation of schools?",
+              "options": {
+                "A": "Bringing a community together with ingenuity.",
+                "B": "Resolving the existing discrepancies in society.",
+                "C": "Avoiding creating new gaps among students.",
+                "D": "Giving poor students preferential treatment."
+              },
+              "answer": "B",
+              "explanation": "决社会当前存在的差异。 D)给予贫困学生以优待。 [锁定答案]本段③④句指出, 不能指望学校凭一己之力团结不同的群体, 但学校至少不能加剧阶层分化、把已经处于弱势地位的学生排斥在外。由此可知 C 正确。 [排除干扰]A 的可能来源有二:一是第三段“确保所有学生参加研学旅行、促进团体精神, 展现出独创力”, 二是末段“把不同群体团结到一起”。但前者只是事实“部分学校的做法”, 并非作者对学校的总体期望;后者背离作者明确态度“不能指望单靠学校解决”。B 将文首“学校是对社会的调解”夸大为“学校可解决社会差异”。 D 从“学校不该使本就处于劣势的学生更加弱势”过度推断出“该给贫困学生优惠政策”, 后者其实反映于首段 “缓解学生压力”, 是“最好学校所为”, 而非作者对所有学校的期许。 􀪋􀪋􀪋􀪋􀪋􀪋􀪋 􀪋 􀪋􀪋􀪋􀪋􀪋􀪋􀪋 􀪋 ·全文翻译· 学校不仅是社会的缩影, 还是对它的调解。 46 最好的学校指导学生更好地理解并应对外面世界的同时, 还力图缓解他们背负的外界压力———既为他们提供庇护, 又拓展他们的眼界。这个任务向来宏大艰巨, 在一个阶层分化、缺乏平等的社会, 这两方面理想可能直接冲突。 那些被许多成年人视作终生难得之冒险的旅行———婆罗岛(注:又译作加里曼丹岛)远足、巴巴多斯体育旅游———在一些公立学校似乎已经变得稀松平常。 47 父母被要求拿出数千英镑。虽然学校不可以利用这些旅行赚钱, 但组织这些旅行的公司可以。 47 与此同时, 学生饿着肚子去学校, 因为家里拿不出买早饭的钱。儿童贫困行动小组表示, 班上每 30 名学生就有 9 名处于贫困线以下。差异之明显令人震惊。为学生设置筹款活动的条件也没用, 因为家庭条件较宽裕的孩子可以仰仗生活宽裕的姑婆婶姨和街坊邻里。 47 探索当地海滩的潮水潭或在语言交换项目中练习法语, 可以点燃孩子的学习热情、增进他们的技能, 并让他们见识到生活的多样可能。教育性短途旅游帮助天资聪颖但家道贫困的孩子在中学高级水平考试中取得更高的分数。在如今的全球化时代, 有充分的理由出国旅行, 而且有些家长表示, 比起全家外出度假, 负担境外研学旅行的费用更容易些。即便在与日俱增的巨额财政压",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-12/key_2019.12六级解析全3套_带书签.txt",
+                "sourceText": "作者认为, 假如撒谎者未被惩罚, 会发生什么? A)他们可能会觉得理所应当。 C)他们会得意洋洋。 B)他们会撒更大的谎。 D)他们会将谎言与事实混杂在一起。 [锁定答案]末段⑤⑥句指出, 当人们撒谎后却未受到惩罚, 他们的谎话就会变得更为骇人(sensational)。假如给人们为了自己利益而撒谎的机会, 他们的谎言会越变越大, B 正确。 [排除干扰]A、C 均利用④句“撒谎带来的负面情绪会在撒谎过程中慢慢消退”以及⑤句“撒谎后不受惩罚”设障, 将两者杂糅捏造出",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nRising temperatures and overfishing in the pristine (未受污染的)waters around the Antarctic\ncould see king penguin populations pushed to the brink of extinction by the end of the century,\naccording to a new study. The study5s report states that as global warming transforms the environment\nin the world's last great wilderness, 70 percent of king penguins could either disappear or be forced to\nfind new breeding grounds.\nCo-author Celine Le Bohec, from the University of Strasbourg in France, warned: 4tIf there're no\nactions aimed at halting or controlling global warming, and the pace of the current human-induced\nchanges such as climate change and overfishing stays the same, the species may soon disappear.n The\nfindings come amid growing concern over the future of the Antarctic. Earlier this month a separate\nstudy found that a combination of climate change and industrial fishing is threatening the krill (磷虾)\npopulation in Antarctic waters, with a potentially disastrous impact on whales, seals and penguins. But\ntoday's report is the starkest warning yet of the potentially devastating impact of climate change and\nhuman exploitation on the Antarctic's delicate ecosystems.\nLe Bohec said: (l Unless current greenhouse gas emissions drop, 70 percent of king penguins-\n1.1\nmillion breeding pairs- will be forced to relocate their breeding grounds, or face extinction by 2100.\"\nKing penguins are the second-largest type of penguin and only breed on specific isolated islands in\nthe Southern Ocean where there is no ice cover and easy access to the sea. As the ocean warms, a\nbody of water called the Antarctic Polar Front- an upward movement of nutrient-rich sea that\nsupports a huge abundance of marine life- is being pushed further south. This means that king\npenguins, which feed on fish and krill in this body of water, have to travel further to their feeding\ngrounds, leaving their hungry chicks for longer. And as the distance between their breeding grounds\nand their food grows, entire colonies could be wiped out.\nLe Bohec said: 11 The plight of the king penguin should serve as a warning about the future of\nthe entire marine environment in the Antarctic. Penguins, like other seabirds and marine mammals,\noccupy higher levels in the food chain and they are what we call bio-indicators of their ecosystems.,,\nPenguins are sensitive indicators of changes in marine ecosystems. As such, they are key species fbr\nunderstanding and predicting impacts of global change on Antarctic and sub-Antarctic marine\necosystems. The report found that although some king penguins may be able to relocate to new\nbreeding grounds closer to their retreating food source, suitable new habitats would be scarce. Only a\nhandful of islands in the Southern Ocean are suitable fbr sustaining large breeding colonies.\n6 ・ 7",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What will happen by 2100, according to a new study?",
+              "options": {
+                "A": "King penguins in the Antarctic will be on the verge of dying out.",
+                "B": "Sea water will rise to a much higher level around the Antarctic.",
+                "C": "The melting ice cover will destroy the great Antarctic wilderness.",
+                "D": "The pristine waters around the Antarctic will disappear forever."
+              },
+              "answer": "C",
+              "explanation": "、海平面上升”, 并非新研究发现。C 将②句全球变暖对南极大荒野的影响由“转变”夸大为“摧毁”。D 将①句 thepristinewatersaround theAntarctic 和②句 disappear 生硬糅杂, 文中信息实则为“南极水域正被过度捕捞”、“王企鹅可能会灭绝”。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-12/key_2019.12六级解析全3套_带书签.txt",
+                "sourceText": "关于“磷虾捕捞”, 绿色和平组织的研究有什么发现? A)它造成大量的企鹅和鲸鱼迁徙。 C)它开展的地方距企鹅和鲸鱼的栖息地过近。 B)它剥夺了企鹅和鲸鱼的栖息地。 D)它对整个南极的野生生命造成了前所未有的威胁。 [锁定答案]第二段①句指出绿色和平组织的发现:磷虾捕捞日益在紧邻企鹅聚居地和鲸鱼觅食地的区域进行。可见 C 正确。 [排除干扰]A 对第二段①句过度推断:该句仅指出研究发现“磷虾捕捞靠近企鹅和鲸鱼的栖息地”, 并未说明这造成了“大量企",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What do we learn from the findings of a separate study?",
+              "options": {
+                "A": "Shrinking krill population and rising temperatures could force Antarctic whales to migrate.",
+                "B": "Human activities have accelerated climate change in the Antarctic region in recent years.",
+                "C": "Industrial fishing and climate change could be fatal to certain Antarctic species.",
+                "D": "Krill fishing in the Antarctic has worsened the pollution of the pristine waters."
+              },
+              "answer": "B",
+              "explanation": "到了什么? A)磷虾总量缩减和气温上升或会迫使南极鲸迁徙。 C)工业捕捞和气候变化可能使某些南极物种致命。 B)近年来人类活动加速了南极地区的气候变化。 D)南极磷虾捕捞进一步加剧了原始水域的污染。 [锁定答案]第二段③句指出另一项独立研究的发现:气候变化与工业捕捞的同时进行正在威胁着南极水域的磷虾, 这很可能会对鲸、海豹、企鹅造成灾难性影响, C 正确。 [排除干扰]A 将文中链条式关系“气候变暖危及磷虾数量, 进而危及鲸鱼”改为二对一关系“共同危及”, 且将 “危及”改为“迫使迁徙”。B 利用第二段 human-induced 结合实事“南极气候变暖加速”干扰, 非“另一研究发现”。D 杂糅首段“南极未受污染海域正遭过度捕捞”和第二段“磷虾”捏造, 但独立研究未提及此因果关联。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-12/key_2019.12六级解析全3套_带书签.txt",
+                "sourceText": "一场全球运动的发起有何目的? A)为了降低气候变化对南极的影响。 C)为了规范南极海域的磷虾捕捞。 B)为了在南极地区建立保护区。 D)为了宣传对“磷虾捕捞的影响”的关注。 [锁定答案]第三段②句指出“一场全球运动已经发起, 旨在建立一个海洋保护区网络来保护这个地区的海域。”再联系上句可知, “这个地区”指南极地区, B 正确。 [排除干扰]A 干扰来自第三段①句 climatechangeontheAntarctic, D 干扰源自该句 growingconcernab",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does the passage say about king penguins?",
+              "options": {
+                "A": "They will turn out to be the second-largest species of birds to become extinct.",
+                "B": "Many of them will have to migrate to isolated islands in the Southern Ocean.",
+                "C": "They feed primarily on only a few kinds of krill in the Antarctic Polar Front.",
+                "D": "The majority of them may have to find new breeding grounds in the future."
+              },
+              "answer": "A",
+              "explanation": "关于王企鹅, 文中说了什么? A)它们将会是走向灭绝的第二大鸟类。 C)它们主要以南大洋极锋中少数几种磷虾为食。 B)它们大多数将被迫迁徙至南大洋的孤岛。 D)它们大多数将来可能不得不寻找新的繁殖地。 [锁定答案]第三段①句指出, 除非温室气体排放量下降, 否则 70%的王企鹅将在 2100 年面临“不迁徙繁殖地则消亡”的情形, 即:原有的繁殖地不再适宜, 不得不被迫迁往他处, D 正确。 [排除干扰]A 将第三段②句“王企鹅是第二大企鹅种类”偷换为“第二大灭绝的鸟类”。B 将②句所述的王企鹅现状“仅在南大洋特定孤岛上繁殖”窜改为其未来“将被迫迁徙至南大洋孤岛”。C 将第三段④句“王企鹅以极锋中鱼和磷虾(fishandkrill)为食”缩窄范围至“仅以海流中少数几种磷虾(onlyafewkindsofkrill)为食”。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-12/key_2019.12六级解析全3套_带书签.txt",
+                "sourceText": "绿色和平组织向磷虾业提出了什么建议? A)选择在远离被提议设保护区的地方开作业 C)停止在繁殖季捕捞磷虾。 B)自愿保护南极地区的濒危物种。 D)领导全球运动以示其责任感。 [锁定答案]第四段借来自绿色和平组织“保护南极”运动的 FridaBengtsson 之口说明运动目的:“如果磷虾业想证明自己是负责任的参与者, 它就应该主动撤出被提议为海洋保护区的海域”, 可推知 A 正确。 [排除干扰]B 将“磷",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What happens when sea levels rise in the Antarctic?",
+              "options": {
+                "A": "Many baby king penguins can't have food in time.",
+                "B": "Many king penguins could no longer live on krill.",
+                "C": "Whales will invade king penguins, breeding grounds.",
+                "D": "Whales will have to travel long distances to find food."
+              },
+              "answer": "A",
+              "explanation": "当南极海平面上升时会发生什么? A)大量王企鹅幼仔无法及时得到喂食。 C)鲸鱼将会入侵王企鹅的繁殖地。 B)大量王企鹅可能无法再以磷虾为食。 D)鲸鱼将不得不长途跋涉以寻找食物。 [锁定答案]第三段③句先指出, 随着海洋升温, 南大洋极锋南移。④句后介绍王企鹅以极锋中的鱼虾为食, 随着极锋南移, 繁殖地与食物源间距拉大, 饥饿的小企鹅们需等待更久(企鹅妈妈们才能找回食物)。A 正确。 [排除干扰]B 由第三段③④句“南大洋极锋南移”、“王企鹅以极锋中鱼虾为食”主观推测而来, 而忽略随后的 “王企鹅为获取磷虾跋涉更远”。C 利用第二段中的 whales 与第三段①句“王企鹅被迫迁移繁殖地”捏造干扰, 而实际上迫使王企鹅迁移的是“气温升高”。D 偷梁换柱:“不得不为觅食走出更远”的是“王企鹅”不是“鲸鱼”。",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-12/key_2019.12六级解析全3套_带书签.txt",
+                "sourceText": "当南极海平面上升时会发生什么? A)大量王企鹅幼仔无法及时得到喂食。 C)鲸鱼将会入侵王企鹅的繁殖地。 B)大量王企鹅可能无法再以磷虾为食。 D)鲸鱼将不得不长途跋涉以寻找食物。 [锁定答案]第三段③句先指出, 随着海洋升温, 南大洋极锋南移。④句后介绍王企鹅以极锋中的鱼虾为食, 随着极锋南移, 繁殖地与食物源间距拉大, 饥饿的小企鹅们需等待更久(企鹅妈妈们才能找回食物)。A 正确。 [排除干扰]",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What do we learn about the Southern Ocean?",
+              "options": {
+                "A": "The king penguins there are reluctant to leave fbr new breeding grounds.",
+                "B": "Its conservation is key to the sustainable propagation of Antarctic species.",
+                "C": "It is most likely to become the ultimate retreat fbr species like the king penguin.",
+                "D": "Only a few of its islands can serve as huge breeding grounds for king penguins."
+              },
+              "answer": "C",
+              "explanation": "到什么? A)那儿的王企鹅不愿迁去新的繁殖地。 C)它最可能成为王企鹅这类物种的最终退避地。 B)保护它是南极物种可持续性繁衍的关键。 D)它的岛屿中仅少数可作为王企鹅的巨大繁殖地。 [锁定答案]第四段⑤⑥句指出, 虽然一些王企鹅或许能迁徙到新的繁殖地, 以离食物源更近, 但实际上合适的栖息地极为稀缺。南大洋中只有少数岛屿适合承载大型繁殖群体, D 正确。 [排除干扰]A 曲解⑤句:文中并非指出“王企鹅不愿意搬迁”而是强调“很少有合适的地方可搬”。B 根据⑤⑥ 句“南大洋上可搬迁地稀缺”主观臆测“保护物种关键在于保护南大洋”, 而文中意在强调“搬迁也并非解决办法, 阻遏全球变暖才是”。C 与⑥句“即便将来王企鹅迁徙, 南大洋也只有少数岛屿可作为新的繁殖地”相矛盾。 􀪋􀪋􀪋􀪋􀪋􀪋􀪋 􀪋 􀪋􀪋􀪋􀪋􀪋􀪋􀪋 􀪋 ·全文翻译· 51 一项新研究称, “不断攀升的气温”和“对未受污染的南极水域的过度捕捞”可能会见证王企鹅种群在本世纪末被推至灭绝边缘。该研究报告指出, 随着全球变暖将世界最后一片大荒野的环境彻底改变, 70%的王企鹅可能或消亡或被迫寻找新的繁殖地。 来自法国斯特拉斯堡大学的合著者 CélineLeBohec 警告称:“若再不采取行动致力于遏止或抑制全球变暖, 而人类引发的气候变化及过度捕捞等消极变化依旧照当前速度发展, 则王企鹅这一物种或将很快灭亡。” 9 3 这些发现提出之时, 正值人们对南极未来担忧高涨之际。 52 本月初, 另一独立研究发现, 气候变化和工业捕捞的同步发生正威胁着南极海域的磷虾种群, 这可能会对鲸、海豹和企鹅产生灾难性影响。而今天的报告是迄今为止就“气候变化和人类开发对南极脆弱的生态系统可能造成的毁灭性影响”发出的最严厉的警告。 53LeBohec 说:“除非当前温室气体排放量下降, 否则 70%的王企鹅———110 万繁殖对———将被迫迁移繁殖地, 或面临 2100 年灭绝的命运。”王企鹅是第二大企鹅种类, 仅在南大洋特定孤岛上(没有冰层覆盖、能轻松入海)繁殖。 54 随着海洋升温, 一股名为南大洋极锋的海流(它是一股富含营养物质的上涌流, 养育着大量海洋生命)正被往更南端推移。这意味",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2019-12/key_2019.12六级解析全3套_带书签.txt",
+                "sourceText": "CCAMLR 如何界定自己在保护南极环境中的角色? A)政策讨论的协调者。 C)必要专业知识的提供者。 B)大数据分析的权威。 D)海洋保护区的发起者。 [锁定答案]第八末句指出 CCAMLR 认为“我们不是建立海洋保护区的决策者, 但希望用自身的知识和经验做出积极贡献”。可见 C 正确。 [排除干扰]A 源自第八段①句. . . keypartof. . . policydi",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into\nEnglish. You should write your answer on Answer Sheet 2.",
+      "source": "荷花(lotus flower)是中国的名花之一，深受人们喜爱。中国许多地方的湖泊和池塘都适宜荷花生长。荷花色彩鲜艳，夏日清晨绽放，夜晚闭合，花期长达两三个月，吸引来自各地的游客前往观赏。荷花具有多种功能，既能绿化水面,又能美化庭园,还可净化水质、减少污染、改善环境。荷花迎骄阳而不惧,出污泥而不染，象征纯洁、高雅，常常用来比喻人的高尚品德，历来是诗人画家创作的重要题材。荷花盛开的地方也是许多摄影爱好者经常光顾之地。未得到监考教师指令前，不得翻阅该试题册!",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

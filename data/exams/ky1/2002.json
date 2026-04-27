@@ -26,8 +26,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": "＋句子间的逻辑关系.正确率∶15% 厂精准定位空格所在句（②句）结构非常简单，因此解题关键在于理解①句的含义.人们曾对20 世纪电视的发展以及15.16世纪印刷术的传播进行了比较.②）句中转折连词yet（尽管，然而）标志 着接下来的内容与前面的内容出现了较大的不同，而②句主语和谓语都无法体现与①句的强烈对 照，因此空格里填入的这个时间副词应与①句的时间状语in the 20th century和in the 15th and 16th centuries相呼应并对照.从下文中的the 19th century也可以推断出正确答案是between，即\"然而， 在这两个时段之间却发生了很多事情\". 空格设置] between是②句承上启下，衔接①句和③句的重要时间副词，本题实际考查了上下 文的时间逻辑关系.between做时间副词时，意为\"介于两个时间段之间\"，也常用in between，如∶I see her most weekends but not very often in between.我周末大多能见到她，但平时不常见到. [干扰设置]其他项都是表时间的副词.例句∶You should have told me so before.你早该告诉我 的.That had happened long before.那是很早以前的事了.The accident happened four years ago and she has hardly spoken since.四年前发生了事故，从那以后她几乎一直没说过话.Her husband died over ten years ago but she has since remarried.她丈夫于十多年前去世，但她后来又结婚了.She lat- er became a doctor.她后来当了医生. [B] by在⋯⋯之前，不迟于"
+              "answer": "A",
+              "explanation": "＋句子间的逻辑关系. 正确率∶15% 厂精准定位空格所在句（②句）结构非常简单，因此解题关键在于理解①句的含义. 人们曾对 20 世纪电视的发展以及 15.16 世纪印刷术的传播进行了比较. ②）句中转折连词 yet（尽管，然而）标志着接下来的内容与前面的内容出现了较大的不同，而②句主语和谓语都无法体现与①句的强烈对照，因此空格里填入的这个时间副词应与①句的时间状语 in the 20th century 和 in the 15th and 16th centuries 相呼应并对照. 从下文中的 the 19th century 也可以推断出正确答案是 between，即\"然而， 在这两个时段之间却发生了很多事情\". 空格设置] between 是②句承上启下，衔接①句和③句的重要时间副词，本题实际考查了上下文的时间逻辑关系. between 做时间副词时，意为\"介于两个时间段之间\"，也常用 in between，如∶I see her most weekends but not very often in between. 我周末大多能见到她，但平时不常见到. [干扰设置]其他项都是表时间的副词. 例句∶You should have told me so before. 你早该告诉我的. That had happened long before. 那是很早以前的事了. The accident happened four years ago and she has hardly spoken since. 四年前发生了事故，从那以后她几乎一直没说过话. Her husband died over ten years ago but she has since remarried. 她丈夫于十多年前去世，但她后来又结婚了. She lat- er became a doctor. 她后来当了医生. [B] by 在⋯⋯之前，不迟于",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "1. [A]between（在空间或时间上）介于⋯⋯. 之间 [B] before 在此之前早些时候，在⋯⋯前面 [C] since（常用于完成时）从那以后，到现在;此后，后来 [D] later 后来，稍后，随后本题考核的知识点是∶时间副词的用法辨析＋句子间的逻辑关系. 正确率∶15% 厂精准定位空格所在句（②句）结构非常简单，因此解题关键在于理解①句的含义. 人们曾",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -40,7 +49,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": "决问题.\"it is/was ＋状语十that\"强调句型中，表示状语的成分 可以是单词.词组或句子.强调句子时可以是主语从句.宾语从句或状语从句.如∶It was at an eve- ning party thatIfirst met her.（强调地点状语）;It was because the water had risen that they could not cross the river.（强调原因状语从句，引导词只能用because）;It is what you will do that is essential. （强调主语从句）. 3 [干扰设置] 其他项都是表示时间的常用介词.例句∶We'll leave after lunch. 我们将在午饭后 动身.finish the work by five o'clock五点钟前完成工作.Please remain seated during the perform- ance. 表演期间请不要站起来."
+              "explanation": "决问题. \"it is/was ＋状语十 that\"强调句型中，表示状语的成分可以是单词. 词组或句子. 强调句子时可以是主语从句. 宾语从句或状语从句. 如∶It was at an eve- ning party thatIfirst met her. （强调地点状语）;It was because the water had risen that they could not cross the river. （强调原因状语从句，引导词只能用 because）;It is what you will do that is essential. （强调主语从句）. 3 [干扰设置] 其他项都是表示时间的常用介词. 例句∶We'll leave after lunch. 我们将在午饭后动身. finish the work by five o'clock 五点钟前完成工作. Please remain seated during the perform- ance. 表演期间请不要站起来.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "2.[A] after 在⋯⋯之后 [D] until 到⋯为止 [C] during 在⋯期间本题考核的知识点是∶固定句型. 正确率∶91% 「精准定位]空格所在句（③）句）是一个强调句型∶it was 十时间状语十 that. 四个选项中能与 not 搭配并用于这个句型的只有 until，not until 表示\"直到⋯⋯才. ⋯\"，整个句意是\"直到十九世纪，",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -52,8 +70,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ".正确率∶75% 「精准定位] 空格所在部分的含义是\"报纸继宣传册和书之后（following in the wake of）成为电 子时代到来前主要的.\".因此，空格处填入的名词应概括newspaper，pamphlet和book的共同特 点，\"报纸.宣传册和图书\"都是\"传播信息的媒介\"，而不是\"方法或措施\".因此[C]medium正确. 空格设置]本题重点考查考生名词词义辨析及结合上下文的推断能力.medium意为\"（传播 信息的）媒介，手段，方法\"，如∶T-shirt can be an excellent medium for getting your message across.T 恤衫可以成为一种极好的表达信息的媒介.它可特指\"大众传播手段\"，包括报纸.杂志.广播或电视 等，如;Commercial television is a medium for advertising.商业电视是一种广告媒介;the medium of radio/television广播/电视媒介. 「干扰设置]其他项都可表示\"方式，方法\".method强调做某件事的具体步骤或程序，如.To，do this，scientists have to devise methods using radar and underwater television.为此，科学家还要设计 出使用雷达和水下电视的方法.measure强调\"为达到目的采取的行动，权宜之计\"，如∶They took strong measures against dangerous drivers. 他们对危害公众的司机采取强硬的措施.means干扰最 强，它和medium都可以表示借以成就某事或达到某目的人或物.means（单复数同形）意为\"手段或 工具\"，可以指人或物，不仅指具体的东西，也指抽象的意念，如∶Thoughts of one individual could be communicated to another by means of speech.一个人的思想能够借助于语言传递给另一个人.但表 示\"媒介"
+              "answer": "A",
+              "explanation": ". 正确率∶75% 「精准定位] 空格所在部分的含义是\"报纸继宣传册和书之后（following in the wake of）成为电子时代到来前主要的. \". 因此，空格处填入的名词应概括 newspaper，pamphlet 和 book 的共同特点，\"报纸. 宣传册和图书\"都是\"传播信息的媒介\"，而不是\"方法或措施\". 因此[C]medium 正确. 空格设置]本题重点考查考生名词词义辨析及结合上下文的推断能力. medium 意为\"（传播信息的）媒介，手段，方法\"，如∶T-shirt can be an excellent medium for getting your message across. T 恤衫可以成为一种极好的表达信息的媒介. 它可特指\"大众传播手段\"，包括报纸. 杂志. 广播或电视等，如;Commercial television is a medium for advertising. 商业电视是一种广告媒介;the medium of radio/television 广播/电视媒介. 「干扰设置]其他项都可表示\"方式，方法\". method 强调做某件事的具体步骤或程序，如. To，do this，scientists have to devise methods using radar and underwater television. 为此，科学家还要设计出使用雷达和水下电视的方法. measure 强调\"为达到目的采取的行动，权宜之计\"，如∶They took strong measures against dangerous drivers. 他们对危害公众的司机采取强硬的措施. means 干扰最强，它和 medium 都可以表示借以成就某事或达到某目的人或物. means（单复数同形）意为\"手段或工具\"，可以指人或物，不仅指具体的东西，也指抽象的意念，如∶Thoughts of one individual could be communicated to another by means of speech. 一个人的思想能够借助于语言传递给另",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "3.[A] means 方法，手段，工具 [B] method 方法，条理 [C] medium（表达或传播的）媒介，手段;大众传播手段 [D] measure 措施，手段，策略本题考核的知识点是∶名词词义辨析. 正确率∶75% 「精准定位] 空格所在部分的含义是\"报纸继宣传册和书之后（following in the wake of）成为电子时代到来前主要的. \".",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -65,8 +92,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ".正确率;10% [精准定位]③句提到了三类传播媒介∶newspaper，pamphlet and book和periodical.following in the wakeof说明\"报纸继宣传册和书之后出现\".而in the4 of体现了报纸和期刊之间的关系. 只有[B]（in the）company（of）代入文中，指\"报纸与期刊一起出现\"，符合逻辑. 「空格设置] 本题考查了company构成的介词短语，以及上下文语义.company可指\"同伴\"，in the company of意为\"在⋯⋯陪伴下，与⋯⋯同时出现\"，如∶Icouldn't help feeling uneasy in the com- pany of such an important man.和这么重要的人物在一起，我不由自主地感到不自在. [干扰设置]其他项都构成同一类介词短语.例句∶We're in the process of selling our house.我 们正在出售自家的住宅.in the light of experience根据经验.Helpin the form of money will be very welcome. 以钱的形式资助将十分受欢迎. [B] speeded（up）加速"
+              "answer": "A",
+              "explanation": ". 正确率;10% [精准定位]③句提到了三类传播媒介∶newspaper，pamphlet and book 和 periodical. following in the wakeof 说明\"报纸继宣传册和书之后出现\". 而 in the4 of 体现了报纸和期刊之间的关系. 只有[B]（in the）company（of）代入文中，指\"报纸与期刊一起出现\"，符合逻辑. 「空格设置] 本题考查了 company 构成的介词短语，以及上下文语义. company 可指\"同伴\"，in the company of 意为\"在⋯⋯陪伴下，与⋯⋯同时出现\"，如∶Icouldn't help feeling uneasy in the com- pany of such an important man. 和这么重要的人物在一起，我不由自主地感到不自在. [干扰设置]其他项都构成同一类介词短语. 例句∶We're in the process of selling our house. 我们正在出售自家的住宅. in the light of experience 根据经验. Helpin the form of money will be very welcome. 以钱的形式资助将十分受欢迎. [B] speeded（up）加速",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "4.[A]（in the）process（of）在⋯⋯过程中 [B]（in the）company（of）在⋯⋯陪伴下，与⋯. 同时出现 [C]（in the）light（of）考虑到，鉴于，根据 [D]（in the）form （of）以⋯. 的形式本题考核的知识点是∶上下文语义十介词短语辨析. 正确率;10% [精准定位]③句提到了三类传播媒介∶newspap",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -79,7 +115,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ".正确率;74% 4 精准定位]空格处动词动作的发出者是前面的主语communication revolution.根据语义，选 择[B]speeded up，表示\"通信革命加速发展\".pick up也有\"加速\"的意思，但仅限于使用pick up speed，表示\"由不动到动或慢速行驶后增加速度\". 「空格设置] speed up是较熟悉的短语，本题主要考查根据上下文语义进行推断.例句∶Can you try and speed things up a bit? 你能不能设法加快一点事情的进度? [干扰设置]其他项都可与up搭配构成短语.例句∶The child gathered up his toys and put them away. 孩子把他的玩具收拾起来放好.I worked up this business from nothing.我在一无所有的情况 下把这个事业逐步发展起来.The music worked up to a rousing finale.乐曲渐变到一个激动人心的 末乐章.Trade has been slack for the past six months，but it is now picking up.过去六个月里商业一 直很萧条，但现在情况正在好转. 补充up组成的短语动词∶beat up毒打，choke up因激动而说不出话，dress up盛装，end up结 束，hold up阻止，妨碍，mix up混淆，play up强调，sign up签约，take up从事，wash up洗餐具. [B]（lead）out领舞伴起舞;鼓励.逗引（某人）讲话"
+              "explanation": ". 正确率;74% 4 精准定位]空格处动词动作的发出者是前面的主语 communication revolution. 根据语义，选择[B]speeded up，表示\"通信革命加速发展\". pick up 也有\"加速\"的意思，但仅限于使用 pick up speed，表示\"由不动到动或慢速行驶后增加速度\". 「空格设置] speed up 是较熟悉的短语，本题主要考查根据上下文语义进行推断. 例句∶Can you try and speed things up a bit? 你能不能设法加快一点事情的进度? [干扰设置]其他项都可与 up 搭配构成短语. 例句∶The child gathered up his toys and put them away. 孩子把他的玩具收拾起来放好. I worked up this business from nothing. 我在一无所有的情况下把这个事业逐步发展起来. The music worked up to a rousing finale. 乐曲渐变到一个激动人心的末乐章. Trade has been slack for the past six months，but it is now picking up. 过去六个月里商业一直很萧条，但现在情况正在好转. 补充 up 组成的短语动词∶beat up 毒打，choke up 因激动而说不出话，dress up 盛装，end up 结束，hold up 阻止，妨碍，mix up 混淆，play up 强调，sign up 签约，take up 从事，wash up 洗餐具. [B]（lead）out 领舞伴起舞;鼓励. 逗引（某人）讲话",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "5. [A]gathered（up）收拢，归拢（分散的东西） [D] picked（up）好转，改善 [C] worked（up）逐步建立，逐步发展，逐步达到本题考核的知识点是;动词短语辨析. 正确率;74% 4 精准定位]空格处动词动作的发出者是前面的主语 communication revolution. 根据语义，选择[B]speeded up，表示\"通信革命",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -91,8 +136,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ".正确率∶43% 精准年位|本题和下一个题可以一走起解答，因为6空和7空内容往接紧密空格所在部分中 beginning with...和leading...都是现在分词做状语，修饰谓语speeded up，说明通信革命的发展过 程∶开始于铁路运输，然后到电报.电话.收音机和电影，直到20世纪的汽车和飞机.首先排除over， 它不与lead搭配.选项中只有厂Al副词on可以表示\"继续，向前\"的含义，用在句子中强调\"电报.电 话.收音机和电影行业推动通信革命的继续发展\". 「空格设置]on作为副词的意义和用法都很灵活，需要根据文意进行推测.此处on可表示\"持 续，向前（移动）\"，如∶She stopped for a moment and then walked on. 她停了一会，然后又向前走. [干扰设置]除了over外，其他两项都可与lead搭配构成短语.例句∶George led her out for the dance.乔治带她去跳舞;Susan's very quiet; will you lead her out a little at the party?苏珊十分文静， 你可不可以在聚会上让她活跃一点?lead off（from）sth意为\"起始于（某地）\"，如∶narrow streets leading off from the main square起始于大广场的狭窄街道;lead（sth）off意为\"开始（某事）\"，如; Who would like to lead off the debate? 谁愿意带头发言开始辩论?"
+              "answer": "A",
+              "explanation": ". 正确率∶43% 精准年位|本题和下一个题可以一走起解答，因为 6 空和 7 空内容往接紧密空格所在部分中 beginning with. . . 和 leading. . . 都是现在分词做状语，修饰谓语 speeded up，说明通信革命的发展过程∶开始于铁路运输，然后到电报. 电话. 收音机和电影，直到 20 世纪的汽车和飞机. 首先排除 over， 它不与 lead 搭配. 选项中只有厂 Al 副词 on 可以表示\"继续，向前\"的含义，用在句子中强调\"电报. 电话. 收音机和电影行业推动通信革命的继续发展\". 「空格设置]on 作为副词的意义和用法都很灵活，需要根据文意进行推测. 此处 on 可表示\"持续，向前（移动）\"，如∶She stopped for a moment and then walked on. 她停了一会，然后又向前走. [干扰设置]除了 over 外，其他两项都可与 lead 搭配构成短语. 例句∶George led her out for the dance. 乔治带她去跳舞;Susan's very quiet; will you lead her out a little at the party?苏珊十分文静， 你可不可以在聚会上让她活跃一点?lead off（from）sth 意为\"起始于（某地）\"，如∶narrow streets leading off from the main square 起始于大广场的狭窄街道;lead（sth）off 意为\"开始（某事）\"，如; Who would like to lead off the debate? 谁愿意带头发言开始辩论?",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "6.[A]（lead）on 引导，率领. . . 继续前进 [D]（lead）off 起始于;开始 C] over 不与 lead 搭配本题考核的知识点是∶短语动词搭配十副词词义辨析. 正确率∶43% 精准年位|本题和下一个题可以一走起解答，因为 6 空和 7 空内容往接紧密空格所在部分中 beginning with. . . 和 leading. . . 都是现在分词做状",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -105,7 +159,16 @@
                 "D": ""
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2009/paper_1998-2009年考研英语真题答案速查.txt",
+                "sourceText": "7. D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -117,8 +180,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ".perspective此处意为\"客观判断力， 权衡轻重的能力\"，in perspective和in one's right perspective是固定搭配，都表示\"正确.如实地（观 察事物）\"，如∶Try to keep these issues in perspective.要尽量恰当地处理这些问题;see problems in their right perspective如实地看待问题. 另外，⑤句中代词everyone与not搭配使用，表部分否定，意思是\"不是每个人\".类似的代词或 副词还有all，both，every，everyday，everybody，many，everything，entirely，absolutely，always，com- pletely，often，wholly等，它们和not一起表达出\"并非都是，不是每个都是\"的含义.如∶Both of them are not my brothers.他们两个不全是我的兄弟.I do not remember all those formulas.这些公式我并 非全都记得. [干扰设置] in effect是固定搭配，如∶They have no formal contract，but he is，in effect，her manager.他们之间没有正式合同，但他实际上是她的经理.其他两项concept与dimension是根据 sees（看待，理解）设置的干扰.例句∶the concept of social class社会等级的概念;the dimensions of the kitchen厨房的面积;a problem of considerable dimensions一个涉及面相当广的问题. Ⅱ ① It is generally recognized, 9 , that the 然而，人们普遍认为二十世纪初期计 introduction of the computer in the early 20th"
+              "answer": "A",
+              "explanation": ". perspective 此处意为\"客观判断力， 权衡轻重的能力\"，in perspective 和 in one's right perspective 是固定搭配，都表示\"正确. 如实地（观察事物）\"，如∶Try to keep these issues in perspective. 要尽量恰当地处理这些问题;see problems in their right perspective 如实地看待问题. 另外，⑤句中代词 everyone 与 not 搭配使用，表部分否定，意思是\"不是每个人\". 类似的代词或副词还有 all，both，every，everyday，everybody，many，everything，entirely，absolutely，always，com- pletely，often，wholly 等，它们和 not 一起表达出\"并非都是，不是每个都是\"的含义. 如∶Both of them are not my brothers. 他们两个不全是我的兄弟. I do not remember all those formulas. 这些公式我并非全都记得. [干扰设置] in effect 是固定搭配，如∶They have no formal contract，but he is，in effect，her manager. 他们之间没有正式合同，但他实际上是她的经理. 其他两项 concept 与 dimension 是根据 sees（看待，理解）设置的干扰. 例句∶the concept of social class 社会等级的概念;the dimensions of the kitchen 厨房的面积;a problem of considerable dimensions 一个涉及面相当广的问题. Ⅱ ① It is generally recognized, 9, that the 然而，人们普遍认为二十世纪初期计 introduction",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "8.[A] concept 观念，概念 [D]（in）perspective 正确地，如实地，有判断力地 [C]（in）effect 实际上，事实上，简直是本题考核的知识点是;句内语义十介词短语搭配. 正确率∶40% 5 「精准定位] ⑤）句的含义是∶并不是每个人都⋯地看待这个过程. concept 和 dimension 与 in 不是固定搭配，搭配后表达的含",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -130,8 +202,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": "indeed实际上，确实（表强调） [B] hence因此，所以（表因果） [C] however然而（表转折） [D] therefore因此（表因果） 本题考核的知识点是∶逻辑关系.正确率∶57% 精准定位]①句中空格处填入的逻辑副词由逗号隔开，做插入语，表明这个句子和其前文之间 的逻辑关系.上段⑤⑥）句指出，并非所有人都能正确看待通信革命发展的过程.本句指出，人们普 遍认同20世纪初计算机的出现极大地改变了这个进程.\"不能都（not everyone）正确认识\"和\"普遍 （generally）认同\"之间存在转折的逻辑关系，[C]however表转折，为正确项. 「空格设置] 本题考查的上下文间的逻辑关系具有一定的隐蔽性，需在整体把据上文整段语义 的基础上进行判断.像however这类逻辑连接副词在句中的位置可以是句首.句中或句尾，而当用 于句中时，与句子其他部分既可用逗号也可用分号隔开，如;However，not everybody agreed. 但是， 并非每个人都同意.The visitor came to the door; however，it was too late for him to get in.来访者 来到门前.但是，为时已晚，他已进不去了.The composition is all right; there is room for improve- ment，however. 作文已经可以了，但仍有修改的余地. 「干扰设置]其他项都是表示逻辑关系的副词.例句;Ⅰ don't mind at all.Indeed，Ⅰ would be de- lighted to help.我根本不介意.其实，我倒很乐意帮忙.It's handmade and hence expensive.这是手 工制作的，因此价钱很贵.He's only 17 and therefore not eligible to vote.他只有17岁，因此没有投 票选举的资格.此外，这些副词也都常用做插入语. 补充其他常用作插入语的副词;surely（无疑），obviousl"
+              "answer": "A",
+              "explanation": "indeed 实际上，确实（表强调） [B] hence 因此，所以（表因果） [C] however 然而（表转折） [D] therefore 因此（表因果） 本题考核的知识点是∶逻辑关系. 正确率∶57% 精准定位]①句中空格处填入的逻辑副词由逗号隔开，做插入语，表明这个句子和其前文之间的逻辑关系. 上段⑤⑥）句指出，并非所有人都能正确看待通信革命发展的过程. 本句指出，人们普遍认同 20 世纪初计算机的出现极大地改变了这个进程. \"不能都（not everyone）正确认识\"和\"普遍 （generally）认同\"之间存在转折的逻辑关系，[C]however 表转折，为正确项. 「空格设置] 本题考查的上下文间的逻辑关系具有一定的隐蔽性，需在整体把据上文整段语义的基础上进行判断. 像 however 这类逻辑连接副词在句中的位置可以是句首. 句中或句尾，而当用于句中时，与句子其他部分既可用逗号也可用分号隔开，如;However，not everybody agreed. 但是， 并非每个人都同意. The visitor came to the door; however，it was too late for him to get in. 来访者来到门前. 但是，为时已晚，他已进不去了. The composition is all right; there is room for improve- ment，however. 作文已经可以了，但仍有修改的余地. 「干扰设置]其他项都是表示逻辑关系的副词. 例句;Ⅰ don't mind at all. Indeed，Ⅰ would be de- lighted to help. 我根本不介意. 其实，我倒很乐意帮忙. It's handmade and hence expensive. 这是手工制作的，因此价钱很贵. He's only 17 and therefore not eligible to vote. 他只有 17 岁，因此没有投票选举的资格. 此外，这些副词也都常用做插入语. 补充其他常用作插入语的副词;surely（无",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "9. [A] indeed 实际上，确实（表强调） [B] hence 因此，所以（表因果） [C] however 然而（表转折） [D] therefore 因此（表因果） 本题考核的知识点是∶逻辑关系. 正确率∶57% 精准定位]①句中空格处填入的逻辑副词由逗号隔开，做插入语，表明这个句子和其前文之间的逻辑关系. 上段⑤⑥）句指出，并非所有人都能正确看待通信革命",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -144,7 +225,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ".正确率∶48% [精准定位]空格所在部分10 by the invention...the 1960s是过去分词短语，跟在that从句的主 语the introduction of the computer之后，做其后置定语.考生关键要判断\"计算机在20世纪早期问 世\"和\"集成电路在20世纪60年代发明\"之间是什么联系.「B]followed代入后说明这两件事时间 上的先后关系，符合文意.brought代入后表示\"20世纪初期出现的电脑由比它还晚（20世纪60年 代）出现的集成电路所带来\"，不符合逻辑.其他项明显不符合文意. 厂空格设置基础词汇follow是常考点，本题还考查了考生的时间逻辑推理能力.例句;I re- member little of the days that followed the accident.那次事故以后的日子我记不大清楚了. [干扰设置其他项都可与by搭配，其中bring对follow构成反向干扰.例句∶Many changes have been brought by the revolution.这场革命带来很多变化.Interest in her work has been stimu- late by the exhibition.展览增进了人们对她作品的兴趣.His paintings are characterized by bright colors. 他的画以明亮的色彩为特征."
+              "explanation": ". 正确率∶48% [精准定位]空格所在部分 10 by the invention. . . the 1960s 是过去分词短语，跟在 that 从句的主语 the introduction of the computer 之后，做其后置定语. 考生关键要判断\"计算机在 20 世纪早期问世\"和\"集成电路在 20 世纪 60 年代发明\"之间是什么联系. 「B]followed 代入后说明这两件事时间上的先后关系，符合文意. brought 代入后表示\"20 世纪初期出现的电脑由比它还晚（20 世纪 60 年代）出现的集成电路所带来\"，不符合逻辑. 其他项明显不符合文意. 厂空格设置基础词汇 follow 是常考点，本题还考查了考生的时间逻辑推理能力. 例句;I re- member little of the days that followed the accident. 那次事故以后的日子我记不大清楚了. [干扰设置其他项都可与 by 搭配，其中 bring 对 follow 构成反向干扰. 例句∶Many changes have been brought by the revolution. 这场革命带来很多变化. Interest in her work has been stimu- late by the exhibition. 展览增进了人们对她作品的兴趣. His paintings are characterized by bright colors. 他的画以明亮的色彩为特征.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "10.[A] brought（by）被⋯⋯带来，导致，引起 [B] followed（by）（时间或顺序）被. . . 跟随，在⋯. . 前发生 [C] stimulated（by）被. ·刺激，激发，激励 [D] characterized（by）以. . 为特征，特色本题考核的知识点是∶过去分词辨析. 正确率∶48% [精准定位]空格所在部分 10 by the inventio",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -156,8 +246,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": "第12题.空格前后文\"计算机的发明大大改变了这种进程\" 和\"它对媒体的影响没有立即见效\"之间构成让步转折的逻辑关系.只有[D]although符合要求.它 在文中引导让步状语从句. 空格设置] 本题考查了句内的逻辑关系. 干扰设置]其他项都可以引导状语从句.例句;Isleep with the window open unless it's really cold.天气若不很冷，我总开着窗户睡觉.It was the first time I'd had visitors since I'dmoved to Lon- don.那是我搬到伦敦以来第一次有人来看我;Since you are so sure of it he'll believe you.既然你对此 这么有把握.他会相信你的.She pulled away from the window lest anyone see her.她从窗口躲开了， . 免得有人看见她. [B] desirable合意的，令人想要的，悦人心意的"
+              "answer": "A",
+              "explanation": "第 12 题. 空格前后文\"计算机的发明大大改变了这种进程\" 和\"它对媒体的影响没有立即见效\"之间构成让步转折的逻辑关系. 只有[D]although 符合要求. 它在文中引导让步状语从句. 空格设置] 本题考查了句内的逻辑关系. 干扰设置]其他项都可以引导状语从句. 例句;Isleep with the window open unless it's really cold. 天气若不很冷，我总开着窗户睡觉. It was the first time I'd had visitors since I'dmoved to Lon- don. 那是我搬到伦敦以来第一次有人来看我;Since you are so sure of it he'll believe you. 既然你对此这么有把握. 他会相信你的. She pulled away from the window lest anyone see her. 她从窗口躲开了，. 免得有人看见她. [B] desirable 合意的，令人想要的，悦人心意的",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "11.[A] unless 除非，如果不（引导条件状语从句） B] since 自⋯⋯以来，既然（引导时间或原因状语从句） C] lest 惟恐，以免（引导目的状语从句） [D] although 虽然，尽管（引导让步状语从句） 本题考核的知识点是∶逻辑关系. 正确率∶80% 精准定位]在做本题之前，可先解第 12 题. 空格前后文\"计算机的发明大大改变了这种进程\" 和",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -169,8 +268,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": "释）似乎是真的，有道理的 本题考核的知识点是∶上下文语义十形容词词义辨析.正确率∶73% 『精准定位本段首句的含义是;计算机的问世根本上改变了通信革命的进程，但它对于传媒的 影响却没有立即⋯⋯.因此，its指代the computer's，空格处填入的形容词说明计算机对于传媒的 影响的特点.首先排除plausible，\"影响不是立即似是而非的\"不符合逻辑.desirable和negative与 immediately不常搭配.而且，它们是明显表达主观偏好的词，文中作者态度是比较中立客观的，全 文末句And generalizations have proved to be difficult表明作者没有对其影响做出\"好\"或\"坏\"的定 论，所以应排除.「Alapparent代入文中表示\"虽然计算机的影响很大，但它对媒体的影响不是立刻 就很明显的\"，not immediately apparent与上文radically changed之间形成呼应，因此为正确项. [空格设置]本题借助形容词词义考查考生对上下文语义的理解能力.例句∶Their devotion was apparent.他们的忠诚显而易见. [干扰设置]其他项是表达态度的形容词.例句;The house has many desirable features.这栋房 子有许多吸引人的特点.The whole experience was more positive than negative.这次经历利多于弊. His story sounded perfectly plausible. 他的说辞听起来言之有理."
+              "answer": "A",
+              "explanation": "释）似乎是真的，有道理的本题考核的知识点是∶上下文语义十形容词词义辨析. 正确率∶73% 『精准定位本段首句的含义是;计算机的问世根本上改变了通信革命的进程，但它对于传媒的影响却没有立即⋯⋯. 因此，its 指代 the computer's，空格处填入的形容词说明计算机对于传媒的影响的特点. 首先排除 plausible，\"影响不是立即似是而非的\"不符合逻辑. desirable 和 negative 与 immediately 不常搭配. 而且，它们是明显表达主观偏好的词，文中作者态度是比较中立客观的，全文末句 And generalizations have proved to be difficult 表明作者没有对其影响做出\"好\"或\"坏\"的定论，所以应排除. 「Alapparent 代入文中表示\"虽然计算机的影响很大，但它对媒体的影响不是立刻就很明显的\"，not immediately apparent 与上文 radically changed 之间形成呼应，因此为正确项. [空格设置]本题借助形容词词义考查考生对上下文语义的理解能力. 例句∶Their devotion was apparent. 他们的忠诚显而易见. [干扰设置]其他项是表达态度的形容词. 例句;The house has many desirable features. 这栋房子有许多吸引人的特点. The whole experience was more positive than negative. 这次经历利多于弊. His story sounded perfectly plausible. 他的说辞听起来言之有理.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "12. [A] apparent 明显的，显而易见的 [C] negative 否定的，消极的;负的，阴性的 [D] plausible（借口或解释）似乎是真的，有道理的本题考核的知识点是∶上下文语义十形容词词义辨析. 正确率∶73% 『精准定位本段首句的含义是;计算机的问世根本上改变了通信革命的进程，但它对于传媒的影响却没有立即⋯⋯. 因此，its 指代 th",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -182,8 +290,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "B",
-              "explanation": ".正确率∶9% [精准定位] ②句是and连接的两个并列分句computers became...和they became....空格所 在的第二个分句中，代词they指代前一分句的主语computers，前一分句中smaller and more power- ful与后一分句中personal as well as 13相对应.smaller和powerful在含义上有转折，意为\"虽然越 来越小却越来越强\"，因此空格处填入的形容词也应与personal\"私人的.个人的\"相对照.universal 多做定语，强调\"普遍性\"，它在文中表达的含义\"不仅被普遍使用，也被个人使用\"不符合逻辑.只有 institutional与personal相对应，指出\"电脑不再仅仅是团体而且也成了个人使用的工具\"，符合文 意.其他项明显不与personal形成对应的含义. [空格设置]空格部分institutional由大纲词汇institution+形容词后缀-al构成;institutional在 文中的含义只能由上下文（computers，personal）明确，因此需要根据文意仔细推断. [干扰设置]其他项中，universal和institutional是personal不同层面的反义词;fundamental与 instrumental单从意义上来看都可修饰computer.例句;a topic of universal interest人人都感兴趣的 话题，universal facts about human nature人性的普遍现象;Hard work is fundamental to success.勤奋 工作是成功的基础;Technical innovation is instrumental in improving the qualities of products.技术 革新有助于提高产品的质量. [B] capability能力，才能"
+              "answer": "A",
+              "explanation": ". 正确率∶9% [精准定位] ②句是 and 连接的两个并列分句 computers became. . . 和 they became. . . . 空格所在的第二个分句中，代词 they 指代前一分句的主语 computers，前一分句中 smaller and more power- ful 与后一分句中 personal as well as 13 相对应. smaller 和 powerful 在含义上有转折，意为\"虽然越来越小却越来越强\"，因此空格处填入的形容词也应与 personal\"私人的. 个人的\"相对照. universal 多做定语，强调\"普遍性\"，它在文中表达的含义\"不仅被普遍使用，也被个人使用\"不符合逻辑. 只有 institutional 与 personal 相对应，指出\"电脑不再仅仅是团体而且也成了个人使用的工具\"，符合文意. 其他项明显不与 personal 形成对应的含义. [空格设置]空格部分 institutional 由大纲词汇 institution+形容词后缀-al 构成;institutional 在文中的含义只能由上下文（computers，personal）明确，因此需要根据文意仔细推断. [干扰设置]其他项中，universal 和 institutional 是 personal 不同层面的反义词;fundamental 与 instrumental 单从意义上来看都可修饰 computer. 例句;a topic of universal interest 人人都感兴趣的话题，universal facts about human nature 人性的普遍现象;Hard work is fundamental to success. 勤奋工作是成功的基础;Technical innovation is instrumental in improving the qualities of products. 技术革新有助于提高产品的质量. [B] capability 能力，才能",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "13.[A] institutional 制度上的;公共机构的，团体的 [B] universal 全体的，普及的;普遍的，广泛适用的 [C] fundamental 基础的，根本的，必要的 [D] instrumental（一般做表语，～in sth/doing sth）起作用的，有助于本题考核的知识点是∶句内语义十形容词词义辨析. 正确率∶9% [精准定位]",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -196,7 +313,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ".办事）能力 本题考核的知识点是∶名词词义辨析.正确率∶66% 精准定位] 空格所在部分是with引导的分词独立结构∶with display（逻辑主语）becoming sharper（现在分词）and storage 14（逻辑主语）increasing（现在分词），做伴随状语.所在分句的含义 是∶\"随着计算机显示效果（display）越来越清晰（sharper）和存储⋯⋯的提高，它也成了个人和团体机 9 构的工具\".因此空格处的名词和storage搭配后应指\"（计算机的）存储能力\".storage和「Ccapaci- ty是固定搭配，表示\"存储能力\"，符合文意. [空格设置]本题考查了capacity的一词多义.capacity意为\"容量，容积，容纳能力\"，如.The hall has a seating capacity of 200 people.大厅可容纳200人.也指\"领悟（或理解.做事）能力\"，常与 介词for连用，或用～to do sth，如∶She has an enormous capacity for hard work. 她特别能吃苦耐劳; the child's infinite capacity for learning这个孩子无限的学习能力. [干扰设置] 其他项都可表示某种\"能力\".ability强调去做某件事情的能力（精神的或生理 的），常用～to do sth，如∶children's ability to learn孩子们的学习能力;capability强调生长.发展或成 功的一种潜能，常用～to do sth/of doing sth，如∶The little girl has great capability as a singer and should be trained.这个小女孩很有当歌手的才能，应该加以训练.faculty强调内在的.天生的力量 或能力，可接介词of或for，如∶the faculty of sight视觉，to be in full possession of your faculties拥有 一切"
+              "explanation": ". 办事）能力本题考核的知识点是∶名词词义辨析. 正确率∶66% 精准定位] 空格所在部分是 with 引导的分词独立结构∶with display（逻辑主语）becoming sharper（现在分词）and storage 14（逻辑主语）increasing（现在分词），做伴随状语. 所在分句的含义是∶\"随着计算机显示效果（display）越来越清晰（sharper）和存储⋯⋯的提高，它也成了个人和团体机 9 构的工具\". 因此空格处的名词和 storage 搭配后应指\"（计算机的）存储能力\". storage 和「Ccapaci- ty 是固定搭配，表示\"存储能力\"，符合文意. [空格设置]本题考查了 capacity 的一词多义. capacity 意为\"容量，容积，容纳能力\"，如. The hall has a seating capacity of 200 people. 大厅可容纳 200 人. 也指\"领悟（或理解. 做事）能力\"，常与介词 for 连用，或用～to do sth，如∶She has an enormous capacity for hard work. 她特别能吃苦耐劳; the child's infinite capacity for learning 这个孩子无限的学习能力. [干扰设置] 其他项都可表示某种\"能力\". ability 强调去做某件事情的能力（精神的或生理的），常用～to do sth，如∶children's ability to learn 孩子们的学习能力;capability 强调生长. 发展或成功的一种潜能，常用～to do sth/of doing sth，如∶The little girl has great capability as a singer and should be trained. 这个小女孩很有当歌手的才能，应该加以训练. faculty 强调内在的. 天生的力量或能力，可接介词 of 或 for，如∶the faculty of sight 视觉，to be in full possession o",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "14.[A] ability 能力，本领 [D] faculty 官能，天赋 [C] capacity 容量，容积;领悟（或理解. 办事）能力本题考核的知识点是∶名词词义辨析. 正确率∶66% 精准定位] 空格所在部分是 with 引导的分词独立结构∶with display（逻辑主语）becoming sharper（现在分词）and storage 14（逻辑主语",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -208,8 +334,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": "释 [C] with regard to关于 [D] in line with和⋯一致，与相似或紧密相连 本题考核的知识点是∶介词短语辨析.正确率∶43% 「精准定位]空格所在句（③）句）的主语they指代computers，谓语部分为were thought of，like people，15 generations，其中插入语结构like people做状语，意为\"像人一样\"，谓语动词were thought lof指\"被考虑，被想\"，因此空格处填入的介词和generations（一代人，世代，衍生代）搭配，使谓语部分 语义完整，即，\"电脑像人一样被⋯看待考虑的\".「C]和「D]显然不符合文意.by means of强调 \"用某种方式或手段\"，而in terms of强调\"用某个字眼.措辞及它所传达的概念\"，如∶Give the answer in terms of a percentage， 用百分比来回答.本句更多地是借用generation这个词和它的概念.即表 示\"计算机与人一样，都可以按照代来划分\"，因此正确选项为「B]. 「空格设置]本题考查了固定短语in terms of.例句∶The work is not very profitable in terms of cash，but Ⅰam getting valuable experience from it. 这个工作从钱的角度来说不是非常有利可图，但 我从中获得了宝贵经验.in financial/artistic terms就金融/艺术而言. [干扰设置]其他项都是常用的介词短语.例句∶Thoughts are expressed by means of words.思 想用词汇来表达.He would make no concession in regard to his own rights. 他在关于自己权利的方 面不会作出让步.That isn't in line with my ideas at all. 那和我的想法根本不一致. [C] nearer更近 [B] fewer更少 [D"
+              "answer": "A",
+              "explanation": "释 [C] with regard to 关于 [D] in line with 和⋯一致，与相似或紧密相连本题考核的知识点是∶介词短语辨析. 正确率∶43% 「精准定位]空格所在句（③）句）的主语 they 指代 computers，谓语部分为 were thought of，like people，15 generations，其中插入语结构 like people 做状语，意为\"像人一样\"，谓语动词 were thought lof 指\"被考虑，被想\"，因此空格处填入的介词和 generations（一代人，世代，衍生代）搭配，使谓语部分语义完整，即，\"电脑像人一样被⋯看待考虑的\". 「C]和「D]显然不符合文意. by means of 强调 \"用某种方式或手段\"，而 in terms of 强调\"用某个字眼. 措辞及它所传达的概念\"，如∶Give the answer in terms of a percentage， 用百分比来回答. 本句更多地是借用 generation 这个词和它的概念. 即表示\"计算机与人一样，都可以按照代来划分\"，因此正确选项为「B]. 「空格设置]本题考查了固定短语 in terms of. 例句∶The work is not very profitable in terms of cash，but Ⅰam getting valuable experience from it. 这个工作从钱的角度来说不是非常有利可图，但我从中获得了宝贵经验. in financial/artistic terms 就金融/艺术而言. [干扰设置]其他项都是常用的介词短语. 例句∶Thoughts are expressed by means of words. 思想用词汇来表达. He would make no concession in regard to his own rights. 他在关于自己权利的方面不会作出让步. That isn't in line with my ideas at all. 那和我的想法根本不一致. [C] nearer",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "15. [A] by means of 用，依靠，通过（某种手段或方法） [B] in terms of 在⋯⋯·方面，从⋯⋯角度，按照⋯⋯·来解释 [C] with regard to 关于 [D] in line with 和⋯一致，与相似或紧密相连本题考核的知识点是∶介词短语辨析. 正确率∶43% 「精准定位]空格所在句（③）句）的主语 they 指代 comp",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -222,7 +357,16 @@
                 "D": ""
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2009/paper_1998-2009年考研英语真题答案速查.txt",
+                "sourceText": "16. A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -234,8 +378,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ".正确率∶19% [精准定位]段首句是一个强调句型It was within the computer age that...，其大意是∶正是在 这个计算机时代，\"信息社会\"开始被广泛用来描述我们现在所生活的⋯⋯.information society描 述的应当是society，显然我们不能说society是\"范围（range/scope）\"或\"领土（territory）\"，而只能说 是一种\"环境或背景（context）\". [空格设置]本题借助抽象名词context考查对上下文语义的理解.例句∶This speech needs to be set in the context of Britain in the 1960s.这篇演说需要放到20世纪60年代的英国这一背景之下 11 来看待. [干扰设置]其他项都是表示\"范围\"的名词，且多为抽象名词，对context构成近义干扰.例句∶ a salary in the range of 25，000 to 30，000一份在2.5万到3万之间的工资，The range of his power was immense.他权势很大.an attempt to broaden the scope of the inquiry扩大调查范围的尝试;Is there much scope for initiative in this job?这份工作有没有机会让人施展才华?The company is moving into unfamiliar territory with this new software.该公司正通过这种新开发的软件进入陌生的领域."
+              "answer": "A",
+              "explanation": ". 正确率∶19% [精准定位]段首句是一个强调句型 It was within the computer age that. . . ，其大意是∶正是在这个计算机时代，\"信息社会\"开始被广泛用来描述我们现在所生活的⋯⋯. information society 描述的应当是 society，显然我们不能说 society 是\"范围（range/scope）\"或\"领土（territory）\"，而只能说是一种\"环境或背景（context）\". [空格设置]本题借助抽象名词 context 考查对上下文语义的理解. 例句∶This speech needs to be set in the context of Britain in the 1960s. 这篇演说需要放到 20 世纪 60 年代的英国这一背景之下 11 来看待. [干扰设置]其他项都是表示\"范围\"的名词，且多为抽象名词，对 context 构成近义干扰. 例句∶ a salary in the range of 25，000 to 30，000 一份在 2.5 万到 3 万之间的工资，The range of his power was immense. 他权势很大. an attempt to broaden the scope of the inquiry 扩大调查范围的尝试;Is there much scope for initiative in this job?这份工作有没有机会让人施展才华?The company is moving into unfamiliar territory with this new software. 该公司正通过这种新开发的软件进入陌生的领域.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "17. [A] context（事情发生的）环境，背景 [B] range（变化的）范围，幅度;（权利. 责任或活动）范围 [C] scope（处理，研究事物的）范围;（做某事物的）机会，余地 [D] territory 领土，版图;（知识或经验的）领域本题考核的知识点是∶名词词义辨析. 正确率∶19% [精准定位]段首句是一个强调句型 It was within th",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -247,8 +400,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": ".正确率∶73% 『精准定位]空格处填入的动词在②）句中做谓语，说明主语\"通信革命\"对宾语\"我们的工作和休 闲方式以及对时间和空间的思考和感知方式\"所做的动作.显然「Cinfluenced是正确选项，句意为 \"通信革命影响了我们的众多方式\"，其他选项与work及leisure搭配后从语义上都讲不通. 空格设置]influence是第三段主题（计算机的影响）的关键词，它与下文implications\"影响，可 能的后果\"呼应.例句∶A number of social factors influence life expectancy.诸多社会因素左右着人 的预期寿命. [干扰设置]其他项都是核心动词，对impress构成同向干扰.例句∶I have always regarded him highly.我总把他看得很高.Iwrote down whatever impressed me during the journey.我记下旅行过 程中给我留下印象的所有事物.The new manager effected several changes in the company.新来的 经理在公司里促成了好几次改革."
+              "answer": "A",
+              "explanation": ". 正确率∶73% 『精准定位]空格处填入的动词在②）句中做谓语，说明主语\"通信革命\"对宾语\"我们的工作和休闲方式以及对时间和空间的思考和感知方式\"所做的动作. 显然「Cinfluenced 是正确选项，句意为 \"通信革命影响了我们的众多方式\"，其他选项与 work 及 leisure 搭配后从语义上都讲不通. 空格设置]influence 是第三段主题（计算机的影响）的关键词，它与下文 implications\"影响，可能的后果\"呼应. 例句∶A number of social factors influence life expectancy. 诸多社会因素左右着人的预期寿命. [干扰设置]其他项都是核心动词，对 impress 构成同向干扰. 例句∶I have always regarded him highly. 我总把他看得很高. Iwrote down whatever impressed me during the journey. 我记下旅行过程中给我留下印象的所有事物. The new manager effected several changes in the company. 新来的经理在公司里促成了好几次改革.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "18.[A] regarded 看待，把⋯⋯作为 [B] impressed 留下印象，盖印 [C] influenced 影响 [D] effected 产生，招致，实现本题考核的知识点是∶动词词义辨析. 正确率∶73% 『精准定位]空格处填入的动词在②）句中做谓语，说明主语\"通信革命\"对宾语\"我们的工作和休闲方式以及对时间和空间的思考和感知方式\"所做的动作. 显",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -260,8 +422,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "D",
-              "explanation": ".正确率∶66% 「精准定位] ②句中转折连词but表明前后分句存在语义转折，即，\"通信革命影响了我们工作. 休闲等方式，但是关于其在经济.政治等方面的意义却有⋯.的看法\".从下文③）句的benefits和 harmful的反义对比以及末句And generalizations have proved difficult（现在形成统一的看法还有困 难）可知.人们对通信革命景响的看法是褒贬不一的，因止此.该看法是\"有争议的（controversial）\".而 不是\"竞争的（competitive）\"，\"使人分散注意力的（distracting）\"或\"不合理的（irrational）\". 「空格设置] 本题借考查形容词词义来考查上下文的逻辑关系.例句;a highly controversial plan to flood the valley to build a hydro-electric dam为建水电站大坝而要淹没峡谷的极有争议的计划. [干扰设置] 其他项都可修饰views，是脱离上下文设置的搭配干扰.例句∶an extremely com- petitive market高度竞争性的市场;The hotel offers a high standard of service at competitive rates. 酒 店以优惠的价格提供高标准的服务. the distracting noise from outside外面使人无法集中注意力的喧 闹声.She keeps telling me that my fear of flying is irrational. 她不断对我讲害怕坐飞机是没道理的. [B] upon在⋯上"
+              "answer": "A",
+              "explanation": ". 正确率∶66% 「精准定位] ②句中转折连词 but 表明前后分句存在语义转折，即，\"通信革命影响了我们工作. 休闲等方式，但是关于其在经济. 政治等方面的意义却有⋯. 的看法\". 从下文③）句的 benefits 和 harmful 的反义对比以及末句 And generalizations have proved difficult（现在形成统一的看法还有困难）可知. 人们对通信革命景响的看法是褒贬不一的，因止此. 该看法是\"有争议的（controversial）\". 而不是\"竞争的（competitive）\"，\"使人分散注意力的（distracting）\"或\"不合理的（irrational）\". 「空格设置] 本题借考查形容词词义来考查上下文的逻辑关系. 例句;a highly controversial plan to flood the valley to build a hydro-electric dam 为建水电站大坝而要淹没峡谷的极有争议的计划. [干扰设置] 其他项都可修饰 views，是脱离上下文设置的搭配干扰. 例句∶an extremely com- petitive market 高度竞争性的市场;The hotel offers a high standard of service at competitive rates. 酒店以优惠的价格提供高标准的服务. the distracting noise from outside 外面使人无法集中注意力的喧闹声. She keeps telling me that my fear of flying is irrational. 她不断对我讲害怕坐飞机是没道理的. [B] upon 在⋯上",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "19.[A] competitive 充满竞争的;有竞争力的;（人）好竞争的 B controversial 引起争论的，有争议的 [C] distracting 使人分心的，分散注意力的 D] irrational 无理性的，不合理的本题考核的知识点是∶上下文语义＋ 形容词词义辨析. 正确率∶66% 「精准定位] ②句中转折连词 but 表明前后分句存在语义转折，即",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -273,8 +444,17 @@
                 "C": "",
                 "D": ""
               },
-              "answer": "C",
-              "explanation": "本文是关于幽默的一篇说明文，节选自Cristina Stuart的Howto Be an Effective Speaker（《如 何成为一位能打动人的演讲者》）一书中Hu?morand Wit（幽默与机智）一章.作者从三个层次讲述 了使用幽默应该注意的问题.旨在教读者学会使用幽默.为了达到传递信息并让读者接受的目的， 本文通篇使用了第二人称，来拉进作者与读者之间的距离，并使读者置身于作者所设定的情景当中 二.语篇分析及试题精解 I ④ If you intend using humor in your talk to 如果你想在谈话中用幽默来使人展 make people smile, you must know how to identify 露笑颜，你就必须知道如何识别你与听众 shared experiences and problems. ② Your humor must 共有的经历和问题.你的幽默必须与听 be relevant to②the audience and should help to show 众相关，应该有助于向他们表明你是他们 them that you are one of them or that you understand 中的一员，或者"
+              "answer": "A",
+              "explanation": "本文是关于幽默的一篇说明文，节选自 Cristina Stuart 的 Howto Be an Effective Speaker（《如何成为一位能打动人的演讲者》）一书中 Hu?morand Wit（幽默与机智）一章. 作者从三个层次讲述了使用幽默应该注意的问题. 旨在教读者学会使用幽默. 为了达到传递信息并让读者接受的目的， 本文通篇使用了第二人称，来拉进作者与读者之间的距离，并使读者置身于作者所设定的情景当中二. 语篇分析及试题精解 I ④ If you intend using humor in your talk to 如果你想在谈话中用幽默来使人展 make people smile, you must know how to identify 露笑颜，你就必须知道如何识别你与听众 shared experiences and problems. ② Your humor must 共有的经历和问题. 你的幽默必须与听 be relevant to②the audience and should help to show 众相关，应该有助于向他们表明你是他们 them that you are one of them or th",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2002/paper_2002年考研英语真题解析.txt",
+                "sourceText": "20.[A] above 在⋯上，超出 [C] against 对照，对比，与相反 [D] with 和⋯⋯，同⋯⋯⋯·在一起本题考核的知识点是∶ 习惯搭配. 正确率∶35% 精准定位]weigh sth against sth 或 sth is weighed against sth 是固定搭配，意为\"权衡，斟酌\"， 空格所在句（③）句）的含义是\"对利益和弊端进行权",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }

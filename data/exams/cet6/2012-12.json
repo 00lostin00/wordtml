@@ -1,0 +1,221 @@
+{
+  "id": "cet6-2012-12",
+  "type": "cet6",
+  "year": 2012,
+  "month": 12,
+  "set": 0,
+  "title": "2012年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "In this part, you will have 15 minutes to go over the passage quickly and answer the questions on Answer Sheet 1. For questions 1-7, choose the best answer from the four choices marked A), B), C) and D). For questions 8-10, complete the sentences with the information given in the passage. Rates are low, but consumers won’t borrow The US Federal Reserve(Fed)'s announcement last week that it intended to keep credit cheap for at least two more years was a clear invitation to Americans: Go out and borrow. But many economists say it will take more than low interest rates to persuade consumers to take on more debt. There are already signs that the recent stock market fluctuations, turbulence in Europe and the US deficit have scared consumers. On Friday, preliminary data showed that the Thomson Reuters/University of Michigan consumer sentiment index had fallen this month to lower than it was in November 2008, when the United States was deep in recession. Under normal circumstances, the Fed's announcement might have attracted new home and car buyers and prompted credit card holders to rack up fresh charges. But with unemployment high and those with jobs worried about keeping them, consumers are more concerned about paying off the loans they already have than adding more debt. And by showing its hand for the next two years, the Fed may have thoughtlessly invited prospective borrowers to put off large purchases. Lenders, meanwhile, are still dealing with the effects of the boom-gone-bust and are forcing prospective borrowers to go to extraordinary lengths to prove their creditworthiness. \"I don't think lenders are going to be interested in extending a lot of debt in this environment,\" said Mark Zandi, chief economist of Moody's Analytics, a macroeconomic consulting firm. \"Nor do I think households are going to be interested in taking on a lot of debt.\"",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "She can count on the man for help.",
+            "B": "She has other plans for this weekend.",
+            "C": "She can lend the man a sleeping bag.",
+            "D": "She has got camping gear for rent."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "The man should keep his words.",
+            "B": "She regrets asking the man for help.",
+            "C": "Karen always supports her at work.",
+            "D": "Karen can take her to the airport"
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "He can't afford to go traveling yet.",
+            "B": "His trip to Hawaii was not enjoyable.",
+            "C": "He usually checks his brakes before a trip",
+            "D": "His trip to Hawaii has used up all his money."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "There was nothing left except some pie.",
+            "B": "The man has to find something else to eat.",
+            "C": "The woman is going to prepare the dinner.",
+            "D": "Julie has been invited for dinner."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "Submit no more than three letters.",
+            "B": "Present a new letter of reference.",
+            "C": "Apply to three graduate schools.",
+            "D": "Send Professor Smith a letter."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "He declines to join the gardening club.",
+            "B": "He is a professional gardener in town.",
+            "C": "He prefers to keep his gardening skills to himself.",
+            "D": "He wishes to receive formal training in gardening."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "Sculpture is not a typical form of modern art.",
+            "B": "Modern art cannot express people's true feelings.",
+            "C": "The recent sculpture exhibit was not well organized.",
+            "D": "Many people do not appreciate modern art."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "Bob does not have much chance to win.",
+            "B": "She will vote for another candidate.",
+            "C": "Bob cannot count on her vote.",
+            "D": "She knows the right person for the position"
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "Poor management of the hospital.",
+            "B": "The health hazard at her work place.",
+            "C": "Decisions made by the head technician.",
+            "D": "The outdated medical testing procedures."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "Transfer her to another department.",
+            "B": "Repair the X-ray equipment.",
+            "C": "Cut down her workload.",
+            "D": "Allow her to go on leave for two months."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "They are virtually impossible to enforce.",
+            "B": "Neither is applicable to the woman's case.",
+            "C": "Both of them have been subject to criticism.",
+            "D": "Their requirements may be difficult to meet."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Organize a mass strike.",
+            "B": "Compensate for her loss.",
+            "C": "Try to help her get it back.",
+            "D": "Find her a better paying job."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "In giving concessions.",
+            "B": "In the concluding part.",
+            "C": "In stating your terms.",
+            "D": "In the preparatory phase."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "He behaves in a way contrary to his real intention.",
+            "B": "He presents his arguments in a straightforward way.",
+            "C": "He responds readily to the other party's proposals.",
+            "D": "He uses lots of gestures to help make his points clear."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Both may fail when confronting experienced rivals.",
+            "B": "The honest type is more effective than the actor type.",
+            "C": "Both can succeed depending on the specific situation.",
+            "D": "The actor type works better in tough negotiations."
+          },
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}

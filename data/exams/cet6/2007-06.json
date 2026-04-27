@@ -1,0 +1,293 @@
+{
+  "id": "cet6-2007-06",
+  "type": "cet6",
+  "year": 2007,
+  "month": 6,
+  "set": 0,
+  "title": "2007年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write a short essay entitled Should One Expect a Reward When Doing a Good Deed? You should write at least 150 words following the outline given below. 1. 有人做好事期望得到回报； 2. 有人认为应该像雷锋那样做好事不图回报； 3. 我的观点。 Should One Expect a Reward When Doing a Good Deed?",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": [
+        {
+          "id": "q11",
+          "number": 11,
+          "stem": "",
+          "options": {
+            "A": "Surfing the net.",
+            "B": "Watching a talk show.",
+            "C": "Packing a birthday gift.",
+            "D": "Shopping at a jewelry store."
+          },
+          "answer": "A",
+          "explanation": "A) Surfing the net. B) Watching a talk show. C) Packing a birthday gift. D) Shopping at a jewelry store.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2007-06/paper_2007年6月英语六级真题及答案.txt",
+            "sourceText": "A) Surfing the net. B) Watching a talk show. C) Packing a birthday gift. D) Shopping at a jewelry store.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q12",
+          "number": 12,
+          "stem": "",
+          "options": {
+            "A": "He enjoys finding fault with exams.",
+            "B": "He is sure of his success in the exam.",
+            "C": "He doesn’t know if he can do well in the exam.",
+            "D": "He used to get straight A’s in the exams he took."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q13",
+          "number": 13,
+          "stem": "",
+          "options": {
+            "A": "The man is generous with his good comments on people.",
+            "B": "The woman is unsure if there will be peace in the world.",
+            "C": "The woman is doubtful about newspaper stories.",
+            "D": "The man is quite optimistic about human nature."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q14",
+          "number": 14,
+          "stem": "",
+          "options": {
+            "A": "Study for some profession.",
+            "B": "Attend a medical school.",
+            "C": "Stay in business.",
+            "D": "Sell his shop."
+          },
+          "answer": "A",
+          "explanation": "A) Study for some profession. B) Attend a medical school. C) Stay in business. D) Sell his shop.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2007-06/paper_2007年6月英语六级真题及答案.txt",
+            "sourceText": "A) Study for some profession. B) Attend a medical school. C) Stay in business. D) Sell his shop.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q15",
+          "number": 15,
+          "stem": "",
+          "options": {
+            "A": "More money.",
+            "B": "Fair treatment.",
+            "C": "A college education.",
+            "D": "Shorter work hours."
+          },
+          "answer": "A",
+          "explanation": "A) More money. B) Fair treatment. C) A college education. D) Shorter work hours.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2007-06/paper_2007年6月英语六级真题及答案.txt",
+            "sourceText": "A) More money. B) Fair treatment. C) A college education. D) Shorter work hours.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q16",
+          "number": 16,
+          "stem": "",
+          "options": {
+            "A": "She was exhausted from her trip.",
+            "B": "She missed the comforts of home.",
+            "C": "She was impressed by Mexican food.",
+            "D": "She will not go to Mexico again."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q17",
+          "number": 17,
+          "stem": "",
+          "options": {
+            "A": "Cheer herself up a bit.",
+            "B": "Find a more suitable job.",
+            "C": "Seek professional advice.",
+            "D": "Take a psychology course."
+          },
+          "answer": "A",
+          "explanation": "A) Cheer herself up a bit. B) Find a more suitable job. C) Seek professional advice. D) Take a psychology course.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2007-06/paper_2007年6月英语六级真题及答案.txt",
+            "sourceText": "A) Cheer herself up a bit. B) Find a more suitable job. C) Seek professional advice. D) Take a psychology course.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q18",
+          "number": 18,
+          "stem": "",
+          "options": {
+            "A": "He dresses more formally now.",
+            "B": "What he wears does not match his position.",
+            "C": "He has ignored his friends since graduation.",
+            "D": "He failed to do well at college."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q19",
+          "number": 19,
+          "stem": "",
+          "options": {
+            "A": "To go sightseeing.",
+            "B": "To have meetings.",
+            "C": "To promote a new champagne.",
+            "D": "To join in a training program."
+          },
+          "answer": "A",
+          "explanation": "A) To go sightseeing. B) To have meetings. C) To promote a new champagne. D) To join in a training program.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2007-06/paper_2007年6月英语六级真题及答案.txt",
+            "sourceText": "A) To go sightseeing. B) To have meetings. C) To promote a new champagne. D) To join in a training program.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q20",
+          "number": 20,
+          "stem": "",
+          "options": {
+            "A": "It can reduce the number of passenger complaints.",
+            "B": "It can make air travel more entertaining.",
+            "C": "It can cut down the expenses for air travel.",
+            "D": "It can lessen the discomfort caused by air travel."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q21",
+          "number": 21,
+          "stem": "",
+          "options": {
+            "A": "Took balanced meals with champagne.",
+            "B": "Ate vegetables and fruit only.",
+            "C": "Refrained from fish or meat.",
+            "D": "Avoided eating rich food."
+          },
+          "answer": "D",
+          "explanation": "D) Avoided eating rich food.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2007-06/paper_2007年6月英语六级真题及答案.txt",
+            "sourceText": "D) Avoided eating rich food.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q22",
+          "number": 22,
+          "stem": "",
+          "options": {
+            "A": "Many of them found it difficult to exercise on a plane.",
+            "B": "Many of them were concerned with their well-being.",
+            "C": "Not many of them chose to do what she did.",
+            "D": "Not many of them understood the program."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q23",
+          "number": 23,
+          "stem": "",
+          "options": {
+            "A": "At a fair.",
+            "B": "At a cafeteria.",
+            "C": "In a computer lab.",
+            "D": "In a shopping mall."
+          },
+          "answer": "A",
+          "explanation": "A) At a fair. B) At a cafeteria. C) In a computer lab. D) In a shopping mall.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2007-06/paper_2007年6月英语六级真题及答案.txt",
+            "sourceText": "A) At a fair. B) At a cafeteria. C) In a computer lab. D) In a shopping mall.",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q24",
+          "number": 24,
+          "stem": "",
+          "options": {
+            "A": "The latest computer technology.",
+            "B": "The organizing of an exhibition.",
+            "C": "The purchasing of some equipment.",
+            "D": "The dramatic changes in the job market."
+          },
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q25",
+          "number": 25,
+          "stem": "",
+          "options": {
+            "A": "Data collection.",
+            "B": "Training consultancy.",
+            "C": "Corporate management.",
+            "D": "Information processing."
+          },
+          "answer": "A",
+          "explanation": "A) Data collection. B) Training consultancy. C) Corporate management. D) Information processing. Section B Directions: In this section, you will hear 3 short passages. At the end of each passage, you will hear some questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 2 with a single line through the centre. Passage One Questions 26 to 28 are based on the passage you have just heard.",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2007-06/paper_2007年6月英语六级真题及答案.txt",
+            "sourceText": "A) Data collection. B) Training consultancy. C) Corporate management. D) Information processing. Section B Directions: In this section, you will hear 3 short passages. At the end o",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    }
+  ]
+}

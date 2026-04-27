@@ -30,8 +30,17 @@
             "C": "Having friendly colleagues.",
             "D": "Working for supportive bosses."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CADBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q2",
@@ -43,8 +52,17 @@
             "C": "31%.",
             "D": "73%."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CADBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q3",
@@ -56,8 +74,17 @@
             "C": "Those run by women.",
             "D": "Those of a small size."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CADBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q4",
@@ -69,8 +96,17 @@
             "C": "They can hop from job to job easily.",
             "D": "They can take on more than one job."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CADBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q5",
@@ -82,8 +118,17 @@
             "C": "It is about the city of Bruges.",
             "D": "It is a book of European history."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CADBA",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q6",
@@ -95,8 +140,17 @@
             "C": "When vacationing in an Italian coastal city.",
             "D": "When painting the concert hall of Bruges."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BCABC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q7",
@@ -108,8 +162,17 @@
             "C": "The entire European coastline will be submerged.",
             "D": "The major European scenic spots will disappear."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BCABC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q8",
@@ -121,8 +184,17 @@
             "C": "People cannot get around without using boats.",
             "D": "Its waterways are being increasingly polluted."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BCABC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q9",
@@ -134,8 +206,17 @@
             "C": "They take too many irrelevant factors into account.",
             "D": "They make careful preparations beforehand."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BCABC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q10",
@@ -147,8 +228,17 @@
             "C": "Thinking has the same effect on the nervous system as doing.",
             "D": "A person’s nervous system is more complicated than imagined."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BCABC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q11",
@@ -160,8 +250,17 @@
             "C": "Try to appear more professional.",
             "D": "Picture themselves succeeding."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DADAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q12",
@@ -173,8 +272,17 @@
             "C": "She presented moving pictures.",
             "D": "She did not speak loud enough."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DADAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q13",
@@ -186,8 +294,17 @@
             "C": "Its long-term effects are yet to be proved.",
             "D": "It helps people to avoid developing breast cancer."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DADAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q14",
@@ -199,8 +316,17 @@
             "C": "It tracked their change in food preferences for 20 years.",
             "D": "It focused on their ways of life during young adulthood."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DADAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q15",
@@ -212,8 +338,17 @@
             "C": "Fiber may make blood circulation more smooth.",
             "D": "Fiber may help to reduce hormones in the body."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DADAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q16",
@@ -225,8 +360,17 @@
             "C": "Conducting research on consumer behaviour.",
             "D": "Observing the changes in marketing."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【16-20】CBBAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q17",
@@ -238,8 +382,17 @@
             "C": "It is the cause of many street riots.",
             "D": "It is getting worse year by year."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【16-20】CBBAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q18",
@@ -251,8 +404,17 @@
             "C": "They conducted a thorough research on advertising.",
             "D": "They analysed their family budgets over the years."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【16-20】CBBAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q19",
@@ -264,8 +426,17 @@
             "C": "It is trying hard to do away with dirty money.",
             "D": "It is helping its banks to improve efficiency."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【16-20】CBBAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q20",
@@ -277,8 +448,17 @@
             "C": "Whether the absence of physical currency is going to affect everyday",
             "D": "Whether the absence of physical currency causes a person to spend"
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【16-20】CBBAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q21",
@@ -290,8 +470,17 @@
             "C": "The restaurant car accepted cash only.",
             "D": "There was no food service on the train."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【21-25】CACAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q22",
@@ -303,8 +492,17 @@
             "C": "By limiting their day-to-day spending.",
             "D": "By refusing to buy anything on credit."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【21-25】CACAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q23",
@@ -316,8 +514,17 @@
             "C": "Chronic hunger.",
             "D": "Environmental deterioration."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【21-25】CACAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q24",
@@ -329,8 +536,17 @@
             "C": "They have been brought under control.",
             "D": "The majority of them tend to end halfway."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【21-25】CACAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q25",
@@ -342,8 +558,17 @@
             "C": "It is becoming a subject of interdisciplinary research.",
             "D": "It is essential to the well being of all species on earth."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【21-25】CACAD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -373,62 +598,152 @@
         {
           "id": "q26",
           "number": 26,
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】FLOHJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q27",
           "number": 27,
-          "answer": null,
-          "explanation": ""
+          "answer": "L",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】FLOHJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q28",
           "number": 28,
-          "answer": null,
-          "explanation": ""
+          "answer": "O",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】FLOHJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q29",
           "number": 29,
-          "answer": null,
-          "explanation": ""
+          "answer": "H",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】FLOHJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q30",
           "number": 30,
-          "answer": null,
-          "explanation": ""
+          "answer": "J",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【26-30】FLOHJ",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q31",
           "number": 31,
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】MACDN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q32",
           "number": 32,
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】MACDN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q33",
           "number": 33,
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】MACDN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q34",
           "number": 34,
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】MACDN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q35",
           "number": 35,
-          "answer": null,
-          "explanation": ""
+          "answer": "N",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【31-35】MACDN",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
@@ -442,36 +757,81 @@
           "id": "q36",
           "number": 36,
           "stem": "Working-class parents teach their children to be obedient and show\nrespect to adults.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】GFMDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q37",
           "number": 37,
           "stem": "American parents, whether rich or poor, have similar expectations of\ntheir children despite different\nways of parenting.",
-          "answer": null,
-          "explanation": ""
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】GFMDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q38",
           "number": 38,
           "stem": "While\nrich\nparents\nare\nmore\nconcerned\nwith\ntheir\nchildren’s\npsychological well-being, poor parents\nare more worried about their children’s\nsafety.",
-          "answer": null,
-          "explanation": ""
+          "answer": "M",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】GFMDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q39",
           "number": 39,
           "stem": "The increasing differences in child rearing between rich and poor\nfamilies reflect growing social\ninequality.",
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】GFMDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q40",
           "number": 40,
           "stem": "Parenting approaches of working-class and affluent families both have\nadvantages.",
-          "answer": null,
-          "explanation": ""
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+            "sourceText": "【36-40】GFMDG",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q41",
@@ -529,8 +889,17 @@
                 "C": "It has neglected their faculty’s demands.",
                 "D": "It will improve their financial situation."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ABCAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q47",
@@ -542,8 +911,17 @@
                 "C": "Facilities management has greatly improved in recent years.",
                 "D": "Colleges exercise full control over their own financial affairs."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ABCAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q48",
@@ -555,8 +933,17 @@
                 "C": "render a number of campus workers jobless",
                 "D": "lead to the privatization of campus facilities"
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ABCAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q49",
@@ -568,8 +955,17 @@
                 "C": "The state officials are confident about the outsourcing plan.",
                 "D": "The college spending analysis justifies the outsourcing plan."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ABCAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q50",
@@ -581,8 +977,17 @@
                 "C": "He thought the state’s outsourcing proposal was simply unworkable.",
                 "D": "He opposed the governor’s plan to reconstruct the college board system."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【46-50】ABCAD",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         },
@@ -600,8 +1005,17 @@
                 "C": "It produced some famous European artists.",
                 "D": "It made a compulsory part of college education."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BCDBA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q52",
@@ -613,8 +1027,17 @@
                 "C": "They were versed in literature and interested in art.",
                 "D": "They had enough travel and outdoor-life experience."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BCDBA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q53",
@@ -626,8 +1049,17 @@
                 "C": "They developed an interest in the origin of modem art forms.",
                 "D": "They gained some knowledge of classical art and architecture."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BCDBA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q54",
@@ -639,8 +1071,17 @@
                 "C": "They found the antiques there more valuable.",
                 "D": "Private collections were of greater variety."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BCDBA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             },
             {
               "id": "q55",
@@ -652,8 +1093,17 @@
                 "C": "Aristocrats’ country houses all had Roman-style gardens.",
                 "D": "Italian architects were hired to design houses and gardens."
               },
-              "answer": null,
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-06-2/paper_卷二_2017年6月英语六级真题及答案.txt",
+                "sourceText": "【51-55】BCDBA",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": true,
+                "verification": "official-answer-summary"
+              }
             }
           ]
         }

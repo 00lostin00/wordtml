@@ -30,8 +30,17 @@
             "C": "She is still in a critical condition.",
             "D": "She is getting much better."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 短文前半部分提到， 米罗诺夫教授致力于通过生物工程来人工培育肉类食品， 他认为这种产品有助于解决未来的全球食物危机， 而这种危机是由于可供以传统方式进行肉类生产的土地面积减少引起的。 因此可以推断， 选项 A 为正确答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "代对象。 【解析】 短文前半部分提到， 米罗诺夫教授致力于通过生物工程来人工培育肉类食品， 他认为这种产品有助于解决未来的全球食物危机， 而这种危机是由于可供以传统方式进行肉类生产的土地面积减少引起的。 因此可以推断， 选项 A 为正确答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q2",
@@ -69,8 +78,17 @@
             "C": "She drove a full hour before finding a parking space.",
             "D": "She failed to get into the supermarket last Saturday."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "〗 对话开头女士说， 关于海豚最有趣的实验之一是由贾维斯 ． 巴斯琴博士进行的， 他做该实验的目的是想教会一只叫巴斯的雄海豚与一只叫多丽丝的雌海豚隔着一个固体障碍物进行交流。 由此可知， 四项中只有 B 项 “ 想看看海豚能否学会相互交流 \" 为正确答案。 （【听前预测】 四项均以动词原形开头， 可推测该题是对动作的考查； 其中一项含有 their， 结合上题推测 their 可能指的是海豚。 结论： 该题可能考查海豚在某种情况下会做出的动作， 可能是把头伸出水面、 游入同一个水池、 按压右手边的杠杆或者发出正确的声音， 具体细节需听音辨别， 听音重点为 raise. . . heads、 swim. . into the sametank press. . . lever 以及 produce. . . soundo",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "everer than 【解析】 对话开头女士说， 关于海豚最有趣的实验之一是由贾维斯 ． 巴斯琴博士进行的， 他做该实验的目的是想教会一只叫巴斯的雄海豚与一只叫多丽丝的雌海豚隔着一个固体障碍物进行交流。 由此可知， 四项中只有 B 项 “ 想看看海豚能否学会相互交流 \" 为正确答案。 （【听前预测】 四项均以动词原形开头， 可推测该题是对动作的考查； 其中一项含有 their， 结合上题推测 their 可能指的是海豚。 结论： 该题可能考查海豚在某种情况下会做出的动作， 可能是把头伸出水面、 游入同一个水池、 按压右手边的杠杆或者发出正确的声音， 具体细节需听音辨别",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q5",
@@ -108,8 +126,17 @@
             "C": "The woman will have to stay in hospital for a few days.",
             "D": "The man is capable of dealing with difficult people."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "〗 对话一开始， 女士就说， “ 这周的 ' Up Your Street， 节目带大家来到了位于约克郡的哈罗盖特小镇。 它在维多利亚时代就已经是一个时尚的度假胜地 “ 一 ． ” 由此可知， A 项 “ 在一个度假小镇 \" 为正确答案。 〖 【听前预测】 四项均以 it 开头； 由 A 项和 C 项可推知， it 指代的是某一地点。 结论： 该题的四个选项均是对 it 的描述， 信息点比较分散考生需先理解每个选项， 再根据听音内容作出判断。 · 20 巧年 12 月六级真题 （第三套） · 10 〔 解析 〗 对话中， 当女士介绍完哈罗盖特过去之所以成为度假胜地的原因之后， 紧接着说： “ 相反， 哈罗盖特已经成为人们退休养老的理想之地。 ” A 项是对对话内容的同义转述， 故为正确答案。 〖 【听前预测】 四项均以 it 开头； 由 A 项可知， it 可能指代的是哈罗盖特小镇上的某一地点。 结论： 四个选项均为对 it 的描述， A 项说明了 it 的位置 (located)， B、 D 两项说明了 it 的用途 （used as, protected (s), C 项说明了 it 的名称由来。 具体信息需根据听音内容进一步作出判断。 【解析】 在对话的后半部分， 女士问男士山 eS 仃 ay 是否受到了保护， 男士给予了肯定的回答， 并指出有一条特殊法规规定： 任何人都不允许在这片土地上建任何建筑， 它受到法律的永久保护。 当女士又问它是否会永远被用做公共场地时， 男士也给予了肯定回答。 由此可知 D 项为正确答案。 〖 【听前预测】 四项均为名词短语， 故可推知该题以 what 进行提问， 但提问的对象具体是美丽的花、 广阔的草地、 清新的空气还是矿物温泉， 还需要根据听音内容进一步判断。 【解析】 对话结尾处女士说她觉得这个地方的春天一定很美， 男士给出了肯定的回答， 并说在春天， 老树上开满了鲜花， 人们会为了欣赏这些花前来小镇旅游。 故 A 项为正确答案。 Section B Passage One 〖 昕力原文 〕 [",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "四个选项中的地点名词。 【解析】 对话一开始， 女士就说， “ 这周的 ' Up Your Street， 节目带大家来到了位于约克郡的哈罗盖特小镇。 它在维多利亚时代就已经是一个时尚的度假胜地 “ 一 ． ” 由此可知， A 项 “ 在一个度假小镇 \" 为正确答案。 〖 【听前预测】 四项均以 it 开头； 由 A 项和 C 项可推知， it 指代的是某一地点。 结论： 该题的四个选项均是对 it 的描述， 信息点比较分散考生需先理解每个选项， 再根据听音内容作出判断。 · 20 巧年 12 月六级真题 （第三套） · 10 〔 解析 〗 对话中， 当女士介绍完哈罗盖特过去之所以",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q8",
@@ -134,8 +161,17 @@
             "C": "To discuss the content of a project report.",
             "D": "To ask him to flX the dictating machine."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "〕 对话中， 当男士问女士巴斯琴博士怎样训练海豚时， 女士回答说首先博士会让两只海豚处在同一个水池中， 并教它们学会在看到灯光时按压位于水池边上的两个杠杆。 如果灯光是一闪一灭交替出现的， 海豚就应该先按压左手边的杠杆， 再按压右手边的杠杆； 如果灯是一直亮着的， 那么海豚按压杠杆的顺序则应相反。 本题问的是 “ 当看到一直亮着的灯时， 海豚应该做什么 ”， 故 c 项 “ 先按压右手边的杠杆 ” 为正确答案。 〖 【听前预测】 四项中均含有 dolphin(s), 可见该题仍是对海豚相关信息的考查。 选项中的信息点比较分散， 具体是考查海豚被放入同一个水池、 雄海豚获得更多奖励、 只有一只海豚能看到灯光还是海豚够不到杠杆， 需要仔细听音后再进行判断。 【解析】 对话中女士提到， 在第二个阶段， 巴斯琴博士将两只海豚分别放入不同的水池中， 它们能听到对方的声音， 但是看不到对方； 杠杆和灯光的设置方式跟第一阶段完全一样； 不同的是， 这次只有雌海豚多丽丝能看到灯光， 但是要想吃到鱼， 两只海豚按压杠杆的顺序都必须正确， 这样， 多丽丝就必须告诉巴斯灯光是闪灭交替的还是一直亮着的。 故 A、 B、 D 项均可排除， 只有 C 项正确。 〖 【听前预测】 四个选项都提及了 dolphin( s）， 四项描述都与其表现有关。 结论： 本题很可能考查的是两只海豚的表现， 听录音时应着重抓住说明两只海豚表现的内容。 【解析】 对话对海豚实验的过程进行了介绍， 其中在结尾部分提到， 海豚的成功率为 100%0 可见这两只海豚的表现都完美。 结合前面部分所提到的它们反应正确时就能得到鱼作为奖励， 可知 A 项为正确答案。 其他三项都与文意不符， 应排除。 Conversation TWO 《W: [5]This week， s program “ Up Your Street ” k you to Harrogate， a small town in Yorkshire Harrogate becam",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "式跟第一阶段完全一样； 不同的是， 这次只有雌海豚多丽丝能看到灯光， 但是要想吃到鱼， 两只海豚按压杠杆的顺序都必须正确， 这样， 多丽丝就必须告诉巴斯灯光是闪灭交替的还是一直亮着的。 故 A、 B、 D 项均可排除， 只有 C 项正确。 〖 【听前预测】 四个选项都提及了 dolphin( s）， 四项描述都与其表现有关。 结论： 本题很可能考查的是两只海豚的表现， 听录音时应着重抓住说明两只海豚表现的内容。 【解析】 对话对海豚实验的过程进行了介绍， 其中在结尾部分提到， 海豚的成功率为 100%0 可见这两只海豚的表现都完美。 结合前面部分所提到的它们反应正",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "medium",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q10",
@@ -147,8 +183,17 @@
             "C": "They cannot deliver the steel sheets on time.",
             "D": "They cannot produce the steel sheets needed."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "且他做的事情与大学生有关。 【解析】 短文开头部分提到， 拉赛尔 ． 法齐奥是俄亥俄州立大学的一名心理学教授， 他在俄亥俄州立大学和印第安纳大学研究了来自不同种族的室友间的关系。 因此可以推断， B 项为正确答案。 10 ． D 〖 解【解题思路】 三项含有 students; 两项含有 black; 两项含有 standardizedtest(s)o 结论： 本题考查的内容很可能与学生和考试有关， 且可能涉及黑人学生。 【解析】 短文提到， 在法齐奥教的一项研究中， 他分析了俄亥俄州立大学数千名住宿舍的大一新生的 11 · 20 巧年 12 月六级真题 （第三套） · 数据，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q11",
@@ -160,8 +205,17 @@
             "C": "By allowing more time for delivery.",
             "D": "By promising better after-sales service."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "11 · 20 巧年 12 月六级真题 （第三套） · 数据， 发现在以优异的标准化考试成绩考取大学的黑人新生中， 若其室友为白人， 那么他的成绩会更好， 即使这个白人室友的成绩并不高。 因此可以推断， 选项 D 为正确答案。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "千名住宿舍的大一新生的 11 · 20 巧年 12 月六级真题 （第三套） · 数据， 发现在以优异的标准化考试成绩考取大学的黑人新生中， 若其室友为白人， 那么他的成绩会更好， 即使这个白人室友的成绩并不高。 因此可以推断， 选项 D 为正确答案。 11. D 〖 解【解题思路】 四项的主语都是 theyo 因此可以推断， 本题考查的内容是 they 所做的事情。 听音重点应该放在表示动作的单词上。 【解析】 短文提到， 这项研究还发现， 俄亥俄州立大学的学生中随机分配的不同种族的室友， 在学期末之前关系破裂的几率约为同种族室友的两倍。 因此可以推断， 选项 D 为正确答案。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q12",
@@ -173,8 +227,17 @@
             "C": "Ask the Buying Department to change suppliers.",
             "D": "Cancel the contract with the customer."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "题思路 〕 两项的主语是 they， 两项含有 their； 四项都含有表示 “ 变化 ” 的词 （rose, started， grew， impro、 red)o 结论： 本题考查的内容很可能与 “ 他们 \" 的某种变化有关。 【解析】 短文提到， 法齐奥教授发现的最有趣的一件事是， 如果不同种族的室友间能维持 10 周的友好关系， 那么他们对种族的看法就会有所改善。 因此可以推断， 选项 D 为正确答案。 Passage Two 〖 听力原文 〗 ln a small laboratory at the MedicaI Umversity Of South CaroIina， Dr. Vladimir M1ronov has been working for a decade to grow meat. A developmental biologist and tissue engmeer， Dr. Mironov is one Of only a few scientists worldwide involved in bioengineenng \"cultured ” meat. [ 13 ] lt， s a product he believes could help solve future glObaI f00d crises resulting from shrinking amounts Of land available for growing meat the old-fashioned way. Growth of cultured meat is aISO under way in the NetherIands, ， Mironov told Reuters in ihterview， \"but in the United States， it is science search of funding and demand. The new NationaI lnstitute of Food and Agri",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "容是 they 所做的事情。 听音重点应该放在表示动作的单词上。 【解析】 短文提到， 这项研究还发现， 俄亥俄州立大学的学生中随机分配的不同种族的室友， 在学期末之前关系破裂的几率约为同种族室友的两倍。 因此可以推断， 选项 D 为正确答案。 原文中的 brokeup 也出现在该选项中， 有助于选出正确答案。 12 ． D 〖 解题思路 〕 两项的主语是 they， 两项含有 their； 四项都含有表示 “ 变化 ” 的词 （rose, started， grew， impro、 red)o 结论： 本题考查的内容很可能与 “ 他们 \" 的某种变化有关。 【解析】",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q13",
@@ -186,8 +249,17 @@
             "C": "Mathematician.",
             "D": "Economist."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "t of products we eat today?。 快速浏览本部分所有选项，， 由其中啲关键词 food、 止 h 山弘、 ti “ s 等可大致推戈章许啲内容很些师@仰有 0．聖舁会新熬有物翰不性厙和来、 肄需要孽苯注关 13 · A 〖 解【解题思路】 两项含有 food; 两项含有与 “ 全球的 \" 有关的词 （global, worldwide)； 四项的主语都是 ito 结论： 本题考查的内容很可能与全球性的食品问题有关。 听音时要首先弄清 it 的指代对象。 【解析】 短文前半部分提到， 米罗诺夫教授致力于通过生物工程来人工培育肉类食品， 他认为这种产品有助于解决未来的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q14",
@@ -199,8 +271,17 @@
             "C": "Predict global population growth.",
             "D": "Promote national financial health."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "【解题思路】 四项的主语都是 it， 因此可以推断， 本题考查的内容与 it 的状态或变化有关。 解题时应注意弄清 it 指代的是什么。 【解析】 短文提到， 米罗诺夫教授说， 将一项新技术投入市场平均需要 IO 亿美元， 但他们连 100 万美元也没有。 因此可以推断， 选项 D 为正确答案。 选项中的 it 指代的是 thefunding& 金）。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "文前半部分提到， 米罗诺夫教授致力于通过生物工程来人工培育肉类食品， 他认为这种产品有助于解决未来的全球食物危机， 而这种危机是由于可供以传统方式进行肉类生产的土地面积减少引起的。 因此可以推断， 选项 A 为正确答案。 14 ． D 〖 解【解题思路】 四项的主语都是 it， 因此可以推断， 本题考查的内容与 it 的状态或变化有关。 解题时应注意弄清 it 指代的是什么。 【解析】 短文提到， 米罗诺夫教授说， 将一项新技术投入市场平均需要 IO 亿美元， 但他们连 100 万美元也没有。 因此可以推断， 选项 D 为正确答案。 选项中的 it 指代的是 thefunding& 金）。",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q15",
@@ -212,8 +293,17 @@
             "C": "Chaos theory and its applications.",
             "D": "The current global economic crisis."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "是什么。 【解析】 短文提到， 米罗诺夫教授说， 将一项新技术投入市场平均需要 IO 亿美元， 但他们连 100 万美元也没有。 因此可以推断， 选项 D 为正确答案。 选项中的 it 指代的是 thefunding& 金）。 15 · A 〖 解【解题思路】 四项的主语都是 they； 三项含有描述食物性质的形容词 （natural， healthy, nutritious， delicious)o ． 2015 年 12 月六级真题 （第三套） 庵 12 结论： 本题考查的内容很可能与食物的性质有关。 解题时应注意弄清 they 指代的是什么。 〔 解析 ] 短文最后提到， 吉诺维斯",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q16",
@@ -225,8 +315,17 @@
             "C": "They require high academic degrees.",
             "D": "They have people with a very high IQ."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "预测根据选项中的 exhaus 幻。、 0 h 《s 厩 p、 e “、 m “ a 尋词汇可推断， 悱座内庳该与令人疲倦的工、 错误的习、 睡炼、 按摩等有关。 13 ． 2015 年 12 月六级真题 （第三套） · 16 · D 〖 解【解题思路】 四项都由两个并列的名词或名词性短语构成， 其中多个短语出现不止一次， 可以先将这些短语列出来 (exhaustingjobs, wasted time， wrong eating habits)， 然后将听音重点放在这些关键词汇上， 听到哪个就打上勾， 两个短语均被打上勾的选项即为正确答案。 【解析】 本题考查的是什么",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q17",
@@ -238,8 +337,17 @@
             "C": "Distinctive academic qualifications.",
             "D": "Devotion to the advance of science."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "【解题思路】 四项均为名词或名词性短语， 本题应该是以 what 开头的提问。 选项比较简单， 听录音时应注意对相应细节信息的提取。 〖 解析 ] 关于音乐疗法， 讲座中提到： “ 你觉得用舒缓的音乐作为对抗和战胜压力与疾病的处方怎么样？ 听起来不错， 是吧？ “ “ “ 音乐结合了心理学与心理辅导， 可以作为一种疗法来治疗抑郁症、 性格问题、 癌症等多种疾病。 \" 由此可知音乐可以作为一种疗法来治疗性格问题， 故答案选 C。 其他选项都是根据讲座其他内容设置的干扰项， 不符合题干要求， 应排除。 1 & A 〖 解【解题思路】 四项均含有 massage， 两项含有 essential s， 内容都含有积极色彩， 表示功能和作用。 由此可推断问题与 massage 有关， 很可能问的是按摩或按摩精油的功用。 听音重点应放在对按摩和按摩精油的功用描述上。 〖 解析 ] 讲座中提到： “ 如果你是一个按摩爱好者， 这里还有一个令你更常沉迷于按摩的原因， 因为按摩可以改善血管功能， 并有助于减少压力。 精油可以舒缓你的头脑， 消除焦虑。 ” 由此可知按摩可以改善身体机能， 并有助于减少压力， 故答案为 AO 讲座提到精油可以消除焦虑， 并非说消除各种疾病， C 项错误， 应排除。 B、 D 两项原文都没有提及， 故排除。 Recording TWO （昕力原文 〗 HeIIo， everyone. Last time we talked about the history of television. Today， l'd like to talk about the roles television has been playing in Americans， political life. TeIevision has transformed politics in the United States by changing the way which information is spread by al",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "学与心理辅导， 可以作为一种疗法来治疗抑郁症、 性格问题、 癌症等多种疾病。 \" 由此可知音乐可以作为一种疗法来治疗性格问题， 故答案选 C。 其他选项都是根据讲座其他内容设置的干扰项， 不符合题干要求， 应排除。 1 & A 〖 解【解题思路】 四项均含有 massage， 两项含有 essential s， 内容都含有积极色彩， 表示功能和作用。 由此可推断问题与 massage 有关， 很可能问的是按摩或按摩精油的功用。 听音重点应放在对按摩和按摩精油的功用描述上。 〖 解析 ] 讲座中提到： “ 如果你是一个按摩爱好者， 这里还有一个令你更常沉迷于按摩的原因，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q18",
@@ -264,8 +372,17 @@
             "C": "A history textbook.",
             "D": "A biography."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "y do politicians create staged political events? · 20 巧年 12 月六级真题 （第三套） · 14、 根据选项中的 c ndida、，、、 s 等词汇可以推断：， 耕座 19 ． C 〖 解【解题思路】 四项均为以 they 开头的陈述性的句子， 其中三个选项含有 candidates， 此外， 选项中还出现了其他一些与政治、 竞选有关的词汇 (political, selection， s 四 nso， campaign funds)o 首先应听清 they 的指代对象， 然后将听音重点放在各个选项的关键词上。 【解析】 本题考查",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q20",
@@ -290,8 +407,17 @@
             "C": "Raise people's environmental awareness.",
             "D": "Attract people to America's national parks."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "【解题思路】 四项均为以 politicians 开头的陈述性句子， 其中三个选项含有 issues， 两项含有 explaimng， 一项含有 providing arguments， 初步判断考查的内容可能与政客们的演讲或辩论相关。 【解析】 本题考查的是对语句的理解， 需要在理解全文的基础上分析这句话的内涵。 讲话者在这句话之前提到： “ 在这些精简的形式中， 大部分构成早期传统政治宣讲的要素已然逝去。 在巧秒或 30 秒的时间里， 演说者无法构建正在谈论的问题形成的历史背景， 不能详细说明问题的可能原因， 无法仔细验证替代方案以证明此方案优于彼方案。 ” 再结合这句话的字面意思， 可以得知这句话是说在当前通过电视播出的数十秒的视频中， 政客们只能提出其主张， 无法对其主张提出充分的论据并进行深入的阐释， 故选 B。 其他三项都不正确， 应排除。 〖 解【解题思路】 四项均以 they 开头， 表述的是原因和目的， 考查的内容很可能与某政治事件的目的或动机有关。 【解析】 本题考查的是政客们炮制伪政治事件的动机。 讲话在近结尾处提到： “ 认识到电视图像力量的政客们， 精心炮制出一幕幕适合上电视镜头的 “ 舞台剧 ”， 这些所谓的伪新闻事件旨在吸引媒体的报道。 ” 由此可知答案为 AO 其他三项都不符合文意， 应排除。 Recording Three 〖 昕力原文 〗 A survey is a study, generally in the form Of an interview or a quesuonnaire that provides information conceming hOW people thmk and act. ln the United States， the best-known surveys are the GaIIup poll and the Harris pol",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "演说者无法构建正在谈论的问题形成的历史背景， 不能详细说明问题的可能原因， 无法仔细验证替代方案以证明此方案优于彼方案。 ” 由此可知， 传统的政治宣讲使候选人能详细阐述自己的观点和主张， 所以更加成功。 故答案选 D0 21. B 〖 解【解题思路】 四项均为以 politicians 开头的陈述性句子， 其中三个选项含有 issues， 两项含有 explaimng， 一项含有 providing arguments， 初步判断考查的内容可能与政客们的演讲或辩论相关。 【解析】 本题考查的是对语句的理解， 需要在理解全文的基础上分析这句话的内涵。 讲话者在这句话之前提到：",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q22",
@@ -342,8 +468,17 @@
             "C": "Another Ebola epidemic may erupt sooner or later.",
             "D": "Once infected, one will become immune to Ebola."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "【解题思路】 四项均为以 they 开头的句子， 都是对 they 的描述。 四项的关键词分别是 representative sampling， television broadcasting， notcarefully worded and organized， reflect political opinions 听音时首先明确 they 的指代对象， 然后将听音重点放在各个选项的关犍词上。 【解析】 本题考查的是街头采访的主要缺点是什么。 讲话提到， 街头采访不一定是准确的公众意见风向标。 接着具体说明了几点原因， 并总结说： 如果想要真正反映大众意见， 调查必须建立在准确和典型抽样的基础上。 由此可推知， 这种采访的缺点是抽样不够准确、 典型， 代表性不够， 故选 A。 其他三项均不符合文意。 〖 解【解题思路】 四项均为名词性短语， 题目应该是以 what 开头的提问。 听音时应重点抓住四个选项的关键词 (a large number Of respondents, carefully worded and understandable questions， ability to understand respondents' feelings, sociologist who is able to interpret), 然后根据问题作出进一步的判断 【解析】 本题考查的是有效调查的至关重要的因素是什么。 讲话提到， 在准备进行调查的过程中， 社会学家们必须在设置问题的措辞上精心打磨。 有效的调查问题必须是简单明了的， 足以让人们理解它。 由此可知， 有效调查的至关重要的因素是设置精心措辞和易于理解的问题， 故选 B。 其他三项都是根据讲座中出现的其他信息设置的干扰项， 不符合题意， 应排除。 〖 解【解题思路】 四项均以 live interviews 开头， 描述其特点。 四项都含有表示优点， 含正面色彩的词汇 （cost less， obtain more， are easier to， mi",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-3/key_OCR_2015-12-3.txt",
+            "sourceText": "， 街头采访不一定是准确的公众意见风向标。 接着具体说明了几点原因， 并总结说： 如果想要真正反映大众意见， 调查必须建立在准确和典型抽样的基础上。 由此可推知， 这种采访的缺点是抽样不够准确、 典型， 代表性不够， 故选 A。 其他三项均不符合文意。 〖 解【解题思路】 四项均为名词性短语， 题目应该是以 what 开头的提问。 听音时应重点抓住四个选项的关键词 (a large number Of respondents, carefully worded and understandable questions， ability to understand respo",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },

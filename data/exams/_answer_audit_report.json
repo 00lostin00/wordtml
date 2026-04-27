@@ -1,0 +1,681 @@
+{
+  "summary": {
+    "all": {
+      "objective": 754,
+      "answered": 754,
+      "verified": 0,
+      "keyExtractedHigh": 726,
+      "keyExtractedReview": 21,
+      "unproven": 7,
+      "missing": 0
+    },
+    "byType": {
+      "ky1": {
+        "objective": 754,
+        "answered": 754,
+        "verified": 0,
+        "keyExtractedHigh": 726,
+        "keyExtractedReview": 21,
+        "unproven": 7,
+        "missing": 0
+      }
+    }
+  },
+  "exams": [
+    {
+      "type": "ky1",
+      "slug": "2000",
+      "id": "ky1-2000",
+      "objective": 0,
+      "answered": 0,
+      "verified": 0,
+      "keyExtractedHigh": 0,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 0,
+      "verifiedCoveragePct": 0,
+      "confidence": {},
+      "sourceTypes": {},
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2001",
+      "id": "ky1-2001",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 14,
+        "aggregate-key": 6
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2002",
+      "id": "ky1-2002",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 18,
+        "aggregate-key": 2
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2003",
+      "id": "ky1-2003",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 16,
+        "aggregate-key": 4
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2004",
+      "id": "ky1-2004",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 17,
+        "aggregate-key": 3
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2005",
+      "id": "ky1-2005",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 20
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2006",
+      "id": "ky1-2006",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 20
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2007",
+      "id": "ky1-2007",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 20
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2008",
+      "id": "ky1-2008",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 20
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2009",
+      "id": "ky1-2009",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 20
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2010",
+      "id": "ky1-2010",
+      "objective": 40,
+      "answered": 40,
+      "verified": 0,
+      "keyExtractedHigh": 38,
+      "keyExtractedReview": 2,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 38,
+        "medium": 2
+      },
+      "sourceTypes": {
+        "official-key": 22,
+        "aggregate-key": 18
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2011",
+      "id": "ky1-2011",
+      "objective": 40,
+      "answered": 40,
+      "verified": 0,
+      "keyExtractedHigh": 36,
+      "keyExtractedReview": 3,
+      "unproven": 1,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 37,
+        "medium": 3
+      },
+      "sourceTypes": {
+        "official-key": 24,
+        "aggregate-key": 16
+      },
+      "issues": [
+        {
+          "section": "reading-mcq",
+          "number": 27,
+          "answer": "G",
+          "status": "unproven",
+          "issues": [
+            "answer-out-of-range"
+          ]
+        }
+      ],
+      "issueCount": 1
+    },
+    {
+      "type": "ky1",
+      "slug": "2012",
+      "id": "ky1-2012",
+      "objective": 40,
+      "answered": 40,
+      "verified": 0,
+      "keyExtractedHigh": 38,
+      "keyExtractedReview": 2,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 38,
+        "medium": 2
+      },
+      "sourceTypes": {
+        "official-key": 22,
+        "aggregate-key": 18
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2013",
+      "id": "ky1-2013",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 20
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2014",
+      "id": "ky1-2014",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 20
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2015",
+      "id": "ky1-2015",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 20
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2016",
+      "id": "ky1-2016",
+      "objective": 45,
+      "answered": 45,
+      "verified": 0,
+      "keyExtractedHigh": 43,
+      "keyExtractedReview": 2,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 43,
+        "medium": 2
+      },
+      "sourceTypes": {
+        "official-key": 29,
+        "aggregate-key": 16
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2017",
+      "id": "ky1-2017",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 20
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2018",
+      "id": "ky1-2018",
+      "objective": 39,
+      "answered": 39,
+      "verified": 0,
+      "keyExtractedHigh": 37,
+      "keyExtractedReview": 2,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 37,
+        "medium": 2
+      },
+      "sourceTypes": {
+        "official-key": 23,
+        "aggregate-key": 16
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2019",
+      "id": "ky1-2019",
+      "objective": 20,
+      "answered": 20,
+      "verified": 0,
+      "keyExtractedHigh": 20,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 20
+      },
+      "sourceTypes": {
+        "official-key": 20
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2020",
+      "id": "ky1-2020",
+      "objective": 45,
+      "answered": 45,
+      "verified": 0,
+      "keyExtractedHigh": 41,
+      "keyExtractedReview": 4,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 41,
+        "medium": 4
+      },
+      "sourceTypes": {
+        "official-key": 29,
+        "aggregate-key": 16
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2021",
+      "id": "ky1-2021",
+      "objective": 45,
+      "answered": 45,
+      "verified": 0,
+      "keyExtractedHigh": 42,
+      "keyExtractedReview": 2,
+      "unproven": 1,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 42,
+        "medium": 3
+      },
+      "sourceTypes": {
+        "official-key": 25,
+        "aggregate-key": 20
+      },
+      "issues": [
+        {
+          "section": "reading-mcq",
+          "number": 40,
+          "answer": "F",
+          "status": "unproven",
+          "issues": [
+            "answer-out-of-range"
+          ]
+        }
+      ],
+      "issueCount": 1
+    },
+    {
+      "type": "ky1",
+      "slug": "2022",
+      "id": "ky1-2022",
+      "objective": 45,
+      "answered": 45,
+      "verified": 0,
+      "keyExtractedHigh": 38,
+      "keyExtractedReview": 4,
+      "unproven": 3,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 40,
+        "medium": 5
+      },
+      "sourceTypes": {
+        "official-key": 45
+      },
+      "issues": [
+        {
+          "section": "reading-mcq",
+          "number": 40,
+          "answer": "F",
+          "status": "unproven",
+          "issues": [
+            "answer-out-of-range"
+          ]
+        },
+        {
+          "section": "new-question",
+          "number": 41,
+          "answer": "F",
+          "status": "unproven",
+          "issues": [
+            "answer-out-of-range"
+          ]
+        },
+        {
+          "section": "new-question",
+          "number": 45,
+          "answer": "G",
+          "status": "unproven",
+          "issues": [
+            "answer-out-of-range"
+          ]
+        }
+      ],
+      "issueCount": 3
+    },
+    {
+      "type": "ky1",
+      "slug": "2023",
+      "id": "ky1-2023",
+      "objective": 45,
+      "answered": 45,
+      "verified": 0,
+      "keyExtractedHigh": 45,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 45
+      },
+      "sourceTypes": {
+        "official-key": 44,
+        "aggregate-key": 1
+      },
+      "issues": [],
+      "issueCount": 0
+    },
+    {
+      "type": "ky1",
+      "slug": "2024",
+      "id": "ky1-2024",
+      "objective": 45,
+      "answered": 45,
+      "verified": 0,
+      "keyExtractedHigh": 43,
+      "keyExtractedReview": 0,
+      "unproven": 2,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 45
+      },
+      "sourceTypes": {
+        "aggregate-key": 45
+      },
+      "issues": [
+        {
+          "section": "new-question",
+          "number": 42,
+          "answer": "F",
+          "status": "unproven",
+          "issues": [
+            "answer-out-of-range"
+          ]
+        },
+        {
+          "section": "new-question",
+          "number": 45,
+          "answer": "G",
+          "status": "unproven",
+          "issues": [
+            "answer-out-of-range"
+          ]
+        }
+      ],
+      "issueCount": 2
+    },
+    {
+      "type": "ky1",
+      "slug": "2025",
+      "id": "ky1-2025",
+      "objective": 45,
+      "answered": 45,
+      "verified": 0,
+      "keyExtractedHigh": 45,
+      "keyExtractedReview": 0,
+      "unproven": 0,
+      "missing": 0,
+      "answerCoveragePct": 100.0,
+      "verifiedCoveragePct": 0.0,
+      "confidence": {
+        "high": 45
+      },
+      "sourceTypes": {
+        "aggregate-key": 45
+      },
+      "issues": [],
+      "issueCount": 0
+    }
+  ]
+}

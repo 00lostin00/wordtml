@@ -27,7 +27,16 @@
                 "D": "Without"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "1.C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -40,7 +49,16 @@
                 "D": "tracing"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "2.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -53,7 +71,16 @@
                 "D": "reference"
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "3.D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -66,7 +93,16 @@
                 "D": "eventually"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "4.C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -79,7 +115,16 @@
                 "D": "went by"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "5.C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -92,7 +137,16 @@
                 "D": "sources"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "6.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -105,7 +159,16 @@
                 "D": "stable"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "7.B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -118,7 +181,16 @@
                 "D": "act as"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "8.B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -131,7 +203,16 @@
                 "D": "Rather than"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "9.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -144,7 +225,16 @@
                 "D": "occupied"
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "10.D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -157,7 +247,16 @@
                 "D": "direct"
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "11.D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -170,7 +269,16 @@
                 "D": "change"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "12.C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -183,7 +291,16 @@
                 "D": "pointing at"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "13.C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -196,7 +313,16 @@
                 "D": "Although"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "14.B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -209,7 +335,16 @@
                 "D": "reasons"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "15.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -222,7 +357,16 @@
                 "D": "mixes"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "16.B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -235,7 +379,16 @@
                 "D": "complement"
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "17.D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -248,7 +401,16 @@
                 "D": "Above all"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "18.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -261,7 +423,16 @@
                 "D": "include"
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "19.D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -274,7 +445,16 @@
                 "D": "delicate"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025英语一完型真题_答案速查.txt",
+                "sourceText": "20.A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }
@@ -301,7 +481,16 @@
                 "D": "hiding them from the locals"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "21. C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q22",
@@ -314,7 +503,16 @@
                 "D": "show the preciousness of nail-making technology at that time"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "22， A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q23",
@@ -327,7 +525,16 @@
                 "D": "Reduced cost of raw materials."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "23 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q24",
@@ -340,7 +547,16 @@
                 "D": "are one of the world's most significant inventions"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "24 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q25",
@@ -353,7 +569,16 @@
                 "D": "Sophisticated technologies develop from small inventions. 2024-5"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "25 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -372,7 +597,16 @@
                 "D": "carrying infants around by their parents"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "26 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q27",
@@ -385,7 +619,16 @@
                 "D": "the differences between western and African ways of living"
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "27 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q28",
@@ -398,7 +641,16 @@
                 "D": "departs from the course of evolution"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "28 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q29",
@@ -411,7 +663,16 @@
                 "D": "They should try to prevent parental depression."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "29 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q30",
@@ -424,7 +685,16 @@
                 "D": "Tracing the history of parenting: from Africa to Europe 2024-7"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "30 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -443,7 +713,16 @@
                 "D": "He specializes in classical painting digitalization."
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "31. D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q32",
@@ -456,7 +735,16 @@
                 "D": "collect user information without consent"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "32， A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q33",
@@ -469,7 +757,16 @@
                 "D": "heated disputes regarding his copyright"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "33， A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q34",
@@ -482,7 +779,16 @@
                 "D": "adopt a different strategy for AI model training"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "34， C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q35",
@@ -495,7 +801,16 @@
                 "D": "Opposing views on AI development. 2024-9"
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "3 & D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -514,7 +829,16 @@
                 "D": "a headache for nearby communities"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "36 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q37",
@@ -527,7 +851,16 @@
                 "D": "may face opposition from mining operators"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "37 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q38",
@@ -540,7 +873,16 @@
                 "D": "Encouraged."
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "3 & B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q39",
@@ -553,7 +895,16 @@
                 "D": "It has ensured the coordination of protection efforts."
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "39 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q40",
@@ -566,7 +917,16 @@
                 "D": "improve the wellbeing of endangered species 2024-11"
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "40 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }
@@ -577,34 +937,35 @@
       "type": "matching",
       "title": "Section II Part B · New Question Type",
       "minutes": 15,
+      "options": {
+        "A": "It is clear that the countries of origin have never been compensated for the stolen artifacts.",
+        "B": "It is a flawed line of reasoning to argue against returning artifacts to their countries of origin.",
+        "C": "Museum visitors can still learn as much from artifacts' copies after the originals are returned.",
+        "D": "Reproductions, even if perfectly made, cannot take the place of the authentic objects.",
+        "E": "The real value of artifacts can only be recognized in their countries of origin rather than anywhere else.",
+        "F": "Ways to get artifacts from other countries must be decent and lawful.",
+        "G": "Concern over security is no excuse for refusing to return artifacts to their countries of origin. 2024-13"
+      },
       "paragraphs": [
         {
-          "label": "A",
-          "text": "It is clear that the countries of origin have never been compensated for the stolen artifacts."
+          "label": "41",
+          "text": "Hannah\nSimply, there are people in Nigeria who cannot travel to the Smithsonian\nInstitution to see that part of their history and culture represented by the Benin\nBronzes. These should be available to them as part of their cultural heritage and\nhistory and as a source of national pride. There is no good reason that these artifacts\nshould be beyond the ordinary reach of the educational objectives or inspiration of the\ngenerations to which they were left. They serve no purpose in a museum in the United\nStates or elsewhere except as curious objects. They cannot be compared to works of\nart produced for sale which can be passed from hand to hand and place to place by\npurchase."
         },
         {
-          "label": "B",
-          "text": "It is a flawed line of reasoning to argue against returning artifacts to their countries of origin."
+          "label": "42",
+          "text": "Buck\nWe know very exact reproductions of artwork can be and are regularly produced.\nPerhaps museums and governments might explore some role for the use of nearly\nexact reproductions as a means of resolving issues relating to returning works of art\nand antiquities. The context of any exhibit is more important to me than whether the\nobject being displayed is 2,000 years old or 2 months old. In many cases the experts\nhave a hard time agreeing on what is the real object and what is a forgery. Again, the\nstory an exhibit is trying to tell is what matters. The monetary value of the objects on\ndisplay is a distant second place in importance."
         },
         {
-          "label": "C",
-          "text": "Museum visitors can still learn as much from artifacts' copies after the originals are returned."
+          "label": "43",
+          "text": "Sara\nWhen visiting the Baltimore Museum of Art, I came across a magnificent 15th-\ncentury Chinese sculpture. It inspired me to learn more about the culture that it\nrepresented. Artifacts in museums have the power to inspire, and perhaps spark that\nneed to learn and understand the nature of their creators. Having said that, I do feel\nthat whatever artifacts find their way to public museums should, in fact, be sanctioned\nas having been obtained on loan, legally purchased, or obtained by treaty. Stealing\n2024-12\n\nartifacts from other peoples' cultures is obscene; it robs not only the physical objects,\nbut the dignity and spirit of their creators."
         },
         {
-          "label": "D",
-          "text": "Reproductions, even if perfectly made, cannot take the place of the authentic objects."
+          "label": "44",
+          "text": "Victor\nAncient art that is displayed in foreign countries by all means should be returned\nto the original country. The foreign countries have no right to hold back returning\nthe items. I would ask that the foreign nations and the original country discuss the\nterms of transfer. Yes, there is the risk that the original country will not have as good\nsecurity as do the foreign countries. But look at what happened to Boston's Gardner\nMuseum theft in 1990, including the loss of Rembrandt, Vermeer, Manet, and other\nmasterpieces. Nothing is absolutely safe nowhere. And now Climate Change agitators\nare attacking publicly displayed works in European museums."
         },
         {
-          "label": "E",
-          "text": "The real value of artifacts can only be recognized in their countries of origin rather than anywhere else."
-        },
-        {
-          "label": "F",
-          "text": "Ways to get artifacts from other countries must be decent and lawful."
-        },
-        {
-          "label": "G",
-          "text": "Concern over security is no excuse for refusing to return artifacts to their countries of origin. 2024-13"
+          "label": "45",
+          "text": "Julia\nTo those of you in the comments section who are having strong feelings about\nartifacts being removed from cities in the U.S. and Britain and returned to their\ncountries of origin, I would ask you to consider why do you think Americans have\nmore of a right to easily access the Benin Bronzes than the people of Nigeria? Why\nare people who live within a day's drive of London entitled to go and see the Elgin\nMarbles whenever they want, but the people of Athens aren't? What intrinsic factors\nmake the West a suitable home for these artifacts but preclude them from being\npreserved and displayed by their countries of origin? If your conclusion is that the\nWest is better able to preserve these artifacts, think about why you're assuming that to\nbe true.\n[A] It is clear that the countries of origin have never been compensated for the stolen\nartifacts.\n[B] It is a flawed line of reasoning to argue against returning artifacts to their countries\nof origin.\n[C] Museum visitors can still learn as much from artifacts' copies after the originals\nare returned.\n[D] Reproductions, even if perfectly made, cannot take the place of the authentic\nobjects.\n[E] The real value of artifacts can only be recognized in their countries of origin rather\nthan anywhere else.\n[F] Ways to get artifacts from other countries must be decent and lawful.\n[G] Concern over security is no excuse for refusing to return artifacts to their countries\nof origin.\n2024-13"
         }
       ],
       "questions": [
@@ -613,35 +974,80 @@
           "number": 41,
           "stem": "Hannah",
           "answer": "B",
-          "explanation": ""
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "aggregate-key",
+            "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025年英语一新题型真题_答案速查._1.txt",
+            "sourceText": "41.B",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q42",
           "number": 42,
           "stem": "Buck",
           "answer": "F",
-          "explanation": ""
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "aggregate-key",
+            "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025年英语一新题型真题_答案速查._1.txt",
+            "sourceText": "42.F",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q43",
           "number": 43,
           "stem": "Sara",
           "answer": "D",
-          "explanation": ""
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "aggregate-key",
+            "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025年英语一新题型真题_答案速查._1.txt",
+            "sourceText": "43.D",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q44",
           "number": 44,
           "stem": "Victor",
           "answer": "C",
-          "explanation": ""
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "aggregate-key",
+            "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025年英语一新题型真题_答案速查._1.txt",
+            "sourceText": "44.C",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
           "id": "q45",
           "number": 45,
           "stem": "Julia",
           "answer": "G",
-          "explanation": ""
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "aggregate-key",
+            "sourceFile": "data/exams/_raw/ky1/2005/paper_2005-2025年英语一新题型真题_答案速查._1.txt",
+            "sourceText": "45.G",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
       ]
     },

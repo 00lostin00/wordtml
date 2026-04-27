@@ -1,0 +1,562 @@
+{
+  "id": "cet6-2025-06-3",
+  "type": "cet6",
+  "year": 2025,
+  "month": 6,
+  "set": 3,
+  "title": "2025年6月大学英语六级真题(第3套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “With the increasing application of AI technology, there is a growing concern that it may negatively impact human creativity.You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank\nfrom a list o f choices given in a word bank following the passage. Read the passage through carefully before\nmaking your choices. Each choice in the bank is identified by a letter: Please mark the corresponding letter for\neach item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank\nmore than once.\nThe slow progress of women in elective office is frustrating for some political observers and experts一\nincluding myself. Achieving gender equality in Congress is an important goal. This is because the number of\nwomen involved in legislative decisions has significant \n26 for all the policies that governments \n27 . Female\nlegislators are more likely than men to introduce, speak about and work to pass policies that disproportionately\naffect women and girls, such as paid family leave, pay \n28 and gender-based violence.\nHaving more women in Congress also fosters a greater sense of connection between female voters and\ngovernment. In addition, it \n\nwomen's sense that government cares about their concerns and inspires young\nwomen to become more politically engaged.\nWhile women are underrepresented in governments around the globe, it is a particularly \n\nproblem\nin the United States. Cunently, the U.S. ranks 73rd in the world when it comes to female representation in\ngovernment.\nBut the reason women are so \n\nunderrepresented in U.S. government is not because they face resistance\nfrom voters or struggle to raise money. On the contrary, decades of research shows that female candidates raise as\nmuch money and win as often as male politicians with similar \n32 .\nRather, the slow progress of women in politics is a tale of two political parties.\nIn the next Congress, there will be 107 female Democratic lawmakers and 42 female Republican lawmakers\nin the Senate and House combined.\nIn order for women to gain half of the seats in Congress, more women need to run, \n\non Republican\ntickets. This will require the Republican Party as a whole to \n\nrecruiting women- and not just for one\nelection cycle, but in a \n\nway.\n\n・2025年6 月六级真题（第三套）・",
+      "wordBank": {
+        "A": "bolsters",
+        "I": "formidable",
+        "B": "consequences",
+        "J": "impetus",
+        "C": "credentials",
+        "K": "lavish",
+        "D": "dramatically",
+        "L": "prioritize",
+        "E": "enact",
+        "M": "suffices",
+        "F": "equity",
+        "N": "sustained",
+        "G": "especially",
+        "H": "evasively"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": "B",
+          "explanation": "26 ． B) consequences (). 影响， 后果； 重要性） 固厮 ] 此处为 because 引导的原因状语从句， 其主语为 the number of women， 而空格前为 has significant， 空格后为 for all the policies， policies 后面被 that 引导的定语从句修饰。 由此可知， 该原因状语从句缺少宾语， 空格处应填人一个名词， 充当 has 的宾语。 陋刂圃下一句提到， 相较于男性， 女性立法者更倾向于提出、 讨论并推动通过那些对妇女和女孩影响尤为显著的政策， 前后句具有承接关系， 可知空格所在句陈述的应该是女性立法者对国家政策的影响， consequences 符合语境， 故选 B",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+            "sourceText": "26 ． B) consequences (). 影响， 后果； 重要性） 固厮 ] 此处为 because 引导的原因状语从句， 其主语为 the number of women， 而空格前为 has significant， 空格后为 for all the policies， policies 后面被 that 引导的定语从句修饰。 由此可知， 该原因状语从句",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": "E",
+          "explanation": "可知此处为 that 引导的定语从句， 修饰 policies， 而该定语从句中 governments 为主语， 句子缺少谓语， 故空格处应填人一个谓语动词陋画 ] 上文提及女性立法者会对国家政策产生影响， 此处应该是指是由政府 “ 制定 ” 的政策， enact 符合语境， 故选 E",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+            "sourceText": "27 ． E) enact 制定 （法律）， 通过 （法案）， 颁布 （法令） ] 画 ] 结合上一题的分析可知此处为 that 引导的定语从句， 修饰 policies， 而该定语从句中 governments 为主语， 句子缺少谓语， 故空格处应填人一个谓语动词陋画 ] 上文提及女性立法者会对国家政策产生影响， 此处应该是指是由政府 “ 制定 ” 的",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": "F",
+          "explanation": "28 ． F) equity (). 平等） 〔 刂圃空格前为 such as paid family leave， pay， 空格后为 and gender-based violence， 由此可知， 此处是由 such as 引出的表列举的事项， pay 28 ” 应该与 paid family leave 以及 gender-based violence— 起构成并列关系， 均为名词短语， 故空格处应填人一个名词。 本句提及相较于男性， 女性立法者更倾向于提出、 讨论并推动通过那些对妇女和女孩影响尤为显著的政策， 此处就是列举对妇女和女孩有影响的政策， 由此可知， 与 “ 带薪家庭假 \" “ 性别暴力 \" 构成并列关系的应该是 “ （男女） 薪酬平等 ”， 故 equity 符合语境， 本题应选 F。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+            "sourceText": "28 ． F) equity (). 平等） 〔 刂圃空格前为 such as paid family leave， pay， 空格后为 and gender-based violence， 由此可知， 此处是由 such as 引出的表列举的事项， pay 28 ” 应该与 paid family leave 以及 gender-based violence— 起构成",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": "A",
+          "explanation": "29 ． A) bolsters 气加强， 改善） 去断 〕 空格前为主语 it， 空格后为名词短语艹 men， s n， 由此可知， 空格处应填人一个动词， 充当谓语陋叉判司本段首句提及增加国会女性席位还能增强女性选民与政府之间的联结感， 这是女性从政人数增加的好处， 由 that 引导的同位语从句 that （政府关注其诉求） 可知， 此处要表达的意思是增加国会女性席位会强化女性对 “ 政府关注其诉求 \" 的认知， bolsters 符合语境， 故选 A",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+            "sourceText": "29 ． A) bolsters 气加强， 改善） 去断 〕 空格前为主语 it， 空格后为名词短语艹 men， s n， 由此可知， 空格处应填人一个动词， 充当谓语陋叉判司本段首句提及增加国会女性席位还能增强女性选民与政府之间的联结感， 这是女性从政人数增加的好处， 由 that 引导的同位语从句 that （政府关注其诉求） 可知， 此处要表达的意思",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": "I",
+          "explanation": "30 ． I) formidable 砌可怕的， 令人敬畏的； 难对付的） 陋匭 | 空格前为 it is a particularly, 空格后为名词 problem in United States， 由此可知， 空格处应填人一个被副词 particularly 修饰的形容词， 充当 problem 的定语。 陋由句首的 While 表达的让步转折关系和地点状语 in governments around the globe 可知， 此处是说， 尽管全球各国政府普遍存在女性代表不足的现象， 但美国的这一问题尤为 “ 严峻 ”， formidable 符合语境， a particularly formidable problem 意为 “ 一个特别让人害怕的问题 \"， 也就是问题比较严重的意思， 故选 I。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+            "sourceText": "30 ． I) formidable 砌可怕的， 令人敬畏的； 难对付的） 陋匭 | 空格前为 it is a particularly, 空格后为名词 problem in United States， 由此可知， 空格处应填人一个被副词 particularly 修饰的形容词， 充当 problem 的定语。 陋由句首的 While 表达的让步转折关系和地点状语 in",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": "D",
+          "explanation": "31. D) dramatically （口血剧烈地， 猛烈地） 〕 空格前是副词 so， 空格后是形容词 underrepresented, 由此可知， 空格处应填人一个副词， 修饰 underrepresented 陋义邦圃上一段提及美国政府女性代表不足现象尤其严重， 本段承接上一段的语义， 探讨其中的原因， 可知此处应填人 dramatically, 表示程度严重， dramatically underrepresented 与上一段中的 a particularly formidable problem 相呼应， 故选 D",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+            "sourceText": "31. D) dramatically （口血剧烈地， 猛烈地） 〕 空格前是副词 so， 空格后是形容词 underrepresented, 由此可知， 空格处应填人一个副词， 修饰 underrepresented 陋义邦圃上一段提及美国政府女性代表不足现象尤其严重， 本段承接上一段的语义， 探讨其中的原因， 可知此处应填人 dramatically,",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": "C",
+          "explanation": "32， C) credentials （” ． 资格， 资历） 陋过空格前是 with similar， 空格后是句点， 由此可知， 空格处应填人一个被 similar 修饰的名词， 充当介词 with 的宾语陋里邦司上一句提及， 美国政界女性代表严重不足并非选民抵制或筹款困难， 本句使用了表示情况相反的短语 On the contrary （相反）， 可知， 本句陈述的是女性政客的筹款能力或选民支持情况。 由本句中提到的女性候选人筹款能力与胜选率与男性政客持平的内容可知， 此处是说 “ 在资质相当的情况下 \"， 这样两者才具有可比性， credentials 符合语境， 故选 c 六级 2025， 6 第三套 43",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+            "sourceText": "32， C) credentials （” ． 资格， 资历） 陋过空格前是 with similar， 空格后是句点， 由此可知， 空格处应填人一个被 similar 修饰的名词， 充当介词 with 的宾语陋里邦司上一句提及， 美国政界女性代表严重不足并非选民抵制或筹款困难， 本句使用了表示情况相反的短语 On the contrary （相反），",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": "G",
+          "explanation": "本句结构可知， more women need to run 是主句， 句首是目的状语， 空格后 on Republican tickets 是介词短语， 也充当状语， 故空格处应填人一个副词， 充当状语修饰介词短语 on Republican tickets。 〔 司下一句提及这要求共和党整体优先招募女性， 众所周知， 美国是两党制， 这里特别提到美国共和党要招募女性， 可知空格所在句是说， 为了让女性获得国会半数席位， 就需要更多女性参选一一尤其是作为共和党候选人， 故 especially 符合语境， 本题应选 G 34， L) prioritize （评优先考虑） { 灬 ] 空格前是 This will require the RepubIican Party as a whole to， 空格后是 recruiting women， 可知空格处应填人一个动词原形， 与 to 一起构成不定式短语， 表示目的。 陋叉 recruiting women 是该不定式的宾语， 意为 “ 招募女性 ”， 再结合全文反复提及的要增加女性在国会中的席位可知， 此处说的是要把招募女性作为优先事项来考虑， pnontize 符合语境， 故选 L。 35 ． N) sustained （口砌持续的） [ 空格前为 in a， 空格后为 way， 由此可知， 空格处应填人一个形容词或分词， 充当定语修饰名词 wayo 本句为破折号后的内容， 表示进一步说明， 且采用了 notjust. . . but ． “ 的并列结构， 表示 “ 不仅一而且 ． ． ．， 那么 Efinotjust for one election cycle （不仅仅是在一个选举周期内） 可知， bu 诟面的部分应表示 “ 长期 \" 的含义， sustained 表示 “ 持续的 ”， 暗含长期的意味， 符合语境， 故选 N。 干扰项注释 H) evasively 闪烁其词地， 推诿地） J) impetus （”， 推动， 促进， 动力） K) lavish 盛大奢华的； 慷慨的） M) suffces 足",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+            "sourceText": "G) especially （口血尤其， 特别） 陋法 ] 分析本句结构可知， more women need to run 是主句， 句首是目的状语， 空格后 on Republican tickets 是介词短语， 也充当状语， 故空格处应填人一个副词， 充",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": "L",
+          "explanation": "34， L) prioritize （评优先考虑） { 灬 ] 空格前是 This will require the RepubIican Party as a whole to， 空格后是 recruiting women， 可知空格处应填人一个动词原形， 与 to 一起构成不定式短语， 表示目的。 陋叉 recruiting women 是该不定式的宾语， 意为 “ 招募女性 ”， 再结合全文反复提及的要增加女性在国会中的席位可知， 此处说的是要把招募女性作为优先事项来考虑， pnontize 符合语境， 故选 L。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+            "sourceText": "34， L) prioritize （评优先考虑） { 灬 ] 空格前是 This will require the RepubIican Party as a whole to， 空格后是 recruiting women， 可知空格处应填人一个动词原形， 与 to 一起构成不定式短语， 表示目的。 陋叉 recruiting women 是该不定式的宾语，",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": "N",
+          "explanation": "35 ． N) sustained （口砌持续的） [ 空格前为 in a， 空格后为 way， 由此可知， 空格处应填人一个形容词或分词， 充当定语修饰名词 wayo 本句为破折号后的内容， 表示进一步说明， 且采用了 notjust. . . but ． “ 的并列结构， 表示 “ 不仅一而且 ． ． ．， 那么 Efinotjust for one election cycle （不仅仅是在一个选举周期内） 可知， bu 诟面的部分应表示 “ 长期 \" 的含义， sustained 表示 “ 持续的 ”， 暗含长期的意味， 符合语境， 故选 N。 干扰项注释 H) evasively 闪烁其词地， 推诿地） J) impetus （”， 推动， 促进， 动力） K) lavish 盛大奢华的； 慷慨的） M) suffces 足够， 足以） O)tenured （adj. 有此职责的； 职位有保障的） Section ． · 概览 · 本文节选自知名媒体网站 www． bbc， com 于 2019 年 8 月 28 日发表的一篇标题为 Why some people thrrve on solitude ” 的文章。 文章探讨了独处的潜在益处及其与社交的平衡关系。 研究发现， 偏好独处的人往往更具创造力， 因为他们有更多时间专注思考和探索内心世界。 内向型领导者在员工比较积极的团队中表现更佳， 因为他们更善于倾听， 且不易被他人的意见威胁。 独处时大脑的 “ 默认模式网络 ” 被激活， 有助于巩固记忆、 增强自我认知， 并为社交时的表现充电。 独处并非缺陷， 而是提升创造力、 专注力和自我认知的重要方式， 但需与适度社交结合， 以实现身心健康。",
+          "answerMeta": {
+            "sourceType": "ocr-key",
+            "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+            "sourceText": "35 ． N) sustained （口砌持续的） [ 空格前为 in a， 空格后为 way， 由此可知， 空格处应填人一个形容词或分词， 充当定语修饰名词 wayo 本句为破折号后的内容， 表示进一步说明， 且采用了 notjust. . . but ． “ 的并列结构， 表示 “ 不仅一而且 ． ． ．， 那么 Efinotjust for one elec",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [
+        {
+          "label": "A",
+          "text": "I can be a reluctant socialiser. I'm sometimes secretly pleased when social plans are called off. I get restless\na few hours into a hangout. I even once went on a free 10-day silent meditation (冥想)retreat- not for the\nmeditation, but for the silence."
+        },
+        {
+          "label": "B",
+          "text": "So I can relate to author Anneli Rufus, who wrote in Party of One: The Loners 'Manifesto,. \"When parents on TV\nshows pxmished their kids by ordering them to go to their rooms, I was confused. I loved my room. Being there\nbehind a locked door was a treat. To me a punishment was being ordered to play games with my cousin Louis.”"
+        },
+        {
+          "label": "C",
+          "text": "Unsocial tendencies like these are often far from ideal. Abundant research shows the harms of social isolation,\nconsidered a serious public health problem in countries that have rapidly ageing populations (though talk of\na 'loneliness epidemic7 may be exaggerated). In the UK, the Royal College of General Practitioners says that\nloneliness has the same risk level for premature death as diabetes. Strong social connections are important for\ncognitive functioning, motor function and a smoothly running immune system."
+        },
+        {
+          "label": "D",
+          "text": "This is especially clear from cases of extreme social isolation. Examples of people kept in captivity, children\nkept isolated in abusive orphanages, and prisoners kept in solitary confinement all show how prolonged\nsolitude can lead to hallucinations (幻觉)and other forms of mental instability."
+        },
+        {
+          "label": "E",
+          "text": "But these are severe and involuntary cases of aloneness. For those of us who just prefer plenty of alone time,\nemerging research suggests some good news: there are upsides to being alone- for both our work lives and\nour emotional well-being."
+        },
+        {
+          "label": "F",
+          "text": "Solitude is a time for reflection, for thinking about things more deeply. In a world increasingly focused on\nspeed and competitiveness, solitude is precious and something to be treasured. And there are benefits in\nlearning to love your solitude."
+        },
+        {
+          "label": "G",
+          "text": "One key benefit of solitude is improved creativity. Gregory Feist, who focuses on the psychology of\ncreativity at California^ San Jose State University, has defined creativity as thinking or activity with two key\nelements: originality and usefulness. He has found that personality traits commonly associated with creativity\nare openness (receptiveness to new thoughts and experiences), self-confidence, and autonomy- which may\ninclude “a lack of concern for social norms^^ and “a preference for being alone”. In fact, Feisfs research\non both artists and scientists shows that one of the most prominent features of creative folks is their lesser\ninterest in socialising."
+        },
+        {
+          "label": "H",
+          "text": "One reason for this is that such people are likely to spend sustained time alone working on their craft.\nPlus, Feist says, many artists “are trying to make sense of their internal world and a lot of internal personal\nexperiences that they're trying to give expression and meaning to through their art.\" Solitude allows for the\nreflection and observation necessary for that creative process.\n・2025年6 月六级真题（第三套）­"
+        },
+        {
+          "label": "I",
+          "text": "A recent justification of these ideas came from University at Buffalo psychologist Julie Bowker, who\nresearches social withdrawal. Social withdrawal is usually categorised into three types: shyness caused by fear\nor anxiety; avoidance, from a dislike of socialising; and unsociability, from a preference for solitude. A paper\nby Bowker and her colleagues was the first to show that a type of social withdrawal could have a positive\neffect—they found that creativity was linked specifically to unsociability. They also found that unsociability\nhad no correlation with aggression (shyness and avoidance did). This was significant because while previous\nresearch had suggested that unsociability might be harmless, Bowker and colleagues, paper showed that it\ncould actually be beneficial. Unsociable people are likely to be “having just enough interaction,Bowker\nsays. <uThey have a preference for being alone, but they also don't mind being with others."
+        },
+        {
+          "label": "J",
+          "text": "Still, it turns out that solitude is important for more than creativity. Ifs commonly believed that leaders need\nto be sociable. But this depends, among other things, on the personalities of their employees. One 2011\nstudy showed that in branches of a pizza chain where employees were more passive, outgoing bosses were\nassociated with higher profits. But in branches where employees were more active, introverted (内向的)\nleaders were more effective. One reason for this is that introverted people are less likely to feel threatened by\nstrong personalities and suggestions. They're also more likely to listen."
+        },
+        {
+          "label": "K",
+          "text": "Since ancient times, meanwhile, people have been aware of a link between isolation and mental focus. After\nall, cultures with traditions of religious hermits (隐士)believe that solitude is important fbr enlightenment.\nRecent research has given us a better understanding of why. One benefit of unsociability is the brain's state of\nactive mental rest, which goes hand-in-hand with the stillness of being alone. When another person is present,\nyour brain can't help but pay some attention. This can be a positive distraction. But it's still a distraction.\nL) Daydreaming in the absence of such distractions activates the brain's default-mode network. Among other\nfunctions, this network helps to consolidate memory and understand others5 emotions. Giving free rein to a\nwandering mind not only helps with focus in the long term but strengthens your sense of both yourself and\nothers. Paradoxically, therefore, periods of solitude actually help when it comes time to socialise once more.\nAnd the occasional absence of focus ultimately helps concentration in the long run.\nM) A more recent advocate of thoughtful and productive solitude is Susan Cain, author of Quiet: The Power of\nIntroverts in a World That Can't Stop Talking and founder of Quiet Revolution, a company that promotes\nquiet and introvert-friendly workplaces. uThese days, we tend to believe that creativity emerges from a\ndecidedly unreserved socialising process, but in fact it requires sustained attention and deep focus J  she\nsays. \"Also, humans are such absorbent social beings that when we surround ourselves with others, we\nautomatically take in their opinions and aesthetics. To truly chart our own path or vision, we have to be\nwilling to isolate ourselves, at least for some period of\nN) Still, the line between useful solitude and dangerous isolation can be blurry. ''Almost anything can be adaptive\nand maladaptive, depending on how extreme they get,“ Feist says. A disorder has to do with dysfunction. If\nsomeone stops caring about people and cuts off all contact, this could point to an irrational neglect of social\nrelations. But creative unsociability is a far cry from this. In fact, Feist says, “there's a real danger with\npeople who are never alone.^^ Ifs hard to examine one's own thoughts, feelings and motives, to be self-aware,\nand folly relaxed unless you have occasional solitude. In addition, introverts tend to have fewer but stronger\nfriendships- which has been linked to greater happiness.\nO) As with many things, quality reigns over quantity. Nurturing a few solid relationships without feeling the\nneed to constantly populate your life with endless chatting ultimately may be better for you.\nP) Thus, if your personality tends toward unsociability, you shouldn't feel the need to change. Of course, that\ncomes with qualifications. But as long as you have regular social contact, you are choosing solitude rather\nthan being forced into it, you have at least a few good friends and your solitude is good fbr your well-being\nor productivity, there*s no point agonising over how to fit a square personality into a round hole."
+        }
+      ],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Lots of research demonstrates that being socially isolated is harmful to the elderly.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "Being alone enables artists to think and observe, which is a must for their creation.\n\n,2025年6 月六级真题（第三套）・",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "To one writer, being forced to play with others was a penalty while being kept alone in a room was quite a\npleasure.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Recent research shows for the first time that there is a specific link between being creative and being\nunsociable.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "We must be willing to stay alone at least for some time in order to plot our own course.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "According to new research, for people who prefer being alone, solitude can be beneficial to their work lives\nand emotional health.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "It may turn out to be better for one to cultivate a few steady relationships than to busy themselves socialising.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Allowing your mind to wander freely is conducive to sharpening your focus in the long run.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Research conducted on artists and scientists indicates that creative people are less interested in hanging out\nwith others.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "According to Feist, you will have difficulty knowing yourself if you do not stay alone occasionally.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nSimulators are most often utilized within industries such as nuclear power, aviation and surgery where failure\nresults in disastrous consequences. To maximize the value from a simulation learning experience, participants\nshould immediately and directly apply their learning to a specific intervention within their organization.\nMost organizations aspire to deploy significant change programs, only to find them nearly impossible to\nimplement. That is largely because successful change requires more than a vision, it requires a workforce that not\nonly doesn't resist change, but embraces it.\nTo achieve success, an organization must build a transformation program that will allow change to be\nrapidly pulled across its departments and throughout its layers. Regardless of the level of senior management\ncommitment, unless key thought leaders at all levels embrace the change, the initiative will wither and die. To\ncreate this kind of widespread passion, learning leaders must expose the workforce to what could be, which will\nenable them to rethink their mental models, enable them to break free from their deep-rooted paradigms and\nembrace the opportunity to learn.\nAllowing participants to enter a simulated environment provides them with the opportunity to experience\nalternative realities which can prompt them to rethink their current beliefs.\nBehavioral change is not easy for most adults. Lectures, training programs and workshops can explain the\nintellectual elements of transformation, but they are seldom effective at getting to the behavioral aspects that\nlie at the heart of a significant change initiative. Further, under normal working conditions, managers rarely see\nthe full effect of their employee development efforts. As such, an intervention like a simulation can provide the\nstimulus for change.\nAn effective simulation can be better than experience as a learning tool because it accelerates time,\ncompresses space, and unlike reality, is specifically designed to maximize participant learning. Simulations\nprovide an immersive learning experience where skills, processes and knowledge all can be highlighted in a way\nreality cannot. The ability to explore, experiment and repeatedly apply new knowledge in unlimited, risk-free\nmodels is what makes simulation one of the most productive forms of learning.\nWell-designed simulations can enable individuals and groups to develop a deep level of understanding\nabout how their decisions and intuitive responses to business stimuli affect their fellow participants and the\norganization as a whole. To reap the benefits, however, simulations must feel like reality. At the end of the\nsuccessful simulation, participants must declare “this is us.\" If they don't, they will view the experience as a\ngame, which can be difficult to apply on the job, or worse, irrelevant to everyday work tasks. To maximize\n•2025年6 月六级真题（第三套）・\n\nbenefits from simulation, participants should immediately apply the learning from the experience to forge a\nsmooth link between learning and doing.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What do we learn about successful changes in organizations?",
+              "options": {
+                "A": "They can be immediately implemented with great ease.",
+                "B": "They are usually led by organization leaders of vision.",
+                "C": "They call fbr enthusiastic support from the workforce.",
+                "D": "They often result from simulation learning experiences."
+              },
+              "answer": "C",
+              "explanation": "到什么？ A) 它们可以毫不费力地立即实施。 B) 它们通常由有远见的组织领导者引领。 0 它们需要员工的热情支持。 D) 它们通常源于模拟学习体验。 定 + 根据题干信息词 successful changes 可将答案线索定位至第二段。 解第二段提到， 成功的变革不仅需要愿景， 还需要一支不仅不抵制变革， 而且会拥抱变革的员工队伍， 换言之， 组织中的成功变革需要员工的热情支持， 故 c 项为正确答案。 该段第一句提到， 大多数组织的变革计 | 划几乎无法实施， A 项与原文内容相悖， 故排除。 文中虽然提到了 vision， 但指的是变革的 “ 愿景 ”， 而 《非领导者的 “ 远见 \"， 故 B 项可排除。 原文只是说模拟是一种学习工具， 有助于推动变革， 并未提及成功变革通常源于模拟学习体验， D 项过度推断， 故排除",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+                "sourceText": "46、 关于组织中的成功变革， 我们了解到什么？ A) 它们可以毫不费力地立即实施。 B) 它们通常由有远见的组织领导者引领。 0 它们需要员工的热情支持。 D) 它们通常源于模拟学习体验。 定 + 根据题干信息词 successful changes 可将答案线索定位至第二段。 解第二段提到， 成功的变革不仅需要愿景， 还需要一支不仅不抵制变革， 而且会拥抱变革的员工队伍， 换言之， 组织中的成功变革需要员工的热情支持， 故 c 项为正确答案。 该段第一句提到， 大多数组织的变革计 | 划几乎无法实施， A 项与原文内容相悖， 故排除。 文中虽然提到了 vision",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What should learning leaders do to arouse learners5 passion for change?",
+              "options": {
+                "A": "Allow them to see what could possibly be achieved.",
+                "B": "Help them break free from their old paradigms.",
+                "C": "Encourage them to rethink their thought models.",
+                "D": "Stimulate them to embrace fresh opportunities."
+              },
+              "answer": "A",
+              "explanation": "第三段第三句提到， 为了激发这种广泛的热情， 学习型领导者必须让员工看到变革可能带来的图景， 也就是让他们看到变革可能实现的成果， A 项与原文表述相符， 且该选项中的 what could possibly be 与原文中的 what could be 相对应， 故为正确答案。 其他三项 “ 摆脱旧有范式 \" “ 重新思考思维模式 \" “ 拥抱新机遇 ” 均属于 “ 看到变革图景 \" 后的结果， 都是员工在受到激励后自身发生的行为变化， 而非学习型领导者应采取的行动， 故均排除。 48 六级 2025， 6 第三黛",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+                "sourceText": "47 ． 学习型领导者应如何激发学习者的变革热情？ A) 让他们看到可能实现的成果。 B) 帮助他们摆脱旧有范式。 0 鼓励他们重新思考自己的思维模式。 D) 激励他们拥抱新的机遇。 定 4 根据题干信息词 learning leaders 和 learners， passion 可将答案线索定位至第过段。 解第三段第三句提到， 为了激发这种广泛的热情， 学习型领导者必须让员工看到变革可能带来的图景， 也",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "What does the passage say about lectures, training programs and workshops?",
+              "options": {
+                "A": "They are generally incapable of changing workers5 behaviors on the job.",
+                "B": "They are interventions different from simulations in creating stimuli fbr change.",
+                "C": "They aim at transforming the behaviors of the workers in an organization.",
+                "D": "They help managers achieve the full effect of employee development efforts."
+              },
+              "answer": "A",
+              "explanation": "肀第五段第二句提到， 讲座、 培训项目和研讨会能够阐释变革的知识要素， 但很少能有效触及重大变革举措核心的行为层面。 由此可知， 这三种活动只能让员工学到理论知识， 通常无法改变员工在工作中的行为， 故 A 项为正确答案， 同时据此排除 c 项。 该段最后一句提到， 像模拟这样的干预措施能够为变革提供动力， 但并未提及以上三种活动也能为变革提供动力， 故 B 项排除。 原文提到， 管理者很少能看到员： 工发展举措的全面成效， 这说明以上三种活动并未帮助管理者实现员工发展努力的全面效果， D 项与原文内容相悖， 故可排除。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+                "sourceText": "48 ． 关于讲座、 培训項目和研讨会， 文章说了什么？ A) 它们通常无法改变员工在工作中的行为。 B) 在为变革创造推动力这方面， 它们是不同于模拟的干预措施。 0 它们旨在转变组织中员工的行为。 D) 它们帮助管理者实现员工发展努力的全面效果。 定， 根据题干信息词 lectures, traming programs and workshops 可将答案线索定位至第五段解肀第五段第二句提到， 讲座",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What makes simulation one of the most fruitful forms of learning?",
+              "options": {
+                "A": "Its capability of saving time by accelerating the immersive learning experience.",
+                "B": "Its potential fbr learners to examine their skills, knowledge and learning process.",
+                "C": "Its capability of providing all participants with a practical learning experience.",
+                "D": "Its potential fbr learners to explore, experiment and practice without any risk."
+              },
+              "answer": "D",
+              "explanation": "． 第六段最后一句话明确提到， 在无限制、 无风险的模型中探索、 实验以及反复应用新知识的能力， 使模拟成为最有成效的学习形式之一。 D 项符合原文表述， 故正确。 A 项和 B 项虽然也是模拟的优点， 但不是其核心优势， 不足以支撑它成为最有成效的学习形式之一， 故这两项排除。 模拟能为员工提供沉浸式学习体验， 但这种体验是在模拟现实情境中进行的， 并非现实生活中真正的实际学习体验， 故 c 项排除",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+                "sourceText": "49 ． 是什么使模拟成为最有成效的学习形式之一？ A) 它能通过加快沉浸式学习体验来节省时间。 B) 它能让学习者检验自己的技能、 知识和学习过程。 0 它能为所有参与者提供实际的学习体验。 D) 它能让学习者在没有任何风险的情况下进行探索、 实验和实践。 定， 根据题干信息词 one of the most fruitful forms oflearning 可将答案线索定位至第六段， fruitful 和最后一句中的 productive 为同义词， 都可表示 “ 富有成效的 \" 析 ． 第六段最后一句话明确提到， 在无限制、 无风险的模",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What should participants do in a simulation to reap the greatest benefits possible?",
+              "options": {
+                "A": "Take the experience as a mere game.",
+                "B": "Apply promptly what they learn to their jobs.",
+                "C": "Develop a deep level of understanding.",
+                "D": "Strive to connect closely with their leaders."
+              },
+              "answer": "B",
+              "explanation": "能力。 D) 努力与领导者紧密联系。 定 + 根据题干信息词 reap the greatest benefits possible 可将答案线索定位至最后一段解肀最后一段最后一句话提到， 为了使模拟带来的益处最大化， 参与者应该立即将模拟体验中所学到的知识应用起来， 以便在学习和实践之间建立起顺畅的衔接。 由此可知， 为了在模拟中获得最大收益， 参与者应该立即将他们所学到的知识应用到工作中， 故 B 项正确。 文中明确反对将模拟体验当作游戏， 因为这很难将其应用到实际工作中， A 项与原文内容相悖， 故排除。 培养深层次理解能力是模拟带来的益处， 而非参与者为获得最大的收益应采取的行动， c 项答非所问， 故可排除。 D 项内容原文并未提及， 故排除。 Passage Two ． · 概览 · 这篇文章批判了以 GDP 增长为核心的发展模式， 通过分析 “ 真实财富 ” 理念和心理健康问题， 揭示了当前政策导向的局限性， 指出可持续经济只是手段而非目标， 主张政府应当以提升公民幸福为根本宗旨。 作者强调， 真正的进步需要政府将公民福祉而非经济产出作为终极目标， 这一转变要求重构社会价值体系和政策优先顺序。 六级 2025 ． 6 第三套 49",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+                "sourceText": "50， 为了在模拟中获得最大的收益， 参与者应该做什么？ A) 把这次体验仅仅当作一场游戏。 B) 立即将他们所学到的知识应用到工作中。 C) 培养深层次的理解能力。 D) 努力与领导者紧密联系。 定 + 根据题干信息词 reap the greatest benefits possible 可将答案线索定位至最后一段解肀最后一段最后一句话提到， 为了使模拟带来的益处最大化， 参与者应该立即将模拟体验中所学到的知识应用起来， 以便在学习和实践",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nGDP growth is not a good indicator of how well a country is performing, and should not be the primary goal\nof governments. Unlimited growth is not sustainable, and economic thinking is moving toward the idea that we\nshould aim fbr sustainability in our economic models. But while a sustainable economy is vital to our future, it is\na means to an end, not an end in itself.\nThe idea that governments should focus on happiness has its critics. There are concerns about how\nhappiness can be measured. Is happiness not a fleeting and subjective psychological state? Don't different people\nexperience different levels of happiness? Even on the broadest interpretation of \"happiness5 as prosperity or 'life\nsatisfaction\\ people want different things.\nOf course, governments cannot impose life satisfaction on citizens. But our happiness relies on collaborative\nefforts as a society. A govemmenfs obligation lies in creating conditions that promote prosperity. And there is\ngood reason to suppose that such conditions exist, are globally applicable, and are discoverable through research.\nIn a recently published article, philosopher Julian Baggini suggests we should focus on 'real wealth9 for\ncitizens, which does not depend on GDP growth. Access is key: people do not need to own, but rather access\nthings that enable them to live well. Technological advances and changes in social behavior enable us to make\nmore efficient use of the assets that we already have. And focusing on access to the resources people need to live\nbetter lives could help reduce inequality.\nAs far as it goes, this has much in common with proposals tabled by 'happiness5 advocates. But it sets the\nbar far too low fbr what governments can and should be doing fbr their citizens.\nFor example, ifs not clear how a 'real wealth, economy would remedy the epidemic of mental ill-health\nthat plagues our society. In Western countries, at least- poor mental health is more detrimental to wellbeing than\n\n・ 2025年6 月六级真题（第三套）・\n\npoverty. Over and above a vastly improved provision of therapeutic mental healthcare, there are preventative\nmeasures for improving mental health that governments could and should adopt. The WHO recommends\nestablishing institutions that facilitate community participation—educational programs and interventions that\nprovide skills for promoting mental wellbeing. It says a lot, however, that the WHO feels the need to appeal\nto the economic benefits of improving mental health to persuade governments that the cost of taking proposed\nmeasures is justified. As long as the economy is their priority, governments need go no further than ensuring\ncitizens9 continued productivity.\nTo demand that governments set the 'happiness' of citizens as their highest priority is to demand that they\nview citizens as ends in themselves.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What does the passage say is the more recent thinking of economic growth?",
+              "options": {
+                "A": "It should be made sustainable.",
+                "B": "It is vital to the future of humanity.",
+                "C": "It should be governments5 chief concern.",
+                "D": "It is an indicator of government performance."
+              },
+              "answer": "A",
+              "explanation": "+ 文章开篇明确指出， GDP 增长并非衡量国家发展水平的良好指标， 也不应成为政府的主要目标， 并提出经济理念正转向追求经济模式的可持续性。 选项 A 是文章的核心观点一一从追求增长转向追求可持续性， 故为正确答案。 选项 B 是可持续经济的特点， 但非最新观点； 选项 c 与文中 “ 不应成为政府的主要目标 \" 相矛盾； 文中明确否定了选项 D 这一传统观点， 故排除这三项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+                "sourceText": "51. 文章指出关于经济增长的最新观点是什么？ A) 它应具有可持续性。 B) 它对人类未来至关重要。 C) 它应成为政府首要关切。 D) 它是政府绩效的指标。 定肀根据题干信息词 more recent thinking of economic growth， 可将答案线索定位于文章第一段。 解 + 文章开篇明确指出， GDP 增长并非衡量国家发展水平的良好指标， 也不应成为政府的主要目标",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "Why are some people opposed to the idea that governments should focus on happiness?",
+              "options": {
+                "A": "Governments cannot impose happiness on citizens.",
+                "B": "People's happiness is built upon their own endeavor.",
+                "C": "Happiness means different things to different people.",
+                "D": "Happiness depends on sustainable economic growth."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What does philosopher Julian Baggini suggest governments do in a recently published article?",
+              "options": {
+                "A": "Try to reduce inequality between the rich and the poor.",
+                "B": "Provide people with access to resources for a better life.",
+                "C": "Change people's behaviors to put social wealth to better use.",
+                "D": "Make use of advanced technologies to improve people's lives."
+              },
+              "answer": "B",
+              "explanation": "+ 第四段阐述了巴吉尼的观点， 即应关注公民的 “ 真实财富 \"， 关键在于可获得性： 人们无需占有， 只需获取能改善生活的资源。 关注人们改善生活所需的资源获取途径将有助于减少不平等现象。 选项 B “ 为民众提供改善生活的资源获取途径 \" 与巴吉尼的建议相符， 故为正确答案。 选项 A 是附带效果而非建议的内 《容； 选项 c， 文中提到的 “ 改变行为 \" 指社会行为自然变革， 非政府干预重点； 选项 D “ 利用技术 ” 是手段而非政府直接行动建议， 故排除这三项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+                "sourceText": "53 ． 哲学家朱利安 · 巴吉尼在近期发表的文章中建议政府怎么做？ A) 努力减少富人和穷人间的不平等现象 B) 为民众提供改善生活的资源获取途径。 0 改变人们的行为以更好地利用社会财富。 D) 利用先进技术提升人们的生活水平。 定根据题干信息词 Julian Baggini suggest governments， 可将答案线索定位于文章第四段。 解 + 第四段阐述了巴吉尼的观点， 即应关注公民的 “ 真实财富 \"， 关键在于可获得性： 人们无需占",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "Why does the WHO feel the need to appeal to the economic benefits of improving mental health to justify its recommendations?",
+              "options": {
+                "A": "Mental health programs cannot be executed without GDP growth.",
+                "B": "Psychological interventions are conducive to people's wellbeing.",
+                "C": "Poor mental health is detrimental to a nation's economic system.",
+                "D": "Governments still take economic development as their priority."
+              },
+              "answer": "D",
+              "explanation": "+ 第六段最后两句指出， 世界卫生组织不得不通过强调改善心理健康的经济效益来说服各国政府其建议措施的投人物有所值一一一这一事实本身就说明了很多问题。 只要经济仍是政府的首要关注点， 他们就只需确保民众保持持续的生产力， 无需更进一步。 选项 D “ 政府仍以经济发展为优先关注点 \" 与此相符， 故为正确答案。 选项 A 与文中批判 GDP 的观点相悖； 选项 B 虽是事实， 但非题目所问原因； 选项 c， 文中未提及对国家经济体系的损害， 故排除这三项。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+                "sourceText": "54 ． 为什么世界卫生组织需强调改善心理健康的经济效益来证明其建议的合理性？ A) 没有 GDP 增长， 心理健康项目无法实施 B) 心理干预措施对民众福祉有益。 C) 心理不健康损害国家经济体系 D) 政府仍以经济发展为优先关注点。 定 + 根据题干信息词 WHO 和 economic benefits， 可将答案线索定位于文章第六段最后两句。 解 + 第六段最后两句指出， 世界卫生组织不得不通过强调改善心理健康的经济效益来说服各国政府其建议措施",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What message does the author try to convey at the end of the passage?",
+              "options": {
+                "A": "Governments? goal should be prosperity-driven.",
+                "B": "Governments5 goal should be people-oriented.",
+                "C": "Governments should consider citizens5 views in decision-making.",
+                "D": "Governments should set sustained productivity as their top priority."
+              },
+              "answer": "B",
+              "explanation": "+ 文章结尾的表述具有高度概括性： 要求政府将民众幸福作为最高优先级， 实质是要求政府将民众本身视为终极目标。 这句话包含两个关键点： 将民众幸福作为最高优先级； 将民众视为终极目标。 选项 B “ 政府目标应以人为本 ” 与此相符， 故为正确答案。 选项 A 是作者批判的传统模式， 故排除。 选项 c 虽然也符合事实， 但不是作者在文末讲的内容。 选项 D 正是作者反对的经济发展优先思维。",
+              "answerMeta": {
+                "sourceType": "ocr-key",
+                "sourceFile": "data/exams/_raw/cet6/2025-06-3/key_OCR_2025-06-3.txt",
+                "sourceText": "55， 作者在文末试图表达什么信息？ A） 政府目标应以繁荣为导向。 B) 政府目标应以人为本。 C) 政府决策时应考虑民众意见 D) 政府应将持续的生产力作为首要任务。 定 + 根据题干信息词 the end ofthe passage， 可将答案线索定位于文章最后一段解 + 文章结尾的表述具有高度概括性： 要求政府将民众幸福作为最高优先级， 实质是要求政府将民众本身视为终极目标。 这句话包含两个关键点： 将民众幸",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You\nshould write your answer on Answer Sheet 2.",
+      "source": "自古以来，中国的水资源北缺南丰，分布极不均衡。为了有效解决北方严重缺水问题，中国政府实施了南水北调工程( the South-to-North Water Diversion Project) o 这是一项跨区域配置水资源的宏大水利工程。历经数十年的规划与筹备，工程于2002年开工建设，分为东、中、西三条线路，总长4350公里，惠及人口将超过4 亿。自2014年通水以来，工程向北方调水累计已超500亿立方米，为北方地区的人民提供了可靠的水资源，同时也极大地改善了这一地区的生态环境，促进了经济的可持续健康发展。・2025年6 月六级真题(第三套)・",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "id": "cet6-2017-12",
+  "type": "cet6",
+  "year": 2017,
+  "month": 12,
+  "set": 0,
+  "title": "2017年12月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "For this part, you are allowed 30 minutes to write an essay commenting on the saying “Help others, and you will be helped when you are in need.v You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words. 请用黑色签字笔在答题卡1指定区域内作答作文题，在试题册上的作答无效! 请认真填写以下信息: 准考证号： 姓 名:_ 错填、未填以上信息，按违规处理！",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions ：\n In this section, there is a passage with ten blanks. You are required to select one word for\neach blank from a list of choices given in a word bank following the passage. Read the\npassage through carefully before making your choices. Each choice in the bank is identified\nby a letter. Please mark the corresponding letter for each item on A nsw er Sheet 2 with a\nsingle line through the centre. You may not use any of the words in the bank more than\nonce.\nMany European countries have been making the shift to electric vehicles and Germany has just\nstated that they plan to ban the sale of vehicles using gasoline and diesel as fuel by 2030. The country\nis also planning to reduce its carbon footprint by 80-95% by 2050, \n\na shift to green energy in\nthe country. Efifectively, the ban will include the registration of new cars in the country as they will\nnot allow any gasoline \n\nvehicle to be registered after 2030.\nPart of the reason this ban is being discussed and \n\nis because energy officials see that\nthey will not reach their emissions goals by 2050 if they do not \n\na large portion of vehicle\nemissions. The country is still \n\nthat it will meet its emissions goals, like reducing emissions by\n40% by 2020, but the \n3 1 \nof electric cars in the country has not occurred as fast as expected.\nOther efforts to increase the use of electric vehicles include plans to build over 1 million hybrid\nand electric car battery charging stations across the country. By 2030, Germany plans on having over\n6 million charging stations \n\nAccording to the International Business Times, electric car sales\nare expected to increase as Volkswagen is still recovering from its emissions scandal.\nThere are \n\naround 155,000 registered hybrid and electric vehicles on German roads,\ndwarfed by the 45 million gasoline and diesel cars driving there now. As countries continue setting\ngoals of reducing emissions, greater steps need to be taken to have a \n\neffect on the\nsurrounding environment. While the efforts are certainly not \n\n, the results of such bans will\nlikely only start to be seen by generations down the line, bettering the world for the future.\n6 - 1",
+      "wordBank": {
+        "M": "restoration"
+      },
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "It is a popular belief that tech companies are committed to protecting their customers, private data.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "The US government believes that its access to people's iPhones could be used to prevent terrorist\nattacks.\n6 , 4",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "A federal court asked Apple to help the FBI access data in a terrorisfs iPhone.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "Privacy advocates now have Apple fighting alongside them against government access to personal\ndata.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Snowden revealed that the American government had tried hard to access private data on a\nmassive scale.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "The FBI might have been able to access private data in earlier iPhones without Apple's help.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "After the Snowden incident, Apple made clear its position to counter government intrusion into\npersonal data by means of encryption.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "According to one digital expert, no iPhone can be entirely free from hacking.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Timothy Cook's long web post has helped enhance Apple's image.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Apple's CEO has decided to appeal the federal court's order to unlock a user's iPhone.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nAt the base of a mountain in Tanzania's Gregory Rift, Lake Natron burns bright red, surrounded\nby the remains of animals that were unfortunate enough to fall into the salty water. Bats, swallows\nand more are chemically preserved in the pose in which they perished, sealed in the deposits of\nsodium carbonate in the water. The lake's landscape is bizarre and deadly 一 and made even more so\nby the fact that ifs the place where nearly 75 percent of the world's flamingos (火烈、鸟)are born.\nThe water is so corrosive that it can burn the skin and eyes of unadapted animals. Flamingos,\nhowever, are the only species that actually makes life in the midst of all that death. Once every three\nor four years, when conditions are right, the lake is covered with the pink birds as they stop flight to\nbreed. Three-quarters of the world's flamingos fly over from other salt lakes in the Rift Valley and\nnest on salt-crystal islands that appear when the water is at a specific level -  too high and the birds\ncan't build their nests, too low and predators can move briskly across the lake bed and attack. When\nthe water hits the right level, the baby birds are kept safe from predators by a corrosive ditch.\n6 - 5\n\n“Flamingos have evolved very leathery skin on their legs so they can tolerate the salt water/ says\nDavid Harper, a professor at the University of Leicester. u Humans cannot, and would die if their legs\nwere exposed for any length of time.\" So far this year, water levels have been too high for the\nflamingos to nest.\nSome fish, too, have had limited success vacationing at the lake as less salty lagoons (泻:胡)form\non the outer edges from hot springs flowing into Lake Natron. Three species of tilapia (罗 mE 鱼)\nthrive there part-time. u Fish have a refuge in the streams and can expand into the lagoons when the\nlake is low and the lagoons are separate/' Harper said. 41 All the lagoons join when the lake is high\nand fish must retreat to their stream refuges or die.\" Otherwise, no fish are able to survive in the\nnaturally toxic lake.\nThis unique ecosystem may soon be under pressure. The Tanzanian government has once again\nstarted mining the lake fbr soda ash, used for making chemicals, glass and detergents. Although the\nplanned operation will be located more than 40 miles away, drawing the soda ash in through\npipelines, conservationists worry it could still upset the natural water cycle and breeding grounds. For\nnow, though, life prevails -  even in a lake that kills almost everything it touches.",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What can we learn about Lake Natron?",
+              "options": {
+                "A": "It is simply uninhabitable fbr most animals.",
+                "B": "It remains little known to the outside world.",
+                "C": "It is a breeding ground for a variety of birds.",
+                "D": "It makes an ideal habitat fbr lots of predators."
+              },
+              "answer": "D",
+              "explanation": "读。且由后文 program 复现及其所呈现的机器人编程问题不难确认 D 的正确性。 【排除干扰】A、C 项均由③句 the same 分别臆断出 better、bad，而文中并未指出两种抉择哪种更好。 B 项将第三段①句 follows 确切肯定之意曲解为 Whether. . . follow 疑问之意。 「提炼思路】本题借事实细节考查文章主题，解题时需精准定位、剔除貌合神离项（A、C 项由\"机器人选择与斯普纳选择相悖\"分别捏造出\"斯普纳选择更好\"、\"机器人选择错误\"之意，但文中没有谈及两种选择孰优孰劣、而只谈及两抉择是否能够一致;B 项则直接将肯定之意 follows 曲解为疑问之意 whether. . follow），还需借助下文内容对正确项加以佐证（D 项与后文反复出现的 program 所展示的 \"编码程序问题\"吻合）。 艾萨克·阿西莫夫在构想机器人回 ④Isaac Asimov evaded2the whole notion of 学三定律时规避了全部的道德观念， morality2 in devising2 his three laws of robotics, 这三定律是∶1. 机器人不得伤害人类 which hold that 图 1. Robots cannot harm humans or 或坐视人类受到伤害;2.除非违背第 allowhumans to come to harm; 2.Robots must obey 一定律，机器人必须服从人类命令;3. humans, except where the order would conflict with law 在不违背第一及第二定律下，机器人 1;and 3.Robots must act in self-preservation, unless 必须保护自己。这些定律被编入阿西 doing so conflicts with laws 1 or 2. ② These laws are 莫夫的机器人程序——它们不必思 programmed into Asimov",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "B）他创造了一种含酒精饮品而没有违反法律。 breaking law. C) He became notorious because of the coca drink C）他因自己开发的古柯饮品而声名狼藉。 he developed. D)He risked breaking local law to make a drink D）他冒着违法风险用古柯叶制作饮品。 with coca leaves. 【精准定位】本题就\"药剂师约翰·彭伯顿（chemist John Pemberton）\"设题，可定位至首段②③句 (chemist John Pemberton. . . Pemberton's.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "Flamingos nest only when the lake water is at a specific level so that their babies c a n .",
+              "options": {
+                "A": "find safe shelter more easily",
+                "B": "grow thick feathers on their feet",
+                "C": "stay away from predators",
+                "D": "get accustomed to the salty water"
+              },
+              "answer": "C",
+              "explanation": "释原因∶水位太高，火烈鸟不能筑巢;太低，捕食者能轻易穿过湖床、发动袭击;水位恰恰合适时，幼鸟被腐蚀性水渠与捕食者隔开、可确保安全。可见，火烈鸟只在湖水处于特定水位时才筑巢的目的是为了使幼鸟远离捕食者，正确项 C 是第二段末句 are kept safe from predators 的同义转述。 【排除干扰】A 项复现第二段末句 safe，却将被动态 are kept safe from predators\"被（腐蚀性沟渠）保护以躲避捕食者\"篡改为主动态 find safe shelter\"主动寻找安全栖所\"，且臆断出比较级\"更容易\"。B 项复现第三段①句 leathery. . . legs，却借 leathery\"坚韧如皮革的\"与 feather 的形似捏造出 grow thick 25 非此店铺∶ 必有缺失认准淘宝店铺∶光速考研工作室 ੏੎੉੠੒੎ਫ਼੟૤䪫ܦ≿ჲ㓩ℇ૥૕ਨ䶥ู⣜じ̵⃡௳ऑ੠੒੎੟੉੖੠ಉ੥ಊ੣੉੠੎ਫ਼ಎࢠᄲ䄿䄙ߔ䃹੠ਗ਼੖੎ਫ਼੉੠੎૤㔼ः૥֣ᢎͦ ੑ੎੠੉ੋੋ੡੟੠ਗ਼੘੎੍੠ਗ਼૤Όᘛ૥૕ ಪ᣼◨ᕉ䌛ಬじθ⃡Ջߕ̵͖ ੣੒੎ਖ਼Ϻऑูࣹᑦ䄯૤▗◴卋᜼卋⮰ぽጎ᲍Т૥ಎ䛹ู࢟䛹◥ಎ᱘䷄࢟Б ૤▗◴卋౔➥჆ⅠѹぽጎᄥᎨ卋⮰ຩะ૥⮰ᒎᐻ㔯ᴑ૤᜼卋ぽጎ᲍Т͑㠇⮰࣋ఌಒⰚ⮰૥૕㼏むᬢ䰬Ջߕ ➥₶げणಉⵠោण૔ᑁणふಊ૔➥₶ऑᐻಉᎢ݃ऑふಊಎ⤲㼏ऑ䬠䕧䒽૔ាᤍ䄙͵䛹ᓯಞじθ⃡௶ऑⵠោण䊣 㼏䛶䄠ᬺ҈⩔ಎ̀ ڢ ऺऑᐻಉ੣੒੎ਖ਼੠੒੎੣੉੠੎ਫ਼੓੟ಊ੠ਗ਼ਗ਼੒੓ੑ੒಑಑಑ಉ੣੒੎ਖ਼੠੒੎੣੉੠੎ਫ਼੓੟ಊ੠ਗ਼ਗ਼੖ਗ਼੣಑಑಑̺ ௷ऑ ਾ੒੎ਖ਼੠੒੎੣੉੠੎ਫ਼੒੓੠੟੠੒੎ਫ਼੓ੑ੒੠੖੎੢੎੖಑಑಑Ꭲ݃ಎᩱ౳ͦᄥ௶ऑͧ᎞⮰㼏䛶૤Ⅰѹ䓳倄䓳Ѻ䘩̹㵸ಎखᰵ➥჆ Ⅰѹ᝹㘩ԉ័Ꭸ卋䔈⻧ᢁ下㔱૥ಎਧ䶥₏⶚૕᣼䚾ಞᰵχ᎞វ䶥ᵥᢚ૤䬚૞む૥䕧䒽छ䒧ᬿᢾ䮐ಞ᱘䷄ਦ૔ਨ 䶥᎞វ⎼䩅ѹಎ⎼㜖じ̵⃡௳ऑಎ㔸䄑ऑ჊䉔᣻䔜ᝬᰵ▗◴卋ಉᝂ᜼卋ᝂᎨ卋ಊ䘩ڣำ⮰➥ᒭಉᄥ৤Ⅰ⮰ 㔼ः૔㚫䘔㖸㗐⮰ಆ䴓ಊಎ䔅χ➥ᒭ̺䷄᎞䬚䷄ᎢᬌⰠᣑڟ㖀ಎ⩝ₐछា䷄Ⱊ⩝૤ఇ䔵̬૥ऄͦ૤θ䔵̬૥૕ ఌ૤ ಗಛ᧑ਪ੖੉੘੓ਖ਼ੑਗ਼੟",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "Portuguese settlers. B）它们包含其他任何食物中都没有的某种精 B) They contain some kind of energy boost not found 力提振成分。 in any other food. C) Many were shippd to Europe in the late 19thC）许多在 19 世纪末被运往欧洲以供药用。 century for medicinal use. D）它们最初由西非进口时，于欧洲人十分 D) They were strange to the Europeans when first 陌生。 imported from",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "Flamingos in the Rift Valley are unique in t h a t .",
+              "options": {
+                "A": "they can move swiftly across lagoons",
+                "B": "they can survive well in salty water",
+                "C": "they breed naturally in corrosive ditches",
+                "D": "they know where and when to nest"
+              },
+              "answer": "A",
+              "explanation": "出\"它们知道好坏，只是不做而已\"，但却与④句\"它们根本就不会那么做\"相悖。C 项与第三段首句第零定律\"机器人必须保护人类整体利益而非个体利益\"相悖。D 项将第二段首句\"机器人学三定律规避道德概念/阿西莫夫机器人无道德观念\"篡改为\"阿西莫夫机器人一牵涉道德问题就停止工作\"。 【提炼思路】本题定位多处，选项源自各个定位处，解题时虽可将选项与定位处一一匹配以确定正确答案，但亦可抓取定位处相同/相似信息锁定正确答案。譬如，根据第二段②③④句核心信息\"机器人虽无道德观念、但不伤害人类利益\"、第三段核心信息\"机器人不伤害人类整体利益\"、第四段末句信息\"机器人暴露出了三定律的漏洞及问题\"可知重合信息为\"不伤害人类\"，故而选定 B 项。 《我，机器人》中挽救斯普纳生命的 Ⅲ ④ The robot who rescues Spooner's life in I, Robot follows Asimov's zeroth law: robots cannot 机器人遵循了阿西莫夫的第零定律∶机 harm humanity(as opposed to individual humans) or 器人不得伤害人类整体（与人类个体相对）或坐视人类整体受到伤害————第一 allow humanity to come to harm—an expansion of the 定律的扩展，使机器人能够决定何为更 first law that allows robots to determine what's in the 大利益。依照第一定律，机器人不得伤 greater good》. ② Under the first law, a robot could 害一个危险持枪者，而依照第零定律， not harm a dangerous gunman, but under the zeroth 机器人可以杀死持枪者以拯救他人。 law, a robot could kill the gunman to save others. ·词汇注释与难句分析 ①human",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "48. How come kola-extract colas became popular? 来的? A）可卡因已变得声名狼藉。 A) Cocaine had become notorious. B）含酒精的饮品被禁。 B) Alcoholic drinks were prohibited. C）冷饮柜设立以售卖它们。 C) Fountains were set up to sell them. D）装瓶权被售出。 D)Rights were sold to",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "Why can certain species of tilapia sometimes survive around Lake Natron?",
+              "options": {
+                "A": "They can take refuge in the less salty waters.",
+                "B": "They can flee quick enough from predators.",
+                "C": "They can move freely from lagoon to lagoon.",
+                "D": "They can stand the heat of the spring water."
+              },
+              "answer": "A",
+              "explanation": "Why can certain species of tilapia sometimes 湖周边存活? survive around Lake Natron? A) They can take refuge in the less salty waters. A）它们能在较低盐度水域寻求庇护。 B）它们能足够快地逃离捕食者。 B) They can fle quick enough from predators. C) They can move freely from lagoon to lagoon. C）它们能在泻湖间自由行动。 D) They can stand the heat of the spring water. D）它们能忍受泉水的高温。 【精准定位】由题干 certain species of tilapia 可定位至第四段（Thre species of tilapia. . .）。 【锁定答案】A）。第四段①②句首先指出某些种类的罗非鱼可以在湖中（准确指\"湖边缘形成的低盐度泻湖中\"）短暂栖居;③④句进而引证指出原因∶除了可以在（没有咸水的）溪流中得到庇护，也可以在相隔开的低盐度泻湖中得到庇护。由此可知，他们之所以能在湖边存活就是因为他们能够在湖边形成的低盐度泻湖中找到庇护，正确项 A 是①句 have had limited success vacationing at the lake as less salty lagoons form on the outer edges 及③句 have a refuge. . . and can expand into the lagoons 的合理概括 【排除干扰】B 项利用第二段末两句碎片信息 predators、briskly、kept safe from predators 设置陷阱， 但这些碎片信息实际针对火烈鸟而非罗非鱼而言，且根据第四段可知，罗非鱼要逃离的是\"高盐度湖水\"而非\"捕食者\"。C 项与第四段③句罗非鱼在湖边存活条件\"相隔开的泻湖里（而非泻湖间）\"相悖。 D 项 the heat of t",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "49. What does the author want to say by mentioning 49.作者提及阿西莫夫定律中\"伤害\"一词想说明什么? the word \"harm\" in Asimov'slaws? A）抽象概念难以编程。 A) Abstract concepts are hard to program. B) It is hard for robots to make decisions. B）对于机器人而言做决定很难。 C)Robots may do harm in certain situations. C）机器人在某些",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "What may be the consequence of Tanzanian governmenfs planned operation?",
+              "options": {
+                "A": "The accelerated extinction of flamingos.",
+                "B": "The change of flamingos' migration route.",
+                "C": "The overmining of Lake Natron's soda ash. 6 • 6",
+                "D": "The disruption of Lake Natron's ecosystem."
+              },
+              "answer": "A",
+              "explanation": "题时需∶1.明确题干所示\"因\"（由②③句 Tanzanian government has. . started mining. . . the planned operation 明确 the planned operation 即指\"坦桑尼亚政府开采纯碱计划\"）;2.回文查找因果逻辑关系词（③句 it could. . . 中 it 即指 the planned operation;could 传递因果关系，意指 used to say that something is possible or might happen\"可以，可能\"）;3.顺藤摸瓜，找出被考查之\"果\"（③句 it could 后内容，即 still upset the natural water cycle and breeding grounds，也即，扰乱纳特龙湖生态环境，D 项正确）。 Passage Two 假忙碌成为社会地位象征兴一、总体分析来源∶《纽约》杂志旗下时尚博客 The Cut 2016.12.19 文章 Pretending to Be Busy Is a Status Symbol （假装忙碌是一种身份象征）。主题∶从反常现象\"大多数人年底照常工作不休假\"切入，指出\"崇拜忙碌\" 30 非此店铺∶ 必有缺失认准淘宝店铺∶光速考研工作室 ⣜䆍᭛䓽Ꭰⴑ䃲ჲ䯲ಷ㏻≺ࣽᆁᄨ㜠⮰ಎᎢᐦ䃚̹㺭䓳Ꮢᔅⶸಎ㺭ݕ⩔ঔ᱗ຩຩнᖛ૕㘵㐈ಆ᣼ܦᎢᆁ ⹦⣜䆍ಉじ̬㜟̵⃡ಊ૞૞૞ܲ᲼⣜䆍࣋ఌಉじఇπ⃡ಊ૞૞૞䦴ᄥ⣜䆍㐅ܦᐦ䃚ಉじڙ⃡ಊ૕ θઽ䄙ンܲ᲼ࣶ䄁䷄㇪㼏 ఉ᧑ਮ੠੓੟੠੒੎੊ਹ਴੊੅੄ ௳੏ਗ਼ਫ਼੟ਗ਼੘੎਺੉਴੄ੋਾਸ਼ ௴੖੉੟੠Ⴑ੘੓ਖ਼੡੠੎ ੃਴ੋ਽ ௵૞੉ੋਫ਼ਗ਼੟੟੠੒੎ੋਗ਼੡ਖ਼੠ਫ਼੥ಎ੎੘ਜ਼੖ਗ਼੥੎੎੟ਗ਼੏੉੖੖੊ੋ੉ਾ੆ਹ੊ ௶੉ਫ਼੎ ੋਗ਼੡ਖ਼੠੓ਖ਼ੑ੊੉ੋ੕੣੉ਫ਼੍੓ਖ਼੉ਖ਼੉੠੠੎੘ਜ਼੠੠ਗ਼੏੓ੑ੡ਫ਼੎ਗ਼੡੠੔੡੟੠੒ਗ਼੣ ੘੡ੋ੒੆਴ਾਸੋਾ੃ਹ႗੅਺਺ ௷੠੒੎੥੒੉੢੎੖੎੏੠੓ਖ਼੠੒੎੓ਫ਼੉ਹ੊ਹ੉੍ਹ੊ ௸಑ ಘಔ᧒ ਲਗ਼ਫ਼੎ਗ਼੏੠੒੎੘ಎ੠੒ਗ਼੡ੑ੒ಎ੣੓੖੖੊ੀਾ੆ ௹੠੒ਗ਼੟੎ੋ੉੖ੋ੡੖",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "50. What is the passage mainly about? A）可口可乐的演变。 A) The evolution of Coca-Cola. 52 非此店铺∶必有缺失认准淘宝店铺∶光速考研工作室 ਦಊ਺੒੎੟੡ੋੋ੎੟੟੟੠ਗ਼ਫ਼੥ਗ਼੏ਧਗ਼ੋ੉Ⴑਧਗ਼੖੉಑ ਦಊछएछͼ⮰᜼ߋᩱη૕ ਧಊ਺੒੎੘੎੍੓ੋ੓ਖ਼੉੖੢੉੖੡੎ਗ਼੏ਧਗ਼ੋ੉Ⴑਧਗ਼੖੉಑ ਧಊछएछͼ⮰㢛⩔Уը૕ ਨಊ਺੒੎੊੡੟੓ਖ਼੎੟੟੟੠ਫ਼੉੠੎ੑ੥ਗ਼",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nIt is the season for some frantic last-minute math 一 across the country, employees of all stripes\nare counting backward in an attempt to figure out just how much paid time-off they have left in their\nreserves. More of them, though, will skip those calculations altogether and just power through the\nholidays into 2017: More than half of American workers don't use up all of their allotted vacation days\neach year.\nNot so long ago, people would have turned up their noses at that kind of dedication to the job.\nAs marketing professors Silvia Bellezza, Neeru Paharia, and Anat Keinan recently explained in\nHarvard Business Review ( HBR), leisure time was once seen as an indicator of high social status,\nsomething attainable only for those at the top. Since the middle of the 20th century, though, things\nhave turned the opposite way -  these days, punishing hours at your desk, rather than days oflf, are\nseen as the mark of someone important.\nIn a series of several experiments, the researchers illustrated just how much we've come to\nadmire busyness, or at least the appearance of it. Volunteers read two passages, one about a man who\nled a life of leisure and another about a man who was over-worked and over-scheduled; when asked\nto determine which of the two had a higher social status, the majority of the participants said the\nlatter. The same held true for people who used products that implied they were short on time: In one\nexperiment, for example, customers of the grocery-delivery service Peapod were seen as of higher\nstatus than people who shopped at grocery stores that were equally expensive; in another, people\nwearing wireless headphones were considered further up on the social ladder than those wearing\nregular headphones, even when both were just used to listen to music.\nIn part, the authors wrote in HBR, this pattern may have to do with the way work itself has\nchanged over the past several decades.\nWe think that the shift from leisure-as-status to busyness-as-status may be linked to the\ndevelopment of knowledge-intensive economies. In such economies, individuals who possess the\nhuman capital characteristics that employers or clients value (e.g. , competence and ambition) are\nexpected to be in high demand and short supply on the job market. Thus, by telling others that we are\nbusy and working all the time, we are implicitly suggesting that we are sought after, which enhances\nour perceived status.\nEven if you feel tempted to sacrifice your own vacation days fbr feke busyness, though, at least\nconsider leaving your weekends unscheduled. Ifs for your own good.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What do most employees plan to do towards the end of the year?",
+              "options": {
+                "A": "Go for a vacation.",
+                "B": "Keep on working.",
+                "C": "Set an objective for next year.",
+                "D": "Review the year's achievements. 6 - 7"
+              },
+              "answer": "C",
+              "explanation": "为\"与城市繁荣度有关\"。D 项复现首段②句 investment capital flows，却漏掉关键信息 shifted，即将文意\"投资资本流动变化\"单向篡改为\"大量投资资本流入\"。 【提炼思路】开篇今昔对比处常为题点所在，可分别就\"今\"、\"昔\"设题，解题关键是根据时间链条划分今昔意群，然后借助语法知识、用词手法或逻辑词等来确定所考意群（今/昔）主旨。如本题，首先根据首两段 Twenty years ago、In recent years 时间链条可推断本题答题关键在于了解首段主旨，而借助段 5A 非此店铺∶ 必有缺失认准淘宝店铺∶光速考研工作室 ͙䄙͵ู⣜ಉ੠੒੓੟੊੉੟੓ੋ੍੓੢੓੍੎ู⣜੍੎੏੓ਖ਼੎੍੠੒੎੠੣ਗ਼੠੥ਜ਼੎੟ਗ਼੏ੋ੓੠੓੎੟಑಑಑ಎ䛹ู࢟䛹◥ಊछᣔⴑ᪳ᘻ䛹◥౔૤͐ ㆧ೺ጮㆧಷ⮰⌱ᮜ⩸჆૔䔅⻹ጚᐮᲭͦᵥ᱘ಒദ᱘૥ಎᩱ㔸䨭჆ਧ䶥ಟਥ૔ਦ૔ਨ䶥㮩ู⣜͖ݗ䃹ಉ੍੓੢੓੍੎੍૔ ੒ਗ਼੡੟੓ਖ਼ੑਜ਼ਫ਼੓ੋ੎੟૔ ੓ਖ਼੢੎੟੠੘੎ਖ਼੠ੋ੉ਜ਼੓੠੉੖੏੖ਗ਼੣੟ಊಎѲ䔅χ䃹͙䮐β ਥ䶥੍੓੢੓੍੎੍㘩ッᓃ̶᭛ͧᬔ͙⮰䘔ܲԍᖛͷ โಎڢЂ䃹౳̺ͧᬔԍᖛᬌڟಎ̀ႯИ౳⌧ߌβ᫜⮰ԍᖛಉਫ਼੎੟੓੍੎ਖ਼੠੓੉੖੉ਖ਼੍੊੡੟੓ਖ਼੎੟੟੉ਫ਼੎੉੟૔੖੓ਖ਼੕੎੍੣੓੠੒಑಑಑ ਜ਼ਫ਼ਗ਼੟ਜ਼੎ਫ਼੓੠੥૔੣੒੎ਫ਼੎੖੉ਫ਼ੑ੎಑಑಑੏੖ਗ਼੣੎੍ಊಎᩱᢾ䮐૕ ఊ᧑ਮਖ਼ਫ਼੎ੋ੎ਖ਼੠੥੎੉ਫ਼੟ಎ੘੉ਖ਼੥੘੓੍Ⴑ੟੓੦੎੍ੋ੓੠੓੎੟੒੉੢੎੊੎ੑ੡ਖ਼ ੠ਗ਼੉੍ਗ਼ਜ਼੠੉੃ਾਸਸੁਹ႗੅਺႗ੋ਽ਹ႗੉੅਴ਸ ௳੉ਜ਼ਜ਼ਫ਼ਗ਼੉ੋ੒੓ਖ਼ੋਗ਼ਫ਼ਜ਼ਗ਼ਫ਼੉੠੓ਖ਼ੑ੠੒੎ ੎੤ੋ੓੠੎੘੎ਖ਼੠੉ਖ਼੍ਗ਼ਜ਼ਜ਼ਗ਼ਫ਼੠੡ਖ਼੓੠੥ਗ਼੏੖੉ਫ਼ੑ੎ੋ੓੠੓੎੟੣੓੠੒੟੘੉੖੖ੋ੓੠੓੎੟ሀ ੜ੡੓੎੠੉੏੠੎ਫ਼੘੓੍ਖ਼੓ੑ੒੠಑ ಘಕ᧒਺੒੎੟੎ಔಛႱ੒ਗ਼੡ਫ਼ੋ੓੠੓੎੟੉ਫ਼੎ ੊੎ੑ੓ਖ਼ਖ਼੓ਖ਼ੑ੠ਗ਼੃਴ੀਹ੎਴੍ਹ੊ ௴੓ਖ਼ਫ਼੎੉੖੎੟੠੉੠੎ਫ਼੉ਖ਼੕੓ਖ਼ੑ੟੉ਖ਼੍੉੠੠ਫ਼੉ੋ੠ ੘ਗ਼ਫ਼੎ਫ਼੎੉੖੎੟੠੉੠੎੓ਖ਼੢੎੟੠੘੎ਖ਼੠಑᦬ਾ੒੉੠੓੟ੌ੄ਸਹ੉ੁ੐ਾ੄਼ ௵੠੒੓੟ ਖ਼੎੣੘ਗ਼੢੎੘੎ਖ਼੠੓ਖ਼ਫ਼੎੉੖੎੟੠੉੠੎ಎ",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "divided into residential and business areas. B) Their housing prices were linked with their prosperity. B）它们的房价和繁荣程度有关。 C）大、小型城市之间界限分明。 C) There was a clear divide between large and small ities. D）它们是大批投资资本流入的地方。 D)They were places where large investment capital flowed. 【精准定位】本题询问美国城市 20 年前情况（. . . Ameri",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "How would people view dedication to work in the past?",
+              "options": {
+                "A": "They would regard it as a matter of course.",
+                "B": "They would consider it a must for success.",
+                "C": "They would look upon it with contempt.",
+                "D": "They would deem it a trick of businessmen."
+              },
+              "answer": "B",
+              "explanation": "答思路也大同小异，即，利用语义逻辑链条来辅助解题。而鉴于本题所考查句子并非长句、而只是出现了一个比较抽象的表达，所以需要从其他句子入手，也即依靠句群关系来辅助答题。即∶根据时间链条 once→Since the middle of the 20th century→these days 推断②③句为一个意群， 意在借人们对敬业行为的今昔观念转变来解释①句;而借由②句\"闲暇曾被视为上层人士专属品\"不难推知\"过去，敬业/忙碌实为碌碌无为者的标志\"，换言之，人们对待这种行为不可能是推崇、也不可能是认为理所当然，而是更倾向于蔑视，故 C 项正确。 在接连几个实验中，研究人员展 Ⅲ 回④ In a series of several experiments， the 示了我们对忙碌、或者至少对忙碌的 researchers illustrated2just how much we've come to② 样子到底有多崇拜。志愿者读了两 admirebusyness, or at least the appearance of it. ② 篇文章，一篇关于一个悠闲度日的 Volunteers read two passages, one about a man who led a 人，另一篇关于一个工作过度、日程 life of leisure and another about a man who was over- 过紧的人;当被要求判断这两个人中 worked and over-scheduled; when asked to determine@ 的哪个有更高的社会地位，大部分受 which of the two had a higher social status, the majorityof 试对象认为是后者。这种情况同样适 the participantssaid the latter. ③The same held true for 用于那些使用了表明他们时间紧张的 people who used products that implied th",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "he passage about 18- 52.关于 18 小时城，从文章中能推断出什么? hour cities? A）它们对小公司的吸引特别大。 A)They especially appeal to small businesses. B）它们见证了房产价格的上涨。 B) They have seen a rise in property prices. C）它们用刺激代替了安静。 C) They have replaced quiet with excitement. D）它们改变了美国风貌。 D) They have changed America's landscape. 【精准定位",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "What did the researchers find through a series of experiments?",
+              "options": {
+                "A": "The busier one appears, the more respect one earns.",
+                "B": "The more one works, the more one feels exploited.",
+                "C": "The more knowledge one has, the more competent one will be.",
+                "D": "The higher one's status, the more vacation time one will enjoy."
+              },
+              "answer": "D",
+              "explanation": "\"即可排除，且不说选项内容是否与文意相符。D 项虽复现第二段②句 leisure time was once seen as an indicator of high social status，但此为过去状况，并非题干所问研究人员当前实验发现内容。 【提炼思路】就实验考实验不会是出题意旨，出题意旨一般在主旨（或段落主旨、或文章主旨）。故解答时，应将选项与主旨相连，贴合主旨者方可锁定为正确项。如本题∶文章从第一段就开始铺设;大多数人都在忙忙碌碌中度过假期、他们即便还有带薪假期也选择不休息而继续忙碌工作;第二段退而对比过去人们对这种忙碌工作状态的看法∶鄙视，从而强调当今人们对忙碌的崇尚;第三段进而以一系列实验佐证;人们就是崇尚忙碌、哪怕只是表面的忙碌。由此可知\"忙碌\"这一反反复复出现的关键词肯定与文章主旨相关，再结合选项不难敲定 A 项正确。 35 非此店铺∶ 必有缺失认准淘宝店铺∶光速考研工作室 ఏਙ੄੆਴੉ੋ ௳ಎ੠੒੎੉੡੠੒ਗ਼ਫ਼੟੣ਫ਼ਗ਼੠੎੓ਖ਼ਘ਑ਣಎ੠੒੓੟ ਜ਼੉੠੠੎ਫ਼ਖ਼੘੉੥਽਴੍ਹੋ੅ਸ੅੎ਾੋ਽ ௴੠੒੎੣੉੥੣ਗ਼ਫ਼੕੓੠੟੎੖੏੒੉੟ ੋ੒੉ਖ਼ੑ੎੍ਗ਼੢੎ਫ਼੠੒੎ਜ਼੉੟੠੟੎੢੎ਫ਼੉੖੍੎ੋ੉੍੎੟಑ ౔̬჆⼷Ꮢ̶౶䔅⻹Ὅᐻछ㘩̺䓳 ࣧ܌࡭ᎠᲑ጑҈⮰㜖䏗ऄࡂᗱۡᰵڟ౶ ᪳「҈㔱౔૓৴҇ੲ͆䃰䃦૔͙ۅ䕿ા ౨౨౨౨౨౨౨౨౨౨౨౨ ౨ ౨౨౨౨౨౨౨౨౨౨౨౨ ౨ િ䃹ⅳ∔䛶̺䯪ऑܲ᲼િ ௳ਾ੄੆਴੉ੋ䘔ܲ౜ಟ౔᳼⻹⼷Ꮢ̶ ௴ਵਹ౺਽਴੍ਹੋ੅ਸ੅੎ਾੋ਽੊ਵ౺੊ੋ਽ڟκಎ̺ૡૡᰵڟ ݒ ౨౨౨౨౨౨౨ ౨ ౨౨౨౨౨౨౨ ౨ િ䄙ンܲ᲼િ じఇπ⃡ܲ᲼⣜䆍࣋ఌા じఇ⃡Ắ䔜࣋ఌಆ䓽܌࡭ᎠᲑ጑҈ 㜖䏗ऄࡂ⟢ۡ ᝬ㜠ા᱘⃡ͦ 䓳⍍⃡ಎٴ Ջ ૤੠੒੎੉੡੠੒ਗ਼ਫ਼੟಑಑಑੓ਖ਼ ਘ਑ਣఊᠳ̶᪳੘੉ਫ਼੕੎੠੓ਖ਼ੑਜ਼ਫ਼ਗ਼੏੎੟੟ਗ਼ਫ਼੟಑಑಑ಒ੠੒੎ਫ਼੎੟੎੉ਫ਼ੋ੒੎ਫ਼੟૔੠੒੓੟ਜ਼੉੠੠੎ਫ਼ਖ਼ఊᠳ̶⃡ૢᔅⶸࣶ᭪ᓃᔅⶸ⮰Ϧः ݜሳ᠈ૣ䔅⻹㕸౦㶔⣜ᒎᐻ૥჊⣜̶̺᪳⮰㶀ᣑಎऺՋ ੒੉੢੎੠ਗ਼੍ਗ਼੣੓੠੒૤̺ૡૡᰵڟ૥ᬺ⶚̷᪳ᘻ⁞ᣎ䃔 ⮰ڱქ૤ఌ᳈ڟ㖀ಞ䓽܌",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "sinss ctivity A）几乎没有任何商业活动 B）在营业时间很拥挤 B) were crowded in business hours C）没有任何繁荣的迹象 C) exhibited no signs of prosperity D）晚上看起来很荒凉 D) looked deserted in the evenings 【精准定位】本题询问中小型城市市中心以前的情况（Years ago、downtown cores in small to mid-sized cities），可定位至第三段②句（For decades，many downtown cores in small to m",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "What may account fbr the change of people's attitude towards being busy?",
+              "options": {
+                "A": "The fast pace of life in modern society.",
+                "B": "The fierce competition in the job market.",
+                "C": "The widespread use of computer technology.",
+                "D": "The role of knowledge in modern economy."
+              },
+              "answer": "A",
+              "explanation": "。 B)How to do real time data analysis. C) How to link the actionable systems. C）如何连接可操作的系统。 D）如何开发出存储数据的新方法。 D) How to devise new ways to store it. 【精准定位】本题考查\"越来越多的数据（more and more data）所带来的最令人激动的挑战（the most exciting challenge）\"，可定位至第七段（The biggest and most exciting challenge. . . this ever- growing amount of data. . . )。 【锁定答案】A）。第七段指出，物联网技术最激动人心的挑战在于如何创造性地利用数据，从而为企业和居民谋福祉;换言之，挑战即在于如何利用数据获得好处、取得收益。正确项 A 是对 to deliver cost savings，improvements and tangible benefits 的高度概括。 【排除干扰】B 项对第六段信息 run real time data analytics 张冠李戴，\"进行实时数据分析\"是物联网技术的\"好处\"而非\"挑战\"。C 项利用第六段碎片信息 actionable 进行干扰，但原文指的是\"可操作的/ 有实用价值的知识\"而非\"可操作的系统\"，更无\"连接系统\"一说。D 项干扰方式与 B 项相似，将第六段中物联网的好处\"存储大量数据\"错误地归为物联网的挑战。 【提炼思路】 文章第六、七段谈及物联网技术带来的机遇（即好处）及挑战，题干针对挑战设题，解题时需对号入座，不可张冠李戴、将机遇视为挑战而做出错选。答题时需要区辨机遇及挑战，第六段中所谈机遇分为两个概念，一是数据存储体量大、增速快（housing of. . . data），二是数据实时分析以提取有用知识的能力（run real time data analytics、extract actionable. . . knowledge），第七段谈及挑战，只有一个概念",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "54. What is the most exciting challenge when we 动的挑战是什么? possess more and more data? A）如何利用它获取收益。 A)How to turn it to profitable use. B）如何进行实时数据分析。 B)How to do real time data analysis. C) How to link the actionable systems. C）如何连接可操作的系统。 D）如何开发出存储数据的新方法。 D) How to",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "What does the author advise us to do at the end of the passage?",
+              "options": {
+                "A": "Schedule our time properly for efficiency.",
+                "B": "Plan our weekends in a meaningful way.",
+                "C": "Find time to relax however busy we are.",
+                "D": "Avoid appearing busy when we are not."
+              },
+              "answer": "D",
+              "explanation": "答关键在于区别\"合理推断\"与\"过度推断\"。如本题的 A、D 项均出自定位处 stable employment，那么孰对孰错，其中有一个巧劲，那就是会发现 D 项\"更好的工作机会\"函括 A 项 \"更多晋升机会\"，故选包容项、排除被包容项（因为选 A 必选 D）。 全局真题精解",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/cet6/2017-12/key_2017.12六级解析全3套_带书签.txt",
+                "sourceText": "A)More chances for promotion. B)Healthier living environment. B）更健康的生活环境。 C）更大程度的文化多元性。 C) Greater cultural diversity. D) Better job opportunities. D）更好的工作机会。 【精准定位】本题考查 18 小时城给当地居民带来的好处（. . . brought to the local residents），可直接定位至第五段②句（. . . for residents）。 【锁定答案】 D）。定位句指出，18 小时城市中心吸引到了多元而活跃的经济，为居民提供了稳定的",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "洞庭湖位于湖南省东北部，面积很大,但湖水很浅。洞庭湖是长江的蓄洪池,湖的大小很大程度上取决于季节变化。湖北和湖南两省因其与湖的相对位置而得名：湖北意为“湖的北边”，而湖南则为“湖的南边”。洞庭湖作为龙舟赛的发源地，在中国文化中享有盛名。据说龙舟赛始于洞庭湖东岸，为的是搜寻楚国爱国诗人屈原的遗体。龙舟赛与洞庭湖及周边的美景，每年都吸引着成千上万来自全国和世界各地的游客。未得到监考教师指令前，不得翻阅该试题册！",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "id": "cet6-2017-06",
+  "type": "cet6",
+  "year": 2017,
+  "month": 6,
+  "set": 0,
+  "title": "2017年6月大学英语六级真题(第1套)",
+  "sections": [
+    {
+      "id": "writing",
+      "type": "writing",
+      "title": "Part I Writing",
+      "minutes": 30,
+      "directions": "Suppose you are asked to give advice on whether to attend college at home or abroad, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words. 请用黑色签字笔在答题卡1指定区域内作答作文题，在试题册上的作答无效! 请认真填写以下信息: 准考证号： 姓 名:_ 错填、未填以上信息，按违规处理！",
+      "prompt": ""
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Part II Listening Comprehension",
+      "minutes": 30,
+      "questions": []
+    },
+    {
+      "id": "reading-banked",
+      "type": "banked-cloze",
+      "title": "Section A · 选词填空",
+      "passage": "Directions ：\n In this section, there is a passage with ten blanks. You are required to select one word for\neach blank from a list of choices given in a word bank following the passage. Read the\npassage through carefully before making your choices. Each choice in the bank is identified\nby a letter. Please mark the corresponding letter for each item on Answ er Sheet 2 with a\nsingle line through the centre. You may not use any of the words in the bank more than once.\nLefs all stop judging people who talk to themselves. New research says that those who can't\nseem to keep their inner monologues (独白)in are actually more likely to stay on task, remain \n\nbetter and show improved perception capabilities. Not bad, really, for some extra muttering.\nAccording to a series of experiments published in the Quarterly Journal of Experimental\nPsychology by professors Gary Lupyan and Daniel Swignley, the act of using verbal clues to \n\nmental pictures helps people function quicker.\nIn one experiment, they showed pictures of various objects to twenty \n\nand asked them to\nfind just one of those, a banana. Half were \n\nto repeat out loud what they were looking for and\nthe other half kept their lips \n\n. Those who talked to themselves found the banana slightly faster\nthan those who didn't, the researchers say. In other experiments, Lupyan and Swignley found that\n\nthe name of a common product when on the hunt for it helped quicken someone's pace, but\ntalking about uncommon items showed no advantage and slowed you down.\nCommon research has long held that talking themselves through a task helps children learn,\nalthough doing so when you've \n\nmatured is not a great sign of \n\nThe two professors\nhope to refute that idea, \n\nthat just as when kids walk themselves through a process, adults can\nbenefit from using language not just to communicate, but also to help 44 augment thinkingv .\nOf course, you are still encouraged to keep the talking at library tones and, whatever you do,\nkeep the information you share simple, like a grocery list. At any \n\n, there's still such a thing as\ntoo much information.\n6 - 1",
+      "wordBank": {},
+      "questions": [
+        {
+          "id": "q26",
+          "number": 26,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q27",
+          "number": 27,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q28",
+          "number": 28,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q29",
+          "number": 29,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q30",
+          "number": 30,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q31",
+          "number": 31,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q32",
+          "number": 32,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q33",
+          "number": 33,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q34",
+          "number": 34,
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q35",
+          "number": 35,
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-matching",
+      "type": "matching",
+      "title": "Section B · 段落匹配",
+      "paragraphs": [],
+      "questions": [
+        {
+          "id": "q36",
+          "number": 36,
+          "stem": "Working-class parents teach their children to be obedient and show respect to adults.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q37",
+          "number": 37,
+          "stem": "American parents, whether rich or poor, have similar expectations of their children despite\ndifferent ways of parenting.\n6 , 4",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q38",
+          "number": 38,
+          "stem": "While rich parents are more concerned with their children's psychological well-being, poor parents\nare more worried about their children's safety.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q39",
+          "number": 39,
+          "stem": "The increasing differences in child rearing between rich and poor families reflect growing social\ninequality.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q40",
+          "number": 40,
+          "stem": "Parenting approaches of working-class and affluent families both have advantages.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q41",
+          "number": 41,
+          "stem": "Higher-income families and working-class families now tend to live in different neighborhoods.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q42",
+          "number": 42,
+          "stem": "Physical punishment is used much less by well-educated parents.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q43",
+          "number": 43,
+          "stem": "Ms. Lareau doesn't believe participating in fewer after-class activities will negatively affect\nchildren's development.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q44",
+          "number": 44,
+          "stem": "Wealthy parents are concerned about their children's mental health and busy schedules.",
+          "answer": null,
+          "explanation": ""
+        },
+        {
+          "id": "q45",
+          "number": 45,
+          "stem": "Some socioeconomic differences in child rearing have shrunk in the past ten years.",
+          "answer": null,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": "reading-mcq",
+      "type": "reading-mcq",
+      "title": "Section C · 仔细阅读",
+      "passages": [
+        {
+          "label": "Passage One",
+          "text": "Questions 46 to 50 are based on the following passage.\nTennessee's technical and community colleges will not outsource (夕卜包)management of their facilities\nto a private company, a decision one leader said was bolstered by an analysis of spending at each campus.\nIn an email sent Monday to college presidents in the Tennessee Board of Regents system,\noutgoing Chancellor John Morgan said an internal analysis showed that each campus, spending on\nfacilities management fell well below the industry standards identified by the state. Morgan said those\nfindings- which included data from the system's 13 community colleges, 27 technical colleges and\nsix universities- were part of the decision not to move forward with Governor Bill Haslam's proposal\nto privatize management of state buildings in an effort to save money.\nWhile these numbers are still being validated by the state, we feel any adjustments they might\nsuggest will be immaterial,\" Morgan wrote to the presidents. u System institutions are operating very\nefficiently based on this analysis, raising the question of the value of pursuing a broad scale\noutsourcing initiative.n\nWorkers, advocates have criticized Haslam's plan, saying it would mean some campus workers\nwould lose their jobs or benefits. Haslam has said colleges would be free to opt in or out of the\noutsourcing plan, which has not been finalized.\n6 - 5\n\nMorgan notified the Haslam administration of his decision to opt out in a letter sent last week.\nThat letter, which includes several concerns Morgan has with the plan, was originally obtained by The\nCommercial Appeal in Memphis.\nIn an email statement from the state's Office of Customer Focused Government, which is\nexamining the possibility of outsourcing, spokeswoman Michelle R. Martin said officials were still\nworking to analyze the data from the Board of Regents. Data on management expenses at the college\nsystem and in other state departments will be part of a 41 business justification\" the state will use as\nofficials deliberate the specifics of an outsourcing plan.\n“The state's facilities management project team is still in the process of developing its business\njustification and expects to have that completed and available to the public at the end of February,\" Martin\nsaid. u At this time there is nothing to take action on since the analysis has yet to be completed.n\nMorgan's comments on outsourcing mark the second time this month that he has come out\nagainst one of Haslam's plans for higher education in Tennessee. Morgan said last week that he would\nretire at the end of January because of the governofs proposal to split off six universities of the Board\nof Regents system and create separate governing boards fbr each of them. In his resignation letter,\nMorgan called the reorganization u unworkable.n",
+          "questions": [
+            {
+              "id": "q46",
+              "number": 46,
+              "stem": "What do we learn about the decision of technical and community colleges in Tennessee?",
+              "options": {
+                "A": "It is backed by a campus spending analysis.",
+                "B": "It has been flatly rejected by the governor.",
+                "C": "It has neglected their faculty's demands.",
+                "D": "It will improve their financial situation."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q47",
+              "number": 47,
+              "stem": "What does the campus spending analysis reveal?",
+              "options": {
+                "A": "Private companies play a big role in campus management.",
+                "B": "Facilities management by colleges is more cost-effective.",
+                "C": "Facilities management has greatly improved in recent years.",
+                "D": "Colleges exercise full control over their own financial affairs."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q48",
+              "number": 48,
+              "stem": "Workers1 supporters argue that Bill Haslam's proposal w o u l d .",
+              "options": {
+                "A": "deprive colleges of the right to manage their facilities",
+                "B": "make workers less motivated in performing duties",
+                "C": "render a number of campus workers jobless",
+                "D": "lead to the privatization of campus facilities"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q49",
+              "number": 49,
+              "stem": "What do we learn from the state spokeswoman's response to John Morgan's decision?",
+              "options": {
+                "A": "The outsourcing plan is not yet finalized.",
+                "B": "The outsourcing plan will be implemented.",
+                "C": "The state officials are confident about the outsourcing plan.",
+                "D": "The college spending analysis justifies the outsourcing plan."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q50",
+              "number": 50,
+              "stem": "Why did John Morgan decide to resign?",
+              "options": {
+                "A": "He had lost confidence in the Tennessee state government.",
+                "B": "He disagreed with the governor on higher education policies. 6 • 6",
+                "C": "He thought the state's outsourcing proposal was simply unworkable.",
+                "D": "He opposed the governor's plan to reconstruct the college board system."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "label": "Passage Two",
+          "text": "Questions 51 to 55 are based on the following passage.\nBeginning in the late sixteenth century, it became fashionable for young aristocrats to visit Paris,\nVenice, Florence, and above all, Rome, as the culmination (终极)of their classical education. Thus\nwas born the idea of the Grand Tour, a practice which introduced Englishmen, Germans,\nScandinavians, and also Americans to the art and culture of France and Italy fbr the next 300 years.\nTravel was arduous and costly throughout the period, possible only for a privileged class- the same\nthat produced gentlemen scientists, authors, antique experts, and patrons of the arts.\nThe Grand Tourist was typically a young man with a thorough grounding in Greek and Latin\nliterature as well as some leisure time, some means, and some interest in art. The German traveler\nJohann Winckelmann pioneered the field of art histoiy with his comprehensive study of Greek and\nRoman sculpture; he was portrayed by his friend Anton Raphael Mengs at the beginning of his long\nresidence in Rome. Most Grand Tourists, however, stayed fbr briefer periods and set out with less\nscholarly intentions, accompanied by a teacher or guardian, and expected to return home with souvenirs of\ntheir travels as well as an understanding of art and architecture formed by exposure to great masterpieces.\nLondon was a frequent starting point for Grand Tourists, and Paris a compulsory destination;\nmany traveled to the Netherlands, some to Switzerland and Germany, and a very few adventurers to\nSpain, Greece, or Turkey. The essential place to visit, however, was Italy. The British traveler Charles\nThompson spoke for many Grand Tourists when in 1744 he described himself as 11 being impatiently\ndesirous of viewing a country so famous in history, a country which once gave laws to the world, and\nwhich is at present the greatest school of music and painting, contains the noblest productions of\nsculpture and architecture, and is filled with cabinets of rarities, and collections of all kinds of\nhistorical relics.\" Within Italy, the great focus was Rome, whose ancient ruins and more recent\nachievements were shown to every Grand Tourist. Panini's Ancient Rome and Modern Rome\nrepresent the sights most prized, including celebrated Greco-Roman statues and views of famous\nruins, fountains, and churches. Since there were few museums anywhere in Europe before the close of\nthe eighteenth century, Grand Tourists often saw paintings and sculptures by gaining admission to\nprivate collections, and many were eager to acquire examples of Greco-Roman and Italian art for their\nown collections. In England, where architecture was increasingly seen as an aristocratic pursuit,\nnoblemen often applied what they learned from the villas of Palladio in the Veneto and the evocative\n(噢起回，\n忆的)ruins of Rome to their own country houses and gardens.",
+          "questions": [
+            {
+              "id": "q51",
+              "number": 51,
+              "stem": "What is said about the Grand Tour?",
+              "options": {
+                "A": "It was fashionable among young people of the time.",
+                "B": "It was unaffordable for ordinary people.",
+                "C": "It produced some famous European artists.",
+                "D": "It made a compulsory part of college education. 6 ・"
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q52",
+              "number": 52,
+              "stem": "What did Grand Tourists have in common?",
+              "options": {
+                "A": "They had much geographic knowledge.",
+                "B": "They were courageous and venturesome.",
+                "C": "They were versed in literature and interested in art.",
+                "D": "They had enough travel and outdoor-life experience."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q53",
+              "number": 53,
+              "stem": "How did Grand Tourists benefit from their travel?",
+              "options": {
+                "A": "They found inspiration in the world's greatest masterpieces.",
+                "B": "They got a better understanding of early human civilization.",
+                "C": "They developed an interest in the origin of modern art forms.",
+                "D": "They gained some knowledge of classical art and architecture."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q54",
+              "number": 54,
+              "stem": "Why did many Grand Tourists visit the private collections?",
+              "options": {
+                "A": "They could buy unique souvenirs there to take back home.",
+                "B": "Europe hardly had any museums before the 19th century.",
+                "C": "They found the antiques there more valuable.",
+                "D": "Private collections were of greater variety."
+              },
+              "answer": null,
+              "explanation": ""
+            },
+            {
+              "id": "q55",
+              "number": 55,
+              "stem": "How did the Grand Tour influence the architecture in England?",
+              "options": {
+                "A": "There appeared more and more Roman-style buildings.",
+                "B": "Many aristocrats began to move into Roman-style villas.",
+                "C": "Aristocrats, country houses all had Roman-style gardens.",
+                "D": "Italian architects were hired to design houses and gardens."
+              },
+              "answer": null,
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "translation",
+      "title": "Part IV Translation",
+      "minutes": 30,
+      "directions": "",
+      "source": "唐朝始于618年，终于907年，是中国历史上最灿烂的时期。经过近三百年的发展，唐代中国成为世界上最繁荣的强国，其首都长安是世界上最大的都市。这一时期，经济发达、商业繁荣、社会秩序稳定，甚至边境也对外开放。随着城市化和财富的增加，艺术和文学也繁荣起来。李白和杜甫是以作品简洁自然而著称的诗人。他们的诗歌打动了学者和普通人的心。即使在今天，他们的许多诗歌仍广为儿童及成人阅读背诵。未得到监考教师指令前，不得翻阅该试题册!",
+      "reference": "",
+      "explanation": ""
+    }
+  ]
+}

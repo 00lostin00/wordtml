@@ -26,8 +26,17 @@
                 "C": "on behalf of",
                 "D": "with regard to"
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q2",
@@ -39,8 +48,17 @@
                 "C": "compete with",
                 "D": "decide on"
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q3",
@@ -52,8 +70,17 @@
                 "C": "arrange",
                 "D": "postpone"
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q4",
@@ -65,8 +92,17 @@
                 "C": "Above all",
                 "D": "For example"
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律. Se",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q5",
@@ -79,7 +115,16 @@
                 "D": "Unless"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q6",
@@ -92,7 +137,16 @@
                 "D": "through"
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律. Section I",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q7",
@@ -104,8 +158,17 @@
                 "C": "so",
                 "D": "but"
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律. Se",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q8",
@@ -117,8 +180,17 @@
                 "C": "copy",
                 "D": "create"
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q9",
@@ -130,8 +202,17 @@
                 "C": "wrapping",
                 "D": "tying"
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q10",
@@ -143,8 +224,17 @@
                 "C": "hiding",
                 "D": "serving"
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律. Section I",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q11",
@@ -156,8 +246,17 @@
                 "C": "collection",
                 "D": "union"
               },
-              "answer": "B",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q12",
@@ -170,7 +269,16 @@
                 "D": "deal"
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q13",
@@ -183,7 +291,16 @@
                 "D": "if"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律. Se",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q14",
@@ -195,8 +312,17 @@
                 "C": "challenge",
                 "D": "avoid"
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律. Section I",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q15",
@@ -208,8 +334,17 @@
                 "C": "viewed",
                 "D": "exposed"
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "C",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q16",
@@ -221,8 +356,17 @@
                 "C": "whenever",
                 "D": "wherever"
               },
-              "answer": "D",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律. Section I",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q17",
@@ -235,7 +379,16 @@
                 "D": "pushed"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律. Se",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q18",
@@ -247,8 +400,17 @@
                 "C": "donated",
                 "D": "divided"
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "D",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q19",
@@ -261,7 +423,16 @@
                 "D": "breaks"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律.",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q20",
@@ -273,8 +444,17 @@
                 "C": "so that",
                 "D": "in that"
               },
-              "answer": "A",
-              "explanation": ""
+              "answer": "B",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "答案汇总, 规律验证答案汇总 1~5 CDCBC 6-10ABCDA 11-15 DDBAC 16-20 ABDCB 4A5B6C5D _____________________ _________ ______ ___________________ _|___ _______________________ _ 结论 A. B. C. D 四个选项作为正确答案出现的频次均在 4~6 之间，符合命题规律. Se",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }
@@ -301,7 +481,16 @@
                 "D": "The fashion industry would decline."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "21. A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q22",
@@ -314,7 +503,16 @@
                 "D": "doing harm to."
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "22 · D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q23",
@@ -327,7 +525,16 @@
                 "D": "New standards are being set in Denmark."
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "23 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q24",
@@ -339,8 +546,17 @@
                 "C": "showing little concern for health factors.",
                 "D": "setting a high age threshold for models."
               },
-              "answer": "C",
-              "explanation": ""
+              "answer": "A",
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "24. A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q25",
@@ -353,7 +569,16 @@
                 "D": "A Challenge to the Fashion Industry’s Body Ideals 英语（一）试题 .5. （共14 页）"
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "25 . D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -372,7 +597,16 @@
                 "D": "has brought much benefit to the NHS."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "26 · A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q27",
@@ -385,7 +619,16 @@
                 "D": "gradually destroyed."
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "27 · D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q28",
@@ -398,7 +641,16 @@
                 "D": "The Liberal Democrats are losing political influence."
               },
               "answer": "D",
-              "explanation": "答--如何得出正解 找关键词:Paragraphs.回文定位:短据关键词可定位至三段，本题要亲短硅舫林断「，仗需满三段内 容进行解题.比对匹配:三段❶句提到，在下一届选举中，各大党派似乎都不可能赞同“乡村需要持续不断 的保护”这一观点；❷句提到，保守党的规划改革明确将优先权给予了乡村开发而非保护，甚至批准在当地 居民可能会反对的地方进行“计划外”建设；❸句提到,’可持续发展的理念已经被界定为有利可图的发展； .句提到，工党也想在当地议会反对开发的地方终止地方规划；,句提到，自由民主党在乡村保护问题上保 持沉默；❻❼句提到，独立党意识到这是一个机会，并与那些恳求在使用绿地上有更周全方法的人统一战线； 该党所发起的保护英格兰乡村运动使许多地方保守党胆战心惊.由此可推知，独立党认为支持乡村保护可为下 一届选举赢得民众支持，从中获益，D选项属于合理推断，故正确. [路径二]从选项的角度解答一如何排除干扰 A找关键词:-函ur.回文定位:金氨关键词可定位至三段•句.比对匹配:该句薰到，工秃应短在苗地 理舍校对近岌的鸠我冬 *螟遗通\"光不提避工笼坦反对步发麽到攻走:故排嗟 A, 找关键词:The Conservatives和“off-plan\" building.回文定位:根据关键词可定位至三段❷句.比对匹 B配:该句提到，保守党的规划改革明确将优先权给予了乡村开发而非保护，甚至批准在当地居民可能会 _更丝的地方理色:'也野T一建重’苴劣可卸保或赏卖度':!t刻处:建设，一一B选现表述与此招免一故挑宛 C技圣谪:The Liberal DemocratSo回旻孟位:根据关键词可定位至三段❺句.比对匹配:该句提到，自 由民主党在乡村保护问题上保持沉默.这并不能说明其正在失去政治影响力，故排除C."
+              "explanation": "答--如何得出正解找关键词:Paragraphs. 回文定位:短据关键词可定位至三段，本题要亲短硅舫林断「，仗需满三段内容进行解题. 比对匹配:三段❶句提到，在下一届选举中，各大党派似乎都不可能赞同“乡村需要持续不断的保护”这一观点；❷句提到，保守党的规划改革明确将优先权给予了乡村开发而非保护，甚至批准在当地居民可能会反对的地方进行“计划外”建设；❸句提到, ’可持续发展的理念已经被界定为有利可图的发展；. 句提到，工党也想在当地议会反对开发的地方终止地方规划；, 句提到，自由民主党在乡村保护问题上保持沉默；❻❼句提到，独立党意识到这是一个机会，并与那些恳求在使用绿地上有更周全方法的人统一战线； 该党所发起的保护英格兰乡村运动使许多地方保守党胆战心惊. 由此可推知，独立党认为支持乡村保护可为下一届选举赢得民众支持，从中获益，D 选项属于合理推断，故正确. [路径二]从选项的角度解答一如何排除干扰 A 找关键词:-函 ur. 回文定位:金氨关键词可定位至三段•句. 比对匹配:该句薰到，工秃应短在苗地理舍校对近岌的鸠我冬 *螟遗通\"光不提避工笼坦反对步发麽到攻走:故排嗟 A, 找关键词:The Conservatives 和“off-plan\" building. 回文定位:根据关键词可定位至三段❷句. 比对匹 B 配:该句提到，保守党的规划改革明确将优先权给予了乡村开发而非保护，甚至批准在当地居民可能会 _更丝的地方理色:'也野 T 一建重’苴劣可卸保或赏卖度':!t 刻处:建设，一一 B 选现表述与此招免一故挑宛 C 技圣谪:The Liberal DemocratSo 回旻孟位:根据关键词可定位至三段❺句. 比对匹配:该句提到，自由民主党在乡村保护问题上保持沉默. 这并不能说明其正在失去政治影响力，故排除 C.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": ". Labour is under attack for opposing development. B. The Conservatives may abandon \"ofT-plan\" building. C. The Liberal Democrats are losing political influence. D. Ukip may gain from its support for rural conservation. 下列哪项可以从三段推断得出？ 选项出处 A. 工党因反对开发而受到攻击. 三段❹句 B. 保守党可能会放弃“计划外”建设. 三段❷句 C. 自由民主党正在失去政",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q29",
@@ -410,8 +662,17 @@
                 "C": "highlights his firm stand against lobby pressure.",
                 "D": "reveals a strong prejudice against urban areas."
               },
-              "answer": "A",
-              "explanation": "住房危机的必要性 五段❶句 D. 揭露其对城市地区的强烈偏见 五段❸句 15 > [路径一]从题干的角度解答一如何得出正解 找关键词:George Osbome和preference.回文定位:根据关键词可定位至五段❸❸句，其中preference与五段 8句中的favours相对应.比对匹配:❸句提到，迫于游说团体的压力，George Osbome支持在乡村新建房屋， 而非在城市翻新和重建；.句提到，他支持郊外购物场所而不是商业街.由此可知，George Osborne支持在乡 村新建房屋以及在城郊建设购物场所，但由此无法判断正确答案，故需联系下文.辐射匹配:❼句提到，在建 筑物不超越村镇边界且尊重村镇特点的地方，它们发展得最好；❸❾句指出，我们没有破坏城市的保护区，为 什么要去破坏乡村的保护区呢？综上可推知，作者对George Osbome的偏好表示不满，认为其破坏了乡村的保 护区，忽视了乡村地区的特色，B选项表述与此相符，故正确. [路径二]从选项的角度解答一如何排除干扰 顶关键词:lobby pressureo回文定位:根据关键词可定位至五段❸句.比对匹配:该句指出，迫于游说 A囹俺的年力, George Osborne支特查多杖新建房屋’一四见他感丛了遮说剧俺「而韭区四避堤陞体,散排隧A’ 迎关函瓦-housing crisis:百:菠在；屈羸美赢荷走&喜函.瓦疏元能；袤荷锤到,W唯膏总 C机”等同于“混凝土草地”的观点只是游说之词，即“解决住房危机的关键在于建造更多的房屋”只是 避说黄的观点一，一些妙迷提及奥新由的佩好以次作苞町速佩好应持堕否度，一一故推堡C’ ■屈-美跆虱against浦urban:面:菠匝诫福笑谥曲靛&堇备函，丘鼾低虱-函谯？George D Osborne支持在乡村新建房屋，而非在城市翻新和重建.此处并未提及他对城市地区有偏见的相关信息， J故排除D."
+              "answer": "B",
+              "explanation": "住房危机的必要性五段❶句 D. 揭露其对城市地区的强烈偏见五段❸句 15 > [路径一]从题干的角度解答一如何得出正解找关键词:George Osbome 和 preference. 回文定位:根据关键词可定位至五段❸❸句，其中 preference 与五段 8 句中的 favours 相对应. 比对匹配:❸句提到，迫于游说团体的压力，George Osbome 支持在乡村新建房屋， 而非在城市翻新和重建；. 句提到，他支持郊外购物场所而不是商业街. 由此可知，George Osborne 支持在乡村新建房屋以及在城郊建设购物场所，但由此无法判断正确答案，故需联系下文. 辐射匹配:❼句提到，在建筑物不超越村镇边界且尊重村镇特点的地方，它们发展得最好；❸❾句指出，我们没有破坏城市的保护区，为什么要去破坏乡村的保护区呢？综上可推知，作者对 George Osbome 的偏好表示不满，认为其破坏了乡村的保护区，忽视了乡村地区的特色，B 选项表述与此相符，故正确. [路径二]从选项的角度解答一如何排除干扰顶关键词:lobby pressureo 回文定位:根据关键词可定位至五段❸句. 比对匹配:该句指出，迫于游说 A 囹俺的年力, George Osborne 支特查多杖新建房屋’一四见他感丛了遮说剧俺「而韭区四避堤陞体, 散排隧 A’ 迎关函瓦-housing crisis:百:菠在；屈羸美赢荷走&喜函. 瓦疏元能；袤荷锤到, W 唯膏总 C 机”等同于“混凝土草地”的观点只是游说之词，即“解决住房危机的关键在于建造更多的房屋”只是避说黄的观点一，一些妙迷提及奥新由的佩好以次作苞町速佩好应持堕否度，一一故推堡 C’ ■屈-美跆虱 against 浦 urban:面:菠匝诫福笑谥曲靛&堇备函，丘鼾低虱-函谯？George D Osborne 支持在乡村新建房屋，而非在城市翻新和重建. 此处并未提及他对城市地区有偏见的相关信息， J 故排除 D.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "The author holds that George Osborne's preference. A. highlights his firm stand against lobby pressure B. shows his disregard for the character of niral areas C. stresses the necessity of easing the housing crisis D. reveals a strong prejudice against urban areas 作者认为，乔治•奥斯本的偏好_____",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "medium",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q30",
@@ -424,7 +685,16 @@
                 "D": "the political life in today’s Britain. 英语（一）试题 .7. （共14 页）"
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "30 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -443,7 +713,16 @@
                 "D": "uncertainty."
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "31.B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q32",
@@ -455,8 +734,17 @@
                 "C": "winning trust from consumers.",
                 "D": "raising the quality of its products."
               },
-              "answer": "C",
-              "explanation": "答一如何得出正解 找关键词:Paragraph 2.CSR和companyo回文定位:根据关键词可定位至二段••句,其中company与二段 .句中的firms和firm相对应.比对匹配:二段•句指出，根据咨询公司EPG的评估，美国和英国最大的公 司每年在CSR上的支出总计超过150亿美元；二段•句指出，消费者可能会将CSR支出视为公司产品质量高 的“信号”.由此可初步判断A选项正确，但需联系上下文做进一步验证.辐射匹配:二段♦句中的This指 代二段•句中的spend more than $15 billion a year on CSR, 即在CSR方面的大量支出.此外，二段❷句中的in thme ways表明，下文将从三个方面详细说明在CSR上的支出如何帮助公司增加自身价值.二段.句提到，消 费者可能愿意购买某个公司的产品，以一种间接的方式捐助其所资助的公益事业；二段❺句提到，CSR带来的 “光环效应”会为公司赢得消费者更多的关注.结合二段❸句可知，CSR能够帮助公司赢得消费者的信任. 综上所述，CSR正是通过赢得消费者的信任来帮助公司的，故A正确. [路径二]从选项的角度解一如何排除干扰 找关键词:malpractices.回文定位「柜据美而可定位至一段®句，其与该句中的corruption相对应. B比对匹配:该句提到，至少在公司因行贿而被起诉时，CSR可能会为其创造货币价值，但并未提及CSR 可以防范公司的不法行为，故排除B. C「C斑质甬蓉色天市无注运初-支市开采痕反荏向亏诽窿]defamed）而笑颉信点]故排谣\" -液主或商Equality而「p赢ucts；百安2忘-版宓诲向苛定反至潘❸面「住好匹旎:'液面搪瓦-浦贾 D者可能会将CSR支出视为公司产品质量高的“信号”，即“产品质量高”是消费者在CSR支出的影响 下产生的主观想法，文中并未提及CSR本身能提高产品质量的相关信息，故排除D."
+              "answer": "A",
+              "explanation": "答一如何得出正解找关键词:Paragraph 2.CSR 和 companyo 回文定位:根据关键词可定位至二段••句, 其中 company 与二段. 句中的 firms 和 firm 相对应. 比对匹配:二段•句指出，根据咨询公司 EPG 的评估，美国和英国最大的公司每年在 CSR 上的支出总计超过 150 亿美元；二段•句指出，消费者可能会将 CSR 支出视为公司产品质量高的“信号”. 由此可初步判断 A 选项正确，但需联系上下文做进一步验证. 辐射匹配:二段♦句中的 This 指代二段•句中的 spend more than $15 billion a year on CSR, 即在 CSR 方面的大量支出. 此外，二段❷句中的 in thme ways 表明，下文将从三个方面详细说明在 CSR 上的支出如何帮助公司增加自身价值. 二段. 句提到，消费者可能愿意购买某个公司的产品，以一种间接的方式捐助其所资助的公益事业；二段❺句提到，CSR 带来的 “光环效应”会为公司赢得消费者更多的关注. 结合二段❸句可知，CSR 能够帮助公司赢得消费者的信任. 综上所述，CSR 正是通过赢得消费者的信任来帮助公司的，故 A 正确. [路径二]从选项的角度解一如何排除干扰找关键词:malpractices. 回文定位「柜据美而可定位至一段®句，其与该句中的 corruption 相对应. B 比对匹配:该句提到，至少在公司因行贿而被起诉时，CSR 可能会为其创造货币价值，但并未提及 CSR 可以防范公司的不法行为，故排除 B. C「C 斑质甬蓉色天市无注运初-支市开采痕反荏向亏诽窿]defamed）而笑颉信点]故排谣\" -液主或商 Equality 而「p 赢 ucts；百安 2 忘-版宓诲向苛定反至潘❸面「住好匹旎:'液面搪瓦-浦贾 D 者可能会将 CSR 支出视为公司产品质量高的“信号”，即“产品质量高”是消费者在 CSR 支出的影响下产生的主观想法，文中并未提及 CSR 本身能提高产品质量的相关信息，故排除 D.",
+              "answerMeta": {
+                "sourceType": "official-key",
+                "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+                "sourceText": "According to Paragraph 2, CSR helps a company by______. 根据二段所述，CSR 通过_ 助公司. “ _来帮选项出处 A. winning trust from consumers A. 赢得消费者的信任二段 B. guarding it against malpractices B. 防范出现不法行为一",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q33",
@@ -469,7 +757,16 @@
                 "D": "less severe."
               },
               "answer": "D",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "33 · D",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q34",
@@ -482,7 +779,16 @@
                 "D": "constitutes part of the investigation."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "34 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q35",
@@ -495,7 +801,16 @@
                 "D": "It has brought much benefit to the banking industry. 英语（一）试题 .9. （共14 页）"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "35， B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         },
@@ -514,7 +829,16 @@
                 "D": "the complaints from its readers."
               },
               "answer": "A",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "36 . A",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q37",
@@ -527,7 +851,16 @@
                 "D": "aim for efficient management."
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "37 · B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q38",
@@ -540,7 +873,16 @@
                 "D": "expands the popularity of the paper."
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "38 . B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q39",
@@ -553,7 +895,16 @@
                 "D": "legacy businesses are becoming outdated."
               },
               "answer": "C",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "39 . C",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             },
             {
               "id": "q40",
@@ -566,7 +917,16 @@
                 "D": "Cherish the Newspaper Still in Your Hand 英语（一）试题 .11. （共14 页）"
               },
               "answer": "B",
-              "explanation": ""
+              "explanation": "",
+              "answerMeta": {
+                "sourceType": "aggregate-key",
+                "sourceFile": "data/exams/_raw/ky1/2010/key_OCR_英语一真题答案速查2010-2025年.txt",
+                "sourceText": "40 · B",
+                "extractor": "exam_extract_answers.py:rule-v1",
+                "confidence": "high",
+                "verified": false,
+                "verification": "pending-review"
+              }
             }
           ]
         }
@@ -577,37 +937,98 @@
       "type": "matching",
       "title": "Section II Part B · New Question Type",
       "minutes": 15,
-      "paragraphs": [
+      "options": {
+        "A": "Create a new image of yourself",
+        "B": "Have confidence in yourself",
+        "C": "Decide if the time is right",
+        "D": "Understand the context",
+        "E": "Work with professionals",
+        "F": "Know your goals",
+        "G": "Make it efficient No matter how formal or informal the work environment, the way you present yourself has an impact. This is especially true in first impressions. According to research from Princeton University, people assess your competence, trustworthiness, and likeability in just a tenth of a second, solely based on the way you look. The difference between today’s workplace and the “dress for success” era is that the range of options is so much broader. Norms have evolved and fragmented. In some settings, red sneakers or dress T-shirts can convey status; in others not so much. Plus, whatever image we present is magnified by social-media services like Linkedln. Chances are, your headshots are seen much more often now than a decade or two ago. Millennials, it seems, face the paradox of being the least formal generation yet the most conscious of style and personal branding. It can be confusing. So how do we navigate this? How do we know when to invest in an upgrade? And what’s the best way to pull off one that enhances our goals? Here are some tips: 41. As an executive coach, I’ve seen image upgrades be particularly helpful during transitions – when looking for a new job, stepping into a new or more public role, or changing work environments. If you’re in a period of change or just feeling stuck and in a rut, now may be a good time. If you’re not sure, ask for honest feedback from trusted friends, colleagues and professionals. Look for cues 英语（一）试题 .12. （共14 页） about how others perceive you. Maybe there’s no need for an upgrade and that’s OK. 42. Get clear on what impact you’re hoping to have. Are you looking to refresh your image or pivot it? For one person, the goal may be to be taken more seriously and enhance their professional image. For another, it may be to be perceived as more approachable, or more modern and stylish. For someone moving from finance to advertising, maybe they want to look more “SoHo.” (It’s OK to use characterizations like that.) 43. Look at your work environment like an anthropologist. What are the norms of your environment? What conveys status? Who are your most important audiences? How do the people you respect and look up to present themselves? The better you understand the cultural context, the more control you can have over your impact. 44. Enlist the support of professionals and share with them your goals and context. Hire a personal stylist, or use the free styling service of a store like J.Crew. Try a hair stylist instead of a barber. Work with a professional photographer instead of your spouse or friend. It’s not as expensive as you might think. 45. The point of a style upgrade isn’t to become more vain or to spend more time fussing over what to wear. Instead, use it as an opportunity to reduce decision fatigue. Pick a standard work uniform or a few go-to options. Buy all your clothes at once with a stylist instead of shopping alone, one article of clothing at a time. 英语（一）试题 .13. （共14 页）"
+      },
+      "paragraphs": [],
+      "questions": [
         {
-          "label": "A",
-          "text": "Create a new image of yourself"
+          "id": "q41",
+          "number": 41,
+          "stem": "Para 41",
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+            "sourceText": "41. C",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
-          "label": "B",
-          "text": "Have confidence in yourself"
+          "id": "q42",
+          "number": 42,
+          "stem": "Para 42",
+          "answer": "G",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+            "sourceText": "42. G",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
-          "label": "C",
-          "text": "Decide if the time is right"
+          "id": "q43",
+          "number": 43,
+          "stem": "Para 43",
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+            "sourceText": "43. D",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
-          "label": "D",
-          "text": "Understand the context"
+          "id": "q44",
+          "number": 44,
+          "stem": "Para 44",
+          "answer": "E",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+            "sourceText": "44. E",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         },
         {
-          "label": "E",
-          "text": "Work with professionals"
-        },
-        {
-          "label": "F",
-          "text": "Know your goals"
-        },
-        {
-          "label": "G",
-          "text": "Make it efficient No matter how formal or informal the work environment, the way you present yourself has an impact. This is especially true in first impressions. According to research from Princeton University, people assess your competence, trustworthiness, and likeability in just a tenth of a second, solely based on the way you look. The difference between today’s workplace and the “dress for success” era is that the range of options is so much broader. Norms have evolved and fragmented. In some settings, red sneakers or dress T-shirts can convey status; in others not so much. Plus, whatever image we present is magnified by social-media services like Linkedln. Chances are, your headshots are seen much more often now than a decade or two ago. Millennials, it seems, face the paradox of being the least formal generation yet the most conscious of style and personal branding. It can be confusing. So how do we navigate this? How do we know when to invest in an upgrade? And what’s the best way to pull off one that enhances our goals? Here are some tips: 41. As an executive coach, I’ve seen image upgrades be particularly helpful during transitions – when looking for a new job, stepping into a new or more public role, or changing work environments. If you’re in a period of change or just feeling stuck and in a rut, now may be a good time. If you’re not sure, ask for honest feedback from trusted friends, colleagues and professionals. Look for cues 英语（一）试题 .12. （共14 页） about how others perceive you. Maybe there’s no need for an upgrade and that’s OK. 42. Get clear on what impact you’re hoping to have. Are you looking to refresh your image or pivot it? For one person, the goal may be to be taken more seriously and enhance their professional image. For another, it may be to be perceived as more approachable, or more modern and stylish. For someone moving from finance to advertising, maybe they want to look more “SoHo.” (It’s OK to use characterizations like that.) 43. Look at your work environment like an anthropologist. What are the norms of your environment? What conveys status? Who are your most important audiences? How do the people you respect and look up to present themselves? The better you understand the cultural context, the more control you can have over your impact. 44. Enlist the support of professionals and share with them your goals and context. Hire a personal stylist, or use the free styling service of a store like J.Crew. Try a hair stylist instead of a barber. Work with a professional photographer instead of your spouse or friend. It’s not as expensive as you might think. 45. The point of a style upgrade isn’t to become more vain or to spend more time fussing over what to wear. Instead, use it as an opportunity to reduce decision fatigue. Pick a standard work uniform or a few go-to options. Buy all your clothes at once with a stylist instead of shopping alone, one article of clothing at a time. 英语（一）试题 .13. （共14 页）"
+          "id": "q45",
+          "number": 45,
+          "stem": "Para 45",
+          "answer": "F",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/ky1/2016/key_2016年真题逐题细解.txt",
+            "sourceText": "45. F",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": false,
+            "verification": "pending-review"
+          }
         }
-      ],
-      "questions": []
+      ]
     },
     {
       "id": "translation",

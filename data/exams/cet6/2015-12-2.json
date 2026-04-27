@@ -30,8 +30,17 @@
             "C": "She is unable to use the new computer program.",
             "D": "She is amazed at the fast change of technology."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CBBAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q2",
@@ -43,8 +52,17 @@
             "C": "He is going out of town for a couple of days.",
             "D": "He is annoyed by the heavy traffic downtown."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CBBAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q3",
@@ -56,8 +74,17 @@
             "C": "Their expansion into the overseas market",
             "D": "The living expenses in Tokyo and Singapore."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CBBAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q4",
@@ -69,8 +96,17 @@
             "C": "The woman was very pleased to find her cell phone.",
             "D": "Reserved tickets could be picked up at the ticket counter."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CBBAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q5",
@@ -82,8 +118,17 @@
             "C": "The construction schedule may not be met.",
             "D": "Qualified carpenters are not easy to find."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【1-5】CBBAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q6",
@@ -95,8 +140,17 @@
             "C": "She resents the way she is treated.",
             "D": "She never intends to hurt anyone."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BDCAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q7",
@@ -108,8 +162,17 @@
             "C": "The woman is moving to a foreign country.",
             "D": "The man is trying to sell the woman a house."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BDCAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q8",
@@ -121,8 +184,17 @@
             "C": "They are launching a campaign to attract women voters.",
             "D": "They are conducting a survey among the women in town."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BDCAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q9",
@@ -134,8 +206,17 @@
             "C": "Remind him of his life.",
             "D": "Make him feel young."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BDCAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q10",
@@ -147,8 +228,17 @@
             "C": "He can sing any song if he likes it.",
             "D": "He loves country music in particular."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【6-10】BDCAC",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q11",
@@ -160,8 +250,17 @@
             "C": "Go to see a performance in a concert hall.",
             "D": "Go to work and wrap himself up in music."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DDABD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q12",
@@ -173,8 +272,17 @@
             "C": "How he makes his living.",
             "D": "How he does his job."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DDABD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q13",
@@ -186,8 +294,17 @@
             "C": "They polish incoming news stories.",
             "D": "They write comments on major news stories."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DDABD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q14",
@@ -199,8 +316,17 @@
             "C": "Having to change the tone of his voice from time to time.",
             "D": "Getting all the words and phrases pronounced correctly."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DDABD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q15",
@@ -212,8 +338,17 @@
             "C": "It alerts him to something important.",
             "D": "It serves as a reminder of sad news."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【11-15】DDABD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q16",
@@ -225,8 +360,17 @@
             "C": "It can be found in many parts of the world.",
             "D": "It was invented by an American Indian."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】ACABD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q17",
@@ -238,8 +382,17 @@
             "C": "They were small circus figures made of wire.",
             "D": "They were collected by a number of museums."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】ACABD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q18",
@@ -251,8 +404,17 @@
             "C": "In engineering.",
             "D": "In circus performance."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】ACABD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q19",
@@ -264,8 +426,17 @@
             "C": "They admit more students than they can handle.",
             "D": "They have trouble dealing with overseas students."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】ACABD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q20",
@@ -277,8 +448,17 @@
             "C": "A good education is necessary for one to climb the social ladder.",
             "D": "Everyone has a right to an education appropriate to his potential."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【16-20】ACABD",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q21",
@@ -290,8 +470,17 @@
             "C": "He tailors his teaching to students' needs.",
             "D": "He treats all his students in a fair manner."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ADACB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q22",
@@ -303,8 +492,17 @@
             "C": "It has a direct impact on the international oil market.",
             "D": "It equals more than 30 million barrels of oil each day."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "D",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ADACB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q23",
@@ -316,8 +514,17 @@
             "C": "Its use is chiefly responsible for air pollution.",
             "D": "Part of it is lost in the process of transmission."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "A",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ADACB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q24",
@@ -329,8 +536,17 @@
             "C": "When it operates at near capacity.",
             "D": "When it operates at regular times."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "C",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ADACB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         },
         {
           "id": "q25",
@@ -342,8 +558,17 @@
             "C": "Fuel shortage.",
             "D": "Global warming."
           },
-          "answer": null,
-          "explanation": ""
+          "answer": "B",
+          "explanation": "",
+          "answerMeta": {
+            "sourceType": "official-key",
+            "sourceFile": "data/exams/_raw/cet6/2015-12-2/paper_卷二_2015年12月英语六级真题及答案.txt",
+            "sourceText": "【21-25】ADACB",
+            "extractor": "exam_extract_answers.py:rule-v1",
+            "confidence": "high",
+            "verified": true,
+            "verification": "official-answer-summary"
+          }
         }
       ]
     },
