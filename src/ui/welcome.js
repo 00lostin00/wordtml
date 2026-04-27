@@ -5,8 +5,16 @@
 const SEEN_KEY = "wordtml_welcome_seen_v1";
 
 export function initWelcome() {
-  if (localStorage.getItem(SEEN_KEY)) return;
-  mountWelcome();
+  // 首次访问自动弹出
+  if (!localStorage.getItem(SEEN_KEY)) mountWelcome();
+
+  // 右下角常驻「?」按钮，随时可重新打开
+  const btn = document.createElement("button");
+  btn.className = "wl-help-btn";
+  btn.textContent = "?";
+  btn.title = "使用说明";
+  btn.addEventListener("click", mountWelcome);
+  document.body.appendChild(btn);
 }
 
 function mountWelcome() {
@@ -25,7 +33,9 @@ function mountWelcome() {
       </div>
 
       <div class="wl-body">
-        <p class="wl-intro">欢迎使用 wordtml —— 专注于 CET-6 / 考研英语一的单词记忆与真题练习网站。</p>
+        <p class="wl-intro">欢迎使用 wordtml —— 专注于 CET-6 / 考研英语一的单词记忆与真题练习网站。<br>
+          <a href="https://github.com/00lostin00/wordtml" target="_blank" class="wl-inline-link">github.com/00lostin00/wordtml</a>
+        </p>
 
         <div class="wl-section">
           <div class="wl-section-title">📖 单词学习</div>
@@ -68,11 +78,16 @@ function mountWelcome() {
       </div>
 
       <div class="wl-footer">
-        <label class="wl-check-label">
-          <input type="checkbox" id="wl-no-show" />
-          不再显示
-        </label>
-        <button class="wl-start-btn" id="wl-start">开始使用</button>
+        <a class="wl-footer-link" href="https://github.com/00lostin00/wordtml" target="_blank">
+          github.com/00lostin00/wordtml
+        </a>
+        <div class="wl-footer-right">
+          <label class="wl-check-label">
+            <input type="checkbox" id="wl-no-show" />
+            不再显示
+          </label>
+          <button class="wl-start-btn" id="wl-start">开始使用</button>
+        </div>
       </div>
     </div>
   `;

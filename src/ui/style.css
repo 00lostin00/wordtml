@@ -950,3 +950,34 @@ input:focus, select:focus, textarea:focus { border-color: var(--accent); }
   transition: color .15s;
 }
 .wl-gh-link:hover { color: var(--fg); }
+
+/* ── 使用说明浮动按钮 ───────────────────────────────────────── */
+.wl-help-btn {
+  position: fixed;
+  right: 76px;
+  bottom: 28px;
+  z-index: 1000;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--fg-dim);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,.25);
+  transition: color .15s, border-color .15s;
+  display: flex; align-items: center; justify-content: center;
+}
+.wl-help-btn:hover { color: var(--fg); border-color: var(--accent); }
+
+.wl-footer { flex-wrap: wrap; gap: 8px; }
+.wl-footer-link {
+  font-size: 12px; color: var(--fg-faint);
+  text-decoration: none; transition: color .15s;
+}
+.wl-footer-link:hover { color: var(--accent); }
+.wl-footer-right { display: flex; align-items: center; gap: 12px; margin-left: auto; }
+.wl-inline-link { font-size: 13px; color: var(--accent); }
+.wl-inline-link:hover { color: var(--accent-strong); }
