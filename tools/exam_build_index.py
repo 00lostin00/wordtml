@@ -38,6 +38,39 @@ EXPECTED_BY_TYPE = {
     "ky1": KY1_EXPECTED,
 }
 
+OBJECTIVE_SECTION_TYPES = {"listening", "banked-cloze", "matching", "reading-mcq"}
+
+
+def iter_objective_questions(exam: dict):
+    for section in exam.get("sections", []):
+        if section.get("type") not in OBJECTIVE_SECTION_TYPES:
+            continue
+        for question in section.get("questions") or []:
+            yield question
+        for passage in section.get("passages") or []:
+            for question in passage.get("questions") or []:
+                yield question
+
+
+def objective_stats(exam: dict) -> dict:
+    total = 0
+    scorable = 0
+    verified = 0
+    for question in iter_objective_questions(exam):
+        total += 1
+        if question.get("answer"):
+            scorable += 1
+            if question.get("answerMeta", {}).get("verified") is True:
+                verified += 1
+    coverage = scorable / total if total else 0
+    return {
+        "objectiveTotal": total,
+        "objectiveScorable": scorable,
+        "objectiveVerified": verified,
+        "objectiveAnswerCoverage": round(coverage, 2),
+        "objectiveReady": scorable > 0,
+    }
+
 
 def grade_exam(exam: dict) -> dict:
     expected = EXPECTED_BY_TYPE.get(exam.get("type"), CET6_EXPECTED)
@@ -117,6 +150,7 @@ def main():
                 print(f"SKIP {f.name}: {e}")
                 continue
             grade = grade_exam(exam)
+            obj = objective_stats(exam)
             label = grade_to_label(grade)
             out["exams"].append({
                 "id": exam.get("id", f.stem),
@@ -128,6 +162,7 @@ def main():
                 "file": f"{type_}/{f.name}",
                 "completeness": round(grade["completeness"], 2),
                 "label": label,
+                **obj,
                 "sectionStatus": grade["section_status"],
                 "issues": grade["issues"],
             })
@@ -139,6 +174,7 @@ def main():
         "near": sum(1 for e in out["exams"] if e["label"] == "near-complete"),
         "partial": sum(1 for e in out["exams"] if e["label"] == "partial"),
         "paperOnly": sum(1 for e in out["exams"] if e["label"] == "paper-only"),
+        "objectiveReady": sum(1 for e in out["exams"] if e.get("objectiveReady")),
     }
 
     out_path = EXAMS_BASE / "index.json"

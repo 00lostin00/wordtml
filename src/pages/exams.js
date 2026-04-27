@@ -4,7 +4,7 @@
  */
 import { el } from "../ui/components.js";
 import { store } from "../core/store.js";
-import { getExamIndex, groupByYear, LABEL_INFO } from "../core/exam-loader.js";
+import { examStatusInfo, getExamIndex, groupByYear, isExamPlayable } from "../core/exam-loader.js";
 import { tryGetExamAttempts, trySyncExamAttempts } from "../core/local-db.js";
 
 export async function render(ctx) {
@@ -39,6 +39,7 @@ export async function render(ctx) {
       el("span", { class: "pill" }, `近完整 ${summary.near || 0}`),
       el("span", { class: "pill warn" }, `部分 ${summary.partial || 0}`),
       el("span", { class: "pill" }, `残缺 ${summary.paperOnly || 0}`),
+      el("span", { class: "pill ok" }, `可做 ${summary.objectiveReady || 0}`),
       el("button", { class: "ghost", onClick: () => router.go("/practice") }, "随机刷题"),
     ]),
   ]));
@@ -60,15 +61,16 @@ export async function render(ctx) {
     }, typeLabel(t))),
   ]));
 
-  // 提示:答案库待补
+  const playableCount = filtered.filter(isExamPlayable).length;
+
+  // 提示:客观题答案已接入
   host.appendChild(el("div", { class: "card", style: "margin-bottom:16px" }, [
-    el("div", { class: "section-title" }, "PoC 提示"),
+    el("div", { class: "section-title" }, "客观题模式"),
     el("div", { style: "color:var(--fg-dim)" }, [
-      "目前已结构化 ", el("strong", {}, String(filtered.length)), " 套真题。",
-      "可点击 ", el("strong", { style: "color:var(--ok)" }, "完整"),
-      " / ", el("strong", { style: "color:var(--accent)" }, "近完整"),
-      " 状态的卷子开始做题。",
-      el("div", { style: "margin-top:6px" }, "答案库还在抽取中(Step 2.5),提交后只能看到结构化的题目和你自己的作答。"),
+      "目前已结构化 ", el("strong", {}, String(filtered.length)), " 套真题，其中 ",
+      el("strong", { style: "color:var(--ok)" }, String(playableCount)),
+      " 套有可判分客观题答案，可直接点击做题。",
+      el("div", { style: "margin-top:6px" }, "作文、翻译缺失时仍会显示完整度问题，但不会再锁住已接入答案的客观题。"),
     ]),
   ]));
 
@@ -93,6 +95,7 @@ function typeLabel(t) {
 
 function renderHub(host, router, exams, attempts, summary) {
   const byType = countByType(exams);
+  const playableByType = countPlayableByType(exams);
   const attemptsByType = countAttemptsByType(attempts, exams);
   host.appendChild(el("div", { class: "grid cols-2", style: "margin-bottom:16px" }, [
     typeCard({
@@ -100,7 +103,7 @@ function renderHub(host, router, exams, attempts, summary) {
       title: "大学英语六级",
       desc: "听力、阅读、写作、翻译 6 个 section",
       count: byType.cet6 || 0,
-      playable: (summary.complete || 0) + (summary.near || 0),
+      playable: playableByType.cet6 || 0,
       attempts: attemptsByType.cet6 || 0,
       enabled: true,
       router,
@@ -110,7 +113,7 @@ function renderHub(host, router, exams, attempts, summary) {
       title: "考研英语一",
       desc: "完型、阅读、新题型、翻译、写作",
       count: byType.ky1 || 0,
-      playable: 0,
+      playable: playableByType.ky1 || 0,
       attempts: attemptsByType.ky1 || 0,
       enabled: true,
       router,
@@ -147,8 +150,8 @@ function typeCard({ type, title, desc, count, playable, attempts, enabled, route
 }
 
 function examCard(exam, router, latestAttempt) {
-  const info = LABEL_INFO[exam.label] || LABEL_INFO["paper-only"];
-  const playable = info.playable;
+  const info = examStatusInfo(exam);
+  const playable = isExamPlayable(exam);
   const monthLabel = exam.month ? `${exam.month}月` : "";
   const setLabel = exam.set ? `第${exam.set}套` : "";
 
@@ -168,6 +171,10 @@ function examCard(exam, router, latestAttempt) {
     ]),
     el("div", { class: "label", style: "margin-top:6px" },
       `完整度 ${Math.round(exam.completeness * 100)}%`),
+    exam.objectiveTotal
+      ? el("div", { class: "label", style: "margin-top:4px; color:var(--accent)" },
+          `客观题 ${exam.objectiveScorable || 0}/${exam.objectiveTotal} 可判分`)
+      : null,
     exam.issues && exam.issues.length
       ? el("div", { class: "label", style: "margin-top:4px; color:var(--fg-faint); font-size:11px" },
           "缺:" + exam.issues.slice(0, 2).join(", "))
@@ -210,6 +217,14 @@ function mergeAttempts(browserRows, localRows) {
 function countByType(exams) {
   const out = {};
   for (const exam of exams) out[exam.type] = (out[exam.type] || 0) + 1;
+  return out;
+}
+
+function countPlayableByType(exams) {
+  const out = {};
+  for (const exam of exams) {
+    if (isExamPlayable(exam)) out[exam.type] = (out[exam.type] || 0) + 1;
+  }
   return out;
 }
 

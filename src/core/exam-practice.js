@@ -1,9 +1,13 @@
 /**
  * 真题随机刷题:把完整/近完整卷拆成可抽取的完整子单元。
  */
-import { getExamIndex, loadExam } from "./exam-loader.js";
+import { getExamIndex, isExamPlayable, loadExam } from "./exam-loader.js";
 
 export const PRACTICE_TYPES = {
+  "cloze": {
+    title: "完形填空",
+    desc: "随机抽一篇考研完形,带 20 道选择题。",
+  },
   "reading-mcq": {
     title: "仔细阅读",
     desc: "随机抽一篇阅读,带完整 5 道选择题。",
@@ -31,9 +35,7 @@ let unitCache = null;
 export async function getPracticeUnits() {
   if (unitCache) return unitCache;
   const idx = await getExamIndex();
-  const playable = (idx.exams || []).filter((exam) =>
-    exam.type === "cet6" && ["complete", "near-complete"].includes(exam.label)
-  );
+  const playable = (idx.exams || []).filter(isExamPlayable);
   const units = [];
   for (const entry of playable) {
     const exam = await loadExam(entry.id);
@@ -43,12 +45,13 @@ export async function getPracticeUnits() {
   return units;
 }
 
-export async function findPracticeUnit({ type, from, pIdx }) {
+export async function findPracticeUnit({ type, from, pIdx, section }) {
   const units = await getPracticeUnits();
   return units.find((unit) =>
     unit.type === type &&
     unit.examId === from &&
-    String(unit.pIdx) === String(pIdx || 0)
+    String(unit.pIdx) === String(pIdx || 0) &&
+    (!section || unit.sectionId === section)
   ) || null;
 }
 
@@ -66,7 +69,7 @@ export function pickRandomUnit(units, type) {
 }
 
 export function unitQuery(unit) {
-  return { type: unit.type, from: unit.examId, pIdx: unit.pIdx };
+  return { type: unit.type, from: unit.examId, pIdx: unit.pIdx, section: unit.sectionId };
 }
 
 export function unitSourceLabel(unit) {
@@ -80,9 +83,11 @@ function buildUnits(entry, exam) {
   for (const section of exam.sections || []) {
     if (!sectionReady(entry, section)) continue;
     if (section.type === "reading-mcq") {
+      const practiceType = section.id === "cloze" ? "cloze" : "reading-mcq";
       (section.passages || []).forEach((passage, idx) => {
         if (!passage || !(passage.questions || []).length) return;
-        units.push(makeUnit(entry, exam, section.type, idx, section, {
+        if (!questionsHaveAnswers(passage.questions || [])) return;
+        units.push(makeUnit(entry, exam, practiceType, idx, section, {
           ...section,
           title: `${section.title || "仔细阅读"} · ${passage.label || `Passage ${idx + 1}`}`,
           passages: [passage],
@@ -92,6 +97,8 @@ function buildUnits(entry, exam) {
     }
     if (!PRACTICE_TYPES[section.type]) continue;
     if (!hasContent(section)) continue;
+    if (section.type !== "writing" && section.type !== "translation" &&
+        !questionsHaveAnswers(section.questions || [])) continue;
     units.push(makeUnit(entry, exam, section.type, 0, section, section, section.title));
   }
   return units;
@@ -100,7 +107,8 @@ function buildUnits(entry, exam) {
 function sectionReady(entry, section) {
   const status = entry.sectionStatus || {};
   const key = section.id || section.type;
-  return !status[key] || status[key] === "ok";
+  if (!status[key] || status[key] === "ok") return true;
+  return sectionQuestionCount(section) > 0 && sectionAnswerCount(section) > 0;
 }
 
 function makeUnit(entry, exam, type, pIdx, originalSection, section, label) {
@@ -130,4 +138,23 @@ function hasContent(section) {
   if (section.type === "banked-cloze") return Boolean(section.passage && (section.questions || []).length);
   if (section.type === "matching") return Boolean((section.paragraphs || []).length && (section.questions || []).length);
   return false;
+}
+
+function sectionQuestions(section) {
+  return [
+    ...(section.questions || []),
+    ...((section.passages || []).flatMap((passage) => passage.questions || [])),
+  ];
+}
+
+function sectionQuestionCount(section) {
+  return sectionQuestions(section).length;
+}
+
+function sectionAnswerCount(section) {
+  return sectionQuestions(section).filter((question) => question.answer).length;
+}
+
+function questionsHaveAnswers(questions) {
+  return questions.length > 0 && questions.every((question) => question.answer);
 }

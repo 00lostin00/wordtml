@@ -12,6 +12,7 @@ export async function render(ctx) {
     type: query.type,
     from: query.from,
     pIdx: query.pIdx || 0,
+    section: query.section,
   });
 
   if (!unit) {

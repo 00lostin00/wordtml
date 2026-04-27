@@ -32,7 +32,7 @@ export async function render(ctx) {
   host.appendChild(el("div", { class: "row between", style: "margin-bottom:16px" }, [
     el("div", {}, [
       el("h2", { style: "margin:0" }, "随机刷题"),
-      el("div", { class: "label" }, `已从完整/近完整 CET-6 真题中整理出 ${units.length} 个可抽子单元`),
+      el("div", { class: "label" }, `已从可判分真题中整理出 ${units.length} 个可抽客观题/主观题子单元`),
     ]),
     el("button", { class: "ghost", onClick: () => router.go("/exams") }, "真题中心"),
   ]));
@@ -84,7 +84,7 @@ function recentRow(router, item) {
     ]),
     el("button", {
       class: "ghost",
-      onClick: () => router.go("/random", { type: item.type, from: item.examId, pIdx: item.pIdx }),
+      onClick: () => router.go("/random", { type: item.type, from: item.examId, pIdx: item.pIdx, section: item.sectionId }),
     }, "继续做"),
   ]);
 }
@@ -95,6 +95,7 @@ function remember(unit) {
     type: unit.type,
     examId: unit.examId,
     pIdx: unit.pIdx,
+    sectionId: unit.sectionId,
     title: unit.title,
     source: unitSourceLabel(unit),
     at: Date.now(),

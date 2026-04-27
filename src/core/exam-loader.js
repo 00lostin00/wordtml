@@ -56,3 +56,20 @@ export const LABEL_INFO = {
   "partial":       { text: "部分",   color: "var(--warn)",   playable: false },
   "paper-only":    { text: "残缺",   color: "var(--fg-faint)", playable: false },
 };
+
+export function hasObjectiveAnswers(exam) {
+  return Number(exam?.objectiveScorable || 0) > 0;
+}
+
+export function isExamPlayable(exam) {
+  const labelPlayable = LABEL_INFO[exam?.label]?.playable;
+  return Boolean(labelPlayable || exam?.objectiveReady || hasObjectiveAnswers(exam));
+}
+
+export function examStatusInfo(exam) {
+  const info = LABEL_INFO[exam?.label] || LABEL_INFO["paper-only"];
+  if (isExamPlayable(exam) && !info.playable) {
+    return { ...info, text: "客观题可做", color: "var(--accent)", playable: true };
+  }
+  return info;
+}
