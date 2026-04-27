@@ -257,12 +257,8 @@ data/exams/
 - `data/exams/index.json`：真题索引
 - `data/exams/ky1/*.json`：考研英语一结构化试卷
 - `data/exams/cet6/*.json`：CET-6 结构化试卷
-- `data/exams/_answer_report_ky1.json`：KY1 答案覆盖报告
-- `data/exams/_answer_audit_report.json`：答案质量审计报告
-- `data/exams/_validation_report.json`：结构校验报告
-- `data/exams/_raw/ky1/`：KY1 原始抽取文本
-- `data/exams/_raw/cet6/`：CET-6 原始抽取文本
-- `data/exams/_raw/cet6_listening/`：单独整理的 CET-6 听力原文/答案文本
+
+仓库中只保留前端运行需要的结构化 JSON。原始抽取文本、听力原文整理文件、答案覆盖报告、解析报告和校验报告属于本地维护资料，不影响网站运行，默认不提交到 GitHub。
 
 当前索引规模：
 
@@ -336,6 +332,11 @@ python tools/exam_validate.py ky1 --all
 - `tmp_*`
 - `data/external/`
 - `data/reports/`
+- `data/exams/_raw/`
+- `data/exams/_answer_report*.json`
+- `data/exams/_answer_audit_report.json`
+- `data/exams/_parse_report.json`
+- `data/exams/_validation_report.json`
 - `cet_eg/`
 - `KY_eg/`
 

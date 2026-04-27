@@ -18,6 +18,11 @@ data/wordlists/cet6.json.bak
 data/wordlists/*.pre-*.json
 data/external/
 data/reports/
+data/exams/_raw/
+data/exams/_answer_report*.json
+data/exams/_answer_audit_report.json
+data/exams/_parse_report.json
+data/exams/_validation_report.json
 
 # Local exam/PDF reference materials
 cet_eg/
